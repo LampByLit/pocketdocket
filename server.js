@@ -450,12 +450,15 @@ app.post('/api/cases/parse', async (req, res) => {
 Your task:
 1. Identify up to 4 individuals involved in the case (plaintiffs, defendants, witnesses, etc.)
 2. For each individual, identify their role (e.g., "estranged husband", "wife", "defendant", "plaintiff", "witness")
-3. Extract evidence and facts from the case (e.g., "Ross has been to jail before", "The property was valued at $13,000")
+3. For each individual, determine if they are deceased (dead) in the case. Set "isDeceased" to true if the case mentions they died, were killed, are deceased, or are dead. Otherwise set it to false.
+4. Extract evidence and facts from the case (e.g., "Ross has been to jail before", "The property was valued at $13,000")
+
+IMPORTANT: Only include living individuals (isDeceased: false) in the individuals array. Do NOT include deceased individuals - they cannot be assigned to NPCs in the game.
 
 Return your response as a JSON object with this exact structure:
 {
     "individuals": [
-        {"name": "Individual Name", "role": "their role in the case"},
+        {"name": "Individual Name", "role": "their role in the case", "isDeceased": false},
         ...
     ],
     "evidence": [
@@ -465,7 +468,7 @@ Return your response as a JSON object with this exact structure:
     ]
 }
 
-Be concise. Extract only the most relevant individuals (up to 4) and key evidence/facts.`;
+Be concise. Extract only the most relevant LIVING individuals (up to 4) and key evidence/facts.`;
 
         const response = await fetch('https://api.deepseek.com/v1/chat/completions', {
             method: 'POST',
@@ -512,8 +515,23 @@ Be concise. Extract only the most relevant individuals (up to 4) and key evidenc
             }
         }
 
+        // Filter out deceased individuals - only include living people
+        let individuals = parsed.individuals || [];
+        individuals = individuals.filter(ind => {
+            // Exclude if explicitly marked as deceased
+            if (ind.isDeceased === true) {
+                return false;
+            }
+            // Also check role for common deceased indicators
+            const role = (ind.role || '').toLowerCase();
+            if (role.includes('deceased') || role.includes('dead') || role.includes('killed') || role.includes('murdered')) {
+                return false;
+            }
+            return true;
+        });
+
         res.json({
-            individuals: parsed.individuals || [],
+            individuals: individuals,
             evidence: parsed.evidence || []
         });
     } catch (error) {
@@ -623,7 +641,7 @@ app.post('/api/cases/assign-npcs', async (req, res) => {
         });
     }
 
-    const { individuals, availableNPCs } = req.body;
+    let { individuals, availableNPCs } = req.body;
 
     if (!individuals || !Array.isArray(individuals) || individuals.length === 0) {
         return res.status(400).json({ error: 'Individuals array is required' });
@@ -633,10 +651,32 @@ app.post('/api/cases/assign-npcs', async (req, res) => {
         return res.status(400).json({ error: 'Available NPCs array is required' });
     }
 
+    // Safety filter: Remove any deceased individuals before assignment
+    individuals = individuals.filter(ind => {
+        // Exclude if explicitly marked as deceased
+        if (ind.isDeceased === true) {
+            console.log(`[ASSIGN] Filtering out deceased individual: ${ind.name} (${ind.role})`);
+            return false;
+        }
+        // Also check role for common deceased indicators
+        const role = (ind.role || '').toLowerCase();
+        if (role.includes('deceased') || role.includes('dead') || role.includes('killed') || role.includes('murdered')) {
+            console.log(`[ASSIGN] Filtering out deceased individual by role: ${ind.name} (${ind.role})`);
+            return false;
+        }
+        return true;
+    });
+
+    if (individuals.length === 0) {
+        return res.status(400).json({ error: 'No living individuals to assign (all are deceased)' });
+    }
+
     try {
         const systemPrompt = `You are an NPC role assignment system. Match case individuals to NPCs based on their names and characteristics.
 
-For each individual from the case, select the best matching NPC from the available list. Consider:
+IMPORTANT: Only assign NPCs to LIVING individuals. Do NOT assign NPCs to deceased, dead, or killed individuals. If an individual is marked as deceased (isDeceased: true) or has a role indicating death (e.g., "deceased victim", "murdered", "killed"), skip them entirely.
+
+For each LIVING individual from the case, select the best matching NPC from the available list. Consider:
 - Name similarity (if any)
 - Characteristic compatibility with the role
 - Overall fit
@@ -649,7 +689,7 @@ Return your response as a JSON object with this exact structure:
     ]
 }
 
-Assign up to 4 NPCs (one per individual, or fewer if there are fewer individuals).`;
+Assign up to 4 NPCs (one per LIVING individual, or fewer if there are fewer living individuals).`;
 
         const userMessage = `Case individuals:\n${JSON.stringify(individuals, null, 2)}\n\nAvailable NPCs:\n${JSON.stringify(availableNPCs, null, 2)}\n\nMatch individuals to NPCs.`;
 

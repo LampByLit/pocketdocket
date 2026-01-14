@@ -270,17 +270,29 @@ function AssignNPCsToRolesFallback(individuals) {
     const availableNPCs = allNPCs.filter(npc => npc && npc.surname && !IsNPCBanished(npc.surname));
     const shuffledNPCs = availableNPCs.slice();
     
+    // Filter out deceased individuals in fallback too
+    const livingIndividuals = individuals.filter(ind => {
+        if (ind.isDeceased === true) {
+            return false;
+        }
+        const role = (ind.role || '').toLowerCase();
+        if (role.includes('deceased') || role.includes('dead') || role.includes('killed') || role.includes('murdered')) {
+            return false;
+        }
+        return true;
+    });
+    
     // Shuffle
     for (let i = shuffledNPCs.length - 1; i > 0; i--) {
         const j = RandInt(i + 1);
         [shuffledNPCs[i], shuffledNPCs[j]] = [shuffledNPCs[j], shuffledNPCs[i]];
     }
     
-    for (let i = 0; i < Math.min(individuals.length, shuffledNPCs.length, 4); i++) {
+    for (let i = 0; i < Math.min(livingIndividuals.length, shuffledNPCs.length, 4); i++) {
         assignments.push({
             npc: shuffledNPCs[i],
-            role: individuals[i].role || 'witness',
-            individual: individuals[i]
+            role: livingIndividuals[i].role || 'witness',
+            individual: livingIndividuals[i]
         });
     }
     
@@ -577,14 +589,30 @@ async function InitializeNewCase() {
     
     // 4. Parse case to extract individuals and evidence
     const parsed = await ParseCase(caseData);
-    const individuals = parsed.individuals || [];
+    let individuals = parsed.individuals || [];
     const evidence = parsed.evidence || [];
     
+    // Filter out deceased individuals - only assign living people to NPCs
+    individuals = individuals.filter(ind => {
+        // Exclude if explicitly marked as deceased
+        if (ind.isDeceased === true) {
+            console.log(`[CASE] Filtering out deceased individual: ${ind.name} (${ind.role})`);
+            return false;
+        }
+        // Also check role for common deceased indicators (safety check)
+        const role = (ind.role || '').toLowerCase();
+        if (role.includes('deceased') || role.includes('dead') || role.includes('killed') || role.includes('murdered')) {
+            console.log(`[CASE] Filtering out deceased individual by role: ${ind.name} (${ind.role})`);
+            return false;
+        }
+        return true;
+    });
+    
     if (individuals.length === 0) {
-        console.warn('No individuals found in case');
+        console.warn('No living individuals found in case (all may be deceased)');
     }
     
-    // 5. Assign NPCs to roles
+    // 5. Assign NPCs to roles (only living individuals)
     const witnesses = await AssignNPCsToRoles(individuals);
     if (witnesses.length === 0) {
         console.warn('No witnesses assigned');
