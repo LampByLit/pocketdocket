@@ -449,7 +449,8 @@ async function GenerateGreeting(npc) {
                     characteristic: npc.characteristic,
                     emoji: npc.emoji,
                     job: npc.job || '', // Ensure job is always a string
-                    isJudge: npc.isJudge || false
+                    isJudge: npc.isJudge || false,
+                    temperature: npc.temperature || 0.3
                 },
                 gameTime: gameTimeData
             })
@@ -892,13 +893,14 @@ async function SendMessage() {
                         },
                         body: JSON.stringify({
                             message: contextMessage,
-                            npcData: {
-                                surname: currentDialogueNPC.surname,
-                                characteristic: currentDialogueNPC.characteristic,
-                                emoji: currentDialogueNPC.emoji,
-                                job: currentDialogueNPC.job || '',
-                                isJudge: currentDialogueNPC.isJudge || false
-                            },
+                npcData: {
+                    surname: currentDialogueNPC.surname,
+                    characteristic: currentDialogueNPC.characteristic,
+                    emoji: currentDialogueNPC.emoji,
+                    job: currentDialogueNPC.job || '',
+                    isJudge: currentDialogueNPC.isJudge || false,
+                    temperature: currentDialogueNPC.temperature || 0.3
+                },
                             activeCase: activeCase,
                             completedCase: completedCase,
                             gameTime: gameTimeData
@@ -1038,7 +1040,8 @@ async function SendMessage() {
                                     surname: currentDialogueNPC.surname,
                                     characteristic: currentDialogueNPC.characteristic,
                                     emoji: currentDialogueNPC.emoji,
-                                    job: currentDialogueNPC.job || ''
+                                    job: currentDialogueNPC.job || '',
+                                    temperature: currentDialogueNPC.temperature || 0.3
                                 },
                                 forceNew: true // Force generation of new document for "another offer"
                             })
@@ -1186,7 +1189,8 @@ async function SendMessage() {
                             surname: currentDialogueNPC.surname,
                             characteristic: currentDialogueNPC.characteristic,
                             emoji: currentDialogueNPC.emoji,
-                            job: currentDialogueNPC.job || ''
+                            job: currentDialogueNPC.job || '',
+                            temperature: currentDialogueNPC.temperature || 0.3
                         }
                     })
                 });
@@ -1485,7 +1489,8 @@ async function SendMessage() {
                     characteristic: currentDialogueNPC.characteristic,
                     emoji: currentDialogueNPC.emoji,
                     job: currentDialogueNPC.job || '', // Ensure job is always a string
-                    isJudge: currentDialogueNPC.isJudge || false
+                    isJudge: currentDialogueNPC.isJudge || false,
+                    temperature: currentDialogueNPC.temperature || 0.3
                 },
                 activeCase: activeCase,
                 completedCase: completedCase,

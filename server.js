@@ -1914,10 +1914,12 @@ ${isJudge ? `REMEMBER: You are Judge ${surname}, a judge presiding over legal ca
         }
         
         // Call DeepSeek API
+        // Use NPC's individual temperature (0.2-0.8 range) or fallback to 0.3
+        const npcTemperature = npcData.temperature !== undefined ? npcData.temperature : 0.3;
         const requestBody = {
             model: process.env.DEEPSEEK_MODEL || 'deepseek-chat',
             messages: messages,
-            temperature: 0.3, // LOWER temperature to make it more deterministic and follow instructions
+            temperature: npcTemperature,
             max_tokens: 150 // Limit to 1-2 sentences
         };
         
@@ -2182,6 +2184,8 @@ app.post('/api/npc/generate-document/:surname', async (req, res) => {
         
         const userPrompt = `Create a unique ${documentType} document that is relevant to your recent conversation with the player and reflects your knowledge. It should be approximately 100 words (maximum 100 words), professional, and reflect your work as a ${job}. Be creative and specific - this is an original document you've created that relates to what you and the player have been discussing.`;
         
+        // Use NPC's individual temperature (0.2-0.8 range) or fallback to 0.8 for document creativity
+        const npcTemperature = npcData.temperature !== undefined ? npcData.temperature : 0.8;
         const requestBody = {
             model: process.env.DEEPSEEK_MODEL || 'deepseek-chat',
             messages: [
@@ -2194,7 +2198,7 @@ app.post('/api/npc/generate-document/:surname', async (req, res) => {
                     content: userPrompt
                 }
             ],
-            temperature: 0.8,
+            temperature: npcTemperature,
             max_tokens: 150
         };
         
@@ -2228,6 +2232,8 @@ app.post('/api/npc/generate-document/:surname', async (req, res) => {
             const titleContext = conversationContext ? `\n\nContext from recent conversation:\n${conversationContext}` : '';
             const titlePrompt = `Generate a short, professional title (3-8 words) for this ${documentType} document created by a ${job}. The title should reflect the document's content and be relevant to your conversation with the player. Just return the title, nothing else.${titleContext}`;
             
+            // Use NPC's individual temperature for title generation too
+            const titleTemperature = npcData.temperature !== undefined ? npcData.temperature : 0.7;
             const titleResponse = await fetch('https://api.deepseek.com/v1/chat/completions', {
                 method: 'POST',
                 headers: {
@@ -2246,7 +2252,7 @@ app.post('/api/npc/generate-document/:surname', async (req, res) => {
                             content: titlePrompt
                         }
                     ],
-                    temperature: 0.7,
+                    temperature: titleTemperature,
                     max_tokens: 30
                 })
             });
@@ -2402,13 +2408,15 @@ ${greetingContext}${dateTimeContext}
 
 ${isJudge ? `REMEMBER: You are Judge ${surname}, a judge presiding over legal cases. Always stay in character as a judge. CRITICAL: The player ALWAYS represents the DEFENSE in all cases.` : `REMEMBER: Your job is ${job}. You are a ${job}.`}`;
         
+        // Use NPC's individual temperature (0.2-0.8 range) or fallback to 0.3
+        const npcTemperature = npcData.temperature !== undefined ? npcData.temperature : 0.3;
         const requestBody = {
             model: process.env.DEEPSEEK_MODEL || 'deepseek-chat',
             messages: [
                 { role: 'system', content: systemPrompt },
                 { role: 'user', content: 'Hello!' }
             ],
-            temperature: 0.3, // LOWER temperature to make it more deterministic and follow instructions
+            temperature: npcTemperature,
             max_tokens: 100
         };
         

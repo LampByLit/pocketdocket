@@ -365,6 +365,7 @@ class NPC extends MyGameObject
         this.job = job; // NPC's profession (e.g., 'lawyer', 'judge', 'clerk', 'shopkeeper')
         this.isNPC = 1;
         this.canSellDocuments = false; // Set during generation - ~50% of NPCs can sell documents
+        this.temperature = RandBetween(0.2, 0.8); // Random temperature for AI response variety (0.2-0.8 range)
         
         // Movement properties
         this.moveSpeed = RandBetween(0.02, 0.05); // Very slow, graceful movement
