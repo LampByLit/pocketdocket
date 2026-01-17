@@ -14,8 +14,10 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Trust proxy - required when behind a reverse proxy (e.g., Railway, Heroku, etc.)
+// Set to 1 to trust only the first proxy (Railway's load balancer)
 // This allows express-rate-limit to correctly identify client IPs from X-Forwarded-For header
-app.set('trust proxy', true);
+// while preventing spoofing attacks (more secure than 'true')
+app.set('trust proxy', 1);
 
 // Rate limiting - 30 requests per minute per IP (only for API routes)
 const limiter = rateLimit({
