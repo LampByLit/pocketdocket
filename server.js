@@ -26,6 +26,11 @@ const limiter = rateLimit({
     message: 'Too many requests, please try again later.',
     standardHeaders: true,
     legacyHeaders: false,
+    // Disable trustProxy validation since we're correctly using 'trust proxy: 1'
+    // which trusts only the first proxy (Railway's load balancer) - this is secure
+    validate: {
+        trustProxy: false
+    }
 });
 
 // Middleware
