@@ -1,0 +1,102 @@
+{
+  "id": 6787079,
+  "name": "Gary Gatti, Appellant, v. Vincent Rago, Respondent",
+  "name_abbreviation": "Gatti v. Rago",
+  "decision_date": "2016-06-15",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 41"
+    },
+    {
+      "type": "parallel",
+      "cite": "35 N.Y.S.3d 828"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "89 NY2d 364",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        319975
+      ],
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0364-01"
+      ]
+    },
+    {
+      "cite": "4 AD3d 502",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        26963
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/4/0502-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 219,
+    "char_count": 3052,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18244673724220986
+    },
+    "sha256": "6050bda0307d8ba2b7cdc7cf799569f1cef3fc972cdfee833936e64cf0a80cc2",
+    "simhash": "1:afc1da74b1676f59",
+    "word_count": 513
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Maraño, P.J., Tolbert and Brands, JJ., concur."
+    ],
+    "parties": [
+      "Gary Gatti, Appellant, v Vincent Rago, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is reversed, without costs, plaintiffs motion to extend the time to submit a judgment is granted, and the time to submit the judgment is extended to 30 days from the date of this decision and order.\nPlaintiff asserted three causes of action against defendant, including one based on defendant’s failure to vacate premises that he had allegedly agreed to vacate by a date certain, pursuant to a stipulation of settlement entered into between the parties. Following an inquest, the District Court found that plaintiff had failed to establish damages on any of his three causes of action, and directed that a judgment be submitted to the clerk. A judgment was not submitted, and a prior appeal by plaintiff to this court was dismissed on the ground that no appeal lies from a decision (see UDCA 1702; Farag v Farag, 4 AD3d 502 [2004]).\nA directive to “submit judgment” is generally addressed to the successful party (see Funk v Barry, 89 NY2d 364, 367 [1996]). In the District Court, a party directed to submit a judgment must do so within 60 days (see Uniform Rules for Dist Cts [22 NYCRR] § 212.33 [a]), or, absent a showing of “good cause,” the action will be deemed abandoned (see Uniform Rules for Dist Cts [22 NYCRR] § 212.33 [b]). Here, however, the successful party was pro se. Section 1401 of the Uniform District Court Act states:\n“Within the limits of its jurisdiction as defined in this act . . . , the court shall have power to render any judgment that the supreme court might render in a like case. The judgment shall be prepared by the attorney for the successful party, except that if such party does not appear by attorney the judgment shall be prepared by the clerk. If the judgment is not prepared within thirty days after it is rendered, the attorney for the unsuccessful party may prepare the judgment.”\nPursuant to UDCA 1401, since the successful party was pro se, it was the clerk’s obligation to prepare the judgment, notwithstanding the court’s direction that a judgment be submitted to the clerk, and the clerk failed to prepare the judgment. Therefore, the abandonment provision of Uniform Rules for District Courts (22 NYCRR) § 212.33 (b) does not apply. In any event, even if the rule did apply, plaintiff showed good cause for not submitting the judgment within 60 days, in light of his timely but ultimately unsuccessful attempt to prosecute an appeal from the underlying decision. Consequently, plaintiffs motion to extend the time to submit the judgment should have been granted.\nAccordingly, the order is reversed, plaintiffs motion to extend the time to submit a judgment is granted, and the time to submit the judgment is extended to 30 days from the date of this decision and order.\nMaraño, P.J., Tolbert and Brands, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Scott Lockwood, North Babylon, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[35 NYS3d 828]\nGary Gatti, Appellant, v Vincent Rago, Respondent.\nSupreme Court, Appellate Term, Second Department, 9th and 10th Judicial Districts,\nJune 15, 2016\nAPPEARANCES OF COUNSEL\nScott Lockwood, North Babylon, for appellant."
+  },
+  "file_name": "2267-01",
+  "first_page_order": 93,
+  "last_page_order": 95
+}

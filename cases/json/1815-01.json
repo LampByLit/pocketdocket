@@ -1,0 +1,155 @@
+{
+  "id": 4318748,
+  "name": "In the Matter of the District Attorney of Richmond County, Petitioner",
+  "name_abbreviation": "In re the District Attorney",
+  "decision_date": "2014-12-04",
+  "docket_number": "",
+  "first_page": "207",
+  "last_page": "210",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 207"
+    },
+    {
+      "type": "parallel",
+      "cite": "8 N.Y.S.3d 856"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "86 AD2d 294",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5606151
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "298"
+        },
+        {
+          "page": "298-299"
+        },
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/86/0294-01"
+      ]
+    },
+    {
+      "cite": "68 AD2d 220",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5535797
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/68/0220-01"
+      ]
+    },
+    {
+      "cite": "27 NY2d 229",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2296931
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "234"
+        },
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/27/0229-01"
+      ]
+    },
+    {
+      "cite": "59 AD2d 825",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3060153,
+        3050412,
+        3047892
+      ],
+      "pin_cites": [
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/59/0825-01",
+        "/ad2d/59/0825-02",
+        "/ad2d/59/0825-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 435,
+    "char_count": 6847,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14577992771007112
+    },
+    "sha256": "400ac0b4cbd7616d6d528cc23c48211c5107f6951514d7928770b04451c13ee4",
+    "simhash": "1:2914aedec27e3688",
+    "word_count": 1096
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the District Attorney of Richmond County, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nStephen J. Rooney, J.\nThe District Attorney of Richmond County has filed a sealed, ex parte, application for an order authorizing the release of certain limited information regarding the conduct of the grand jury proceedings in the subject presentation. The petitioner does not seek the release of transcripts of grand jury testimony or exhibits.\nCPL 190.25 (4) (a) provides, in relevant part, that grand jury proceedings are secret, and mandates that no grand juror or public servant authorized to be present during same may, “except in the lawful discharge of his [or her] duties or upon written order of the court, disclose the nature or substance of any grand jury testimony, evidence, or any decision, result or other matter attending a grand jury proceeding” (see CPL 190.25 [3]; 190.75 [4]; Penal Law § 215.70).\nHere we are concerned solely with disclosure upon the written order of the court, a matter which lies uniquely within the discretion of the court supervising the grand jury (see Matter of People v Quigley, 59 AD2d 825, 826 [1977]), after balancing the relative strengths of the competing interests involved, i.e., the public interest in disclosure versus that of protecting grand jury secrecy (People v Di Napoli, 27 NY2d 229, 234). Accordingly, while the principle of grand jury secrecy is not absolute, neither does the articulation of a claim that there is a public interest to be served guarantee that disclosure will be granted (see e.g. Matter of Carey [Fischer], 68 AD2d 220 [1979]), even where such disclosure is sought for the sole purpose of protecting the commonwealth (see Matter of District Attorney of Suffolk County, 86 AD2d 294, 298).\n“No less important is the obligation of the judicial branch of government to protect the reputations of persons accused of crimes but not indicted or convicted, and to protect the court’s investigative machinery. The secrecy of the Grand Jury is jealously guarded because the confidentiality of its proceedings must be ensured if it is to continue to be effective” (Matter of Carey at 229).\nThus, the seminal issue requiring determination is whether the need to protect grand jury secrecy is outweighed by a compelling need to allow the public to access the information for which disclosure is sought (see Matter of District Attorney of Suffolk County, 86 AD2d at 298-299). In any such undertaking, it must be noted at the outset that the plain language of the statute in question unequivocally establishes that the need for secrecy is presumed, and that the burden is on the party seeking disclosure to rebut this presumption by asserting sufficient facts to show that the interests claimed outweigh the dangers inherent in violating the secrecy of the grand jury (id. at 299; People v Di Napoli, 27 NY2d at 235).\n“Consequently, [the] party seeking disclosure will not satisfy [its] burden by simply asserting, or even showing, that a public interest is involved. [Rather, he or she] must, by a factual presentation, demonstrate why, and to what extent [disclosure is required] ... to advance the actions or measures taken, or proposed ... to insure that the public interest has been, or will be, served” (Matter of District Attorney of Suffolk County, 86 AD2d at 299).\nHere, the petitioner seeks a limited public disclosure, and most of the material petitioner seeks to publicly disclose has already been widely reported in the media. However, those media reports do not relieve this court of the statutory duty cast upon the judicial branch by CPL 190.25 (4) to zealously guard the secrecy of grand jury proceedings, the confidentiality of which is properly assumed by witnesses appearing before that body. In the opinion of the court, such confidentiality must be ensured if the grand jury is to continue to be effective in investigating allegations of e.g., grave misconduct, whether by public officials or private individuals. “Particularly is that so in investigations such as this which are the subject of broad publicity and which are highly sensitive” (Matter of Carey, 68 AD2d at 229).\nThe court has reviewed the petitioner’s memorandum of law, affirmation and supplemental affirmation, which relate in summary fashion the evidence before the grand jury. Upon balancing the competing interests of disclosure and confidentiality in the matter at hand, petitioner has sustained his burden of establishing the existence of facts warranting limited disclosure of certain aspects of this grand jury proceeding in the interest of assuring the public that the relevant evidence was presented to that body, empaneled for the sole purpose of deciding whether reasonable cause existed to charge anyone with a crime in connection with the death of Eric Garner. Somewhat uniquely in this matter, the maintenance of trust in our criminal justice system lies at the heart of these proceedings, with implications affecting the continuing vitality of our core beliefs in fairness, and impartiality, at a crucial moment in the nation’s history, where public confidence in the even-handed application of these core values among a diverse citizenry is being questioned. It is from this vantage point that a limited incursion into the sacrosanct principle of grand jury secrecy is deemed necessary to serve overarching public interest. Thus, this court finds that it is in the prudent exercise of the discretion granted to it under CPL 190.25 (4) that petitioner’s application for leave to disclose certain limited details of the grand jury presentation in this matter is appropriate. Accordingly, the petitioner’s application for public disclosure of the nature of certain grand jury evidence and the decision of the grand jury is granted as follows:\nThe grand jury sat for a period of nine weeks.\nThe grand jury heard from a total of 50 witnesses. Twenty-two of the witnesses were civilians, the remaining witnesses were police officers, emergency medical personnel and doctors.\nSixty exhibits were admitted into evidence. They included four videos, records regarding NYPD policies and procedures, medical records pertaining to the treatment of the deceased, photographs of the scene, autopsy photographs and records pertaining to NYPD training.\nThe grand jury was instructed on relevant principles of law, including Penal Law § 35.30 regarding a police officer’s use of physical force in making an arrest.\nThe grand jury voted to file its finding of dismissal with the court in conformity with CPL 190.60 and 190.75.\nIt is hereby ordered, that petitioner’s application remain sealed until further order of this court.",
+        "type": "majority",
+        "author": "Stephen J. Rooney, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Daniel M. Donovan, Jr., District Attorney (Timothy Roller of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[8 NYS3d 856]\nIn the Matter of the District Attorney of Richmond County, Petitioner.\nSupreme Court, Richmond County,\nDecember 4, 2014\nAPPEARANCES OF COUNSEL\nDaniel M. Donovan, Jr., District Attorney (Timothy Roller of counsel), for petitioner."
+  },
+  "file_name": "1815-01",
+  "first_page_order": 205,
+  "last_page_order": 208
+}

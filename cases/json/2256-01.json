@@ -1,0 +1,158 @@
+{
+  "id": 4236507,
+  "name": "In the Matter of Robert Thomson et al., Petitioners, v. Zillow, Inc., a Washington Corporation, et al., Respondents",
+  "name_abbreviation": "Thomson v. Zillow, Inc.",
+  "decision_date": "2016-05-02",
+  "docket_number": "",
+  "first_page": "1050",
+  "last_page": "1056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 1050"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 455"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "118 AD3d 482",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4058096,
+        4058893,
+        4068878
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0482-01",
+        "/ad3d/118/0482-03",
+        "/ad3d/118/0482-02"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 30372",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 FRD 130",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        444848
+      ],
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/172/0130-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 1896932",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 NY Slip Op 31055",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 AD3d 408",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4236044
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/0408-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 32",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4224690
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 607,
+    "char_count": 13599,
+    "ocr_confidence": 0.752,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14056109062729139
+    },
+    "sha256": "6f91b336a0cf1d786a31e3dee108543a1f7e92dd6345f34f6686ca62b55e2e4b",
+    "simhash": "1:263007ac7831bd78",
+    "word_count": 2074
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Robert Thomson et al., Petitioners, v Zillow, Inc., a Washington Corporation, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nBarbara Jaffe, J.\nBy notice of petition, petitioners move pursuant to CPLR 3119 (e); 3101 and 2304 for an order quashing nonparty subpoenas served on them, and issuing a protective order with respect to the subpoenas. Respondents oppose.\nI. Background\nIn March 2014, a lawsuit was commenced in Washington State by Move, Inc. and its business partner National Association of Realtors against respondent Zillow, Inc. and others, wherein it is alleged that two Move employees who left Move to join Zillow unlawfully provided Zillow with Move’s trade secrets, that Zillow used the trade secrets, and that nonparty Trulia acquired Zillow as a result of the misuse of Move’s trade secrets, instead of implementing its original plan to buy Move.\nIn November 2014, during the pendency of the Washington State litigation, News Corporation acquired Move. Petitioner Thomson is News’s chief executive officer, and petitioner Anoushka Healy is its chief strategy officer. Neither News nor petitioners are parties in the Washington litigation. (NY St Cts Elec Filing [NYSCEF] Doc No. 4.)\nOn November 14, 2015, a special discovery master issued a report and recommendation to the presiding judge in the Washington litigation resolving a motion filed by Zillow to compel News’s compliance with a subpoena duces tecum, and Move’s and News’s joint motion for a protective order. Although the special master denied Zillow’s requests for certain documents or information, he granted its requests for discovery from News about: (1) certain communications by News or knowledge about a potential acquisition/business deal between Move and Trulia and Trulia’s plans to buy Zillow; (2) the impact of the Washington litigation on News’s valuation of Move and information about the litigation exchanged or prepared during News’s acquisition of Move; and (3) Move’s claimed damages, specifically, its industry platform strategy and project upstream, Trulia’s and Zillow’s syndication agreements with ListHub, and Zillow’s efforts to obtain direct feeds. (NYSCEF Doc No. 9.)\nBy order dated January 7, 2016, the judge overseeing the Washington litigation adopted the special master’s report and recommendation. (NYSCEF Doc No. 10.)\nOn or about November 25, 2015, counsel for Zillow served petitioners with subpoenas in California, seeking to depose them in the Washington litigation (NYSCEF Doc Nos. 5, 6), and on or about December 7, 2015, he served petitioners with subpoenas in New York pursuant to the Uniform Interstate Deposition and Discovery Act and CPLR 3119 (NYSCEF Doc Nos. 7, 8). Annexed to those subpoenas is a letter to petitioners’ counsel from Zillow’s counsel explaining that because petitioners\n“were directly involved in News Corp.’s efforts to acquire Move before the alleged misconduct occurred . . . [they] may have personal knowledge regarding the value (if any) that News Corp. placed on the allegedly misappropriated trade secrets and other events at issue in the litigation .... [and that] since News Corp.’s acquisition of Move . . . [they] have been directly involved in decision-making regarding several of the strategic initiatives at issue in the litigation, including the assessment of ‘Strategic Alternatives’ for ListHub and the decision to cut off listing feeds to Zillow and Trulia.” (NYSCEF Doc No. 54.)\nZillow’s counsel thus advised petitioners’ counsel that petitioners “may have personal knowledge relevant to several of Move’s trade secret claims, including for example whether changes to Move’s strategy were directed by News Corp. or, as Move alleges, were caused by the Defendants’ alleged misconduct.” (Id.)\nFollowing oral argument on this motion, by letter dated April 20, 2016, and with petitioners’ consent, respondents submitted additional documents, including emails, they had recently received from News and explained why the emails are relevant to their need to take petitioners’ depositions. (NYSCEF Doc Nos. 64-67.)\nII. Contentions\nPetitioners deny having knowledge related to the Washington litigation, observing that News acquired Move months after the alleged misappropriation, and they assert that the subpoenas constitute an improper attempt to circumvent the special master’s discovery determination that the information sought is beyond the scope of permissible discovery in the litigation. They also contend that the subpoenas constitute an improper attempt to create “leverage” in the litigation as several rulings have been made against them, including a finding that they spoliated evidence. According to petitioners, they are insulated from being deposed under New York law because they are “apex witnesses,” senior corporate executives who possess no necessary, relevant, unique, non-duplicative, or firsthand personal information or knowledge of the events in issue. They also assert that any relevant information was provided or will be provided through numerous depositions of Move employees. (NYSCEF Doc No. 3.)\nRespondents allege that they possess evidence indicating that petitioners were closely involved in News’s acquisition of Move, before and after the acquisition, and that petitioners thus possess relevant information about News’s valuation of Move, which is relevant to Move’s claimed damages, and that petitioners were involved in decisions related to Move’s strategy and ListHub, which respondents maintain is relevant to their defense that News caused Move’s alleged damages, not them. They argue that petitioners have not met their burden in seeking to quash the subpoenas, especially as they rely solely on the affirmation of their counsel, and not on affidavits based on their personal knowledge. Respondents also contend that petitioners do not demonstrate that the subpoenas seek “utterly irrevelant” information, and that the special master permitted the discovery they seek. In their view, senior executives are not exempt from nonparty deposition subpoenas and must be treated as any other deponent when moving to quash. (NYSCEF Doc No. 55.)\nIn reply, petitioners reiterate their contentions, and while they acknowledge that the special master permitted discovery as to News’s valuation of Move in light of the alleged trade secret misappropriation and information about the litigation exchanged during due diligence, they argue that respondents’ evidence is insufficient to show that they have direct and unique knowledge about these subjects. They deny that affidavits are required, as the subjects at issue have been found to be beyond the scope of permissible discovery. (NYSCEF Doc No. 56.) Petitioners also deny that the emails recently submitted by respondents show that they possess relevant and material information, and observe that respondents have now deposed 17 current or former Move executives or directors. (NYSCEF Doc No. 68.)\nIII. Analysis\nAn application for a protective order or to quash a subpoena issued under CPLR 3119 must comply with the rules or statutes of New York State (CPLR 3119 [e]), pursuant to which the movant bears the burden of showing that the discovery sought is either “utterly irrevelant” or that the futility of uncovering anything legitimate is “inevitable or obvious” (Matter of Kapon v Koch, 23 NY3d 32, 34 [2014]; CPLR 2304). If the movant meets its burden, the subpoenaing party must then establish that the discovery sought is material and necessary, or relevant, to the prosecution or defense of the action; it need not demonstrate that it cannot obtain the requested discovery from other sources. (Matter of Kapon, 23 NY3d 32.) “Thus, so long as the disclosure sought is relevant to the prosecution or defense of an action, it must be provided by the nonparty.” (Id. at 38.)\nIn arguing that respondents have not demonstrated that they possess relevant information, petitioners attempt to shift the burden of proof on their motion, and their attorney’s conclusory affirmation and denials are insufficient to show that their depositions would lead to information that is utterly irrevelant or that the futility of uncovering anything legitimate is inevitable or obvious. Even if petitioners had submitted their own affidavits attesting to their lack of knowledge pertaining to the Washington litigation, such sworn denials are not necessarily sufficient. (See Menkes v Beth Abraham Health Servs., 120 AD3d 408 [1st Dept 2014] [motion to quash subpoena served on nonparty witness, defendants’ former chief operating officer, properly denied as witness’ sworn denial of relevant knowledge insufficient to establish that discovery sought utterly irrevelant or futility of process]; Haffner v Lester, 2015 NY Slip Op 31055 [U] [Sup Ct, Queens County 2015] [subpoena issued to nonparty not quashed as nonparty’s belief that she had no relevant testimony not sufficient to meet her burden on motion].)\nCases cited by petitioners that do not involve nonparty subpoenas or witnesses are inapposite, and it is thus irrevelant whether respondents deposed other employees or executives or whether petitioners have unique knowledge or information. (See Matter of Kapon, 23 NY3d 32.) And while the special master considerably limited the scope of topics and issues that could be explored through discovery from News, many remain discoverable, including those identified by respondents in counsel’s letter seeking petitioners’ depositions: (1) “the value (if any) that [News] placed on the allegedly misappropriated trade secrets and other events at issue in the litigation,” and (2) News’s involvement in “decision-making regarding several of the strategic initiatives at issue in the litigation, including the assessment of ‘Strategic Alternatives’ for ListHub and the decision to cut off listing feeds to Zillow and Trulia.”\nMoreover, it is reasonable to conclude that petitioners, News’s chief executive officer and chief strategy officer before and after its acquisition of Move, have knowledge of or information about the permitted topics, and even though respondents do not bear the initial burden of establishing that the information sought through petitioners’ depositions is material and necessary to their defense in the Washington litigation, the documents they provide show that it does.\nPetitioners’ argument that they could not and do not possess any relevant information as News bought Move months after the Washington litigation commenced and after the trade secrets were allegedly misappropriated does not establish that petitioners did not obtain relevant information before the acquisition and during the decision-making preceding the acquisition, and much of the information identified by the special master as discoverable relates to pre-acquisition events, as well as post-acquisition strategies involving Move.\nFederal cases requiring the curtailment of requests to depose “high-ranking corporate and government officials . . . sometimes referred to as ‘apex witnesses’ ” are warranted by “the possibility of business disruption and the potential for harassment.” Such executives are not, however, exempt from being deposed; they are excused from giving testimony “only in compelling circumstances.” (Chevron Corp. v Donziger, 2013 WL 1896932, *1 [SD NY, May 7, 2013, No. 11 Civ. 0691(LAK)]; see also Naftchi v New York Univ. Med. Ctr., 172 FRD 130, 132 [SD NY 1997] [“(I)t is exceedingly difficult to demonstrate an appropriate basis for an order barring the taking of a deposition. Nor, in ordinary circumstances, does it matter that the proposed witness . . . professes lack of knowledge of the matters at issue, as the party seeking the discovery is entitled to test the asserted lack of knowledge”].)\nThe only New York State court cited by petitioners as having acknowledged the federal apex witness rule is Daou v Huffington. There, the court observed that senior executives cannot be subpoenaed to testify as a means to harass a corporation, and that they are “not immune per se from discovery or from depositions.” (2013 NY Slip Op 30372 [U], *7 [Sup Ct, NY County 2013], appeal withdrawn 118 AD3d 482 [2014].) Here, respondents have shown that they seek information from petitioners which may be material and necessary to their defense, and petitioners have not established that respondents have subpoenaed them solely in order to harass News.\nIn any event, petitioners have not shown that they, as senior executives, may not be deposed, as such discovery is governed by the standards set forth in Matter of Kapon, which does not even acknowledge such an exemption or exception for the depositions of senior executives, even though one of the petitioners in that case was the chief executive officer of the nonparty corporation. (23 NY3d 32.)\nTherefore, even if petitioners had met their burden of establishing that the information sought by respondents is utterly irrevelant or that the futility of uncovering anything legitimate is inevitable or obvious, respondents have shown that the information is material and necessary to its defense of Move’s action.\nPetitioners’ request for a protective order is thus moot.\nIV. Conclusion\nAccordingly, it is hereby ordered, that petitioners’ application for an order quashing subpoenas served on them and issuing a protective order is denied.",
+        "type": "majority",
+        "author": "Barbara Jaffe, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jenner & Block LLP, New York City (Susan J. Kohlmann of counsel), for petitioners.",
+      "Perkins Cole LLP, New York City (Keith W. Miller of counsel), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 455]\nIn the Matter of Robert Thomson et al., Petitioners, v Zillow, Inc., a Washington Corporation, et al., Respondents.\nSupreme Court, New York County,\nMay 2, 2016\nAPPEARANCES OF COUNSEL\nJenner & Block LLP, New York City (Susan J. Kohlmann of counsel), for petitioners.\nPerkins Cole LLP, New York City (Keith W. Miller of counsel), for respondents."
+  },
+  "file_name": "2256-01",
+  "first_page_order": 1062,
+  "last_page_order": 1068
+}

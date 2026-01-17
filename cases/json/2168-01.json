@@ -1,0 +1,261 @@
+{
+  "id": 4235279,
+  "name": "In the Matter of U.S. Bank National Association et al., Petitioners",
+  "name_abbreviation": "In re U.S. Bank National Ass'n",
+  "decision_date": "2015-12-18",
+  "docket_number": "",
+  "first_page": "273",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 273"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 N.Y.S.3d 797"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "42 Misc 3d 171",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4054653
+      ],
+      "pin_cites": [
+        {
+          "page": "180-181"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/42/0171-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 522",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3755689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/0522-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 581",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4318626
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "589"
+        },
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0581-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 146",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3679115
+      ],
+      "pin_cites": [
+        {
+          "page": "156-157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/11/0146-01"
+      ]
+    },
+    {
+      "cite": "109 F Supp 3d 587",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4365335
+      ],
+      "pin_cites": [
+        {
+          "page": "597, 609-610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/109/0587-01"
+      ]
+    },
+    {
+      "cite": "180 F Supp 2d 465",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9449315
+      ],
+      "pin_cites": [
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/180/0465-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 50384",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 1237",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 AD3d 120",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4151807
+      ],
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "124"
+        },
+        {
+          "page": "126"
+        },
+        {
+          "page": "126"
+        },
+        {
+          "page": "126"
+        },
+        {
+          "page": "126"
+        },
+        {
+          "page": "126"
+        },
+        {
+          "page": "126-127"
+        },
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/0120-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 851",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4398011
+      ],
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0851-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1360,
+    "char_count": 35635,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14048753421531526
+    },
+    "sha256": "cdc0e28bcef6a1d5d8c663daf010ebd961166607998e83e0d4fdce311336cff3",
+    "simhash": "1:6ab169ac8f5e2e68",
+    "word_count": 5595
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of U.S. Bank National Association et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMarcy Friedman, J.\nIn this CPLR article 77 proceeding, four trustees of residential mortgage-backed securitization (RMBS) trusts seek judicial approval of their decision to accept a settlement, on behalf of the trusts, of claims against Citigroup Inc. and its direct and indirect subsidiaries (Citigroup). {See first amended petition ¶ 19.) The proposed settlement, the RMBS Trust Settlement Agreement (proposed settlement or agreement), was negotiated by Citigroup and a group of institutional investors that collectively held 30% of the unpaid principal balance of securities issued by the trusts (the institutional investors). The agreement was initially entered into as of April 7, 2014, by and among the institutional investors and Citigroup as the seller, sponsor, and/or depositor for the trusts. It was presented to the trustees for their acceptance on April 11, 2014. (See letter, dated Apr. 11, 2014, from Kathy Patrick, Esq. [institutional investors’ counsel] to trustees [Taraila aff, exhibit l].) This agreement was modified as of December 5, 2014, and subsequently accepted by the trustees in December 2014 on behalf of 199 of 206 loan groups in the covered trusts. (Joint statement ¶¶ 71, 73.)\nUnder the provisions of the agreement, Citigroup agreed to make a cash payment of up to $1.125 billion to 68 RMBS trusts administered by the trustees, in return for the release of all claims against Citigroup “that arise under or are based upon the Governing Agreements or that relate to the origination, sale, delivery, servicing and/or administration of Mortgage Loans to or in the Settlement Trusts,” including those based on:\n“(i) representations or warranties made by any Citigroup entity, (ii) any alleged obligation of any Citigroup entity to give notice of alleged breaches of representations or warranties, (iii) any alleged obligation of any Citigroup entity to enforce claims for breaches of representations or warranties against the originator of a Mortgage Loan or against another Citigroup entity . . . and (iv) the documentation of the Mortgage Loans held by the Settlement Trusts including with respect to allegedly defective, incomplete, or non-existent documentation, as well as issues arising out of or relating to recordation, title, assignment, or any other matter relating to legal enforceability of a mortgage or mortgage note, or any alleged failure to provide notice of such defective, incomplete or non-existent documentation . . . (RMBS Trust Settlement Agreement §§ 3.01-3.02; exhibit A [listing covered trusts].)\nThe trustees now move for an order, pursuant to CPLR 409 (b), granting them judgment on the first amended petition. The trustees’ motion is supported by the intervenor-institutional investors. Despite an extensive court-ordered notice program, no investor or other interested person has filed an objection or other papers in opposition to the petition. (See tr of oral argument on Nov. 6, 2015 at 21-22.)\nAs narrowed by the proposed order filed on July 10, 2015 (NY St Cts Electronic Filing [NYSCEF] Doc. No. 133), the trustees ask the court to make the following five findings:\n“1. This Court has jurisdiction to hear this Article 77 proceeding and to make a summary determination of the motion brought by Petitioners. The Court shall retain jurisdiction to enforce the terms of a judgment embodying this Order.\n“2. Certificateholders, Noteholders, and any other parties claiming through any Accepting Trust have been provided with notice reasonably certain to reach those interested in objecting to the First Amended Petition, which was the best notice practicable, was reasonably calculated to put interested parties on notice of this special proceeding, and constitutes due and sufficient notice of this special proceeding in satisfaction of federal and state due process requirements and other applicable law. All such persons have been given the opportunity to be heard in opposition to the First Amended Petition.\n“3. No objections were filed by any party. Any objections that could have been made are deemed overruled and/or waived.\n“4. Each of the Trustees acted within the bounds of its discretion, reasonably, and in good faith with respect to its evaluation and acceptance of the settlement memorialized in the Settlement Agreement, dated as of April 7, 2014, as modified (the ‘Settlement Agreement’) concerning the Accepting Trusts.\n“5. Certificateholders, Noteholders, and any other parties purporting to have rights in, or on behalf of, any Accepting Trust are barred from asserting claims against any Trustee with respect to such Trustee’s evaluation and acceptance of the Settlement Agreement and implementation of the Settlement Agreement, so long as such implementation is in accordance with the terms of the Settlement Agreement.”\nStandard of Review\nThis proceeding for approval of the trustees’ acceptance of the proposed settlement is brought pursuant to CPLR 7701, which provides generally that “[a] special proceeding may be brought [with exceptions not relevant here] to determine a matter relating to any express trust.” Special proceedings are, in turn, governed by CPLR article 4. CPLR 409 (b) provides that the court in a special proceeding “shall make a summary determination upon the pleadings, papers and admissions to the extent that no triable issues of fact are raised. The court may make any orders permitted on a motion for summary judgment.” Section 409 (b) “makes clear that the special proceeding is to be adjudicated in the same manner as a motion for summary judgment.” (Vincent C. Alexander, Practice Commentaries, McKinney’s Cons Laws of NY, Book 7B, CPLR 409.) “Thus, if the papers fail to raise a triable issue of fact, the court is to grant judgment as a matter of law in favor of the appropriate party. If a triable issue of fact is raised, reference must be made to CPLR 410” (id.), which requires that any such issues be “tried forthwith.”\nThe standards for summary judgment are well settled. The movant must tender evidence, by proof in admissible form, to establish the cause of action “sufficiently to warrant the court as a matter of law in directing judgment.” (CPLR 3212 [b]; Zuckerman v City of New York, 49 NY2d 557, 562 [1980].) “Failure to make such showing requires denial of the motion, regardless of the sufficiency of the opposing papers.” (Winegrad v New York Univ. Med. Ctr, 64 NY2d 851, 853 [1985].)\nIn Matter of Bank of N.Y. Mellon (127 AD3d 120 [1st Dept 2015] [Countrywide]), the Appellate Division of this Department recently considered a petition, pursuant to CPLR article 77, for “judicial instructions and approval of a proposed settlement” by an RMBS trustee of its claims against the securitizer and servicer of the trusts. (Countrywide verified petition, caption; see also 127 AD3d at 124.) In elucidating the standard of review, the Court held that\n“[t]he ultimate issue for determination ... is whether the trustee’s discretionary power was exercised reasonably and in good faith. It is not the task of the court to decide whether we agree with the trustee’s judgment; rather, our task is limited to ensuring that the trustee has not acted in bad faith such that his conduct constituted an abuse of discretion.” {Id. at 125 [citation omitted].)\nIn approving the settlement, the Court cited the facts that the “[t]he trustee acted within its authority throughout the process, and there is no indication that it was acting in self-interest or in the interests of BofA rather than those of the certificateholders.” {Id. at 126.) The Court also considered the trustee’s reliance on the advice of counsel, reasoning:\n“Importantly, if a trustee has selected trust counsel prudently and in good faith, and has relied on plausible advice on a matter within counsel’s expertise, the trustee’s conduct is significantly probative of prudence. . . . Court approval of the settlement does not require that the court agree with counsel’s judgment or assessment; all that is required is a determination that it was reasonable for the trustee to rely on counsel’s expert judgment.” {Id. [internal quotation marks and citation omitted].)\nIn addition, the Court found that “[i]n evaluating the elements of the settlement, the trustee properly obtained and considered the opinions of several highly respected outside experts” on valuation and other issues. (Id. at 127.)\nThe Trustees’ Evaluation of the Proposed Settlement\nThe trustees’ acceptance of the proposed settlement in this case followed an evaluation over an eight-month period. In each case, the final decision of the trustee was rendered by senior trust personnel, following regular meetings with counsel, and, in the case of U.S. Bank, review of the proposed settlement by a working group formed specifically to assist in the evaluation. (Joint statement ¶¶ 6-7; Taraila aff ¶¶ 12-15; Mackay aff ¶¶ 1, 9-10; Musarra aff ¶¶ 1, 12; Reyes aff ¶¶ 1, 8, 10.) Following a multistage vetting process, the trustees and their counsel also obtained and considered the opinions of four outside experts on a number of issues relevant to their decision to accept or reject the proposed settlement. (See joint statement ¶¶ 8-21.)\nOn or about June 20, 2014, counsel for the trustees retained Scott Winn to serve as the trustees’ valuation expert. (Joint statement ¶ 12; Winn aff ¶¶ 3, 7.) Winn is the senior managing director of Zolfo Cooper LLC, a financial advisory and interim management firm. (Winn aff ¶ 3.) In collaboration with Kroll Bond Rating Agency, Winn developed a methodology to estimate losses incurred by each of the loan groups, comparing aggregate losses incurred to losses potentially related to breaches of representations and warranties by Citigroup. (Id. ¶ 9.)\nCounsel for the trustees also retained two legal experts. (Schwartz aff ¶ 1; Carpinello aff ¶ 1.) Alan Schwartz is the Sterling Professor of Law and professor of management at Yale University. (Schwartz aff ¶ 2.) He was asked to analyze contractual interpretation issues raised by the transaction documents for the RMBS trusts, including whether there were any contractual limitations on, or conditions precedent to, the trustees’ ability to pursue repurchase litigation; what the trustees would need to show in litigation with respect to causation of losses; and whether there were any litigation offsets (e.g., insurance recoveries, or other recoveries through litigation or settlement) to any potential damages awards. (Id. ¶¶ 4-5.) Anthony J. Carpinello, the second legal expert, is a retired Associate Justice of the New York State Supreme Court, Appellate Division, Third Department. (Carpinello aff ¶ 2.) He was asked to consider, among other issues, the applicable statute of limitations governing cure and repurchase actions; whether sufficient time remained for conditions precedent to suit to be fulfilled; the legal effect of certain tolling agreements; and the risks of litigation should the trustees reject the proposed settlement and file suit against Citigroup. (Id. ¶ 6.)\nBradford Cornell, with assistance from Compass Lexecon, served as the trustees’ “top-level” expert. (Joint statement ¶¶ 17-18; Cornell aff ¶¶ 1, 3.) Cornell is a professor of financial economics, and holds a Master’s degree in statistics and a doctorate in financial economics from Stanford University. (Cornell aff ¶ 2.) According to Cornell, he was retained “to form an independent opinion of the reasonableness of the proposed settlement” and “to recommend whether the Proposed Settlement should be accepted or rejected for each of the Loan Groups at issue in the Proposed Settlement.” (Id. ¶ 3; joint statement ¶ 17.) Cornell identified and analyzed various features of the loan groups and settlement, including the following: the estimated settlement payment for each loan group; whether claims were likely to be time-barred under Justice Carpinello’s analysis; the specific representations and warranties made for each trust; a comparison of the settlement to other RMBSrelated settlements, including settlements involving Citigroup; and the market reaction to the proposed settlement. (Cornell aff ¶ 9.) He estimated the net potential recovery for each loan group from litigating breach claims, using information from loan file reviews performed in other cases and other available indicators of breach levels. (Id.) He also considered the views of investors in the trusts regarding the proposed settlement, and the likelihood that claims would be pursued if the proposed settlement were rejected. (Id.)\nBased on the above analysis, Cornell determined that he would only recommend that the proposed settlement be rejected for loan groups where: (1) the released claims were not likely to be time-barred; (2) there was at least one indication that the net potential recovery in litigation would exceed the value of the settlement payment; (3) there was not a high risk that claims would not be pursued if the proposed settlement were rejected; and (4) opposing certificateholders’ holdings were greater than 20%, and also greater than those of supporting certificateholders’ holdings. (Cornell report [Cornell aff, exhibit 4] ¶ 144; exhibit W; Cornell aff ¶ 12.) Cornell “made clear,” however, that\n“even if all factors suggested a ‘reject’ recommendation, ‘a Trustee should not reject the Proposed Settlement unless it has already received, or is confident that it will receive, direction and satisfactory indemnity to complete the investigation and litigation that would be necessary to recover from Citigroup on the Released Claims.’ ” (Cornell aff ¶ 12 [e]; Cornell report ¶ 129.)\nThroughout the evaluation period, the trustees took reasonable steps to ensure that their experts had the information necessary to form reasoned opinions. They participated in regular calls with the experts to monitor their progress, ensure coordination among the experts, and facilitate information and document requests. (Taraila aff ¶ 35; Mackay aff ¶ 23; Musarra aff ¶ 31; Reyes aff ¶ 30.) They negotiated with Citigroup for several extensions of the deadline to accept the proposed settlement, which finally terminated on December 19, 2014 for all but two loan groups. (Taraila aff ¶¶ 36-37; Mackay aff ¶ 11; Musarra aff ¶ 32.)\nThe trustees also made substantial efforts to keep investors informed of their progress, and took their views into account in making their final decisions. (See Restatement [Third] of Trusts § 80, Comment b [noting that it is “normally proper for a trustee to obtain and consider information concerning not only the beneficiaries’ circumstances but also their concerns, preferenees, and general views with respect to matters of trust administration”].) The trustees retained Garden City Group, LLC (GCG) to establish a website and to publicly disseminate information concerning the evaluation process. (Joint statement ¶ 22.) Between June 25, 2014 and December 19, 2014, GCG sent 11 notices to investors, informing them, among other things, of the proposed settlement, its modifications, extensions of the acceptance deadline, the completion of the expert reports, and procedures for investors to contact the trustees with questions or directions concerning the proposed settlement. (Joint statement ¶¶ 23-25, 30-31; Taraila aff, exhibits 12-22 [11 notices].) Correspondence from investors expressing support or opposition to the settlement was reviewed by the trustees and forwarded to Professor Cornell for incorporation into his analysis, causing him to revise his recommendations in a series of supplemental reports. (Joint statement ¶¶ 27-28, 66; Cornell aff ¶¶ 14-15; exhibits 4-7.)\nFollowing the trustees’ receipt of the expert reports, they met with counsel, reviewed the reports, Professor Cornell’s recommendations, and communications with investors, and ultimately accepted the proposed settlement on behalf of 199 of the 206 loan groups. (Joint statement ¶¶ 71-72; Taraila aff ¶¶ 56-59; Mackay aff ¶¶ 32-41; Musarra aff ¶¶ 42-45; Reyes aff ¶¶ 38-42.)\nThe Notice Program\nThis proceeding was commenced on December 21, 2014. By order to show cause signed on January 20, 2015 (NYSCEF Doc. No. 41), the court directed the trustees to undertake a comprehensive notice program, pursuant to which information concerning the trustees’ acceptance of the proposed settlement, and of this proceeding, was required to be published in newspapers worldwide, in multiple languages, and on investor reporting websites. (Jan. 20, 2015 order to show cause ¶ 3 [2]-[9].) Copies of the notice and related papers were also required to be mailed to each of the investors listed in the certificate of registry for each accepting trust. (Id. ¶ 3 [1].) The order to show cause expressly notified investors that\n“any potentially interested person who fails to object in the manner required herein shall be deemed to have waived the right to object (including any right of appeal) and shall forever be barred from raising such objection in this or any other action or proceeding, unless the Court orders otherwise.” (Id. ¶ 7.)\nThis court previously held that the notice program was reasonable, adequate, and the best notice practicable, was reasonably calculated to put interested parties on notice of this action, and constituted due and sufficient notice of this special proceeding in satisfaction of federal and state due process requirements and other applicable law. (Id. ¶ 4; tr of conference on May 19, 2015, so ordered on Aug. 6, 2015 [May 19, 2015 tr] at 18.) The court adheres to that holding, and further finds that the trustees diligently complied with the notice program. The affidavit of Jose C. Fraga, sworn to on March 27, 2015, and his two supplemental affidavits, sworn to on July 8, 2015 and November 12, 2015, satisfactorily demonstrate that the program was executed in accordance with the court’s directives. It is not insignificant that, in the face of this comprehensive notice program and extensive opportunities to object, no objectors have opposed the trustees’ position.\nAnalysis\nAfter consideration of the evidence in this record, the court finds that the trustees have made a prima facie showing of entitlement to judgment as a matter of law. Applying the factors considered by the Appellate Division in Countrywide, the court holds that the trustees exercised their discretion reasonably and in good faith in accepting the proposed settlement with Citigroup.\nHere, as in Countrywide, the trustees acted within their authority throughout the process of evaluating the proposed settlement. (See 127 AD3d at 126.) No question of fact exists as to the trustees’ authority to settle these claims. Under the terms of the transactional documents governing the trusts, the trustees were assigned all “right, title and interest” in and to the mortgage loans. (Radke aff ¶¶ 5-6; see e.g. Citigroup Mortgage Loan Trust Inc. [CMLTI] 2005-10 Pooling and Service Agreement [PSA] § 2.01 [Taraila aff, exhibit 35]; CMLTI 2005-11 Amended and Restated Trust Agreement § 3.01 [Taraila aff, exhibit 36]; CMLTI 2005-11 Indenture, Granting Clause [Taraila aff, exhibit 37].) In reviewing substantially similar agreements, the courts have held that such provisions “effectively grant [ ] the Trustee the power and authority to commence litigation” and, with it, the discretionary “power to settle litigation.” (Matter of Bank of N.Y. Mellon, 42 Misc 3d 1237[A], 2014 NY Slip Op 50384[U], *14 [Sup Ct, NY County 2014, Kapnick, J.], mod on other grounds 127 AD3d 120 [1st Dept 2015] [Countrywide]; see also LaSalle Bank N.A. v Nomura Asset Capital Corp., 180 F Supp 2d 465, 471 [SD NY 2001] [holding that a conveyance of all “ 'right, title, and interest’ in . . . mortgages . . . ordinarily includes the power to bring suit to protect and maximize the value of the interest thereby granted”].)\nNor is there any indication that, in approving the proposed settlement, the trustees acted in their self-interest or in the interests of Citigroup or of the institutional investors, rather than in the interests of the investors generally. (See Countrywide, 127 AD3d at 126.) There is no evidence in this unopposed record that the trustees will financially benefit from the proposed settlement or that they are “beholden” to Citigroup or the institutional investors. (See Royal Park Invs. SA/NV v HSBC Bank USA, N.A., 109 F Supp 3d 587, 597, 609-610 [SD NY 2015], citing AG Capital Funding Partners, L.P. v State St. Bank & Trust Co., 11 NY3d 146, 156-157 [2008] [in support of holding that, under New York law, although RMBS trustees’ pre-default duties are defined by the governing agreements, trustees are required to avoid conflicts of interest].)\nThe court does not find that a conflict of interest exists based on Citigroup’s agreement to reimburse the trustees for their reasonable fees and expenses in evaluating the settlement and maintaining this proceeding. (RMBS Trust Settlement Agreement § 2.06.) The trustees persuasively contend that they are entitled under the governing agreements to indemnification for the expenses at issue (see e.g. CMLTI 2005-10 PSA § 8.01), and that the trusts would otherwise have been responsible for reimbursing these costs. This colorable interpretation of the contract terms is not challenged by any investor, although Citigroup’s provision of indemnification is fully disclosed in the proposed settlement.\nThe court further holds that the trustees’ reliance on the plausible reports and advice of outside experts is “significantly probative of [the trustees’] prudence.” (See Countrywide, 127 AD3d at 126.) The law on trusts, cited by the Appellate Division in the Countrywide decision, recognizes that a trustee’s duty of prudence “may . . . call for obtaining and considering the advice of others on a reasonable basis.” (Restatement [Third] of Trusts § 77, Comment b; see also id. § 93, Comment c [“a trustee’s reliance on the advice of financial, legal, and other advisors is a significant factor in determining whether the trustee’s conduct was prudent”].) “[Obtaining competent guidance and assistance” is particularly important where the particular aspect of the trust’s administration requires greater than ordinary knowledge or experience. (See id. § 77, Comment b.)\nThe focus of the Appellate Division in the Countrywide article 77 proceeding was on the trustee’s reliance on the plausible advice of counsel, whereas the focus here is on the trustees’ reliance on the advice of outside experts. However, the reasoning underlying the Countrywide Court’s finding that reliance on counsel was “significantly probative of prudence” applies with equal force where a trustee has relied reasonably and in good faith on other “highly-regarded specialists.” (See 127 AD3d at 126.) Indeed, the Comments to the most recent Restatement of Trusts articulate a rule that parallels the rule enunciated in Countrywide concerning a trustee’s reliance on counsel, but which applies to professional advice generally:\n“Reliance on relevant professional advice does not afford a complete defense to allegations of breach of trust, for that protection should not apply, for example, if the trustee acted unreasonably in following the advice or in procuring it, as might be the case in shopping for advice to support a desired course of conduct. If, however, a trustee has selected an adviser prudently and in good faith, has provided the adviser with relevant information, and has relied on plausible advice on a matter within the adviser’s competence, this conduct provides significant evidence of the prudence of the trustee’s action or inaction in the matter at issue.” (Restatement [Third] of Trusts § 93, Comment c; see also id. § 80, Comment b [a trustee “may consult with and receive advice from others, such as accountants, legal counsel, and financial advisors,” and in some circumstances may have a duty to do so, but “must exercise independent, prudent, and impartial fiduciary judgment on the matters involved”].)\nIn this case, the trustees properly obtained and considered the opinions of several highly respected outside experts on a number of legal issues relevant to the assessment of the trusts’ potential recovery in litigation, including the bar of the statute of limitations. In particular, Justice Carpinello advised that the six-year limitations period applicable to breach of contract claims “accrues at the time the Trusts closed” (Carpinello aff ¶ 9 [a]), and that “suits for breach of warranty cannot be filed until the requisite cure period (. . . typically 90 days) has expired.” {Id. ¶ 9 [c].) These conclusions were based on “[v]iable legal reasoning” (see Countrywide, 127 AD3d at 126) and were not only plausible in late 2014, when Justice Carpinello’s report was written and relied upon, but anticipated the determination of the Court of Appeals in ACE Sec. Corp., Home Equity Loan Trust, Series 2006-SL2 v DB Structured Prods., Inc. (25 NY3d 581, 589 [2015] [holding that RMBS trust’s cause of action against the sponsor of the transaction for breach of representations and warranties “accrued at the point of contract execution”], affg 112 AD3d 522 [1st Dept 2013]).\nThe trustees also retained outside experts to estimate the trusts’ lifetime losses, through the development and application of complex methodologies. On this unopposed record, in which no deficiencies in the experts’ methodologies have been pointed out by any objector, and in which the methodologies do not appear on their face to be implausible, the court cannot say that the trustees’ reliance on the valuation experts’ reports was an unreasonable exercise of discretion. (See Countrywide, 127 AD3d at 126-127; see also Restatement [Third] of Trusts § 87, Comment c [noting that “(p)erhaps most of the litigation in which it is concluded that a trustee has committed an abuse of discretion involves a finding that the trustee, in exercising a power, has acted unreasonably—that is, beyond the bounds of a reasonable judgment”].)\nIn sum, applying the standards set forth above, the court holds that the trustees exercised their discretionary power reasonably and in good faith in accepting the RMBS Trust Settlement Agreement.\nAccordingly, it is hereby ordered that the trustees’ motion for judgment is granted to the extent set forth in a separate order and judgment of the same date.\n. The RMBS process was recently summarized by the Court of Appeals in ACE Sec. Corp., Home Equity Loan Trust, Series 2006-SL2 v DB Structured Prods., Inc. (25 NY3d 581, 589 [2015]). This process and the types of claims commonly brought by RMBS trustees against sponsors in the wake of the financial crisis are also discussed at length in this court’s prior RMBS decisions.\n. The trustees are U.S. Bank National Association, Deutsche Bank National Trust Company, HSBC Bank USA, N.A., and Law Debenture Trust Company of New York. The 18 institutional investors with which Citigroup negotiated the proposed settlement have intervened as co-petitioners in this proceeding. They are Bayerische Landesbank, BlackRock Financial Management, Inc., Cascade Investment, LLC, the Federal Home Loan Bank of Atlanta, the Federal Home Loan Mortgage Corporation, Goldman Sachs Asset Management L.R, Voya Investment Management LLC (formerly known as ING Investment LLC), Invesco Advisers, Inc., Kore Advisors, L.R, Landesbank Baden-Württemberg, Metropolitan Life Insurance Company, Pacific Investment Management Company LLC, Sealink Funding Limited, Teachers Insurance and Annuity Association of America, the Prudential Insurance Company of America, the TCW Group, Inc., Thrivent Financial for Lutherans, and Western Asset Management Company. A nineteenth investor, the Federal National Mortgage Association, has also intervened in support of the petition. (Taraila aff ¶ 5.)\n. Each of the 68 covered trusts is comprised of at least one “loan group” (i.e., a group of mortgage loans), and the proposed settlement allowed the trustees to accept or reject the offer on a loan group by loan group basis. (RMBS Trust Settlement Agreement ¶ 2.07.)\n. The RMBS Trust Settlement Agreement, as presented to the trustees on April 11, 2014, is attached as exhibit 2 to the Taraila affidavit sworn to on July 10, 2015. (See Taraila aff ¶ 3.) All citations are to the revised agreement accepted by the trustees, which is attached as exhibit 29 to the same affidavit.\n. In Countrywide, Bank of New York Mellon (BNYM), as RMBS trustee, commenced the article 77 proceeding against the originator and servicer of the trusts, Countrywide Home Loans, and its successor, Bank of America (BofA). (127 AD3d at 123.)\n. U.S. Bank serves as trustee for 198 of the 206 loan groups covered by the proposed settlement. (Taraila aff ¶ 8; exhibit 3-B.)\n. The covered trusts are governed by a range of transactional documents, including pooling and servicing agreements, mortgage loan purchase agreements, assignment and recognition agreements, and indentures. (Id. f 4; Radke aff ¶ 3.)\n. U.S. Bank provided, among other documents, agreements governing the trusts, summaries of certain provisions in those agreements, tolling agreements, and data concerning lawsuits then being prosecuted by U.S. Bank involving breach of representation and warranty claims. (Taraila aff ¶ 32.) At the experts’ request, counsel for the trustees contacted Citigroup for additional information, including original loan data for the trusts, information concerning notices provided to Citigroup of any breaches and warranties concerning loans held in the trusts, and repurchases by Citigroup of any loans in the trusts. Citigroup provided voluminous documents and data in response to these requests. (Id. ¶ 33; see also Musarra aff ¶¶ 28-29; Reyes aff ¶¶ 27-28.)\n. U.S. Bank secured a limited additional extension of the evaluation period for these two loan groups, until December 31, 2014. (Taraila aff ¶ 51; exhibit 26.)\n. The trustees accepted the settlement on behalf of each of the 197 loan groups for which Professor Cornell recommended acceptance in his third supplemental report. (Third supplemental report [Cornell aff, exhibit 7] at exhibit W; joint statement ¶¶ 69-71; Taraila aff ¶¶ 58-59; Mackay aff ¶¶ 27, 41; Musarra aff ¶¶ 40, 45; Reyes aff ¶¶ 37, 41.) U.S. Bank decided to accept the proposed settlement for an additional two loan groups, as to which Cornell had recommended rejection, based on Cornell’s caveat that “ ‘a Trustee should not reject the [Proposed Settlement] unless it has already received, or is confident it will receive, direction and satisfactory indemnity to complete the investigation and litigation that would likely be necessary to recover from Citigroup on the Released Claims.’ ” (Taraila aff ¶ 59.) Professor Cornell has since confirmed, by affidavit, that under the circumstances, U.S. Bank acted in accordance with his recommendations in accepting the settlement on behalf of those loan groups. (Cornell aff ¶ 16.)\n. The initial affidavit of Jose C. Fraga regarding the notice program, sworn to on March 27, 2015, was filed by the trustees on the same date. (NYSCEF Doc. No. 44.) On May 19, 2015, the court directed the trustees to file a supplemental affidavit specifying each certificateholder, noteholder, or other person or entity to which the required mailing was made, the date of each mailing, and the address to which each mailing was made. (May 19, 2015 tr at 4-5.) Accordingly, a supplemental affidavit of Jose C. Fraga, sworn to on July 8, 2015, was filed on July 10, 2015. (NYSCEF Doc. No. 78.) On November 6, 2015, the court directed the trustees to submit a second supplemental affidavit clarifying the roles of each person or entity to which the required mailing was made. (Tr dated Nov. 6, 2015 at 16-17, 34.) This second supplemental affidavit of Jose C. Fraga was sworn to and filed on November 12, 2015. (NYSCEF Doc. No. 148.)\n. In Countrywide, the settlement agreement included an analogous indemnification provision under which the master servicer for the trusts and its guarantor, Bank of America, agreed that the master servicer was obligated, under the indemnity provisions of the governing agreements, to pay the trustee’s expenses relating to “the Trustee’s analysis of the Settlement, [and] the filing by the Trustee of any petition in connection with the settlement.” (See Countrywide settlement agreement ¶ 16 and side-letter, index No. 651786/2011 [NYSCEF Doc. No. 3].) It does not appear, from the face of the trial court and Appellate Division decisions of the Countrywide article 77 proceeding, that a conflict of interest was asserted based on this indemnification provision.\nA different conflict of interest claim was, however, raised before the Countrywide trial court. Objecting investors argued that a conflict arose when the trustee, BNYM, following notice by certificateholders of breaches of representations and warranties by the sellers of the loans, agreed to toll a 60-day cure period “while it engaged in settlement negotiations, in exchange for an indemnity agreement from Bank of America.” (Matter of Bank of N.Y. Mellon, 42 Misc 3d 171, 180-181 [Sup Ct, NY County 2013] [Countrywide].) The court held that it did “not find that the issue raised by the movants regarding the trustee’s . . . efforts to obtain broad indemnification for its actions states a colorable claim of conflict or self-dealing,” as “BNYM did not obtain indemnification beyond what was provided for under the PSAs.” (Id. at 181 n 3.) The court adhered to that holding in its final decision of the proceeding. (2014 NY Slip Op 50384[U], *18.) The issue was not addressed by the Appellate Division on appeal.\n. Although the trustees in this proceeding submit affidavits in which they assert that they retained counsel to assist them in their evaluation of the proposed settlement (see e.g. Taraila aff ¶ 14; Mackay aff ¶ 7), the trustees emphasize their reliance on outside experts retained to provide both legal and nonlegal advice on matters relevant to the trustees’ decision to accept or reject the settlement.\n. It is noted that, in estimating the trusts’ future losses, Winn and Cornell applied different assumptions. For example, Cornell reached a lower estimate of lifetime losses than Winn did, based on his rejection of Winn’s assumption as to future changes in housing prices—a determinant of future losses because of the influence of such prices on whether borrowers will default. (Cornell report ¶ 40.) The difference of opinion between the experts on this complicated valuation issue, if anything, supports the conclusion that the experts exercised professional judgment in considering the questions posed to them.",
+        "type": "majority",
+        "author": "Marcy Friedman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Morgan Lewis & Bockius LLP, New York City (Michael S. Kraut and Kurt W. Rademacher of counsel), and Rollin B. Chippey, II and Benjamin P Smith, San Francisco, California, for U.S. Bank National Association and another, petitioners.",
+      "Mayer Brown LLP, New York City (Jean-Marie L. Atamian and James Ancone of counsel), for HSBC Bank USA, N.A., petitioner.",
+      "Seward & Kissel LLP, New York City {Dale C. Christensen, Jr. and Thomas Ross Hooper of counsel), for Law Debenture Trust Company of New York, petitioner.",
+      "Warner Partners, P.C., New York City {Kenneth E. Warner of counsel), and Gibbs & Bruns LLP, Houston, Texas {Kathy D. Patrick, Robert J. Madden and David Sheeren, of the Texas bar, admitted pro hac vice, of counsel), for Bayerische Landesbank and others, intervenors."
+    ],
+    "corrections": "",
+    "head_matter": "[27 NYS3d 797]\nIn the Matter of U.S. Bank National Association et al., Petitioners.\nSupreme Court, New York County,\nDecember 18, 2015\nAPPEARANCES OF COUNSEL\nMorgan Lewis & Bockius LLP, New York City (Michael S. Kraut and Kurt W. Rademacher of counsel), and Rollin B. Chippey, II and Benjamin P Smith, San Francisco, California, for U.S. Bank National Association and another, petitioners.\nMayer Brown LLP, New York City (Jean-Marie L. Atamian and James Ancone of counsel), for HSBC Bank USA, N.A., petitioner.\nSeward & Kissel LLP, New York City {Dale C. Christensen, Jr. and Thomas Ross Hooper of counsel), for Law Debenture Trust Company of New York, petitioner.\nWarner Partners, P.C., New York City {Kenneth E. Warner of counsel), and Gibbs & Bruns LLP, Houston, Texas {Kathy D. Patrick, Robert J. Madden and David Sheeren, of the Texas bar, admitted pro hac vice, of counsel), for Bayerische Landesbank and others, intervenors."
+  },
+  "file_name": "2168-01",
+  "first_page_order": 285,
+  "last_page_order": 300
+}

@@ -1,0 +1,101 @@
+{
+  "id": 6786959,
+  "name": "The People of the State of New York, Respondent, v. Nixia Martinez, Appellant",
+  "name_abbreviation": "People v. Martinez",
+  "decision_date": "2016-03-30",
+  "docket_number": "",
+  "first_page": "24",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 24"
+    },
+    {
+      "type": "parallel",
+      "cite": "34 N.Y.S.3d 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Misc 3d 95",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4032795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/43/0095-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 613",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "622"
+        },
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 262,
+    "char_count": 4007,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.182443455197581
+    },
+    "sha256": "d2c484ec8a4a483ed80d2ddd2de94b623d35bc854cb4276c5ecb8274f8aedb2d",
+    "simhash": "1:1e908f6ce2a2bad2",
+    "word_count": 606
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Hunter, Jr., J.P., and Ling-Cohan, J., concur."
+    ],
+    "parties": [
+      "The People of the State of New York, Respondent, v Nixia Martinez, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPer Curiam.\nJudgment of conviction, rendered September 25, 2013, modified, on the law, to vacate the convictions for loitering for the purpose of engaging in a prostitution offense under docket numbers 2013BX041674 and 2013BX041375 and to dismiss the accusatory instruments relating thereto; as modified, judgment affirmed.\nWe find unavailing defendant’s challenge to the facial sufficiency of the accusatory instrument charging loitering for the purpose of engaging in a prostitution offense (see Penal Law § 240.37) under docket number 2013BX044226. The information — comprising the misdemeanor complaint and supporting deposition of the arresting officer — alleged that at a specified time and street location, police observed defendant “loiter [ing] and wander [ing] about . . . during which time defendant beckoned to passing traffic and stopped or attempted to stop 3 male passersby and 3 male motorists”; that the arresting officer “has seen the defendant at the above location on other occasions engaging in the same conduct” and “previously arrested defendant for a prostitution related offense”; and that the conduct led the officer to conclude, based upon his training and experience with regard to prostitution-related offenses, that defendant was loitering for the purpose of prostitution. These allegations established reasonable cause to believe and a prima facie case that defendant was loitering for the purpose of engaging in a prostitution offense (see Penal Law § 240.37; People v Smith, 44 NY2d 613, 622 [1978]).\nThe pleaded Penal Law § 240.37 charge under docket number 2013BX041375 stated that, at a specified time and street location, defendant “loitered and wandered about the above location for a period of approximately five minutes, during which time defendant beckoned to passing traffic and stopped or attempted to stop 1 male motorist.” These allegations, describing only a single instance of conduct alleged to have occurred, were insufficient to establish reasonable cause to believe and a prima facie case that defendant engaged in the type of repeated conduct proscribed by Penal Law § 240.37 (2), i.e., “repeatedly beckons to, or repeatedly stops, or repeatedly attempts to stop, or repeatedly attempts to engage passers-by in conversation, or repeatedly stops or attempts to stop motor vehicles, or repeatedly interferes with the free passage of other persons, for the purpose of prostitution.”\nThe Penal Law § 240.37 charge pleaded under docket number 2013BX041674, alleging that at a specified time and street location defendant “stop[ped] three (3) motorists and engaged in a brief conversation,” contained sufficient allegations to establish prima facie the loitering element of the charged offense. However, the allegations that the area “is a high prostitute prone location” and that defendant “did not approach female passersby or motorists” or “livery, taxi or bus drivers” were insufficient to establish reasonable cause to believe and a prima facie case that the observed loitering activity was for the purpose of prostitution. Absent from the pleading was any reference to the officer’s training and experience in differentiating between casual street encounters and acts of solicitation for prostitution, or the officer’s knowledge that this defendant was a known prostitute or had prior prostitution-related arrests, or any other “additional objective conduct evincing that the observed activities are for the purpose of prostitution” (People v Smith, 44 NY2d at 621; see People v Barker, 43 Misc 3d 95 [2014]).\nHunter, Jr., J.P., and Ling-Cohan, J., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Center for Appellate Litigation, New York City (Hunter Haney and Robert S. Dean of counsel), for appellant.",
+      "Darcel D. Clark, District Attorney, Bronx (Andrew J. Zapata of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[34 NYS3d 558]\nThe People of the State of New York, Respondent, v Nixia Martinez, Appellant.\nSupreme Court, Appellate Term, First Department,\nMarch 30, 2016\nAPPEARANCES OF COUNSEL\nCenter for Appellate Litigation, New York City (Hunter Haney and Robert S. Dean of counsel), for appellant.\nDarcel D. Clark, District Attorney, Bronx (Andrew J. Zapata of counsel), for respondent."
+  },
+  "file_name": "2262-01",
+  "first_page_order": 76,
+  "last_page_order": 78
+}

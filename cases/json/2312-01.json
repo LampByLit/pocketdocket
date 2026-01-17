@@ -1,0 +1,130 @@
+{
+  "id": 6788392,
+  "name": "Ksenia Pavlova, D.O., as Assignee of Cosby Reavis, Plaintiff, v. Allstate Insurance Company, Defendant",
+  "name_abbreviation": "Pavlova v. Allstate Insurance",
+  "decision_date": "2016-04-11",
+  "docket_number": "",
+  "first_page": "491",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 491"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 444"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "51 Misc 3d 441",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4235129
+      ],
+      "pin_cites": [
+        {
+          "page": "442-443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/51/0441-01"
+      ]
+    },
+    {
+      "cite": "269 AD2d 413",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        176630
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/269/0413-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 498",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4321542
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "507"
+        },
+        {
+          "page": "506"
+        },
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0498-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 8094,
+    "ocr_confidence": 0.76,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18248670096210243
+    },
+    "sha256": "5414c8c4cc894249fa3d9e3443f3be48e11055e50d97f92e87ecfa171d257c59",
+    "simhash": "1:2822eea52dcb82c3",
+    "word_count": 1279
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ksenia Pavlova, D.O., as Assignee of Cosby Reavis, Plaintiff, v Allstate Insurance Company, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDevin P. Cohen, J.\nPlaintiff’s and defendant’s respective motions for summary judgment are decided as follows:\nI. Factual Background\nIn this action to recover assigned first-party no-fault benefits, plaintiff submitted a claim form and invoice to defendant for services rendered to Cosby Reavis on October 8, 2013. According to plaintiff’s claim, these services related to three different codes promulgated under the Official New York Workers’ Compensation Medical Fee Schedule. These codes are 99215, 20553 and 20999. Through the affidavit of its owner, Ksenia Pavlova, plaintiff contends it has made a prima facie case because it timely mailed a claim (NYS Form NF-3) for services rendered to Cosby Reavis, in accordance with its office procedure for generating and mailing bills, and that defendant has not paid the bill.\nDefendant received plaintiff’s claim on October 21, 2013, and issued a denial (NYS Form NF-10) of the claim on December 3, 2013, based on a defense of lack of medical necessity of the services rendered, and based upon its contention that plaintiff did not bill its services in accordance with the applicable fee schedule. Defendant submits a copy of the denial with the affidavit of its claims representative, Nancy Kowalchuk, who describes defendant’s procedure for receiving and reviewing claims, and for sending denials to its Southwest Output Processing Center. Defendant also submits the affidavit of Janine Wicks of its Southwest Output Processing Center, who describes defendant’s procedure for mailing responses to claims for benefits, such as plaintiff’s claim. Lastly, defendant submits the sworn statement of Dr. Dorothy Scarpinato, who describes her determination that plaintiff’s services were not medically necessary, based on her independent medical examination of Cosby Reavis.\nII. Discussion\nA. Fee Codes 99215 and 20553\nTo prevail on a motion for summary judgment, a medical provider must establish its prima facie case by proving it mailed its “completed claim form to the insurer,” and the insurer failed to pay or deny the claim within 30 days of receipt of the claim (Viviane Etienne Med. Care, P.C. v Country-Wide Ins. Co., 25 NY3d 498, 507 [2015]). With regard to the claims bearing codes 99215 and 20553, this court holds that plaintiff has met its prima facie burden. However, for the reasons stated below, the court finds that plaintiff has not met its prima facie burden as to the claim bearing code 20999.\nFollowing submission of the bill, defendant had 30 days to pay or deny the claim for any defense, except for any non-precludable defense (Viviane Etienne, 25 NY3d at 506). As defendant denied plaintiff’s claim more than 30 days from the date of receipt, defendant did not preserve its defense of medical necessity (Bonetti v Integon Natl. Ins. Co., 269 AD2d 413, 414 [2d Dept 2000] [lack of medical necessity is a precludable defense]). In addition, defendant’s motion omits any argument concerning the proper billing of services associated with codes 20553 and 99215. Accordingly, this court grants plaintiff’s motion for summary judgment with regard to services related to codes 20553 and 99215.\nB. “By Report” Code 20999\nWith regard to the remaining code 20999, defendant argues that plaintiff has not satisfied its prima facie burden because plaintiff’s claim is incomplete. Specifically, defendant contends plaintiff did not provide sufficient information in support of the amount it charged for the services it designated with code 20999 of the Fee Schedule. Instead of having a relative value associated with the service, code 20999 is designated “By Report,” abbreviated “BR.” The Fee Schedule states that, in order to determine the appropriate monetary value of services designated “BR,” plaintiff must provide certain information.\n“Information concerning the nature, extent, and need for the procedure or service, time, skill and equipment necessary, etc., is to be furnished using all of the following:\n“A) Diagnosis (postoperative), pertinent history and physical findings.\n“B) Size, location, and number of lesions or procedures where appropriate.\n“C) A complete description of the major medical procedure and the supplementary procedures.\n“D) When possible, list the closest similar procedure by code and relative value unit. The ‘BR’ relative value unit shall be consistent in relativity with the other relative value units in the schedule.\n“E) Estimated follow up period, if not listed.\n“F) Operative time.” {See Fee Schedule § 4, Surgery at 4, Surgical Ground Rule No. 10 [June 1, 2012 ed].)\nIn its papers, plaintiff makes no showing that it provided this information.\nNeither plaintiff nor defendant provides any case law to support or refute defendant’s argument that this information is part of plaintiff’s prima facie burden, and this court has found no governing precedent. Thus, this issue appears to be a matter of first impression in this jurisdiction.\nThis court views “By Report” information as, by definition, part of the proof of plaintiff’s “completed claim form” 9see Viviane Etienne, 25 NY3d at 507), and thus part of plaintiff’s prima facie burden. The Fee Schedule, which has been adopted into New York’s no-fault regulations (see 11 NYCRR 68.1 [a]), places an affirmative duty on the medical provider to submit this information to justify its billing. By omitting this information, plaintiff deprived defendant of sufficient notice of the claim. Without sufficient notice, defendant should not be expected to evaluate and pay the claim. Consequently, plaintiff did not establish its prima facie case for services related to code 20999.\nSeparate from the language of the Fee Schedule, defendant also argues that, pursuant to the recently amended 11 NYCRR 65-3.8 (g) (1), plaintiff must prove it billed in accordance with the Fee Schedule as part of its prima facie burden. As this court held in East Coast Acupuncture, P.C. v Hereford Ins. Co. (51 Misc 3d 441, 442-443 [Civ Ct, Kings County 2016]), the amended 11 NYCRR 65-3.8 (g) (1) does not per se require a medical provider to prove it billed in accordance with the Fee Schedule as part of its prima facie burden. Instead, the regulation states that, to the extent plaintiff bills amounts in excess of the Fee Schedule, the claim is not established. Therefore, this court held that the fee schedule defense is, under the amended regulation, non-precludable. Consistent with that opinion is the implication that, to even be considered, the basis of a bill must be established. Fee Schedule encoding generally acts as an agreed shorthand for the value of services. By exception, claims submitted through “By Report” codes have no predetermined relative value, and therefore, must be properly documented and detailed (as described in Surgical Ground Rule No. 10) before they can be considered established and complete. Accordingly, this court holds that, by failing to provide the information specified in the Fee Schedule in support of its services, plaintiff has not made its prima facie case as to code 20999.\nIII. Conclusion\nFor the foregoing reasons, plaintiffs motion is granted with respect to the services billed under codes 20553 and 99215, in the amount of $267.79, and plaintiff may enter judgment for $267.79 plus statutory costs, attorney’s fees, disbursements and interest. Defendant’s motion is granted with respect to services billed under code 20999, and plaintiff’s claim with respect to those services is dismissed.\nIn any event, defendant does not argue that plaintiff billed in excess of the Fee Schedule. Rather, defendant argues that its fee schedule denial arose because plaintiff failed to provide the information necessary to determine the appropriate fee for its services related to code 20999.",
+        "type": "majority",
+        "author": "Devin P. Cohen, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Rybak Firm, PLLC, Brooklyn, for plaintiff.",
+      "Peter C. Merani, PC., New York City, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 444]\nKsenia Pavlova, D.O., as Assignee of Cosby Reavis, Plaintiff, v Allstate Insurance Company, Defendant.\nCivil Court of the City of New York, Kings County,\nApril 11, 2016\nAPPEARANCES OF COUNSEL\nThe Rybak Firm, PLLC, Brooklyn, for plaintiff.\nPeter C. Merani, PC., New York City, for defendant."
+  },
+  "file_name": "2312-01",
+  "first_page_order": 483,
+  "last_page_order": 487
+}

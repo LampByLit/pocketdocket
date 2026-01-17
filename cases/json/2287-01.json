@@ -1,0 +1,163 @@
+{
+  "id": 6787676,
+  "name": "The People of the State of New York, Plaintiff, v. Abdullah Mohammed, Defendant",
+  "name_abbreviation": "People v. Mohammed",
+  "decision_date": "2016-05-06",
+  "docket_number": "",
+  "first_page": "242",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 242"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "132 S Ct 2221",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407017
+      ],
+      "pin_cites": [
+        {
+          "page": "2228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0050-01"
+      ]
+    },
+    {
+      "cite": "27 NY3d 294",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        6777762
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/27/0294-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 577",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525140
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0577-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 423",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8594597
+      ],
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0423-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 1210",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 AD3d 63",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4141722
+      ],
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/53/0063-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 8059,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 6.315005732208552e-8,
+      "percentile": 0.38844619898689076
+    },
+    "sha256": "070dce9578b3f67f772b114e4d01fd9e8d395458dff881d1d7af99648cbe0554",
+    "simhash": "1:33250595fc2a2025",
+    "word_count": 1345
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Abdullah Mohammed, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSteven L. Barrett, J.\nDefendant is charged with auto stripping in the second degree and related offenses. On April 16, 2015, this court ordered that a saliva sample be taken from defendant for purposes of DNA testing and analysis. After comparative DNA testing was performed, the Office of the Chief Medical Examiner (OCME) determined that defendant’s DNA matched a DNA profile that was developed from the crime scene evidence. Defendant now moves to compel the People to turn over the electronic files containing the “electronic raw data” of the DNA testing that was performed in this case, or, in the alternative, for leave to file and serve a subpoena, on notice to the OCME, for the electronic raw data. For the following reasons, defendant’s motion is denied.\nPursuant to CPL 240.20 (1) (c), the People are obligated to provide defendant with a copy of any written report or document, or portion thereof, concerning a scientific test or experiment relating to the criminal action which was made by, or at the request or direction of a public servant engaged in law enforcement activity. Thus, for the raw data at issue to be considered discoverable under this provision as it is currently written, it must be considered part of a written report or document. Several of my learned colleagues have construed this provision broadly to include computer files and have concluded that the electronic raw data at issue, because they are stored in digital form on a computer, are indeed the functional equivalent of written documents. (See e.g. People v DeJesus, Sup Ct, Bronx County, Jan. 26, 2015, Clancy, J., index No. 3834/13; People v Jiminiz, Sup Ct, Bronx County, June 27, 2014, Weber, J., index No. 3281/13; People v Grant, Sup Ct, Bronx County, June 12, 2014, Fabrizio, J., index No. 604/13.)\nI respectfully disagree and find that the raw data at issue does not fall within CPL 240.20 (1) (c) and therefore is not discoverable. This is so because, unlike electronic documents that are textual in nature, the raw data at issue does not already exist in one easily accessible file that would require the click of a mouse or push of a button to generate and produce. According to Rebecca Johannesen, an attorney employed by OCME, electronic raw data is unanalyzed data that is generated in the early stages of the DNA analysis process. (See amended affirmation of Rebecca Johannesen ¶ 6.) The raw data is made readable by running it through genotyp-ing software to create an electropherogram, from which the data can be analyzed and interpreted. Raw data from multiple cases is batched and stored in the OCME internal server. (See amended affirmation of Rebecca Johannesen ¶¶ 6-7.) To be batched means that the raw data files in a particular case are stored together with raw data files for numerous other cases. Thus, in order to pull the data for a specific case, the analyst would need to (1) go into the OCME internal server and manually search through the raw data files contained in that batch; (2) locate and copy the data associated with a particular case (including data for the sample itself, the allelic ladder, and the positive and negative controls); (3) copy the data to new labeled folders; and then (4) transfer that data onto a disk. (See affirmation of Rebecca Johannesen ¶ 7.) Ms. Johannesen further avers that this process of identifying and compiling the raw data may take several hours to complete depending on the number of STR (short tandem repeat) runs that had been performed on a particular case. (See affirmation of Rebecca Jo-hannesen ¶ 7.)\nBased upon this explanation of the process, it is hard to see how the raw data at issue is akin to text that is stored in a computer file. (Cf. People v Robinson, 53 AD3d 63, 68 [2d Dept 2008] [court found computer source code installed in a breathalyzer instrument to be “a species of ‘text’ ” written onto a computer chip and therefore a written document within the meaning of CPL 240.20 (1) (c)].) Thus, the court concludes that the raw data requested is not a written document or report, or portion thereof; therefore, it falls outside the scope of CPL 240.20 (1) (c). (See e.g. People v Carter, 50 Misc 3d 1210[A], 2016 NY Slip Op 50067DJ] [Sup Ct, Queens County 2016]; People v Moody, Sup Ct, Richmond County, Nov. 21, 2014, Rienzi, J., index No. 257/13; People v Jones, Sup Ct, Kings County, June 12, 2014, Murphy J., index No. 5146/12; People v Feola, Sup Ct, Bronx County, Aug. 9, 2013, Benitez, J., index No. 2669/11.)\nConsequently, until and unless the legislature sees fit to amend CPL 240.20 to explicitly include in the People’s discovery obligations the disclosure of all electronic data, or the Appellate Division interprets this provision to impose such an obligation, this court is not inclined to do so. (See People v Colavito, 87 NY2d 423, 427 [1996] [items not enumerated in article 240 are not discoverable as a matter of right unless constitutionally or otherwise specially mandated]; see also Majewski v Broadalbin-Perth Cent. School Dist., 91 NY2d 577, 583 [1998] [where “the natural signification of the words employed” in a statute leaves “no room for construction . . . courts have no right to add to or take away from that meaning” and the task of judicial interpretation is finished].)\nAccordingly, defendant’s motion to compel the discovery of the electronic raw data or for leave to file and serve a subpoena for the production of the electronic raw data is denied.\n. The court notes that the People have provided defendant with a copy of the complete “forensic biology” files compiled by the OCME in connection with all DNA testing performed in this case. The forensic biology files contain numerous documents including certain electronic data called electrophero-gram’s that were generated during DNA testing and were relied upon by the OCME analysts in reaching their conclusions. At issue is the raw data, which defendant describes as the unprocessed or digital data contained in “.fsa files,” that is created during DNA testing, before the DNA is edited and filtered by certain software. (See defendant’s mem of law at 8.)\n. Although it may take several hours to identify and compile the raw data in a particular case, the burden on OCME must be considered in the context of the over 9,000 reports for DNA testing that were completed by OCME in 2015. {See affirmation of Rebecca Johannesen ¶ 8; see also People v John, 27 NY3d 294, 334 [2016, Garcia, J., dissenting], citing Williams v Illinois, 567 US —, —, 132 S Ct 2221, 2228 [2012] [majority rejects rule that would require all analysts involved in DNA testing process to testify at trial and instead requires the testimony of the one analyst who witnessed, performed or supervised the generation of defendant’s DNA profile or who used his or her independent analysis on the raw data because a rule requiring all analysts to testify “would wreak havoc on the criminal justice system and forensic evidence laboratories like OCME”].)\n. Indeed, according to defendant, Illinois and Maryland have amended their discovery statutes to explicitly require disclosure of electronic data. (See defendant’s mem of law at 15.)\n. Defendant’s argument that without the raw data underlying the DNA testing and the conclusions of the OCME criminalist who performed the tests his defense will be significantly curtailed is unavailing. After all, if the DNA sample recovered from the case evidence was not consumed when tested by OCME, upon submission by the defendant, the court would sign a subpoena authorizing OCME to send the remaining DNA sample to an accredited lab chosen by the defendant for further testing at the expense of the defendant.",
+        "type": "majority",
+        "author": "Steven L. Barrett, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Legal Aid Society (Megan Luzier and Jessica Goldthwaite of counsel) for defendant.",
+      "Darcel D. Clark, District Attorney {Adam Oustatcher and Raymond Valerio of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 465]\nThe People of the State of New York, Plaintiff, v Abdullah Mohammed, Defendant.\nSupreme Court, Bronx County,\nMay 6, 2016\nAPPEARANCES OF COUNSEL\nLegal Aid Society (Megan Luzier and Jessica Goldthwaite of counsel) for defendant.\nDarcel D. Clark, District Attorney {Adam Oustatcher and Raymond Valerio of counsel), for plaintiff."
+  },
+  "file_name": "2287-01",
+  "first_page_order": 234,
+  "last_page_order": 237
+}

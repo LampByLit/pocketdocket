@@ -1,0 +1,627 @@
+{
+  "id": 4234955,
+  "name": "The People of the State of New York, Plaintiff, v. Derrick C. Thomas, Defendant",
+  "name_abbreviation": "People v. Thomas",
+  "decision_date": "2016-01-29",
+  "docket_number": "",
+  "first_page": "603",
+  "last_page": "611",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 603"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 N.Y.S.3d 815"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Monroe Cty. Ct.",
+    "id": 9139,
+    "name": "County Court of New York, Monroe County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "132 AD3d 1388",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4364113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/1388-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 415",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356163
+      ],
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0415-01"
+      ]
+    },
+    {
+      "cite": "203 AD2d 933",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1165570,
+        1165563
+      ],
+      "pin_cites": [
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/203/0933-02",
+        "/ad2d/203/0933-01"
+      ]
+    },
+    {
+      "cite": "52 NY2d 611",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1101215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/52/0611-01"
+      ]
+    },
+    {
+      "cite": "53 NY2d 648",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4380243
+      ],
+      "pin_cites": [
+        {
+          "page": "650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/53/0648-01"
+      ]
+    },
+    {
+      "cite": "84 AD2d 938",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3266253,
+        3271045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/84/0938-02",
+        "/ad2d/84/0938-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 289",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339466
+      ],
+      "pin_cites": [
+        {
+          "page": "302-303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0289-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 838",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8596896
+      ],
+      "pin_cites": [
+        {
+          "page": "839"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0838-01"
+      ]
+    },
+    {
+      "cite": "124 AD3d 1312",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4355366,
+        4348086
+      ],
+      "pin_cites": [
+        {
+          "page": "1313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/1312-02",
+        "/ad3d/124/1312-01"
+      ]
+    },
+    {
+      "cite": "227 AD2d 773",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        347148
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/227/0773-01"
+      ]
+    },
+    {
+      "cite": "446 US 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182222
+      ],
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0291-01"
+      ]
+    },
+    {
+      "cite": "162 AD2d 793",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1000002
+      ],
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/162/0793-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 788",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "277 AD2d 932",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2809474,
+        548242
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "933"
+        },
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/277/0932-01",
+        "/ad2d/277/0932-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 289",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4435872
+      ],
+      "pin_cites": [
+        {
+          "page": "292-293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0289-01"
+      ]
+    },
+    {
+      "cite": "496 US 582",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124771
+      ],
+      "pin_cites": [
+        {
+          "page": "601-602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0582-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 286",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4377632
+      ],
+      "pin_cites": [
+        {
+          "page": "294-295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0286-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 1025",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 AD3d 1334",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3731029,
+        3736926
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/1334-02",
+        "/ad3d/111/1334-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 891",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4405394
+      ],
+      "pin_cites": [
+        {
+          "page": "893-894"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0891-01"
+      ]
+    },
+    {
+      "cite": "384 US 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 35",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331580
+      ],
+      "pin_cites": [
+        {
+          "page": "38-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0035-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 205",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752285
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0205-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 756",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 AD3d 1327",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3966293,
+        3956695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/70/1327-02",
+        "/ad3d/70/1327-01"
+      ]
+    },
+    {
+      "cite": "89 AD3d 1503",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4047679
+      ],
+      "pin_cites": [
+        {
+          "page": "1504"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/89/1503-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 787",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 AD3d 1118",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3049084
+      ],
+      "pin_cites": [
+        {
+          "page": "1119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/1118-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 1022",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 AD3d 1200",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3821734
+      ],
+      "pin_cites": [
+        {
+          "page": "1201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/1200-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 901",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 AD3d 1281",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4005384
+      ],
+      "pin_cites": [
+        {
+          "page": "1282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/1281-01"
+      ]
+    },
+    {
+      "cite": "498 US 833",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6345696,
+        6345312,
+        6344899,
+        6342884,
+        6344677,
+        6343271,
+        6345480,
+        6343945,
+        6344170,
+        6346057,
+        6343689,
+        6345869,
+        6345138,
+        6343476,
+        6343036
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0833-13",
+        "/us/498/0833-11",
+        "/us/498/0833-09",
+        "/us/498/0833-01",
+        "/us/498/0833-08",
+        "/us/498/0833-03",
+        "/us/498/0833-12",
+        "/us/498/0833-06",
+        "/us/498/0833-07",
+        "/us/498/0833-15",
+        "/us/498/0833-05",
+        "/us/498/0833-14",
+        "/us/498/0833-10",
+        "/us/498/0833-04",
+        "/us/498/0833-02"
+      ]
+    },
+    {
+      "cite": "75 NY2d 327",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4417765
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "336"
+        },
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0327-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        202999
+      ],
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0157-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 218",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4433827
+      ],
+      "pin_cites": [
+        {
+          "page": "222-223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 855,
+    "char_count": 18106,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1404678419475421
+    },
+    "sha256": "29aef23850c61aecef484f55fc1797e2ba8870b183182a44c8878c7d1c31ce86",
+    "simhash": "1:a99334863097420f",
+    "word_count": 2961
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Derrick C. Thomas, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nChristopher S. Ciaccio, J.\nDefendant Derrick C. Thomas is charged with two counts of assault in the second degree. By motion dated July 8, 2015, defendant moved to suppress potential testimony regarding an observation of the defendant either at the time or place of the commission of the offense or at some other relevant occasion. He also moved to suppress statements noticed by the People pursuant to CPL 710.30—oral statements made to a member of the Rochester Police Department on May 10, 2015.\nA combined Huntley/Wade hearing was held on September 9, 2015. The court also granted the defendant’s request for a hearing with respect to a possible Payton violation claim—defendant claimed that he was seized within his apartment without a warrant in the absence of any exigent circumstances.\nOfficers Thomas VanAcker and Thomas Wild and Investigator Ryan Hickey of the Rochester Police Department testified on behalf of the People. Defendant called no witnesses.\nWhat follows are the court’s findings of fact based on the testimony the court finds credible and its conclusions of law.\nFindings of Fact\nAt approximately 3:30 p.m. on May 10, 2015, Officers Thomas VanAcker and Thomas Wild of the Rochester Police Department received a call for service at 93 Prince Street. An individual by the name of James Reed had called 911 and claimed that he had just seen the man who stabbed him two days prior pull up in front of 93 Prince Street in a black Dodge Nitro and go into the upstairs of that location with a female.\nAt the scene Officer Wild observed the black Nitro and met the caller, who let him and other officers into the front door of the building, which was a three-unit apartment building. The officers went up to what the victim said was the defendant’s apartment, and knocked on the door calling for the defendant to come out. After 10 to 15 minutes, the defendant opened the door and walked out of the apartment. Officers asked him if he was Derrick Thomas. He said yes. No officers entered the apartment. No threats, force or promises were used to get Thomas to come out. Defendant was cooperative, and once out of the apartment, he was handcuffed and taken into custody.\nOfficers then walked the defendant, still in handcuffs, out of the side door of 93 Prince Street and to a patrol vehicle. The victim, Mr. Reed, who had been standing behind Officer VanAcker (who did not go into the apartment building), approached defendant and said, in sum and substance, “that’s him,” and pointed at the defendant, adding that he wanted the “record” to show that he pointed the defendant out.\nAt approximately 5:00 p.m. that same day, Investigator Ryan Hickey met with the defendant at the Clinton Section Office of the Rochester Police Department. Hickey had been involved in investigating the initial stabbing incident two days prior. Defendant was in handcuffs, but Investigator Hickey removed them prior to starting the interview and asked defendant if he needed to use the restroom or wanted something to drink. Defendant requested and was given water.\nInvestigator Hickey left the room for a brief period and returned about 20 minutes later. He then had a preliminary discussion with the defendant, asking him basic pedigree questions, including where he lived, his education level and whether he could read and write English. He also asked defendant if he had consumed any alcoholic beverages that day, to which defendant responded that he had two beers two hours prior, but was sober. Investigator Hickey then asked defendant if he knew why he had been brought to the police station. Defendant replied, in sum and substance, that yes, he did know, and it was because he had been involved in a fight a few days prior (defendant’s first statement).\nAt approximately 5:30 p.m., Investigator Hickey read defendant his Miranda rights from a standard card, entered into evidence as People’s exhibit 1. Defendant indicated that he understood the rights as read to him, and when asked if he wanted to speak to the Investigator, he answered that he would rather speak to a lawyer. People’s exhibit 1 indicates that defendant said, “I’d rather have a lawyer . . . well, what am I being charged with?” He then asked the Investigator to wait because he had a few questions for him. No threats or promises were made to defendant to induce him speak to Investigator Hickey. No further questions were posed by Investigator Hickey once defendant stated that he would rather speak to a lawyer.\nDefendant asked what he was being charged with. Investigator Hickey told him he was being charged with two counts of assault. He then asked if he would get to speak with a lawyer that night. Investigator Hickey told him most likely in the morning at arraignment. He asked if he was going to get bail, and Hickey said not until he saw a judge in the morning. Defendant asked if he would get bail if he spoke with Hickey. Investigator Hickey replied, in sum and substance, that even if defendant had spoken to him before requesting a lawyer, he most likely would not have received bail due to the seriousness of the charges. Defendant then stated, not in response to any question, “Well, it was two guys and a dog versus me, so I did what I had to do,” and then went on to discuss a prior incident involving an issue with a dog in the neighborhood (defendant’s second statement).\nOn May 13, 2015, Investigator Hickey conducted a photographic array identification procedure with one of the complainants from the initial stabbing incident, Louis Figueroa, which took place at the home of Figueroa’s aunt. Before showing the witness the photographic array, Investigator Hickey read to him standard instructions from a Rochester Police Department standard photographic array form. Mr. Figueroa stated that he understood the instructions and he signed the form itself. The photographic array form and the photographic array sheet were entered into evidence as People’s exhibit 2.\nThe photographic array sheet was upside down in a folder. Investigator Hickey slid the folder across the dining room table to Mr. Figueroa. The witness looked at the photographic array and after a few seconds, selected the individual depicted in position number four, identified by Investigator Hickey as the defendant. Mr. Figueroa stated that he recognized the person depicted in position number four as the person who stabbed him.\nNo threats or promises or suggestions were made to the witness to help him identify any picture in the photographic array or to identify the defendant. No one else was in the room during the identification procedure.\nConclusions of Law\nIdentifications\nThe credible evidence established that the two identifications of the defendant were not the result of any unduly suggestive, police-arranged identification procedures. With regard to Mr. Reed’s identification at 93 Prince Street, although spontaneous in that it was unprompted, it should be noted that the identification did not result from mere coincidence, thus this identification was the proper subject of the Wade hearing. (See generally People v Dixon, 85 NY2d 218, 222-223 [1995].) Mr. Reed called 911 and reported that the person who had stabbed him was at the location, to which the police responded. An identification of the suspect by Mr. Reed was likely considering these facts. There was no degree of police suggestion at all and in looking at the totality of the circumstances, the identification made by Mr. Reed was valid.\nWith regard to the photographic array, although there were slight differences among the six photographs that comprised the array, the defendant’s appearance and pose did not differ greatly from those of the men in the other photographs. The subtle differences in the photographs were not “sufficient to create a substantial likelihood that the defendant would be singled out for identification.” (People v Lee, 96 NY2d 157, 163 [2001], citing People v Chipp, 75 NY2d 327, 336 [1990], cert denied 498 US 833 [1990]; see also People v Williams, 81 AD3d 1281, 1282 [4th Dept 2011], lv denied 16 NY3d 901 [2011].)\nFurther, the attention of the witness was not drawn to the defendant’s photograph in such a way as to indicate that law enforcement was urging a particular selection. (People v Linder, 114 AD3d 1200, 1201 [4th Dept 2014], lv denied 23 NY3d 1022 [2014]; People v Dean, 28 AD3d 1118, 1119 [4th Dept 2006], lv denied 7 NY3d 787 [2006].)\nThus, the People met their initial burden of establishing the reasonableness of the police conduct and the lack of any undue suggestiveness, and the defendant failed to meet his ultimate burden of establishing that the identification procedures were unduly suggestive. (People v Nichols, 89 AD3d 1503, 1504 [4th Dept 2011], citing People v Chipp, 75 NY2d 327, 335 [1990], cert denied 498 US 833 [1990].) The procedures were reasonable under the circumstances. (See People v Richardson, 70 AD3d 1327 [4th Dept 2010], lv denied 15 NY3d 756 [2010].)\nDefendant’s Statements at the Rochester Police Department\nDefendant seeks to suppress the statement he gave to Investigator Hickey before he was read his Miranda rights, because it was made in response to a question posed by Hickey—“Do you know why you’re here”—that was designed to elicit an incriminating response. He further argues that he invoked his right to counsel when he said, “I’d rather have a lawyer,” and that Hickey should not have engaged in any further conversation.\nAt a hearing to consider suppression of a defendant’s statements, it is the People’s burden to prove beyond a reasonable doubt that the statements were voluntarily made and not the result of coercive police activity. (People v Guilford, 21 NY3d 205, 208 [2013]; People v Anderson, 42 NY2d 35, 38-39 [1977].)\nMiranda warnings are required whenever a person is subjected to custodial interrogation, that is, when a person’s freedom of movement is restrained in a manner associated with a formal arrest, and the questioning is intended to elicit incriminating evidence. (See Miranda v Arizona, 384 US 436 [1966]; People v Bennett, 70 NY2d 891, 893-894 [1987]; People v Shelton, 111 AD3d 1334 [4th Dept 2013], lv denied 23 NY3d 1025 [2014].) It is not disputed that defendant was in custody when he was interviewed at the Public Safety Building on May 10, 2015.\nNot every remark made by police constitutes improper interrogation (People v Lynes, 49 NY2d 286, 294-295 [1980]) and answers given to routine booking questions, as the People claim occurred here, fall outside of Miranda protections if “reasonably related to the police’s administrative concerns.” (Pennsylvania v Muniz, 496 US 582, 601-602 [1990]; People v Rodney, 85 NY2d 289, 292-293 [1995].) The issue is whether under the specific facts of this case the police should have “reasonably . . . anticipated” (People v Steele, 277 AD2d 932, 933 [4th Dept 2000], lv denied 96 NY2d 788 [2001]) that the question, “Do you know why you’re here,” would “evoke a declaration from [the] defendant” (People v Ackerman, 162 AD2d 793, 794 [3d Dept 1990]) or was otherwise “likely to elicit an incriminating response from the suspect.” (Rhode Island v Innis, 446 US 291, 309 [1980].)\nIn Steele, the defendant was asked the very same question: “Do you know why you’re here?” (277 AD2d at 933.) The trial court denied defendant’s motion to suppress his response to the inquiry, but the Appellate Division, Fourth Department, concluded that Supreme Court should have suppressed the oral statement. The Court noted that when he asked the question the detective had knowledge of evidence incriminating the defendant, so that defendant’s response “was the product of custodial interrogation that should reasonably have been anticipated to evoke a response.” (Id.; see also People v Layboult, 227 AD2d 773 [3d Dept 1996].)\nHere, Investigator Hickey was involved in the investigation of the stabbing two days prior, had spoken to the officers who had taken defendant into custody at 93 Prince Street, and so was aware that the victim Reed had positively identified the defendant. While “Do you know why you’re here” is perhaps a question routinely posed to suspects being interviewed by law enforcement, the court finds that based on the specific facts presented here, the defendant was entitled to be advised of his Miranda rights before being asked that question and the preMiranda statements are suppressed.\nDefendant next seeks to suppress post -Miranda statements made after he invoked his right to counsel and in response to a subtle form of police interrogation. The People counter that defendant’s invocation of the right to counsel was not unequivocal, and even if it was, the subsequent statements were spontaneous and not the result of police questioning.\nAfter defendant’s Miranda warnings were read to him, and after indicating that he understood them, defendant said, “I’d rather have a lawyer” before answering any questions. Viewing this request in the light of the “totality of the circumstances” (People v Barber, 124 AD3d 1312, 1313 [4th Dept 2015]), the court holds that the defendant clearly and unequivocally invoked his right to counsel.\n“Whether a particular request [for counsel] is or is not unequivocal is a mixed question of law and fact that must be determined with reference to the circumstances surrounding the request including the defendant’s demeanor [and] manner of expression^] and the particular words found to have been used by the defendant” (id., quoting People v Glover, 87 NY2d 838, 839 [1995]).\nIn fact, Investigator Hickey “reminded [defendant] that due to the fact that he had requested a lawyer and respect for his rights, [he] was not going to question him about what had occurred.” No further questions were posed to the defendant.\nAfter invoking his right to counsel, defendant asked Investigator Hickey to wait. He then asked Hickey a series of questions aimed at determining whether he would be able to get out that evening. Hickey answered those questions and properly asked no questions of his own. Defendant then proceeded to speak freely about the incident in question.\nThe issue then is whether defendant’s statements subsequent to having invoked his right to counsel were spontaneous or the result of “inducement, provocation, encouragement or acquiescence, no matter how subtly employed.” (People v Maerling, 46 NY2d 289, 302-303 [1978]; People v Washington, 84 AD2d 938 [4th Dept 1981].) To be admissible as a spontaneous statement in this context, it must be “without apparent external cause, [in effect], self-generating.” (People v Stoesser, 53 NY2d 648, 650 [1981].) This exception, that a statement made after an invocation of the right to counsel can be considered spontaneous, is narrowly construed. (People v Grimaldi, 52 NY2d 611 [1981].)\nThe court finds that defendant’s second statement was in fact “self-generating” and spontaneous. It was not the product of inducement or provocation, let alone coercion. The Investigator’s answers to defendant’s questions were not likely to elicit incriminating responses from him. Rather, the opposite is true. Defendant seemed to have been mostly concerned with getting released that evening. Investigator Hickey could reasonably have believed that defendant would be less, not more, inclined to speak with him after he frankly told defendant that even if he had made a statement before asking for a lawyer he would not have been released.\nThus, the statements made by the defendant to Investigator Hickey at the Rochester Police Department, subsequent to being read his Miranda warnings, are admissible in any subsequent trial.\nIt is noted that the court previously had ruled from the bench that the statements were not spontaneous; however, after reviewing the facts as found above and the relevant case law, the court reverses itself and rules as set forth above.\nPayton Issue\nIn his omnibus motion defendant asserts that he was arrested in his home at 93 Prince Street without a warrant and unjustified by the existence of any exigent circumstances, and he requested suppression of statements and identifications as being the unattenuated product of the illegal arrest. Alternatively, he requested a hearing. The People opposed, arguing that the defendant’s assertions in his moving papers were conclusory and unsupported by any allegations of fact, so that a hearing was not necessary or warranted.\nIn the context of a motion to suppress for lack of probable cause or an otherwise illegal arrest, “[t]he sufficiency of the factual allegations should be evaluated by ‘(1) the face of the pleadings, (2) . . . the context of the motion, and (3) defendant’s access to information’ ” (People v Fagan, 203 AD2d 933, 933 [1994], quoting People v Mendoza, 82 NY2d 415, 426 [1993]; see also People v Jones, 132 AD3d 1388 [4th Dept 2015]).\nHere, defense counsel submitted an attorney’s affirmation that set forth the basis for his knowledge and belief, and made the clearly factual assertion that his client was a resident of 93 Prince Street and that he was seized inside his home. Under the circumstances of the case, no more was required, nor could it be imagined that any more information was known to the defendant. The court granted the hearing.\nAt the hearing it was undisputed that police were let into the apartment building by the victim. The entrance was a common area, and defendant voluntarily exited his apartment and was arrested in the common hallway area. Accordingly, the court finds that there was no Payton violation.\nAccordingly, defendant’s motion to suppress statements is granted in part and denied in part to the extent discussed above. Defendant’s motion to suppress identification testimony is denied.",
+        "type": "majority",
+        "author": "Christopher S. Ciaccio, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Timothy Donaher, Public Defender, Rochester {Donald M. Scalia of counsel), for defendant.",
+      "Sandra J. Doorley, District Attorney, Rochester {Gregory Colavecchia of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[27 NYS3d 815]\nThe People of the State of New York, Plaintiff, v Derrick C. Thomas, Defendant.\nCounty Court, Monroe County,\nJanuary 29, 2016\nAPPEARANCES OF COUNSEL\nTimothy Donaher, Public Defender, Rochester {Donald M. Scalia of counsel), for defendant.\nSandra J. Doorley, District Attorney, Rochester {Gregory Colavecchia of counsel), for plaintiff."
+  },
+  "file_name": "2200-01",
+  "first_page_order": 615,
+  "last_page_order": 623
+}

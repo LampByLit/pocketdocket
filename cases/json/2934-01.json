@@ -1,0 +1,326 @@
+{
+  "id": 12282460,
+  "name": "In the Matter of Boundless Energy NE, LLC, Petitioner, v. Public Service Commission of the State of New York et al., Respondents",
+  "name_abbreviation": "Boundless Energy NE, LLC v. Public Service Commission",
+  "decision_date": "2017-01-13",
+  "docket_number": "",
+  "first_page": "610",
+  "last_page": "619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 610"
+    },
+    {
+      "type": "parallel",
+      "cite": "63 N.Y.S.3d 182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "17 NY3d 136",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3691063
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/17/0136-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 661",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338252
+      ],
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0661-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 222",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311764
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0222-01"
+      ]
+    },
+    {
+      "cite": "375 F3d 831",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9375899
+      ],
+      "pin_cites": [
+        {
+          "page": "852"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/375/0831-01"
+      ]
+    },
+    {
+      "cite": "1 AD3d 751",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "pin_cites": [
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "744 F3d 142",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4323738,
+        4119774
+      ],
+      "pin_cites": [
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/408/0361-01",
+        "/f3d/744/0142-01"
+      ]
+    },
+    {
+      "cite": "109 AD2d 140",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5652247
+      ],
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/109/0140-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 775",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725120
+      ],
+      "pin_cites": [
+        {
+          "page": "778-779"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0775-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 854",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579650
+      ],
+      "pin_cites": [
+        {
+          "page": "868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0854-01"
+      ]
+    },
+    {
+      "cite": "66 NY2d 948",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403055
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0948-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4439449
+      ],
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0225-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3676353
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/11/0559-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 150",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4293609
+      ],
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0150-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 1190",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4299566
+      ],
+      "pin_cites": [
+        {
+          "page": "1195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/1190-01"
+      ]
+    },
+    {
+      "cite": "156 FERC ¶ 61",
+      "category": "reporters:federal",
+      "reporter": "FERC",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 AD3d 1082",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3488828
+      ],
+      "pin_cites": [
+        {
+          "page": "1083"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/1082-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 885,
+    "char_count": 20123,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.249096568950545
+    },
+    "sha256": "55e54e574706bd3fbe50fc1c6548fab5d57b9fe713156ba0d3a11be9f432a596",
+    "simhash": "1:4e8332f2e2f0131a",
+    "word_count": 3066
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Boundless Energy NE, LLC, Petitioner, v Public Service Commission of the State of New York et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDenise A. Hartman, J.\nIn this CPLR article 78 proceeding, petitioner Boundless Energy NE, LLC seeks to vacate a Public Service Commission (PSC) order finding transmission needs driven by public policy requirements, dated December 17, 2015 (transmission needs order). The PSC, following a comparative evaluation process, identified a need driven by public policy requirements to provide additional transmission capacity in the upstate-to-downstate corridor; invited specific applicants to submit all or part of their transmission development proposals to respondent New York Independent System Operator, Inc. (NYISO) for further review; and asked other applicants, including petitioner, to withdraw their original proposals or provide an explanation or statement of intent. Petitioner also challenges a PSC order dated February 23, 2016, denying rehearing and asks the court to direct NYISO to hold in abeyance further decisions with respect to the transmission needs order.\nBecause NYISO is not a proper party to this proceeding, NYISO’s motion to dismiss the petition as against it is granted. And because Boundless has not demonstrated that the PSC’s transmission needs order is contrary to law or irrational, the petition against the PSC is denied.\nThe Alternating Current Transmission Proceedings\nIn 2012, the PSC solicited proposals to “increase transfer capacity through the congested transmission corridor, which includes the Central East and the [Upstate New York/Southeast New York (UPNY/SENY)] interfaces,” by 1,000 megawatts (proceeding on motion to examine alternating current transmission upgrades, R1323 at 2). Four transmission developers submitted 22 proposals, with Boundless submitting two of them. The proposals were submitted pursuant to the licensing and siting procedures of Public Service Law article VII. Referring to them as the alternating current transmission proceedings (AC transmission proceedings), the PSC performed a comparative analysis of the proposals, taking into consideration the anticipated transfer capacity increase, cost, and environmental impacts. In July 2015, PSC staff produced an interim report (R631). According to that report, the approval of a new 720 megawatt generation facility required the staff to update its analysis before issuing a final report (interim report at ii). The interim report recommended that a number of projects be eliminated from consideration, but proposed continued study of seven projects, including the Boundless proposals (interim report at 7-8).\nNYISO’s Public Policy Transmission Planning Process\nIn August 2014, while the AC transmission proceedings were underway, NYISO commenced parallel proceedings to fulfill its public policy transmission planning role pursuant to NYISO’s Open Access Transmission Tariff (Tariff) with the Federal Energy Regulatory Commission (FERC) (see R729). FERC’s regulatory authority focuses on ensuring that generators have nondiscriminatory access to transmission facilities and that rates for such access are reasonable. NYISO’s solicitation of proposed public policy transmission needs resulted in multiple proposals, which NYISO forwarded to the PSC. Pursuant to the FERC Tariff, the PSC was required to identify public policy requirements driving transmission needs after notice-and-comment rulemaking in accordance with the State Administrative Procedure Act. In a July 20, 2015 order addressing public policy requirements for transmission needs, the PSC issued its determination with respect to other areas of the state, but deferred its determination of public policy-driven transmission needs in the Eastern New York transmission corridor pending the staffs review in the AC transmission proceedings (R729).\nThe Combined Proceeding\nIn September 2015, PSC staff issued its final report, recommending that the PSC declare public policy needs for transmission facilities consistent with its identification of three proposals, not including Boundless’s, as best meeting transmission needs in a cost-effective manner, with minimal environmental impacts (R604).\nAfter receiving the final report, on October 7, 2015, the PSC published a notice of proposed rulemaking, which stated that the PSC was “considering whether to adopt, modify, or reject, in whole or in part, certain proposals to relieve congestion between Upstate and Downstate New York to be transmission needs driven by Public Policy Requirements” (NY Reg, Oct. 17, 2015 at 91). The PSC then held hearings and conducted additional analyses.\nThe Challenged Orders\nOn December 17, 2015, the PSC issued an order finding transmission needs driven by public policy requirements (R464). In the order, the PSC, among other things, identified the transmission needs as a detailed portfolio of projects, divided into two segments; set criteria for NYISO to apply in evaluating proposed transmission solutions; requested the entities that had proposed the projects recommended in the final report to submit those project proposals to NYISO; requested that the remaining entities, including Boundless, withdraw their proposals; and required any entity that declined to withdraw its proposal to submit to the PSC a written explanation and declaration of future intent. It also declared that the transmission needs order constituted a written statement provided to NYISO as part of its public policy transmission planning process under FERC’s Tariff and a rule adopted under the State Administrative Procedure Act. On February 23, 2016, the PSC denied Boundless’s request for a rehearing after concluding that no error of law or fact had affected the December 2015 order (R463).\nAnalysis\nNYISO’s motion to dismiss is granted.\nNYISO is not a proper party to this proceeding. The verified petition does not challenge any action by NYISO. Boundless does not contend that NYISO is a state agency. Therefore, the petition must be dismissed against NYISO unless it is a necessary party in this proceeding. CPLR 1001 requires joinder of a party if complete relief cannot be achieved without that party or if it would be inequitably affected by the outcome of the matter. “[I]n the context of governmental policies and programs which inevitably entail the involvement of numerous agencies, departments and officials, only those governmental entities that are primarily responsible for the challenged policy are necessary parties” (Matter of Mid Is. Therapy Assoc., LLC v New York State Dept. of Educ., 99 AD3d 1082, 1083 [3d Dept 2012] [internal quotation marks omitted]). Here, the challenged orders were issued by the PSC. Accordingly, the petition is dismissed against NYISO.\nBoundless has not established a basis to invalidate the order finding transmission needs driven by public policy requirements.\nBoundless argues that the PSC’s transmission needs order violates the State Administrative Procedure Act because it is not a rule of general applicability and instead addresses a specific portfolio of projects. According to Boundless, the challenged order effectively constitutes an adjudication of the AC transmission licensing proceeding commenced in 2012. Boundless also contends that the PSC’s order violates NYISO’s Tariff with FERC, improperly shifted the focus to the Central East interface after soliciting project proposals concerning the UPNY/SENY interface, and is arbitrary and capricious and lacking in evidentiary support.\nBoundless has not demonstrated that the PSC violated the State Administrative Procedure Act’s rule-making requirements. The State Administrative Procedure Act defines a rule, in relevant part, as an “agency statement, regulation or code of general applicability that implements or applies law,” as well as “the . . . approval, or prescription for the future of . . . prices, facilities, appliances, services or allowances therefor or of valuations, costs or accounting, or practices bearing on any of the foregoing whether of general or particular applicability” (State Administrative Procedure Act § 102 [2] [a] [i], [ii]). The PSC argues that the State Administrative Procedure Act expressly permits it to promulgate rules of “particular applicability.” Boundless retorts that the phrase “particular applicability” refers only to the categories of activities enumerated in the text that immediately precedes that phrase, and that the PSC’s order here does not fall into one of the enumerated categories.\nThe parties have provided no authority to assist the court in interpreting the phrase “particular applicability” and the court has discovered none. But the plain text of the statute supports the PSC’s position. The PSC’s decision and concomitant rule-making bear directly on the approval of or prescription for future facilities and services, which brings the PSC’s activity within the ambit of the specified areas in which “particular” rulemaking is allowed. In any event, it is not clear to the court that the PSC’s transmission needs order is not of “general applicability.” The PSC performed a comparative evaluation of multiple proposals and used one entire proposal and segments of another to make a finding of transmission needs driven by public policy requirements, which will affect a significant area of the state. Although the PSC requested that the entities whose projects it used to develop its determination of transmission needs driven by public policy submit their proposals to NYISO in the next stage of the transmission upgrade process, it did not mandate that those entities complete the proposed projects, nor did it limit the submission of further proposals to meet such public policy transmission needs, and multiple layers of review and planning remain before final approval of any project or set of projects (see Competitive Transmission Devs. v New York Ind. Sys. Operator, Inc., 156 FERC ¶ 61, 164 at 21 [2016]).\nEven if the PSC’s transmission needs order were not a rule within the meaning of State Administrative Procedure Act § 102 (2), Boundless presents no authority that would require the court to vacate it for noncompliance with the State Administrative Procedure Act. True, a regulatory act that “amounts to formal rulemaking but does not comply with the procedural requirements of State Administrative Procedure Act article 2 . . . must be annulled” (Matter of Entergy Nuclear Indian Point 2, LLC v New York State Dept. of State, 130 AD3d 1190, 1195 [3d Dept 2015]). But an agency act that does not amount to a formal rule but nevertheless uses the formal rule-making process need not be annulled—the agency has simply provided more process than required. The cases upon which Boundless relies are distinguishable in that they generally address whether an agency improperly took action without following formal rule-making procedures. Not one case cited by petitioner supports the proposition that an agency action must be annulled where the agency has used formal rulemaking when it did not have to (see e.g. Matter of Council of the City of N.Y. v Department of Homeless Servs. of the City of N.Y., 22 NY3d 150, 153 [2013]; Matter of Suffolk Regional Off-Track Betting Corp. v New York State Racing & Wagering Bd., 11 NY3d 559, 572 [2008]; Matter of New York City Tr. Auth. v New York State Dept. of Labor, 88 NY2d 225, 229 [1996]; Matter of Roman Catholic Diocese of Albany v New York State Dept. of Health, 66 NY2d 948, 951 [1985]).\nAdditionally, rulemaking and adjudication are not the only forms of action the PSC may take. Agencies are generally permitted to make discretionary, ad hoc determinations and to establish guidelines (see e.g. Matter of Medical Socy. of State of N.Y. v Serio, 100 NY2d 854, 868 [2003] [where “standards encompass case-specific mitigating factors and vest the deci-sionmakers with significant discretion with which to independently exercise their professional judgment, the standards constitute not ‘rules’ but guidelines”]; Matter of Alca Indus. v Delaney, 92 NY2d 775, 778-779 [1999]; Matter of Roman Catholic Diocese of Albany v New York State Dept. of Health, 109 AD2d 140, 146 [3d Dept 1985], revd on other grounds 66 NY2d 948 [1985]; cf. Weaver v Federal Motor Carrier Safety Admin., 744 F3d 142, 147 [2014] [federal agency actions not limited to orders or rules]). Thus, even accepting Boundless’s contention that the transmission needs order was not a formal rulemak-ing under the State Administrative Procedure Act, it has not established that the PSC lacked authority to issue the order.\nThe court rejects Boundless’s contention that the transmission needs order is effectively adjudicatory in nature, requiring a formal adjudicatory proceeding under State Administrative Procedure Act § 102 (3). An “adjudicatory proceeding” is “any activity which is not a rule making proceeding ... in which a determination of. . . legal rights, duties or privileges ... is required by law to be made only on a record and after an opportunity for a hearing” (State Administrative Procedure Act § 102 [3]). As the PSC argues, no law required the PSC to afford Boundless an adjudicatory hearing on the issue of transmission needs driven by public policy requirements, which the PSC issued pursuant to its role under NYISO’s Tariff with FERC. And the transmission needs order did not constitute a final determination granting or denying any specific licensing application. The challenged order therefore was not adjudicatory under the State Administrative Procedure Act (see Matter of Interstate Indus. Corp. v Murphy, 1 AD3d 751, 753 [3d Dept 2003]).\nThe court lacks jurisdiction to consider whether the transmission needs order was an effective final adjudication of the licensing application Boundless submitted in 2012 in the AC transmission proceedings—an argument that Boundless has in any event explicitly abandoned. Public Service Law § 128 gives the Appellate Division exclusive jurisdiction over proceedings challenging orders denying certificate applications under Public Service Law article VII. In addition to the instant proceeding, Boundless commenced a Public Service Law § 128 proceeding in the Appellate Division. On September 16, 2016, the court directed Boundless to inform it of the status of the Appellate Division proceeding and directed the parties to make supplemental submissions regarding this court’s jurisdiction. In its supplemental memorandum of law, Boundless states that “[i]t is inescapable that the proceedings below were not conducted under Article VII and that review in this Court should be under Article 78” (at 10). The court therefore has not considered Boundless’s arguments that the PSC’s order finding transmission needs driven by public policy requirements was a de facto denial of its article VII application for a certificate of environmental compatibility and public need that is not supported by substantial evidence (see Public Service Law § 121).\nThe court also lacks subject matter jurisdiction to consider Boundless’s claim that the PSC violated the FERC Tariff. Enforcement of the Tariff is a matter of exclusive federal jurisdiction (see California ex rel. Lockyer v Dynegy, Inc., 375 F3d 831, 852 [9th Cir 2004]). Indeed, on September 8, 2016, FERC denied a complaint filed by Boundless and others against NYISO claiming that the process used by NYISO and the PSC to identify public policy-driven transmission needs and PSC’s findings of public policy-driven transmission needs were inconsistent with the Tariff.\nLastly, petitioner has not demonstrated that the transmission needs order is irrational or arbitrary and capricious (see Matter of Pell v Board of Educ. of Union Free School Dist. No. 1 of Towns of Scarsdale & Mamaroneck, Westchester County, 34 NY2d 222, 231 [1974]). Here “we are in an area presenting problems of a highly technical nature, the solutions to which in general have been left by the Legislature to the expertise of the Public Service Commission” (Matter of New York State Council of Retail Merchants v Public Serv. Commn. of State of N.Y., 45 NY2d 661, 672 [1978]). The court will not substitute its judgment for the expertise of the PSC. In the challenged transmission needs order, the PSC expressly considered comments and submission from stakeholders and the public; Boundless’s arguments against the final report; and the anticipated energy transfer capacity increase, environmental impacts, and cost of each proposal (R464). Additionally, the 164-page final staff report, which served as the basis for the PSC’s proposed rulemaking, includes exhaustive analysis of the proposals and their respective merits and deficiencies (R604).\nThe PSC did not illegally or arbitrarily change its focus from the UPNY/SENY interface to the Central East interface. Rather, the PSC focused on both UPNY/SENY and Central East throughout the AC transmission and transmission needs proceedings. Indeed, Boundless admits that Central East had been an identified focus of transmission upgrade need throughout these related proceedings and that several other applicants addressed needs in both interfaces (R464 at 45). And the PSC neither abandoned its focus on UPNY/SENY nor arbitrarily increased the importance of Central East—the trial staff final report focuses on the ability of the proposals to increase transfer capacity by 1,000 Mw at UPNY/SENY and treats the impact on Central East as an additional relevant consideration. In other words, the PSC’s consideration of the impact of proposals on Central East was foreseeable and rational. Further, Matter of AAA Carting & Rubbish Removal, Inc. v Town of Southeast (17 NY3d 136 [2011]), which involved the strict construction of public bidding statutes, is inapposite. The proceedings to address transmission needs driven by public policy were planning proceedings, not a bidding process.\nNor has Boundless demonstrated that it was arbitrary and capricious for the PSC to reduce the identified need for increased capacity from 1,000 Mw to 900 Mw based on the approval of other projects. The PSC found that “[t]he 900 MW figure is not the result of a math error,” and that it was “satisfied that a 100 MW reduction in the UPNY/SENY goal is a reasonable and conservative way to reflect the likely contribution of” transmission infrastructure upgrade projects undertaken after the 1,000 Mw benchmark was set (PSC order denying rehearing, R463 at *6). The court has no basis to substitute Boundless’s mathematical analysis for that of the PSC.\nFor these reasons, the court holds that the PSC’s transmission needs order and its order denying rehearing are supported by a rational basis.\nAccordingly, it is ordered that the petition is denied and the proceeding is dismissed.\n. The proceeding has been discontinued by stipulation against all respondents except the PSC and NYISO.\n. The Central East interface consists of transmission facilities primarily in the Mohawk Valley, while the UPNY/SENY interface consists of transmission facilities running through the Hudson Valley.\n. In his response to the motion to dismiss, counsel for Boundless states that “Boundless does not object to NYISO’s motion seeking dismissal from this proceeding, provided that the terms of the Stipulation [dismissing the other respondents from the proceeding] are not altered.” The court does not here interpret the effect of the stipulation. The court has granted the motion for the reasons stated above.\n. The PSC has informed the court that Boundless’s article VII application remains open. The Appellate Division proceeding has been stayed pending the outcome of this proceeding.",
+        "type": "majority",
+        "author": "Denise A. Hartman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Charles M. Pratt, General Counsel, New York City, for petitioner.",
+      "Kimberly A. Harriman, General Counsel, Albany (John C. Graham of counsel), for Public Service Commission of the State of New York, respondent.",
+      "Hunton & Williams LLP, New York City (Joseph J. Saltarelli of counsel), for New York Independent System Operator, Inc., respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[63 NYS3d 182]\nIn the Matter of Boundless Energy NE, LLC, Petitioner, v Public Service Commission of the State of New York et al., Respondents.\nSupreme Court, Albany County,\nJanuary 13, 2017\nAPPEARANCES OF COUNSEL\nCharles M. Pratt, General Counsel, New York City, for petitioner.\nKimberly A. Harriman, General Counsel, Albany (John C. Graham of counsel), for Public Service Commission of the State of New York, respondent.\nHunton & Williams LLP, New York City (Joseph J. Saltarelli of counsel), for New York Independent System Operator, Inc., respondent."
+  },
+  "file_name": "2934-01",
+  "first_page_order": 610,
+  "last_page_order": 619
+}

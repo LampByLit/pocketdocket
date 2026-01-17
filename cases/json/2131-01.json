@@ -1,0 +1,1559 @@
+{
+  "id": 4068980,
+  "name": "Floyd Thompson, Plaintiff, v. City of New York et al., Defendants",
+  "name_abbreviation": "Thompson v. City of New York",
+  "decision_date": "2015-12-15",
+  "docket_number": "",
+  "first_page": "1037",
+  "last_page": "1057",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 1037"
+    },
+    {
+      "type": "parallel",
+      "cite": "23 N.Y.S.3d 839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "15 AD3d 754",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        842738
+      ],
+      "pin_cites": [
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/15/0754-01"
+      ]
+    },
+    {
+      "cite": "18 NY2d 6",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        6795039
+      ],
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/18/0006-01"
+      ]
+    },
+    {
+      "cite": "30 AD2d 840",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3213644
+      ],
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/30/0840-01"
+      ]
+    },
+    {
+      "cite": "77 AD2d 92",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3215016
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/77/0092-01"
+      ]
+    },
+    {
+      "cite": "272 NY 155",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021488
+      ],
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/272/0155-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 195",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188413
+      ],
+      "pin_cites": [
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0195-01"
+      ]
+    },
+    {
+      "cite": "23 NY2d 592",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2287417
+      ],
+      "pin_cites": [
+        {
+          "page": "604"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/23/0592-01"
+      ]
+    },
+    {
+      "cite": "268 AD2d 327",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        146214,
+        145983
+      ],
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/268/0327-01",
+        "/ad2d/268/0327-02"
+      ]
+    },
+    {
+      "cite": "19 AD3d 267",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        611828
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/19/0267-01"
+      ]
+    },
+    {
+      "cite": "40 AD3d 285",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3021165
+      ],
+      "pin_cites": [
+        {
+          "page": "286"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/40/0285-01"
+      ]
+    },
+    {
+      "cite": "29 AD3d 521",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5564195
+      ],
+      "pin_cites": [
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/29/0521-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 880",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3934519
+      ],
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/0880-01"
+      ]
+    },
+    {
+      "cite": "29 NY2d 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2301570
+      ],
+      "pin_cites": [
+        {
+          "page": "159-160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/29/0157-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 13",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331434
+      ],
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0013-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 391",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        202949
+      ],
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0391-01"
+      ]
+    },
+    {
+      "cite": "71 AD2d 59",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3164388
+      ],
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/71/0059-01"
+      ]
+    },
+    {
+      "cite": "63 NY2d 113",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393864
+      ],
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/63/0113-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 191",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189081
+      ],
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0191-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 661",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3824512
+      ],
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0661-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 851",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4398011
+      ],
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0851-01"
+      ]
+    },
+    {
+      "cite": "235 F3d 154",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11167115
+      ],
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/235/0154-01"
+      ]
+    },
+    {
+      "cite": "176 F3d 138",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11607991
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/176/0138-01"
+      ]
+    },
+    {
+      "cite": "108 AD2d 1072",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3405108
+      ],
+      "pin_cites": [
+        {
+          "page": "1073"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/108/1072-01"
+      ]
+    },
+    {
+      "cite": "192 AD2d 115",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1123391
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/192/0115-01"
+      ]
+    },
+    {
+      "cite": "57 NY2d 947",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4388347
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/57/0947-01"
+      ]
+    },
+    {
+      "cite": "87 AD2d 381",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3294607
+      ],
+      "pin_cites": [
+        {
+          "page": "384"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/87/0381-01"
+      ]
+    },
+    {
+      "cite": "92 AD2d 15",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3329994
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/92/0015-01"
+      ]
+    },
+    {
+      "cite": "2 AD3d 714",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1243353
+      ],
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/2/0714-01"
+      ]
+    },
+    {
+      "cite": "40 NY 463",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503132
+      ],
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/40/0463-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422032
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "529"
+        },
+        {
+          "page": "528-529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0523-01"
+      ]
+    },
+    {
+      "cite": "42 App Div 502",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        7765675
+      ],
+      "pin_cites": [
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/59/0404-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 365",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        114899,
+        113598
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "366"
+        },
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0365-01",
+        "/ad2d/306/0365-02"
+      ]
+    },
+    {
+      "cite": "60 NY2d 78",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393578
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "82"
+        },
+        {
+          "page": "82"
+        },
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0078-01"
+      ]
+    },
+    {
+      "cite": "51 NY2d 594",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4381628
+      ],
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/51/0594-01"
+      ]
+    },
+    {
+      "cite": "2 AD3d 291",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1243457,
+        1242731
+      ],
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/2/0291-02",
+        "/ad3d/2/0291-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 1032",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4009151
+      ],
+      "pin_cites": [
+        {
+          "page": "1033"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/1032-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 451",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319160
+      ],
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0451-01"
+      ]
+    },
+    {
+      "cite": "97 NY2d 78",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1061769
+      ],
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/97/0078-01"
+      ]
+    },
+    {
+      "cite": "100 AD3d 433",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3499606
+      ],
+      "pin_cites": [
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/100/0433-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 18",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311787
+      ],
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0018-01"
+      ]
+    },
+    {
+      "cite": "8 NY2d 8",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2256685
+      ],
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/8/0008-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 223",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339376
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0223-01"
+      ]
+    },
+    {
+      "cite": "3 NY2d 395",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2246089
+      ],
+      "pin_cites": [
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/3/0395-01"
+      ]
+    },
+    {
+      "cite": "285 AD2d 402",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1956209
+      ],
+      "pin_cites": [
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/285/0402-01"
+      ]
+    },
+    {
+      "cite": "267 AD2d 152",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        116817,
+        115886
+      ],
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/267/0152-02",
+        "/ad2d/267/0152-01"
+      ]
+    },
+    {
+      "cite": "278 AD2d 811",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1212322,
+        1212053
+      ],
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/278/0811-01",
+        "/ad2d/278/0811-02"
+      ]
+    },
+    {
+      "cite": "261 AD2d 269",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        108501
+      ],
+      "pin_cites": [
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/261/0269-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 1065",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2340122
+      ],
+      "pin_cites": [
+        {
+          "page": "1067-1068"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/1065-01"
+      ]
+    },
+    {
+      "cite": "67 AD3d 21",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3958745
+      ],
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/67/0021-01"
+      ]
+    },
+    {
+      "cite": "282 AD2d 387",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        117934
+      ],
+      "pin_cites": [
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/282/0387-01"
+      ]
+    },
+    {
+      "cite": "304 AD2d 634",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        328706
+      ],
+      "pin_cites": [
+        {
+          "page": "634"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/304/0634-01"
+      ]
+    },
+    {
+      "cite": "16 AD3d 637",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        805124
+      ],
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/16/0637-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "5602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 25,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 AD2d 445",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1106794
+      ],
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/188/0445-01"
+      ]
+    },
+    {
+      "cite": "295 AD2d 489",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1092394,
+        1092340
+      ],
+      "pin_cites": [
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/295/0489-01",
+        "/ad2d/295/0489-02"
+      ]
+    },
+    {
+      "cite": "84 AD3d 1147",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4025936
+      ],
+      "pin_cites": [
+        {
+          "page": "1147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/1147-01"
+      ]
+    },
+    {
+      "cite": "216 AD2d 67",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1219626
+      ],
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/216/0067-01"
+      ]
+    },
+    {
+      "cite": "216 AD2d 10",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1219344,
+        1219305
+      ],
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/216/0010-01",
+        "/ad2d/216/0010-02"
+      ]
+    },
+    {
+      "cite": "436 US 658",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490618
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0658-01"
+      ]
+    },
+    {
+      "cite": "228 AD2d 487",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        371055
+      ],
+      "pin_cites": [
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/228/0487-01"
+      ]
+    },
+    {
+      "cite": "199 AD2d 749",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1153773
+      ],
+      "pin_cites": [
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/199/0749-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 911",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501643
+      ],
+      "pin_cites": [
+        {
+          "page": "913"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0911-01"
+      ]
+    },
+    {
+      "cite": "32 AD3d 912",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        537784
+      ],
+      "pin_cites": [
+        {
+          "page": "914-915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/32/0912-01"
+      ]
+    },
+    {
+      "cite": "86 AD3d 502",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026674
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "511"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/86/0502-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 963",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3706820
+      ],
+      "pin_cites": [
+        {
+          "page": "963-965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0963-01"
+      ]
+    },
+    {
+      "cite": "105 AD3d 834",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3744895
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "834-837"
+        },
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/105/0834-01"
+      ]
+    },
+    {
+      "cite": "556 US 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653744
+      ],
+      "pin_cites": [
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0662-01"
+      ]
+    },
+    {
+      "cite": "7 AD3d 742",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        553891
+      ],
+      "pin_cites": [
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/7/0742-01"
+      ]
+    },
+    {
+      "cite": "241 AD2d 323",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1534584
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/241/0323-01"
+      ]
+    },
+    {
+      "cite": "40 AD3d 736",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2996533
+      ],
+      "pin_cites": [
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/40/0736-01"
+      ]
+    },
+    {
+      "cite": "250 AD2d 559",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        721152
+      ],
+      "pin_cites": [
+        {
+          "page": "559-560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/250/0559-01"
+      ]
+    },
+    {
+      "cite": "308 AD2d 278",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        274838
+      ],
+      "pin_cites": [
+        {
+          "page": "284-285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/308/0278-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 101",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3710479
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "108"
+        },
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0101-01"
+      ]
+    },
+    {
+      "cite": "95 AD2d 800",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3338835,
+        3334092,
+        3341148
+      ],
+      "pin_cites": [
+        {
+          "page": "800"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/95/0800-01",
+        "/ad2d/95/0800-03",
+        "/ad2d/95/0800-02"
+      ]
+    },
+    {
+      "cite": "244 AD2d 400",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        402097
+      ],
+      "pin_cites": [
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/244/0400-01"
+      ]
+    },
+    {
+      "cite": "248 AD2d 525",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1668163
+      ],
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/248/0525-01"
+      ]
+    },
+    {
+      "cite": "33 AD3d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3764537
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/33/0688-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 113",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        114657,
+        114732
+      ],
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0113-02",
+        "/ad2d/306/0113-01"
+      ]
+    },
+    {
+      "cite": "105 AD2d 236",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3388465
+      ],
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/105/0236-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 362",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525081
+      ],
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0362-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 409",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        202952
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "414"
+        },
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0409-01"
+      ]
+    },
+    {
+      "cite": "30 AD3d 476",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3657102
+      ],
+      "pin_cites": [
+        {
+          "page": "477"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/30/0476-01"
+      ]
+    },
+    {
+      "cite": "222 App Div 350",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4857955
+      ],
+      "pin_cites": [
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/222/0350-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1649,
+    "char_count": 45492,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1290258621255525
+    },
+    "sha256": "45456c7843556e32f10f2d3285333894526e60e54fb291b6b250ebea2806ff16",
+    "simhash": "1:5f7656b0c3cbc449",
+    "word_count": 7490
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Floyd Thompson, Plaintiff, v City of New York et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMitchell J. Danziger, J.\nIn this action for, inter alia, alleged false arrest, false imprisonment, malicious prosecution, and violations of 42 USC § 1983, defendants move seeking an order granting them summary judgment pursuant to CPLR 3212. Specifically, defendants aver that they are entitled to summary judgment with respect to (1) plaintiff’s causes of action for false arrest, false imprisonment, and malicious prosecution insofar as the evidence establishes ample probable cause for his arrest; (2) plaintiff’s cause of action for general negligence insofar as such claim, on these facts, is not cognizable under prevailing law; (3) plaintiff’s cause of action for negligence in the supervision, hiring, and retention of defendant Police Officer Felix Del Carpió (Del Carpió) sued herein as Police Officer DelCarpio by defendants the City of New York (the City) and the New York City Police Department (the NYPD) on grounds that the City and the NYPD admit that at all times, Del Carpió was acting within the scope of his employment with the City and the NYPD; and (4) plaintiff’s cause of action pursuant to 42 USC § 1983 insofar as it is improperly pleaded. Plaintiff opposes the instant motion, arguing that extant questions of fact on the issue of probable cause preclude summary judgment in defendants’ favor.\nFor the reasons that follow hereinafter, defendants’ motion is hereby granted, in part.\nThe instant action is for false arrest, false imprisonment, malicious prosecution, negligence, violations of 42 USC § 1983, and negligence in the supervision, hiring and retention of police officers. Within his complaint, plaintiff alleges that on July 4, 2009, he was falsely arrested, falsely imprisoned, and maliciously prosecuted by defendants, more specifically, Del Carpió—a police officer employed by the City and the NYPD— without probable cause, and charged with the crime of criminal possession of a forged instrument in the first degree (Penal Law § 170.30). The complaint further alleges that in light of the foregoing, defendants were negligent in the performance of their duties, that at all times Del Carpió was duly employed by the City and the NYPD, and that the City and the NYPD were negligent in Del Carpio’s hiring, retention, and supervision. Lastly, plaintiff alleges that the City and the NYPD violated 42 USC § 1983 inasmuch as the foregoing conduct violated his rights under the United States Constitution and such conduct was part of a pattern, custom and practice either knowingly promulgated or implicitly allowed to exist.\nThe proponent of a motion for summary judgment carries the initial burden of tendering sufficient admissible evidence to demonstrate the absence of a material issue of fact as a matter of law (Alvarez v Prospect Hosp., 68 NY2d 320, 324 [1986]; Zuckerman v City of New York, 49 NY2d 557, 5602 [1980]). Thus, a defendant seeking summary judgment must establish prima facie entitlement to such relief as a matter of law by affirmatively demonstrating, with evidence, the merits of the claim or defense, and not merely by pointing to gaps in plaintiffs proof (Mondello v DiStefano, 16 AD3d 637, 638 [2d Dept 2005]; Peskin v New York City Tr. Auth., 304 AD2d 634, 634 [2d Dept 2003]). There is no requirement that the proof be submitted by affidavit, but rather that all evidence proffered be in admissible form (Muniz v Bacchus, 282 AD2d 387, 388 [1st Dept 2001], revd on other grounds Ortiz v City of New York, 67 AD3d 21, 25 [1st Dept 2009]).\nOnce movant meets his initial burden on summary judgment, the burden shifts to the opponent who must then produce sufficient evidence, generally also in admissible form, to establish the existence of a triable issue of fact (Zuckerman at 562). It is worth noting, however, that while the movant’s burden to proffer evidence in admissible form is absolute, the opponent’s burden is not. As noted by the Court of Appeals,\n“[t]o obtain summary judgment it is necessary that the movant establish his cause of action or defense ‘sufficiently to warrant the court as a matter of law in directing judgment’ in his favor, and he must do so by tender of evidentiary proof in admissible form. On the other hand, to defeat a motion for summary judgment the opposing party must ‘show facts sufficient to require a trial of any issue of fact.’ Normally if the opponent is to succeed in defeating a summary judgment motion he, too, must make his showing by producing evidentiary proof in admissible form. The rule with respect to defeating a motion for summary judgment, however, is more flexible, for the opposing party, as contrasted with the movant, may be permitted to demonstrate acceptable excuse for his failure to meet the strict requirement of tender in admissible form. Whether the excuse offered will be acceptable must depend on the circumstances in the particular case” (Friends of Animals v Associated Fur Mfrs., 46 NY2d 1065, 1067-1068 [1979] [citations omitted]).\nAccordingly, generally, if the opponent of a motion for summary judgment seeks to have the court consider inadmissible evidence, he must proffer an excuse for failing to submit evidence in inadmissible form (Johnson v Phillips, 261 AD2d 269, 270 [1st Dept 1999]). Moreover, when deciding a summary judgment motion the role of the court is to make determinations as to the existence of bona fide issues of fact and not to delve into or resolve issues of credibility. As the Court stated in Knepka v Tallman (278 AD2d 811, 811 [4th Dept 2000]), “Supreme Court erred in resolving issues of credibility in granting defendants’ motion for summary judgment dismissing the complaint. Any inconsistencies between the deposition testimony of plaintiffs and their affidavits submitted in opposition to the motion present credibility issues for trial” (see also Yaziciyan v Blancato, 267 AD2d 152, 152 [1st Dept 1999]; Perez v Bronx Park S. Assoc., 285 AD2d 402, 404 [1st Dept 2001]). Accordingly, the court’s function when determining a motion for summary judgment is issue finding not issue determination (Sillman v Twentieth Century-Fox Film Corp., 3 NY2d 395, 404 [1957]). Lastly, because summary judgment is such a drastic remedy, it should never be granted when there is any doubt as to the existence of a triable issue of fact (Rotuba Extruders v Ceppos, 46 NY2d 223, 231 [1978]). When the existence of an issue of fact is even debatable, summary judgment should be denied (Stone v Goodson, 8 NY2d 8, 12 [1960]).\nFalse Arrest and False Imprisonment\nDefendants’ motion seeking summary judgment with respect to plaintiff’s claims for false arrest and false imprisonment is denied. On this record, with respect to the foregoing causes of action, defendants fail to establish—beyond a factual dispute— that plaintiff’s arrest was based on probable cause. Specifically, plaintiff’s testimony controverts defendants’ contention that the initial police conduct—to which his subsequent arrest was inextricably tied—was lawful. Thus, if credited, plaintiff’s testimony negates probable cause to initially stop him, which is fatal to defendants’ claim of qualified immunity for his subsequent arrest on grounds that he possessed counterfeit money.\nWhenever an arrest and imprisonment arise without a warrant, the presumption is that such arrest and imprisonment were unlawful (Smith v County of Nassau, 34 NY2d 18, 23 [1974]). A plaintiff seeking to establish a cause of action for false arrest and/or imprisonment must establish that (1) the defendant intended to confine him; (2) the plaintiff was conscious of the confinement; (3) the plaintiff did not consent to the confinement; and (4) the confinement was not otherwise privileged (id. at 22; Hernandez v City of New York, 100 AD3d 433, 433 [1st Dept 2012]; Martinez v City of Schenectady, 97 NY2d 78, 85 [2001]; Broughton v State of New York, 37 NY2d 451, 457 [1975]; Rivera v County of Nassau, 83 AD3d 1032, 1033 [2d Dept 2011]). When confronted with such a claim and concomitant proof, the defendant can nevertheless prevail if he proves legal justification for the arrest and imprisonment, which “may be established by showing that the arrest was based on probable cause” (Broughton at 458; Martinez at 85; Rivera at 1033). While post-arrest judicial participation will not validate an unlawful arrest, evidence of a subsequent arraignment or indictment is, in fact, proof of the presence of probable cause at the time of the arrest (Broughton at 457; Hernandez at 433-434). Moreover, a conviction which survives appeal is also conclusive evidence that probable cause existed at the time of the arrest (id.). Conversely, a subsequent dismissal, acquittal or reversal on appeal is proof tending to establish the absence of probable cause at the time of the arrest (id.).\nProbable cause, also defined as reasonable cause, exists “[w]here an officer, in good faith, believes that a person is guilty of a felony, and his belief rests on such grounds as would induce an ordinarily prudent and cautious man, under the circumstances, to believe likewise” (Smith at 24 [internal quotation marks omitted]). A review of CPL 70.10 (2), which defines reasonable cause, evinces that reasonable cause is established not only when there is belief that the arrestee has committed a felony, but when he has committed any offense under our Penal Law. Specifically, CPL 70.10 (2) states that\n“ ‘[treasonable cause to believe that a person has committed an offense’ exists when evidence or information which appears reliable discloses facts or circumstances which are collectively of such weight and persuasiveness as to convince a person of ordinary intelligence, judgment and experience that it is reasonably likely that such offense was committed and that such person committed it.”\nAccordingly, what is required for an arrest is not “proof sufficient to warrant a conviction beyond a reasonable doubt but merely information sufficient to support a reasonable belief that an offense has been . . . committed” (Jenkins v City of New York, 2 AD3d 291, 292 [1st Dept 2003]; People v McRay, 51 NY2d 594, 602 [1980] [“Probable cause requires, not proof beyond a reasonable doubt or evidence sufficient to warrant a conviction, but merely information which would lead a reasonable person who possesses the same expertise as the officer to conclude, under the circumstances, that a crime is being or was committed” (citations omitted)]).\nEven when there exists sufficient facts giving rise to probable cause “the failure to make a further inquiry when a reasonable person would have done so may” negate the same and makes probable cause an issue of fact rather than one to be decided as a matter of law (Colon v City of New York, 60 NY2d 78, 82 [1983]; Carlton v Nassau County Police Dept., 306 AD2d 365, 366 [2d Dept 2003]). In Carlton, for example, the Court held that the issue of probable cause could not be decided as a matter of law insofar as the allegations made against the plaintiff—that he left a restaurant without paying his bill— were disputed by the plaintiff such that further inquiry was required before his arrest (306 AD2d at 366). Significantly, however, a police officer need not conduct an exhaustive investigation prior to effectuating an arrest for which he has probable cause. Instead, faced with questionable facts on the issue of probable cause, an arresting officer need only “obtain such facts and information as he could obtain by reasonable diligence, which would enable him to determine whether or not the plaintiff was probably guilty of the offense charged” (Sweet v Smith, 42 App Div 502, 509 [4th Dept 1899]). Thus in Sweet, the obligation to make further inquiry arose because “defendant acted upon hearsay evidence in causing the plaintiff’s arrest, [and] if such evidence could easily be tested and the truth ascertained, is one element, though not a conclusive one, in determining the question of probable cause.” (Id.)\nWhere the facts leading up to an arrest are undisputed, the existence of probable cause is an issue of law for the court to decide (Parkin u Cornell Univ., 78 NY2d 523, 529 [1991]; Burns v Erben, 40 NY 463, 466 [1869]; Wyllie v District Attorney of County of Kings, 2 AD3d 714, 718 [2d Dept 2003]; Brown v City of New York, 92 AD2d 15, 17 [1st Dept 1983]; Veras v Truth Verification Corp., 87 AD2d 381, 384 [1st Dept 1982], affd 57 NY2d 947 [1982]).\nIn support of the instant motion, defendants submit the transcript of plaintiff’s deposition testimony, wherein he testified, in pertinent part, as follows. On July 4, 2009, while operating his motor vehicle, he was arrested by members of the NYPD at or near Rosedale and Nova Avenues, Bronx, New York. Prior to his arrest, plaintiff had exited a store on Rosedale Avenue where he purchased a pack of cigarettes. Plaintiff then got into his vehicle—a silver Acura—and drove off. He came to a stop at the light and when it turned green, he engaged his turn signal and made a right turn onto Nova Avenue. He then heard sirens and was told to pull over by the police. Plaintiff brought his vehicle to a stop and the police approached his vehicle, ordering him to exit the same. Plaintiff was walked to the rear of his vehicle, searched and handcuffed. Two of the police officers then searched plaintiff’s vehicle, finding money which they alleged was counterfeit. Upon apprising plaintiff of the discovery, he said nothing to the officers. Plaintiff was then transported to the 43rd Precinct, where he was photographed, fingerprinted and placed in a cell. Thereafter, he was taken to Central Booking, arraigned, charged with possession of counterfeit money, and then transported to Riker’s Island. Plaintiff testified that he had no counterfeit money on his person on the date of his arrest and that he had only owned the vehicle he had been operating for three days.\nDefendants also submit the transcript of Del Carpio’s deposition testimony, wherein he testified, in pertinent part, as follows. On July 4, 2009, he was a police officer with the NYPD assigned to the 43rd Precinct’s Anti-Crime Unit. Testifying partly from memory and from police documents, he stated that he stopped plaintiff at or near Crows Avenue and East 172nd Street, Bronx, New York. Plaintiff was driving a silver Acura and Del Carpió saw him make an illegal U-turn. Del Carpió, thus, pulled plaintiff over and issued a summons. As he did so, Del Carpió noticed a $100 bill on the center console of plaintiff’s vehicle. The bill’s ink was smeared, leading Del Carpió to conclude that the same was counterfeit. Plaintiff then gave Del Carpió the bill concomitantly telling him that he bought the same from “a black guy in Washington,” and that it was fake. Plaintiff then indicated that he had more fake money in his glove compartment, which he also gave to Del Carpió. Based on the foregoing, plaintiff was arrested for possession of counterfeit money.\nDefendants also submit a copy of plaintiff’s arrest report evincing that on July 4, 2009, he was arrested after possessing a large quantity of forged US currency. The report indicates that he was charged with criminal possession of a forged instrument in the first degree in violation of Penal Law § 170.30.\nBased on the foregoing, defendants’ own evidence raises an issue of fact as to whether the stop of plaintiff’s vehicle was lawful, and as such whether the arrest thereafter was lawful. As noted above, while an arrest and imprisonment arising without a warrant is presumed unlawful (Smith at 23), when confronted with such a claim and concomitant proof, a defendant can nevertheless prevail if he proves legal justification for the arrest and imprisonment, which “may be established by showing that the arrest was based on probable cause” (Broughton at 458; Martinez at 85; Rivera at 1033). Probable cause of course, also defined as reasonable cause, exists “[w]here an officer, in good faith, believes that a person is guilty of a felony” (Smith at 24 [internal quotation marks omitted]), meaning when “evidence or information . . . which are collectively of such weight and persuasiveness as to convince a person of ordinary intelligence, judgment and experience that it is reasonably likely that such offense was committed and that such person committed it” (CPL 70.10 [2]).\nHere, while as urged by defendants, the record establishes that defendants’ had ample probable cause to arrest plaintiff once he was found to knowingly possess counterfeit currency, the record is replete with questions of fact with respect to the existence of probable cause to stop plaintiff’s vehicle in the first instance. To be sure, a person violates section 170.30 when “with knowledge that it is forged and with intent to defraud, deceive or injure another, he utters or possesses any forged instrument of a kind specified in section 170.15.” As per Penal Law § 170.15, money falls within the ambit of a forged instrument under Penal Law § 170.30. Here, based on plaintiff’s testimony that at the time of his arrest he never denied that he in fact possessed counterfeit money, coupled with Del Carpio’s testimony that plaintiff admitted to knowingly possessing counterfeit money, it is clear that plaintiffs arrest, on grounds that he violated Penal Law § 170.30, was based on ample probable cause.\nHowever, notwithstanding the foregoing, it is clear that the record raises sharp questions of fact as to whether the police had probable cause to stop plaintiff in the first place, the absence of which precludes the right to arrest him for the contraband found subsequent thereto. To be sure, and contrary to defendants’ contention, the absence of probable cause for initial police contact precludes a finding of probable cause for an arrest based on contraband found incident to the unlawful police contact (Ostrover v City of New York, 192 AD2d 115 [1st Dept 1993]; Tetreault v State of New York, 108 AD2d 1072, 1073 [3d Dept 1985]). Defendants’ reliance on Townes v City of New York (176 F3d 138 [2d Cir 1999]) for the proposition that even if defendants lacked probable cause to stop plaintiff’s vehicle—which stop resulted in the discovery of the contraband giving rise to plaintiff’s arrest—the subsequent discovery made his arrest privileged nonetheless—is misplaced and unavailing. To be sure, the holding in Townes was simply that in that case, there was no nexus between the plaintiff’s unlawful search and seizure and his claimed injury of incarceration, such incarceration resulting from a subsequent arrest for weapons found incident to the illegal search (Townes at 145). It is true that the court in Townes held that the fruit of the poisonous tree doctrine was inapplicable in civil cases (id.). However, contrary to defendants’ assertion, it did not so hold as a means of barring—in all cases—law suits where the initial police conduct was bereft of probable cause, but where a subsequent and temporally close search yielded contraband and, thus, independent probable cause for an arrest.\nInstead, the court in Townes held—focusing on issues of causation—that the fruit of the poisonous tree doctrine was not a substitute for proximate cause because it would “impermissibly recast the relevant proximate cause inquiry to one of taint and attenuation.” (Id. at 146.) Thus, the court went on to state that on the record before it, the fact that plaintiffs initial search was unlawful but he was nevertheless arrested for weapons found incident thereto, that those weapons were ultimately suppressed as fruits of the poisonous tree, did not establish—in it of itself—that the unlawful search was the proximate cause of his incarceration and damages. Specifically, the court stated that “ [i]n a § 1983 suit, constitutionally invalid police conduct that by itself causes little or no harm is assessed on ordinary principles of tort causation and entails little or nominal damages . . . [and] [t]he fruit of the poisonous tree doctrine is not available to elongate the chain of causation” (id.). Thus, Townes does not avail defendants by obviating as settled by law—as posited—that the police need probable cause to approach an individual, the absence of which is cured— again as posited by defendants—by contraband uncovered during the course of an unlawful detention. At best, Townes stands for the proposition that the measure of damages may be mitigated in such circumstances, where, as in that case, the proximate cause of a plaintiff’s damages was not the illegal search and seizure (id. [“as a matter of law, the unconstitutional seizure and search of Townes’s person was not a proximate cause of his conviction because of (at least) one critical circumstance: the trial court’s refusal to suppress the evidence, which is an intervening and superseding cause of Townes’s conviction”]; id. at 148 [“Victims of unreasonable searches or seizures may recover damages directly related to the invasion of their privacy—including (where appropriate) damages for physical injury, property damage, injury to reputation, etc.; but such victims cannot be compensated for injuries that result from the discovery of incriminating evidence and consequent criminal prosecution”]; see also Hector v Watt, 235 F3d 154, 157 [3d Cir 2000]).\nFurther evidence that defendants misconstrue the law and indeed the import of Townes is found in Ostrover. In Ostrover, plaintiff was arrested after a car in which she was a passenger was stopped, searched, and yielded a weapon (192 AD2d at 116). Upon dismissal of all charges, plaintiff sued for false imprisonment and thereafter moved for summary judgment on the issue of liability (id.). On appeal, after noting that defendants conceded that there was no basis for the stop of the plaintiff’s vehicle, the Court granted plaintiff’s motion, rejecting defendants’ contention that the discovery of a weapon during the unlawful stop nevertheless gave defendants probable cause to arrest the plaintiff (id. at 118). Specifically, the Court held\n“[t]he fruit of an illegal search cannot give rise, in a juristic sense, to probable cause to arrest, and the conceded illegality of the search and seizure is thus conclusive against the defendant on the issue of privilege . . . Were this not so, the police could subject a person to an egregiously unconstitutional search, and then use the fruits of that search to establish, in a civil suit for false imprisonment, that the arrest was privileged because it was based upon probable cause. The absurdity of such a principle is so patent as to require no further discussion” (id.; see also Tetreault at 1073 [“Although claimant’s arrest was based on observations made by the troopers of drug capsules in plain view in claimant’s car, there is sufficient evidence to support the conclusion that the troopers did not lawfully stop claimant for inquiry and, thus, did not lawfully observe the drug capsules . . . On the facts as credited by the Court of Claims, the troopers did not have reasonable suspicion to stop and inquire of claimant and, therefore, their observation of the drug capsules was unlawful”]).\nHere, while Del Carpió testified that he initially stopped plaintiff’s vehicle because he observed plaintiff make an illegal U-turn—a violation of the Vehicle and Traffic Law—plaintiff’s testimony belies Del Carpio’s assertions. In fact, plaintiff testified that prior to being stopped he had stopped for a light, waited for it to change, engaged his signal and turned on to Nova Avenue. Accordingly, defendants’ own evidence raises questions of fact on the issue of probable cause and, thus, they fail to establish prima facie entitlement to summary judgment on the foregoing claims.\nInsofar as defendants fail to establish prima facie entitlement to summary judgment, the court need not address the sufficiency of plaintiff’s opposition (Winegrad v New York Univ. Med. Ctr., 64 NY2d 851, 853 [1985] [“The proponent of a summary judgment motion must make a prima facie showing of entitlement to judgment as a matter of law, tendering sufficient evidence to eliminate any material issues of fact from the case. Failure to make such showing requires denial of the motion, regardless of the sufficiency of the opposing papers” (citations omitted)]; 6014 Eleventh Ave. Realty, LLC v 6014 AH, LLC, 114 AD3d 661, 661 [2d Dept 2014]), and this portion of defendants’ motion is denied.\nMalicious Prosecution\nDefendants’ motion seeking summary judgment with respect to plaintiff’s claim for malicious prosecution is hereby denied insofar as defendants’ own evidence—as noted above—raises questions of fact on the issue of probable cause for plaintiff’s initial stop and, therefore, his subsequent arrest.\nThe tort of malicious prosecution provides protection from and provides redress for the initiation of unjustifiable litigation (.Broughton at 457). However, since public policy favors bringing criminals to justice, the system must afford accusers room for benign misjudgments (Smith-Hunter v Harvey, 95 NY2d 191, 195 [2000]). This, of course, fosters the long-standing belief that the court system is open to all without fear of reprisal through the use of retaliatory lawsuits (Curiano v Suozzi, 63 NY2d 113, 119 [1984]). Thus, a plaintiff asserting a cause of action for malicious prosecution must satisfy a heavy burden (Smith-Hunter at 195).\nThe essence of a cause of action for malicious prosecution is the perversion of proper legal procedures (Broughton at 457; Boose v City of Rochester, 71 AD2d 59, 65 [4th Dept 1979]). As such, a prior judicial proceeding is the sine qua non of such cause of action (Boose at 65). Simply stated, then, a cause of action for malicious prosecution is one where it is alleged that a legal proceeding was maliciously initiated “without probable cause for doing so which finally ends in failure” (Curiano at 118). The elements of the cause of action for malicious prosecution stemming from a prior criminal proceeding, all of which are required for recovery, are (1) the commencement or continuation of a prior criminal proceeding by the defendant; (2) the termination of the prior proceeding in favor of the plaintiff; (3) the absence of probable cause for the initiation of the prior criminal proceeding; and (4) actual malice (Cantalino v Danner, 96 NY2d 391, 394 [2001]; Smith-Hunter at 195; Colon v City of New York, 60 NY2d 78, 82 [1983]; Martin v City of Albany, 42 NY2d 13, 16 [1977]; Broughton at 457; Heaney v Purdy, 29 NY2d 157, 159-160 [1971]). Actual malice can be inferred by the absence of probable cause to effectuate an arrest or by conduct that is reckless or grossly negligent (Fortunato v City of New York, 63 AD3d 880, 881 [2d Dept 2009]). Probable cause for the prosecution can be presumed if a criminal defendant is indicted by the grand jury, such presumption can be overcome, however, if “the conduct of the police deviated so egregiously from acceptable police activity as to demonstrate an intentional or reckless disregard for proper procedures” (Haynes v City of New York, 29 AD3d 521, 523 [2d Dept 2006]). The elements for a malicious prosecution cause of action based upon a prior civil action are identical except that, in addition to the foregoing, it must be proved that plaintiff sustained special damage or injury (Purdue Frederick Co. v Steadfast Ins. Co., 40 AD3d 285, 286 [1st Dept 2007]; Wilhelmina Models, Inc. v Fleisher, 19 AD3d 267, 269 [1st Dept 2005]; Honzawa v Honzawa, 268 AD2d 327, 329 [1st Dept 2000]). Generally, special damages mean that the prior action interfered with a plaintiff’s person or property (Williams v Williams, 23 NY2d 592, 604 [1969]; Purdue Frederick Co. at 286; Wilhelmina Models, Inc. at 269; Honzawa at 329) or proof of “concrete harm that is considerably more cumbersome than the physical, psychological or financial demands of defending a lawsuit” (Engel v CBS, Inc., 93 NY2d 195, 205 [1999]).\nWhether an action is terminated favorably so as to give rise to a cause of action for malicious prosecution depends on how the action was terminated. In Levy’s Store, Inc. v Endicott-Johnson Corp. (272 NY 155, 162 [1936]), the Court confronted with this very issue stated\n“[i]t is true that where a proceeding has been determined in favor of the accused by judicial action of the proper court or official in any way involving the merits or propriety of the proceeding or by a dismissal or discontinuance based on some act chargeable to the complainant, as his consent or his withdrawal or abandonment of his prosecution, a foundation in this respect has been laid for an action of malicious prosecution. Where, however, the proceeding has been terminated without regard to its merits or propriety by agreement or settlement of the parties or solely by the procurement of the accused as a matter of favor or as the result of some act, trick or device preventing action and consideration by the court, there is no such termination as may be availed of for the purpose of such an action. The underlying distinction which leads to these different rules is apparent. In one case, the termination of the proceeding is of such a character as establishes or fairly implies lack of a reasonable ground for the prosecution. In the other case, no such implication reasonably follows” (see also Loeb v Teitelbaum, 77 AD2d 92, 100 [2d Dept 1980]).\nThus, a favorable termination on the merits and in favor of the accused or defendant in the prior action—since it implies lack of probable cause—satisfies the element of favorable termination in a cause of action for malicious prosecution, while a termination chargeable to the plaintiff or complainant in the prior action, such as settlement, withdrawal or discontinuance, does not (Levy’s Store, Inc. at 162; Loeb at 100). In Pagliarulo v Pagliarulo (30 AD2d 840, 840 [2d Dept 1968]), the Court held defendant’s agreement to discontinue a prior action served to bar plaintiff’s action for malicious prosecution insofar as discontinuance of the prior action against the plaintiff was not a favorable termination.\nFor purposes of malicious prosecution, probable cause means facts and circumstances which would lead a reasonably prudent person, in similar circumstances, to conclude that plaintiff was guilty of the acts alleged (Colon v City of New York, 60 NY2d 78, 82 [1983]; Munoz v City of New York, 18 NY2d 6, 10 [1966]; Fink v Shawangunk Conservancy, Inc., 15 AD3d 754, 755 [3d Dept 2005]; Boose at 67). Whether there is probable cause to initiate a prosecution hinges on whether defendant’s conduct at the time he/she commenced the prior proceeding would have led a reasonably prudent person to initiate the prior proceeding (Levy’s Store, Inc. at 161; Loeb at 102; Kezer v Dwelle-Kaiser Co., 222 App Div 350, 354 [4th Dept 1927]). When the facts regarding the existence of probable cause and the inferences to be drawn therefrom are undisputed, the existence of probable cause can be decided as a matter of law (Parkin v Cornell Univ., 78 NY2d 523, 528-529 [1991]; Lundgren v Margini, 30 AD3d 476, 477 [2d Dept 2006]).\nHere, as discussed above, defendants’ evidence raises questions of fact with regard to whether they had probable cause to stop his vehicle on grounds that he made an illegal U-turn. Accordingly, since probable cause is an essential element to a claim for malicious prosecution (Cantalino at 394; Smith-Hunter at 195; Colon at 82; Martin at 16; Broughton at 457; Heany at 159-160), a question of fact as to its existence precludes summary judgment as to that claim.\nHaving failed to establish prima facie entitlement to summary judgment on this claim, the court need not address the sufficiency of plaintiff’s opposition and must deny defendants’ motion.\nMotion to Dismiss\nTo the extent that defendants seek summary judgment with respect to plaintiff’s claims of negligence, negligence in the hiring, retention and supervision of Del Carpió, and claims pursuant to 42 USC § 1983, such motion is one for dismissal pursuant to CPLR 3211 (a) (7) and not summary judgment. Hence, this portion of the motion shall be analyzed under the foregoing standard and granted, not only because it is not opposed, but for the reasons that follow hereinafter.\nOn a motion to dismiss a complaint pursuant to CPLR 3211 (a) (7) all allegations in the complaint are deemed to be true (Sokoloff v Harriman Estates Dev. Corp., 96 NY2d 409, 414 [2001]; Cron v Hargro Fabrics, 91 NY2d 362, 366 [1998]). All reasonable inferences which can be drawn from the complaint and the allegations therein stated shall be resolved in favor of the plaintiff (Cron at 366). In opposition to such a motion a plaintiff may submit affidavits to remedy defects in the complaint (id.). If an affidavit is submitted for that purpose, it shall be given its most favorable intendment (id.). The court’s role when analyzing the complaint in the context of a motion to dismiss is to determine whether the facts as alleged fit within any cognizable legal theory (Sokoloff v Harriman Estates Dev. Corp., 96 NY2d 409, 414 [2001]). In fact, the law mandates that the court’s inquiry be not limited solely to deciding whether plaintiff has pleaded the cause of action intended, but instead, the court must determine whether the plaintiff has pleaded any cognizable cause of action (Leon v Martinez, 84 NY2d 83, 88 [1994] [“(T)he criterion is whether the proponent of the pleading has a cause of action, not whether he has stated one”]).\nCPLR 3013 states that “[statements in a pleading shall be sufficiently particular to give the court and parties notice of the transactions, occurrences, or series of transactions or occurrences, intended to be proved and the material elements of each cause of action or defense.” As such, a complaint must contain facts essential to give notice of a claim or defense (DiMauro v Metropolitan Suburban Bus Auth., 105 AD2d 236, 239 [2d Dept 1984]). Vague and conclusory allegations will not suffice (id.; Fowler v American Lawyer Media, 306 AD2d 113, 113 [1st Dept 2003]; Shariff v Murray, 33 AD3d 688 [2d Dept 2006]; Stoianoff v Gahona, 248 AD2d 525, 526 [2d Dept 1998]). When the allegations in a complaint are vague or conclusory, dismissal for failure to state a cause of action is warranted (Schuckman Realty v Marine Midland Bank, 244 AD2d 400, 401 [2d Dept 1997]; O'Riordan v Suffolk Ch., Local No. 852, Civ. Serv. Empls. Assn., 95 AD2d 800, 800 [2d Dept 1983]).\nGeneral Negligence Claim\nHere, a review of plaintiff’s complaint evinces that in addition to his claims for false arrest, false imprisonment, and malicious prosecution, he also asserts, within the third cause of action, a claim for negligence. A plaintiff seeking damages for an injury resulting from a wrongful arrest and detention may not recover under broad general principles, but must proceed by way of the traditional remedies of false arrest and imprisonment. This is because it is well settled that in this state, in cases alleging police misconduct, the law does not recognize a cause of action for general negligence or negligent investigation (Medina v City of New York, 102 AD3d 101, 108 [1st Dept 2012]; Johnson v Kings County Dist. Attorney’s Off., 308 AD2d 278, 284-285 [2d Dept 2003]). Accordingly, “a plaintiff seeking damages for an injury resulting from a wrongful arrest and detention may not recover under broad general principles of negligence . . . but must proceed by way of the traditional remedies of false arrest and imprisonment” (Antonious v Muhammad, 250 AD2d 559, 559-560 [2d Dept 1998] [internal quotation marks omitted]; Santoro v Town of Smithtown, 40 AD3d 736, 738 [2d Dept 2007]). Accordingly, a cause of action sounding in false arrest, imprisonment or malicious prosecution must be pleaded as such and the failure to do so warrants dismissal (Medina at 108 [“The cause of action alleging negligence, including negligent hiring, retention, and training, must be dismissed because no cause of action for negligent investigation lies in New York”]; Johnson at 285 [Court dismissed plaintiff’s claim for negligent investigation on grounds that no such claim was cognizable under New York State law]). Plaintiff’s third cause of action is, thus, dismissed.\nNegligent Hiring, Retention, and Supervision\nIt is well settled that a claim for negligent hiring, retention, and training will be dismissed when an employer concedes that the acts alleged to have been perpetrated by the employee were within the scope of that employee’s employment (Karoon v New York City Tr. Auth., 241 AD2d 323, 324 [1st Dept 1997]; Medina v City of New York, 102 AD3d 101, 108 [1st Dept 2012]; Ashley v City of New York, 7 AD3d 742, 743 [2d Dept 2004]). Thus, “[generally, where an employee is acting within the scope of his or her employment, thereby rendering the employer liable for any damages caused by the employee’s negligence under a theory of respondeat superior, no claim may proceed against the employer for negligent hiring or retention” (Karoon at 324).\nHere, while the complaint pleads all the requisite elements of a negligent hiring, retention, and supervision claim, defendants within their amended answer dated March 17, 2011, answer for Del Carpió, thereby admitting that at all relevant times he was acting within the scope of his employment with the City and the NYPD. Accordingly, the fourth and fifth causes of action must be dismissed (Karoon at 324; Medina at 108; Ashley at 743).\n42 USC § 1983\nDefendants’ motion seeking dismissal of plaintiff’s sixth cause of action on grounds that it constitutes a failed attempt to plead a cause of action pursuant to 42 USC § 1983 against the City and the NYPD is granted.\nPreliminarily, while it is often argued that in cases alleging violations of 42 USC § 1983 any motion to dismiss should be decided under the federal pleading standards, particularly those promulgated by Ashcroft v Iqbal (556 US 662, 678 [2009]), it is well settled that even after the decision in Ashcroft, this State’s courts have consistently applied the standards promulgated by New York State case law when confronted with a motion seeking to dismiss a cause of action pursuant to 42 USC § 1983, on grounds that the complaint fails to state a cause of action (Vargas v City of New York, 105 AD3d 834, 834-837 [2d Dept 2013] [in granting defendants’ motion seeking to dismiss plaintiff’s claim pursuant to 42 USC § 1983 for failure to state a cause of action, the court applied the standards promulgated by CPLR 3211 (a) (7) and the case law interpreting it]; Nasca v Sgro, 101 AD3d 963, 963-965 [2d Dept 2012] [same]).\nPursuant to 42 USC § 1983,\n“[e]very person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress.”\nThus, a person has a private right of action under 42 USC § 1983 against an individual who, acting under color of law, violates federal constitutional or statutory rights (Delgado v City of New York, 86 AD3d 502, 511 [1st Dept 2011] [“A complaint alleging gratuitous or excessive use of force by a police officer states a cause of action under the statute (42 USC § 1983) against that officer”]; Morgan v City of New York, 32 AD3d 912, 914-915 [2d Dept 2006] [“The complaint states a cause of action for violation of the decedent’s Fourth Amendment rights pursuant to 42 USC § 1983, alleging both an unreasonable seizure and confinement of the person in the absence of probable cause”]). However, when plaintiff asserts a cause of action against an individual defendant pursuant 42 USC § 1983 alleging that he was acting in his official capacity, plaintiff must then establish more than a violation of a constitutional right; he must also establish the existence of (1) an official policy or custom that (2) caused him to be subjected to (3) a denial of that constitutional right (Linen v County of Rensselaer, 274 AD2d 911, 913 [3d Dept 2000]; Howe v Village of Trumansburg, 199 AD2d 749, 751 [3d Dept 1993]). Stated differently, “where claims are asserted against individual municipal employees in their official capacities, there must be proof of a municipal custom or policy in order to permit recovery, since such claims [those against the individual defendant] are tantamount to claims against the municipality itself” (Vargas v City of New York, 105 AD3d 834, 837 [2d Dept 2013]; see Rosen & Bardunias v County of Westchester, 228 AD2d 487, 488 [2d Dept 1996] [“An action against a government official in his official capacity is functionally equivalent to an action against the municipality”]).\nSimilarly, as established by Monell v New York City Dept. of Social Servs. (436 US 658 [1978]), a municipality bears liability under 42 USC § 1983 only where the action by its agent “alleged to be unconstitutional implements or executes a policy statement, ordinance, regulation, or decision officially adopted and promulgated by that body’s officers” (Monell at 690).\n“Moreover, although the touchstone of the § 1983 action against a government body is an allegation that official policy is responsible for a deprivation of rights protected by the Constitution, local governments, like every other § 1983 person, by the very terms of the statute, may be sued for constitutional deprivations visited pursuant to governmental custom even though such a custom has not received formal approval through the body’s official decisionmaking channels” (id. [internal quotation marks omitted]).\nAccordingly, municipal liability under 42 USC § 1983 only lies if the municipal policy or custom actually caused the constitutional tort and not merely because the municipality employs a tortfeasor who perpetrated a constitutional tort {id. at 691). In other words, causation is an essential element to municipal liability and, thus, no municipal liability will lie under 42 USC § 1983 solely on a theory of respondeat superior {id.). Moreover, since “[a] cause of action under 42 USC § 1983 exists where the evidence demonstrates that an individual has suffered a deprivation of rights as a result of an official policy or custom, and must be pleaded with specific allegations of fact” (Pang Hung Leung v City of New York, 216 AD2d 10, 11 [1st Dept 1995] [citations omitted]), broad and conclusory statements, and the wholesale failure to allege facts of the offending conduct alleged, are insufficient to state a claim under section 1983 {id.). Accordingly, a motion to dismiss for failure to state a cause of action under 42 USC § 1983 should be granted where the complaint fails to plead the existence of an official policy or custom which deprived him of a constitutional right in violation of 42 USC § 1983 (Liu v New York City Police Dept., 216 AD2d 67, 68 [1st Dept 1995]), or when the complaint fails to allege any facts from which it could be reasonably inferred that the defendants had a policy or custom of which caused the constitutional tort alleged (Vargas at 837; Cozzani v County of Suffolk, 84 AD3d 1147, 1147 [2d Dept 2011] [“Although the complaint alleged as a legal conclusion that the defendants engaged in conduct pursuant to a policy or custom which deprived the plaintiff of certain constitutional rights, it was wholly unsupported by any allegations of fact identifying the nature of that conduct or the policy or custom which the conduct purportedly advanced”]; R.A.C. Group v Board of Educ. of City of N.Y., 295 AD2d 489, 490 [2d Dept 2002] [“because the plaintiffs failed to plead the existence of a specific policy or custom which deprived them of a constitutional right in violation of 42 USC § 1983, that cause of action must be dismissed as well”]; Bryant v City of New York, 188 AD2d 445, 446 [2d Dept 1992] [“Given the complete absence of any factual allegations in the complaint regarding the alleged ‘policies’ of the municipal defendants which led to the officers’ conduct, or evidencing their approval or ‘ratification’ of this conduct, the plaintiffs’ causes of action against these defendants pursuant to 42 USC § 1983 were properly dismissed”]).\nHere, plaintiff fails to plead the specific facts establishing that his arrest, assault, imprisonment, and prosecution were the result of a municipal custom or practice so as to state a cause of action pursuant to 42 USC § 1983. More specifically, he fails to identify the municipal custom and practice which he alleges existed and which resulted in his arrest, imprisonment, and prosecution. Thus, plaintiff fails to plead a Monell claim. It is hereby ordered that plaintiff’s third, fourth, fifth and sixth causes of action be dismissed with prejudice. It is further ordered that defendants serve a copy of this decision and order with notice of entry upon plaintiff within 30 days hereof.\nThe claim pursuant to 42 USC § 1983 is denominated as the second fifth cause of action. Thus, the court hereby refers to the same as plaintiff’s sixth cause of action.",
+        "type": "majority",
+        "author": "Mitchell J. Danziger, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "New York City Law Department for defendants.",
+      "Getz & Braverman, P.C. for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[23 NYS3d 839]\nFloyd Thompson, Plaintiff, v City of New York et al., Defendants.\nSupreme Court, Bronx County,\nDecember 15, 2015\nAPPEARANCES OF COUNSEL\nNew York City Law Department for defendants.\nGetz & Braverman, P.C. for plaintiff."
+  },
+  "file_name": "2131-01",
+  "first_page_order": 1061,
+  "last_page_order": 1081
+}

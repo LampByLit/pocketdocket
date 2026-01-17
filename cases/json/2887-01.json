@@ -1,0 +1,131 @@
+{
+  "id": 12281835,
+  "name": "Springut Law PC, Appellant, v. Profil Institut Fur Stoffwechselforschung GMBH, Respondent",
+  "name_abbreviation": "Springut Law PC v. Profil Institut Fur Stoffwechselforschung GMBH",
+  "decision_date": "2017-10-26",
+  "docket_number": "",
+  "first_page": "66",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 66"
+    },
+    {
+      "type": "parallel",
+      "cite": "64 N.Y.S.3d 850"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "147 AD2d 327",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3573678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/147/0327-01"
+      ]
+    },
+    {
+      "cite": "151 AD3d 611",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12286400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/151/0611-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 52106",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Misc 3d 139",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 NY3d 375",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5556450
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "382"
+        },
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0375-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 217,
+    "char_count": 2389,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2490647138115002
+    },
+    "sha256": "cf2cb3fc5c85880c1828486389bc003b41d68f4bff7c95a5988821345f9067ee",
+    "simhash": "1:4d5f8560bba53c0c",
+    "word_count": 377
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Schoenfeld, J.P., Ling-Cohan and Gonzalez, JJ., concur."
+    ],
+    "parties": [
+      "Springut Law PC, Appellant, v Profil Institut Fur Stoffwechselforschung GMBH, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPer Curiam.\nOrder, dated June 20, 2017, affirmed, with $10 costs.\nCivil Court correctly dismissed the complaint pursuant to CPLR 3211 (a) (8), based upon plaintiff’s failure to establish that defendant, a German corporation with its principal place of business in Neuss, Germany, transacted business within New York City (see CCA 404 [a] [1]).\nIt is not disputed that defendant retained a now-dissolved California limited liability partnership (BSSA) to commence a trademark lawsuit in federal district court, in California, and to make a certain filing with the U.S. Patent and Trademark Office in Washington, D.C. BSSA then “engaged” one of its “partner firms,” plaintiff Springut Law PC, which is located in New York City, to render legal services with respect to these matters.\nPlaintiff failed to show that defendant “projected [itself] into our [City’s] legal services market” (Fischbarg v Doucet, 9 NY3d 375, 382 [2007]), or engaged in purposeful activity here which could form the basis for a finding that defendant “transact [ed] any business” within the meaning of the applicable long-arm statute (CCA 404 [a] [1]; see Rodriguez v Universal Prod. Concepts, Inc., 33 Misc 3d 139[A], 2011 NY Slip Op 52106[U] [App Term, 1st Dept 2011]). Defendant was not shown to have established and participated in any attorney-client relationship in New York (see Fischbarg v Doucet, 9 NY3d at 377). Defendant retained and dealt exclusively with BSSA in California, not plaintiff in New York; and the contracted-for legal services dealt with litigation in California and a legal filing in Washington, D.C. That one of BSSA’s partner firms performed work on these matters at its New York City office is insufficient to establish that defendant, in person or through an agent, transacted business in New York City in relation to the claim (see Ripplewood Advisors, LLC v Callidus Capital SIA, 151 AD3d 611 [2017]; Otterbourg, Steindler, Houston & Rosen v Shreve City Apts., 147 AD2d 327 [1989]).\nSchoenfeld, J.P., Ling-Cohan and Gonzalez, JJ., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Tal S. Benschar, New York City, for appellant.",
+      "Stoyanov Law PLLC, New York City (Stefan R. Stoyanov of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[64 NYS3d 850]\nSpringut Law PC, Appellant, v Profil Institut Fur Stoffwechselforschung GMBH, Respondent.\nSupreme Court, Appellate Term, First Department,\nOctober 26, 2017\nAPPEARANCES OF COUNSEL\nTal S. Benschar, New York City, for appellant.\nStoyanov Law PLLC, New York City (Stefan R. Stoyanov of counsel), for respondent."
+  },
+  "file_name": "2887-01",
+  "first_page_order": 122,
+  "last_page_order": 124
+}

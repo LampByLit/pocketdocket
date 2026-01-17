@@ -1,0 +1,842 @@
+{
+  "id": 12434427,
+  "name": "In the Matter of Nidia Cortes et al., Petitioners, v. Robert Mujica, Director, New York State Division of Budget, et al., Respondents",
+  "name_abbreviation": "Cortes v. Mujica",
+  "decision_date": "2016-12-28",
+  "docket_number": "",
+  "first_page": "914",
+  "last_page": "935",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 914"
+    },
+    {
+      "type": "parallel",
+      "cite": "54 N.Y.S.3d 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "20 USC § 6301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Misc 2d 1028",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        921089
+      ],
+      "pin_cites": [
+        {
+          "page": "1033"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/160/1028-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 515",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374355
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "522"
+        },
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0515-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 773",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4432670
+      ],
+      "pin_cites": [
+        {
+          "page": "783"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0773-01"
+      ]
+    },
+    {
+      "cite": "90 NY2d 725",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        165783
+      ],
+      "pin_cites": [
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/90/0725-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 290",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188986
+      ],
+      "pin_cites": [
+        {
+          "page": "298-299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0290-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 205",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "290 AD2d 702",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        98519
+      ],
+      "pin_cites": [
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/290/0702-01"
+      ]
+    },
+    {
+      "cite": "288 AD2d 674",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        390327
+      ],
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/288/0674-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 577",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525140
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0577-01"
+      ]
+    },
+    {
+      "cite": "52 AD3d 924",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4069561
+      ],
+      "pin_cites": [
+        {
+          "page": "925"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/52/0924-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 53",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4434068
+      ],
+      "pin_cites": [
+        {
+          "page": "58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0053-01"
+      ]
+    },
+    {
+      "cite": "52 NY2d 88",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1101226
+      ],
+      "pin_cites": [
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/52/0088-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2344751
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "539"
+        },
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0525-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 580",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4413487
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "583"
+        },
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0580-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 675",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2350069
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "678"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0675-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 674",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431210
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "679"
+        },
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0674-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618867
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "183-184"
+        },
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0175-01"
+      ]
+    },
+    {
+      "cite": "24 NY2d 120",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2289582
+      ],
+      "pin_cites": [
+        {
+          "page": "126-127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/24/0120-01"
+      ]
+    },
+    {
+      "cite": "6 AD3d 95",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        70193
+      ],
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/6/0095-01"
+      ]
+    },
+    {
+      "cite": "56 AD3d 880",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 NY2d 870",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        203025
+      ],
+      "pin_cites": [
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0870-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 374",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "379-381"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 NY2d 62",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4417245
+      ],
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0062-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 832",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391818
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "834"
+        },
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0832-01"
+      ]
+    },
+    {
+      "cite": "13 AD3d 327",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        442761,
+        442564
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "328"
+        },
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/13/0327-01",
+        "/ad3d/13/0327-02"
+      ]
+    },
+    {
+      "cite": "83 AD3d 698",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4022042
+      ],
+      "pin_cites": [
+        {
+          "page": "699"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/0698-01"
+      ]
+    },
+    {
+      "cite": "136 AD3d 926",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4117389
+      ],
+      "pin_cites": [
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/0926-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 1517",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5754898
+      ],
+      "pin_cites": [
+        {
+          "page": "1518-1519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/1517-01"
+      ]
+    },
+    {
+      "cite": "38 AD3d 1041",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3899762
+      ],
+      "pin_cites": [
+        {
+          "page": "1042"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/38/1041-01"
+      ]
+    },
+    {
+      "cite": "35 AD3d 941",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3725313
+      ],
+      "pin_cites": [
+        {
+          "page": "942"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/35/0941-01"
+      ]
+    },
+    {
+      "cite": "1 AD3d 738",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "pin_cites": [
+        {
+          "page": "739"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 AD3d 1261",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4015076
+      ],
+      "pin_cites": [
+        {
+          "page": "1262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/1261-01"
+      ]
+    },
+    {
+      "cite": "124 AD2d 911",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5694041
+      ],
+      "pin_cites": [
+        {
+          "page": "912"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/124/0911-01"
+      ]
+    },
+    {
+      "cite": "25 AD3d 172",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1007590
+      ],
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/25/0172-01"
+      ]
+    },
+    {
+      "cite": "62 AD2d 416",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5497675
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "417"
+        },
+        {
+          "page": "417-418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/62/0416-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 1532",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3708596
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1533"
+        },
+        {
+          "page": "1533"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/1532-01"
+      ]
+    },
+    {
+      "cite": "103 AD3d 1006",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3714593
+      ],
+      "pin_cites": [
+        {
+          "page": "1007"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/103/1006-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 401",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189101
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "410"
+        },
+        {
+          "page": "409-410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0401-01"
+      ]
+    },
+    {
+      "cite": "167 AD2d 735",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1019435
+      ],
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/167/0735-01"
+      ]
+    },
+    {
+      "cite": "280 AD2d 713",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1289704
+      ],
+      "pin_cites": [
+        {
+          "page": "714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/280/0713-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 207",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 NY2d 6",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2321376
+      ],
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/38/0006-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 761",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418497
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "769"
+        },
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0761-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1450,
+    "char_count": 49937,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2563052903856557
+    },
+    "sha256": "841cb5edb1c32b5dcfd51b9c21c5458c7bc0c7faf2bbe875ddf93ec9b1ccd3b6",
+    "simhash": "1:2a8c075026434ef0",
+    "word_count": 7844
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Nidia Cortes et al., Petitioners, v Robert Mujica, Director, New York State Division of Budget, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nKimberly A. O’Connor, J.\nPetitioners Nidia Cortes, Virgil Dantes, AnneMarie Heslop, and Curtis Witters, on behalf of themselves and their children (collectively petitioners), commenced this CPLR article 78 proceeding seeking an order of mandamus directing respondents Robert Mujica, Director, New York State Division of Budget, and New York State Division of Budget (DOB) (collectively DOB respondents) to comply with the law and immediately release the 2016-2017 transformation grant funds to respondent New York State Education Department (NYSED), and directing respondents MaryEllen Elia, New York State Commissioner of Education, and NYSED (collectively NYSED respondents) to distribute those funds to the nine schools removed from the “persistently failing” schools list, including Roosevelt High School, Junior High School (JHS) 80 Mosholu Parkway, and William S. Hackett Middle School—the schools attended by petitioners’ children.\nThe DOB respondents have answered, and move for an order dismissing the petition, in its entirety and with prejudice, on the grounds that: (1) petitioners lack standing to bring their claims; (2) the proceeding is time-barred; (3) the DOB’s responsibilities in this matter are not merely ministerial; and (4) the determination that the school districts containing the nine schools removed from the “persistently failing” schools list are ineligible to receive transformation grant funding for the 2016-2017 school year and that making the transformation grant funds available to those removed schools for the 2016-2017 school year would be contrary to law was not arbitrary and capricious, and was made in accordance with the plain language of the transformation grant appropriations and related spending plan. The DOB respondents further argue that the DOB cannot be compelled to allocate funds in violation of duly-enacted appropriation statutes, and that directing the DOB to make the transformation grant funds available to the nine removed schools would intrude upon policy-making and discretionary decisions that are reserved to the legislative and executive branches. Petitioners oppose the motion.\nThe NYSED respondents answered the petition, opposing only that portion of the requested relief seeking to compel NYSED to immediately release the transformation grant funds for the 2016-2017 school year to the removed schools, if such funds are unfrozen by the court or released by the DOB, but did not respond to the motion. Oral argument on the petition and motion was held on September 30, 2016, and, on consent of the parties, all issues raised in the petition, motion, and answering papers were addressed. At argument, petitioners withdrew their request to have NYSED immediately release the 2016-2017 transformation grant funds to the subject schools, accepting NYSED’s position that the funding, if released by the DOB, would continue to be provided on a reimbursement basis. Petitioners also requested an opportunity to submit written opposition to the procedural arguments in the motion, and the court set a briefing schedule, making this matter returnable on October 6, 2016. The papers are now fully submitted, and all issues have been addressed and briefed.\nBackground\nIn an effort to aid in the improvement of the lowest performing public schools in New York State, the legislature, in April 2015, enacted new section 211-f of the Education Law relating to the “Makeover and restructuring [of] failing schools” (school receivership law) (see L 2015, ch 56, § 1, part EE, subpart H, § 1). The school receivership law, which took effect April 13, 2015, mandates, among other things, that the NYSED Commissioner designate, as “persistently failing,” any school that has been identified under the state’s accountability system to be among the lowest achieving public schools in the state for 10 consecutive school years, measured by student achievement and outcomes and a methodology prescribed in the Commissioner’s regulations, and denominated a “priority school” for each applicable year from the 2012-2013 school year to the 2014-2015 school year or a “priority school” in each applicable year of such period, except one year in which the school was not identified because of an approved closure plan that was not implemented; a “School Requiring Academic Progress Year 5”; a “School Requiring Academic Progress Year 6”; a “School Requiring Academic Progress Year 7”; and/or a “School in Restructuring” (see Education Law § 211-f [1] [b]).\nUnder the school receivership law, the superintendent of a school district containing a “persistently failing” school is vested with the powers of a receiver, and a school district that has a NYSED-approved intervention model or comprehensive education plan in place is given an additional school year to make demonstrable improvement in the school’s performance, based upon the performance metrics and goals in the school’s model or plan (see Education Law § 211-f [1] [c] [i]; [6]). At the end of that year, NYSED is required to conduct a performance review, in consultation and cooperation with the school district and school staff, to determine if a school’s designation as “persistently failing” should be removed, if the school should remain under continued school district operation with the superintendent vested with the powers of a receiver, or if the school should be placed into independent receivership (see Education Law § 211-f [1] [c]).\nThe school receivership law was supported by a $75 million appropriation in the 2015-2016 state budget (see L 2015, ch 53, as amended by L 2015, ch 61), which was reappropriated in the 2016-2017 state budget (see L 2016, ch 53). The legislation authorizing the appropriation provides that “school districts containing a school or schools designated as persistently failing pursuant to [Education Law § 211-f (1) (b)]” are eligible to apply for “transformation grants . . . pursuant to a spending plan developed by the [C]ommissioner of [Education and approved by the [D]irector of the [B]udget” (L 2015, ch 53, § 1, as amended by L 2015, ch 61, § 1, and reappropriated by L 2016, ch 53, § 1). According to the appropriation legislation, transformation grants are intended to support academic, health, mental health, nutrition, counseling, legal and/or other services to students and their families; extended learning time for students; the expansion, alteration or replacement of the school’s curriculum and program offerings; professional development of teaching and administrative staff; and mentoring of at-risk students, among other things (see id.).\nThe appropriation legislation vests the NYSED Commissioner with the authority to confirm that grant supported activities are aligned with a school’s approved intervention model, comprehensive education plan, or school intervention plan, and the authority to determine the amount of such grants (see id.). The legislation further provides that “for each of the persistently failing schools, the maximum annual grant in the 2015-[20]16 and 2016-[20]17 school years [will] be established by [NYSED] ... in the spending plan for such grants,” and that “[a] portion of such grants [will] be available by July 1 of each such school year” (id.). The appropriation is set to lapse on March 31, 2018 (see L 2016, ch 53).\nIn July 2015, the NYSED respondents issued a press release announcing that Commissioner Elia had identified 124 “struggling” and 20 “persistently struggling” schools in the state (referred to hereafter as “failing” or “persistently failing” schools), and indicating that the “persistently [failing]” schools would be eligible for a portion of the $75 million in state aid to support and implement improvement efforts over a two-year period. In October 2015, NYSED submitted, for the DOB Director’s approval, a “Persistently [Failing] Schools/ Transformation Grant Expenditure Plan” (spending plan) for the period of July 1, 2015, through March 31, 2017. The final spending plan was approved by the DOB Director on October 15, 2015, and the DOB initially made $37.5 million of the transformation grant appropriation available to NYSED for its “Persistently [Failing] Schools Transformation Grant” program.\nNYSED’s spending plan, approved by the DOB, identified 20 schools, including the three schools attended by petitioners’ children, as “persistently failing” under Education Law § 211-f, rendering those schools eligible to apply for transformation grants. Pursuant to the spending plan, transformation grants would be made available to those 20 schools “to support and implement turnaround efforts over a two-year period.” The plan set forth a “[t]wo-[y]ear [t]otal [transformation [allocation” for each school, which schools could “use . . . over one year or two years,” and provided that “schools should anticipate receiving no more than 50 percent of the [transformation [allocation for the 2015-[20]16 school year,” unless a request for accelerated funding was made, and approved, to allow funds “otherwise dedicated to the second year [to] be advanced to the first year.”\nNYSED subsequently made the “Persistently [Failing] Schools Grant Application” (transformation grant application) available to the 20 “persistently failing” schools. The application indicated that transformation grant moneys would be available “to support and implement turnaround efforts over a 21[-]month period.” Each of the school districts containing the schools attended by petitioners’ children—Yonkers City School District, New York City Department of Education, and Albany City School District—submitted a transformation grant application to NYSED on behalf of those schools for the full two-year transformation allocation to support proposed activities during both the 2015-2016 school year (year one) and the 2016-2017 school year (year two), as well as a proposed budget for the school’s year one activities, totaling half or less than half of the two-year transformation allocation. NYSED approved each of the applications and proposed year one budgets.\nIn early 2016, NYSED issued continuation guidance to schools awarded transformation grants in year one regarding year two funding. In its continuation guidance, NYSED noted that “all grants . . . are subject to further review, monitoring and audit to ensure compliance,” and that NYSED “has the right to recoup funds if the approved activities are not performed and/or the funds are expended inappropriately.” Schools receiving transformation grants were instructed to submit a budget narrative, a 2016-2017 FS-10, a budget summary chart, and a sustained activities certification by April 29, 2016, and advised that they “must set aside a portion of the grant (no less than 5%) to pay for an external evaluator to assess program implementation in [y]ear 2.”\nOn February 26, 2016, NYSED issued a press release indicating that nine schools from the list of “persistently failing” schools, including Roosevelt High School, JHS 80 Mosholu Parkway, and William S. Hackett Middle School—the schools attended by petitioners’ children—would be removed from “priority school” status and, consequently, removed from the list of “persistently failing” schools, effective June 30, 2016. NYSED indicated, however, that the “[s]chools . . . removed from the [pjersistently [failing] [s]chools list in June 2016 will continue to be eligible to receive funding in 2016-[20]17 from a state grant to support and strengthen their school improvement efforts.”\nOn or about March 30, 2016, the DOB placed the entire un-expended balance of the transformation grant appropriation in “reserve” in the State Financial System, preventing NYSED from accessing the remaining year one funds and the entire $37.5 million year two appropriation. On April 1, 2016, the transformation grant appropriation was amended and reap-propriated as part of the state’s 2016-2017 budget (see L 2016, ch 53). On April 21, 2016, a DOB spokesperson issued a statement quoted in a news article regarding the eligibility for transformation grant funding of those schools removed by NYSED from the “persistently failing” schools list for the 2016-2017 school year. The DOB spokesperson was quoted as saying, “To suggest that these schools should remain eligible for the funding even though they were removed from the program is contrary to law.”\nOn or about June 9, 2016, NYSED sent a memo to those schools removed from the “persistently failing” schools list, indicating that a decision as to whether the schools would have access to unexpended year one transformation grant funds during year two “is still pending approval by the [DOB],” and that NYSED would inform those schools of the DOB’s decision as soon as it is notified. By letter dated July 28, 2016, petitioners’ counsel, on behalf of the parents in the schools removed from the “persistently failing” schools list for 2016-2017, wrote to Director Mujica, inquiring as to whether the DOB “will release funding under the [transformation grant] to those schools for the 2016-2017 school year.” Counsel indicated in its letter that if Director Mujica did not respond to petitioners’ inquiry within 10 days, it would deem the lack of a response “as a statement by the Division of Budget that it is withholding [transformation grant] funding . . . from these schools for the 2016-2017 school year.” When Director Mujica did not respond to counsel’s letter, this proceeding followed.\nArguments\nPetitioners contend that the DOB’s refusal to release the second year of transformation grant funding to Roosevelt High School, JHS 80 Mosholu Parkway, and William S. Hackett Middle School, as well as to the six other schools removed from the “persistently failing” schools list, is arbitrary and capricious, and violates the DOB’s ministerial and mandatory duty to release those funds under the appropriation legislation. Specifically, petitioners argue that the clear language of the appropriation statutes when read together with their companion legislation—Education Law § 211-f, the statutorily-mandated spending plan approved by the DOB, the transformation grant application created by NYSED, and NYSED’s continuation guidance demonstrate that transformation grant funding was intended to cover a two-year period, and that there is nothing in the law or spending plan that gives the DOB respondents authority to withhold the second year of transformation grant funding if “persistently failing” schools improve to a point where their “persistently failing” designation is removed. By this proceeding, petitioners seek an order of mandamus directing the DOB respondents to immediately release to NYSED the transformation grant funds for the 2016-2017 school year, making those funds available to the nine schools whose “persistently failing” designation has been removed, including those schools attended by their children.\nThe DOB respondents argue, in opposition to the petition and in support of their motion, that the petition should be dismissed on both procedural and substantive grounds. Particularly, the DOB respondents maintain that the petitioners lack standing to bring their claims, that the proceeding is time-barred, and that the petitioners are attempting to compel the DOB to perform an act that is not purely ministerial and to which petitioners have no clear legal right. The DOB respondents also submit that the determination that the nine schools removed from the “persistently failing” schools list are ineligible to receive transformation grant funding for the 2016-2017 school year and that making the transformation grant funds available to those removed schools for the 2016-2017 school year would be contrary to law was not arbitrary and capricious, and was based on the plain language of the transformation grant appropriations and related spending plan. The DOB respondents further argue that the DOB cannot be compelled to allocate funds in violation of duly-enacted appropriation statutes, and that directing the DOB to make the transformation grant funds available to the removed schools would intrude upon policy-making and discretionary decisions that are reserved to the legislative and executive branches.\nPetitioners assert, in opposition to the motion, that they have standing to bring their claims because the DOB respondents’ refusal to release the second year of transformation grant funds to their children’s schools is causing and will continue to cause harm to their children. According to petitioners, the transformation grant funding enabled these schools to provide services and programs to their children, and fellow students, during the 2015-2016 school year that would otherwise not be available but for those funds, and denying the second year of this funding will directly harm petitioners’ children and their classmates for the duration of the 2016-2017 school year. Petitioners also maintain that the interests they are asserting clearly fall within the zone of interests sought to be promoted by the appropriation legislation since the legislation is intended to improve education programs and outcomes in the schools attended by petitioners’ children. In addition, petitioners argue that the DOB respondents should not be permitted to use standing in order to shield their actions from judicial review, and further that this proceeding raises matters of vital public concern, which should compel a finding that they have standing to bring their claims. Moreover, petitioners submit that the statute of limitations is not a bar to this proceeding because the DOB respondents are under a continuing statutory duty to release the appropriated funds, and failed to demonstrate that they notified the petitioners of their determination more than four months before this proceeding was commenced.\nFor their part, the NYSED respondents do not oppose the primary relief sought by petitioners and support the issuance of an order directing the DOB respondents to lift the freeze and release the transformation grant funds because they agree with petitioners’ arguments that the transformation grant appropriations were intended to provide funding over a two-year period and are not contingent upon the schools’ year two designation, and further that the withholding of the funds by the DOB respondents is contrary to law and in excess of the limited discretion extended to the DOB by the legislature in this instance. According to the NYSED respondents, failing to provide funding for the 2016-2017 school year to the schools removed from the “persistently failing” schools list would punish those schools for their success, which, among other things, is inconsistent with the law under which the grants were awarded and is contrary to the expenditure plan developed by NYSED and expressly approved by the DOB.\nDiscussion\nThe court begins by noting that “[w]hether a [party] seeking relief is a proper party to request an adjudication is an aspect of justiciability which, when challenged, must be considered at the outset of any litigation” (Society of Plastics Indus. v County of Suffolk, 77 NY2d 761, 769 [1991], citing Matter of Dairylea Coop. v Walkley, 38 NY2d 6, 9 [1975]). Indeed, “[standing is ... a threshold requirement for a [party] seeking to challenge governmental action” (New York State Assn. of Nurse Anesthetists v Novello, 2 NY3d 207, 211 [2004]), and requires that the party demonstrate, in the first instance, a stake in the resolution of litigation (see Matter of International Assn. of Bridge, Structural & Ornamental Iron Workers, Local Union No. 6, AFL-CIO v State of New York, 280 AD2d 713, 714 [3d Dept 2001]; Matter of New York State Assn. of Professional Land Surveyors v State of N.Y. Dept. of Labor, 167 AD2d 735, 735 [3d Dept 1990]). Notably, “[t]he burden of establishing standing to raise [a] claim is on the party seeking review” (Society of Plastics Indus. v County of Suffolk, 77 NY2d at 769).\nIn order to have standing to challenge a governmental action, an individual petitioner must satisfy a two-part test. The petitioner must first “show ‘injury in fact,’ meaning that [petitioner] will actually be harmed by the challenged administrative action” (New York State Assn. of Nurse Anesthetists v Novello, 2 NY3d at 211). “As the term itself implies, the injury must be more than conjectural” (id.), and “in some way different from that of the public at large” (Society of Plastics Indus. v County of Suffolk at 774; see Matter of Colella v Board of Assessors of County of Nassau, 95 NY2d 401, 410 [2000]; Matter of Clean Water Advocates of N.Y., Inc. v New York State Dept. of Envtl. Conservation, 103 AD3d 1006, 1007 [3d Dept 2013]; Matter of VTR FV, LLC v Town of Guilderland, 101 AD3d 1532, 1533 [3d Dept 2012]). “Second, the injury a [petitioner] asserts must fall within the zone of interests or concerns sought to be promoted or protected by the statutory provision under which the agency has acted” (New York State Assn. of Nurse Anesthetists v Novello, 2 NY3d at 211; see Society of Plastics Indus. v County of Suffolk at 773; Matter of Colella v Board of Assessors of County of Nassau, 95 NY2d at 409-410; see also Matter of VTR FV, LLC v Town of Guilderland, 101 AD3d at 1533).\nGuided by these principles, the facts of this case support a finding that the petitioners have standing to bring their claims. Initially, the court is not persuaded by the DOB respondents’ argument that the petitioner parents do not have a legal stake in this proceeding because the transformation grant appropriation legislation speaks to eligible school districts, and there is no authority in the legislation for parents to either apply for these grants on behalf of the school districts or compel the districts to apply for the grants. Notably, the DOB respondents cite no legal authority to support this proposition, but instead submit that the logical conclusion to be drawn, given that the legislation is directed to school districts, is that a parent lacks standing to bring this proceeding. The court is not inclined to draw such conclusion on those facts alone. However, even if the court were to credit the argument, the petitioner parents have also brought this proceeding on behalf of their children who attend the schools removed from the “persistently failing” schools list that, according to the DOB respondents, are no longer eligible to receive transformation grant funding. Their children unquestionably have a legal stake in whether the services and programs supported by the transformation grants received by their respective schools in the 2015-2016 school year are continued in the 2016-2017 school year.\nIn addition, the harm to petitioners’ children is more than just conjectural, and different in kind from the general public. The schools attended by the petitioners’ children were among the 20 schools designated by NYSED as “persistently failing” and awarded transformation grants to enable those schools to improve their performance and student outcomes. Petitioners have alleged that without the second year of transformation grant funding, their children’s schools will no longer be able to continue to provide the programs and services outlined in the schools’ grant applications, which petitioners argue is essential to support each school’s continued improvement efforts in 2016-2017, thus jeopardizing the improvements made in the first year. Although petitioners have not submitted any affidavits or exhibits showing that their children’s schools do not have funding from other sources to continue the programs implemented during the 2015-2016 school year, that the schools have ceased or planned to cease such programs, or that the failure to continue such programs absent other funding will cause direct harm to petitioners or their children, the fact remains that their children’s schools are no longer receiving transformation grant funding to support the programs and services implemented during the 2015-2016 school year with the assistance of that funding, the loss of which will have a real, direct, and arguably negative impact on petitioners’ children, as well as the other students, attending those schools.\nFurthermore, the interests that petitioners assert fall within the zone of interests sought to be promoted by the appropriation legislation. There is no dispute that the appropriation legislation is intended to support programs and services that will improve school performance and student outcomes in “persistently failing” schools in the state, and that the schools attended by petitioners’ children were identified by NYSED as “persistently failing,” making them eligible to apply for transformation grants. It is equally undisputed that the school districts containing petitioners’ children’s schools did in fact apply for and were awarded transformation grants to support their schools’ improvement efforts. Notwithstanding the DOB respondents’ assertion to the contrary, the removal of these schools from the “persistently failing” schools list does not take them out of the zone of interests for standing purposes since an issue in this proceeding is whether those schools that were eligible for and awarded transformation grants are entitled to continue receiving those funds.\nMoreover, “ [standing has been granted absent personal ag-grievement where the matter is one of general public interest” (Police Conference of N.Y. v Municipal Police Training Council, 62 AD2d 416, 417 [3d Dept 1978]). In such case, a “citizen may maintain a mandamus proceeding to compel a public officer to do his [or her] duty” (Matter of Hebel v West, 25 AD3d 172, 176 [3d Dept 2005] [internal quotation marks and citation omitted], quoting Police Conference of N.Y. v Municipal Police Training Council, 62 AD2d at 417-418; see Matter of Schenectady County Sheriff's Benevolent Assn. v McEvoy, 124 AD2d 911, 912 [3d Dept 1986]). Here, petitioners have brought this proceeding in the nature of mandamus to compel the DOB respondents to comply with the appropriation legislation and release the transformation grant funds to NYSED, arguing that the DOB respondents have exceeded their authority and infringed upon the prerogatives of the legislature when they determined that the schools attended by their children are no longer eligible to receive awarded transformation grants and withheld the funds from those schools. Such claims, in the court’s opinion, implicate concerns beyond the immediately affected parties as the court must determine whether the DOB respondents have the discretion and the authority, in this circumstance, to withhold funds appropriated by the legislature.\nFor all of these reasons, the court finds that petitioners have standing to bring their claims, and dismissal on that ground is denied.\nNext, the court must decide if this proceeding is time-barred. As relevant here, an article 78 proceeding “must be commenced within four months after the determination to be reviewed becomes final and binding upon the petitioner” (CPLR 217 [1]). “To that end, ‘an administrative determination becomes final and binding when it definitively impacts and aggrieves the party seeking judicial review’ ” (Matter of Hogg-Chapman v New York State Teachers’ Retirement Sys., 83 AD3d 1261, 1262 [3d Dept 2011], quoting Matter of Scott v City of Albany, 1 AD3d 738, 739 [3d Dept 2003]; see Matter of Properties of N.Y., Inc. v Planning Bd. of Town of Stuyvesant, 35 AD3d 941, 942 [3d Dept 2006]). A final and binding determination “contemplates that the agency has reached a definitive position, there will be no further change of that position and the petitioner has no opportunity to avoid injury other than by complying with the agency’s demands” (Matter of Delta Kappa Epsilon [DKE] Alumni Corp. v Colgate Univ., 38 AD3d 1041, 1042 [3d Dept 2007]; see Matter of Adams v Carrion, 85 AD3d 1517, 1518-1519 [3d Dept 2011]).\nThe DOB respondents argue that the four-month limitations period began to run, at the latest, on April 21, 2016, when the DOB made public in a statement to the press that the removed schools were ineligible for transformation grant funds for the 2016-2017 school year and that making the transformation grant funds available to those removed would be contrary to law. According to the DOB respondents, petitioners’ failure to commence this proceeding within four months of that date, or on or before August 21, 2016, subjects this proceeding to dismissal. The court disagrees.\nThe record establishes that at the time of the DOB’s public statement, the removed schools had been advised by NYSED that transformation grant funding would remain available to them despite their removal from the “persistently failing” schools list. Following the press release containing the DOB’s statement, NYSED wrote to those schools removed from the “persistently failing” schools list, indicating that a decision as to whether the schools would have access to unexpended year one transformation grant funds during year two was still pending approval by the DOB, and that NYSED would inform those schools of the DOB’s decision as soon as it was notified. Hearing nothing further from NYSED, petitioners’ counsel wrote directly to Director Mujica, asking whether the DOB would release funding under the transformation grant appropriation to the removed schools for the 2016-2017 school year. When no response was forthcoming, the petitioners commenced this proceeding.\nGiven the conflicting positions of NYSED and the DOB, the communication from NYSED to the removed schools after the DOB’s public statement, and the lack of a response from Director Mujica to petitioners’ counsel’s July 28, 2016 letter, the court declines to find that the statute of limitations began to run at the time of the DOB’s publication. As the party seeking to assert the statute of limitations defense, the DOB respondents had the burden of establishing that the petitioners were provided notice of the agency’s determination, and thus were “aggrieved” by it, more than four months before they commenced this proceeding (see Matter of Romeo v Long Is. R.R. Co., 136 AD3d 926, 927 [2d Dept 2016]; Matter of Bill’s Towing Serv., Inc. v County of Nassau, 83 AD3d 698, 699 [2d Dept 2011]; Berkshire Nursing Ctr., Inc. v Novello, 13 AD3d 327, 328 [2d Dept 2004]). In this regard, the Court of Appeals has held that “for the purposes of the commencement of the statutory period, the petitioner cannot be said to be aggrieved by the mere issuance of a determination when the agency itself has created an ambiguity as to whether or not the determination was intended to be final,” and stated that “[a] similar principle should apply when the petitioner has received no notice, ambiguous or otherwise, of the determination by which he [or she] is said to be aggrieved” (Matter of Biondo v New York State Bd. of Parole, 60 NY2d 832, 834 [1983]).\nAssuming the DOB reached a definitive position on April 21, 2016, the DOB respondents have not demonstrated, to this court’s satisfaction, that the petitioners were notified of its position on that date, or on any date prior, such that they were “aggrieved” for statute of limitations purposes (see Matter of Village of Westbury v Department of Transp. of State of N.Y., 75 NY2d 62, 72 [1989]; Matter of Biondo v New York State Bd. of Parole, 60 NY2d at 834; Matter of Martin v Ronan, 44 NY2d 374, 379-381 [1978]). The DOB and NYSED respondents admitted, at oral argument, that they did not directly notify the affected schools that transformation grant funding would be withheld from them for the 2016-2017 school year. Furthermore, there is nothing in the record suggesting that these schools received any notification, written or otherwise, from the DOB or NYSED advising them that they would not be receiving transformation grant funding in 2016-2017.\nThat petitioners’ counsel may have objected to placing the removed schools back into receivership and onto the “persistently failing” schools list during the state’s 2016-2017 budget negotiations or that petitioners’ counsel’s March 31, 2016 memorandum to the Governor may have contained “evidence . . . that a determination had been made prior to that date to remove the schools at issue from the ‘[p]ersistently [flailing’ schools list” tends to show only that the affected schools were aware of their removal or impending removal from the “persistently failing” schools list prior to the DOB’s public statement, not that they were aware that the consequence of their removal was that the DOB would withhold awarded transformation grant funds from them. Indeed, the conflicting positions of NYSED and the DOB and NYSED’s subsequent letter to the affected schools indicating that a decision from DOB on whether the transformation grant funds would be available to them for the 2016-2017 school year was pending prompted the removed schools to seek clarification from Director Mujica as to whether the DOB would be releasing the funds for 2016-2017. To argue that the petitioners were aware of the DOB’s position and, therefore, aggrieved by it on or before April 21, 2016, does not appear to be supported by the record.\nFurthermore, accepting, for purposes of the argument, that removal from the “persistently failing” schools list was the point at which the affected schools became ineligible for transformation grant funding and thereby aggrieved for statute of limitations purposes, the removal did not become effective until June 30, 2016. As such, the court is inclined to agree with petitioners that the earliest date from which the statute of limitations could be measured, for commencement purposes, is June 30, 2016.\nMoreover, where, as here, an article 78 proceeding has been brought in the nature of mandamus to compel, the proceeding is not barred by the statute of limitations if it is “commenced within four months ‘after the respondent’s refusal, upon the demand of the petitioner [s] ... to perform its duty’ ” (Matter of Bottom v Goord, 96 NY2d 870, 872 [2001], citing CPLR 217 [1]; see Matter of Letourneau v Town of Berne, 56 AD3d 880, 881 [3d Dept 2008]; Matter of Heck v Keane, 6 AD3d 95, 98 [4th Dept 2004]). By letter dated July 28, 2016, counsel for petitioners wrote to Director Mujica, requesting that he advise as to whether the DOB would release transformation grant funding to the schools no longer deemed to be “persistently failing” by NYSED for the 2016-2017 school year. The letter indicated that if Director Mujica did not respond to their request within 10 days, the petitioners would deem the failure to respond as a statement from the DOB that it is withholding funding to those schools for 2016-2017. Hearing nothing from Director Mujica or the DOB, petitioners commenced this proceeding on September 2, 2016.\nSince the DOB respondents’ failure to directly notify the removed schools of their position regarding the schools’ eligibility for transformation grant funding in year two should be resolved against them in order to reach a determination on the merits and not deny petitioners their day in court (see Matter of Biondo v New York State Bd. of Parole at 834; Matter of Castaways Motel v Schuyler, 24 NY2d 120, 126-127 [1969]; Berkshire Nursing Ctr., Inc. v Novello, 13 AD3d at 328), and because the verified petition was filed within four months of the date petitioners’ children’s schools were removed from the “persistently failing” schools list and/or the date by which Director Mujica was to respond to petitioners’ counsel’s letter, the court finds that the proceeding is timely, and dismissal on that ground is also denied.\nTurning to the merits of the petition, mandamus is available to enforce a clear legal right where a governmental body or officer has failed to perform a duty enjoined by law (see CPLR 7803 [1]; New York Civ. Liberties Union v State of New York, 4 NY3d 175, 183-184 [2005]; Matter of Brusco v Braun, 84 NY2d 674, 679 [1994]; Matter of County of Fulton v State of New York, 76 NY2d 675, 678 [1990]; Matter of Mullen v Axelrod, 74 NY2d 580, 583 [1989]; Klostermann v Cuomo, 61 NY2d 525, 539 [1984]). Notably, “[t]he availability of the remedy depends ‘not on the [petitioners’] substantive entitlement to prevail, but on the nature of the duty sought to be commanded—i.e., mandatory, nondiscretionary action’ ” (Matter of Brusco v Braun, 84 NY2d at 679, quoting Matter of Hamptons Hosp. & Med. Ctr. v Moore, 52 NY2d 88, 97 [1981]). Thus, while mandamus may be awarded to compel the performance of a ministerial act, it “does not lie to compel an act which involves an exercise of judgment or discretion” (id. at 679; see New York Civ. Liberties Union v State of New York, 4 NY3d at 184; Matter of County of Fulton v State of New York, 76 NY2d at 678; Matter of Mullen v Axelrod, 74 NY2d at 583; Klostermann v Cuomo, 61 NY2d at 539).\nWith these principles in mind, the court must decide whether the DOB respondents may be compelled to release to NYSED the transformation grant funds awarded to the schools removed from the “persistently failing” schools list as of June 30, 2016, including those attended by petitioners’ children, for the 2016-2017 school year. For the reasons that follow, the court finds that the DOB respondents can be compelled to release the transformation grant moneys to NYSED because the legislature intended that those schools designated as “persistently failing” at the time they were awarded transformation grants remain eligible to receive those funds even after being removed from the “persistently failing” schools list. The court further finds that the DOB respondents have no discretion to withhold transformation grant funding appropriated by the legislature from “persistently failing” schools awarded those funds, and that the DOB respondents have exceeded their authority by doing so.\n“The governing rule of statutory construction is that courts are obliged to interpret a statute to effectuate the intent of the Legislature” (People v Finnegan, 85 NY2d 53, 58 [1995]). Since “the clearest indicator of legislative intent is the statutory text, the starting point in any case of interpretation must always be the language itself” (Matter of Price Chopper Operating Co., Inc. v New York State Liq. Auth., 52 AD3d 924, 925 [3d Dept 2008], citing Majewski v Broadalbin-Perth Cent. School Dist., 91 NY2d 577, 583 [1998]; see also Matter of Kern v New York State Dept. of Civ. Serv., 288 AD2d 674, 676 [3d Dept 2001]). Thus, “where the statutory language is clear and unambiguous, the court should construe it so as to give effect to the plain meaning of the words used” (Matter of Wise v Jennings, 290 AD2d 702, 703 [3d Dept 2002], quoting Patrolmen’s Benevolent Assn. of City of N.Y. v City of New York, 41 NY2d 205, 208 [1976] [internal quotation marks and citations omitted]). On the other hand, “where a statute does not expressly address the issue, ‘the reach of the statute ultimately becomes a matter of judgment made upon review of the legislative goal’ ” (Brothers v Florence, 95 NY2d 290, 298-299 [2000] [internal quotation marks omitted], quoting Matter of OnBank & Trust Co., 90 NY2d 725, 730 [1997], and Matter of Duell v Condon, 84 NY2d 773, 783 [1995]).\nThe court has reviewed the appropriation legislation and finds nothing in the language of the statutes to suggest that the legislature intended for schools designated as “persistently failing” and awarded transformation grants to remain in “persistently failing” status in order to continue receiving awarded transformation grant moneys. There is no dispute that each of the removed schools was identified as a “persistently failing” school, and therefore eligible for funding under the appropriation, when it applied for and was awarded transformation grants by NYSED. While the statute states that “[eligibility for such grants shall be limited to school districts containing a school or schools designated as persistently failing pursuant to paragraph (b) of subdivision 1 of section 211-f of the Education Law” (L 2015, ch 61, § 1), this language, in the court’s view, can only be interpreted to mean that a school must have been in “persistently failing” status at the time the grant was awarded, not that the school must remain in such status throughout the grant period.\nHad the legislature intended to condition transformation grant eligibility upon a school’s “persistently failing” designation throughout the grant period, it would have expressly said so. Indeed, that part of the state’s 2016-2017 budget appropriating moneys for “community schools grants” limits eligibility “to school districts with schools designated by the Commissioner of [E]ducation pursuant to paragraphs a or b of subdivision 1 of section 211-f of the [E]ducation [L]aw throughout the 2016-[20]17 school year” (L 2016, ch 53, § 1 [emphasis added]). No similar language is found in the transformation grant appropriations.\nFurthermore, it is apparent from the language of the statutes that funding was contemplated over a two-year period. Notably, the statute authorizes NYSED to establish “the maximum annual grant in the 2015-[20]16 and 2016-[20]17 school years” for each of the “persistently failing” schools, and states that a “portion of such grants shall be available by July 1 of each school year” {id. [emphasis added]). Additionally, there is no requirement in the statutes that schools awarded transformation grants in year one (the 2015-2016 school year) reapply for funding for year two (the 2016-2017 school year). Moreover, transformation grants were awarded pursuant to a statutorily-mandated spending plan, approved by the DOB, which was designed to support and implement a “persistently failing” school’s turnaround efforts over a two-year period and contained no requirement, express or implied, that schools remain designated as “persistently failing” throughout the grant period in order to receive funding.\nIt is significant to the court that when the DOB approved NYSED’s spending plan, the DOB respondents did not assert the position that a school’s removal from “persistent failing” status renders the school ineligible for transformation grant funding and justifies withholding that funding. Certainly, if the DOB respondents believed that funding was contingent on a school’s “persistently failing” designation throughout the grant period, they should not have approved a spending plan that provided for an award of the full two-year transformation grant allocation without any qualifying language regarding the effect on funding if a school’s status as “persistently failing” changed after a transformation grant was awarded.\nNevertheless, having approved NYSED’s spending plan in accordance with the budget legislation, the court finds that the DOB respondents have no discretion to withhold transformation grant funds appropriated by the legislature from “persistently failing” schools awarded those funds. To find otherwise would upset the balance of power existing among the three coordinate and coequal branches under our constitutional form of government.\n“It is a fundamental principle of the organic law that each [branch of government] should be free from interference, in the discharge of its peculiar duties, by either of the others” (Matter of County of Oneida v Berle, 49 NY2d 515, 522 [1980] [internal quotation marks and citations omitted]). In budgetary matters, the role of each branch of government is distinctly treated and the process is detailed by the State Constitution (see id., citing NY Const, art VII, §§ 2, 4, 7). In this regard, “[a] duly enacted [budget] statute, once passed, cannot be changed or varied according to the whim or caprice of any officer, board or individual [and] remains fixed until repealed or amended by the Legislature” (Matter of County of Oneida v Berle, 49 NY2d at 523). Therefore, “[hjowever laudable its goals, the executive branch may not override [budget] enactments which have emerged from the lawmaking process,” but instead “is required to implement policy declarations of the Legislature, unless vetoed or judicially invalidated” (id.; see Matter of City of New York v New York State Div. of Budget, 160 Misc 2d 1028, 1033 [Sup Ct, NY County 1994]).\nHere, preamble language in the chapter laws enacting the transformation grant appropriations, stating that “[n]o moneys appropriated by this chapter shall be available for payment until a certificate of approval has been issued by the director of budget” (L 2015, ch 53, § 1 [d], as amended by L 2015, ch 61, § 1; L 2016, ch 53, § 1 [d]), does not yield the interpretation the DOB respondents would place on it. Nothing in that language permits the DOB Director to substitute his judgment for that of the legislative and executive branches in enacting and passing the 2015-2016 and 2016-2017 state budgets and withhold transformation grant funding appropriated by the legislature for “persistently failing” schools, based upon an interpretation of “eligibility” that is simply not supported by the clear language of the statutes. Again, had the legislature intended “eligibility” to be contingent upon a “persistently failing” school awarded transformation grant funds remaining in “persistently failing” status throughout the grant period (i.e., 2015-2016 and 2016-2017), it would have expressly said so as it did in appropriating the “community schools grants.” The absence of such language compels a finding that the DOB respondents exceeded their authority in withholding the 2016-2017 transformation grant funds from those schools removed from the “persistently failing” schools list, including the schools attended by petitioners’ children, and warrants an order directing them to release those funds.\nAny remaining arguments have been considered and found to be lacking in merit, or need not be reached in light of this determination.\nAccordingly, it is hereby ordered and adjudged that the DOB respondents’ motion to dismiss is denied for the reasons stated herein; and it is further ordered and adjudged that the petition is granted to the extent that the DOB respondents are directed to immediately release the appropriated transformation grant funds to NYSED, making those funds available to the school districts awarded transformation grants for their “persistently failing” schools.\n. The following six schools were also removed from the list of “persistently failing” schools: Buffalo Elementary School of Technology, Burgard Vocational High School, South Park High School, Automotive High School, Public School 328 Phyllis Wheatley, and Grant Middle School.\n. During oral argument, the NYSED respondents indicated that they would not be submitting any papers in response to the DOB respondents’ motion.\n. In June 2015, the NYSED Commissioner, upon approval of the New York State Board of Regents, adopted regulations implementing the provisions of Education Law § 211-f.\n. The “priority school” designation derives from the federal Elementary and Secondary Education Act of 1965, as amended (see 20 USC § 6301 et seq.).\n. A school that makes demonstrable improvement in that first year and whose “persistently failing” designation is not removed will remain under school district operation for an additional school year with the superintendent vested with the powers of a receiver, subject to an annual performance review by NYSED, in consultation and cooperation with the school district and school staff (see Education Law § 211-f [1] [c]). A school that does not make demonstrable improvement in the initial one-year period will be placed into independent receivership (id.).\n. “Persistently struggling” schools are schools the NYSED respondents have identified as “priority schools” and which have been among the lowest performing in the state, and, therefore, in the most severe accountability status since the 2006-2007 school year.\n. The DOB allocates and makes available to NYSED the cash corresponding with the appropriation in the State Financial System.\n. Grant funds can only be paid by NYSED to grant recipients if NYSED has access to such funds.\n. The sole amendment to the legislation was an extension of the date by which the appropriation is set to lapse from March 31, 2017, to March 31, 2018.\n. Because petitioners withdrew that part of their petition seeking to have NYSED immediately release the 2016-2017 transformation grant funds to the subject schools, NYSED’s arguments in limited opposition to the petition on that point will not be addressed by the court.\n. It is worth noting that the transformation grant application advised applicants that grants “may not be used to fund, in whole or in part, existing programs and services,” and each of the school districts containing petitioners’ children’s schools, in submitting their grant applications, certified that “the funds from the [transformation grant] allocation [would] not be used to supplant activities or services at the school, and [would] only be used to fund supplemental activities and services.” Therefore, it would follow that any activities and/or services supported by the transformation grant funding in the 2015-2016 school year would have been supplemental to that which existed at the schools prior to the receipt of the grants.",
+        "type": "majority",
+        "author": "Kimberly A. O’Connor, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Harris Beach PLLC, Albany (Karl J. Sleight and Aubrey A. Roman of counsel), for Robert Mujica and another, respondents.",
+      "Alison B. Bianchi, Acting Counsel and Commissioner for Legal Affairs, Albany (Aaron M. Baldwin of counsel), for Mary-Ellen Elia and another, respondents.",
+      "Education Law Center, Newark, New Jersey (David G. Sci-arra and Wendy Lecher of counsel), for petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "[54 NYS3d 499]\nIn the Matter of Nidia Cortes et al., Petitioners, v Robert Mujica, Director, New York State Division of Budget, et al., Respondents.\nSupreme Court, Albany County,\nDecember 28, 2016\nAPPEARANCES OF COUNSEL\nHarris Beach PLLC, Albany (Karl J. Sleight and Aubrey A. Roman of counsel), for Robert Mujica and another, respondents.\nAlison B. Bianchi, Acting Counsel and Commissioner for Legal Affairs, Albany (Aaron M. Baldwin of counsel), for Mary-Ellen Elia and another, respondents.\nEducation Law Center, Newark, New Jersey (David G. Sci-arra and Wendy Lecher of counsel), for petitioners."
+  },
+  "file_name": "2720-01",
+  "first_page_order": 938,
+  "last_page_order": 959
+}

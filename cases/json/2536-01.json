@@ -1,0 +1,666 @@
+{
+  "id": 12298535,
+  "name": "Jun Carney, Plaintiff, v. Patrick Carney, Defendant",
+  "name_abbreviation": "Carney v. Carney",
+  "decision_date": "2016-10-04",
+  "docket_number": "",
+  "first_page": "411",
+  "last_page": "436",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 411"
+    },
+    {
+      "type": "parallel",
+      "cite": "38 N.Y.S.3d 765"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "55 AD3d 1162",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3874434,
+        3889791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/55/1162-02",
+        "/ad3d/55/1162-01"
+      ]
+    },
+    {
+      "cite": "192 AD2d 433",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1122677
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "438",
+          "parenthetical": "it should be emphasized that a judge is not a \"potted plant\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/192/0433-01"
+      ]
+    },
+    {
+      "cite": "729 F3d 883",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3699987
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "judges are not potted plants"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/729/0883-01"
+      ]
+    },
+    {
+      "cite": "599 F3d 176",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4222391
+      ],
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0176-01"
+      ]
+    },
+    {
+      "cite": "66 AD2d 328",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5515460
+      ],
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/66/0328-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 71648",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 3091487",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "636 Fed Appx 645",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 AD3d 153",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3727460
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/0153-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 757",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725172
+      ],
+      "pin_cites": [
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0757-01"
+      ]
+    },
+    {
+      "cite": "70 AD3d 1129",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3957765
+      ],
+      "pin_cites": [
+        {
+          "page": "1133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/70/1129-01"
+      ]
+    },
+    {
+      "cite": "21 AD3d 1331",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1263840
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/21/1331-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 1458",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4239022
+      ],
+      "pin_cites": [
+        {
+          "page": "1459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/1458-01"
+      ]
+    },
+    {
+      "cite": "136 AD3d 1295",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4101880,
+        4103508,
+        4110829
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/1295-02",
+        "/ad3d/136/1295-03",
+        "/ad3d/136/1295-01"
+      ]
+    },
+    {
+      "cite": "96 AD3d 443",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5675818,
+        5683973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/96/0443-02",
+        "/ad3d/96/0443-01"
+      ]
+    },
+    {
+      "cite": "109 AD3d 1135",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3727570
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/1135-01"
+      ]
+    },
+    {
+      "cite": "125 AD3d 113",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4038359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0113-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 1189",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4333402
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/1189-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 50492",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Misc 3d 1204",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 AD2d 725",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1534450,
+        1533998
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/241/0725-02",
+        "/ad2d/241/0725-01"
+      ]
+    },
+    {
+      "cite": "77 AD3d 921",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5746657
+      ],
+      "pin_cites": [
+        {
+          "page": "923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0921-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 879",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4405125
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0879-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 187",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188501
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0187-01"
+      ]
+    },
+    {
+      "cite": "33 Misc 3d 448",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3777288
+      ],
+      "pin_cites": [
+        {
+          "page": "449-450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/33/0448-01"
+      ]
+    },
+    {
+      "cite": "299 NY 378",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2076951
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/299/0378-01"
+      ]
+    },
+    {
+      "cite": "122 Wis 2d 465",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8675166
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "471"
+        },
+        {
+          "page": "259"
+        },
+        {
+          "page": "472"
+        },
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/122/0465-01"
+      ]
+    },
+    {
+      "cite": "971 NE2d 291",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "462 Mass 724",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4273261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/462/0724-01"
+      ]
+    },
+    {
+      "cite": "353 P3d 880",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6861207
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/353/0880-01"
+      ]
+    },
+    {
+      "cite": "439 F3d 81",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        31323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/439/0081-01"
+      ]
+    },
+    {
+      "cite": "712 F3d 111",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3556648
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/712/0111-01"
+      ]
+    },
+    {
+      "cite": "104 AD3d 692",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3709486
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/104/0692-01"
+      ]
+    },
+    {
+      "cite": "48 Misc 3d 380",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4318672
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/48/0380-01"
+      ]
+    },
+    {
+      "cite": "158 AD2d 545",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3615783,
+        3615239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/158/0545-02",
+        "/ad2d/158/0545-01"
+      ]
+    },
+    {
+      "cite": "34 AD2d 329",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5582077
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/34/0329-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 915",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4433428
+      ],
+      "pin_cites": [
+        {
+          "page": "916"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0915-01"
+      ]
+    },
+    {
+      "cite": "32 Misc 3d 703",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3775205
+      ],
+      "pin_cites": [
+        {
+          "page": "707"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/32/0703-01"
+      ]
+    },
+    {
+      "cite": "80 Misc 2d 844",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1283777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/80/0844-01"
+      ]
+    },
+    {
+      "cite": "372 US 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "407 US 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9136521
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0025-01"
+      ]
+    },
+    {
+      "cite": "242 AD2d 625",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        495502
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/242/0625-01"
+      ]
+    },
+    {
+      "cite": "51 AD3d 1075",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3594978,
+        3598298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/51/1075-01",
+        "/ad3d/51/1075-02"
+      ]
+    },
+    {
+      "cite": "104 AD3d 695",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3719244
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/104/0695-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2108,
+    "char_count": 64236,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.6922169990516086e-8,
+      "percentile": 0.2950700986814289
+    },
+    "sha256": "52fc03c43ca3d02620a94f8cb6c172e3a216e7bb8b5db951f75fb9817f8bef0f",
+    "simhash": "1:3b9065c338e0f0e8",
+    "word_count": 10214
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jun Carney, Plaintiff, v Patrick Carney, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRichard A. Bollinger, J.\nIn this instance, this court considers an issue of apparent first impression in New York. Can the court, in deciding whether to appoint counsel for an allegedly indigent father in a custody matter, impute income to that applicant consistent with his acknowledged skills and employment capability? The answer to this question submerges the court into the nooks and crannies of constitutional rights, the system of evaluating indigence under state law, long-standing public policies concerning the allocation of scarce resources available from the public fisc, and evolving standards required by New York’s constitutional mandates.\nIn this case, a longtime litigant before this court now seeks appointment of counsel. The pending matter stems from a confluence of two proceedings. In April 2016, the applicant father, subject to substantial restrictions of his parenting time with his two teenaged daughters, filed a petition in Family Court seeking to remove the court imposed restriction of supervised visitation with his children, and obtain sole custody and primary residence. In response, the mother filed an order to show cause in Supreme Court seeking a finding of contempt against the father, sentencing him to incarceration, a fine of $25,000, payment of counsel fees, elimination of any contact between father and children, and other assorted relief (including transfer of the Family Court petition to Supreme Court). The family court petition was transferred to this court, and the father then applied for appointed counsel.\nBefore further review, a short recounting of the history of this dispute illuminates the court’s analysis. There were four prior contempt motions filed by the mother, seeking to obtain the father’s compliance with court orders, all of them before February 2014. When a trial took place in January 2015, the couple settled the dispute. The father admitted to wilful violations of prior court orders, and the court sentenced him to work weekends in jail. The parties agreed to further restrictions on the father’s access, including requiring supervision by his parents at all interactions with his daughters. In her current petition to the court, the wife recounts a series of contacts between the father and his daughters which violate the terms of the prior court order. The violations included attending public events (which the prior order banned him from attending unless supervised), calling the mother a “stupid bitch” in the presence of the children, having personal contact with the children without supervision in a number of settings, and having email and telephone access outside permitted times. The mother also states that the father filed two previous petitions in Family Court, in May and October of 2015, in which he sought relief from the prior court orders, but that both of those were dismissed for lack of legal substance. To say that this seemingly interminable custody contest has been suffused with antagonism is an understatement. In prior pleadings before this court, there are countless emails directed by the father to his children calling the mother an assortment of vile names. There is evidence that the father has taken numerous steps to evade and violate court orders in the past, including buying the daughters cell phones, which they hid in their mother’s house, in violation of a prior court order. The father was sentenced to incarceration for these violations. In addition, in an act observed by the court, after a proceeding in this case, the father got up from the tables in the courtroom and, while his wife was standing next to his two daughters, walked directly between them, grabbed one of his daughter’s hands and led her out of the courtroom without acknowledging or saying anything to the mother. In this court’s view, this behavior was boorish and demeaning to his wife.\nDuring this process, this court, on a previous occasion, assigned an attorney to represent the father. This assignment was paid at public expense because, according to the assigned attorney, the father was “indigent.” At that time, this court accepted the claim of indigence and did not contest it further. Importantly, the mother’s counsel did not protest the appointment of counsel for the father. Intermittently, the father, on several occasions, retained private counsel to represent him during the various court appearances. There is no evidence of any retainer agreements between the father and his then counsel.\nAs the dust settles, the court now has two applications before it: (1) the father’s request for a change of custody and release from supervision restrictions, and (2) the mother’s application for a finding of contempt and other relief. Now, in response to the wife’s application and because he has sought to contest custody and primary residence of his daughters, the father asks this court to appoint counsel. Consistent with the prior practice of this court, the court told the father to contact the Monroe County Public Defender’s Office, which screens candidates that are under consideration for appointment of counsel in Family Court matters. The Public Defender’s Office conducted their screening, asking the father to present certain documents for their review and, after completing the screening, determined that the father qualified for appointment of counsel and asked this court to make that appointment.\nThis court declined to make the appointment upon the Public Defender’s informal request, although, as noted earlier, this court had previously made an appointment of counsel for the husband without asking any further questions. This court, after an informal consultation with the Monroe County Public Defender, requested that they bring a motion for the appointment in order to permit the court to weigh what it considers to be competing legal and public policy grounds inherent in this process. The Public Defender then brought the current motion. Importantly, the Public Defender argued that the motion should be considered by the court ex parte, and that the motion papers should not be forwarded to the mother’s counsel, as the papers contained confidential financial information that was not pertinent to the underlying contempt application or the father’s request for a change in residence or custody.\nThe court hesitated to appoint counsel and required the motion because of its knowledge of certain facts—gleaned from undisputed representations in prior pleadings—regarding the husband’s professional credentials and job skills. The court knew, based on previous submissions to the court, that the father possesses a Master’s degree in mathematics and has held the degree for years, even before the divorce proceeding. He holds a Bachelor’s degree in micro-electrical engineering. He has taught at numerous colleges, albeit for short periods of time. He has matriculated at three graduate programs. In addition, the father has, on previous occasions, disclosed that he was working on a doctorate in mathematics at the State University of New York at Binghamton. The court notes that the father has been working on this advanced degree since the commencement of the divorce action in 2011. This court also notes that the father has, during the pendency of the divorce, acknowledged that he does tutoring and other services to generate some income. He pays no child support or other costs, even though he is not the primary residential parent of his daughters. The court also knows, through previous affidavits, that the father was living at his parents’ home, driving his own car, and apparently buying cell phones (and service plans) for his daughters. Importantly, although not an issue in the prior proceedings, the court notes that there was no prior evidence that he had seriously sought employment. As an additional consideration, this court knows that the mother, an executive at Xerox Corporation, has been represented by private counsel throughout all the matters the numerous contempt motions and other proceedings, brought during the divorce action and thereafter. In this court’s view and without confirmation by the mother’s counsel, it is readily apparent that the mother, in seeking to enforce court orders, has spent tens of thousands of dollars in legal fees. Now, the mother faces an additional proceeding, in which the husband seeks to change custody and primary residence and which undoubtedly will cost her thousands more.\nAs noted earlier, this court has, on prior occasions, seriously questioned the representations made by the father in these proceedings. Simply put, it has been the court’s conclusion, based on a review of affidavits and other pleadings, that the father has misled the court previously, and, on several occasions, simply been untruthful. The behavior of the father in violating court orders and misrepresenting facts, casts a shadow of skepticism over his current claims that he is involuntarily indigent and cannot afford counsel. Overarching this concern are a series of legal questions of whether this court, under the current circumstances, can hold a hearing on the father’s claim of indigence, what type of hearing should occur, who should challenge the father’s assertions of sustained and allegedly incurable indigence, and whether there are any circumstances in which the court could impute income to the father that would negate his claims of indigence.\nThe Public Defender, in seeking an appointment of counsel for the father, notes that he was subject to an “eligibility interview.” The father supplied his 2014 and 2015 income tax returns and a letter from his supervising professor at the State University, attesting that he was pursuing a doctorate in mathematics. The Public Defender also reviewed bank statements which reflect that the father had, several months past, a balance over $7,000, but the balance as of June 30, 2016 was only $200. The Public Defender, after further review, concluded that he had only $2,853 in his combined checking and IRA savings account. The Public Defender described the father as “currently unemployed” and eligible for appointment of counsel.\nInitially, this court acknowledges that there are constitutional and statutory rights, held by the father, that easily justify appointment of counsel. Section 262 (a) (v) of the Family Court Act confers the right to the assistance of counsel upon the applicant here because as “the parent of any child seeking custody or contesting the substantial infringement of his or her right to custody of such child, in any proceeding before the court in which the court has jurisdiction to determine such custody.” (Matter of Savoca v Bellofatto, 104 AD3d 695 [2d Dept 2013].) Furthermore, the respondent in a civil contempt proceeding who faces the possibility of the imposition of a term of imprisonment, however short, has the right to the assignment of counsel upon a finding of indigence. (Family Ct Act § 262 [a] [vi]; Matter of Keenan v Keenan, 51 AD3d 1075 [3d Dept 2008]; Matter of DeMarco v Raftery, 242 AD2d 625 [2d Dept 1997], citing Argersinger v Hamlin, 407 US 25 [1972].) However, while those rights are fundamental, they are conditioned upon a finding of an inability to pay private counsel. The Family Court Act, the talisman for appointed counsel, provides that an attorney must be assigned to a litigant in custody matters “in any case where he or she is financially unable to obtain the same.” (Family Ct Act § 262 [a].) New York’s Legislature uses the same phrase—“financially unable to obtain the same”—in the Criminal Procedure Law. (CPL 180.10 [3] [c].) The Judiciary Law and the County Law, which govern additional instances in which court-appointed, state-financed counsel, may be assigned, riff the same refrain— the characteristic which qualifies a defendant for the assignment of counsel is that he be “financially unable to obtain counsel.” (Judiciary Law § 35; County Law § 722.)\nIn this court’s view, the legislature adopted the “unable to retain counsel” standard to assure representation at public expense to those in real need, but not extend that precious right to litigants who, by choice, intentionally limit their income to avail themselves of publicly financed legal services. The legislative command seems compellingly appropriate: the public, through tax dollars, should not be financing legal costs for someone capable of paying private counsel. In short, in this court’s view, the decision to appoint counsel in this case rests on the use of the word “able,” the adjective chosen by the legislature in all of the statutes involving the appointment of counsel. If an individual is “unable” (translate that word as “incapable”) of paying counsel, then he should be extended that important protection, as the New York statutes command. But, if he is “able” (translate that word as “capable”) then he should be required to finance his counsel by himself, without government assistance. In addition, it would seem that no conclusion regarding an inability to retain counsel could be drawn without evidence of cost and availability of “retaining counsel.” In short, the determination, by legislative command, is not what an individual is doing now, but what he is capable of doing now. This legislative direction suggests a court must consider employment potential—the current capability to earn sums that exceed poverty limits—before assigning counsel.\nCuriously, New York’s Legislature has not invoked another word—indigence—when describing the threshold for eligibility, more than a half century after Gideon v Wainwright (372 US 335 [1963]) mandated appointment of counsel. As one court noted years ago, a reference to indigence appears nowhere in any of these provisions other than in the title to section 35 of the Judiciary Law. (People v Wheat, 80 Misc 2d 844 [Suffolk County Ct 1975].) The court states: “This court has searched exhaustively for an explanation of the expression ‘financially unable to obtain counsel’ without success. ‘Indigent’, however, is defined as ‘in poverty; poor; needy; destitute’ (Webster’s New World Dictionary)” (id. at 847-848). In this neck of the judicial woods, a colleague from the Rochester City Court noted the same lack of legislative guidance in resolving the issue of an individual being “financially unable to obtain counsel,” noting: “[W]hile guaranteeing the right to counsel, the Legislature provided no statutory guidelines for a court to use to determine whether a particular defendant is financially able to obtain counsel in a criminal case. In that circumstance the court is charged with making that determination.” (People v Pedrick, 32 Misc 3d 703, 707 [Rochester City Ct 2011].) The court cited People v McKiernan (84 NY2d 915, 916 [1994]), in which the Court of Appeals advised that the court had “an obligation to inquire further into defendant’s eligibility ... for the appointment of counsel.” In Matter of Stream v Beisheim (34 AD2d 329 [2d Dept 1970]), the determination to appoint counsel was made after a hearing before the court on the indigency question.\nThese precedents dictate that this court is obligated to make a threshold decision of whether the applicant in this instance is financially unable to obtain counsel. Other courts have reached the same conclusion. In one case, the Appellate Division required an “allocution” regarding the applicant’s financial status before making any decision regarding assigned counsel. (People v Lincoln, 158 AD2d 545 [2d Dept 1990].) In that instance, the litigant alleged he was unable to afford counsel and the court appointed an attorney whose services were eventually terminated without further inquiry because the court learned that the applicant had a full-time job. The appeals court acknowledged that an assignment of counsel for a litigant may be terminated for reasons of non-indigency and added that the court, in its discretion, “is vested with the authority to terminate the assignment.” (Id. at 546.) The Court added that the trial court could “direct the defendant to make partial payment for legal representation rather than terminate the assignment if it appeared, under the circumstances, to be in the interest of justice.” (Id.) These cases clearly demonstrate that the final decision on an applicant’s eligibility for appointed counsel, as a matter of statutory interpretation, rests with this court and that it has broad discretion in considering the proof to establish whether an applicant is able or unable to retain counsel.\nAnother principle seems to be implied from these court decisions: the applicant has the burden of proof regarding his entitlement to appointed counsel and the applicant must come forward with proof to establish that he or she is unable to retain counsel. (Abadi v Abadi, 48 Misc 3d 380 [Sup Ct, Kings County 2015]; Matter of Perez v Richmond, 104 AD3d 692 [2d Dept 2013] [father failed to make full and timely disclosure of evidence to support claim of indigence].) This court also looks to the rationale of a majority of states and federal courts that mandate that the applicant has the burden of proof. (See United States v Barton, 712 F3d 111 [2d Cir 2013] [a defendant has the burden of establishing financial eligibility for appointed counsel]; United States v Parker, 439 F3d 81 [2d Cir 2006]; People v Schupper, 353 P3d 880 [Colo Ct App 2014]; Commonwealth v Porter, 462 Mass 724, 971 NE2d 291 [2012] [holding that a defendant seeking appointment of counsel at public expense bears the burden of proving indigency by a preponder-anee of the evidence]; State v Buelow, 122 Wis 2d 465, 363 NW2d 255 [1984].) In State v Buelow, the Wisconsin court set forth a series of factors including foremost, “the natural tendency to place the burdens on the party desiring change” and added as the party desiring free services, the defendant should bear the burden of proof. (122 Wis 2d at 471, 363 NW2d at 259.) In addition, because the defendant is the party in possession of all the material proof regarding her own wealth, and is asserting the negative—lack of funds—the court held that she should be required to come forward with proof. (122 Wis 2d at 472, 363 NW2d at 259.) The Wisconsin court rationale applies with equal force here. The applicant seeks the services and has all the information necessary to justify it—or its absence. For these reasons, the applicant for appointment of legal services is no different than other applicants for public assistance and they must provide evidence sufficient to conclude that they are unable to retain counsel.\nAgainst this backdrop, the Public Defender asserts a series of arguments justifying appointment of counsel—in advance of any hearing—without the consideration of employability or income potential. Initially, the Public Defender cites a 1977 opinion from Richard J. Comiskey, the “Director of Administration” for the Appellate Division, Third Department. In that opinion, without referencing any apparent legal authority, the author opines that in determining eligibility for appointed counsel, the appointing authority should only consider whether the applicant “at the time need is determined, is financially unable to provide for the full payment of adequate counsel.” This citation, while perhaps persuasive as a policy matter, does not provide a solution to the problem posed in this matter. The phrase—“at the time of need”—seems to this court to take a narrow/still-photograph view of an individual’s capabilities and background and, as in this case, his exceptional skills. He never mentions imputing income to highly-skilled, but underemployed applicants. If the applicant avoids commensurate employment consistent with his skills during the initial phases of a matter, he can “stop the film” and dictate the “time of need,” and courts, unable to impute income to the applicant, are not able to review the entire film, and are left with no role in the qualification process. The applicant can pre-qualify himself by simply avoiding employment at “the time of need.” The court finds it hard to believe that the author of this 1977 opinion would condone excising judges from their role in deciding who is truly indigent and letting an applicant, through non-action, dictate the result. This court declines to read this nearly 40-year-old advisory opinion as barring the imputing of income to this applicant.\nThe Public Defender also cites the Federal Criminal Justice Act (CJA), 18 USC § 3006A (b) and Guidelines for Administering the CJA and Related Statutes § 210.40.30 (Guide to Judiciary Policy, vol 7 [CJA Guidelines]), which encompasses the federal standards for appointment of counsel in federal court. The Public Defender notes that the federal courts are told that “future earnings should not be considered” when appointing counsel. However, the federal rules do not apply in the New York courts and, until the recent advent of the Hurrell-Harring v State of New York lawsuit, there were no statewide New York guidelines comparable to the federal statutory requirements. Even so, the federal statutes do not dictate an absolute entitlement to appointed counsel. CJA Guidelines § 210.40.30 (e) states that “other income or after-acquired assets” received within 180 days of a court’s reimbursement order may be available for reimbursement to the government and the court can consider “income” to the applicant which occurs within 180 days after the sentencing of the individual (a date that might be years after the party’s application for the assistance of counsel). This language suggests that Congress intended that if an applicant obtained significant employment—at a rate of compensation beyond the poverty-based guidelines making them eligible for appointment of counsel—at any time during the course of their proceeding or within half a year after the completion of their proceeding, the court could order that the cost of counsel be reimbursed. When read in this light, the statute does not suggest that a federal court is barred from considering income potential when evaluating the qualification for the appointment of counsel. The federal statute also recognizes that income eligibility may rest on a sliding scale. The federal statute discusses partial eligibility—in which the applicant pays part of the cost—and permits the court to consider family resources to pay part of the costs. The statute expressly permits federal courts to inquire about a family’s willingness to retain counsel or a spouse’s “financial situation.” If a family allows an applicant to have cost-free housing and meals, it would seem that their willingness is evident and their resources would be worthy of analysis by an inquiring court before deeming the applicant indigent. In short, the federal courts, when determining the eligibility for appointed counsel, do not sign blank checks. They are encouraged to inquire about other resources—family members—before appointing counsel and may consider later realized income in deciding reimbursement. If a federal court can consider a criminal defendant’s non-applicant resources—the family or spouse—and income derived long after the representation ends, a state court, considering the appointment of counsel in a civil matter involving custody of children, should be able—unless statutory authority directs otherwise—to consider the income from his income potential before appointing counsel. Furthermore, while the federal guidelines have instructive value in the analysis of the issues in this matter, they are not determinative and, when read broadly, suggest that considering an applicant’s skills, talents, degrees and income potential are not outside the discretion of the federal courts in deciding indigence for purposes of appointing counsel.\nThe Public Defender, in seeking to advocate that the court does not have the power to impute income to this litigant as part of determining his eligibility for assigned counsel, also cites People v Koch (299 NY 378 [1949]), a case that is longer in the tooth than the judge writing this opinion. In People v Koch, the Court of Appeals held that a court, in deciding a question of whether a criminal defendant qualified for assigned counsel, could not infer that the defendant was able to afford counsel:\n“[O] mission [to provide assigned counsel] is sought to be justified on the theory that the defendant being at liberty on bail at the time of arraignment, an inference arose that he had the ability to procure and pay counsel of his own choosing and nullified any necessity for either inquiry or assignment of counsel. Such circumstance does not justify omission to observe fundamental constitutional safeguards designed to assure a fair trial in a criminal case.” (Id. at 381.)\nThe Public Defender’s citation to this section of People v Koch is unavailing as a rebuttal to the question posed in this matter. This court, in raising questions regarding the father’s eligibility for appointment of counsel, is not relying on any “inference” drawn from the fact that the litigant “made bail,” as the court did in People v Koch. Instead, this court, in raising a question concerning the applicant’s eligibility, bases its inquiry on a bundle of acknowledged facts: a healthy, well-educated, highly-trained individual, with obvious determination, and refined computer and communication skills, is not employed at anywhere near his capability. There is no evidence that he has sought, in any manner, remunerative employment consistent with his skills and education. People v Koch, although more than 65 years old, is consonant with more-recent New York law: one fact, alone, cannot make an individual indigent or able to retain counsel. A complete inquiry—of all relevant facts—is required.\nThe Public Defender also points this court to Abadi v Abadi (48 Misc 3d 380 [Sup Ct, Kings County 2015]), in which a parent sought appointment of counsel in a custody matter. In that case, the applicant had previously incurred significant fees and owed substantial sums to his prior attorneys. His wife argued that he had a Master’s degree from an Ivy League university, earned $135,000 at one point, had no evidence of any recent debt (an indication he was supported by his family), and had flown back and forth to Panama on a regular basis. The court concluded that the father was entitled under the Judiciary Law to court-appointed counsel, but not without acknowledging competing considerations. The court noted:\n“This court has some very serious concerns as to whether or not taxpayer funds should be utilized to provide counsel to an individual though who holds an MBA from one of the most prestigious business schools in the country, especially where he does not adequately explain why he has not obtained commensurate employment either here or in Panama. It is true that he appears to spend a substantial amount of time in preparation of court documents and litigation.” {Id. at 385.)\nWhile the court erred on the side of caution and appointed counsel, it nonetheless suggests that unrealized employment income could be a factor in any court’s consideration when appointing counsel:\n“The court cautions the defendant of his ongoing obligation to seek employment and that in these austere budgetary times the utilization of government funds must be tempered with providing those who are truly in need of appointment of counsel. . . .\n“The use of public funds to pay for counsel brings forth the question as to when it is appropriate to appoint counsel when it appears that an individual should be employed.\n“While this court has acted herein on the side of caution, it must be recognized that the defendant has an obligation to seek employment and if he chooses not to utilize the advanced degree he holds, then his obligation to seek other employment not in his chosen profession is paramount. . . .\n“[T]he use of taxpayer funds [because he chooses not to be employed or] . . . [i]f he cannot locate employment utilizing his MBA degree from the Wharton School of Business of the University of Pennsylvania then he must seek other employment.\nThe right to counsel appointed by the court is not limitless and those resources must be utilized for those who truly cannot afford counsel.” (Id. at 387-388.)\nIn erring on the side of caution, the court did appoint counsel, but reserved the right to assess the applicant the cost of counsel at the conclusion of the matter. (Id. at 388.)\nThis court, in considering whether to impute income to this applicant before appointing counsel, notes that the option set forth in Abadi v Abadi, requiring a hearing after the entire matter is concluded, is hollow and unrealistic. If this contested custody matter is litigated to conclusion, both sides will be exhausted. The mother, having paid her own legal fees, will have no interest in the post-hearing fee assessment litigation. The next question is whether the assigned counsel will represent the father in fee assessment litigation or whether he proceeds without counsel. Neither side will have any interest in determining whether the public fisc should be reimbursed for the cost of legal fees in a hearing after the fact. In short, while the County Law provides an avenue for gaining reimbursement of appointed counsel legal fees paid to an otherwise employable individual through a post-hearing inquiry, this court views the option as a legal and practical dead end. Only by conducting the inquiry regarding “employability” and “income potential” before the appointment of counsel can this court realistically balance the rights of the individual and the protection of the scarce resources of the public fisc. For these reasons, Abadi v Abadi does not resolve the issue before this court and, contrary to the suggestions of the Public Defender, strongly infers that this court can impute income to the applicant in this case before deciding whether he is able or unable to retain counsel.\nFinally, the Public Defender points this court to recent guidelines issued by the New York State Office of Indigent Legal Services as part of the stipulated resolution of the Hurrell-Harring v State of New York lawsuit. Under the terms of the settlement of that lawsuit, a series of criteria emerged as governing eligibility determinations for applicants for appointment of counsel. The guidelines dictate that an applicant “shall be assigned” counsel “unless the applicant is conclusively ineligible.” The guidelines contain “presumptions of eligibility” and restrictions on what assets or outside income can be considered when making eligibility determinations. If the income is less than 250% of the federal poverty guidelines, then the applicant is presumptively eligible.\nIn reading the guidelines and accompanying materials, this court initially notes that the clear intention of these guidelines involve assignment of counsel for criminal defendants, not civil litigants. There is no discussion of how these rules apply to contested custody proceedings or even civil contempt proceedings. In reading the voluminous pages, there is not a bit of ink or even the slightest inkling that these rules are intended to govern civil cases such as the one before this court. The authors acknowledge that the guidelines only apply to “criminal [defendants] . . . outside the City of New York.” (New York State Office of Indigent Legal Services, Criteria and Procedures for Determining Assigned Counsel Eligibility at 6 [Apr. 4, 2016] [“the guidelines”].) The authors “intend” to issue further guidelines to determine eligibility for “mandated representation in Family Court.” (Id.) This court will not attempt to recite the string of necessary and appropriate limitations on what forms of income cannot be considered by a reviewing authority as set forth in these guidelines. But it should be noted, that nowhere do the proposed guidelines—or the accompanying report—remotely suggest that a reviewing entity, when considering an applicant, cannot impute income to a highly skilled, but voluntarily unemployed applicant even in a criminal defense context. The omission is stark, and suggests that the authors did not intend to restrict a court’s discretion—or obligation—to consider income potential when reviewing eligibility. The omission becomes even more pronounced when compared to the federal eligibility guidelines discussed above. In those guidelines, the federal authorities directed that future income could not be considered in evaluating eligibility. (18 USC § 3000A [b]; CJA Guidelines § 210.40.30.) This court earlier noted in its discussion that a ban on considering future income was not synonymous with prohibiting a court applying the imputed income principles to applicants. Regardless of that argument, a side-by-side comparison of the federal and proposed state guidelines suggests that the latter does not restrict this court’s ability to impute income to this applicant. Despite the clear presence of the directive not to consider future earnings in the federal model, the New York authors failed to include future or imputed income, which is evidence that the New York guidelines were not intended to curtail a court’s ability to impute income to an applicant in a criminal court matter, much less the civil context present here.\nUnable to find any restriction in New York—or anywhere else—that would prohibit imputation of income to an applicant for appointment of counsel, this court will explore that option here. New York case law involving family-related matters gives courts the power to impute income in certain circumstances. In Cohen v Cohen (33 Misc 3d 448, 449-450 [Sup Ct, Nassau County 2011]), the court noted, when considering appointment of assigned counsel, if “facts of financial ability [to pay] are brought to the court’s attention, the court may not ignore the information.” The court held that there was a “clear distinction between those who cannot pay legal fees and require representation and those who choose not to pay legal fees, and misstate their finances to secure representation without cost.” (Id. at 451-452.) An unwarranted appointment of publicly-financed counsel to an applicant in a contested family proceeding created a grave danger of “more compelling . . . circumstances” in which one spouse receives free legal services and the other spouse pays for their own legal representation. (Id. at 452.) “Such a scenario,” the court wrote, can “obliterat[e] the level playing field, a basic tenet of matrimonial law, as articulated by [the] Court of Appeals” (Id. [internal quotation marks omitted]; see O’Shea v O’Shea, 93 NY2d 187 [1999]; DeCabrera v Cabrera-Rosete, 70 NY2d 879 [1987].) The judge in Cohen v Cohen reminded trial judges to carefully evaluate a litigant’s finances when there are doubts about their veracity:\n“[T]he expense of court-appointed counsel, borne here by the public at large, is wholly misspent and limited public resources are unduly wasted when compensation for legal services is provided under circumstances where the litigant’s true and accurate financial status at the time of appointment is misstated, concealed or, as in this case, wholly misrepresented.” (Cohen v Cohen at 452.)\nThe court added that the following should be considered: “the personal and business resources available . . . his realized earning capacity, his existing corporate entity, his stated living expenses, and the purported support he receives from family and friends.” (Id. at 453.) In this litany of resources, the court included “realized earning capacity,” a suggestion that the applicant’s reduced income at the time of the application could be revised upward before declaring him unable to retain counsel.\nThe judge in Cohen v Cohen, considering the appointment of counsel in a matrimonial contempt proceeding, adopts the same theory that motivates this court. In considering the applicant’s “realized earning capacity,” the court cites to two Appellate Division decisions that sanction an imputation of income to a party in a matrimonial matter. In Wesche v Wesche (77 AD3d 921, 923 [2d Dept 2010]), the Court held that trial courts may impute income based upon the party’s past income or demonstrated future potential earnings or based on his or her employment history, future earning capacity, educational background, or money received from friends and relatives. In Matter of Collins v Collins (241 AD2d 725, 727 [1997]), the Third Department held that income could be imputed to a litigant in a family court matter based upon the litigant’s “prior employment experience ... as well as such parent’s future earning capacity in light of that party’s educational background” or “employment potential and the value of benefits provided to him by his father.” In Cohen v Cohen, the Court, searching for a standard to evaluate a litigant’s finances for purposes of determining eligibility for appointed counsel, combined the concept of income imputation, as developed in spousal or child support litigation, with the eligibility requirements of the County Law.\nIn another context, a local criminal court judge explored the same concept in attempting to excavate a reasonable interpretation of the “financially unable to retain counsel” direction. In People v Mion (31 Misc 3d 1204[A], 2011 NY Slip Op 50492[U], *2 [Rye City Ct 2011]), the court noted that New York had no statutory definition of “indigence” and concluded that New York’s “financially unable to retain counsel” was synonymous with “indigence” and the court was “required to balance the defendant’s Constitutional right to effective assistance of counsel and the burden to the public fisc of paying for counsel for those financially able to obtain counsel.” The court added:\n“It cannot have been the purpose of County Law § 722 to provide appointed counsel to the stereotypical couch potato who eats bon bons while watching soap operas on a large flat screen television while chatting on their cell phone and who lives off of the distribution of a trust fund. On[ ] the other end of the spectrum, some circumstances are prima facie proof of financial inability to pay, such as being qualified to receive public assistance, Medicaid, SSI, or other income and asset based government assistance programs. Absent such qualification, the Court needs to examine the defendant’s complete financial picture, including income, expenses, assets, liabilities and obligations.” (Mion, 2011 NY Slip Op 50492[U], *2.)\nSignificantly, the court in People v Mion did not address imputation of income—the applicant’s reasonable ability to earn income—to the applicant, but it articulated an important public policy concern: “County Law § 722-d, appears to be a grossly under-utilized weapon in the battle of balancing a defendant’s right to counsel and the exploding financial burden to the State of providing free representation to those who are not fully able to afford private counsel.” {Id. at *3.) The court, after reviewing tax returns, but not a statement of net worth, concluded that the criminal defendant was able to retain counsel and terminated the appointed counsel. While People v Mion was a criminal case, the implications impact this court’s review. This court, in evaluating this litigant’s ability to retain counsel, cannot turn a blind eye to his economic potential, especially when there is no prima facie evidence of indigence. There is no evidence that the applicant here has qualified to receive public assistance, Medicaid, SSI, or other income and asset based government assistance programs.\nThis fusion of the “imputed income” concept from the Domestic Relations Law into the application for appointment of counsel under the County Law or other statutes has a strong public policy to justify it. If a spouse or children, who have scarce resources, can compel a court to require a litigant or a parent to work to their potential to support them or, if they fail to do so, then impute income to them and charge them a higher support obligation (which has the practical impact of compelling them to seek more remunerative employment), then the public has the same right—to compel a highly-qualified litigant to obtain more remunerative employment, before it extends free or low cost legal services to that litigant. The state legislature, apparently cognizant that litigants may have an interest in understating their economic value in order to shade their support obligations, expressly requires trial courts to evaluate “future earning capacity” when considering maintenance obligations under the Domestic Relations Law. (Domestic Relations Law § 236 [B] [6] [a].) The inclusion of this language reflects a legislative understanding that self-imposed indigence—or even self-imposed caps on income—should not be the end of the discussion when courts consider a litigant’s financial potential. The legislature’s inclusion of these commands to New York’s courts when considering the impact of income in intra-family disputes strongly suggests that it intended that courts apply the same fiscal discipline when considering whether a litigant, in a family-related matter, should have a publicly-financed attorney. The New York courts have long embraced a reluctance to let individuals, facing the prospect of financial obligations, escape those obligations by cloaking themselves in the shroud of unfulfilled economic potential. The concept advanced above, based on 2010 and 1997 appeals court decisions, is not out of the mainstream of judicial thinking. Recent Appellate Division decisions—across the board—repeatedly stress that trial courts must examine “future potential earnings” or “future earning capacity” when evaluating a litigant’s ability to pay their financial obligations. (Brady v Bounsing-Brady, 131 AD3d 1189 [2d Dept 2015]; Ceravolo v DeSantis, 125 AD3d 113 [3d Dept 2015]; Zufall v Zufall, 109 AD3d 1135 [4th Dept 2013]; Spielfogel v Spielfogel, 96 AD3d 443 [1st Dept 2012].)\nIn that regard, the Fourth Department has been particularly inquisitive over instances where additional income should be imputed to litigants in family matters. In Matter of Taylor v Benedict (136 AD3d 1295 [4th Dept 2016]), a father testified that he was currently unemployed, but that he had worked for a company “off and on” for over five years, making $10 per hour, and that he did not have any medical disabilities preventing him from working. The appellate court affirmed an imputed income of $20,800 per year as supported by the record and based on the relevant factors. In Matter of Muok v Muok (138 AD3d 1458, 1459 [4th Dept 2016]), the same appeals court held that it was error not to impute income to a 65-year-old woman, who had not worked for almost a decade, held a Master’s degree in business, attended law school, but had failed to seek employment “for which she [was] qualified.” The Court reaffirmed the principle that income may properly be imputed when “there are no reliable records of a parent’s actual employment income or evidence of a genuine and substantial effort to secure gainful employment.” (Id. at 1459-1460.) The imputed income was $20,000 per year. In Matter of Monroe County Support Collection Unit v Wills (21 AD3d 1331 [4th Dept 2005]), the Court upheld imputed income of $70,000 because there were no reliable records of a parent’s actual employment income or evidence of a genuine and substantial effort to secure gainful employment. Even in the absence of meaningful income for more than a decade and without evidence that a wife would be able to return to employment comparable to her prior work, the appellate courts in New York have upheld imputing a minimum wage income on a spouse. (McAuliffe v McAuliffe, 70 AD3d 1129, 1133 [3d Dept 2010].)\nThis court also acknowledges that judicial authority seems to contain contrary declarations, albeit somewhat dated. In Matter of DeMarco v Raftery (242 AD2d 625 [2d Dept 1997]), a hearing officer, reviewing an applicant’s request for appointment of counsel, noted that the delinquent parent had an interest in real property which a “screening bureau” held was an indication of assets sufficient to deny appointment of counsel. The applicant had been employed, lost his job and argued that he was indigent. The hearing officer held a hearing (the applicant appeared without counsel) and concluded that the applicant has “not rebutted the presumption of [an] ability to earn.” {Id. at 626.) The appellate court held that the applicant had been denied the assistance of counsel, stating that the officer’s reliance on the real property asset was imprudent, as there was no evidence that it was “susceptible to immediate disposition” and there was no competent proof of its value. {Id. at 626.) The Court never commented on whether the applicant had some obligation to rebut the “presumption of ability to earn.” This presumption, cast in an offhand appellate opinion, has, to the best of this court’s research, never been repeated by any court in New York when considering applications for appointment of counsel. To the extent that DeMarco v Raftery deviates from the more recent appellate determinations regarding an individual’s obligation to reach their income potential when considering whether a litigant should be assigned counsel, this court declines to follow it.\nGleaning from these opinions, some broad-stroke rules emerge. Age is not a decisive factor—even those over 65 are not shielded from an imputation of income. The possession of an advanced degree makes imputed income more likely. The lack of any health deficits justifies imputed income. The lack of proven effort to find jobs that are commensurate with an individual’s skill is a virtual guarantee that income should be imputed. In this application, the Public Defender does not dispute that the current applicant is not subject to any of those disqualifying factors. He is 47 years old. He is in good health. He has an advanced degree. There is no evidence that he has diligently sought employment. There is no evidence of limited job opportunities or limited salaries for individuals with the applicant’s skills. There is evidence that he made only $10,000 in 2015, but no evidence—or even a suggestion—that this amount is the best he could do or that he sought other employment. The applicant presents evidence that he is seeking an advanced degree, but there is no evidence that his curricula prevents him from working part time, or for that matter, full time. This court is familiar with a long line of individuals who pursue higher degrees while working full time, much less part time. The applicant has cushioned his lack of income by living with his parents, who apparently otherwise support him. Finally, there is no evidence of what the cost of retained counsel would be in this matter and the court declines to take any judicial notice of the cost of counsel in family-related matters in this County.\nBased on all of these factors, this court concludes that it can impute income to the applicant in this matter before appointing counsel. The method for reaching an appropriate imputed income requires a hearing, in which the questions regarding the applicant’s income potential can be evaluated. This court acknowledges that both case law and recent directives from state officials in the Hurrell-Harring v State of New York lawsuit suggest that this process—called an inquiry or allocution by some courts—should have a certain informality, without resort to the usual tools of the adversarial process and with the court making findings based on some representations made by the applicant and facial review of the application by the Public Defender. This approach strikes this court as wrongheaded and contrary to every judicial impulse in the court’s experience. While every pleading in this court must be accompanied by a sworn statement from a litigant, the applicant’s representations, which are the basis for the initial eligibility determination, are not under oath. In addition, this suggested minimalist court review process—going forward without resort to the usual adversarial process—suffers from a distinct deficit: the court, without reliance on sworn statements, cross-examination and further proof—the hallmarks of the adversarial process—will be consigned to the role of a “potted plant” in these determinations. Despite the repeated refrain from appellate courts that eligibility is a court-determination, the practical consequence of the court’s reliance on any informal screening process would be that any decision rests solely with the Public Defender. The other inevitable consequence, it seems to this court, is that an applicant will have an enormous temptation to disclose less than the truth, the whole truth, and nothing but the truth, in his application if he knows that he will never be challenged on any representation therein. The Public Defender virtually acknowledges that it does not have the resources to verify the applicant’s submission. The court, under the informal review suggested by state officials in the wake of the Hurrell-Harring v State of New York lawsuit, will not be able to challenge the applicant’s version of his limited income. In short, the dynamics of the judicial process end up upside down. An applicant, without any risk, can obtain public benefits—payments of his legal fees in a custody matter—based on less than a true version of his economic life, with impunity. This court, well aware of the seeds of potential pitfalls and inconvenience that an adversarial hearing might entail, still declines to accept a “potted plant” role in this matter and allow a litigant to reap public benefits without a full hearing. Instead, relying on the well-honed and time-tested adversarial system, this court will hold a hearing on whether this applicant qualifies for appointment of counsel, based on imputed income consistent with his economic skills.\nHowever, the court declines to be an advocate in any role in this case. The court cannot adequately question the applicant without forfeiting the impartiality necessary to adjudicate the applicant’s right to counsel. The court also declines to assign the task of challenging the applicant’s application to the mother’s attorney, as that task would be rife with potential conflicts, potentially inflaming already difficult circumstances for both parties and cause the mother to incur additional fees. However, in this court’s view, the questions involving the applicant’s work history, his diligent search for employment, the limitations—if any—caused by his efforts to obtain another advanced degree, and his family support, all require an advocate’s examination. This is especially true in light of the applicant’s prior behaviors in the underlying proceeding and long-standing issues regarding his credibility before the court. Therefore, this court will appoint the Public Defender for the applicant for the limited purpose of supporting the applicant’s right to appointed counsel and the Public Defender’s a priori determination of eligibility.\nThis court has also wrestled with the concept of the burden of proof. As the earlier case law suggests, a traditional view of the entitlement to public benefits strongly suggests that any applicant, seeking government assistance, has the burden of proof to demonstrate an entitlement to those benefits. The recent guidelines released in the wake of the Hurrell-Harring settlement, suggest that the applicant, after screening by the Public Defender, is presumed entitled to counsel unless “there is compelling evidence that the applicant has the financial resources sufficient to pay for a qualified attorney.” In this court’s view, that allocation of the burden of proof is appropriate solely in criminal matters, when the defendant faces publicly-financed opposition in the courtroom. In the civil context present here, when the enforcement of court orders between private parties is enforced by a vigilant parent at their own expense, the court declines to apply the reallocated burden of proof recommended in the Hurrell-Harring guidelines. Instead, the court assigns to the applicant the burden of proof to show by the preponderance of the evidence that he is unable to retain counsel. The applicant will also have the burden of proof to show by the preponderance of evidence that it would be impractical and unjust to impute income to him equivalent to an income commensurate with his skills and education, and furthermore that he has engaged in a diligent search for employment. The court assigns these burdens to the applicant because he seeks a government benefit and should be required to establish a prima facie case of entitlement based on facts established at the hearing. Furthermore, while this court acknowledges that the recent debate over publicly-appointed counsel has raised questions concerning the role of the third party in these hearings, nonetheless, the mother’s counsel, while having no burden of proof, may cross-examine the applicant. The mother, as former spouse of the applicant, may be in the best position to describe the applicant’s skills and work performance and efforts to seek employment. The wife can testify on relevant facts in this application.\nThe court also appoints Paul B. Meyer, Esq., as special counsel to present the facts that favor an imputation of income to the applicant and which might result in either a denial or appointed counsel or a plan for reimbursement of the costs of counsel, as permitted under the County Law. Mr. Meyer will be paid under the voucher program at the state pay rate. The court will provide Mr. Meyer with all pleadings and permit him access to all prior pleadings in the underlying action and schedule a hearing after 30 days. If the advocate needs additional time or access to documents, the court will permit a range of discovery as required to achieve a fair and just hearing.\nBefore concluding, this court writes to clarify the unique circumstances of its resolution. This is not a criminal prosecution. The arguments that favor immediate appointment of counsel at the initial proceedings of a criminal matter, which support the settlement guidelines in Hurrell-Harring v State of New York, do not apply here. This case is a civil matter, involving long-standing litigants. There is no urgency to this application—the civil process can wait until the question of the applicant’s entitlement is resolved. The need to protect a defendant’s rights from governmental interference, especially in the form of pretrial restrictions of his liberty, are not present. Also, the context is different: in a criminal case, the defendant faces a public prosecutor, in which the government funds the cost of prosecution. The criminal defendant, accused of violating criminal statutes created by legislative bodies, can hardly suggest that it is unfair that his prosecutor, seeking to enforce state penal laws, is funded with public dollars. In this case, the mother—a private party seeking to vindicate rights created through court orders or stipulated orders—can easily object when her former husband, who has repeatedly failed to comply with court orders, obtains publicly-funded counsel to challenge long-standing custody and residency arrangements and further seeks to avoid penalties for his violation of court orders. The imbalance of resources—the mother funding the defense of her rights through her own income and the father, while declining to work at his potential, asserting his claims and defenses with public tax dollars—raises serious questions of fundamental fairness. The Court of Appeals has cautioned against steps that, intentionally or otherwise, cause that result. (O’Shea v O’Shea, 93 NY2d 187 [1999]; DeCabrera v Cabrera-Rosete, 70 NY2d 879 [1987].) Finally, unlike the criminal process in which financial disclosure or disclosure of other related facts could create problems under the privilege against self-incrimination, no similar obstacle is present here. There has been extensive prehearing disclosure by both parties in the form of numerous affidavits and statements of net worth. The mother is entitled to extensive financial disclosure. The need for disclosure of finances, which may be important to be kept confidential in the case of a criminal defendant, is simply not present here. For these reasons, this opinion, which some may fear opens the door to delayed justice or injustice for criminal defendants facing imminent loss of their liberty without access to counsel, should not be read outside its current facts, in this a civil case context. To read it otherwise would be contrary to the court’s intention and a mistake.\nThe motion for appointment of counsel is reserved pending a hearing before this court.\n. A trial judge can rely on “personal observations” of a litigant in a courtroom. (People v Tortorici, 92 NY2d 757, 766 [1999]; People v Beltran, 110 AD3d 153 [2d Dept 2013].)\n. In a preliminary letter to the court, the Public Defender’s Office stated that it has interviewed the applicant, reviewed his tax returns and was told by him that he earned $100 per week. The Public Defender also cited a letter from the applicant’s supervising professor, in which he states that the job market for mathematicians is “currently extremely tough” and that the applicant has been looking “for some more stable sources of income.” The professor cites no evidence of any job search or his firsthand familiarity with the applicant’s efforts. There is no evidence that the Public Defender asked any direct questions to the professor concerning his student’s work skills.\n. This court recently reviewed an opinion from the Advisory Committee on Judicial Ethics (ACJE) which analyzed whether judges should proceed ex parte in considering applications for the appointment of counsel for indigent defendants. (Advisory Comm on Jud Ethics Op 16-68 [2016].) The Committee reviewed the guidelines, prepared by the Office of Indigent Legal Services pursuant to Executive Law § 832, which dictated that judges should consider the application ex parte and seal the records of the application. The ACJE disagreed, advising that judges had no authority to engage in the ex parte process and that to do so violated the judicial canons. (22 NYCRR 100.3 [B] [6].) Consistent with that opinion, this court orders that the father’s application in this matter be released to opposing counsel, and that all papers filed on behalf of the applicant be turned over to opposing counsel within 10 days from the date of this opinion.\n. The mother alleges, without contradiction, that the applicant has retained six prior attorneys in the various legal proceedings.\n. A number of courts have used the words “able” and “capable” interchangeably. (Edwards v Commissioner of Social Sec., 636 Fed Appx 645, 651 [6th Cir 2016]; Simpson v Colvin, 2016 WL 3091487, 2016 US Dist LEXIS 71648 [CD Cal, May 31, 2016, No. SACV 15-01122-DTB]; Parker v Parker, 66 AD2d 328, 332 [1st Dept 1979].)\n. In this instance, the Public Defender provides no evidence of the cost of obtaining counsel in Monroe County and no evidence of hourly rates for such counsel or the availability of other lower cost legal services. There is no request to take judicial notice of any of these factors and the court declines to do so sua sponte.\n. The Supreme Court repeatedly used the word “indigent” in Gideon v Wainwright. In New York, legislative use of the word “indigence” as the criteria for eligibility might lend itself more directly to the Public Defender’s argument here. Indigence applies a present condition without recourse to any other factors. The word “unable”—translated as “incapable”—implies that an applicant has no potential to pay an attorney at the present. Imputation is a tool to evaluate whether if present economic potential was realized, the applicant would be capable of retaining private counsel.\n. See discussion infra.\n. The court notes that the guidelines suggested by the State Office of Indigent Legal Services under the Hurrell-Harring v State of New York settlement indicate that post-hearings to recoup assigned counsel fees paid to litigants who are determined to be ineligible are, in secular terms, a waste of time.\n. The federal poverty guideline for a single member household is $11,888. (Families USA, Federal Poverty Guidelines, http://familiesusa.org/ product/federal-poverty-guidelines.) The percentage applied to this amount (250%) suggests that this applicant is entitled to assigned counsel, under the proposed guidelines, if he had an income of less than $29,700.\n. In Collins v Collins, the Court, in 1997, detailed that the litigant had an Associate’s degree as evidence of a higher earning capacity. The Court also noted that living with his parent had resulted in a substantial saving to the litigant and that sum could be imputed to him as well. (Collins v Collins, 247 AD2d at 728.)\n. Domestic Relations Law § 240 (1-b) (b) (5) (iv) (D) states that “at the discretion of the court, the court may attribute or impute income from, such other resources as may be available to the parent, including, but not limited to: . . . (D) money, goods, or services provided by relatives and friends.” Subparagraph (5) (v) of the same section specifically permits “an amount imputed as income based upon the parent’s former resources or income, if the court determines that a parent has reduced resources or income in order to reduce or avoid the parent’s obligation for child support.” (Domestic Relations Law § 240 [1-b] [b] [5] [v].)\n. In Matter of DeMarco v Raftery (242 AD2d 625 [2d Dept 1997]), the Family Court eventually assigned counsel to the applicant, but only after he had been prejudiced, according to the higher court.\n. For illustration purposes, a quick review of websites provides some inkling of the potential salary for a holder of Master’s degree in mathematics. The salaries, published through websites, vary from $83,000-$114,000. The National Bureau of Labor Statistics reports that median annual wage for mathematicians, typically holding a Master’s degree, was $111,000. (Bureau of Labor Statistics, Mathematicians: Occupational Outlook Handbook, http://www.bls.gov/ooh/math/mathematicians.htm [last visited Oct. 4, 2016].) Fortune Magazine described a Master’s degree in math as the eighth most-desirable graduate degree, adding that median salary for such a degree was $121,900, job growth by 2022 would increase by 16.8%, 67% described the job as “highly satisfying]” and 54% said it was “low stress.” (Jill Hamburg Copian, Best and Worst Graduates Degrees for Jobs in 2015, Fortune [Apr. 27, 2015], available at http://fortune.com/2015/04/27/best-worst-graduate-degrees-jobs.) The court does not credit these websites but simply confirms its intuition that this applicant has skills that are highly compensated in his field. (United States v Bari, 599 F3d 176, 180 [2d Cir 2010] [discussion of propriety of a court using Internet search to “confirm an intuition”].)\n. See Comments of Brendan Sullivan to the Joint Committee of the House and Senate investigating the Iran-Contra scandal during the testimony of Lt. Col. Oliver North, July 9, 1987; Oshodi v Holder, 729 F3d 883 (9th Cir 2013) (judges are not potted plants); People v Allan, 192 AD2d 433, 438 (1st Dept 1993) (it should be emphasized that a judge is not a “potted plant”).\n. The use of the phrase “compelling evidence” is an odd choice for the drafters of these guidelines. Several New York courts, in reviewing admitted evidence, have described it as “compelling.” (See e.g. Matter of Sidoti v State Bd. for Professional Med. Conduct, 55 AD3d 1162 [3d Dept 2008].) This court presumes that “compelling” evidence is intended to be something more than a preponderance, but less than “clear and convincing” or “beyond a reasonable doubt.”",
+        "type": "majority",
+        "author": "Richard A. Bollinger, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jill L. Paperno, Public Defender, Rochester, and Paul Meyer, Rochester, for defendant.",
+      "Kristina Karle, Rochester, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[38 NYS3d 765]\nJun Carney, Plaintiff, v Patrick Carney, Defendant.\nSupreme Court, Monroe County,\nOctober 4, 2016\nAPPEARANCES OF COUNSEL\nJill L. Paperno, Public Defender, Rochester, and Paul Meyer, Rochester, for defendant.\nKristina Karle, Rochester, for plaintiff."
+  },
+  "file_name": "2536-01",
+  "first_page_order": 399,
+  "last_page_order": 424
+}

@@ -1,0 +1,483 @@
+{
+  "id": 4069405,
+  "name": "In the Matter of State of New York, Petitioner, v. Harry Mercado, Respondent",
+  "name_abbreviation": "State v. Mercado",
+  "decision_date": "2015-08-11",
+  "docket_number": "",
+  "first_page": "512",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 512"
+    },
+    {
+      "type": "parallel",
+      "cite": "19 N.Y.S.3d 658"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Misc 3d 809",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3307157
+      ],
+      "pin_cites": [
+        {
+          "page": "818"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/22/0809-01"
+      ]
+    },
+    {
+      "cite": "39 AD3d 1272",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5525399,
+        5512135
+      ],
+      "pin_cites": [
+        {
+          "page": "1272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/39/1272-01",
+        "/ad3d/39/1272-02"
+      ]
+    },
+    {
+      "cite": "44 AD3d 1027",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3228008
+      ],
+      "pin_cites": [
+        {
+          "page": "1027"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/44/1027-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 707",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4376633
+      ],
+      "pin_cites": [
+        {
+          "page": "713-714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0707-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752826
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "107"
+        },
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0099-01"
+      ]
+    },
+    {
+      "cite": "3 Cal Rptr 3d 684",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal 4th 757",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        18740
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/0757-01"
+      ]
+    },
+    {
+      "cite": "2008 US Dist LEXIS 93364",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 4831699",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 P3d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wash App 374",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4013251
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/160/0374-01"
+      ]
+    },
+    {
+      "cite": "2 NE3d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 Ill Dec 480",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 NE3d 650",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wash App 1048",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4360027,
+        4359588,
+        4360861,
+        4358999
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/1048-03",
+        "/wash-app/185/1048-01",
+        "/wash-app/185/1048-02",
+        "/wash-app/185/1048-04"
+      ]
+    },
+    {
+      "cite": "593 F3d 556",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3516344
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/593/0556-01"
+      ]
+    },
+    {
+      "cite": "599 F3d 602",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223730
+      ],
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0602-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004708
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0174-01"
+      ]
+    },
+    {
+      "cite": "548 A2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871480
+      ],
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/548/0035-01"
+      ]
+    },
+    {
+      "cite": "48 Misc 3d 950",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4317348
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/48/0950-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 416",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724837
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0416-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 111",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320308
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0111-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 50",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215951
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0050-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 769",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407334
+      ],
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0769-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 430",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4392368
+      ],
+      "pin_cites": [
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0430-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 455",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4372495
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0455-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 935",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "272 AD2d 186",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        262345,
+        262114
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/272/0186-01",
+        "/ad2d/272/0186-02"
+      ]
+    },
+    {
+      "cite": "28 AD3d 42",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3013065
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0042-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 417",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2354529
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "422"
+        },
+        {
+          "page": "439"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0417-01"
+      ]
+    },
+    {
+      "cite": "293 F 1013",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        11720199
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/293/1013-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1541,
+    "char_count": 40991,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 6.888061143596236e-8,
+      "percentile": 0.41894218543243256
+    },
+    "sha256": "1e7649964824442b02b6899cb6a4f04bcc6a173a2e407a36e538b5db478b63ca",
+    "simhash": "1:7f72ada7501b82ea",
+    "word_count": 6534
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of State of New York, Petitioner, v Harry Mercado, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDineen A. Riviezzo, J.\nIssue Presented\nIn this proceeding under article 10 of the Mental Hygiene Law, the respondent, Harry Mercado, moved by motion dated October 24, 2014, for an order precluding all testimony at trial concerning the diagnosis that forms the basis for the petition for civil commitment filed by the State on June 7, 2013. Specifically, respondent alleges that the diagnosis, paraphilia not otherwise specified (NOS) (sexual arousal to teens) is not a diagnosis generally accepted by the relevant scientific community and thus, the use of expert testimony for that purpose should be precluded under Frye v United States (293 F 1013 [DC Cir 1923]). The State opposed the motion. Another judge of this court granted a Frye hearing on the respondent’s specific diagnosis described in that court’s February 19, 2015 opinion as other specified paraphilic disorder (sexually attracted to teenage females) in recognition of the change in nomenclature from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) to the DSM-5 from “paraphilia NOS” to “other specified paraphilic disorder.”\nThis court held extensive hearings, at which six experts were called. The State called three experts—Dr. Robin Wilson, a forensic psychologist with extensive clinical experience in the treatment of sex offenders, including work as the clinical director of the Florida Civil Commitment Center, as the first sex offender treatment specialist with the Federal Correctional Service of Toronto, Canada, and as the research director at the Clarke Institute of Psychiatry—a prominent psychiatric teaching hospital in Toronto, Canada; Dr. Christopher Kunkle, Director and Chief Psychiatric Examiner of the Bureau of Institutional Sex Offender Treatment for the New York State Office of Mental Health (OMH) who overseas all of the psychiatric examiners who conduct evaluations for the State of New York pursuant to Mental Hygiene Law article 10; and Dr. David Thornton, director of the Sand Ridge Secure Treatment Center, which is the sex offender treatment facility of the State of Wisconsin. Respondent’s three experts were, Dr. Allen Frances, a psychiatrist who was head of the DSM-IV task force, who wrote the final version of the DSM-IV along with its guidebook, has published 300-400 articles in peer-reviewed journals, has edited and written dozens of books and at one point was chairman of the psychiatry department at Duke University; Dr. Karen Franklin, a forensic psychologist with a Ph.D. in clinical psychology in private practice who conducts peer review for 20 journals in her field of sexual paraphilias and who performed a historical literature review for the court of all published papers and journal articles referring to hebephilia including her analysis as to whether the article was in support of or against the reliability of that diagnosis; and Dr. Cynthia Calkins, associate professor of psychology at John Jay College of Criminal Justice whose professional research and peer-reviewed publications focus on sexual violence policies such as the efficacy of civil confinement laws, community notifications and GPS monitoring and the clinical functioning of sex offenders subjected to those laws.\nArguments of the Parties\nRespondent argues that the State has failed to prove that the diagnosis of other specified paraphilic disorder (sexually attracted to teenage females) is generally accepted as a valid psychological disorder in the field of psychiatry or psychology. Respondent urges the court not to rule on the general acceptance of hebephilia because the court lacks subject matter jurisdiction to rule on a diagnosis that the State, in essence, concedes the respondent does not have. Alternatively, should the court rule on the hebephilia diagnosis, the respondent argues that the State has also failed to meet the Frye standard, pointing specifically to the uncontroverted testimony that this diagnosis was rejected for inclusion in the most recent version of the DSM-5 after rigorous review, and that the few studies conducted by a very limited number of researchers in the field have not been published or peer-reviewed—a necessary prerequisite to any diagnosis gaining general scientific acceptance.\nThe State argues that it has met its burden to prove that the general category of “other specified paraphilic disorder” is generally accepted in the relevant scientific community. The State further argues that it has met its burden to prove that the additional qualifying diagnosis of “hebephilia” is also scientifically accepted within the forensic community. The State urges the court to reach a decision with respect to hebephilia’s acceptance under Frye, although this is not the respondent’s specific diagnosis, because all six experts testified about hebephilia, and in doing so this court will “prevent needless duplication of testimony, unnecessary use of Court facilities and time and the expenditure of significant financial resources by all parties.” The State does not argue that it has met its burden under Frye with respect to the respondent’s specific qualifying diagnosis of “sexual attraction to teenage females.”\nFrye Hearing: Elements and Burden of Proof\nIn general, the inquiry under Frye is “whether the accepted techniques, when properly performed, generate results accepted as reliable within the scientific community generally.” (People v Wesley, 83 NY2d 417, 422 [1994].) The burden of proving general acceptance in the relevant scientific community rests upon the proponent of the disputed testimony. (See Zito v Zabarsky, 28 AD3d 42 [2d Dept 2006]; People v Kanani, 272 AD2d 186 [1st Dept 2000], Iv denied 95 NY2d 935 [2000].) Admissibility under Frye requires a showing that:\n1. the expert is competent in the field of expertise which he or she purports to address at trial. This element is not disputed in this case;\n2. the testimony is based on scientific principles or procedures which have been sufficiently established to have gained general acceptance in the particular field involved. In this regard, the hearing court does not determine whether or not a novel scientific theory is reliable, but only whether it is generally accepted in the relevant scientific community. The emphasis is on “counting scientists’ votes.” (Wesley, 83 NY2d at 439 [Kaye, Ch. J., concurring].)\n3. the proffered expert testimony is “beyond the ken” of the jury (see Matott v Ward, 48 NY2d 455, 459 [1979]; People v Cronin, 60 NY2d 430, 433 [1983]). It is not disputed by the parties, and it is evident, that the subject of a DSM diagnosis is beyond the ken of the ordinary person; and,\n4. the testimony is relevant to the issues and facts of the individual case, and more probative than prejudicial. Evidence is relevant if it has any tendency in reason to prove the existence of any material fact, i.e., if it makes determination of the action more probable or less probable than it would be without the evidence. However, even if relevant, the probative value must outweigh the prejudice to the other side. A trial court may exercise its discretion and preclude “technically relevant” evidence “if its probative value is substantially outweighed by the danger that it will unfairly prejudice the other side or mislead the jury.” (People v Scarola, 71 NY2d 769, 777 [1988].)\nIn engaging in a Frye analysis, the court may consider scholarly articles on the subject matter for the purpose of understanding “general acceptance.” Both sides indeed submitted numerous writings and journal articles on the subject of paraphilic disorders. Because Frye is concerned with “head counting” of experts, the state of knowledge in the profession is at issue, and scholarly articles and journals are therefore admissible as reflecting those matters which are generally accepted in the relevant scientific community (see e.g. People v Wernick, 215 AD2d 50, 52 [2d Dept 1995], affd 89 NY2d 111 [1996]; Fraser v 301-52 Townhouse Corp., 57 AD3d 416 [1st Dept 2008] [plaintiffs placed in evidence nearly 40 articles, treatises and other published studies concerning the relationship between building dampness and mold and sickness in humans; defendants placed approximately 15 such publications in evidence]).\nWhile the court found that all of the experts were credible witnesses, it did not, as is explained in more detail below, concur with all of their opinions. The court has made factual findings based upon only those portions of the testimony relevant to its legal conclusions. In addition, the court considered the post-hearing written submissions of the parties, and consulted numerous scholarly articles received into evidence. For the reasons which follow, the court grants the respondent’s motion and finds that while the general diagnosis of “other specified paraphilic disorder” is a generally accepted diagnosis in the relevant scientific community, the State has not met its burden to prove that the respondent’s specific diagnosis of other specified paraphilic disorder (sexually attracted to teenage females) is generally accepted in the relevant scientific community. As to the additional diagnosis of “hebephilia,” for which there was extensive testimony, because this court finds that respondent’s diagnosis is not hebephilia, this court holds that: (1) under the Frye analysis any testimony about hebephilia at the respondent’s trial is clearly not relevant to the issues and facts of this individual case, in that such testimony will not prove the existence of any material fact; and (2) this court does not have legal authority to decide whether hebephilia is a generally accepted diagnosis within the relevant scientific community.\nRespondent’s Diagnosis\nAccording to the petition for civil commitment, the psychiatric examiner who diagnosed respondent with a mental abnormality was Dr. Darlene DePorto, a licensed psychologist for the New York State Office of Mental Health. Dr. DePorto was not called as a witness at the Frye hearing. After reviewing respondent’s criminal history, documents in the possession of OMH and the NYS Department of Corrections and Community Supervision and conducting a 5V2-hour interview with the respondent, Dr. DePorto concluded that respondent suffers from the Axis I diagnosis of “paraphilia NOS, sexual arousal to teens” and an Axis II diagnosis of antisocial personality disorder.\nAt the time the petition was filed, respondent was serving his sentence for two qualifying offenses: a Kings County conviction for criminal sexual act in the second degree and a Queens County conviction for attempted rape in the first degree. In the Kings County matter, the respondent, then 23 years old, met a 14-year-old girl in a chat room in December 2004 and subsequently engaged in sexual contact with her on several occasions consisting of oral sodomy as well as hand-to-vagina and hand-to-buttocks touching. Respondent was initially sentenced to 10 years’ probation; however, his conviction on the Queens County matter resulted in the revocation of his probation and a re-sentence in June 2007 to 1 to 3 years’ incarceration consecutive to the Queens case.\nThe sex offense in Queens County was committed only six weeks after respondent was placed on probation on the Kings County matter. Respondent grabbed a 16-year-old girl, who had just gotten off a bus, dragged her into an alley, forcibly raped her and used his shirt to remove his ejaculation from her leg. In June 2007 respondent was sentenced to seven years’ incarceration with five years’ postrelease supervision.\nIn addition to the facts of the qualifying offenses, Dr. DePorto noted, in support of the diagnosis of “paraphilia NOS, sexual arousal to teens,” that respondent reported that “he has sexual interest in female teenagers. He reported to this evaluator that he is aroused by and fantasizes about having sex with teens, usually between 14 and 16 years of age and that these fantasies have persisted from late adolescence into adulthood and to the present.”\nThe DSM-5 Diagnosis of “Other Specified Paraphilic Disorder,” Formerly Called Paraphilia, Not Otherwise Specified in the DSM-IV, is Generally Accepted in the Psychological Community\nThere was extensive testimony from all six experts concerning the DSM—the Diagnostic and Statistical Manual of Mental Disorders—the main textbook of disorders recognized by the psychological community which has existed since 1952 (Frances tr at 229). The main purpose of the DSM is to set out a list of criteria for different diagnoses so there is uniformity and reliability within the profession and to “allow clinicians to talk to each other with a common language” (Frances tr at 230).\nThe expert testimony included the process by which the most recent version—the DSM-5—was drafted and eventually published in 2013. In sum, working groups of respected psychiatrists and psychologists formulated proposed new diagnoses while at the same time worked to change or adjust existing diagnostic criteria (Wilson tr at 102; Kunkle tr at 233-234, 237; Frances tr at 234-236). These proposals were further subjected to public comments on a website for input by the psychological community and finally by the Board of the American Psychiatric Association until a consensus was reached about the changes (Kunkle tr at 189; Thornton tr at 468-469). This is a years-long process that, in fact, according to respondent’s expert, Dr. Calkins, results in very little substantive change from one edition to the next such that no new major diagnoses have been added since at least the DSM-3R (Calkins tr at 729; but see Frances tr at 236, 255 [“Ninety-four new diagnoses were considered during the drafting of the DSM-IV resulting in the addition of only two diagnoses, Aspergers as a form of the existing Autism diagnosis and a variant of the existing Bipolar disorder”]).\nWhile there was clearly disagreement among the six experts about what the effect of the exclusion of a new proposed diagnosis from the DSM-5 has upon its general acceptance, it is clear that in the opinion of all the experts that the diagnoses that are included in the DSM-5 are in general “considered valid . . . reliable diagnoses” that are “commonly accepted in the scientific community” (Kunkle tr at 189-190; Frances tr at 238; Thornton tr at 469-470; Calkins tr at 674).\nEach chapter of the DSM details a distinct category of disorders such as personality disorders, depressive disorders, feeding and eating disorders, and sexual dysfunctions. Because there is a clear understanding that not every diagnosable disorder is contained within the DSM, each chapter contains two “catch-all” diagnoses meant to be used to explain conditions or disorders that fall under the general category of that chapter but do not fit specific criteria for the diagnoses mentioned within the chapter, however, the patient presents a problem that the clinician feels needs treating (Wilson tr at 25; Frances tr at 244-245). These two catch-all diagnoses in the DSM-5 are “other specified disorder” and “unspecified disorder” (Wilson tr at 26). Under the DSM-IV-TR there was only one catch-all diagnosis, “not otherwise specified” or “NOS.”\nAt issue here is the chapter on paraphilic disorder, that was generally defined in the DSM-IV as recurrent, intense, sexually arousing fantasy, sexual urges or behaviors, generally involving nonhuman objects, suffering or humiliation of oneself or one’s partners, or children or non-consenting persons (Wilson tr at 79). The DSM-5 changed the definition. A paraphilia in general is an intense and persistent sexual interest in something other than normophilic sexual interest or stated another way—sexual interests greater or equal to normophilic sexual interests (Thornton tr at 471). Thus, the abnormal sexual interest must be either intense and persistent or preferential. For the paraphilia to be a disorder, however, the paraphilic interest must cause distress or impairment to the individual or cause harm to others (Thornton tr at 476).\nWithin the chapter on Paraphilic Disorders, the DSM-5 contains criteria for only eight specifically named paraphilic disorders such as pedophilic disorder, exhibitionistic disorder and sexual sadism disorder. These eight are specifically listed because either they are relatively common in relationship to other disorders or they involve actions that can result in criminal behavior (Wilson tr at 82; Kunkle tr at 204). However, within the scientific literature there are “perhaps many dozens of actual paraphilic presentations” (Wilson tr at 27, 81) and the prefatory language in the paraphilias chapter of the DSM-5 acknowledges that there are dozens of other potential paraphilic conditions (Wilson tr at 119; DSM-5 at 685).\nApplying those “catch-all” provisions to the chapter on paraphilic disorders, the diagnoses would be entitled, “other specifled paraphilic disorder” and “unspecified paraphilic disorder.” In the DSM-IV-TR, the diagnosis is called “paraphilia NOS.” “Other specified paraphilic disorder” is a diagnosis given when there are indications that an individual meets the general overall diagnostic criteria for a paraphilia but not one of the eight enumerated disorders; however, there is literature or research which can be pointed to that can supply a specific diagnostic name (Wilson tr at 27, 83). In other words, the specific diagnosis might be one that is not common enough to have warranted a description in the DSM, but the presentation is such that it is seen in clinical practices and has been researched. (Id.) The DSM lists various examples of “other specified paraphilic disorders” such as necrophilia (dead persons), telephone scatophilia (making obscene phone calls), partialism (attraction to body parts, i.e., hands and feet) and zoophilia (animals) (see Kunkle tr at 201-203).\n“Unspecified paraphilic disorder” is used when a patient clearly has a paraphilia, however “there’s maybe not the words to actually put a name to it” (Wilson tr at 27, 83), thus no specifier would attach to the general category. “Unspecified paraphilic disorder” is not at issue here but that diagnosis, as well as the DSM-IV precursor paraphilia NOS, has been found to be generally accepted by at least one other Supreme Court Judge after a Frye hearing in an article 10 proceeding (Matter of State of New York v Harris, 48 Misc 3d 950 [Sup Ct, Bronx County, Apr. 27, 2015, Gross, J.]).\nOnly one expert opined that “other specified paraphilic disorder,” formerly paraphilia NOS, is not generally accepted in the psychological community (Frances tr at 282-283; cf. Wilson tr at 25; Kunkle tr at 156-157, 161). Dr. Frances initially opined that other specified and unspecified diagnoses as well as the DSM-IV precursor, NOS, are “wastebasket categories” that could “[n]ever achieve a level of reliability that would allow for them to be meaningful as expert testimony in legal cases”—in any context—not just sexual violent predator (SVP) proceedings (Frances tr at 282-283). However, he later conceded that there could be situations when an NOS diagnosis would be appropriate for the courtroom such as the defense of insanity (Frances tr at 313-314). While he stated repeatedly that the DSM was written for clinicians and not for judges, he also acknowledged that among the expected users of the DSM were forensic psychologists who would apply the DSM in courtroom settings.\nThe court is not persuaded by such a broad condemnation of the use of these categories in the courtroom. On the one hand, Dr. Frances acknowledged that these catch-all diagnoses were necessary within each chapter of the DSM in order to give clinicians “independent judgement” and allow them to treat patients. However, on the other hand he felt that any NOS diagnosis is “not reliable by definition” and “can’t be reliable” in a legal setting because there is no set criteria (Frances tr at 247). Nevertheless, he also understood when he wrote the DSM-IV that “the diagnoses in this manual may be helpful in courtroom proceedings” and provided no caveat to the use of the NOS diagnosis (Frances tr at 247). In fact, at the time the DSM-5 was being drafted he wrote editorials in the American Journal of Psychiatry advocating for an inclusion of a proviso warning against the use of these catch-all diagnoses and their inherent unreliability (Frances tr at 283-284). Such provisos were not added in the DSM-5 (Frances tr at 285). Dr. Frances’ opinion is clearly in the minority.\nThe real gravamen of Dr. Frances’ concern, and rightfully so, is that “incompetent raters make up diagnoses out of their heads that are obviously wrong” (Frances tr at 246). The State’s expert, Dr. Thornton, shared in this concern noting in an article he published in 2011 that the use of paraphilia NOS in civil commitment hearings leads to “inconsistent diagnostic practice” since whenever you do not have very specific criteria set, “there is a tendency for some evaluators to push the limits.” (Thornton tr at 563.)\nThe Frye standard does not require this court to banish the NOS or the other specified diagnosis from the courtroom because these diagnoses could potentially be misused. That is not the correct analysis under Frye. The Frye test is “not for our court to determine whether the method was or was not reliable . . . but whether there was consensus in the scientific community as to its reliability. The Frye test emphasizes ‘counting scientists’ votes, rather than on verifying the soundness of a scientific conclusion’ ” (People v Wesley, 83 NY2d at 439 [Kaye, Ch. J., concurring], quoting Jones v United States, 548 A2d 35, 42 [US App DC 1988]). Obviously, even diagnoses with set criteria in the DSM could be misapplied.\nThe respondent’s expert, Dr. Calkins, a John Jay College professor who studies the efficacy of civil confinement laws, shares Dr. Thornton’s concerns but still has not condemned the use of these catch-all diagnoses in the sexual violent predator context, nor has she opined that they are not generally accepted but rather testified that evaluators can “do better” by being “careful” in their use of these catch-all categories (Calkins tr at 671). Dr. Calkins acknowledged quite clearly that other specified paraphilic disorder is an appropriate diagnosis and pointed to the many specifiers listed in the DSM-5 that would accompany this catch-all diagnosis such as necrophilia and urophilia (Calkins tr at 678). She also agreed with the State’s experts that there are hundreds of paraphilias that have been recognized and identified by the scientific community in addition to those named in the DSM-5 that would also be properly listed as an “other specified paraphilic disorder” if it was identified in a patient. (Id.)\nWith regards to these catch-all diagnoses, the DSM-5 makes it very clear that they are legitimate, indeed necessary, diagnoses. The DSM-5 in fact instructs in its prefatory chapter (at 21) that “[w]hen full criteria are not met, clinicians should consider whether the symptom presentation meets criteria for an ‘other specified’ or ‘unspecified’ designation.” And within the chapter on paraphilic disorders, the DSM-5 authors clearly confirm that\n“[m]any dozens of distinct paraphilias have been identified and named, and almost any of them could, by virtue of its negative consequences for the individual or for others, rise to the level of a paraphilic disorder. The diagnoses of the other specified and unspecified paraphilic disorders are therefore indispensable and will be required in many cases” (DSM-5 at 685).\nThe court further finds Dr. Frances’ particular objection to the use of these catch-all diagnoses in the context of an SVP proceeding unavailing since by Dr. Frances’ own acknowledgment at the time that he and a colleague wrote the DSM-IV from 1987-1994 “we were really dumb” and “knew nothing about sexual violent predator laws” even though, of course, such laws were already in effect as early as 1989. Dr. Frances did not become aware of any such laws until 2008. So that up until five years ago he was “completely ignorant” of these SVP laws (Frances tr at 245-246, 281-282).\nThe Court of Appeals decision in Matter of the State of New York v Kenneth T. (24 NY3d 174 [2014]) does not compel a finding that “other specified paraphilic disorder” is an unreliable diagnosis pursuant to Frye. To the extent that the Court of Appeals has expressed concern that a paraphilia NOS diagnosis “amount [ed] to junk science devised for the purpose of locking up dangerous criminals,” it is clear from the entirety of the expert testimony at this hearing that this diagnosis existed long before the SVP statutes came into existence. (Id. at 186.) In fact, as the respondent’s expert, Dr. Frances, testified, the diagnosis of paraphilia NOS was reaffirmed as a valid diagnosis by the authors of the DSM-IV without their knowledge of the existence of the SVP laws. To the extent the Court of Appeals expressed “grave doubt” that the diagnosis is not “sufficiently established to have gained general acceptance in the psychiatric community” for specific use in these civil confinement proceedings, that concern proved to be unfounded in this hearing. (Id.) It is clear that this diagnosis has been found to be generally accepted in numerous states throughout the United States, as well as in the federal courts (see Brown v Watters, 599 F3d 602, 610 [7th Cir 2010] [rejecting challenge to paraphilia NOS diagnosis as lacking scientific validity]; McGee v Bartow, 593 F3d 556 [7th Cir 2010] [paraphilia NOS generally accepted as reliable diagnosis]; Matter of Hanson, 185 Wash App 1048 [Div 1 2015] [denial of Frye hearing regarding paraphilia NOS diagnosis not improper]; In re Detention of Hayes, 8 NE3d 650, 2014 IL App [1st] 120364, 380 Ill Dec 480 [2014] [paraphilia NOS diagnosis generally accepted under Frye]; In re Melcher, 2 NE3d 1181, 2013 IL App [1st] 123085, 377 III Dec 900 [2013]; In re Brown, 2012 IL App [1st] 110732-U [2012] [rejecting claim that paraphilia NOS is unreliable diagnosis under Frye]; Matter of Berry, 160 Wash App 374, 248 P3d 592 [2011] [Frye hearing not required to determine validity of paraphilia NOS diagnosis since no evidence to establish no longer generally accepted]; Hoisington v Williams, 2008 WL 4831699, 2008 US Dist LEXIS 93364 [ED Wash, Oct. 30, 2008, No. CV-07-332-LRS] [despite controversy, paraphilia NOS generally accepted in scientific community]; People v Williams, 31 Cal 4th 757, 3 Cal Rptr 3d 684 [2003] [paraphilia NOS valid mental disorder]). And finally as the Court of Appeals noted, whether or not the diagnosis can support a finding of mental abnormality in a particular case is best “subject to the adversarial process which, by vigorous cross-examination, would expose the strengths and weaknesses of the professional medical opinions offered in reaching a considered legal determination” (Matter of the State of New York v Kenneth T., 24 NY3d 174, 186 [2014], citing Matter of State of New York v Shannon S., 20 NY3d 99, 107 [2012]).\n“Sexual Attraction to Female Teenagers” is Not a Recognized Disorder or Diagnosis and is Therefore Not Generally Accepted within the Psychological Community\nWhile the general category of other specified paraphilic disorder or paraphilia NOS is generally accepted in the scientific community, this Frye hearing made clear that the specifier that is attached to the general diagnosis must be carefully scrutinized for its general acceptance. All six experts agreed that biologically there is nothing pathological or abnormal about adult heterosexual men having a sexual attraction to post-pubescent females (Franklin tr at 340, 355; see Shannon S., 20 NY3d at 111 [Smith, J. dissenting] [“the idea that a man’s mere attraction to pubescent females is abnormal is absurd”]). As the State’s expert, Dr. Wilson described: “I think what [respondent’s attorney] is asking me is whether or not so-called normal heterosexual males, that being males who are adults, who prefer adult females, do they also show some degree of sexual arousal to female adolescents, and the answer to that question is yes.” (Wilson tr at 78.)\nHe further elaborated that sexual attraction to post-pubescent sexually developed females would not be considered a deviant or abnormal sexual interest. (Id.) Post-pubescent children already show advanced secondary sex characteristics such as pubic hair development, breast development, facial hair, a more pronounced Adam’s apple in men as well as the descending of the testicles and a change in voice. Dr. Wilson acknowledged further that there is no commonly accepted professional diagnosis for a nonspecific paraphilic disorder that involves sexual attraction to post-pubescent teenage females (Wilson tr at 87; Frances tr at 267-268; Franklin tr at 340, 355; Thornton tr at 568).\nDr. Kunkle, the Director of OMH’s sexual offender treatment program, testified that he has never seen a case where the diagnosis of “sexual attraction to teenaged females” had been made (Kunkle tr at 198). He further opined that if the record was clear that the attraction was to post-pubescent children with no evidence of an interest in pubescent or prepubescent children then he would probably not assign a diagnosis at all (Kunkle tr at 198-199). That specifier is not a term “that depicts something that’s been defined” and it is not a term that “I’ve seen written about specifically in the literature or a defined specifier” (Kunkle tr at 212-213).\nAs the respondent’s experts explained, while society has rightfully chosen to criminalize statutory rape and define it as victims up to the age 17, and from a clinical perspective sexual attraction to prepubes cent children is a pathology or mental disorder called pedophilia, a sexual attraction to fully developed teenagers is not abnormal or pathological (Calkins tr at 700-702). Teenagers from 14 to 16—the age of the respondent’s victims—are clearly post-pubescent since at that age teenagers already have secondary sexual characteristics such as breasts and pubic hair (Franklin tr at 379).\nThe State, in its motion papers, does not argue that it met its burden in this Frye hearing to prove that this diagnosis is generally accepted by the relevant scientific community. The court finds that the State has failed under Frye to prove that the diagnosis of “sexual attraction to teenage females—14 to 17 years of age,” is generally accepted in the scientific community and therefore, the State is precluded from introducing this evidence at trial.\nHebephilia, as Defined by the State’s Experts, is Separate and Distinct from the Diagnosis That the State Attributed to the Respondent and Therefore Such Testimony Would Not Meet the Fourth Prong in the Frye Analysis\nWhat the State did attempt to prove at this Frye hearing was the general acceptability of the diagnosis called “hebephilia.” The paraphilia known as hebephilia is “intense sexual interest or preference for early adolescent persons. When we say early adolescent, we’re talking essentially pubertal” (Wilson tr at 36). Otherwise stated as “strange and intense sexual interest or preference for people who were just coming into actual puberty . . . those children who are not sort of underdeveloped pre-pubertal children, but they’re not fully developed adults either, they’re in that process of going from child status to adult status” (Wilson tr at 38).\nTo further define the hebephilic victim pool, the State’s experts used the Tanner Development Scale, a diagnostic medical scale used by physicians and pediatricians to quantify the degree of development of actual secondary sex characteristics or put another way, to identify what stage of puberty a child is in (Wilson tr at 39; Kunkle tr at 158). The number one reflects infancy while the number five reflects the development of full adult sexual secondary characteristics. Hebephilia was defined as Tanner stages two and three, roughly ages 11 to 14 (Wilson tr at 39-40, 79; Kunkle tr at 158; Thornton tr at 488).\nAs further described by Dr. Kunkle, “it is a sexual and abnormal sexual interest that meets the criteria of a paraphilic disorder, so chronic recurrence of sexual urges, behaviors involving children who are in the early stages of pubescence” (Kunkle tr at 211). The age range being generally children between 11 and 14 years old (Thornton tr at 488). The forensic clinicians in his bureau are trained to use this definition, and Dr. Kunkle testified to the number of specific hebephilia diagnoses given by his staff since the passage of article 10 in 2007. Of the 1,120 cases referred for initial screening to an OMH clinician, 245 were diagnosed with paraphilia NOS and 65 of those were diagnosed with hebephilia of which 56 were further diagnosed with a mental abnormality (Kunkle tr at 158, 160-163). Dr. Kunkle confirmed in the data that was available that at least since 2010 his examiners included in the hebephilia diagnosis victims that were 14 and younger but did not include victims over the age of 14 (Kunkle tr at 183-185).\nDr. Thornton concurs with the definition but argues that further support for the diagnosis is in the prefatory language in the chapter on the paraphilic disorders in the DSM-5. There, a paraphilia is defined by what it is not which is an interest in phenotypically normal, physically mature, consenting human partners, such that an interest in “physically immature persons” is by definition a paraphilia (Thornton tr at 597, citing DSM-5 at 685).\nIn general, teenagers older than 14—the age range that included the respondent’s victims—are not pubescent but are post-pubescent and already have secondary sexual characteristics such as breasts and pubic hair and thus would not meet the age for a victim of a hebephile (Franklin tr at 379). The State’s expert, Dr. Thornton, agreed that in general teenagers from 14 to 16 would more likely be Tanner stage four and therefore would not be included in this hebephilic group since they would already demonstrate secondary sexual characteristics (Thornton tr at 590). An attraction to Tanner stage four should not be diagnosed as paraphilic (Thornton tr at 595).\nAs head of Florida Civil Commitment Program, Dr. Wilson proposed for inclusion in the DSM-5, along with Dr. David Thornton at the Wisconsin Sand Ridge Secure Treatment Center and another SVP facility in California, “pedo-hebephilic disorder” recognizing sexual interests in both prepubertal children (pedophilia) and pubertal children (hebephilia). At the request of the chair of the paraphilia sub-work group for the DSM-5, Dr. Ray Blanchard, these two researchers conducted clinical trials among their sex offending population to test this proposal. In essence their proposal was to increase by one year—from 13 to 14—the upper limit of the current pedophilia diagnosis in order to include the entirety of children who could be going through puberty. This was done partially to recognize that the age of puberty is getting younger in the United States such that the present upper age qualifier for pedophilia in fact includes hebephilia (Thornton tr at 550-551). However, consistent with the discussion above, there was no attempt to add any diagnoses concerning sexual attraction to post-pubescent teenagers as this attraction is not a disease or disorder, but, in fact, biologically normal (Wilson tr at 92) and not paraphilic (Thornton tr at 595).\nAll six experts agreed that the drafters of the DSM-5 chose not to fund this research and ultimately did not include this specific proposal in the chapter on paraphilias, nor in later sections within the DSM-5 meant to suggest conditions that merit further study (see e.g. Frances tr at 240; Thornton tr at 571). The parties here obviously disagree on the reasons why the drafters of the DSM-5 did not include this pedo-hebephilia diagnosis as well as the import of the regular use of that term in SVP proceedings in other states such as Washington and California (Franklin tr at 448).\nRespondent’s experts sought to further discredit this proposed diagnosis by pointing out that the research done by the State’s experts was never published and therefore never peer-reviewed or duplicated by others independent of them. Respondent further argues that there is an inherent bias in research conducted exclusively by just three civil confinement institutions (see Frances tr at 241-242). Further there is a complete lack of a widely established research base testing the existence of the sexual attraction based on numerous factors such as genetics, the appearance of the disorder across different cultures, the prognosis for treatment and treatment responses (Calkins tr at 689-694). Finally, respondent’s experts also explained that the age range now proposed by the State—11 to 14—is a recent narrowing of the age range for a hebephilic diagnosis. Respondent points to the very limited research that included an age range even higher than 14 which everyone now agrees is not pathological. This court notes that the hebephilia diagnosis given to the respondent by the State in Shannon S. involved victims that were 13 to 15 years old, an age range that appears in conflict with the State’s position here.\nNevertheless, it is clear that the OMH examiner in this case, who was trained to use the term “hebephilia,” did not use that term here, but instead used a term “sexual attraction to female teenagers” that is not generally accepted by the scientific community but was qualified by an age range outside the scope of the hebephilia definition proposed by the State.\nThe final prong in the Frye analysis requires that the proposed testimony be relevant to the issues and facts of the individual case. Evidence is relevant if it has any tendency in reason to prove the existence of any material fact, i.e., if it makes determination of the action more probable or less probable than it would be without the evidence. Here, because hebephilia is clearly not respondent’s diagnosis, its admission into evidence would be irrevelant to prove the only material fact, namely, whether or not respondent has a mental abnormality.\nThis Court Lacks Legal Authority to Decide Whether “Hebephilia” is Generally Accepted by the Relevant Scientific Community\nThe State urges the court to reach a decision with respect to general acceptance of the hebephilia diagnosis under Frye, although this is not the respondent’s actual diagnosis, because all six experts testified about hebephilia, and in doing so this court will “prevent needless duplication of testimony, unnecessary use of Court facilities and time and the expenditure of significant financial resources by all parties” (State’s motion at 8). While this court is not insensitive to the time and expense incurred conducting this hearing with five out-of-state experts, this court lacks legal authority to decide whether hebephilia is generally accepted by the relevant scientific community.\n“It is a fundamental principle of our jurisprudence that the power of a court to declare the law only arises out of, and is limited to, determining the rights of persons which are actually controverted in a particular case pending before the tribunal” (Matter of Hearst Corp. v Clyne, 50 NY2d 707, 713-714 [1980]). The court is thus prohibited from passing on “academic, hypothetical, moot, or otherwise abstract questions.” (Id.) Here, the controversy at issue is whether the respondent’s diagnosis passes Frye standard. Since it is clear that the court has ruled, and the State has conceded, that respondent has not been diagnosed with hebephilia, the court lacks authority to make any declaration concerning the acceptability of hebephilia within the scientific community. Any such decision would be purely advisory and trial courts may not issue such opinions (Simon v Nortrax N.E., LLC, 44 AD3d 1027, 1027 [2d Dept 2007]; County of Monroe v City of Rochester, 39 AD3d 1272, 1272 [4th Dept 2007]; State of New York v Myers, 22 Misc 3d 809, 818 [Sup Ct, Albany County 2008]).\nConclusion\nRespondent’s motion is granted.\n. The diagnosis as written in the petition is “sexual arousal to teens.” However, since the parties’ briefs, Judge Wayne Ozzi’s decision granting the Frye hearing, and the hearing testimony use the terminology “sexually attracted to teenage females,” this court is using that term too.\n. Dr. Kunkle testified it took 13 years to publish the DSM-5 (Kunkle tr at 188); Dr. Frances testified it took seven years-—from 1987 to 1994-—to publish the DSM-IV (Frances tr at 237).",
+        "type": "majority",
+        "author": "Dineen A. Riviezzo, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Mental Hygiene Legal Service, Brooklyn (Alison Kuhlman and Bruce Harris of counsel), for respondent.",
+      "Eric T. Schneiderman, Attorney General, New York City {Kent Sprotbery and Cheryl Henderson of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[19 NYS3d 658]\nIn the Matter of State of New York, Petitioner, v Harry Mercado, Respondent.\nSupreme Court, Kings County,\nAugust 11, 2015\nAPPEARANCES OF COUNSEL\nMental Hygiene Legal Service, Brooklyn (Alison Kuhlman and Bruce Harris of counsel), for respondent.\nEric T. Schneiderman, Attorney General, New York City {Kent Sprotbery and Cheryl Henderson of counsel), for petitioner."
+  },
+  "file_name": "2079-01",
+  "first_page_order": 536,
+  "last_page_order": 554
+}

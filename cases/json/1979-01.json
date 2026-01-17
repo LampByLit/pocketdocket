@@ -1,0 +1,1550 @@
+{
+  "id": 4352644,
+  "name": "In the Matter of The Nonhuman Rights Project, Inc., on Behalf of Hercules and Another, Petitioner, v. Samuel L. Stanley Jr., M.D., as President of State University of New York at Stony Brook, Also Known as Stony Brook University, et al., Respondents",
+  "name_abbreviation": "Nonhuman Rights Project, Inc. ex rel. Hercules v. Stanley",
+  "decision_date": "2015-07-29",
+  "docket_number": "",
+  "first_page": "746",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 746"
+    },
+    {
+      "type": "parallel",
+      "cite": "16 N.Y.S.3d 898"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "546 US 984",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5992321,
+        5935618,
+        5949155,
+        5896231,
+        5876776,
+        5887625,
+        6011242,
+        3812273,
+        6000849,
+        6017841,
+        3807986,
+        6014806,
+        5910744,
+        5929787,
+        5962045,
+        5932639
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0984-08",
+        "/us/546/0984-14",
+        "/us/546/0984-04",
+        "/us/546/0984-07",
+        "/us/546/0984-12",
+        "/us/546/0984-02",
+        "/us/546/0984-15",
+        "/us/546/0984-01",
+        "/us/546/0984-16",
+        "/us/546/0984-03",
+        "/us/546/0984-11",
+        "/us/546/0984-10",
+        "/us/546/0984-05",
+        "/us/546/0984-09",
+        "/us/546/0984-06",
+        "/us/546/0984-13"
+      ]
+    },
+    {
+      "cite": "135 S Ct 2584",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591054
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "2602"
+        },
+        {
+          "page": "2595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2584-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 1430",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4112260,
+        4114791,
+        4094574,
+        4102031,
+        4109201,
+        4096341,
+        4104533
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/1430-04",
+        "/ad3d/126/1430-05",
+        "/ad3d/126/1430-03",
+        "/ad3d/126/1430-02",
+        "/ad3d/126/1430-07",
+        "/ad3d/126/1430-01",
+        "/ad3d/126/1430-06"
+      ]
+    },
+    {
+      "cite": "75 NY2d 751",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4416555
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0751-01"
+      ]
+    },
+    {
+      "cite": "220 AD2d 291",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        659392
+      ],
+      "pin_cites": [
+        {
+          "page": "292-293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/220/0291-01"
+      ]
+    },
+    {
+      "cite": "24 NY2d 609",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2289621
+      ],
+      "pin_cites": [
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/24/0609-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4419142
+      ],
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0377-01"
+      ]
+    },
+    {
+      "cite": "539 US 558",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8898517
+      ],
+      "pin_cites": [
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/539/0558-01"
+      ]
+    },
+    {
+      "cite": "79 NY2d 474",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/79/0474-01"
+      ]
+    },
+    {
+      "cite": "165 AD2d 172",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012153
+      ],
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/165/0172-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 613",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0613-01"
+      ]
+    },
+    {
+      "cite": "237 AD2d 52",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        187402
+      ],
+      "pin_cites": [
+        {
+          "page": "60-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/237/0052-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 479",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323861
+      ],
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0479-01"
+      ]
+    },
+    {
+      "cite": "48 Misc 3d 597",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4318922
+      ],
+      "pin_cites": [
+        {
+          "page": "600-601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/48/0597-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 30175",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "298 NY 796",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2074519
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/298/0796-01"
+      ]
+    },
+    {
+      "cite": "272 App Div 859",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Misc 325",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        931166
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/188/0325-01"
+      ]
+    },
+    {
+      "cite": "51 Misc 2d 538",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1174058
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/51/0538-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 61",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984031
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0061-01"
+      ]
+    },
+    {
+      "cite": "102 AD2d 663",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3372369
+      ],
+      "pin_cites": [
+        {
+          "page": "664"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/102/0663-01"
+      ]
+    },
+    {
+      "cite": "10 NY3d 100",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3779897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/10/0100-01"
+      ]
+    },
+    {
+      "cite": "39 AD3d 138",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5511122
+      ],
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/39/0138-01"
+      ]
+    },
+    {
+      "cite": "123 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4340623
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0001-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 15",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4371866
+      ],
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0015-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 1114",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4321591
+      ],
+      "pin_cites": [
+        {
+          "page": "1154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/1114-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 493",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323864
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "498-499"
+        },
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0493-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 331",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2352255
+      ],
+      "pin_cites": [
+        {
+          "page": "337-338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0331-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 129",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557258
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0129-01"
+      ]
+    },
+    {
+      "cite": "542 US 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5864944
+      ],
+      "pin_cites": [
+        {
+          "page": "484-485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0466-01"
+      ]
+    },
+    {
+      "cite": "105 Colum L Rev 209",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Misc 2d 240",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        936807
+      ],
+      "pin_cites": [
+        {
+          "page": "244-245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/166/0240-01"
+      ]
+    },
+    {
+      "cite": "97 Misc 2d 530",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1924205
+      ],
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/97/0530-01"
+      ]
+    },
+    {
+      "cite": "42 Misc 3d 447",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4054628
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/42/0447-01"
+      ]
+    },
+    {
+      "cite": "264 AD2d 340",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        150746,
+        150507,
+        150901,
+        151191
+      ],
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/264/0340-04",
+        "/ad2d/264/0340-03",
+        "/ad2d/264/0340-01",
+        "/ad2d/264/0340-02"
+      ]
+    },
+    {
+      "cite": "29 AD3d 255",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5576596
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/29/0255-01"
+      ]
+    },
+    {
+      "cite": "59 AD3d 68",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3911588
+      ],
+      "pin_cites": [
+        {
+          "page": "71-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/59/0068-01"
+      ]
+    },
+    {
+      "cite": "355 Or 759",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        3959344
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "774-775"
+        },
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/355/0759-01"
+      ]
+    },
+    {
+      "cite": "44 J Marshall L Rev 717",
+      "category": "journals:journal",
+      "reporter": "J. Marshall L. Rev.",
+      "pin_cites": [
+        {
+          "page": "727-731"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Harv L Rev 1745",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1746"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Hastings L J 369",
+      "category": "journals:journal",
+      "reporter": "Hastings L.J.",
+      "pin_cites": [
+        {
+          "page": "372, 403"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 NY2d 194",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2305776
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "201"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/31/0194-01"
+      ]
+    },
+    {
+      "cite": "46 AD3d 998",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4042024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/46/0998-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 35",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        712669
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0035-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 343",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188440
+      ],
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0343-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 124",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5556486
+      ],
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0124-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 499",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109808
+      ],
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0499-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 712",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 AD2d 759",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1005314
+      ],
+      "pin_cites": [
+        {
+          "page": "760"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/163/0759-01"
+      ]
+    },
+    {
+      "cite": "148 AD2d 75",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3578146
+      ],
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/148/0075-01"
+      ]
+    },
+    {
+      "cite": "56 NY 182",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519171
+      ],
+      "pin_cites": [
+        {
+          "page": "191-192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/56/0182-01"
+      ]
+    },
+    {
+      "cite": "373 US 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716366
+      ],
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0001-01"
+      ]
+    },
+    {
+      "cite": "276 AD2d 728",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        539801,
+        2784842,
+        539779
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/276/0728-01",
+        "/ad/276/0728-01",
+        "/ad2d/276/0728-02"
+      ]
+    },
+    {
+      "cite": "23 AD3d 941",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1602386
+      ],
+      "pin_cites": [
+        {
+          "page": "942"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/23/0941-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 708",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 AD3d 841",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4134920
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/53/0841-01"
+      ]
+    },
+    {
+      "cite": "800 F Supp 2d 559",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4154451
+      ],
+      "pin_cites": [
+        {
+          "page": "564-565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/800/0559-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 897",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4247751
+      ],
+      "pin_cites": [
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0897-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 8",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3677194
+      ],
+      "pin_cites": [
+        {
+          "page": "12-14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/11/0008-01"
+      ]
+    },
+    {
+      "cite": "394 US 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170863
+      ],
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/394/0286-01"
+      ]
+    },
+    {
+      "cite": "8 NY2d 33",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2256528
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "36"
+        },
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/8/0033-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 31025",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 AD2d 649",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3210823
+      ],
+      "pin_cites": [
+        {
+          "page": "649-650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/31/0649-01"
+      ]
+    },
+    {
+      "cite": "18 NY2d 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        6796866
+      ],
+      "pin_cites": [
+        {
+          "page": "334-335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/18/0330-01"
+      ]
+    },
+    {
+      "cite": "15 Misc 3d 538",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3089913
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/15/0538-01"
+      ]
+    },
+    {
+      "cite": "120 Misc 2d 754",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        816366
+      ],
+      "pin_cites": [
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/120/0754-01"
+      ]
+    },
+    {
+      "cite": "38 AD3d 336",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3882006
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "338"
+        },
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/38/0336-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 890",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4133496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0890-01"
+      ]
+    },
+    {
+      "cite": "242 AD2d 454",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        495625
+      ],
+      "pin_cites": [
+        {
+          "page": "454-455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/242/0454-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2559919
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0607-01"
+      ]
+    },
+    {
+      "cite": "68 App Div 320",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        7679689
+      ],
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/74/0070-01"
+      ]
+    },
+    {
+      "cite": "110 Misc 2d 4",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        782961
+      ],
+      "pin_cites": [
+        {
+          "page": "7-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/110/0004-01"
+      ]
+    },
+    {
+      "cite": "227 AD2d 969",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        347064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/227/0969-01"
+      ]
+    },
+    {
+      "cite": "31 AD3d 24",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3491778
+      ],
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/31/0024-01"
+      ]
+    },
+    {
+      "cite": "74 NY 299",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0299-01"
+      ]
+    },
+    {
+      "cite": "326 US 687",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6160071,
+        6159882,
+        6160013,
+        6159984,
+        6159835,
+        6159932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0687-06",
+        "/us/326/0687-02",
+        "/us/326/0687-05",
+        "/us/326/0687-04",
+        "/us/326/0687-01",
+        "/us/326/0687-03"
+      ]
+    },
+    {
+      "cite": "294 NY 163",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2064466
+      ],
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/294/0163-01"
+      ]
+    },
+    {
+      "cite": "18 NY2d 257",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        6796390
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "263"
+        },
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/18/0257-01"
+      ]
+    },
+    {
+      "cite": "1997 US Dist LEXIS 11177",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1997 WL 436484",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 AD2d 28",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3517860
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "30"
+        },
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/129/0028-01"
+      ]
+    },
+    {
+      "cite": "279 NY 490",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2033974
+      ],
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/279/0490-01"
+      ]
+    },
+    {
+      "cite": "60 NY 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523196
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "566"
+        },
+        {
+          "page": "568-569"
+        },
+        {
+          "page": "565"
+        },
+        {
+          "page": "565"
+        },
+        {
+          "page": "566"
+        },
+        {
+          "page": "568-569"
+        },
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/60/0559-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 84",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4302204
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "90"
+        },
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0084-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 485",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403524
+      ],
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0485-01"
+      ]
+    },
+    {
+      "cite": "2008 US Dist LEXIS 35845",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*20"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 1945350",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 AD3d 1334",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4354026,
+        4354972,
+        4347319
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1335"
+        },
+        {
+          "page": "1335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/1334-02",
+        "/ad3d/124/1334-03",
+        "/ad3d/124/1334-01"
+      ]
+    },
+    {
+      "cite": "124 AD3d 148",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4358704
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "150"
+        },
+        {
+          "page": "150-151"
+        },
+        {
+          "page": "151-152"
+        },
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/0148-01"
+      ]
+    },
+    {
+      "cite": "176 Misc 2d 521",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1610463
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/176/0521-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2299,
+    "char_count": 63171,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14816307823351862
+    },
+    "sha256": "9aadad704781f1e0c61c613b57801e6b0191fe7b7e013079cb43a5908da81e43",
+    "simhash": "1:4a1720ec7f82e7d7",
+    "word_count": 10302
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of The Nonhuman Rights Project, Inc., on Behalf of Hercules and Another, Petitioner, v Samuel L. Stanley Jr., M.D., as President of State University of New York at Stony Brook, Also Known as Stony Brook University, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nBarbara Jaffe, J.\nPetitioner brings this proceeding pursuant to CPLR article 70 and under the common law for a writ of habeas corpus on behalf of Hercules and Leo, two chimpanzees now in the custody of respondent State University of New York at Stony Brook (University). It seeks an order directing respondents to demonstrate the basis for detaining Hercules and Leo, and an order directing their release and transfer to a sanctuary in Florida. (Verified petition.)\nRespondents oppose the petition and cross-move to change venue. (Respondents’ mem of law in opp to petition for writ of habeas corpus and in support of their cross motion to change venue to Supreme Court, Suffolk County, dated May 22, 2015 [respondents’ mem of law].)\nWhile previous considerations of the issues raised here are thoughtful {see infra at II), they lack the benefit of input from both sides. Given the important questions raised here, I signed petitioner’s order to show cause, and was mindful of petitioner’s assertion that “the court need not make an initial judicial determination that Hercules and Leo are persons in order to issue the writ and show cause order.” (Petition at 1.)\nI. Background\nPetitioner is a nonprofit organization with a mission to\n“change the common law status of at least some nonhuman animals from mere ‘things,’ which lack the capacity to possess any legal rights, to ‘persons,’ who possess such fundamental rights as bodily integrity and bodily liberty, and those other legal rights to which evolving standards of morality, scientific discovery, and human experience entitle them.” (Petition If 11, 18; mem of law in support of petition [petitioner’s mem of law] at 71 n 35; see generally Nonhuman Rights Project, http:// www.nonhumanrightsproj ect. org.)\nHercules and Leo, on whose behalf petitioner seeks a writ of habeas corpus, are two young adult male chimpanzees who, since November 2010, have been held at the University and used as research subjects in studies on the locomotion of chimpanzees and other primates. (Petition M 12, 22; aff of Styliani-Anna Tsirka in opp to petition [Tsirka aff] f 4.) The University, located in Suffolk County, New York, is part of the State University of New York, a statewide system of geographically diverse university and college campuses established to “provide to the people of New York educational services of the highest quality, with the broadest possible access.” (Education Law §§ 351, 352.) Respondent Samuel L. Stanley Jr., M.D., is president of the University. (Petition f 13.)\nIn accordance with its mission, petitioner commenced this litigation and has filed similar cases in several other New York courts with the goal of obtaining legal rights for chimpanzees, and ultimately for other animals. (See NhRP Press Release, dated Dec. 2, 2013, available at Nonhuman Rights Project, http://www.nonhumanrightsproject.org.) Petitioner filed its first cases in New York after learning that three of seven known chimpanzees being held in New York had recently died. (Petition f 6.) It hopes for a successful outcome here, given this state’s recognition of legal personhood for some nonhuman animals under the Estates, Powers and Trusts Law, which expressly permits a “domestic or pet animal” to be designated as a beneficiary of a trust. (See EPTL 7-8.1 [a] [“Trusts for pets”]; petitioner’s mem of law at 54-56.)\nThe conditions under which Hercules and Leo are confined are not challenged by petitioner, which denies that they are relevant to the relief it seeks, and it advances no allegation that respondents are violating any federal, state or local laws by holding Hercules and Leo (petition f! 5, 8), nor does it “seek improved welfare for Hercules or Leo” (id.), or otherwise “to reform animal welfare legislation” (id. 1 11; see petitioner’s mem of law at 5). Rather, according to petitioner, the sole issue is whether Hercules and Leo may be legally detained at all. (Petition ][ 5; petitioner’s mem of law at 5-6.)\nBefore proceeding here, petitioner unsuccessfully sought similar determinations in Fulton and Niagara counties on behalf of other chimpanzees, and in Suffolk County, on behalf of Hercules and Leo. While petitioner allows that its efforts to obtain judicial recognition of chimpanzees as legal persons are unprecedented (petitioner’s mem of law at 59; but see Matter of Fouts, 176 Misc 2d 521 [Sur Ct, Nassau County 1998] [court declined to reach issue of whether chimpanzees should be treated as persons under disability pursuant to SCPA 103 (40)]), and that this and the prior proceedings constitute the first attempts to obtain habeas corpus relief on behalf of chimpanzees, it argues that “the novelty of their claims is no reason to deny Hercules and Leo habeas corpus relief.” Even without legal precedent, it asserts, the “great writ” of habeas corpus must be broadly construed to protect Hercules and Leo (id. at 54-56).\nIn support, petitioner offers affidavits from psychologists, zoologists, anthropologists, and primatologists, who have conducted in-depth research into the behavior, personality, cognition, intelligence, communication, and language skills of chimpanzees and other nonhuman primates. Each expert attests, collectively and generally, to the complex cognitive abilities of chimpanzees. (Petition M 38-39 and annexed affs; petitioner’s mem of law at 6-22 and citations therein.)\nAccording to the experts, humans and chimpanzees share almost 99% of their DNA, and chimpanzees are more closely related to human beings than they are to gorillas. (Petitioner’s mem of law at 6-7.) They share with humans similarities in brain structure and cognitive development, including a parallel development of communications skills, as shown by their use and understanding of sign language. (Id. at 7-8.) Chimpanzees also demonstrate self-awareness, recognizing themselves in mirrors and photographs and on television, and have the capacity to reflect on their behavior. {Id. at 8-9.) They manifest a capacity for empathy, are attuned to the experiences and emotions of others, and imitate and emulate others. {Id. at 15-16, 19-20.) They behave in ways that reflect moral inclinations {id. at 20), and demonstrate compassion and depression when a member of their community or familial group dies {id. at 16-17; Boesch aff ^[ 17). They also have a cooperative social life (petitioner’s mem of law at 20), engage in imaginary play, and display a sense of humor {id. at 14-15).\nBased on this research and the belief that chimpanzees are autonomous and self-determining beings entitled to such fundamental rights as bodily liberty and equality, petitioner seeks the issuance of a writ and a determination that Hercules and Leo are being unlawfully deprived of their liberty.\nII. Prior Related Proceedings\nIn December 2013, petitioner filed three nearly identical lawsuits seeking substantially the same relief sought here, in Fulton County Supreme Court on behalf of Tommy, a chimpanzee held in a shed on a trailer sales lot; in Niagara County Supreme Court on behalf of Kiko, a chimpanzee living in a cement building on his owner’s property; and in Suffolk County Supreme Court on behalf of Hercules and Leo.\nThe Fulton County Justice, after hearing petitioner’s arguments ex parte, declined to sign petitioner’s order to show cause and writ of habeas corpus on the ground that a chimpanzee is not a person for whom a writ of habeas corpus may be sought. (Affirmation of Christopher Coulston in opp to petition and in support of cross motion to change venue, dated May 22, 2015 [affirmation in opp], exhibit F at 26.) The Third Department affirmed, holding that “a chimpanzee is not a ‘person’ entitled to the rights and protections afforded by the writ of habeas corpus.” (People ex rel. Nonhuman Rights Project, Inc. v Lavery, 124 AD3d 148, 150 [3d Dept 2014].) In reaching its conclusion, the Court, although noting that the “lack of precedent for treating animals as persons for habeas corpus purposes does not . . . end the inquiry” {id.), reasoned that “legal personhood has consistently been defined in terms of both rights and duties” {id. at 151), and found that chimpanzees’ “incapability to bear any legal responsibilities and societal duties” disqualifies them from receiving legal rights afforded human beings {id. at 152). The Court also observed that petitioner was not without a remedy, and may look to “the Legislature to extend further legal protections to chimpanzees.” {Id. at 153.)\nIn the Niagara County case, after hearing petitioner ex parte, the Justice denied petitioner’s request for an order to show cause and writ of habeas corpus, also finding that Kiko is not a person within the meaning of the law relating to habeas corpus, and suggesting that the matter is more legislative than judicial. (Affirmation in opp, exhibit E at 15-16.) The Fourth Department upheld the lower court, finding, without reaching the issue of legal personhood, that the petition for a writ should have been dismissed on the ground that the petitioner did not seek Kiko’s immediate release but sought to have him placed in an appropriate facility. (Matter of Nonhuman Rights Project, Inc. v Presti, 124 AD3d 1334, 1335 [4th Dept 2015], lv denied 126 AD3d 1430 [4th Dept 2015].) Decisions by the Court of Appeals presently pend on motions for leave to appeal from the decisions of the Third and Fourth Departments.\nIn Suffolk County Supreme Court, a Justice declined to sign an order to show cause seeking a writ of habeas corpus on behalf of Hercules and Leo, without hearing either side, noting that “there is no reason for this matter to be brought by means of an [order to show cause],” that petitioners have an “adequate remedy at law,” and that CPLR 7002 “applies to persons, therefore Habeas Corpus relief does not lie.” (Affirmation in opp, exhibit D.) The Second Department dismissed petitioner’s appeal “on the ground that no appeal lies as of right from an order that is not the result of a motion made on notice {see CPLR 5701),” and declined to grant leave to appeal or reargue. (Affirmation in opp, exhibit G.) The Office of the Attorney General submitted a brief in opposition to petitioner’s motion for leave to reargue. (Affirmation of Jason Harrow, ASG in opp to appellant’s motion for reargument, dated Apr. 30, 2014.)\nPetitioner then filed the instant order to show cause, which I signed ex parte and without granting a writ of habeas corpus. On May 13, 2015, pursuant to CPLR 511 (a) and (b), respondents filed a demand for a change of venue to Suffolk County. (New York State Courts Electronic Filing 49.) On May 22, 2015, respondents opposed the petition and cross-moved for an order changing the venue to Suffolk County. (Affirmation in opp; respondents’ mem of law.) They also filed an affidavit in opposition to the petition and in support of the cross motion to change venue. (Tsirka aff.)\nOn May 26, 2015, petitioner filed its opposition to respondents’ cross motion to change venue and reply to respondents’ answer to the petition, including the letter brief of amicus curiae Laurence H. Tribe, dated May 8, 2015, supporting petitioner’s motion for leave to appeal to the Court of Appeals. It also moved for an order striking portions of Tsirka’s affidavit. (Affirmation of Elizabeth Stein, Esq., dated May 26, 2015.) Respondents oppose. (Affirmation of Christopher Coulston in opp to motion to strike aff of Styliani-Anna Tsirka, dated June 5, 2015.)\nOral argument was held on May 27, 2015. Thereafter, petitioner offered additional evidence in support of its contention that “Hercules and Leo possess attributes sufficient to establish legal personhood.” (Affirmation of Elizabeth Stein, Esq., dated June 4, 2015, exhibits A, B; affirmation of Elizabeth Stein, Esq., dated June 10, 2015, exhibits A, B.) Respondents oppose. (Affirmations of Christopher Coulston, Esq., dated June 10 and 16, 2015.)\nIII. Discussion\n“The great writ of habeas corpus lies at the heart of our liberty” (Figueroa v Walsh, 2008 WL 1945350, *6, 2008 US Dist LEXIS 35845, *20 [ED NY, May 1, 2008, No. 00-CV-1160 (NGG)]), and is deeply rooted in our cherished ideas of individual autonomy and free choice (Rivers v Katz, 67 NY2d 485, 493 [1986]; People ex rel. DeLia v Munsey, 117 AD3d 84, 90 [2d Dept 2014]). As “[t]he remedy against illegal imprisonment,” the writ is described as “the greatest of all writs” and “the great bulwark of liberty.” (People ex rel. Tweed v Liscomb, 60 NY 559, 566 [1875].) The writ of habeas corpus “has been cherished by generations of free men who had learned by experience that it furnished the only reliable protection of their freedom.” (Hoff v State of New York, 279 NY 490, 492 [1939].) It must, therefore, be liberally construed “in harmony with its grand purpose.” (Tweed, 60 NY at 568-569.)\nAccording to some scholars, the writ is rooted in Roman law and “[t]he authority for it in the Anglo-American legal system is found in the 39th clause of Magna Carta.” (People ex rel. Lobenthal v Koehler, 129 AD2d 28, 30 [1st Dept 1987] [citation omitted]; see Tweed, 60 NY at 565.) Authority for it is traced to 1166, with the Assize of Clarendon (Rosa v Senkowski, 1997 WL 436484, *5, 1997 US Dist LEXIS 11177, *12 [SD NY, Aug. 1, 1997, No. 97 CIV 2468 (RWS)]), well before Magna Carta (Tweed, 60 NY at 565).\nThe writ “is a ‘part of the common law of this State’ ” (People ex rel. DeLia, 117 AD3d at 90, citing People ex rel. Lobenthal v Koehler, 129 AD2d at 30), and courts have, “by the slow process of decisional accretion, made increasing use of ‘one of the hallmarks of the writ. . .its great flexibility and vague scope’ ” (People ex rel. Keitt v McMann, 18 NY2d 257, 263 [1966] [citations omitted]). Safeguarded by the United States and New York Constitutions (NY Const, art I, § 4; US Const, art I, § 9 [2]), the writ “cannot be abrogated, or its efficiency curtailed, by legislative action” (Tweed, 60 NY at 566).\nAlthough writs of habeas corpus are commonly sought in criminal cases (People v Gersewitz, 294 NY 163, 168 [1945], cert dismissed 326 US 687 [1945]; see generally Tweed, 60 NY 559), the habeas corpus proceeding is a special civil proceeding governed by article 70 of the Civil Practice Law and Rules, although other statutes provide for analogous procedures which are tailored to the specific relief sought {e.g. Family Ct Act §651 [family court given same powers possessed by supreme court in habeas proceedings for determination of custody and visitation of minors]; see Matter of Welch, 74 NY 299 [1878] [temporary custody of minor sought by habeas petition]; Matter of Melinda D., 31 AD3d 24, 29 [2d Dept 2006] [writ of habeas corpus is proper means of determining child custody]; Domestic Relations Law §§ 70-72 [specifying procedures in child custody disputes between parents or involving grandparents]; Mental Hygiene Law § 33.15 [for persons challenging their detention in psychiatric facilities]). Writs have issued in other circumstances as well. (See e.g. Matter of Brevorka ex rel. Wittle v Schuse, 227 AD2d 969 [4th Dept 1996] [habeas corpus relief may be granted on assertion that elderly woman imprisoned and restrained by respondents who had removed her from apartment and concealed her whereabouts from her friends and family, even if proceeding pursuant to article 81 of the Mental Hygiene Law appropriate]; Matter of Siveke v Keena, 110 Misc 2d 4, 7-8 [Sup Ct, Suffolk County 1981] [habeas proceeding appropriate remedy for wife to compel respondent stepdaughter to return to her custody her incapacitated husband, respondent’s father; conservatorship proceeding under article 77 of Mental Hygiene Law not exclusive remedy].)\nWith these principles in mind, I address the issues raised by the parties’ submissions and arguments.\nA. The Order to Show Cause\nPetitioner invokes CPLR 7003 (a) in distinguishing its application from a petition seeking immediate release. (Petitioner’s mem of law.)\nThat statute provides, in pertinent part, as follows:\n“The court to whom the petition is made shall issue the writ without delay on any day, or, where the petitioner does not demand production of the person detained or it is clear that there is no disputable issue of fact, order the respondent to show cause why the person detained should not be released.”\nThis proceeding thus commenced with the signing of an order to show cause.\nAs with any motion, the burden of proof on an order to show cause is on the movant, notwithstanding that it directs the recipient to show cause why the particular relief being sought should not be granted. (Siegel, NY Prac § 248 [5th ed].) And, because the CPLR is silent about when a show cause order may issue other than that it may be used “in a proper case” (CPLR 2214 [d]), its issuance is within the court’s discretion to determine whether it is properly used; it is “in fact liberally used” (Siegel, NY Prac § 248).\nHere, given the “great flexibility and vague scope” of the writ of habeas corpus (People ex rel. Keitt, 18 NY2d at 263), and as noted (supra at 748), I exercised my discretion in favor of hearing from both sides, as respondents had not been heard by the lower courts or by the Appellate Divisions beyond their opposition to petitioner’s motion to reargue the Second Department’s summary affirmance of the Suffolk County Justice’s summary denial of the petition.\nB. Standing\nIn asserting standing to seek a writ of habeas corpus on behalf of Hercules and Leo, petitioner relies on CPLR 7002 (a) which provides that a petition for a writ of habeas corpus may be made not only by “[a] person illegally imprisoned or otherwise restrained in his [or her] liberty,” but also by “one acting on his [or her] behalf.” (Petitioner’s mem of law.) Respondents deny that petitioner has standing to bring this proceeding absent a substantial relationship between it and the chimpanzees. (Respondents’ mem of law.)\nAs the statute places no restriction on who may bring a petition for habeas corpus on behalf of the person restrained, and absent any authority for the proposition that the statutory phrase “one acting on his behalf” is modified by a requirement for obtaining standing by a third party, petitioner has met its burden of demonstrating that it has standing. (See Matter of Larner, 68 App Div 320, 322 [2d Dept 1902] [only requirement under habeas statute is that application for release “shall be signed 'either by the person for whose relief it is intended, or by some person in his behalf ”]; cf. State of N.Y. ex rel. Harkavy v Consilvio, 7 NY3d 607 [2006] [assuming without deciding that Mental Hygiene Legal Service had standing to initiate habeas proceeding on behalf of involuntarily committed persons]; People ex rel. DeLia, 117 AD3d 84 [same].) In any event, petitioner demonstrates an interest in vindicating what it perceives to be the rights of these chimpanzees.\nC. Venue\nPetitioner asserts that New York County is an appropriate venue for seeking relief. (Petitioner’s mem of law.)\nRespondents move pursuant to CPLR 7002 and 7004 or CPLR 510, 511 and 2201 for an order changing the venue of this proceeding to Suffolk County, but maintain that the latter provisions govern venue here. They argue that the determination of whether chimpanzees are legal persons within the meaning of article 70 constitutes a “threshold determination,” and that because resolution of that threshold determination yields the conclusion that chimpanzees are not legal persons, the venue provisions of article 70 do not apply. (Respondents’ mem of law.)\nRespondents’ argument requires that I reach a substantive determination on the petition before addressing the procedural issues. As venue is a threshold determination (Matter of Stevens v Coudert Bros., 242 AD2d 454, 454-455 [1st Dept 1997]), and not substantive (Elie v Marathon REO Mgt., LLC, 119 AD3d 890 [2d Dept 2014] [improper venue does not require dismissal of action]), and as the courts that have previously considered the legal personhood of chimpanzees did not address the issue of venue in habeas proceedings, I address it here.\nPreliminarily, even though respondents’ motion to change venue is denominated a cross motion, and petitioner objects to it as untimely and not filed in response to a motion, to deny the cross motion on that basis “would exalt form over substance.” (See Matter of Jordan v City of New York, 38 AD3d 336, 338 [1st Dept 2007].) In any event, the motion is neither untimely nor improperly advanced. (CPLR 406; Goldman v McCord, 120 Misc 2d 754, 755 [Civ Ct, NY County 1983] [motions in special proceedings may be made on little or no notice as long as they are made returnable at same time petition to be heard]; 126 Spruce St., LLC v Club Cent., LLC, 15 Misc 3d 538, 539 [Nassau Dist Ct 2007] [same]; see also Matter of Jordan, 38 AD3d at 338 [late service of motion in special proceeding overlooked where made in accordance with CPLR 406 and no showing of prejudice to other party].)\nI commence with CPLR 7002 (b), which provides that a habeas petition must be made to “(1) the supreme court in the judicial district in which the person is detained; or . . . (3) any justice of the supreme court.”\nPetitioner relies on the statute and on the common law for the proposition that the writ may be sought from any justice of the supreme court. (Petitioner’s mem of law.) Respondents maintain that petitioner violated CPLR 7002 (b) by not filing the petition with the supreme court in Suffolk County, where Hercules and Leo are detained, and that in filing it with the court in New York County, as opposed to filing it with “any justice,” petitioner is precluded from relying on the provision permitting the filing of the petition with “any justice of the supreme court.” (Respondents’ mem of law.)\nA party filing an order to show cause commencing a proceeding in this county is restricted to filing it with the court (http:// www.nycourts. gov/ courts/lj d/ supctmanh/court_parts. shtml). Had petitioner passed over the Clerk’s Office and filed its order to show cause directly with a particular justice, it would have engaged in forum shopping. Thus, to the extent that the random assignment of a justice by the court is equivalent to filing it with “any justice,” the petition was filed pursuant to CPLR 7002 (b) (3).\nRespondents also maintain that even assuming that the order to show cause was properly signed, the writ should have been made returnable in Suffolk County, where Hercules and Leo are detained. They rely on CPLR 7004 (c), and on Education Law §§ 350 and 352 as support for their contention that the University is a “state institution” within the meaning of CPLR 7004 (c). (Respondents’ mem of law.)\nPetitioner argues that absent a definition within article 70 of the term “state institution,” the legislative intent should be consulted in discerning its scope. Given that intent, petitioner argues, the term should be narrowly construed to include only state prisons or correctional facilities and state mental institutions. (Petitioner’s mem of law.)\nPursuant to CPLR 7004 (c):\n“A writ to secure the discharge of a person from a state institution shall be made returnable before a justice of the supreme court . . . being or residing within the county in which the person is detained; if there is no such judge it shall be made returnable before the nearest accessible supreme court justice . . . . In all other cases, the writ shall be made returnable in the county where it was issued, except that where the petition was made to the supreme court or to a supreme court justice outside the county in which the person is detained, such court or justice may make the writ returnable before any judge authorized to issue it in the county of detention.”\nThe primary consideration in the court’s construction of a statute is to “ascertain and give effect to the intention of the Legislature.” (McKinney’s Cons Laws of NY, Book 1, Statutes § 92 [a].) It is well established that legislative intent is “ascertained from the words and language used, and the statutory language is generally construed according to its natural and most obvious sense, without resorting to an artificial or forced construction.” (McKinney’s Cons Laws of NY, Book 1, Statutes § 94.)\nHere, the term “state institution” is broad enough to include not only any institution run by the state, but any institution within the state. The legislature’s failure to define the term within article 70 does not warrant such broad construction, especially since the statute is directed at “relieving] wardens of State prisons from” the burden of “producing inmates out of the county of detention, under guard, and often at great distances and great expense” (Matter of Hogan v Culkin, 18 NY2d 330, 334-335 [1966]), and “to obviate the administrative, security and financial burdens entailed in requiring prison authorities to produce inmates pursuant to such writs in a county other than that in which they were detained” (id. at 333; see Matter of Greene v Supreme Ct., State of N.Y. Westchester County, Special Term., 31 AD2d 649, 649-650 [2d Dept 1968] [provision intended to avoid “burden of transporting prisoners who have instituted such proceedings throughout the State”]).\nIn Matter of Hogan, the Court also observed that\n“CPLR 7004 (c) . . . distinguishes between writs of habeas corpus concerning the inmates of State institutions, in the first instance, and writs ‘In all other cases’.... Where the writ is directed to the warden of a State prison, ... it must be made returnable in the county of detention, subject to the exception applicable when there is no available judge in that county. In all other cases, the writ is to be made returnable in the county of issuance, unless the issuing judge should decide in his discretion to make it returnable in the county of detention.” (18 NY2d at 335.)\nHere, if issued, the writ would not be directed to a state prison warden. Consequently, as “in all other cases,” the writ here is to be made returnable in the county of issuance, namely, New York County. That the University is denominated a “state-operated institution” in the Education Law is irrevelant. Moreover, where no factual issues are raised, no one sought the production in court of Hercules or Leo, and “[a] 11 that remains is for the Court to issue its decision,” a change of venue is not required. (Matter of Chaney v Evans, 2013 NY Slip Op 31025 [U], *4 [Sup Ct, Franklin County 2013] [even though petitioner administratively transferred to other county during pendency of habeas proceeding and no longer detained in Franklin County, change of venue not required].)\nIn any event, “so primary and fundamental” is the writ of habeas corpus “that it must take precedence over considerations of procedural orderliness and conformity.” (People v Schildhaus, 8 NY2d 33, 36 [1960]; see Harris v Nelson, 394 US 286, 291 [1969]; Tweed, 60 NY at 568-569.) And the legislature was so concerned that judges issue valid writs that it enacted a provision, unique in all respects, requiring that a judge or group of judges who refuse to issue a valid writ must forfeit $1,000 to the person detained. (CPLR 7003 [c]; Vincent C. Alexander, Practice Commentaries, McKinney’s Cons Laws of NY, Book 7B, CPLR 7003 [b] [provision enacted for in terrorem effect].)\nFor all of these reasons, a transfer of venue is not required.\nD. Res Judicata\nPetitioner denies that the Suffolk County Justice’s determination constitutes a valid judgment entitled to preclusive effect as it was not issued on the merits, as evidenced by the Second Department’s order dismissing the appeal. (Petitioner’s mem of law.)\nRespondents assert that to avoid “overruling] the decision of another Supreme Court justice in another county,” and “in the interest of comity” and to “prevent forum shopping,” the petition should have been made returnable to the Suffolk County Justice who refused to sign the order to show cause. (Respondents’ mem of law.) They allege that the Suffolk County Justice “definitively resolved on the merits that petitioner may not proceed based on article 70 by refusing to sign the order to show cause and signing an order holding specifically that habeas corpus relief does not lie because Hercules and Leo are not persons to which Article 70 applies.” (Id. )\nRespondents thus claim that petitioner was barred from filing another order to show cause seeking the same relief from a different justice. The Justice’s definitive resolution, they argue, is evidenced by his “refus[al] to analyze the request for relief” by reference to article 70, instead citing CPLR 2214 as the procedural basis for declining to sign petitioner’s show cause order. (Respondents’ mem of law.) They characterize the Justice’s refusal to sign the order as a “threshold determination” that should be given preclusive effect, and assert that cases cited by petitioner are inapposite because they all involve petitions brought by legal persons. (Id.)\nAgain, respondents’ argument inappropriately requires an initial, substantive finding that chimpanzees are not entitled to legal personhood for the purpose of obtaining a writ of habeas corpus. Even so, the issue of whether the “determination” of the Suffolk County Justice precludes my consideration of the issues here merits discussion.\nBefore a claim may be barred as res judicata, there must be a final judgment on the merits issued in a prior proceeding. (Landau, P.C. v LaRossa, Mitchell & Ross, 11 NY3d 8, 12-14 [2008]; Bayer v City of New York, 115 AD3d 897, 899 [2d Dept 2014] [“there must have been, in the prior proceeding, a final judgment on the merits”]; Figueroa v Ercole, 800 F Supp 2d 559, 564-565 [SD NY 2011] [“A state court resolves a claim on the merits when it reduces its disposition to a final judgment with res judicata effect on substantive rather than procedural grounds”].)\nPetitioner’s case in Suffolk County involved the parties named and issues raised here. The petition was summarily dismissed ex parte, without oral argument or any opportunity given for petitioner to litigate beyond filing the order to show cause, petition, and memorandum of law. Respondents cite no authority for the proposition that a declined order to show cause constitutes a determination on the merits, that it has any precedential value, or that a justice in one county is precluded from signing an order to show cause for relief previously sought from and denied by virtue of a justice in another county refusing to sign the order to show cause.\nThe Third Department found no such preclusion in People ex rel. David NN. v Hogan, wherein a decision by a justice who considered a petitioner for habeas relief was affirmed, even though a justice in another county had previously declined to consider an order to show cause related to the same facts underlying the petition. (53 AD3d 841 [3d Dept 2008], lv denied 11 NY3d 708 [2008].) On the other hand, in People ex rel. Roache v Connell, the Court held that where a justice in Oneida County had issued a decision upon “reviewing] and adjudicating] ” the petitioner’s habeas corpus application, a justice in Albany County had no authority to rule on the matter. (23 AD3d 941, 942 [3d Dept 2005].) The Court relied on Matter of DeLanoy v O'Rourke (276 AD2d 728 [2d Dept 2000]), where an order to show cause in an election proceeding was signed by one justice and served on the respondents, after which another justice signed an order to show cause seeking the same relief, denied the petition, and dismissed the proceeding. As “[a] court of coordinate jurisdiction has no authority to rule on a matter already reviewed by another Judge of equal authority,” the Court vacated the subsequent order. (276 AD2d at 729.)\nIn DeLanoy, the first order to show cause was signed, and in Roache, the first justice issued a decision. Here, by contrast, the Suffolk County Justice refused to sign the order to show cause. Consequently, Roache may not be apposite.\nAlthough the Suffolk County Justice briefly noted on the order to show cause his reasons for refusing to sign it, that refusal was no less summary and no more on the merits, than had he withheld his reasoning. The Appellate Division indicated as much when it relied on CPLR 5701 in summarily dismissing the appeal. (Affirmation in opp, exhibit G.)\nIn any event, the governing statute itself poses no obstacle to this litigation. Pursuant to CPLR 7003 (b):\n“[a] court is not required to issue a writ of habeas corpus if the legality of the detention has been determined by a court of the state on a prior proceeding for a writ of habeas corpus and the petition presents no ground not theretofore presented and determined and the court is satisfied that the ends of justice will not be served by granting it.”\nNotwithstanding the interest in issuing valid writs (see III.C., supra), the legislature apparently found it necessary to include within the statute a provision permitting, but not requiring, a court to decline to issue a writ under certain circumstances, thereby permitting successive writs, a construction reflected in the traditional and general common-law rule that res judicata has no application in habeas corpus proceedings. (See Sanders v United States, 373 US 1, 8 [1963] [“Conventional notions of finality of litigation have no place where life or liberty is at stake and infringement of constitutional rights is alleged”; noting that at common law, denial by court or judge of habeas application not res judicata]; People ex rel. Lawrence v Brady, 56 NY 182, 191-192 [1874] [“a decision under one writ refusing to discharge (the relator), did not bar the issuing of a second writ by another court”]; People ex rel. Leonard HH. v Nixon, 148 AD2d 75, 80 [3d Dept 1989] [“traditional and historic position” that “res judicata does not apply to habeas corpus . . . continues to be extant and covers both the claim preclusion and issue preclusion branches of res judicata”]; see also People ex rel. Woodard v Berry, 163 AD2d 759, 760 [3d Dept 1990], lv denied 76 NY2d 712 [1990] [“res judicata principles do not bar successive petitions for a writ of habeas corpus on the same ground . . . (although) orderly administration would require, at least, a showing of changed circumstances”]; Vincent C. Alexander, Practice Commentaries, McKinney’s Cons Laws of NY, CPLR 7003 [successive applications “looked upon with disfavor if the petition raises no new evidence or grounds”].)\nPetitioner is thus not barred by the Suffolk County disposition from proceeding here. (See People v Evans, 94 NY2d 499, 502 [2000] [claim preclusion and issue preclusion contemplate “that the parties had a Tull and fair’ opportunity to litigate the initial determination”].) Nor should it be. (Schildhaus, 8 NY2d at 36 [writ is “so primary and fundamental that it must take precedence over considerations of procedural orderliness and conformity”].)\nE. Collateral Estoppel\nRelying on CPLR 7003 (a), petitioner denies that it is estopped by the Suffolk County proceeding. (Petitioner’s mem of law.) Respondents claim that the same issue was necessarily decided by the Justice in Suffolk County, that petitioner had a full and fair opportunity to contest that decision, and that CPLR 7003 (a) permits successive petitions only when brought by a person within the meaning of article 70. (Respondents’ mem of law.)\nA party is estopped from raising an issue, as opposed to a claim (see III.D., supra), only “ ‘if the issue in the second action is identical to an issue which was raised, necessarily decided and material in the first action, and the plaintiff had a full and fair opportunity to litigate the issue in the earlier action.’ ” (City of New York v Welsbach Elec. Corp., 9 NY3d 124, 128 [2007], quoting Parker v Blauvelt Volunteer Fire Co., 93 NY2d 343, 349 [1999]; see Sage Realty Corp. v Proskauer Rose, 251 AD2d 35, 39 [1st Dept 1998].)\nAs the Justice in Suffolk County refused to sign petitioner’s order to show cause, ex parte and partly on procedural grounds, and as the Appellate Division dismissed the appeal therefrom based solely on a procedural ground, petitioner had no full and fair opportunity to litigate the substantive issue. Consequently, and because successive writs are permitted (see III.D., supra), petitioner is not estopped from raising the same issues here. (Cf. e.g. Zinter Handling, Inc. v Britton, 46 AD3d 998 [3d Dept 2007] [court’s denial of request for preliminary injunction did not estop defendant from contesting substantive issue as issue not specifically decided by court in its denial].)\nF. Legal Personhood\nThe substance of the petition requires a finding as to whether a chimpanzee is a legal person entitled to bring a writ of habeas corpus.\n“Person” is not defined in CPLR article 70, or by the common law of habeas corpus. Petitioner agrees that there exists no legal precedent for defining “person” under article 70 or the common law to include chimpanzees or any other nonhuman animals, or that a writ of habeas corpus has ever been granted to any being other than a human being. Nonetheless, as the Third Department noted in People ex rel. Nonhuman Rights Project, Inc. v Lavery, the lack of precedent does not end the inquiry into whether habeas corpus relief may be extended to chimpanzees. (124 AD3d 148, 150-151 [3d Dept 2014].)\n“Legal personhood” is not necessarily synonymous with being human. (Byrn v New York City Health & Hosps. Corp., 31 NY2d 194, 201 [1972].) Nor have autonomy and self-determination been considered bases for granting rights. In any event, petitioner denies that it seeks human rights for chimpanzees. Rather, it contends that the law can and should employ the legal fiction that chimpanzees are legal persons solely for the purpose of endowing them with the right of habeas corpus, as the law accepts in other contexts the “legal fiction” that nonhuman entities, such as corporations, may be deemed legal persons, with the rights incident thereto. The determination of legal personhood, it maintains, is a matter of policy and not a question of biology, and in this case, policy requires that Hercules and Leo be recognized as legal persons with rights. (Petition f 3; petitioner’s mem of law at 30.)\nWhile not clearly articulating the policy underlying a supposed mandatory recognition of chimpanzees as persons beyond the guarantee of fundamental rights to liberty for all persons, petitioner argues that because chimpanzees possess fundamental attributes of personhood in that they are demonstrably autonomous, self-aware, and self-determining, and otherwise are very much like humans, “justice demands” that they be granted the fundamental rights of liberty and equality afforded to humans. (Id. at 32-33.)\nAmicus curiae correctly observes that while corporations and partnerships have been deemed persons for certain purposes, those entities are composed of humans, hence the legal fiction of personhood accorded them. It also cites certain Penal Law provisions that refer exclusively to persons as human beings, “and where appropriate, a public or private corporation, an unincorporated association, a partnership, a government or a governmental instrumentality.” (Penal Law § 10.00 [7].) Amicus thus argues that the expanded definition of person in a restricted context connotes a legislative intent that the definition not be further expanded, and that the extension of the right to be named as a beneficiary that is accorded to animals pursuant to EPTL 7-8.1 does not require a different result, as nowhere in that statute are animals defined as persons. (Amicus curiae brief by Center for the Study of The Great Ideas in opp to petition for writ of habeas corpus, dated May 4, 2015.)\nAnd yet, the concept of legal personhood, that is, who or what may be deemed a person under the law, and for what purposes, has evolved significantly since the inception of the United States. Not very long ago, only Caucasian male, property-owning citizens were entitled to the full panoply of legal rights under the United States Constitution. Tragically, until passage of the Thirteenth Amendment of the US Constitution, African-American slaves were bought, sold, and otherwise treated as property, with few, if any, rights. Married women were once considered the property of their husbands, and before marriage were often considered family property, denied the full array of rights accorded to their fathers, brothers, uncles, and male cousins. (See generally Saru M. Matambanadzo, Embodying Vulnerability: A Feminist Theory of the Person, 20 Duke J Gender L & Poly 45, 48-51 [2012].) “If rights were defined by who exercised them in the past, then received practices could serve as their own continued justification and new groups could not invoke rights once denied.” (Obergefell v Hodges, 576 US —, —, 135 S Ct 2584, 2602 [2015].)\nThe past mistreatment of humans, whether slaves, women, indigenous people or others, as property, does not, however, serve as a legal predicate or appropriate analogy for extending to nonhumans the status of legal personhood. Rather, the parameters of legal personhood have long been and will continue to be discussed and debated by legal theorists, commentators, and courts, and will not be focused on semantics or biology, or even philosophy, but on the proper allocation of rights under the law, asking, in effect, who counts under our law. (Byrn, 31 NY2d at 201.)\nFor purposes of establishing rights, the law presently categorizes entities in a simple, binary, “all-or-nothing” fashion. “Persons have rights, duties, and obligations; things do not.” (See generally Jessica Berg, Of Elephants and Embryos: A Proposed Framework for Legal Personhood, 59 Hastings L J 369, 372, 403 [2007]; Note, What We Talk About When We Talk About Persons: The Language of a Legal Fiction, 114 Harv L Rev 1745 [2001]; see also Atiba R. Ellis, Citizens United and Tiered Personhood, 44 J Marshall L Rev 717, 727-731 [2011].) Animals, including chimpanzees and other highly intelligent mammals, are considered as property under the law. They are accorded no legal rights beyond being guaranteed the right to be free from physical abuse and other mistreatment (see e.g. Agriculture and Markets Law art 26; §§ 353, 353-a, 362), and the right to humane living conditions (id. §§ 353-b, 353-d, 356), although they may be included in orders of protection. (See Family Ct Act § 842 [i].) In one instance, Oregon’s highest court found that a horse was a “person” under a statute permitting warrantless searches of property where there was a reasonable belief that a person was suffering serious injury or harm. In that case, the court upheld the conduct of a police officer who had entered property and seized an obviously emaciated horse, although it “exercise [d] judicial restraint and [left] for another day questions unnecessary to the resolution of this case, such as whether the emergency aid exception [to the warrant requirement] extends to animals.” (State of Oregon v Fessenden, 355 Or 759, 774-775, 333 P3d 278, 287 [2014].)\nMoreover, some animals, such as pets and companion animals, are gradually being treated as more than property, if not quite as persons, in part because legislatures and courts recognize the close relationships that exist between people and their pets, who are often viewed and treated by their owners as family members. (See generally Feger v Warwick Animal Shelter, 59 AD3d 68, 71-72 [2d Dept 2008] [“Companion animals are a special category of property” and courts recognize their “cherished status”]; see also People v Garcia, 29 AD3d 255 [1st Dept 2006] [goldfish are companion animals protected by animal cruelty law]; Raymond v Lachmann, 264 AD2d 340, 341 [1st Dept 1999] [recognizing cherished status of pets and considering cat’s interests by awarding possession of her to defendant as “best for all concerned,” notwithstanding plaintiff’s actual ownership interest]; Travis v Murray, 42 Misc 3d 447 [Sup Ct, NY County 2013] [recognizing, in dispute over custody of dog in divorce proceeding, that dogs are seen as family members, and declining to apply strict property analysis, applying something akin to “best interests of the child” standard].) At least one New York court, recognizing that “a pet is not just a thing but occupies a special place somewhere in between a person and a piece of personal property,” found that a dog’s owner may be entitled to emotional distress damages for the wrongful destruction and loss of her dog, thereby departing from contrary precedent. (Corso v Crawford Dog & Cat Hosp., 97 Misc 2d 530, 531 [Civ Ct, Queens County 1979]; cf. Mongelli v Cabral, 166 Misc 2d 240, 244-245 [Yonkers City Ct 1995] [absent equitable jurisdiction in small claims part, and as substantial justice not served if claim dismissed and pursued in higher court, claimant awarded damages unless defendants return Peaches, a cockatoo, “in good health, along with her cage, her bowls and her toys”].)\nConsonant with these recent trends, New York enacted section 7-8.1 (“Trusts for pets”) of the Estates, Powers and Trusts Law, providing that a domestic or pet animal may be named as a beneficiary of a trust. (Petitioner’s mem of law at 54-56; see Jesse McKinley, Dog-Related Bills Flood Albany as Major Legislation Stalls, NY Times, June 11, 2015, http:// www.nytimes.com/2015/06/12/nyregion/dog-related-bills-floodalbany-as-major-legislation-stalls.html [noting that dogs’ interests “are exceptionally well represented in Albany this year”].)\nSome commentators have described the current legal status of animals as “quasi-persons, being recognized as holding some rights and protections but not others.” (E.g. Saru M. Matambanadzo, Embodying Vulnerability: A Feminist Theory of the Person, 20 Duke J Gender L & Poly at 61.) Petitioner claims, however, that its effort to elevate the legal status of chimpanzees, and some other animals, above the level of things or mere property, is not addressed by animal welfare legislation.\nThe determination of whether an entity or being counts as a legal person is largely context-specific, and not necessarily consistently made.\n“In the United States’ common law tradition there is no discrete body of law containing all of the applicable provisions of legal personhood. Legal persons constitute a diverse community that includes various individuals, entities and collectives in different ways for different jurisdictions. To add to this diversity, the common law of legal personhood is disparate and diffuse, found in cases, statutes and treatises.” (Saru M. Matambanadzo, Embodying Vulnerability: A Feminist Theory of the Person, 20 Duke J Gender L & Poly at 64-65; see also Note, What We Talk About When We Talk About Persons: The Language of a Legal Fiction, 114 Harv L Rev 1745, 1746 [2001].)\n“Often . . . arguments for animal rights proceed by way of analogy. First, biological human beings are entitled to rights. Second, animals share many of the characteristics of human beings, at least to some lesser degree. Therefore, animals are entitled to at least some of the same rights as human beings. Obviously, this argument only works if the shared characteristics are relevant to the ascription of rights — otherwise the analogy loses its force. . . . Extending the concept of the person to animals therefore merely indicates that they share relevant characteristics with human beings and deserve rights on that basis.” (Jens David Ohlin, Note, Is the Concept of the Person Necessary for Human Rights?, 105 Colum L Rev 209, 222 [2005].)\nThis seems to be the argument advanced by petitioner, namely, that chimpanzees should be accorded rights consonant with their abilities, and that their autonomy and self-determination merit the right to be free from illegal detention, and to that extent, the status of legal personhood.\nRelying on the so-called “social contract” and the common law in determining that chimpanzees are disqualified from receiving the status of legal personhood, the Third Department in People ex rel. Nonhuman Rights Project, Inc. v Lavery determined, in effect, that according chimpanzees the status of legal personhood is inappropriate as they are incapable of bearing any legal responsibilities and societal duties. (124 AD3d 148, 151-152.) The Court also noted, among other sources of support, that the definition of “person” in Black’s Law Dictionary (1257-1258 [9th ed 2009]) includes “human being,” or “natural person,” and “[a]n entity (such as a corporation) that is recognized by law as having most of the rights and duties of a human being,” also described as an “artificial person.” It thus found that petitioner had failed to establish that Tommy was entitled to be granted common-law relief in the nature of habeas corpus, adding that petitioner “is fully able to importune the Legislature to extend further legal protections to chimpanzees.” (124 AD3d at 153.)\nThe parties differ as to whether I am bound by that determination.\nG. Stare Decisis\nPetitioner denies that Lavery binds me, maintaining that the Third Department applied the wrong legal standard for determining legal personhood when it applied the rights and duties paradigm, and that absent “settled law” on the issue, a lower court has no legal obligation to follow the decisions of the appellate courts. It does not, however, argue that there is a conflict between the decisions of the Third and Fourth Departments; each reached the same result on different grounds. Rather, it maintains that both decisions are wrong on the law, that the law relied on by those courts is not settled, and that the Third Department in particular is wrong because habeas corpus relief has and continues to be granted to persons who are not part of the “social contract,” such as slaves and noncitizens (see Rasul v Bush, 542 US 466, 484-485 [2004] [Guantanamo detainees entitled to habeas]; petitioner’s mem of law at 61-62).\nPetitioner observes that “sister common law countries” have recognized that a legal person need not have duties or responsibilities, citing instances where a river, a sacred text, a mosque, and a religious idol were designated as persons. (Petitioner’s mem of law at 63.) According to petitioner, “a ‘person’ need not even be alive.” (Id.) Thus, petitioner argues, the Third Department confused its “demand for the ‘immunity-right’ of bodily liberty, to which the ability to bear duties and responsibilities is irrevelant, with a ‘claim-right.’ ” (Id. at 64.)\nRespondents argue that absent a decision to the contrary by the Court of Appeals or the First Department, I am bound by the Third Department’s determination in Lavery that, given a chimpanzee’s inability to take on duties or responsibilities, chimpanzees are not entitled to legal personhood. (Respondents’ mem of law.)\n“ ‘Stare decisis et non quieta movere’ ” is Latin for “ ‘[t]o stand by things decided, and not to disturb settled points.’ ” (People v Taylor, 9 NY3d 129, 148 n 13 [2007], quoting Black’s Law Dictionary 1443 [8th ed 2004].)\n“[0]nce a court has decided a legal issue, subsequent appeals presenting similar facts should be decided in conformity with the earlier decision. Its purpose is to promote efficiency and provide guidance and consistency in future cases by recognizing that legal questions, once settled, should not be reexamined every time they are presented.” (People v Bing, 76 NY2d 331, 337-338 [1990].)\n“Precedents and rules must be followed, unless flatly absurd or unjust” (Matter of Eckart, 39 NY2d 493, 498-499 [1976], citing Blackstone, Commentaries on the Law at 70), although “the lessons of time may lead to a different result” (Taylor, 9 NY3d at 149; see generally Doerr v Goldsmith, 25 NY3d 1114, 1154 [2015, Fahey, J., dissenting] [precedent may be overruled by “lessons of experience” and force of “better reasoning”; patent judicial mistake need not be allowed to “age” before being corrected]).\n“Stare decisis, to its credit, is a far more subtle and flexible concept than some of those who would give it slavish adherence suggest. Its limitations are inherent, for the stability it espouses must coexist with both the dynamics of an evolving society and the accruing wisdom born of the repeated injustices which a particular ruling has wrought. To that end, its temper partakes more of the malleability of gold than of the rigidity of steel. How else do we narrow the gap between the social philosophy of the present and the law of the past?” (Matter of Higby v Mahoney, 48 NY2d 15, 22 [1979, Fuchsberg, J., dissenting] [citation omitted].)\nIn the foregoing decisions, the Court addressed its obligation to follow its own precedents. Here, by contrast, the issue presented is the precedential impact of an opinion of a court of superior jurisdiction on a court of inferior jurisdiction. In such a case, the legislature has determined that “[w]hether a judicial construction of a statute is a binding precedent depends on the court by which it was rendered and the rank of the tribunal in the judicial hierarchy.” (McKinney’s Cons Laws of NY, Book 1, Statutes § 72 [b].)\n“Thus the decisions of the Court of Appeals are binding upon the Appellate Division; those of the Appellate Division on the Supreme Court; and so on down from the superior to the inferior judicatories. ... A decision of a court of equal or inferior jurisdiction is not necessarily controlling, though entitled to respectful consideration.” {Id., Comment.)\nCourts analogously hold that\n“Supreme Court is bound to apply the law as promulgated by the Appellate Division within its particular Judicial Department . . . and where the issue has not been addressed within the Department, Supreme Court is bound by the doctrine of stare decisis to apply precedent established in another Department, either until a contrary rule is established by the Appellate Division in its own Department or by the Court of Appeals.” (D’Alessandro v Carro, 123 AD3d 1, 6 [1st Dept 2014]; Tzolis v Wolff, 39 AD3d 138, 142 [1st Dept 2007], affd 10 NY3d 100 [2008]; Mountain View Coach Lines v Storms, 102 AD2d 663, 664 [2d Dept 1984].)\nState trial courts must follow a higher court’s existing precedent “even though they may disagree.” (People v Rivera, 5 NY3d 61, 72 n 2 [2005, Kaye, Ch. J., dissenting] [citations omitted], cert denied 546 US 984 [2005].) And even where a decision of the Appellate Division has been appealed, the weight of authority stands for the proposition that the lower court remains bound by the apposite decision of the Appellate Division. (Matter of Weinbaum, 51 Misc 2d 538, 539 [Sur Ct, Nassau County 1966], citing Vanilla v Moran, 188 Misc 325, 334 [Sup Ct, Albany County 1947], affd on other grounds 272 App Div 859 [3d Dept 1947], affd 298 NY 796 [1949]; see Cunningham v Bayer AG, 2003 NY Slip Op 30175[U] [Sup Ct, NY County 2003] [plaintiff’s argument that Appellate Division decision erroneous no basis for supreme court to refuse to follow it]; see also Vasquez v National Sec. Corp., 48 Misc 3d 597, 600-601 [Sup Ct, NY County 2015] [“While defendants and respected commentators persuasively argue why the (Appellate Division) holdings . . . are outdated and do not reflect the current state of (the law), it is up to the appellate courts or legislature to undo clear New York precedent and change policy”].) Ultimately, “a higher court commands superiority over a lower not because it is wiser or better but because it is institutionally higher. This is what is meant, in part, as the rule of law and not of men.” (People v Hobson, 39 NY2d 479, 491 [1976, Breitel, Ch. J.].)\nThus, a lower court is bound by an apposite decision of an Appellate Division not within its judicial department when there is no decision on point from the Court of Appeals or the Appellate Division within its judicial department, but not where apposite decisions of other Appellate Divisions conflict. And while the Court of Appeals may not be bound by its own decisions if they do not constitute settled law, absent any authority for the proposition that a lower court is bound only by the settled law of a superior court, petitioner’s argument that the decision in Lavery is based on an erroneous legal analysis or “unsettled” law is immaterial.\nRelying on Byrn v New York City Health & Hosps. Corp. (31 NY2d 194 [1972]), petitioner asserts that the Third Department in Lavery failed to recognize that the determination of whether a chimpanzee is a legal person is a policy question, not a biological one. (Petitioner’s mem of law at 64.)\nIn Byrn, the Court held that question of “[w]hether the law should accord legal personality ... in most instances devolves on the Legislature.” (Id. at 201.) It also observed that “[t]he Constitution does not confer or require legal personality . . . ; the Legislature may, or it may do something less, . . . and provide some protection far short of conferring legal personality.” (Id. at 203.) Similarly, the Court in Lavery held that petitioner failed to establish that common-law relief in the nature of habeas corpus was appropriate, and referenced the legislature as the appropriate forum for obtaining additional protections. (Lavery, 124 AD3d at 153.) As Lavery does not appear to be inconsistent with Byrn in that regard or any other, I am bound by Lavery.\nEven were I not bound by the Third Department in Lavery, the issue of a chimpanzee’s right to invoke the writ of habeas corpus is best decided, if not by the legislature, then by the Court of Appeals, given its role in setting state policy. (See Matter of Hynes v Tomei, 237 AD2d 52, 60-61 [2d Dept 1997], revd on other grounds 92 NY2d 613 [1998], citing People v Keta, 165 AD2d 172, 178 [2d Dept 1991], revd on other grounds sub nom. People v Scott, 79 NY2d 474 [1992] [Court of Appeals is “the State’s policy-making tribunal”]; see also Matter of Eckart, 39 NY2d 493, 499 [1976] [if recent holding interpreting a statute is contrary to line of well-reasoned opinions, court need not wait for legislature to repair damage]; see also People ex rel. Tweed v Liscomb, 60 NY 559, 566 [1875] [writ of habeas corpus safeguarded by the United States and New York Constitutions and “cannot be abrogated, or its efficiency curtailed, by legislative action”].)\nIV. Conclusion\nThe similarities between chimpanzees and humans inspire the empathy felt for a beloved pet. Efforts to extend legal rights to chimpanzees are thus understandable; some day they may even succeed. Courts, however, are slow to embrace change, and occasionally seem reluctant to engage in broader, more inclusive interpretations of the law, if only to the modest extent of affording them greater consideration. As Justice Kennedy aptly observed in Lawrence v Texas, albeit in a different context, “times can blind us to certain truths and later generations can see that laws once thought necessary and proper in fact serve only to oppress.” (539 US 558, 579 [2003].) The pace may now be accelerating. (See Obergefell v Hodges, 576 US —, —, 135 S Ct 2584, 2595 [2015] [granting right to marry to same-sex couples and acknowledging that institution of marriage has evolved over time notwithstanding its ancient origins].)\nFor now, however, given the precedent to which I am bound, it is hereby ordered that the petition for a writ of habeas corpus is denied and the proceeding is dismissed; it is further ordered that respondents’ cross motion to change venue is denied; and it is further ordered that petitioner’s motion to strike the affidavit of Styliani-Anna Tsirka and respondents’ motion to strike the additional evidence offered by petitioner are denied as moot.\n. Petitioner submits nine affidavits: from psychologist James Anderson, who specializes in the behavior of nonhuman primates; psychologist Mary Lee Jensvold, who specializes in chimpanzees’ communication and use of sign language; psychologist James King, who specializes in personality structure and the psychological well-being of chimpanzees and other great apes; psychologist Emily Sue Savage-Rumbaugh, who specializes in language learning and the cognition of chimpanzees and bonobos; psychologist and anthropologist William McGrew, who specializes in the behavior and ecology of chimpanzees; primatologist Christophe Boesch, who specializes in the study of wild chimpanzees; primatologist Tetsuro Matsuzawa, who specializes in chimpanzee intelligence; psychologist and zoologist Jennifer Fugate, who specializes in human and nonhuman social cognition; and cognitive zoologist Mathias Osvath, who specializes in complex cognition, specifically mental representation and planning abilities, of great apes.\n. Respondents also argue that according personhood to Hercules and Leo “could set a precedent for the release of other animals held in captivity, whether housed at a zoo, in an educational institution, on a farm, or owned as a domesticated pet, and enmesh New York courts in continuing litigation over the applicability of habeas corpus to other animals.” (Respondents’ mem of law.)\nThe floodgates argument is not a cogent reason for denying relief. (See Enright v Eli Lilly & Co., 77 NY2d 377, 393 [1991] [“floodgates of litigation” alarm unpersuasive in view of Court’s “repeated admonitions that it is not ‘a ground for denying a cause of action that there will be a proliferation of claims’ and ‘if a cognizable wrong has been committed that there must be a remedy, whatever the burden of the courts’ ”], quoting Tobin v Grossman, 24 NY2d 609, 615 [1969].)\nRespondents also maintain that as petitioner does not seek the release of the chimpanzees from the University, but their transfer to a chimpanzee sanctuary, it has no legal recourse to habeas corpus. (Respondents’ mem of law.) There is, however, authority to the contrary in the First Department. (See McGraw v Wack, 220 AD2d 291, 292-293 [1st Dept 1995] [observing that Court of Appeals approved, sub silentio, use of writ of habeas corpus to secure transfer of mentally ill individual to another institution], citing Matter of Mental Hygiene Legal Servs. v Wack, 75 NY2d 751 [1989].) Consequently, I am not bound by the decision of the Fourth Department in Matter of Nonhuman Rights Project, Inc. v Presti (124 AD3d 1334, 1335 [4th Dept 2015], lv denied 126 AD3d 1430 [4th Dept 2015]).",
+        "type": "majority",
+        "author": "Barbara Jaffe, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Elizabeth Stein, New Hyde Park, and Steven M. Wise, of the Florida bar, admitted pro hac vice, for petitioner.",
+      "Eric T. Schneiderman, Attorney General, New York City 0Christopher Coulston and Michael R. Kelkman of counsel), for respondents.",
+      "The Center for the Study of The Great Ideas, Inc., New York City {Bob H. Kohn of counsel), amicus curiae.",
+      "Kornstein Veisz Wexler & Pollard, LLP, New York City {Daniel J. Kornstein of counsel), amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[16 NYS3d 898]\nIn the Matter of The Nonhuman Rights Project, Inc., on Behalf of Hercules and Another, Petitioner, v Samuel L. Stanley Jr., M.D., as President of State University of New York at Stony Brook, Also Known as Stony Brook University, et al., Respondents.\nSupreme Court, New York County,\nJuly 29, 2015\nAPPEARANCES OF COUNSEL\nElizabeth Stein, New Hyde Park, and Steven M. Wise, of the Florida bar, admitted pro hac vice, for petitioner.\nEric T. Schneiderman, Attorney General, New York City 0Christopher Coulston and Michael R. Kelkman of counsel), for respondents.\nThe Center for the Study of The Great Ideas, Inc., New York City {Bob H. Kohn of counsel), amicus curiae.\nKornstein Veisz Wexler & Pollard, LLP, New York City {Daniel J. Kornstein of counsel), amicus curiae."
+  },
+  "file_name": "1979-01",
+  "first_page_order": 728,
+  "last_page_order": 755
+}

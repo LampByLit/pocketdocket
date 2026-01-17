@@ -1,0 +1,95 @@
+{
+  "id": 12171078,
+  "name": "Jacqueline M. Martin, Petitioner, v. Henri Martin, Respondent",
+  "name_abbreviation": "Martin v. Martin",
+  "decision_date": "2016-10-17",
+  "docket_number": "",
+  "first_page": "1014",
+  "last_page": "1016",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 1014"
+    },
+    {
+      "type": "parallel",
+      "cite": "41 N.Y.S.3d 394"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Town of Red Hook J. Ct.",
+    "id": 23018,
+    "name": "Town of Red Hook Justice Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "62 Misc 2d 812",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1215830
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/62/0812-01"
+      ]
+    },
+    {
+      "cite": "116 NYS2d 801",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "pin_cites": [
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 220,
+    "char_count": 2837,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24696768035510952
+    },
+    "sha256": "ef43a73a76bef4cb9c9d37ab15e20f6b16169f7d4fcffff0a7465bd415244777",
+    "simhash": "1:e8c56e973205b944",
+    "word_count": 458
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jacqueline M. Martin, Petitioner, v Henri Martin, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJonah Triebwasser, J.\nThis proceeding, brought pursuant to section 713 (6) of the Real Property Actions and Proceedings Law, seeks to have the respondent evicted from premises at 129 Orlich Road in the Town of Red Hook, Dutchess County, State of New York. A trial was held on September 2, 2016. Petitioner filed a memorandum of law on September 16, 2016. Respondent filed a memorandum of law on September 23, 2016. Petitioner filed a reply memorandum of law on September 30, 2016. As both parties waived oral argument, the matter was marked fully submitted on September 30, 2016.\nFacts of the Case\nElizabeth Martin (petitioner’s mother and respondent’s wife [hereinafter Mrs. Martin]) conveyed the subject premises to petitioner, retaining a life tenancy in the subject premises for herself. Respondent was not mentioned in the life tenancy agreement, but resided with Mrs. Martin while she was alive. Mrs. Martin died on August 28, 2015, leaving petitioner as the sole owner of the subject premises. There is no evidence of a lease between petitioner and respondent, or a lease between the late Mrs. Martin and respondent, nor is there conclusive testimony of any other type of tenancy between the late Mrs. Martin and respondent or between petitioner and respondent.\nIssue of the Case\nWas respondent a tenant of the life tenant and, therefore, subject to eviction pursuant to RPAPL 713 (6)?\nCourt’s Reasoning and Decision\nIt is well known that “[a] summary proceeding is a statutory remedy and the petition must strictly be construed.” (Blozevich v Tasber, 116 NYS2d 801, 804 [1952]; Goldman Bros. v Forester, 62 Misc 2d 812 [1970].) Therefore, if a petitioner cannot fit his situation into one of the categories in sections 711 or 713 of the Real Property Actions and Proceedings Law, he must be relegated to his action in ejectment.\nPetitioner has failed to prove by a preponderance of the evidence that respondent was a formal tenant of the life tenant, the late Mrs. Martin. Respondent cohabitated with his wife of 54 years (including a period in the subject premises) by virtue of the bonds of matrimony. The petitioner has produced no evidence, statutory authority or case law that would equate the marital relationship with being a tenant of a life tenant as contemplated in RPAPL 713 (6). Therefore, the court hereby dismisses the petition herein, without prejudice to bring another proceeding of removal in an appropriate forum under an appropriate legal theory.",
+        "type": "majority",
+        "author": "Jonah Triebwasser, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Walsh, Wicks & Salisbury, Poughkeepsie (.Roland Butts of counsel), for petitioner.",
+      "Cappillino & Rothschild LLP, Pawling (Jeffrey Rothschild of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[41 NYS3d 394]\nJacqueline M. Martin, Petitioner, v Henri Martin, Respondent.\nJustice Court of the Town of Red Hook, Dutchess County,\nOctober 17, 2016\nAPPEARANCES OF COUNSEL\nWalsh, Wicks & Salisbury, Poughkeepsie (.Roland Butts of counsel), for petitioner.\nCappillino & Rothschild LLP, Pawling (Jeffrey Rothschild of counsel), for respondent."
+  },
+  "file_name": "2465-01",
+  "first_page_order": 1024,
+  "last_page_order": 1026
+}

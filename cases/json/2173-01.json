@@ -1,0 +1,121 @@
+{
+  "id": 4234481,
+  "name": "In the Matter of K.M., Defendant",
+  "name_abbreviation": "In re K.M.",
+  "decision_date": "2016-01-11",
+  "docket_number": "",
+  "first_page": "322",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 322"
+    },
+    {
+      "type": "parallel",
+      "cite": "22 N.Y.S.3d 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "518 US 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1729911
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "10"
+        },
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0001-01"
+      ]
+    },
+    {
+      "cite": "65 NY2d 172",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Misc 3d 487",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3785493
+      ],
+      "pin_cites": [
+        {
+          "page": "496-497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/38/0487-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 497,
+    "char_count": 9114,
+    "ocr_confidence": 0.727,
+    "pagerank": {
+      "raw": 5.676830387708631e-8,
+      "percentile": 0.3558043345384229
+    },
+    "sha256": "e0d3384699c61b790648be0e7f451f2b06621577e0a22aead751817a494d9c4f",
+    "simhash": "1:e8c32c4fb3bfaf91",
+    "word_count": 1410
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of K.M., Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAlexander W. Hunter, Jr., J.\nThe ex parte application by the New York County District Attorney’s Office (the DA) for a subpoena duces tecum directing: (1) the New York State Commissioner of Mental Health (the Commissioner) and the directors of various facilities under his control to make available for examination the psychiatric records of K.M. (the defendant); and (2) hospital staff who treated and evaluated the defendant available for consultation, is granted in part and denied in part.\nOn April 15, 2015, the defendant was committed to the custody of the Commissioner by a Justice of the Supreme Court, New York County, pursuant to CPL 330.20, arising from his prosecution for: (1) attempted rape in the first degree; (2) sexual abuse in the first degree; (3) sexual abuse in the third degree; and (4) stalking in the fourth degree, whereby he pleaded not responsible by reason of mental disease or defect. The defendant was admitted to Kirby Forensic Psychiatric Center (Kirby) on March 4, 2015, pursuant to a commitment order which expired on September 4, 2015.\nOn August 5, 2015, an application for a first order of retention was submitted by the Commissioner. In response, the defendant, through his attorney, Mental Hygiene Legal Services (MHLS), requested a hearing pursuant to CPL 330.20 to determine whether he continues to suffer from a dangerous mental condition. As a result, the DA now moves for an order requesting a certified copy of all records, notes, memoranda and reports, including but not limited to any incident reports, psychological testing data, and records from other hospitals pertaining to the admission, treatment, mental and physical condition of the defendant. In addition, the DA requests that hospital personnel and staff members be made available for consultation. MHLS does not object to the DA’s request for the defendant’s complete psychiatric record, but does object to the request to make hospital personnel who treated the defendant available for questioning, arguing that it is overbroad and that the communications between the defendant and his treating psychiatrist and psychologist are confidential. It is noted that Kirby, represented by the New York State Attorney General’s Office, takes no position on this matter.\nPursuant to statutory procedure following a verdict or plea of not responsible by reason of mental disease or defect, the Commissioner must apply for the first order of retention at least 30 days prior to the expiration of the period prescribed in the commitment order. (See CPL 330.20 [8].) When, as here, a demand is made for a hearing, “the commissioner must establish to the satisfaction of the court that the defendant has a dangerous mental disorder or is mentally ill. The district attorney shall be entitled to appear and present evidence.” (Id.)\nCPLR 4507 provides that “the confidential relations and communications between a psychologist . . . and his client are placed on the same basis as those provided by law between attorney and client, and nothing in such article shall be construed to require any such privileged communications to be disclosed.” Accordingly, the Court of Appeals has held that “a psychologist, like an attorney, may not be called to testify to the accuracy of a client’s story or provide records of psychological treatment, even when the client puts the matter in issue.” (S.B. v U.B., 38 Misc 3d 487, 496-497 [Sup Ct, Kings County 2012], citing People v Wilkins, 65 NY2d 172, 179 [1985].) Further, Mental Hygiene Law § 33.13 (c) (1) provides in pertinent part that\n“information about patients or clients . . . including the identification of patients or clients, clinical records or clinical information tending to identify patients or clients . . . shall not be a public record and shall not be released by the [Commissioner’s] offices or its facilities to any person or agency outside of the offices except . . .\n“pursuant to an order of a court of record requiring disclosure upon a finding by the court that the interests of justice significantly outweigh the need for confidentiality.”\nIn support of its application, the DA argues that: (1) any and all privacy concerns by the defendant are significantly outweighed by the public safety concerns inherent in CPL 330.20 proceedings; and (2) the defendant has waived any privilege as to his mental status insofar as it concerns his plea and subsequent proceedings under CPL 330.20. This court disagrees with that proposition.\nThe importance of psychologist-patient privilege has long been recognized by state and federal courts. The United States Supreme Court in Jaffee v Redmond (518 US 1, 10 [1996]) held that\n“ [1]ike the spousal and attorney-client privileges, the psychotherapist-patient privilege is ‘rooted in the imperative need for confidence and trust.’ . . . Treatment by a physician for physical ailments can often proceed successfully on the basis of a physical examination, objective information supplied by the patient, and the results of diagnostic tests. Effective psychotherapy, by contrast, depends upon an atmosphere of confidence and trust in which the patient is willing to make a frank and complete disclosure of facts, emotions, memories, and fears. Because of the sensitive nature of the problems for which individuals consult psychotherapists, disclosure of confidential communications made during counseling sessions may cause embarrassment or disgrace. For this reason, the mere possibility of disclosure may impede development of the confidential relationship necessary for successful treatment.”\nFurthermore, contrary to the DA’s position, there is no provision in the statute that provides that a defendant committed pursuant to a commitment order automatically waives confidentiality. (See CPL 330.20.) To the contrary, Mental Hygiene Law § 33.13 expressly prevents disclosure unless there is a finding that the interests of justice significantly outweigh the need for confidentiality.\nIn the case at bar, this court finds that the need for the level of disclosure requested by the DA does not significantly outweigh the defendant’s right to confidentiality. To prepare for the underlying proceeding, the DA may examine the defendant’s complete psychiatric record. If upon review of the record, the DA believes that it must discuss the findings contained therein with the Kirby personnel who evaluated the defendant, the DA may interview a member of Kirby’s Psychiatric Committee (the Committee) who evaluated and diagnosed the defendant in connection with the underlying proceeding, thus eliminating any need to disturb the psychotherapist-patient privilege.\nFor the reasons set forth above, this court grants the ex parte application by the DA for a subpoena to examine the defendant’s psychiatric records, but denies the DA’s request to have the defendant’s treating psychiatrist and/or psychologist available for consultation as the communications between the defendant and his treating psychiatrist/psychologist are confidential, and the DA has failed to put forth a valid argument as to why the interests of justice significantly outweigh the need for confidentiality. “The mental health of our citizenry, no less than its physical health, is a public good of transcendent importance.” (Jaffee v Redmond, 518 US 1, 11 [1996].) To that end, “[t]he psychotherapist privilege serves the public interest by facilitating the provision of appropriate treatment for individuals suffering the effects of a mental or emotional problem [and must be preserved].” (Id.) If, however, upon review of the records, the DA believes that it cannot present sufficient evidence to assist the Attorney General in meeting its burden in the underlying proceeding, an application may be made to the court outlining the specific need to interview the defendant’s treating psychiatrist/psychologist.\nAccordingly, it is hereby adjudged, that the ex parte application by the New York County District Attorney’s Office for a subpoena duces tecum directing the New York State Commissioner of Mental Health and the directors of various facilities under his control to make available for examination, the psychiatric records of K.M. is granted. The New York County District Attorney’s Office’s request that hospital personnel who treated the defendant be made available for consultation, is denied.\nIt is noted that the Committee, which is composed of one psychiatrist, one psychologist and one licensed certified social worker, met and evaluated the defendant on July 28, 2015 in the presence of his MHLS attorney. He was informed of the purpose of the evaluation and waived confidentiality.",
+        "type": "majority",
+        "author": "Alexander W. Hunter, Jr., J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Cyrus R. Vance, Jr., District Attorney, New York City (Karen Edelman-Reyes of counsel), for New York County District Attorney’s Office.",
+      "Mental Hygiene Legal Services, Ward’s Island {Mary Beth Feerick of counsel), and Eric T. Schneiderman, Attorney General, New York City {Jose Velez of counsel), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[22 NYS3d 357]\nIn the Matter of K.M., Defendant.\nSupreme Court, New York County,\nJanuary 11, 2016\nAPPEARANCES OF COUNSEL\nCyrus R. Vance, Jr., District Attorney, New York City (Karen Edelman-Reyes of counsel), for New York County District Attorney’s Office.\nMental Hygiene Legal Services, Ward’s Island {Mary Beth Feerick of counsel), and Eric T. Schneiderman, Attorney General, New York City {Jose Velez of counsel), for respondents."
+  },
+  "file_name": "2173-01",
+  "first_page_order": 334,
+  "last_page_order": 338
+}

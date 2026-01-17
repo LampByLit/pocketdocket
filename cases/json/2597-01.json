@@ -1,0 +1,484 @@
+{
+  "id": 12434444,
+  "name": "The People of the State of New York, Plaintiff, v. Ana L. Urena, Defendant",
+  "name_abbreviation": "People v. Urena",
+  "decision_date": "2016-11-16",
+  "docket_number": "",
+  "first_page": "978",
+  "last_page": "989",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 978"
+    },
+    {
+      "type": "parallel",
+      "cite": "41 N.Y.S.3d 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S Ct 2001",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12589931
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "2010",
+          "parenthetical": "the general requirement that defendant act knowingly is itself an adequate safeguard of the defendant's due process rights"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2001-01"
+      ]
+    },
+    {
+      "cite": "511 US 600",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147026
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0600-01"
+      ]
+    },
+    {
+      "cite": "342 US 246",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641097
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0246-01"
+      ]
+    },
+    {
+      "cite": "218 US 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8285700
+      ],
+      "year": 1910,
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/218/0057-01"
+      ]
+    },
+    {
+      "cite": "368 SE2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 NC App 161",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8523142
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/90/0161-01"
+      ]
+    },
+    {
+      "cite": "448 NW2d 845",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Mich App 348",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2307962
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/181/0348-01"
+      ]
+    },
+    {
+      "cite": "383 NE2d 76",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Mass App Ct 697",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        5733082
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/6/0697-01"
+      ]
+    },
+    {
+      "cite": "159 Colo 190",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        5318620
+      ],
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/159/0190-01"
+      ]
+    },
+    {
+      "cite": "258 US 250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1479181
+      ],
+      "weight": 2,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "251-253"
+        },
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/258/0250-01"
+      ]
+    },
+    {
+      "cite": "946 P2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        11895993
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/946/0875-01"
+      ]
+    },
+    {
+      "cite": "260 NY 138",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2002676
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/260/0138-01"
+      ]
+    },
+    {
+      "cite": "21 Misc 3d 471",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3926509
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/21/0471-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 317",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4068821
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "329-330",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0317-01"
+      ]
+    },
+    {
+      "cite": "2016 NY Slip Op 51155",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Misc 3d 1214",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Misc 3d 610",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4069567
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0610-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 982",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4420913,
+        4420740
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0982-01",
+        "/ny-2d/78/0982-02"
+      ]
+    },
+    {
+      "cite": "164 AD2d 605",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1009637
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/164/0605-01"
+      ]
+    },
+    {
+      "cite": "276 AD2d 51",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        539422
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/276/0051-01"
+      ]
+    },
+    {
+      "cite": "133 AD2d 77",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5700684
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/133/0077-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393478
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0099-01"
+      ]
+    },
+    {
+      "cite": "99 NY2d 443",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        294997
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/99/0443-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 150",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5688972
+      ],
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0150-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 243",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        983958
+      ],
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0243-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 288",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2553265,
+        2008898
+      ],
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0288-01",
+        "/ny/7/0288-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 1129",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4003340
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/1129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1027,
+    "char_count": 23425,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25630760712304074
+    },
+    "sha256": "bb55b1bc6b51decbe9e0a360686c05b739fe6451619cf7f6de6cd2ed55c27fe3",
+    "simhash": "1:82b44d839e2527a8",
+    "word_count": 3716
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Ana L. Urena, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nKaren Gopee, J.\nDefendant seeks dismissal of Administrative Code of the City of New York § 19-190, a statute enacted as part of Mayor de Blasio’s Vision Zero initiative, on both state and federal constitutional grounds. Defendant asserts that Administrative Code § 19-190: (1) is preempted by the Vehicle and Traffic Law, (2) is preempted by the Penal Law and (3) denies the defendant’s due process rights by imposing a “civil” negligence due care standard. Specifically, she alleges that criminal statutes require some degree of mental or moral culpability, that strict liability although constitutional, requires culpability or knowing, and that the appropriate negligence standard to be applied is “gross negligence.” The District Attorney’s Office and New York City Corporation Counsel filed written opposition. The court finds defendant’s arguments without merit and unconvincing. Accordingly, defendant’s motion is denied.\nBackground\nDefendant is charged with violating Administrative Code § 19-190, failure to yield the right-of-way to pedestrians or bicyclists, and Vehicle and Traffic Law § 1146 (a), failure of drivers to exercise due care. The criminal court information alleges that the defendant, while operating a work van, turned from Maple Street onto Main Street, in Queens, New York, on February 20, 2015 at approximately 7:54 p.m., striking and killing Zhu Jao Lin, a pedestrian on the Main Street crosswalk. According to the information, defendant admitted to driving, turning and stopping when she heard a thump on the side of her van.\nThe Vehicle and Traffic Law Does Not Preempt Administrative Code § 19-190\nPreemption of a local law occurs when there is a conflict between state and local law. Field preemption occurs when the state legislature has explicitly or implicitly stated its intention to be the sole arbiter in a certain area of law. Conflict preemption occurs when a local law is inconsistent with the state law. “Inconsistent,” in this context, is not “narrowly defined as meaning different.” “[T]he mere fact that both the State and local governments seek to regulate the same subject matter does not, in and of itself, render the local legislation invalid on preemption grounds.” “In order to satisfy the inconsistency prong, it must be shown that the local law permits conduct prohibited by State law, ... or imposes restrictions on rights granted by the State.”\nField Preemption\nHere, no field preemption exists over the rules and regulations of New York State roadways, motorists or pedestrians. While the Vehicle and Traffic Law imposes consistent rules and regulations on drivers and pedestrians throughout the state and restricts and invalidates enactment or enforcement of inconsistent laws, it was not intended to be the sole governing body in the area. The State Constitution’s home rule provision confers broad power upon local government relating to the welfare of its citizens. Cities having a population in excess of one million, like New York City, are authorized, under Vehicle and Traffic Law § 1642, to restrict and regulate traffic and pedestrian use of any highway by local law, ordinance, order, rule, regulation or health code provision. Moreover, Vehicle and Traffic Law § 1642 expressly allows local rules to supersede the state law (Vehicle and Traffic Law) in 27 enumerated areas, if in conflict. This deference to local authorities explicitly shows that the state legislature did not intend the Vehicle and Traffic Law to preempt the field.\nConflict Preemption\nDefendant asserts that state law Vehicle and Traffic Law § 1146 and local law Administrative Code § 19-190 are in direct conflict, therefore preempting and invalidating Administrative Code § 19-190.\nAdministrative Code § 19-190 requires a motorist to yield to a pedestrian or cyclist with the right-of-way. Failure to do so is a traffic infraction. And, where an injury results, the offense is elevated to an unclassified misdemeanor. Under Administrative Code § 19-190 (c), it is an affirmative defense if the motorist can establish that due care was exercised.\nVehicle and Traffic Law § 1146 requires every motorist to exercise due care to avoid colliding with a bicyclist, pedestrian, or domestic animal upon any roadway. If the failure to do so results in an injury, the motorist can be charged with a traffic infraction; where the motorist had a proceeding conviction for the same offense within five years, with a class B misdemeanor.\nLegislative History\nVehicle and Traffic Law § 1146 was enacted in 1984. It required every motorist to exercise due care to avoid colliding with a bicyclist, pedestrian, or domestic animal upon any roadway. Violators of this statute could be charged with a traffic infraction and be penalized by a fine and/or jail. In 2010, the law was amended in response to public outcry after a motorist struck and killed four-year-old Hayley Ng and three-year-old Diego Martinez on a public sidewalk in Chinatown. Subdivisions (b), (c) and (d) were added, defining the statute as a traffic infraction and imposing punishment by the level of injury sustained. If physical injury occurred, as defined in the Penal Law, a motorist could face a fine of up to $500 and jail up to 15 days. If serious physical injury occurred, as defined in the Penal Law, the motorist could face a fine up to $750 and up to 15 days in jail, along with a vehicle accident prevention course and/or suspension of his/her license and/or registration. Repeat offenders, within five years, could be charged with a class B misdemeanor. The amendment also created a rebut-table presumption that the motorist’s failure to exercise due care resulted in the injury sustained.\nDespite the stricter penalties imposed by the 2010 amendments, the number of pedestrian fatalities did not decrease and many motorists were not charged. In 2014, Mayor de Blasio adopted a Vision Zero initiative in New York City. Vision Zero is a comprehensive plan designed to improve street safety, expand enforcement of moving violations, modify street designs and broaden public outreach. To accomplish this, New York City’s speed limit was lowered to 25 miles per hour, red light camera enforcement was increased, and proposals were made to increase the existing penalties for leaving the scene of an accident, driving with a suspended license and “careless” driving.\nAs part of the Mayor’s Vision Zero initiative, the New York City Legislature enacted Administrative Code § 19-190 entitled “Right of Way” in 2014. Under the law, a motorist who fails to exercise due care and strikes and injures a pedestrian or a cyclist with the right-of-way can be charged with an unclassified misdemeanor. The law was intended to penalize motorists who caused injury while failing to exercise due care, with a misdemeanor instead of a traffic infraction, in essence increasing the penalties and enforcement of Vehicle and Traffic Law § 1146 in New York City.\nSide-by-side comparisons of Administrative Code § 19-190 and Vehicle and Traffic Law § 1146 reveal that both laws punish motorists who fail to exercise due care and fail to yield the right-of-way. While there are slight differences as to the language and who may be affected (pedestrians, bicyclists or animals), the laws are consistent in language and intent, impose a duty to exercise due care and seek to protect anyone with the right-of-way.\nThe significant difference between the laws are the possible consequences and penalties. Under Administrative Code § 19-190, a motorist who fails to yield without causing injury can be charged with a traffic infraction. If the motorist injures a pedestrian or bicyclist while failing to yield, the motorist is charged with a misdemeanor. Under Vehicle and Traffic Law § 1146, a motorist is not charged unless a pedestrian, bicyclist or animal is injured. If there is an injury, the motorist is charged with a traffic infraction. Repeat offenders, within the preceding five years, would be charged with a misdemeanor. It is clear that this difference in penalty may result in inconsistencies in whether a motorist is charged, what the motorist is charged with and the potential penalty a motorist faces. However, despite this potential serious difference in outcome, this inconsistency does not warrant preemption. Preemption is only required if Administrative Code § 19-190 conflicts with conduct prohibited by the state (both restrict the same conduct), prohibits conduct specifically permitted by the state (both seek to regulate the same conduct), or impose restrictions on rights granted by the state (it imposes stricter restrictions).\nMoreover, even if a conflict existed or a due process violation was found—potential inconsistent applicability, enforcement and level of punishment of both laws—Administrative Code § 19-190 would supercede Vehicle and Traffic Law § 1146. Vehicle and Traffic Law § 1642 (a) (10) expressly permits local law to supercede state law in the area of pedestrian and vehicle right-of-way. In fact, this may have been the intention of the city authorities in enacting Administrative Code § 19-190, whose aim was to “enhance” the existing penalty of motorists failing to yield.\nAccordingly, the Vehicle and Traffic Law (and in particular Vehicle and Traffic Law § 1146) does not preempt Administrative Code § 19-190 either by field or conflict preemption.\nThe Penal Law Does Not Preempt Administrative Code § 19-190\nThe defendant alleges that the Penal Law is a comprehensive criminal statute that outlines the requirements of criminal culpability in New York. Specifically, she argues that Penal Law §§ 15.05 through 15.15 exclusively delineate culpable mental states. She reasons that any standard not within the Penal Law, like the due care standard enumerated in Administrative Code § 19-190, must therefore be invalid as preempted by the Penal Law.\nWhile Penal Law §§ 15.05 through 15.15 identify culpable mental states, including strict liability, which encompass the majority of criminal offenses in the State of New York, it is not exclusive. Criminal courts have recognized additional mental states. “Depraved indifference to human life” was held to be a culpable mental state by the New York Court of Appeals in People v Williams (24 NY3d 1129 [2015]) and People v Feingold (7 NY3d 288, 294 [2006]). And “due care,” the very standard that defendant challenges, is required in Vehicle and Traffic Law § 1146. Since alternate mental states are recognized, the Penal Law is not the sole authority in this area, and therefore does not enjoy field preemption.\nConstitutionality of a “Due Care” Standard in a Criminal Statute\nThe defendant argues that Administrative Code § 19-190 violates her constitutional rights by applying a civil due care standard. Specifically, she argues, that criminal statutes require some degree of mental or moral culpability, that strict liability, although constitutional, requires culpability or knowing, and that the appropriate negligence standard to be applied is “gross negligence.”\nDuly enacted statutes enjoy a “presumption of constitutionality” (see Dalton v Pataki, 5 NY3d 243, 255 [2005]). A party who asserts that a statute is facially unconstitutional (as opposed to unconstitutional only as applied to her) “bears the substantial burden of demonstrating that in any degree and in every conceivable application, the law suffers wholesale constitutional impairment” (Matter of E.S. v P.D., 8 NY3d 150, 158 [2007], quoting Matter of Moran Towing Corp. v Urbach, 99 NY2d 443 [2003]).\nTo successfully challenge Administrative Code § 19-190 on constitutional grounds, defendant would have to demonstrate beyond a reasonable doubt that the statute (1) unjustifiably restricts a constitutional right, (2) fails to provide notice of prohibited conduct or (3) encourages or permits arbitrary or discriminatory enforcement.\nIn her motion, defendant does not challenge the statute on either adequate notice or arbitrary enforcement grounds. When the statute has been challenged on those grounds, courts of concurrent jurisdictions have held that the due care standard has a common definition recognized in law and in life, provides notice to a person of ordinary intelligence of the forbidden conduct and gives clear guidelines for enforcement.\nThe sole remaining issue is whether the due care standard enumerated in Administrative Code § 19-190 (and presumably Vehicle and Traffic Law § 1146) unjustifiably restricts defendant’s constitutional rights by not requiring a more stringent standard of care and/or mens rea of defendant’s wrongdoing.\nAdministrative Code § 19-190 requires a motorist to yield to a pedestrian or cyclist with the right-of-way. Failure to do so is a traffic infraction. When an injury results, the motorist can be charged with an unclassified misdemeanor. Administrative Code § 19-190 (c) makes it an affirmative defense, if the motorist can establish that due care was exercised.\nConviction of the misdemeanor requires proof beyond a reasonable doubt that (1) the defendant operated a motor vehicle, (2) defendant’s vehicle collided with a pedestrian or cyclist, (3) the pedestrian or cyclist was in the roadway properly and in compliance with promulgated rules and regulations, (4) the defendant failed to yield to the pedestrian or cyclist in violation of road rules and regulations and (5) the pedestrian or cyclist was injured as a result. Circumstances in which a pedestrian or cyclists darts out onto the road or enters the roadway against traffic signs or signals would not be subject to prosecution under the law. Conviction in this context requires more than an accidental collision; it requires findings that the pedestrian or cyclist had the right-of-way, the driver failed to recognize that right-of-way, failed to wait for the pedestrian or cyclist to clear the roadway, and collided with the pedestrian or cyclist, causing injury.\nThe statute allows for an affirmative defense that the motorist exercised due care. “Due care” is defined by Black’s Law Dictionary as being synonymous with reasonable care—“the degree of [reasonable] care that a prudent [driver] and competent person engaged in the same . . . endeavor would exercise under similar circumstances.” (Black’s Law Dictionary 255 [10th ed 2014].) In the context of Administrative Code § 19-190 (and related Vehicle and Traffic Law § 1146), due care has been defined as the “care of a reasonably prudent and competent driver to avoid colliding with pedestrians [and] cyclists.”\nAdministrative Code § 19-190 (and Vehicle and Traffic Law § 1146) are not the only New York criminal statutes that use a due care-reasonable standard. Vehicle and Traffic Law § 1212, reckless driving, makes it an unclassified misdemeanor punishable up to 30 days in jail, if a motorist “driv[es] or us[es] any motor vehicle . . . in a manner which unreasonably interferes with the free and proper use of [a] public highway [, road, street, or avenue], or unreasonably endangers users of [a] public highway], road, street, or avenue]” (emphasis added). The New York Court of Appeals determined that the standard of care or mens rea applicable to reckless driving is simple negligence, not recklessness. The Court defined “unreasonably interferes” and “unreasonably endangers” to mean that the driver endangered another “through the failure to exercise reasonable care, reasonable caution or the reasonable foresight of a reasonably prudent and careful person.”\nGiven that a due care-reasonably prudent standard is recognized in several New York criminal statutes and has been upheld by the Court of Appeals, it is clear that the standard is accepted, and therefore does not unjustifiably restrict defendant’s state constitutional rights.\nSimple Negligence in Criminal Statutes Accepted by Other Jurisdictions\nFurthermore, New York is not alone in criminalizing drivers who negligently injure or kill. The Supreme Court has explicitly held “where one deals with others and his mere negligence may be dangerous to them . . . the policy of the law may, in order to stimulate proper care, require the punishment of the negligent person.” Kansas criminalizes motorists who cause the death of someone in material deviation of “the standard of care ... a reasonable person would observe under the same circumstances.” In Michigan, it is a statutory offense to cause death by ordinary negligent operation of a motor vehicle. Colorado criminalizes ordinary negligence when a motorist causes death while under the influence of alcohol.\nSimilar to New York, when the negligence standard was challenged as constitutionally vague, courts in other jurisdictions have upheld the negligence standard. For example, the Massachusetts appellate court held that a statute proscribing negligent operation of a motor vehicle resulting in death was not unconstitutionally vague; the Michigan appellate court held that a vehicular homicide statute based on ordinary negligence did not violate due process; and the North Carolina appellate court held that a conviction of misdemeanor death by vehicle based on ordinary negligence did not violate due process.\nMens Rea Requirement\nFinally, lack of intent does not in itself invalidate a statute. Whether or not scienter is an element of the charged offense “is a question of legislative intent” and up to the interpretation of the court. The United States Supreme Court has held that “the elimination of intent as an element of an offense” is not contrary to the due process clause, and concerns about eliminating a mens rea would not justify “disregard of a clear command to that effect from Congress.”\nHere, the court cannot ignore the mens rea of a crime absent some indication that it was the legislature’s intent. The legislature explicitly designated a lack of “due care” as the culpable mental state and there is, accordingly, no need for the court to read a more stringent mental state into the law, nor is there a basis for the court to invalidate the law based on the absence of a more stringent standard.\nEven if a court were to conclude that “due care” is an improper criminal standard and find that the statute requires an intent or failure to act requirement, as the defendant herself concedes, the court would appropriately read some form of scienter into the statute, or impose a strict liability standard, rather that invalidating the statute.\nAs defendant has not met her burden to demonstrate that Administrative Code § 19-190 suffers wholesale constitutional impairment in every degree and conceivable application, either on preemption or due process grounds, defendant’s motion is denied.\n. Corporation Counsel filed a written motion defending the constitutionality of Administrative Code § 19-190, but did not otherwise appear on the case.\n. See Consolidated Edison Co. of N.Y. v Town of Red Hook, 60 NY2d 99, 105 (1983).\n. See Sherman v Town of Rhinebeck, 133 AD2d 77 (2d Dept 1987).\n. Matter of Zorn v Howe, 276 AD2d 51, 55 (3d Dept 2000).\n. Ba Mar v County of Rockland, 164 AD2d 605, 612 (2d Dept 1991), lv denied 78 NY2d 982 (1991).\n. Zorn at 55.\n. Vehicle and Traffic Law §§ 1600, 1604.\n. See NY Const, art IX, § 2 (c); Municipal Home Rule Law § 10 (1) (i), (ii) (a) (12); see also People v Lillian Mack-Todd, Crim Ct, Kings County, 2015, Walker, J., docket No. 2015KN003485.\n. The New York State Department of Motor Vehicles and the New York City Department of Transportation reported in 2008: 172 pedestrian and cyclist fatalities, 92 motorists charged under Vehicle and Traffic Law § 1146; 2009: 170 fatalities, 87 motorists charged; 2010: 167 fatalities, 98 motorists charged; and in 2011: 161 fatalities, 84 motorists charged (Brad Aaron, Streetsblog NYC, No More Excuses: Albany Bill Tells NYPD How to Enforce Careless Driving, http://www.streetsblog.org/2012/05/24/no-more-excuses-albany-bill-tells-nypd-how-to-enforce-careless-driving/ [May 24, 2012]).\n. Vision Zero is a worldwide initiative aimed at reducing traffic fatalities that began in Sweden in 1997 and has been adopted in Canada, the Netherlands, the United Kingdom and throughout the United States. Between 2012 and the present, Vision Zero safety plans exist in at least 14 cities across the United States including Austin, Boston, Chicago, Fort Lauderdale, Los Angeles, New York City, Portland, Santa Barbara, San Diego, San Francisco, San Jose, San Mateo, Seattle and Washington DC.\n. See City of New York, Vision Zero, http://www.nyc.gov/site/visionzero/ index.page (strengthen laws that punish drivers who carelessly harm pedestrians or bicyclists).\n. City of New York, Vision Zero: Initiatives Legislation, http:// www.nyc.gov/html/visionzero/pages/initiatives/legislation.shtml.\n. “Notwithstanding the provisions of any other law to the contrary, every driver of a vehicle shall exercise due care to avoid colliding with any bicyclist, pedestrian, or domestic animal [on] any roadway.” (Vehicle and Traffic Law § 1146 [a].)\n. People v Hossain, 50 Misc 3d 610, 614 (Crim Ct, NY County 2015).\n. See People v Hossain; see also People v Green, 52 Misc 3d 1214(A), 2016 NY Slip Op 51155(U) (Crim Ct, Queens County 2016); People v Gallagher, 50 Misc 3d 317 (Crim Ct, Bronx County 2015).\n. See Vehicle and Traffic Law, art 27, §§ 1150-1157 (outlining pedestrian rules and regulations); Vehicle and Traffic Law, art 34, §§ 1230-1241 (outlining bicyclists rules and regulations); 34 RCNY 4-04.\n. See Vehicle and Traffic Law, art 26, §§ 1140-1146 (outlining right-of-way for motorists).\n. People v Gallagher, 50 Misc 3d 317, 329-330 (Crim Ct, Bronx County 2015) (emphasis added).\n. A violation of Vehicle and Traffic Law § 1212 is punishable by up to 30 days in jail on a first conviction, up to 90 days on a second conviction within the past 18 months, and up to 180 days on a third conviction within the past 18 months (see Vehicle and Traffic Law § 1801).\n. See People v Badke, 21 Misc 3d 471 (Suffolk County Ct 2008); People v Grogan, 260 NY 138 (1932).\n. Grogan at 149 (emphasis added).\n. The Supreme Court of Alaska, in the noted Exxon Valdez case, State v Hazelwood, 946 P2d 875 (Alaska 1997).\n. United States v Balint, 258 US 250, 251-253 (1922).\n. See Kansas Statutes Annotated § 21-5406. (Material deviation means conduct amounting to more than simple or ordinary negligence but less than gross negligence [Kan Stat Ann § 21-5406 (c)].)\n. See Daniels v People, 159 Colo 190, 411 P2d 316 (1966).\n. See Commonwealth v Burke, 6 Mass App Ct 697, 383 NE2d 76 (1978).\n. See People v Olson, 181 Mich App 348, 448 NW2d 845 (1989).\n. See State v Smith, 90 NC App 161, 368 SE2d 33 (1988).\n. See United States v Balint, 258 US 250, 252 (1922).\n. See Shevlin-Carpenter Co. v Minnesota, 218 US 57, 67 (1910).\n. See Morissette v United States, 342 US 246, 254 n 14 (1952).\n. See Staples v United States, 511 US 600, 606 (1994).\n. See Elonis v United States, 575 US —, —, 135 S Ct 2001, 2010 (2015) (the general requirement that defendant act knowingly is itself an adequate safeguard of the defendant’s due process rights).",
+        "type": "majority",
+        "author": "Karen Gopee, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Legal Aid Society (Arielle Adams of counsel) for defendant.",
+      "Richard A. Brown, District Attorney (Michael Curtis of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[41 NYS3d 864]\nThe People of the State of New York, Plaintiff, v Ana L. Urena, Defendant.\nCriminal Court of the City of New York, Queens County,\nNovember 16, 2016\nAPPEARANCES OF COUNSEL\nThe Legal Aid Society (Arielle Adams of counsel) for defendant.\nRichard A. Brown, District Attorney (Michael Curtis of counsel), for plaintiff."
+  },
+  "file_name": "2597-01",
+  "first_page_order": 966,
+  "last_page_order": 977
+}

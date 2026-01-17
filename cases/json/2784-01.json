@@ -1,0 +1,197 @@
+{
+  "id": 12298340,
+  "name": "In the Matter of Bethany Kosmider, Petitioner, v. Mark Whitney et al., as Commissioners of the Essex County Board of Elections, et al., Respondents",
+  "name_abbreviation": "Kosmider v. Whitney",
+  "decision_date": "2017-01-19",
+  "docket_number": "",
+  "first_page": "354",
+  "last_page": "363",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "46 N.Y.S.3d 403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "119 AD3d 1140",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4136964
+      ],
+      "pin_cites": [
+        {
+          "page": "1141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/1140-01"
+      ]
+    },
+    {
+      "cite": "235 AD2d 44",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1227526
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "46"
+        },
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/235/0044-01"
+      ]
+    },
+    {
+      "cite": "62 NY2d 75",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347444
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/62/0075-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4404421
+      ],
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0562-01"
+      ]
+    },
+    {
+      "cite": "74 AD3d 1417",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5747534
+      ],
+      "pin_cites": [
+        {
+          "page": "1418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/1417-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 267",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320046
+      ],
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0267-01"
+      ]
+    },
+    {
+      "cite": "54 AD3d 154",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3791050
+      ],
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/54/0154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 754,
+    "char_count": 19072,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25019354410237815
+    },
+    "sha256": "a287aea4fd1c9797bd8539c5860b00f217a026508d4da6adeb07d1434315b52b",
+    "simhash": "1:b69dae60111ace5c",
+    "word_count": 3063
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Bethany Kosmider, Petitioner, v Mark Whitney et al., as Commissioners of the Essex County Board of Elections, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMastín D. Auffredou, J.\nIn this CPLR article 78 proceeding, the court must interpret Election Law § 3-222, entitled, “Preservation of ballots and records of voting machines,” and decide whether, under that section, copies of electronic voting ballot images are public records subject to release under the Freedom of Information Law (FOIL) (Public Officers Law art 6) or, whether section 3-222 requires that copies of electronic voting ballot images can only be disclosed upon a court order. The pertinent provisions of Election Law § 3-222 which give rise to the dispute provide as follows:\n“1. Except as hereinafter provided, removable memory cards or other similar electronic media shall remain sealed against reuse until such time as the information stored on such media has been preserved in a manner consistent with procedures developed and distributed by the state board of elections. Provided, however, that the information stored on such electronic media and all the data and figures therein may be examined upon the order of any court or judge of competent jurisdiction\n“2. Voted ballots shall be preserved for two years after such election and the packages thereof may be opened and the contents examined only upon order of a court or judge of competent jurisdiction.”\nIn December 2015, petitioner Bethany Kosmider asked Essex County Board of Elections Commissioners Mark Whitney and Allison McGahay (hereinafter collectively referred to as respondent Commissioners, or, individually, as respondent Whitney and respondent McGahay, respectively) for copies of the electronic voting ballot images recorded by the voting machines used by Essex County in the November 3, 2015 general election. When respondent Commissioners could not agree upon a response to petitioner’s request, they referred the matter to the Essex County Attorney, Daniel T. Manning, III, Esq. (County Attorney), who also serves as Essex County’s Records Access Officer. Based upon his research, the County Attorney interpreted Election Law § 3-222 (1) to mean that when voting records stored on removable memory cards or other similar electronic media have been preserved, the information cannot be disclosed or examined except by court order and denied the request. In addition, because the County Attorney could identify no distinction between a voted paper ballot and a copy of a voted ballot which exists in electronic media, he concluded that Election Law § 3-222 (2) mandates the records can only be examined upon a court order until expiration of the two year preservation period. In sum and substance, the County Attorney concluded that because Election Law § 3-222 requires a court order for release of voted ballots, the records are “specifically exempted from disclosure” under Public Officers Law § 87 (2) (a).\nPetitioner appealed the denial of the request to respondent William B. Ferebee, Chairman of the Board of Supervisors of Essex County (respondent Ferebee). Respondent Ferebee denied the appeal, stating,\n“The second sentence of Section 3-222 (1) provides that the information on removable memory cards may be examined only upon court order. There is nothing in Section 3-222 (1) which addresses voted ballots copied on to electronic media. This section only relates to the removable memory cards and the prohibition of their reuse.”\nLike the County Attorney, respondent Ferebee concluded there is no distinction between a voted paper ballot and a copy of a ballot electronically recorded. Thus, respondent Ferebee concluded that Election Law § 3-222 (2) requires that a court order be obtained to examine all voted ballots until expiration of the two year preservation period.\nOf note, in the decision denying the appeal, respondent Fere-bee stated:\n“At the outset, neither Mr. Manning nor I would have a problem releasing the requested information but for the language of Section 3-222 which requires a Court Order. It would be much easier and less time consuming for the County to simply comply with your request, however the vagary and inartfullness of the statute, and its lack of clarity forces me to err on the side of caution and to respectfully deny your request.”\nPetitioner then commenced this CPLR article 78 proceeding. Petitioner maintains that the denial of the FOIL request is erroneous as a matter of law and that the electronic images and cast vote records created by the ballot scanners are accessible pursuant to FOIL. In addition, petitioner maintains that there was no reasonable basis to deny the FOIL request and, therefore, the court should award petitioner attorney’s fees under Public Officers Law § 89 (4) (c) (i).\nIn support of the petition, petitioner presents the affidavit of Douglas A. Kellner, who serves as Co-Chair and one of four Commissioners of the New York State Board of Elections. Mr. Kellner maintains that Election Law § 3-222 (2) “requires a court order for examination of original voted ballots,” and, in contrast, section 3-222 (1) provides that “a court order is required for examination of voting machines’ removable cards ‘until such time as the information stored on such media has been preserved.’ ” According to Mr. Kellner,\n“once the ballot images and cast vote records have been transferred to permanent storage media, there is no longer any reason to limit public access to copies of those electronic records, even though the original voted paper ballots must remain sealed for two years, unless there is a court order.”\nIn further support of the petition, petitioner references a February 21, 2014 advisory opinion of Robert J. Freeman, Executive Director of the State of New York Department of State Committee on Open Government, in which Mr. Freeman offers his interpretation of Election Law § 3-222. According to Mr. Freeman, “there is nothing in the language of subdivision (1) of § 3-222 specifying that electronic images of ballots cast are confidential or ‘exempted from disclosure.’ ” Mr. Freeman emphasizes a distinction between subdivisions (1) and (2) and opines that subdivision (2) expressly exempts voted ballots from disclosure during the two year preservation period absent a court order.\nRespondent Whitney supports the petition. Respondent Whitney’s position is that the electronic images created by ballot scanners are accessible under FOIL.\nRespondent McGahay opposes the petition and asserts nine affirmative defenses in her verified answer. With respect to affirmative defenses “First,” “Second” and “Fourth” through “Eighth,” the court finds that these affirmative defenses are misplaced because petitioner does not challenge the results of the November 3, 2015 general election. Rather, petitioner seeks access to public records under FOIL. In the “Third” affirmative defense, respondent McGahay asserts that this proceeding is barred by the doctrine of laches. The court finds this affirmative defense unavailing. Respondent McGahay’s “Ninth” affirmative defense asserts that the County Attorney, as the Records Access Officer for Essex County, is a necessary party and petitioner has failed to name the County Attorney as a party. The court disagrees. Respondent Ferebee made the final determination which is challenged in this CPLR article 78 proceeding. Respondent McGahay presents no legal argument or case citation to support the contention that the County Attorney is a necessary party in this proceeding.\nTogether with a verified answer and return, in opposition to the petition, respondent Ferebee presents the affidavit of Daniel T. Manning, III, Esq., the affidavit of respondent Fere-bee and the affidavit of Peter S. Kosinski, a Co-Chair and a Commissioner of the New York State Board of Elections. According to Mr. Kosinski, “The memory devices for the voting systems contain exact copies of the voted ballots and they are sealed against reuse for a limited time, but there is no provision which allows access to the voted ballots.” Further,\n“the Election Law is clear in providing for finality in elections once the counting of ballots and statutorily allowed challenges have occurred. Ballot images contained on removable memory devices are copies of the ballots and as such may not be released absent a court order or upon the request of the committee of the legislature.”\nMr. Kosinski maintains that judicial intervention is available to review ballots, through a court action, which “allows transparency while at the same time providing a control against frivolous complaints or fishing expeditions designed to undermine the legitimacy of the election.” Respondent Ferebee asserts in his affidavit in opposition to the petition:\n“In my opinion, Section 3-222 (2) is very clear that any ‘voted’ ballots whether they be the actual ballots, copies of ballots or electronic ballot images must be preserved for two (2) years after the election and may only be opened and examined by court order or a senate or assembly committee.”\nIt is well settled that the “purpose of FOIL is ‘[t]o promote open government and public accountability’ with the law imposing ‘a broad duty on government to make its records available to the public’ ” (Matter of Tuck-It-Away Assoc., L.P. v Empire State Dev. Corp., 54 AD3d 154, 162 [1st Dept 2008], quoting Matter of Gould v New York City Police Dept., 89 NY2d 267, 274 [1996]), and that courts are required to construe FOIL liberally so that government records are presumptively available for public inspection unless a statutory exemption applies (Matter of Schenectady County Socy. for the Prevention of Cruelty to Animals, Inc. v Mills, 74 AD3d 1417, 1418 [3d Dept 2010]). Under FOIL, a public agency may deny access to records or portions thereof if they are “specifically exempted from disclosure by state or federal statute” (Public Officers Law § 87 [2] [a]).\n“So long as there is a clear legislative intent to establish and preserve confidentiality of records, a State statute need not expressly state that it is intended to establish a FOIL exemption (see, Matter of Capital Newspapers Div. v Burns, 67 NY2d 562, 567; Matter of Farbman & Sons v New York City Health & Hosps. Corp., 62 NY2d 75, 81)” (Matter of Wm. J. Kline & Sons v County of Hamilton, 235 AD2d 44, 46 [3d Dept 1997]).\nThe court has considered the legislative history of Election Law § 3-222 and, in particular, the 2011 amendments thereto which were enacted through chapters 169 and 282 of the Laws of 2011. The justification for the amendments set forth in the Bill Jacket to chapter 169 reads, in part:\n“The logistical transition to the new HAVA compliant voting system in New York State and hence to a paper-based system with a large electronic storage component mandates that selected provisions of the election law be amended to reflect these changes in the voting system. Section 3-222(1) is one such provision. As presently constituted, this section currently speaks to locking voting machines used in elections and sets out the conditions under which such machines may be unlocked and the results examined. In recognition that the results of elections administered with the new HAVA compliant machines are stored on portable memory devices, rather than on the machines themselves, this bill applies similar security and disclosure procedures in place for lever machines and applies them to new HAVA compliant machines.” (Assembly Mem in Support, Bill Jacket, L 2011, ch 169 at 6.)\nThe Division of Budget Bill Memorandum in the Bill Jacket states that the subject and purpose of the chapter 169 amendments to the bill is, in part:\n“that the removable memory cards, or other similar electronic data storage devices that are used by the new voting systems, must be retained and preserved in accordance with State Board of Elections regulations. This will ensure that all data collected during an election will be available for any subsequent examination pursuant to a court order or at the direction of a Senate or Assembly committee.” (Mem of Div of Budget, Bill Jacket, L 2011, ch 169 at 7.)\nThe recommendation included therein provides: “This bill adapts current law to reflect the change from mechanical lever voting systems to the new electronic voting systems. It establishes procedures designed to ensure that election data recorded on the new voting systems are safeguarded and protected throughout the tabulation process.” (Mem of Div of Budget, Bill Jacket, L 2011, ch 169 at 7.)\nAccording to the legislative record for chapter 282, the only amendment to subdivision (2) of section 3-222 was the replacement of the term “[w]rite-in” which appeared before “ballots” in the original text with the word “[v]oted.” (L 2011, ch 282, § 1.) Nowhere in the legislative record is there an indication what the state legislature meant to include in the term “[v]oted ballots” (Bill Jacket, L 2011, eh 282), and the Election Law does not contain a description or definition of “voted ballots.”\nThe court interprets Election Law § 3-222 (1) to mean that the data and information stored on the removable memory cards or other similar electronic media is sealed until such time as it has been preserved. Before preservation, the data and information may only be examined upon court order or at the direction of a Senate or Assembly Committee, meaning it is not subject to disclosure under FOIL prior to preservation. However, there is nothing in Election Law § 3-222 (1) which addresses accessing the data and information post-preservation. As set forth above, the most that can be discerned from the legislative record concerning subdivision (1) is that the amendments were intended to “establish [ ] procedures” so that the data recorded on the new electronic voting machines is safeguarded “throughout the tabulation process.” (Mem of Div of Budget, Bill Jacket, L 2011, ch 169 at 7.) This seems to suggest that when the tabulation process is completed, the data and information are no longer in need of safeguarding.\nRespondent Ferebee reads much more into Election Law § 3-222 (2) than is presented in the statute’s text. Under Election Law § 3-222 (2), “Voted ballots shall be preserved for two years after such election and the packages thereof may be opened and the contents examined only upon order of a court or judge of competent jurisdiction” (emphasis added). Affording this language its “natural and most obvious sense” as required by McKinney’s Consolidated Laws of NY, Book 1, Statutes § 94, the court cannot conclude that electronic images of ballots are included in the term “fv]oted ballots” as “[v]oted ballots” are accompanied by “the packages thereof.” It is unclear whether “packages” includes electronic ballot images, absent a declaration by the state legislature of its intention. As conceded by the parties, the term “[v]oted ballots” includes paper ballots, which are confidential and expressly exempted under Election Law § 3-222 (2). That the term “[v]oted ballots” includes electronic images of the paper ballots is less clear. Respondents have not demonstrated the state legislature intended to provide electronic ballot images with the same cloak of confidentiality as paper ballots. To conclude otherwise would cause the court to resort to “an artificial or forced construction” of Election Law § 3-222, contrary to Statutes § 94. If the state legislature intended to include electronic ballot images in the term “[vjoted ballots” in Election Law § 3-222, it could easily have done so in the legislation. The court will not do so here. Once the electronic images of the voted ballots are preserved, the likelihood that the images and related data and information can be tampered with and impact the outcome of an election becomes remote, if not nonexistent. As a result, in the absence of “a clear legislative intent to establish and preserve confidentiality of records” (Wm. J. Kline & Sons v County of Hamilton, 235 AD2d at 46), the court is constrained to conclude that electronic ballot images must be disclosed under FOIL.\nTurning to petitioner’s request for an award of attorney’s fees under Public Officers Law § 89 (4) (c) (i), the court concludes, that in this instance, an award of attorney’s fees is not warranted (see Matter of Mineo v New York State Police, 119 AD3d 1140, 1141 [3d Dept 2014] [court has discretion whether attorney’s fees should be awarded]). The record reveals that respondents had a reasonable basis to deny the FOIL request. The County Attorney employed extraordinary efforts to obtain input on interpretation of Election Law § 3-222, including reaching out to other County Attorneys and the New York State Board of Elections, and made the initial denial of the FOIL request after conducting exhaustive research and analysis. That respondent Ferebee reached the same conclusion when considering the FOIL appeal cannot be viewed as lacking in reasonable basis. The most compelling evidence of a reasonable basis is that respondent Ferebee’s interpretation of Election Law § 3-222 is supported by Peter S. Kosinski, New York State Board of Elections Commissioner, as well as respondent McGahay. The fact that the Committee on Open Government rendered an advisory opinion contrary to the interpretation and determination of respondent Ferebee, does not, by itself, compel a finding that respondent Ferebee lacked a reasonable basis to deny access to the records. In addition, the court finds that Election Law § 3-222 is incohesive and in need of examination by the state legislature. In sum, respondents should not be penalized for a good faith interpretation of Election Law § 3-222.\nBased upon the foregoing, it is hereby ordered that the petition is granted insofar as respondents are directed to release to petitioner copies of the electronic ballot images and cast vote records for the general election held on November 3, 2015 maintained by Essex County, pursuant to the provisions of FOIL; and it is further ordered that petitioner’s request for reasonable attorney’s fees pursuant to Public Officers Law § 89 (4) (c) (i) is denied.\n. The request was not denominated as a request under FOIL; however, once the request was referred to the County Attorney, it was treated as a request for public records under FOIL.\n. In the advisory opinion Mr. Freeman refers to “voted ballots” interchangeably with “paper ballots.” Of note, the court finds nothing in Election Law § 3-222 (3) to support a conclusion that electronic ballot images are not exempt from disclosure under FOIL.",
+        "type": "majority",
+        "author": "Mastín D. Auffredou, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Bryan Liam Kennelly for petitioner.",
+      "James E. Long for Mark Whitney, as Commissioner of the Essex County Board of Elections, respondent.",
+      "James Walsh for Allison McGahay, as Commissioner of the Essex County Board of Elections, respondent.",
+      "Daniel T Manning, III, County Attorney, for William B. Fe-rebee, as Chairman of the Board of Supervisors of Essex County, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[46 NYS3d 403]\nIn the Matter of Bethany Kosmider, Petitioner, v Mark Whitney et al., as Commissioners of the Essex County Board of Elections, et al., Respondents.\nSupreme Court, Essex County,\nJanuary 19, 2017\nAPPEARANCES OF COUNSEL\nBryan Liam Kennelly for petitioner.\nJames E. Long for Mark Whitney, as Commissioner of the Essex County Board of Elections, respondent.\nJames Walsh for Allison McGahay, as Commissioner of the Essex County Board of Elections, respondent.\nDaniel T Manning, III, County Attorney, for William B. Fe-rebee, as Chairman of the Board of Supervisors of Essex County, respondent."
+  },
+  "file_name": "2784-01",
+  "first_page_order": 354,
+  "last_page_order": 363
+}

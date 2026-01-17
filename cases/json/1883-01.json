@@ -1,0 +1,483 @@
+{
+  "id": 4318721,
+  "name": "The People of the State of New York, Plaintiff, v. Stuart Friedman, Defendant",
+  "name_abbreviation": "People v. Friedman",
+  "decision_date": "2015-05-26",
+  "docket_number": "",
+  "first_page": "817",
+  "last_page": "824",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 817"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 805"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "445 US 463",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777603
+      ],
+      "pin_cites": [
+        {
+          "page": "474"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0463-01"
+      ]
+    },
+    {
+      "cite": "371 US 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "266 AD2d 562",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        203539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/266/0562-01"
+      ]
+    },
+    {
+      "cite": "307 AD2d 298",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        185617
+      ],
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/307/0298-01"
+      ]
+    },
+    {
+      "cite": "238 AD2d 212",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1256327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/238/0212-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 615",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347406
+      ],
+      "pin_cites": [
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0615-01"
+      ]
+    },
+    {
+      "cite": "66 NY2d 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4401905
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0523-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 50441",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Misc 3d 144",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 AD2d 4",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1000200
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "8"
+        },
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/162/0004-01"
+      ]
+    },
+    {
+      "cite": "24 Misc 3d 344",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4039532
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "351"
+        },
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/24/0344-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 429",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311878
+      ],
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0429-01"
+      ]
+    },
+    {
+      "cite": "45 Misc 3d 658",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4267063
+      ],
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/45/0658-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 765",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407431
+      ],
+      "pin_cites": [
+        {
+          "page": "767"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0765-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 201",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426398
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0201-01"
+      ]
+    },
+    {
+      "cite": "150 AD2d 910",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3586620
+      ],
+      "pin_cites": [
+        {
+          "page": "911"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/150/0910-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 610",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3742078
+      ],
+      "pin_cites": [
+        {
+          "page": "616-617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0610-01"
+      ]
+    },
+    {
+      "cite": "22 Misc 3d 217",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3308061
+      ],
+      "pin_cites": [
+        {
+          "page": "220-221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/22/0217-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 100",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3741866
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "103"
+        },
+        {
+          "page": "103"
+        },
+        {
+          "page": "104"
+        },
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0100-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 44",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3753462
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "47"
+        },
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0044-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "362"
+        },
+        {
+          "page": "363"
+        },
+        {
+          "page": "359-360"
+        },
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "229"
+        },
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 729",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2349737,
+        2348315,
+        2348155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0729-03",
+        "/ny-2d/68/0729-02",
+        "/ny-2d/68/0729-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 706,
+    "char_count": 15919,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14577780403413482
+    },
+    "sha256": "389d8db250ede8f644bb9872f86932819feb1f467f72fb4703671fcde4e482c2",
+    "simhash": "1:bb863ee1755b7911",
+    "word_count": 2545
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Stuart Friedman, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nElisa S. Koenderman, J.\nThe defendant, Stuart Friedman, is charged by misdemeanor information with criminal contempt in the second degree, Penal Law § 215.50 (3). The defendant moves to dismiss, contending that the accusatory instrument is facially insufficient (see CPL 170.30 [1] [a]) and that he has been denied his statutory right to a speedy trial (see CPL 30.30 [1] [b]). Because the information fails to contain nonhearsay factual allegations establishing every element of the offense charged, it is jurisdictionally defective. Moreover, since the accusatory instrument is invalid, the People’s statements of readiness are illusory and 103 days have accrued to them since arraignment. Accordingly, the defendant’s motion to dismiss is granted.\nFacial Sufficiency\nTo be sufficient, an information must allege “facts of an evidentiary character” (CPL 100.15 [3]) which provide reasonable cause to believe that the defendant committed the offense charged (see CPL 100.40 [1] [b]). Further, the nonhearsay factual allegations of the information and any supporting depositions, if accepted as true, must establish the defendant’s commission of every element of the offense charged (see CPL 100.40 [1] [c]; see People v Dumas, 68 NY2d 729 [1986]; see also People v Alejandro, 70 NY2d 133 [1987]). This is known as the prima facie case requirement for an information (see People v Kalin, 12 NY3d 225, 229 [2009]).\nThus, to satisfy the prima facie case requirement an information must allege completely every element of the offense charged and those allegations must be nonhearsay (see People v Casey, 95 NY2d 354, 362 [2000]; Kalin, 12 NY3d at 229; see also People v Fernandez, 20 NY3d 44, 47 [2012]; People v Dreyden, 15 NY3d 100, 103 [2010]). To protect the defendant’s fundamental right to fair notice and prevent double jeopardy, an information must “factually describe the elements of the crime and the particular acts of the defendant constituting its commission” (Casey, 95 NY2d at 363). An information which violates the reasonable cause requirement by failing to allege sufficient evidentiary facts to support an element of the crime charged is jurisdictionally defective (see Fernandez, 20 NY3d at 47; Dreyden, 15 NY3d at 103).\nThe superceding information alleges that on July 2, 2014, at 111-45 44th Avenue in Queens County, Barbara Sheehan “observed the defendant Stuart Friedman in front of the residence of [the] complainant, Marvin Friedman.” It further alleges that the deponent, Sergeant Joseph Cancelino, “observed the defendant in front of the above mentioned location, which is the residence of [the] complainant, Marvin Friedman.” Finally, it alleges that Sgt. Cancelino “obtained and reviewed a teletype printout from the New York State Police Information Network [NYSPIN], whose records are made and obtained in the regular course of business,” which shows that an order of protection directing the defendant to stay away from the complainant’s home had been issued on the complainant’s behalf and was in effect against the defendant, and that the defendant was served with the order in court.\nAlthough the information alleges that Barbara Sheehan observed the defendant at the complainant’s residence, it neither defines her relationship to the complainant nor describes the basis for her knowledge that the location is his residence. It is fair to infer that Barbara Sheehan knows the defendant’s identity, regardless of any relationship between them. A person’s identity is subject to public knowledge. When a person appears in public, he exposes his identity. But while a person’s identity is open to the public, the place that he lives is not. A person’s home is private. An allegation of a person’s identity is very different therefore from an allegation of a person’s residence. While one may assert that another person lives at a certain location, that statement must be based upon information derived from observations or provided to him. For example, a neighbor might know where a person lives because he sees him coming and going from the residence, or a person may tell another where he lives. Here, the information does not allege how Barbara Sheehan knows where the complainant lives and the court cannot speculate. Consequently, without explanation or support from any objective evidentiary facts, Barbara Sheehan’s assertion that the place where she observed the defendant is the complainant’s residence is a mere conclusory allegation (see Dreyden, 15 NY3d at 104; see also People v Lebron, 22 Misc 3d 217, 220-221 [Crim Ct, NY County 2008]). Similarly, the information does not state the grounds for Sgt. Cancelino’s belief that the location is the complainant’s residence. Presumably his belief is based upon information provided to him by Barbara Sheehan, or perhaps the complainant. The complainant, however, has not corroborated that the location is his residence. Accordingly, Sgt. Cancelino’s allegation is hearsay. Because the nonhearsay facts alleged do not suffice to establish that the defendant was present at the complainant’s home, the information fails to adequately plead that the defendant engaged in conduct which would constitute disobedience of a court mandate (see Penal Law § 215.50 [3]).\nMoreover, Sgt. Cancelino’s allegations regarding the issuance, terms and service of the order of protection are uncorroborated hearsay not subject to any exception. Despite the Sergeant’s declaration that the NYSPIN teletype printout upon which his allegations are based was “made and obtained in the regular course of [NYSPIN] business,” the facts alleged in the information do not establish its admissibility as a business record (see CPLR 4518 [a]; Penal Law § 60.10; cf. People v Ortega, 15 NY3d 610, 616-617 [2010]). Sgt. Cancelino, as an employee of the NYPD, is not in a position to attest to the record keeping of NYSPIN, a different agency of which he is not a member. Without a supporting deposition from a custodian of the NYSPIN records, the allegation that the teletype printout was “made and obtained in the regular course of [NYSPIN] business,” and therefore the teletype printout itself, remain hearsay (cf. People v Miller, 150 AD2d 910, 911 [3d Dept 1989]).\nAdditionally, the teletype printout advises the recipient to “CONFIRM COMPLETE ORDER OF PROTECTION WITH LAW ENFORCEMENT” and contains the admonition: “WARNING— THE FOLLOWING IS AN NCIC PROTECTION ORDER RECORD. DO NOT SEARCH, DETAIN OR ARREST BASED SOLELY ONTHIS RECORD. CONTACTENTERIN GAGEN CYTO CONFIRM STATUS AND TERMS OF PROTECTION ORDER.” Accordingly, the teletype printout cannot confirm the existence or contents of the order of protection. Further, Sgt. Cancelino does not allege that he observed a certified copy of the order of protection. Had he done so, arguably he would have personal knowledge of the order’s existence. His review of a teletype printout, which cannot confirm either the status or terms of the order of protection, does not provide him with personal knowledge of its existence and contents.\nFurthermore, the uncertified copy of the order of protection which the People subsequently filed does not cure the hearsay in Sgt. Cancelino’s allegations. This case is distinguishable from Casey, where the Court of Appeals held that the first-party allegations of the complainant and detective regarding the issuance, terms and service of the order of protection were sufficient to establish criminal contempt in the second degree (Casey, 95 NY2d at 359-360). There, the complainant had signed a supporting deposition attesting that an order of protection had been issued against the defendant, prohibiting him from harassing her (id. at 360). The complainant also swore that she personally had observed the defendant engage in conduct proscribed by the order (id.). The Court noted that “the fair implication of these averments established [the complainant’s] firsthand knowledge that the order had been granted, was in effect and was violated by defendant’s harassing or criminal conduct on the date of the offense” (id.). The Court ruled that although the “far better practice” would have been to annex the underlying order of protection, the failure to do so “[did] not require reversal under the particular circumstances of this case” (id.).\nIn contrast, here there are no first-party allegations from the complainant that an order of protection directing the defendant to stay away from his home had been issued on the complainant’s behalf and was in effect against the defendant. Moreover, there are no first-party allegations from the complainant that he observed the defendant engage in conduct proscribed by the order. Indeed, the complainant has not corroborated that the location where Barbara Sheehan and Sgt. Cancelino observed the defendant is his home. Furthermore, unlike the detective in Casey, who viewed a certified copy of the order of protection and therefore had personal knowledge of it (id. at 361-362), Sgt. Cancelino, having seen only a NYSPIN teletype printout, has only hearsay knowledge of the order. Without the requisite first-party allegations, or a certified copy of the order of protection, the information lacks nonhearsay facts confirming the issuance, terms and service of the order.\nAccordingly, because the information fails to contain non-hearsay factual allegations establishing that the defendant intentionally disobeyed a court mandate (see Penal Law § 215.50 [3]), it is jurisdictionally defective.\nSpeedy Trial\nPursuant to CPL 30.30 (1) (b), the People must be ready for trial within 90 days of commencement of a criminal action charging a defendant with a misdemeanor punishable by a sentence of imprisonment of more than three months.\nWhether the People have satisfied their obligation to be ready under CPL 30.30 generally is determined by calculating the time between the filing of the first accusatory instrument and the People’s statement of readiness, then subtracting statutorily excludable periods of delay and finally adding any additional periods of post-readiness delay which are attributable to the People and ineligible for any statutory exclusions (see People v Cortes, 80 NY2d 201, 208 [1992]). Although a criminal action commences when the accusatory instrument is filed, counting for speedy trial purposes starts the following day (see People v Stiles, 70 NY2d 765, 767 [1987]).\nThe defendant was arraigned on the original misdemeanor complaint on July 3, 2014 and the court adjourned the matter to July 29, 2014 for the People to convert the complaint to an information. Twenty-six days are chargeable to the People for this adjournment.\nOn July 29, 2014, the People filed and served the instant superceding information and announced ready for trial. The court adjourned the matter to September 25, 2014 for open file discovery. A valid accusatory instrument is a jurisdictional prerequisite for trial (see Dreyden, 15 NY3d at 103; People v Mortoza, 45 Misc 3d 658, 661 [Crim Ct, Queens County 2014]). Moreover, in a misdemeanor prosecution, a defendant must be tried upon a facially sufficient information (see CPL 170.65 [1]; 100.40 [1]; see also People v Weinberg, 34 NY2d 429, 431 [1974]). Since the information does not contain nonhearsay factual allegations establishing every element of the offense charged, it is defective (see CPL 170.35 [1] [a]). Because the People lack a valid accusatory instrument upon which to try the defendant, their statement of readiness is illusory (see People v Sherman, 24 Misc 3d 344, 351 [Crim Ct, NY County 2009]; cf. People v Caussade, 162 AD2d 4, 8 [2d Dept 1990]). Nevertheless, the adjournment is excludable as a period of delay for discovery by stipulation (see People v Thomas, 26 Misc 3d 144[A], 2010 NY Slip Op 50441[U], *1 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2010]). Zero days are chargeable to the People.\nOn September 25, 2014, the People provided open file discovery and the court adjourned the matter to November 17, 2014 for trial. This adjournment, which afforded defense counsel the opportunity to review the discovery by stipulation and prepare for trial, is properly excludable as a period of delay which is “caused by the defendant for his own benefit” (People v Worley, 66 NY2d 523, 527 [1985]; see also People v Kopciowski, 68 NY2d 615, 617 [1986]; People v Heine, 238 AD2d 212 [1st Dept 1997]). Zero days are chargeable to the People.\nOn November 17, 2014, the People announced ready but the court adjourned the matter to January 28, 2015 for trial. Since the People’s statement of readiness is illusory because the accusatory instrument is invalid, 72 days are chargeable to them for this adjournment (see Sherman, 24 Misc 3d at 351; cf. Caussade, 162 AD2d at 8).\nOn January 28, 2015, the court set a motion schedule at the defendant’s request. After directing the defendant to file his papers by February 20, 2015 and the People to respond by March 20, 2015, the court adjourned the matter to April 22, 2015 for decision. The defendant filed and served the instant motion 11 days early on February 9, 2015. The People filed and served their response on March 25, 2015, five days after it was due. On April 22, 2015, the court again adjourned the matter for decision to May 29, 2015. The delay resulting from a defendant’s pretrial motion generally is excludable as having been “caused by the defendant for his own benefit” (Worley, 66 NY2d at 527; see CPL 30.30 [4] [a]). Nevertheless, since the People’s failure to respond to the defendant’s motion by the court-imposed deadline contributed to the delay in deciding the motion, five days are chargeable to them for this period (see People v Delosanto, 307 AD2d 298, 299 [2d Dept 2003]; People v Gonzalez, 266 AD2d 562 [2d Dept 1999]).\nConsequently, 103 days are chargeable to the People to date. Since more than 90 days have elapsed since the defendant’s arraignment, the People have exhausted their time to be ready for trial (see CPL 30.30 [1] [b]).\nIn conclusion, because the information is juris dictionally defective and the People’s speedy trial time has expired, the defendant’s motion to dismiss is granted.\n. The People filed and served the instant superseding misdemeanor complaint and accompanying supporting deposition on July 29, 2014.\n. The Supreme Court of the United States has recognized the distinction between a person’s identity and his home in the context of Fourth Amendment protection: although evidence seized as a result of unlawful government intrusion into a person’s home is suppressible (see Wong Sun v United States, 371 US 471, 485 [1963]), his identity is not (see United States v Crews, 445 US 463, 474 [1980]).\n. The People filed and served an uncertified copy of the order of protection with a statement of readiness off-calendar on April 27, 2015.\n. In Casey, the detective alleged in the information that “ ‘[t]he defendant was advised and served a copy of the Order of Protection in court’ ” (Casey, 95 NY2d at 361). The detective did not state the basis for his belief, which could have come from information provided to him by the complainant rather than personal knowledge, and therefore would have constituted hearsay (id. at 361). Because the defendant did not raise this objection, the Court deemed that he had waived it (id. at 362). In any event, the Court noted that any hearsay defect could have been cured by filing the certified copy of the order of protection containing the defendant’s acknowledgment of receipt or by alleging the defendant’s admission that he was served with the order (id. at 361-362).",
+        "type": "majority",
+        "author": "Elisa S. Koenderman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Howard R. Birnbach for defendant.",
+      "Richard A. Brown, District Attorney (Genevieve Gadaleta of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 805]\nThe People of the State of New York, Plaintiff, v Stuart Friedman, Defendant.\nCriminal Court of the City of New York, Queens County,\nMay 26, 2015\nAPPEARANCES OF COUNSEL\nHoward R. Birnbach for defendant.\nRichard A. Brown, District Attorney (Genevieve Gadaleta of counsel), for plaintiff."
+  },
+  "file_name": "1883-01",
+  "first_page_order": 815,
+  "last_page_order": 822
+}

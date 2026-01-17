@@ -1,0 +1,788 @@
+{
+  "id": 4317600,
+  "name": "EV Scarsdale Corp. et al., Plaintiffs, v. Engel & Voelkers North East LLC et al., Defendants; James Ian Properties Corp. et al., Plaintiffs, v. Engel & Voelkers North East LLC et al., Defendants; Riverside Homes Realty Inc. et al., Plaintiffs, v. Engel & Voelkers North East LLC et al., Defendants",
+  "name_abbreviation": "EV Scarsdale Corp. v. Engel & Voelkers North East LLC",
+  "decision_date": "2015-06-05",
+  "docket_number": "",
+  "first_page": "1019",
+  "last_page": "1042",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 1019"
+    },
+    {
+      "type": "parallel",
+      "cite": "13 N.Y.S.3d 805"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "214 AD2d 473",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1209704,
+        1209460
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/214/0473-02",
+        "/ad2d/214/0473-01"
+      ]
+    },
+    {
+      "cite": "162 Misc 2d 941",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        926254
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/162/0941-01"
+      ]
+    },
+    {
+      "cite": "2005 NY Slip Op 30296",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "771 F3d 93",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4292209
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "104-105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/771/0093-01"
+      ]
+    },
+    {
+      "cite": "123 AD3d 405",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4330788
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0405-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 135",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2352954
+      ],
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0135-01"
+      ]
+    },
+    {
+      "cite": "17 NY3d 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3693066
+      ],
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/17/0208-01"
+      ]
+    },
+    {
+      "cite": "109 AD3d 167",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3725198
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "174"
+        },
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0167-01"
+      ]
+    },
+    {
+      "cite": "2010 US Dist LEXIS 144342",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*16-19"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 8461122",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "839 A2d 504",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9058223
+      ],
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/839/0504-01"
+      ]
+    },
+    {
+      "cite": "739 F3d 45",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4084682
+      ],
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/739/0045-01"
+      ]
+    },
+    {
+      "cite": "123 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4340623
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0001-01"
+      ]
+    },
+    {
+      "cite": "2009 US Dist LEXIS 83798",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*18-19"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 2997382",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 US Dist LEXIS 150283",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*17-18"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 5039682",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 AD2d 455",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        316234
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/230/0455-01"
+      ]
+    },
+    {
+      "cite": "2014 US Dist LEXIS 11183",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 320236",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 AD3d 185",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5673728
+      ],
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/95/0185-01"
+      ]
+    },
+    {
+      "cite": "82 AD3d 666",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4008327
+      ],
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/82/0666-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 128",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4234249
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "137"
+        },
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0128-01"
+      ]
+    },
+    {
+      "cite": "92 F Supp 2d 119",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11528257
+      ],
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/92/0119-01"
+      ]
+    },
+    {
+      "cite": "2014 US Dist LEXIS 36971",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 1456654",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 AD3d 434",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3604440
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "435"
+        },
+        {
+          "page": "435"
+        },
+        {
+          "page": "435",
+          "parenthetical": "holding that the non-reliance disclaimer was 'not violative of [section] 687[4] and [5] on its face'"
+        },
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/51/0434-01"
+      ]
+    },
+    {
+      "cite": "843 F Supp 2d 381",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3776208
+      ],
+      "pin_cites": [
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/843/0381-01"
+      ]
+    },
+    {
+      "cite": "2013 US Dist LEXIS 24703",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*6-8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 656844",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 US Dist LEXIS 130205",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "*5-6"
+        },
+        {
+          "page": "*10-11"
+        },
+        {
+          "page": "*14-17"
+        },
+        {
+          "page": "*14"
+        },
+        {
+          "page": "*14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 4476534",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*5-7"
+        },
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 NY2d 574",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8594899
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "579-580"
+        },
+        {
+          "page": "580"
+        },
+        {
+          "page": "581-582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0574-01"
+      ]
+    },
+    {
+      "cite": "2004 US Dist LEXIS 6904",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*15"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 868211",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "764 F Supp 2d 599",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4189923
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "616-617"
+        },
+        {
+          "parenthetical": "holding that plaintiff's disclaimer of reliance on contrary oral representations barred plaintiff from bringing fraud-based claims under Washington franchise law virtually identical to section 687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/764/0599-01"
+      ]
+    },
+    {
+      "cite": "70 F Supp 3d 376",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4210065
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "393-394"
+        },
+        {
+          "page": "411-412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/70/0376-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 314",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282472
+      ],
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0314-01"
+      ]
+    },
+    {
+      "cite": "204 AD2d 233",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1168593,
+        1168222
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/204/0233-02",
+        "/ad2d/204/0233-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333065
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0268-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 362",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525081
+      ],
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0362-01"
+      ]
+    },
+    {
+      "cite": "179 AD2d 98",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069333
+      ],
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0098-01"
+      ]
+    },
+    {
+      "cite": "1 AD3d 247",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1233584,
+        1234122
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "250"
+        },
+        {
+          "page": "250"
+        },
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/1/0247-02",
+        "/ad3d/1/0247-01"
+      ]
+    },
+    {
+      "cite": "60 AD3d 491",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5729090
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/60/0491-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1733,
+    "char_count": 50685,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.7817273071113374e-8,
+      "percentile": 0.300515203782151
+    },
+    "sha256": "052e34908472c091a3421f8def1bca49312d24daef3b4a38846757266fed79c3",
+    "simhash": "1:103ebc928b89d7cf",
+    "word_count": 8113
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EV Scarsdale Corp. et al., Plaintiffs, v Engel & Voelkers North East LLC et al., Defendants. James Ian Properties Corp. et al., Plaintiffs, v Engel & Voelkers North East LLC et al., Defendants. Riverside Homes Realty Inc. et al., Plaintiffs, v Engel & Voelkers North East LLC et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nShirley Werner Kornreich, J.\nMotion sequence number 006 in index No. 651169/2011 (the EV Scarsdale action), motion sequence number 003 in index No. 651611/2011 (the James Ian action), and motion sequence number 003 in index No. 651608/2011 (the Riverside action) are consolidated for disposition.\nI. Introduction\nIn 2011, plaintiffs filed these three lawsuits against defendants, who own and operate the “Engel & Voelkers” real estate agency. Plaintiffs each entered into franchise license agreements with defendant Engel & Voelkers North East LLC (EV-NE) to operate “Engel & Voelkers Property Shops” (the property shops). Plaintiffs were to manage the property shops to operate real estate agencies specializing in selling upscale residential properties.\nBy order dated September 4, 2012 (docket No. 44), the court joined the three actions for discovery and trial. Defendants now move, by way of an omnibus brief (docket No. 124), to dismiss the second amended complaints (the SACs) in all three actions, which were filed on November 21, 2014. (See docket Nos. 96 [EV Scarsdale SAC]; 97 [James Ian SAC]; 98 [Riverside SAC].) Plaintiffs oppose with an omnibus brief (docket Nos. 152, 153), which is met with an omnibus brief in reply (docket No. 179). Oral argument was held on April 2, 2015. (See docket No. 190 [Apr. 2, 2015 tr].) For the reasons that follow, defendants’ motions are granted in part and denied in part.\nII. Engel & Voelkers’ Corporate Structure\nEV-NE, a New York LLC, licenses property shops in the northeastern United States. In February 2011, EV-NE transferred its licenses to defendant Engel & Voelkers N.Y. LLC (EV-NY), another New York LLC. EV-NE and EV-NY are affiliates of defendant Engel & Voelkers U.S. Holdings, Inc. (EV-US), a Delaware corporation which contracts with various Engel & Voelkers entities, such as EV-NE and EV-NY, to license property shops throughout the United States. EV-US operates the United States arm of the Engel & Voelkers business pursuant to a license agreement with defendant Engel & Voelkers U.S. Holding GmbH (EV-US GmbH). EV-US GmbH, a German LLC, holds a master license agreement that authorizes it to license and market the Engel & Voelkers brand in the United States. EV-US GmbH is wholly owned by defendant Engel & Voelkers Residential GmbH (EV-Residential), another German LLC. EV-Residential, in turn, is wholly owned by defendant Engel & Voelkers AG (EV-AG), a German corporation. EV-AG is at the top of the Engel & Voelkers corporate structure. EV-AG also has other subsidiaries, such as defendant Engel & Voelkers IT-Services GmbH (EV-IT), which provide services to franchisees. EV-IT is a German LLC that provides information technology services to property shops.\nDefendant Rauert Peters, who works in New York, is the CEO, president, and managing director of EV-NE and EV-NY. Peters is also the COO of EV-US. Defendant Michael Audet works in New York as the head of expansion of EV-NE, EV-NY, and EV-US. Audet also works for the Engel & Voelkers companies through his own company, defendant WAV Group, Inc., a New York corporation. Defendant Ralph Lenihan works in Rhode Island as an independent contractor that sells franchise licenses on behalf of EV-NE. Defendant Sven Odia, who works in Germany, is the president and sole director of EV-US and is a board member and officer of EV-AG, EV-US GmbH, and EV-Residential. Odia is responsible for Engel & Voelkers’ residential properties business outside of Germany.\nIII. Plaintiffs’ Allegations\nA. EV Scarsdale\nIn February 2008, plaintiff Jonathan Lerner became interested in acquiring the right to operate a property shop. (EV Scarsdale SAC ¶ 27.) Lerner formed plaintiff EV Scarsdale Corp. (EV Scarsdale) for this purpose. (Id.) EV Scarsdale is a New York corporation located in Scarsdale, New York. (¶ 2.) On February 26, 2008, Lerner met with Audet and Lenihan to discuss opening a property shop. (¶ 28.) At that meeting, Lenihan was shown a PowerPoint presentation containing data about the financial performance of an average property shop, including net operating profits, total annual sales transactions per agent, and sales commissions per agent. (¶ 30.) Lenihan also was provided with a spreadsheet containing the information in the presentation. (Id.)\nOn March 20, 2008, Peters made additional oral representations to Lerner concerning the Scarsdale real estate market, such as the total residential property sales in Scarsdale in 2007 and that Lerner should expect to have 10% market share in Scarsdale. (Id.) On March 27, 2008, Lerner signed a receipt, confirming that he was provided with a financial disclosure document (FDD) for EV-NE. (See docket No. 119 at 2.) On June 19, 2008, Peters made further oral representations to Lerner, including Peters’ own experience owning a property shop in Europe, where “his business from referrals covered all his operational overhead for the entire year.” (EV Scarsdale SAC ¶ 30.) On July 3, 2008, EV Scarsdale and EV-NE entered into a license agreement (the Scarsdale license agreement), granting EV Scarsdale the right to operate a property shop in Scarsdale, New York (the Scarsdale shop) for five years. (¶ 31; see docket No. 120.) EV Scarsdale also entered into a software licensing and IT-services agreement (the Scarsdale IT agreement) with EV-IT, pursuant to which EV Scarsdale would pay EV-IT to provide information technology services to the Scarsdale shop. (¶ 35; see docket No. 121.) In the fall of 2008, EV Scarsdale began operating the Scarsdale shop in Scarsdale, New York. (¶ 43.)\nBetween August and October 2008, Peters provided Lerner with profit and loss statements for a property shop in Southampton, New York (the Southampton shop). (¶ 30.) Additionally, in October 2008, Peters showed Lerner another PowerPoint presentation about Peters’ property shop in Europe. (Id.) On October 31, 2008, Lerner signed another FDD receipt, provided to him in connection with his interest in opening the Southampton shop. (See docket No. 119 at 3.) On November 26, 2008, EV Scarsdale and EV-NE entered into a license agreement (the Southampton license agreement) (the Scarsdale license agreement and the Southampton license agreement are collectively referred to as the EV Scarsdale license agreements), granting EV Scarsdale the right to operate the Southampton shop for five years. (EV Scarsdale SAC ¶ 32; see docket No. 122.) EV Scarsdale entered into an IT agreement with EV-IT for the Southampton shop (the Southampton IT agreement) (the Scarsdale IT agreement and the Southampton IT agreement are collectively referred to as the EV Scarsdale IT agreements). (¶ 35; see docket No. 123.) Lerner personally guaranteed the EV Scarsdale license agreements. (¶ 34.) On December 1, 2008, EV Scarsdale entered into an asset purchase agreement to acquire the already existing property shop located in Southampton, New York. (¶ 42.) EV Scarsdale operated the Southampton shop at that location. (Id.) In early 2011, pursuant to the Southampton license agreement, EV Scarsdale opened another property shop in East Hampton, New York (collectively, with the Scarsdale shop and the Southampton shop, the EV Scarsdale property shops). (¶ 44.)\nOn April 29, 2011, plaintiffs canceled the EV Scarsdale license agreements. (¶ 45.) Lerner and EV Scarsdale commenced this action seeking rescission of the contracts and recovery of its costs and losses incurred in connection with the operation of the EV Scarsdale property shops, which they claim were in excess of $1.5 million. (¶ 46.) The EV Scarsdale SAC asserts five causes of action: (1) violation of General Business Law § 683; (2) violation of General Business Law § 687; (3) breach of the EV Scarsdale license agreements and the EV Scarsdale IT agreements; (4) fraudulent inducement; and (5) alter ego liability.\nB. James Ian\nIn August 2007, plaintiffs Gary Leveillee and Gordon Dwan, residents of Rhode Island, became interested in opening a property shop. (James Ian SAC ¶¶ 2-3, 29.) They formed James Ian Properties Corp. (JIP), a Rhode Island corporation, for this purpose. (¶¶ 1, 29.) They had an initial meeting with EV-NE representatives in August 2007. (¶ 30.) In September 2007, Audet and nonparty Timothy Robinson, an EV-NE broker, provided Leveillee and Dwan with a document purporting to demonstrate the time and expense involved in building-out a property shop. (¶ 31.) Leveillee and Dwan were also told that they would recoup their initial investment within two years. (Id.) Additionally, they were given information about the Providence, Rhode Island real estate market and given a spreadsheet containing the average performance of a property shop. (Id.)\nOn October 11, 2007, Leveillee signed an FDD receipt. (See James Ian docket No. 59 at 2.) On November 13, 2007, JIP and EV-NE entered into a license agreement (the James Ian license agreement) permitting JIP to operate a property shop for five years. (James Ian SAC ¶ 32; see James Ian docket No. 60.) JIP also entered into an IT agreement with EV-IT (the James Ian IT agreement). (¶ 36; see James Ian docket No. 61.) Leveillee and Dwan personally guaranteed the James Ian license agreement. (¶ 34.)\nIn June 2010, JIP began operating a property shop in Providence, Rhode Island (the Providence property shop). (¶ 45.) On June 10, 2011, JIP canceled the James Ian license agreement. (¶ 46.) Leveillee, Dwan, and JIP (collectively, the James Ian plaintiffs) commenced this action seeking rescission and recovery of their costs and losses incurred in connection with the operation of the Providence property shop, which they claim were in excess of $600,000. (¶ 46.) The James Ian SAC asserts five causes of action: (1 & 2) violation of both (a) the Rhode Island Franchise Investment Act (the RFIA), codified as General Laws of Rhode Island § 19-28.1-8, and (b) General Business Law §§ 683, 687; (3) breach of the James Ian license agreement and the James Ian IT agreement; (4) fraudulent inducement; and (5) alter ego liability.\nC. Riverside\nIn 1996, plaintiff Ling Ho, a New York resident, formed plaintiff Riverside Homes Realty, Inc. (Riverside), a New York corporation. (Riverside SAC ¶¶ 1-2, 29.) In June 2008, Ho became interested in opening a property shop through Riverside. (¶ 29.) On August 8, 2008, Ho met with representatives of EV-NE. (¶ 30.) Ho claims she was not provided with an FDD until March 20, 2009. Ho allegedly signed an FDD receipt on March 20, 2009 (see id.), but claims she was asked to backdate it to August 12, 2008. (See Riverside docket No. 59 at 3.) Ho also signed an amended FDD receipt on March 17, 2009. (See id. at 4.)\nAdditionally, on March 17, 2009, Ho was directed to print out certain data, concerning the real estate market of certain towns in Westchester County, and bring the data with her to a meeting with Peters and Lenihan. (Riverside SAC ¶ 31.) Between March 17 and March 20, 2009, Ho discussed this data with Peters and Lenihan. (Id.) Peters and Lenihan told Ho that a property shop in these towns would have 10% market share, worth approximately $47.5 million, within the first two years of operations. (Id.) Between July and August 2008, Audet and Lenihan told Ho that she should be able to easily earn $500,000 in gross commission during her first year. Between January and March 2009, Peters and Lenihan told Ho that property shops in other locations were meeting their revenue targets. (Id.) Lenihan further told Ho that her property shop would be worth at least $300,000 after the build-out was complete. (¶ 32.)\nOn March 21, 2009, Riverside and EV-NE entered into a license agreement (the Riverside license agreement) permitting Riverside to operate two property shops for five years. (¶ 34; see Riverside docket No. 60.) Then too, Riverside entered into an IT agreement with EV-IT (the Riverside IT agreement). (¶ 37; see Riverside docket No. 61.) Ho personally guaranteed the Riverside license agreement. (¶ 36.)\nOn June 15, 2009, Riverside began operating a property shop in Hastings-on-Hudson, New York (the Riverside property shop). (¶ 44.) Ho did not open a second property shop. (¶ 45.) On June 10, 2011, Riverside canceled the Riverside license agreement. (¶ 47.) Ho and Riverside commenced this action seeking rescission and recovery of their costs and losses incurred in connection with the operation of the Riverside property shop, which they claim were in excess of $400,000. (¶ 46.) The Riverside SAC asserts six causes of action: (1-3) violation of General Business Law §§ 683, 687; (4) breach of the Riverside license agreement and the Riverside IT agreement; (5) fraudulent inducement; and (6) alter ego liability.\nIV. Legal Standard\nOn a motion to dismiss, the court must accept as true the facts alleged in the complaint as well as all reasonable inferences that may be gleaned from those facts. (Amaro v Gani Realty Corp., 60 AD3d 491 [1st Dept 2009]; Skillgames, LLC v Brody, 1 AD3d 247, 250 [1st Dept 2003], citing McGill v Parker, 179 AD2d 98, 105 [1992]; see also Cron v Hargro Fabrics, 91 NY2d 362, 366 [1998].) The court is not permitted to assess the merits of the complaint or any of its factual allegations, but may only determine if, assuming the truth of the facts alleged and the inferences that can be drawn from them, the complaint states the elements of a legally cognizable cause of action. (Skillgames, 1 AD3d at 250, citing Guggenheimer v Ginzburg, 43 NY2d 268, 275 [1977].) Deficiencies in the complaint may be remedied by affidavits submitted by the plaintiff. (Amaro, 60 AD3d at 491.) “However, factual allegations that do not state a viable cause of action, that consist of bare legal conclusions, or that are inherently incredible or clearly contradicted by documentary evidence are not entitled to such consideration.” (Skillgames, 1 AD3d at 250, citing Caniglia v Chicago Tribune-N.Y. News Syndicate, 204 AD2d 233 [1st Dept 1994].) Further, where the defendant seeks to dismiss the complaint based upon documentary evidence, the motion will succeed only if “the documentary evidence utterly refutes plaintiff’s factual allegations, conclusively establishing a defense as a matter of law.” (Goshen v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 326 [2002] [citation omitted]; Leon v Martinez, 84 NY2d 83, 88 [1994].)\nV. Discussion\nThe New York Franchise Sales Act (the NYFSA) (General Business Law §§ 680-695) governs franchise transactions, but only when the sale or offer to sell occurs in New York. (See A Love of Food I, LLC v Maoz Vegetarian USA, Inc., 70 F Supp 3d 376, 393-394 [D DC 2014] [Maoz], citing JM Vidal, Inc. v Texdis USA, Inc., 764 F Supp 2d 599, 616-617 [SD NY 2011] [“the NYFSA is ‘applicable only to specific transactions solicited or accepted in New York, or affecting New York’ ”], quoting Century Pac., Inc. v Hilton Hotels Corp., 2004 WL 868211, *5, 2004 US Dist LEXIS 6904, *15 [SD NY, Apr. 21, 2004, No. 03-Civ-8258 (SAS)].) The parties agree that the NYFSA applies to the EV Scarsdale and Riverside plaintiffs’ claims (collectively, the New York plaintiffs), as their property shops were marketed to them in New York and were operated in New York. However, the NYFSA does not apply to the James Ian plaintiffs’ claims, as their allegations only concern a property shop marketed and operated in Rhode Island. As discussed further below, Rhode Island law applies to the James Ian plaintiffs’ claims. The court, however, first addresses the New York plaintiffs, who assert claims under General Business Law §§ 683, 687 and seek the remedies set forth in General Business Law § 691.\nA. The NYFSA\n“The [NYFSA] was enacted in 1980 to combat abuses that had accompanied the growth of the franchising industry and had resulted in substantial losses to New York residents. The [NYFSA] contains comprehensive disclosure and registration requirements and an expansive antifraud provision. . . . [A] violation of the [NYFSA] gives rise to both penal and civil liability. Under the civil remedies provision [section 691], a person who offers or sells a franchise in violation of the [NYFSA] is liable to the purchaser for damages or, where the violation is willful and material, for rescission plus interest. In addition to providing for a cause of action against the primary violator, [section 691 (3)] imposes joint and several liability on certain other persons affiliated with the franchisor . . . :\n“A person who directly or indirectly controls a person liable under this article, a partner in a firm so liable, a principal executive officer or director of a corporation so liable, a person occupying a similar status or performing similar functions, and an employee of a person so liable, who materially aids in the act of [sic] transaction constituting the violation, is also liable jointly and severally with and to the same extent as the controlled person, partnership, corporation or employer. It shall be a defense to any action based upon such liability that the defendant did not know or could not have known by the exercise of due diligence the facts upon which the action is predicated.” (A.J. Temple Marble & Tile v Union Carbide Marble Care, 87 NY2d 574, 579-580 [1996] [internal quotation marks, citations and emphasis omitted].)\n1. Section 683\n“Pursuant to [General Business Law § 683 (2) (o)], franchisors must provide prospective franchisees with a document that contains ‘any representation of estimated or projected franchisee earnings or income, together with a statement setting forth the data, methods and computations on which such estimate or projection is based.’” (Governara v 7-Eleven, Inc., 2014 WL 4476534, *2, 2014 US Dist LEXIS 130205, *5-6 [SD NY, Aug. 20, 2014, Preska, Ch. J., No. 13-CV-6094 (LAP)].) Section 683 (8) prohibits the sale of a franchise:\n“without first providing to the prospective franchisee, a copy of the offering prospectus, together with a copy of all proposed agreements relating to the sale of the franchise at the earlier of (a) the first personal meeting between the franchisor or its agent and the prospective franchisee, (b) at least ten business days prior to the execution of a binding franchise or other agreement, or (c) at least ten days prior to the receipt of any consideration in connection with the sale or proposed sale of a franchise.” (Emphasis added; see June-Il Kim v SUK Inc., 2013 WL 656844, *2, 2013 US Dist LEXIS 24703, *6-8 [SD NY, Feb. 22, 2013, No. 12-Civ-1557 (ALC)]; Bayit Care Corp. v Tender Loving Care Health Care Servs. of Nassau Suffolk, LLC, 843 F Supp 2d 381, 385 [ED NY 2012].)\nThe New York plaintiffs allege their first personal meeting with an EV-NE representative took place prior to the date they received their respective FDDs. Defendants have not rebutted this allegation with irrefutable documentary evidence. Rather, defendants argue that the New York plaintiffs’ section 683 claim should be dismissed because of failure to plead proximately caused damages.\nSpecifically, defendants aver that even if section 683 was violated by virtue of the New York plaintiffs not being provided with an FDD prior to their first meeting with defendants, the New York plaintiffs could not have suffered damages because they received an FDD prior to signing their licensee agreements. This argument, however, is not amenable to resolution on a motion to dismiss. Defendants’ reliance on Maoz (70 F Supp 3d 376), at least for the purposes of the instant motion, is misplaced. In Maoz, a federal district court in the District of Columbia, applying New York law, held that a franchisee did not suffer proximately caused damages where the FDD was disclosed after the first personal meeting but before the franchise agreement was signed. (See id. at 411-412.) Despite granting summary judgment on liability to plaintiffs on the section 683 (8) claim, the Maoz court held that there were no damages, explaining:\n“[T]his Court also concludes that [plaintiff] is not entitled to monetary damages as a result of [defendant’s] failure to disclose the offering prospectus at the first possible meeting of the parties. The causation requirement is even harder to fulfill in this context than it was with the other technical violations [of the franchise laws at issue], for it is undisputed that [defendant] provided a copy of the offering prospectus at some point prior to the execution of the franchise agreement . . . , so at most there was a slight delay in providing [plaintiff! with the requisite information (i.e., a nominal violation), and no reasonable jury could find that [plaintiffs] significant business losses were the result of untimely disclosure, as the NYFSA requires. In fact, Plaintiffs claims in this case have nothing whatsoever to do with the timing of [defendant’s] disclosure of the 2007 Offering Prospectus, as might have been the case if there was any evidence that the [plaintiff had insufficient time to review the prospectus prior to purchasing the franchise. Instead, and quite to the contrary, the gravamen of [plaintiff’s] claims homes in on the content of the Offering Prospectus; [plaintiff] asserts, in particular, that [plaintiff] had so studied and accepted the information in the 2007 Offering Prospectus that they relied to their detriment on what [defendant] had stated therein when [plaintiff] undertook to purchase a franchise. It is clear beyond cavil that [plaintiff] cannot have it both ways: it cannot maintain that it relied heavily on the offering prospectus, on the one hand, and suggest, on the other, that the disclosure of that same document was so tardy that [plaintiff] did not have time to review it, causing compensable damages. Because there is no evidence connecting the untimely disclosure to [plaintiff’s] business losses, and especially in light of [plaintiff’s] explicit argument that it relied on the content of the Offering Prospectus, this Court finds as a matter of law that Plaintiff will be unable to prove causation. Thus, despite the technical NYFSA violation, [plaintiff] is not entitled to damages.” (Id. at 412 [some emphasis added, some emphasis omitted and citations omitted].)\nAs this passage makes clear, the Maoz court was relying on a robust record of undisputed facts, made possible through discovery. Here, on this motion to dismiss, no such record is before the court. It, therefore, is premature to conclude that the New York plaintiffs could not have suffered damages from defendants’ failure to provide them with an FDD prior to their first personal meeting.\nIndeed, the argument that one cannot possibly suffer a legally compensable loss when an FDD is provided between the first meeting and the signing of the contract may be at odds with the full scope of legislative concerns as expressed in section 683 (8). Section 683 (8) mandates that the FDD be provided, not only before the final decision to open a franchise, but also before the franchisor can unleash its sales pitch on the prospective franchisee. From the wording that the FDD was to be provided at “the earlier of” the events listed, it appears that the legislature believed that advance written disclosures can prospectively mitigate the persuasive influence of in-person solicitation. Once the sales presentations begin, along with the attendant dose of puffery and overly optimistic projections, subsequent written disclosure may have less of an influence on the decision-making process of a prospective franchisee. That the legislature saw fit to expressly require pre-meeting disclosure, raises, at least for the purposes of this motion to dismiss, a reasonable inference that a compensable injury may be sustained if pre-meeting disclosure does not occur.\nOf course, that injury may not be as great compared to a situation where, unlike in Maoz and the instant case, no disclosure is made prior to a franchise agreement being executed. Nonetheless, ascertaining the existence and magnitude of the injury suffered by not having pre-meeting disclosure is a fact-specific inquiry that cannot be resolved on this motion to dismiss.\n2. Section 687\nSection 687 (2) makes it “unlawful for a person, in connection with the offer, sale or purchase of any franchise, to directly or indirectly”:\n“(a) Employ any device, scheme, or artifice to defraud.\n“(b) Make any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading. It is an affirmative defense to one accused of omitting to state such a material fact that said omission was not an intentional act.\n“(c) Engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.”\nSection 687 (4) states that “[a]ny condition, stipulation, or provision purporting to bind any person acquiring any franchise to waive compliance with any provision of this law, or rule promulgated hereunder, shall be void.” Section 687 (5) further provides that “[i]t is unlawful to require a franchisee to assent to a release, assignment, novation, waiver or estoppel which would relieve a person from any duty or liability imposed by this article.”\n“To state a claim under § 687, [p]laintiffs must plead that (1) [defendant made an untrue or misleading statement of material fact, and that (2) [p]laintiffs reasonably relied on that statement, (3) causing harm to [pjlaintiffs.” (Governara, 2014 WL 4476534, *4, 2014 US Dist LEXIS 130205, *10-11, citing Emfore Corp. v Blimpie Assoc., Ltd., 51 AD3d 434, 435 [1st Dept 2008].) A claim under section 687 is a fraudulent inducement claim; this section, however, “does not ‘cover problems or disputes that can develop during the course of the franchise relationship.’ ” (UPS Store, Inc. v Hagan, — F Supp 3d —, 2015 WL 1456654, *7, 2014 US Dist LEXIS 36971, *23 [SD NY, Mar. 24, 2015, No. 14-CV-1210], quoting LaGuardia Assoc. v Holiday Hospitality Franchising, Inc., 92 F Supp 2d 119, 126 [ED NY 2000], and citing Kroshnyi, 771 F3d at 103 [“ ‘act or transaction constituting the violation’ (of section 687 [2] for committing fraud in connection with sale of franchises) occurred when the franchises were purchased”].)\nDefendants argue that the New York plaintiffs have waived their ability to claim reasonable reliance on defendants’ oral representations. Defendants base their argument on section 27 (13) of the New York plaintiffs’ license agreements, a classic merger clause that disclaims collateral oral representations. (See docket No. 120 at 38 [Scarsdale license agreement].) Specifically, in section 27 (13), the New York plaintiffs affirmed that they did not rely on any of defendants’ pre-contractual oral representations in deciding to execute their license agreements. Rather, the New York plaintiffs claimed to only be relying on information in the parties’ written contracts and the FDDs. Additionally, item 19 of the FDDs provides: “We do not make any representations about a franchisee’s future financial performance or the past financial performance of company-owned or franchised outlets. We also do not authorize our employees or representatives to make any such representations either orally or in writing.” (See docket No. 118 at 45.)\nOrdinarily, outside of the franchise context, there is no question that a plaintiff could not maintain a claim for fraudulent inducement of a commercial contract in the face of the non-reliance disclaimers present in this case. (See Basis Yield Alpha Fund [Master] v Goldman Sachs Group, Inc., 115 AD3d 128, 137 [1st Dept 2014] [“only where a written contract contains a specific disclaimer of responsibility for extraneous representations, that is, a provision that the parties are not bound by or relying upon representations or omissions as to the specific matter, is a plaintiff precluded from later claiming fraud on the ground of a prior misrepresentation as to the specific matter”], citing Silver Oak Capital L.L.C. v UBS AG, 82 AD3d 666, 667 [1st Dept 2011].) “In other words, in view of the disclaimer, no representations exist and that being so, there can be no reliance.” (Basis Yield, 115 AD3d at 137, citing HSH Nordbank AG v UBS AG, 95 AD3d 185, 201 [1st Dept 2012].)\nThat being said, the New York plaintiffs argue that their disclaimers are invalid and unenforceable by virtue of section 687 (5), which, again, provides that “[i]t is unlawful to require a franchisee to assent to a release, assignment, novation, waiver or estoppel which would relieve a person from any duty or liability imposed by this article.” The New York plaintiffs’ argument that section 687 (5) vitiates non-reliance disclaimers, however, is based on the First Department’s decision in Emfore (51 AD3d 434). Defendants urge this court to follow Governara (2014 WL 4476534, 2014 US Dist LEXIS 130205), where Chief Judge Preska expressly refused to follow Emfore. Chief Judge Preska explained:\n“In [Emfore], the First Department held that a contractual statement of non-reliance, while not itself a violation of [section 687 (5)], could not be a basis for dismissing fraud claims under § 687. ‘Such waivers are barred by the [NYFSA] . . . [so] defendant’s attempt to utilize the representations as a defense must be rejected.’ [Emfore, 51 AD3d at 435.] Citing Emfore, [another Southern District Judge] recently held that non-reliance disclaimers cannot bar franchisees from bringing claims under the [NYFSA], [Solanki v 7-Eleven, Inc., 2014 WL 320236, *5, 2014 US Dist LEXIS 11183, *12 (SD NY, Jan. 29, 2014, No. 12-Civ-00027 [LGS]).] . . . “The First Department’s decision in Emfore bases its reasoning on an analogy to [Draper v Georgia Props., 230 AD2d 455 (1st Dept 1997)], which analyzed the relationship between contractual disclaimers and the waiver of statutory rights in the context of landlord-tenant law. In Draper, the plaintiff alleged that her landlord coerced her to sign a lease and rider in which she disclaimed the use of her rent stabilized apartment as a primary residence, thereby freeing the landlord from his obligation to charge reduced rent. The Draper court held that by signing the disclaimer, the plaintiff had waived a benefit of the rent stabilization code: the tenant’s right to pay reduced rent for a rent stabilized apartment used as a primary residence.\n“The issue in Draper is not analogous to the question here. Rent Stabilization Code § 2525.3(b) states that the landowner cannot require a tenant ‘to represent or agree as a condition of renting a housing accommodation that the housing accommodation shall not be used as the tenant’s or prospective tenant’s primary residence . . . .’ The statute explicitly created the right to list an apartment as a primary residence. Here, Plaintiffs did not relinquish any rights by signing the Agreement’s non-reliance disclaimer. Instead, Plaintiffs merely affirmed in the Agreement that they did not rely on any financial performance representations other than those provided in the FDD.\n“Because the [NYFSA] does not give franchisees the statutory right to purchase a franchise while relying on verbal representations outside of a written contract, the Agreement’s non-reliance disclaimer is not proscribed per se by the [NYFSA]. [See Emfore, 51 AD3d at 435 (holding that the non-reliance disclaimer was ‘not violative of [section] 687[4] and [5] on its face’).] Moreover, contrary to Draper, Plaintiffs do not allege that they were compelled or ‘require [d] ... to assent to a release, assignment, novation, waiver or estoppel . . . .’\n“Plaintiffs’ arguments also contravene the basic principles of contract law, which are to ‘protect the expectations of the parties and provide certainty where the future would otherwise be uncertain.’ Refusing to enforce [non-reliance] disclaimers would violate the sanctity of contracts and discourage their use. Ironically, this would undermine the goals of the [NYFSA], since non-reliance disclaimers help franchisors ‘root out dishonest sales personnel and avoid sales secured by fraud ... by requesting franchisees to disclose whether a franchisor’s representatives made statements concerning the financial prospects for the franchise during the sales process.’ [Emfore, 51 AD3d at 435.]\n“Accordingly, the disclaimer must be given effect, and Plaintiffs cannot successfully allege the element of reasonable reliance. [See JM Vidal, Inc. v Texdis USA, Inc., 764 F Supp 2d 599 (SD NY 2011) (holding that plaintiff’s disclaimer of reliance on contrary oral representations barred plaintiff from bringing fraud-based claims under Washington franchise law virtually identical to section 687); see also Sekisui Am. Corp. v Hart, 2012 WL 5039682, *6, 2012 US Dist LEXIS 150283, *17-18 (SD NY, Oct. 17, 2012, No. 12-Civ-3479 [SAS]) (dismissing plaintiff’s fraudulent misrepresentation claim because plaintiff’s reliance on outside representations was unreasonable); see also Dunkin’ Donuts Franchised Rests. LLC v Tim & Tab Donuts, Inc., 2009 WL 2997382, *7, 2009 US Dist LEXIS 83798, *18-19 (ED NY, Sept. 15, 2009, No. 07-CV-3662 [KAM] [MDG]).]” (Governara, 2014 WL 4476534, *5-7, 2014 US Dist LEXIS 130205, *14-17 [citations omitted and emphasis added].)\nWhether this court agrees with Governara is irrelevant. As Chief Judge Preska recognized, u[i\\n [Emfore], the First Department held that a contractual statement of non-reliance, while not itself a violation of [section 687 (5)], could not be a basis for dismissing fraud claims under § 687.” (2014 WL 4476534, *6, 2014 US Dist LEXIS 130205, *14.) While federal district court judges have discretion to not follow unpersuasive Appellate Division precedent, this court does not have the same luxury. (Compare D’Alessandro v Carro, 123 AD3d 1, 6 [1st Dept 2014] [“It is axiomatic that Supreme Court is bound to apply the law as promulgated by the Appellate Division within its particular Judicial Department”], with Governara, 2014 WL 4476534, *6, 2014 US Dist LEXIS 130205, *14 [“Although decisions of intermediate state appellate courts must be carefully considered as ‘helpful indicators of how the state’s highest court would rule,’ federal district courts may diverge from them when ‘convinced by other persuasive data that the highest court of the state would decide otherwise’ ” (citations omitted)], quoting Licci ex rel. Licci v Lebanese Can. Bank, SAL, 739 F3d 45, 48 [2d Cir 2013].)\nThat being said, the reasoning set forth in Governara is worthy of serious consideration by our state appellate courts, which must weigh the principles behind the usual enforcement of non-reliance disclaimers against the reality that, in the franchise context, written contractual provisions are not as likely to be scrutinized by less sophisticated people, whose judgment may be compromised in the face of aggressive salesmanship. That oral representations will realistically be considered, regardless of written disclaimers, is, perhaps, a reason section 683 (8) requires the FDD to be disclosed prior to the first personal meeting. For now, as this court is bound by Emfore, the New York plaintiffs’ section 687 claims survive dismissal.\n3. Section 691\nThe New York plaintiffs seeks to avail themselves of two features of section 691. First, they seek rescission under section 691 (1) by virtue of their allegations that defendants’ violations of sections 683 and 687 were willful and material. Whether defendants’ alleged General Business Law violations were willful is, of course, a question of fact not amenable to resolution on a motion to dismiss, as is materiality.\nSecond, the New York plaintiffs seek to hold the non-contracting defendants liable under section 691 (3), which, as noted earlier, provides for control person liability against all parties who materially aid in violations of sections 683 and 687. (See A.J. Temple, 87 NY2d at 580 [“A plain reading of section 691 (3) indicates that ‘materially aids’ refers to all of the potentially jointly and severally liable defendants: controlling persons, partners, officers, directors, and employees of the franchisor”].)\nThe SACs set forth detailed allegations concerning defendants’ corporate structure and the role the individual defendants played in the alleged General Business Law violations. All of the named defendants, therefore, may potentially be liable under section 691 (3).\nB. The RFIA\nThe James Ian plaintiffs’ franchise law claims are governed by the Rhode Island Franchise Investment Act (RI Gen Laws § 19-28.1 et seq.). The RFIA is similar to the NYFSA, including analogous FDD disclosure and fraud sections. The RFIA’s corollary to General Business Law § 683 is General Laws of Rhode Island § 19-28.1-8 (a), which makes it:\n“[U]nlawful to sell any franchise in this state without first providing a copy of a disclosure document reflecting all material changes together with a copy of all proposed agreements relating to the sale of the franchise ... to the prospective franchisee, at the earlier of:\n“(1) The prospective franchisee’s first personal business meeting with the franchisor which is held for the purpose of discussing the sale or possible sale of a franchise; or\n“(2) Ten (10) business days prior to the execution of an agreement or payment of any consideration relating to the franchise relationship.” (Emphasis added.)\nLikewise, the RFIA’s corollary to General Business Law § 687 (2) is General Laws of Rhode Island § 19-28.1-17, which provides:\n“In connection with the offer or sale of a franchise it is unlawful for a person, directly or indirectly, to:\n“(1) Employ a device, scheme, or artifice to defraud;\n“(2) Make an untrue statement of material fact or omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading',\n“(3) Engage in an act, practice, or course of business which operates or would operate as a fraud or deceit on a person;\n“(4) Represent to an offeree of a franchise that the filing of a franchise registration application or the registration of a franchise constitutes a finding by the director that a document filed under the Act is true, complete, and not misleading or that the director has passed upon the merits of the franchise;\n“(5) Misrepresent that a franchise is registered or exempted from registration under this act;\n“(6) Violate an order of the director after the person receives notice that the order was issued;\n“(7) Fail to notify the director of a material change in the information required in a document required to be filed by this Act or a rule or order under this Act; or\n“(8) Omit to state a material fact or make or cause to be made an untrue statement of a material fact in any application, notice, or report filed with the director under this act.” (Emphasis added; see Guzman v Jan-Pro Cleaning Sys., Inc., 839 A2d 504, 507 [RI 2003].)\nThe RFIA also has a corollary to General Business Law § 687 (4) and (5), General Laws of Rhode .Island § 19-28.1-15, which provides:\n“A condition, stipulation or provision requiring a franchisee to waive compliance with or relieving a person of a duty of liability imposed by or a right provided by this act or a rule or order under this act is void. An acknowledgement provision, disclaimer or integration clause or a provision having a similar effect in a franchise agreement does not negate or act to remove from judicial review any statement, misrepresentations or action that would violate this act or a rule or order under this act.” (Emphasis added.)\nFinally, the RFIA’s remedies clause is General Laws of Rhode Island § 19-28.1-21, which provides:\n“(a) A person who violates any provision of [the RFIA] is liable to the franchisee for damages, costs, and attorneys and experts fees. In the case of a violation of §§ 19-28.1-5, 19-28.1-8, or 19-28.1-17(1) — (5), the franchisee may also sue for rescission. No person shall be liable under this section if the defendant proves that the plaintiff knew the facts concerning the violation.\n“(b) Every person who directly or indirectly controls a person liable under this section, every principal executive officer or director of the liable person, every person occupying a similar status or performing similar functions, and every agent or employee of a liable person, who materially aids in the act or transaction constituting the violation, is also liable jointly and severally with and to the same extent as the person liable under this section, unless the agent, employee, officer, or director proves he or she did not know, and in the exercise of reasonable care could not have known, of the existence of the fact by reason of which the liability is alleged to exist.”\nFor the purposes of this motion, defendants only proffer one different result under the RFIA than under the NYFSA: that the James Ian plaintiffs’ fraudulent inducement claim, governed by General Laws of Rhode Island § 19-28.1-17, should be barred by the non-reliance disclaimers. Defendants rely on the only case to address this issue under Rhode Island law, Sandonato v Days Inn Worldwide, Inc. (2010 WL 8461122, 2010 US Dist LEXIS 144342 [D RI, July 21, 2010, No. 07-45IS]), in which a federal magistrate judge held that a similar non-reliance disclaimer precluded a fraudulent inducement claim. (See 2010 WL 8461122, *6, 2010 US Dist LEXIS 144342, *16-19.) The magistrate judge, however, did not mention General Laws of Rhode Island § 19-28.1-15 or address the issues confronted by the Emfore and Governara courts.\nThis court is extremely reluctant to decide other states’ questions of first impression. Unfortunately, the court has no choice in this case. That being said, conceptually, there is no reason why New York and Rhode Island law ought to differ on the non-reliance disclaimer issue, except, of course, to the extent these states’ legislatures and appellate courts choose to apply their respective franchise public policies differently. Moreover, General Laws of Rhode Island § 19-28.1-15 is actually more explicit than General Business Law § 687 (5), as it includes a “disclaimer” and “integration clause” in the list of prohibited contractual provisions. In light of this specificity and the scant precedent in this area, the court declines to dismiss the James Ian plaintiffs’ section 19-28.1-17 claim.\nC. Breach of Contract Claims and Veil Piercing\nAs plaintiffs concede, their claims for breach of the license agreements and IT agreements may only be maintained against the contracting parties, EV-NE (and EV-NY, if EV-NY is indeed EV-NE’s successor) and EV-IT. Nonetheless, plaintiffs seeks to impute liability on these breach of contract claims to all of the defendants by piercing their corporate veil. However, unlike the claims under the applicable franchise statutes, which provide for control person liability, veil piercing is not a viable basis to impute breach of contract liability unless plaintiffs “establish that the owners of the entity, through their domination of it, abused the privilege of doing business in the corporate form to perpetrate a wrong or injustice against the party asserting the claim.'” (Tap Holdings, LLC v Orix Fin. Corp., 109 AD3d 167, 174 [1st Dept 2013] [emphasis added], citing ABN AMRO Bank, N.V. v MBIA Inc., 17 NY3d 208, 229 [2011]; accord Matter of Morris v New York State Dept. of Taxation & Fin., 82 NY2d 135, 141 [1993].) While “there are no definitive rules governing the varying circumstances when this power may be exercised” (see Baby Phat Holding Co., LLC v Kellwood Co., 123 AD3d 405, 407 [1st Dept 2014]), courts consider various factors, such as lack of corporate formalities, to evaluate whether the alleged alter egos should be treated as an independent entities for liability purposes. (See Tap Holdings, 109 AD3d at 174 [listing relevant factors].)\nThe SACs’ allegations concerning defendants’ corporate structure are insufficient to maintain a veil piercing claim. Plaintiffs merely describe a complex international corporate structure and do not explain why this structure is legally inappropriate or different from many such national and international corporations. The facts pleaded in the SACs, such as the defendants’ sharing of office space and resources, are not, on their own, sufficient to establish that each of the defendant entities were shams. Moreover, even if such facts were sufficient, a veil piercing claim also requires proof that the abuse of the corporate form was for the purpose of defrauding plaintiffs. No such allegation is pleaded. Rather, the SACs actually describe how the Engel & Voelkers companies allocated responsibilities across the globe. For instance, the territorial and service responsibilities of the Engel & Voelkers subsidiaries are, as plaintiffs allege, memorialized by formal license agreements. This is not an indication of an intent to defraud creditors, but indicia of adherence to corporate formalities.\nThat being said, while the breach of contract claims are limited to the contracting parties, as noted earlier, plaintiffs have validly pleaded control person liability against all defendants on their statutory franchise law claims.\nD. Common-Law Fraudulent Inducement\nFinally, plaintiffs’ common-law fraudulent inducement claims are dismissed as duplicative. These claims rise and fall with the claims under General Business Law § 687 and General Laws of Rhode Island § 19-28.1-17, which have the same elements, except for the possibility that plaintiffs may not see their fraud claims barred by the non-reliance disclaimers. Accordingly, it is ordered that the defendants’ motions to dismiss the second amended complaints are decided as follows: (1) the claims under the General Business Law asserted by plaintiffs James Ian Properties Corp., Gary Leveillee, and Gordon Dwan are dismissed; (2) the causes of action for breach of the licenses agreements are dismissed against all defendants except Engel & Voelkers North East LLC and Engel & Voelkers N.Y. LLC; (3) the causes of action for breach of IT agreements are dismissed against all defendants except Engel & Voelkers IT-Services GmbH; (4) the veil piercing claims are dismissed; and (5) the common-law fraudulent inducement claims are dismissed as duplicative of the claims asserted under General Business Law § 687 and General Laws of Rhode Island § 19-28.1-17.\n. All citations to “docket No. —” refer to the docket in the EV Scarsdale action. When necessary, the court cites to the docket in the James Ian action as “James Ian docket No. —” and the docket in the Riverside action as “Riverside docket No. —”.\n. For some reason, the last six pages of plaintiffs’ brief were e-filed as a separate document.\n. For reasons not clear to the court, JIP’s license and IT agreements, discussed below\", were entered into on behalf of \"James Ian Properties, LLC” (see James Ian docket Nos. 60 at 2; 61 at 2 [emphasis added]), an entity not a party to this action.\n. The James Ian license agreement was re-executed on November 26, 2007 due to a “mistake” in the first document. (See James Ian SAC f ¶ 37-38.) It is unclear what that “mistake” was.\n. Section 683 (8) contains the following definitions:\n“[T]he words: (i) ‘first personal meeting’ shall mean the first face to face meeting between a franchisor or franchisor’s agent or any representative or employee thereof and a prospective franchisee which is held for the purpose of discussing the sale or possible sale of a franchise; (ii) ‘other agreement’ shall mean an agreement imposing a binding legal obligation on such prospective franchisee, about which the franchisor, franchise sales agent, or any agent, representative or employee thereof, knows or should know, in connection with the sale or proposed sale of a franchise; and, (iii) ‘receipt of any consideration’ shall mean the payment by a prospective franchisee, about which the franchisor, franchise sales agent, or any agent, representative or employee thereof, knows or should know, of any consideration in connection with the sale or proposed sale of a franchise.”\n. Section 683 is a strict liability statute. However, pursuant to section 691 (1), a willful and material violation of section 683 is grounds for “rescission, with interest at six percent per year from the date of purchase, and reasonable attorney fees and court costs.” (See Kroshnyi v United States Pack Courier Servs., Inc., 771 F3d 93, 104-105 [2d Cir 2014] [section 691 “provides for ‘damages’ based on any violation of the (NYFSA), but provides for ‘rescission’ only in cases of ‘willful and material’ violations” (emphasis added)]; see also id. at 101 n 18 [“ ‘willful’ means ‘no more than voluntary and intentional, as opposed to inadvertent’ ”].)\n. In Emfore, the Appellate Division affirmed Justice Lowe’s ruling that section 687 (4) and (5) “expressly prohibit merger/waiver clauses.” (See Emfore Corp. v Blimpie Assoc., Ltd., 2005 NY Slip Op 30296[U], *11 [Sup Ct, NY County 2005].) Justice Lowe was relying on Justice Cahn’s 1994 decision in the aforementioned A.J. Temple case, in which he noted that the enforceability of a merger and waiver clause on a section 687 claim was a question of first impression under New York law. (See A.J. Temple Marble & Tile v Union Carbide Marble Care, 162 Misc 2d 941, 947 n 2 [Sup Ct, NY County 1994], affd 214 AD2d 473 [1st Dept 1995], mod on other grounds 87 NY2d 574 [1996].)\n. In other words, Chief Judge Preska believes the Court of Appeals would abrogate Emfore.\n. The court cannot hold that the non-reliance disclaimers preclude a finding of materiality without effectively contravening Emfore.\n. Though section 691 (3) uses the term “person” to describe those who have control person liability, section 681 (13) defines “person” to include:\n“[A]n individual, corporation, partnership, joint venture, association, company, trust, unincorporated organization or other entity and shall include any other person that has a substantial interest in or effectively controls such person, as well as the individual officers, directors, general partners, trustees or other individuals in control of the activities of each such person.” (See A.J. Temple, 87 NY2d at 581-582.)",
+        "type": "majority",
+        "author": "Shirley Werner Kornreich, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Kaufmann Gildin & Robbins LLP for defendants.",
+      "Jar dim, Meisner & Susser, PC. for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[13 NYS3d 805]\nEV Scarsdale Corp. et al., Plaintiffs, v Engel & Voelkers North East LLC et al., Defendants. James Ian Properties Corp. et al., Plaintiffs, v Engel & Voelkers North East LLC et al., Defendants. Riverside Homes Realty Inc. et al., Plaintiffs, v Engel & Voelkers North East LLC et al., Defendants.\nSupreme Court, New York County,\nJune 5, 2015\nAPPEARANCES OF COUNSEL\nKaufmann Gildin & Robbins LLP for defendants.\nJar dim, Meisner & Susser, PC. for plaintiffs."
+  },
+  "file_name": "1901-01",
+  "first_page_order": 1017,
+  "last_page_order": 1040
+}

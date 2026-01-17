@@ -1,0 +1,248 @@
+{
+  "id": 4068769,
+  "name": "Arye Sachs, Plaintiff, v. Richard A. Matano et al., Defendants",
+  "name_abbreviation": "Sachs v. Matano",
+  "decision_date": "2015-10-28",
+  "docket_number": "",
+  "first_page": "420",
+  "last_page": "423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 420"
+    },
+    {
+      "type": "parallel",
+      "cite": "22 N.Y.S.3d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "89 NY2d 805",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 AD2d 206",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        371779
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/228/0206-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 369",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403565
+      ],
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0369-01"
+      ]
+    },
+    {
+      "cite": "50 AD3d 625",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3521718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/0625-01"
+      ]
+    },
+    {
+      "cite": "59 NY2d 205",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4389199
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0205-01"
+      ]
+    },
+    {
+      "cite": "308 AD2d 471",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        274843,
+        274900
+      ],
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/308/0471-02",
+        "/ad2d/308/0471-01"
+      ]
+    },
+    {
+      "cite": "29 AD3d 527",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5554277
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/29/0527-01"
+      ]
+    },
+    {
+      "cite": "46 AD3d 636",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4039611
+      ],
+      "pin_cites": [
+        {
+          "page": "637"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/46/0636-01"
+      ]
+    },
+    {
+      "cite": "10 NY3d 703",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 AD3d 560",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3377285
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/45/0560-01"
+      ]
+    },
+    {
+      "cite": "65 AD3d 224",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5729223
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/65/0224-01"
+      ]
+    },
+    {
+      "cite": "205 AD2d 187",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1173401
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/205/0187-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 860",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4417294
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0860-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 445,
+    "char_count": 5927,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.12901099639399827
+    },
+    "sha256": "010638f855b5e3884e426b26a210c5bd343f6bfbf92db67232b4824586a7f85e",
+    "simhash": "1:60e285f93f525b55",
+    "word_count": 942
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arye Sachs, Plaintiff, v Richard A. Matano et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nArthur M. Diamond, J.\nDefendants’ motion for an order pursuant to CPLR 6301 granting a preliminary injunction compelling GoDaddy.com and plaintiff Arye Sachs to take down the website entitled “Matano-Kills?” at uniform resource locator (URL) www.matanokill.com, and enjoining plaintiff from posting any further defamatory content concerning defendants Richard Matano, M.D. and St. Francis Hospital, is granted in its entirety.\nPlaintiff commenced this medical malpractice action claiming that Dr. Matano was negligent in treating his diabetic foot ulcer during his admission to defendant St. Francis Hospital from November 2, 2013 to December 24, 2013. Plaintiff has established a website on GoDaddy.com entitled “Matano-Kills?” whereby he seeks other patients for a class action malpractice suit by comparing Dr. Matano to the notorious Nazi doctor, Josef Mengele, and asserts that he is anti-Semitic. (Exhibit J.) Plaintiff also claims, “Beware, he is stubborn, act[s] like a mule, and will discriminate against you if you are not Italian with a Mercedes Benz.” He has also posted pictures of the defendant’s family.\nIn order to obtain a preliminary injunction, defendants must demonstrate that there is the danger of irreparable harm if the injunction is not granted, the likelihood of success on the merits and that the balance of the equities is in defendants’ favor. (Aetna Ins. Co. v Capasso, 75 NY2d 860 [1990].) The existence of factual disputes will not preclude the granting of a preliminary injunction in order to maintain the status quo. (U.S. Reins. Corp. v Humphreys, 205 AD2d 187 [1994].) Here, defendants have satisfied all three elements. Defendants claim that the statements published by plaintiff on GoDaddy.com are defamatory and designed to injure the defendants’ reputations and businesses. This court agrees.\nThe elements of defamation are: a false statement; published without privilege or authorization to a third party; constituting fault as judged by, at a minimum, a negligence standard; which causes special harm or constitutes defamation per se. (Epifani v Johnson, 65 AD3d 224 [2d Dept 2009]; Salvatore v Kumar, 45 AD3d 560 [2d Dept 2007], lv denied 10 NY3d 703 [2008].) A false, i.e., defamatory, statement is libelous per se if it charges another with a serious crime or tends to injure another in his or her trade, business or profession. (Matovcik v Times Beacon Record Newspapers, 46 AD3d 636, 637 [2d Dept 2007].)\nWhether particular words are reasonably susceptible of a defamatory meaning presents a question to be determined by the court in the first instance. (Kamalian v Reader’s Digest Assn., Inc., 29 AD3d 527, 528 [2d Dept 2006].) The court must look at the content of the entire communication, its tone and apparent purpose, to determine whether a reasonable person would consider it as conveying facts about the defendants. (Gjonlekaj v Sot, 308 AD2d 471, 473 [2d Dept 2003].) Merely because words are offensive or impute unlawful behavior does not render them slanderous in and of themselves, i.e., slander per se. Words, however, which have a tendency to disparage an individual, inter alia, with respect to his office, trade or business are slanderous per se. As such, the law presumes that damages will result. They need not, therefore, be alleged or proved. (Epifani v Johnson.)\nIt is well established that many statements that might otherwise be considered defamatory may be protected by a qualified privilege. A privileged statement is one which, but for the occasion on which it is uttered, would be defamatory and actionable. (Park Knoll Assoc. v Schmidt, 59 NY2d 205, 208 [1983].) Good faith communications made by a party having an interest in the subject, or a moral or societal duty to speak, are protected by a qualified privilege if made to a party having a corresponding interest. (El-Hennawy v Davita, Inc., 50 AD3d 625 [2d Dept 2008].)\nA qualified privilege is conditioned on its proper exercise and cannot shelter statements published with malice or with knowledge of their falsity or reckless disregard as to their truth or falsity. (Loughry v Lincoln First Bank, 67 NY2d 369, 376 [1986].) Where the relevant facts are not in dispute, it is for the court, not the jury, to decide whether a qualified privilege exists. (Harris v Hirsh, 228 AD2d 206, 207 [1st Dept 1996], lv denied 89 NY2d 805 [1996].)\nThis is not a website whereby plaintiff seeks other individuals similarly situated that may have been injured by an alleged malpractice in order to establish a class action, but rather this website is couched in terms designed to irreparably damage the reputations and businesses of defendants. The comparison of Dr. Matano to the Nazi doctor, Josef Mengele, and bald conclusory claims of anti-Semitism and “Matano-Kills,” are not a protected qualified privilege, but rather bald reckless assertions in disregard of the truth. Dr. Josef Mengele was a notorious Nazi doctor during World War II who selected Jews for the gas chambers, and performed deadly human experiments on prisoners. To compare any one in the medical profession to such a criminal is beyond the pale. The tone of plaintiffs statements, and the statements themselves, are nothing more than an attack on the defendants designed to injure their reputations and businesses. As such, plaintiff does not have a qualified privilege to make those statements.\nAccordingly, it is hereby ordered, that GoDaddy.com shall take down the URL www.matanokill.com forthwith, and it is further ordered, that plaintiff, Arye Sachs, is enjoined from posting such defamatory and slanderous statements on any other website.",
+        "type": "majority",
+        "author": "Arthur M. Diamond, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Bartlett, McDonough & Monaghan, LLP, Mineóla (.Robert Elliot of counsel), for defendants.",
+      "Arye Sachs, plaintiff pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[22 NYS3d 310]\nArye Sachs, Plaintiff, v Richard A. Matano et al., Defendants.\nSupreme Court, Nassau County,\nOctober 28, 2015\nAPPEARANCES OF COUNSEL\nBartlett, McDonough & Monaghan, LLP, Mineóla (.Robert Elliot of counsel), for defendants.\nArye Sachs, plaintiff pro se."
+  },
+  "file_name": "2070-01",
+  "first_page_order": 444,
+  "last_page_order": 447
+}

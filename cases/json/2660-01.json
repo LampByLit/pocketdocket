@@ -1,0 +1,605 @@
+{
+  "id": 12299103,
+  "name": "New Yorker Hotel Management Co., Inc., Plaintiff, v. District Council No. 9 New York IUPAT, Defendant",
+  "name_abbreviation": "New Yorker Hotel Management Co. v. District Council No. 9 New York IUPAT",
+  "decision_date": "2017-01-27",
+  "docket_number": "",
+  "first_page": "437",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 437"
+    },
+    {
+      "type": "parallel",
+      "cite": "45 N.Y.S.3d 909"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "203 F3d 703",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11486440
+      ],
+      "pin_cites": [
+        {
+          "page": "711"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/203/0703-01"
+      ]
+    },
+    {
+      "cite": "481 US 429",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216525
+      ],
+      "pin_cites": [
+        {
+          "page": "442-443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0429-01"
+      ]
+    },
+    {
+      "cite": "29 USC § 152",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 AD3d 620",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3930719
+      ],
+      "pin_cites": [
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/0620-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 174",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        956686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0174-01"
+      ]
+    },
+    {
+      "cite": "2000 WL 35534988",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 NY Slip Op 50733",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Misc 3d 1006",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 AD2d 434",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1026722
+      ],
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/169/0434-01"
+      ]
+    },
+    {
+      "cite": "299 AD2d 207",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        559869,
+        560061
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0207-02",
+        "/ad2d/299/0207-01"
+      ]
+    },
+    {
+      "cite": "33 AD3d 550",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3753050
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/33/0550-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 890",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3751649
+      ],
+      "pin_cites": [
+        {
+          "page": "891"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0890-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 54",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422095
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0054-01"
+      ]
+    },
+    {
+      "cite": "39 F3d 191",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10522675
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/39/0191-01"
+      ]
+    },
+    {
+      "cite": "840 F Supp 697",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        130207
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/840/0697-01"
+      ]
+    },
+    {
+      "cite": "496 US 91",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12121937
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0091-01"
+      ]
+    },
+    {
+      "cite": "125 F3d 1230",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        910653
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1237"
+        },
+        {
+          "page": "1236-1237"
+        },
+        {
+          "page": "1237-1238"
+        },
+        {
+          "page": "1233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/125/1230-01"
+      ]
+    },
+    {
+      "cite": "383 US 53",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167192
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "64-65"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0053-01"
+      ]
+    },
+    {
+      "cite": "418 US 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172714
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "282"
+        },
+        {
+          "page": "272-273, 281-282"
+        },
+        {
+          "page": "283"
+        },
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0264-01"
+      ]
+    },
+    {
+      "cite": "434 US 969",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6463616,
+        6463712,
+        6464514,
+        6464610,
+        6464322,
+        6463971,
+        6464412,
+        6464105,
+        6464691,
+        6464217,
+        6463834,
+        6463516
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0969-02",
+        "/us/434/0969-03",
+        "/us/434/0969-10",
+        "/us/434/0969-11",
+        "/us/434/0969-08",
+        "/us/434/0969-05",
+        "/us/434/0969-09",
+        "/us/434/0969-06",
+        "/us/434/0969-12",
+        "/us/434/0969-07",
+        "/us/434/0969-04",
+        "/us/434/0969-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 369",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331447
+      ],
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0369-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 283",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347381
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "286"
+        },
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0283-01"
+      ]
+    },
+    {
+      "cite": "261 AD2d 34",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        108384
+      ],
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/261/0034-01"
+      ]
+    },
+    {
+      "cite": "136 AD2d 453",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3538020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/136/0453-01"
+      ]
+    },
+    {
+      "cite": "197 AD2d 554",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1143448,
+        1142609
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/197/0554-01",
+        "/ad2d/197/0554-02"
+      ]
+    },
+    {
+      "cite": "242 NY 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1974919
+      ],
+      "pin_cites": [
+        {
+          "page": "211-212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/242/0208-01"
+      ]
+    },
+    {
+      "cite": "16 AD3d 342",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        804860,
+        804911
+      ],
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/16/0342-01",
+        "/ad3d/16/0342-02"
+      ]
+    },
+    {
+      "cite": "46 NY2d 223",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339376
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0223-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 41",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4224282
+      ],
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0041-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 75",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3818236
+      ],
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0075-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 428",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4240763
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0428-01"
+      ]
+    },
+    {
+      "cite": "27 NY3d 1039",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        6786485
+      ],
+      "pin_cites": [
+        {
+          "page": "1043"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/27/1039-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 862,
+    "char_count": 12876,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25024084415732345
+    },
+    "sha256": "7f6c57f6d80db76c809d419051da88ed8055ce8fbe70aba3e0e723c9f3718373",
+    "simhash": "1:2b4c8df262db5a60",
+    "word_count": 2154
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "New Yorker Hotel Management Co., Inc., Plaintiff, v District Council No. 9 New York IUPAT, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRichard F. Braun, J.\nThis is an action for defamation seeking damages, and preliminary and permanent injunctive relief, arising out of the giving out of handbills by defendant District Council No. 9 New York IUPAT outside of the premises of plaintiff New Yorker Hotel. Defendant is a union representing painters. The three versions of the handbills in question all begin in large bold print:\n“NOTICE TO THE PUBLIC “THE New Yorker HOTEL—INFESTED WITH BED BUGS”\nIn somewhat smaller type size in the very next line of each handbill, but all still in large bold print, the handbills state:\n“THE WORD [sic] BED BUG IS DEFINED AS ONE WHO SUCKS THE FINANCIAL BLOOD FROM ITS WORKERS.”\nThe handbills went on to explain that painters who were hired to paint the hotel were not being paid wages and benefits that have been established by defendant’s workers for the area. One set of handbills further requested:\n“PLEASE HELP US SEND A MESSAGE TO THE NEW YORKER & CAULDWELL WINGATE LETS [sic] TELL THEM THAT IF THEY CONTINUE TO DO BUSINESS IN THIS MANNER, WE (THE RESIDENTS OF NEW YORK CITY) ARE ALL IN DANGER OF OUR LIVING STANDARDS BEING ERODED BY BIG FAT BED BUGS!”\nIn other versions of the handbill, the substance was the same, except that they were addressed not to plaintiff, Cauldwell Wingate, and a painting company but only to plaintiff and the latter, and the wording was only slightly different. All of the handbills included photos or drawings of bedbugs.\nDefendant moves for summary judgment dismissing the complaint. Defendant contends that the handbills as a whole make clear that the use of bedbugs is figurative, that plaintiff has not shown actual malice, and that intemperate rhetoric is protected speech in the context of labor disputes. Plaintiff counters that there are issues of fact that exist as to whether the handbills maliciously sought to create a false impression that plaintiff’s hotel was infested with bedbugs, which harmed plaintiffs business reputation.\nA party moving for summary judgment must show prima facie an entitlement to judgment as a matter of law by tendering sufficient evidence to demonstrate the absence of any material issues of fact (Friends of Thayer Lake LLC v Brown, 27 NY3d 1039, 1043 [2016]; Pokoik v Pokoik, 115 AD3d 428 [1st Dept 2014]; CPLR 3212 [b]). To defeat summary judgment, the party opposing the motion has to show that there is a material question(s) of fact that requires a trial (Zuckerman v City of New York, 49 NY2d 557, 562 [1980]; Kershaw v Hospital for Special Surgery, 114 AD3d 75, 82 [1st Dept 2013]; see Hoover v New Holland N. Am., Inc., 23 NY3d 41, 56 [2014]). Conclusory allegations are inadequate in opposition to a summary judgment motion (Rotuba Extruders v Ceppos, 46 NY2d 223, 231 [1978]; Ruggiero v Cardella Trucking Co., 16 AD3d 342, 344 [1st Dept 2005]).\nDefamation grows out of the making of a false statement that “tends to expose the plaintiff to public contempt, ridicule, aversion or disgrace, or induce an evil opinion of him in the minds of right-thinking persons, and to deprive him of their friendly intercourse in society.” (Sydney v MacFadden Newspaper Publ. Corp., 242 NY 208, 211-212 [1926].) CPLR 3016 (a) requires that in a defamation action, “the particular words complained of. . .be set forth in the complaint.” The complaint has to “allege the time, place, and manner of the false statement and specify to whom it was made (Arsenault v Forquer, 197 AD2d 554; Vardi v Mutual Life Ins. Co., 136 AD2d 453).” (Dillon v City of New York, 261 AD2d 34, 38 [1st Dept 1999].)\nExpressions of opinion “false or not, libelous or not, are constitutionally protected and may not be the subject of private damage actions” (Steinhilber v Alphonse, 68 NY2d 283, 286 [1986], quoting Rinaldi v Holt, Rinehart & Winston, 42 NY2d 369, 380 [1977], cert denied 434 US 969 [1977]). A state remedy for libel derived from labor unrest is preempted by federal law in that a plaintiff must demonstrate malice and actual damages (Letter Carriers v Austin, 418 US 264, 282 [1974]; Linn v Plant Guard Workers, 383 US 53, 64-65 [1966]). Malice in the defamation context is knowledge that the defamatory statement is false or in reckless disregard of whether the statement is false or not (see Letter Carriers v Austin, 418 US at 272-273, 281-282).\nThus, “federal law gives a union license to use intemperate, abusive, or insulting language without fear of restraint or penalty if it believes such rhetoric to be an effective means to make its point” (Letter Carriers v Austin, 418 US at 283), provided that it is not a malicious falsehood (see Linn v Plant Guard, 383 US at 63; San Antonio Community Hosp. v Southern Cal. Dist. Council of Carpenters, 125 F3d 1230, 1237 [1997] [“the legal question in this case is whether a statement of . . . fact is nonetheless so misleading that it falls beyond the First Amendment’s protections” (internal quotation marks omitted)], quoting Peel v Attorney Registration and Disciplinary Comm’n of Ill., 496 US 91, 107 n 14 [1990]).\nConsequently, in Beverly Hills Foodland, Inc. v United Food & Commercial Workers Union, Local 655 (840 F Supp 697, 701 n 2, 705 [ED Mo 1993], affd 39 F3d 191 [8th Cir 1994]) the court held that a union handbill entitled “Don’t Help Feed the Rat” that identified the plaintiff as a “rat” and a “rat employer” was protected under federal labor law. The court held that “rat” could not be construed as a misrepresentation of fact and that no reader would believe that the owner/manager of Beverly Hills Foodland Supermarket was actually a rodent.\nIn contrast, in San Antonio Community Hosp. v Southern Cal. Dist. Council of Carpenters (125 F3d 1230, 1236-1237 [9th Cir 1997]), the defendant union’s members held a banner near the maternity entrance to the plaintiff hospital that stated “THIS MEDICAL FACILITY IS FULL OF RATS.” The Ninth Circuit, in affirming the grant of a preliminary injunction against the union enjoining it from using the term “Rats,” agreed with the District Court that there was a high probability that members of the public would be and actually were deceived by the use of that phrase on a banner, where the contractor Best Interiors was not clearly identified as a rat contractor. “Best Int.” was identified in small handwritten letters at the bottom of the banner as the entity with which the union had a dispute, but the court found it would be difficult for passersby in cars to see that {id. at 1237-1238).\nThis case is similar to San Antonio Community Hosp., but, by defining bedbug prominently in the second line of the handbill “as one who sucks the financial blood from its workers,” and by the understandable interpretation of the statement regarding erosion of New York City residents’ living standards as not meaning that plaintiff actually had bedbugs, defendant made it clear that the claim that plaintiff hotel is infested with bedbugs is metaphorical and not an assertion of fact. Anyone who reads past the title of the handbills would be so informed. While plaintiff’s sensitivity to any association with bedbugs is understandable, and someone who just read the title of the handbills could be misled, the entire context of the statement must be considered (see Steinhilber v Alphonse, 68 NY2d at 292). Moreover, plaintiff fails to offer proof supporting its allegation that patrons of the hotel were misled by the handbills (cf. San Antonio Community Hosp. v Southern Cal. Dist. Council of Carpenters, 125 F3d at 1237-1238 [evidence from employees demonstrated “a statistically significant drop in maternity patients”]).\nConsequently, the circumstances are closer to Beverly Hills Foodland, Inc. than they are to San Antonio Community Hosp. In San Antonio Community Hosp., the qualification was deemed to be too inconspicuous and unclear to suffice to establish that the claim that the hospital was full of rats was merely symbolic. Here, the definitional qualifier is sufficiently prominent and clear to distinguish this case from San Antonio Community Hosp. Indeed, following the issuance of the preliminary injunction by the trial court in San Antonio Community Hosp., the union began displaying a second banner alongside the first one, which stated “Best Interiors is the Rat Contractor.” The District Court declined the plaintiff’s application for a contempt citation finding that “the injunction had not been violated because the Union had clarified the misleading nature of the term ‘rats’ ” (id. at 1238).\nThus, the handbills here cannot be understood to include a defamatory falsehood, but merely the type of immoderate rhetoric often associated with labor disputes (see Letter Carriers v Austin, 418 US at 283). The fact that defendant was trying to pressure plaintiff and portray it in a negative light with respect to its labor practices does not mean defendant was acting maliciously as that term applies to expression in labor disputes (id. at 281).\nIn any event, this court is not bound by the holding in San Antonio Community Hosp. but can choose to follow Beverly Hills Foodland, Inc. as more persuasive under the circumstances here (see People v Kin Kan, 78 NY2d 54, 60 [1991]). In these times and in all times, the rights of a union to speak freely on behalf of its workers must be upheld as long as the speech is non-defamatory. Freedoms of speech, assembly, the press, and religion are necessary bulwarks of a truly democratic society.\nPlaintiff’s allegations of oral statements by defendant’s members in addition to the handbills are insufficient to raise an issue of fact that would defeat summary judgment. Defendant has made a showing that the oral statements were not made, by stating that its members did not speak to the public about the subject matter of the handbills.\nWhile plaintiff can rely on a verified pleading in lieu of an affidavit (CPLR 105 [u]; Sanchez v National R.R. Passenger Corp., 21 NY3d 890, 891 [2013]), the conclusory allegations in the complaint claiming that oral statements were made by union members that the hotel was infested with bedbugs lack the specificity necessary to plead defamation (CPLR 3016 [a]; Rosenberg v Home Box Off., Inc., 33 AD3d 550, 550 [1st Dept 2006] [“Plaintiff failed to plead the time, place and manner in which the alleged words were stated, or any specifics as to third persons to whom the words were communicated”]). Plaintiff does not plead the names of those who allegedly made the statements or the name of any person to whom they were made (see Bell v Alden Owners, 299 AD2d 207, 208 [1st Dept 2002] [“The claimed defamatory remarks were alleged to have been made by unknown persons to certain unspecified individuals, at dates, times and places left unspecified”]; Williams v Varig Brazilian Airlines, 169 AD2d 434, 437 [1st Dept 1991]; A. Brod, Inc. v Worldwide Dreams, L.L.C., 4 Misc 3d 1006[A], 2004 NY Slip Op 50733 [U], *5 [Sup Ct, NY County 2004]). Consequently, the allegations in the complaint are insufficient to defeat summary judgment as to the slander claim.\nFinally, the complaint seeks a preliminary injunction. That request must be dismissed. A preliminary injunction is a provisional remedy granted during the pendency of an action. Such a request is not a separate cause of action and should not be asserted in a pleading but rather by motion (CPLR 6001, 6301, 6311, 6312; Cho v 401-403 57th St. Realty Corp., 2000 WL 35534988 [Sup Ct, NY County 2000], affd 300 AD2d 174 [1st Dept 2002]; see Pamela Equities Corp. v 270 Park Ave. Café Corp., 62 AD3d 620, 621 [1st Dept 2009]).\nAccordingly, by separate decision and order, summary judgment was granted to defendant and the complaint was dismissed.\n. There is no dispute that defendant’s complaints about plaintiff not paying union level wages and benefits to painters is a labor dispute (29 USC § 152 [9]; Labor Law § 807 [10] [c]; see Burlington Northern R. Co. v Maintenance of Way Employes, 481 US 429, 442-443 [1987]; Burlington N. Santa Fe Ry. Co. v International Bhd. of Teamsters Local 174, 203 F3d 703, 711 [9th Cir 2000]).\n. “[I]n five-inch red capital letters on two lines that appear just above the feet of the banner’s holders, it reads: ‘CARPENTERS L.U. 1506 HAS A DISPUTE WITH [_] FOR FAILING TO PAY PREVAILING WAGES TO ITS WORKERS.’ In the blank space, in two-inch black handwritten letters, the banner reads: ‘Best Int.’ ” (San Antonio Community Hosp. v Southern Cal. Dist. Council of Carpenters, 125 F3d at 1233).",
+        "type": "majority",
+        "author": "Richard F. Braun, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Barnes, Iaccarino & Shepherd LLP, Elmsford (Steven H. Kern and Lauren M. Kugielska of counsel), for defendant.",
+      "Venable LLP, New York City (.Michael J. Volpe and Nicholas M. Reiter of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[45 NYS3d 909]\nNew Yorker Hotel Management Co., Inc., Plaintiff, v District Council No. 9 New York IUPAT, Defendant.\nSupreme Court, New York County,\nJanuary 27, 2017\nAPPEARANCES OF COUNSEL\nBarnes, Iaccarino & Shepherd LLP, Elmsford (Steven H. Kern and Lauren M. Kugielska of counsel), for defendant.\nVenable LLP, New York City (.Michael J. Volpe and Nicholas M. Reiter of counsel), for plaintiff."
+  },
+  "file_name": "2660-01",
+  "first_page_order": 461,
+  "last_page_order": 467
+}

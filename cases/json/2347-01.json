@@ -1,0 +1,253 @@
+{
+  "id": 6789395,
+  "name": "Elizabeth L., Petitioner, v. Jaris S. et al., Respondents",
+  "name_abbreviation": "Elizabeth L. v. Jaris S.",
+  "decision_date": "2016-06-01",
+  "docket_number": "",
+  "first_page": "777",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 777"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 475"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "40 Cap U L Rev 437",
+      "category": "journals:journal",
+      "reporter": "Cap. U. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 NY2d 651",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4420653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0651-01"
+      ]
+    },
+    {
+      "cite": "62 AD3d 595",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3935901,
+        3938327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/0595-02",
+        "/ad3d/62/0595-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 52002",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Misc 3d 1208",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 AD3d 200",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3497401
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/100/0200-01"
+      ]
+    },
+    {
+      "cite": "80 Misc 2d 217",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1283757
+      ],
+      "pin_cites": [
+        {
+          "page": "219-220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/80/0217-01"
+      ]
+    },
+    {
+      "cite": "194 AD2d 444",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1132344
+      ],
+      "pin_cites": [
+        {
+          "page": "444-445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/194/0444-01"
+      ]
+    },
+    {
+      "cite": "236 AD2d 544",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        83029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/236/0544-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0382-01"
+      ]
+    },
+    {
+      "cite": "20 Fordham L Rev 343",
+      "category": "journals:journal",
+      "reporter": "Fordham L. Rev.",
+      "pin_cites": [
+        {
+          "page": "343-344, 352"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "440 US 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180205
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0125-01"
+      ]
+    },
+    {
+      "cite": "287 AD2d 816",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        386824
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/287/0816-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 299",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0299-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 543",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326292
+      ],
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0543-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1081,
+    "char_count": 27101,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18251623936376213
+    },
+    "sha256": "c7dc531106f29c56c91597b4ba6b516e44c1d323ddc689844934443ae7a23951",
+    "simhash": "1:82cdb6c519801a8d",
+    "word_count": 4460
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elizabeth L., Petitioner, v Jaris S. et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nErik S. Pitchal, J.\nNow pending before the court are the motions filed by Mercy First seeking to dismiss the custody and visitation petitions of Elizabeth L. concerning the children Clarissa and Michael P. In considering these motions, the court has reviewed the moving papers dated August 28, 2015; the Attorney for the Children’s affirmation in support of the motions, dated May 12, 2016; response papers filed by counsel for Ms. L., dated May 12, 2016; and the affirmation of counsel for the children’s mother, dated May 12, 2016. For the reasons that follow, the motions are denied.\nBackground\nTwins Clarissa and Michael P. were born to their mother, Ja-ris S., on xx/xx/2009. On January 4, 2010, the Administration for Children’s Services filed petitions (dockets NN-02xxx/10) alleging that they were derivatively neglected due to Ms. S.’s prior neglect of older children and her failure to remediate that neglect.\nWhen ACS first removed the children, there was discussion among the Family Court and the parties to the neglect docket as to where they should be placed and with what custodial status. Initially, the children were remanded to ACS. (See order directing temporary removal, dockets NN-02xxx/10, dated Jan. 4, 2010.) Ms. S. wanted the children directly released under Family Court Act § 1017 to Ms. L., but ACS opposed this application, citing Ms. L.’s criminal history and insufficient income; for these same reasons, ACS also determined that Ms. L. was not approvable as a kinship foster parent. (Jan. 13, 2010 tr at 7-8.) In response, the court (Lim, J.) directed Ms. L. to file custody or guardianship petitions so that an investigation could be ordered, to generate a more detailed background report. (Id. at 10-12.) Ms. L. did file guardianship petitions (dockets G-03xxx/10). Two weeks later, upon receiving the results of the investigation, Judge Lim released the children to Ms. L. under the neglect dockets, on condition that she not leave them alone with Ms. S. (Feb. 1, 2010 tr at 23-25.)\nEventually, the determination was made that the children’s custodial status should change, but that they should remain with Ms. L. Thus, on May 18, 2010, the court once again legally remanded the children to the temporary custody of the Commissioner of ACS, but this time restricted the remand to Ms. L.’s home, which had by then been approved as a kinship foster home. (See order dated May 18, 2010, dockets NN-02xxx/10.) It is not entirely clear why ACS changed its view on approving Ms. L. as a foster parent. Presumably, the issue regarding her criminal history had been adequately addressed, and her need for the foster care funds drove the mutual decision to have the children’s status changed to a remand. ACS referred the matter to Mercy First for case planning, management, and supervision services.\nFollowing a hearing, a finding of neglect regarding the twins was made against Ms. S. on February 9, 2011. At disposition on March 17, 2011, the children were placed with the Commissioner of ACS. The foster care agency filed a termination of parental rights action on June 20, 2011, and after a trial, the court (Mostofsky, J.) found that Ms. S. had permanently neglected the children (as well as their older siblings). (See decision in dockets B-16xxx/ll, dated Jan. 31, 2013.)\nA dispositional hearing was never conducted on the termination petitions. Instead, the parties settled the matter. On July 25, 2014, Ms. S. voluntarily surrendered her parental rights to the twins on the conditions that Ms. L. adopt them and that she have certain post-adoption visitation with them. The agency consented to these conditions and the court (Olshansky, J.) found them to be in the children’s best interests. (See generally dockets AS-17xxx/14; Social Services Law § 383-c.)\nMs. L. did not adopt the children. Instead, just two months after the court approved Ms. S.’s surrender, the agency removed the children from Ms. L.’s home due to allegations that she assaulted her boyfriend in their presence. (A separate allegation involving sexual abuse was deemed unfounded.) Ms. L. pursued an administrative appeal of the agency’s actions, which she lost. (See decision after fair hearing, Office of Children and Family Services, docket FH#83xxx, dated Feb. 20, 2015 [annexed to the agency’s moving papers].) In the meantime, on February 17, 2015, she filed the instant petitions for visitation (dockets V-04xxx/15), and on March 6, 2015, she filed the instant petitions for custody (dockets V-06xxx/15). By motions dated August 28, 2015, Mercy First sought dismissal of these petitions due to lack of standing.\nMeanwhile, Ms. S. sought reinstatement of her parental rights, due to the failed condition in her surrenders. (See generally dockets AS-17xxx/14.) After a series of decisions and orders by the court, an evidentiary hearing was conducted and the court concluded that it would be in the children’s best interests to vacate Ms. S.’s surrenders. The case was returned to its ex ante legal posture: there is a finding on record that Ms. S. has permanently neglected the children, and the termination docket is now ripe for a dispositional hearing pursuant to Family Court Act § 631, as the agency still wishes to pursue adoption for them.\nDuring the recent proceedings under the AS dockets, the court held briefing and consideration of the motions to dismiss Ms. L.’s petitions in abeyance, as it appeared that the issue of whether she has standing to seek custody and/or visitation with the children could be affected by the outcome of the hearing to vacate Ms. S.’s surrenders. Once the court did vacate the surrenders, a briefing schedule was set for the motions to dismiss the L. petitions, and the motions are now fully submitted and ready for determination.\nAnalysis\nCustody\nIn general, non-parents have a common-law right to pursue custody of others’ children. In order to have standing, such petitioners must establish parental unfitness, abandonment, permanent neglect, or “like extraordinary circumstances.” (Matter of Bennett v Jeffreys, 40 NY2d 543, 544 [1976].) Here, extraordinary circumstances have been established by dint of the prior finding that Ms. S. permanently neglected the children. Ordinarily, then, Ms. L. would have the right to be heard on her contention that granting her custody of the children would be in their best interests.\nThe agency argues that there is an exception to general standing principles for foster parents, who it contends are legally barred from seeking a Family Court Act article 6 custody order over children in their care. This argument is without merit in the current case. While in general a foster parent may be barred from seeking legal custody (Matter of Michael B., 80 NY2d 299 [1992]), Ms. L. did not lose her status as a relative nor her standing to seek custody of the children when — and because — she became their foster parent. (Matter of Isaiah O. v Andrea P., 287 AD2d 816 [3d Dept 2001].)\nBefore becoming a foster parent, Ms. L. was a relative, the children’s paternal great-aunt. She was also their “direct release resource,” having been granted temporary responsibility for the children by the court under ACS supervision on the article 10 docket, pursuant to Family Court Act § 1017. She cared for them under this legal arrangement from February 1, 2010 until May 18, 2010, when the court granted temporary legal custody to ACS, on the understanding that Ms. L. had been approved as a kinship foster parent. Judge Lim’s May 18, 2010 order explicitly restricted the remand to Ms. L.’s home, under his authority in section 1017 (2) (a) (iii).\nHad she never become their foster parent, Ms. L. would unquestionably have standing, today, to seek legal custody of them under general Matter of Bennett v Jeffreys principles. For the agency’s theory to prevail, Ms. L.’s status as relative would have to be entirely vitiated by dint of her having served as the twins’ kinship foster parent. Such a result would be illogical and unjust. When the children’s legal status was changed on May 18, 2010, from a “release” to Ms. L. to a “remand” to ACS with Ms. L. being the foster parent, the only evident factor was her need for the subsidy that is provided to foster parents and which is not available to section 1017 caretakers. To be sure, when agreeing to become a kinship foster parent and accepting the subsidy, a relative must also understand and agree to be bound by the various regulations and policies governing foster parents. However, there is no indication that instruction was provided to Ms. L. that by agreeing to become a kinship foster parent, she would give up forever any right to petition the court for custody of the children. No such instruction is ever provided to relatives in this situation, because the law does not require relatives to make the untenable choice of accepting a foster care per diem in exchange for waiving their standing to pursue custody later.\nTo understand the implication of the agency’s position, a brief review of the history of kinship care is warranted. Over 40 years ago, the status of foster parent was generally reserved for openhearted souls who were recruited to or volunteered for the unheralded position; becoming a foster parent was not thought of as appropriate for relatives of the children who had been removed from their biological parents for their own safety. Since at least 1979, however, it has been clear that relatives are entitled under federal law to be foster parents and receive, among other things, the same board rate as non-relatives. (Miller v Youakim, 440 US 125 [1979].) Nevertheless, for several years afterwards, relatives serving as foster parents in New York City faced inequitable treatment, a situation remedied ultimately by the litigation Eugene F. v Gross (Sup Ct, Feb. 23, 1990, docket No. 86-1125). Since at least 1983, it has been the policy of New York State that upon removing a child from her home, a social services district should search for available and suitable relatives and endeavor to approve them as foster parents. (Marla Gottlieb Zwas, Kinship Foster Care: A Relatively Permanent Solution, 20 Fordham L Rev 343, 343-344, 352 [1992] [referencing legislative history of section 1017].) This policy is predicated on the principle that generally speaking, children in foster care have better outcomes when placed with relatives. (See University of California, Davis, Extension, the Center for Human Services, A Literature Review of Placement Stability in Child Welfare Service: Issues, Concerns, Outcomes and Future Directions at 8-9 [2008], available at http://www.childsworld.ca.gov/res/pdf/PlacementStability.pdf.) Presently, close to one third of children in foster care in New York City are in kinship homes. (City of New York, Mayor’s Management Report: Preliminary Fiscal 2016 at 162 [Goal lc], available at http://wwwl.nyc.gov/assets/operations/downloads/ pdPpmmr2016/2016_pmmr.pdf.)\nBeing a kinship foster parent means providing a child the best of both worlds: the benefits of foster care and the benefits of being cared for by a relative — which includes the accompanying legal protection of having standing to seek custody, if such a permanency outcome is deemed appropriate later on in the case. If relatives had to choose between becoming foster parents or maintaining their right to petition for custody or guardianship later in the case, the rate of kinship foster care would likely decline significantly, possibly returning New York to a less beneficial circumstance in which relatives are driven away from the foster care system if they want to provide care to children in their extended families.\nThe Family Court Act provides a mechanism for relatives to file for the custody or guardianship of a child in foster care, and for the court to terminate an ongoing article 10 proceeding with the granting of a final order on the article 6 petition. (Family Ct Act § 1089-a.) There is no prohibition in the statute for a relative who also happens to be the child’s foster parent to file such a petition. Non-subsidized guardianships are more commonly brought by relatives who are section 1017 release resources than by kinship foster parents, but there is nothing in the statute prohibiting kinship foster parents from doing so, either while they are foster parents or later, should they cease to be the subject children’s foster parents for any reason. Agencies need not consent to “regular” guardianship or custody petitions, nor must parents; there is a clear mechanism in the statute for family court to grant such a petition, if doing so is in the child’s best interests, despite opposition from either or both. Notably, if a parent objects to a guardianship petition brought by a non-parent, the court can only grant the petition upon a predicate finding of extraordinary circumstances. (See Family Ct Act § 1089-a [a] [iv] [A].) If the agency is opposed, no finding of extraordinary circumstances is required. (See Family Ct Act § 1089-a [a] [iv] [B].)\nTypically, when a foster child cannot return home, the permanency goal becomes adoption, but there are many reasons why a kinship foster parent may prefer to file an article 6 petition regarding a child in her care as opposed to pursuing an adoption. The primary reason is to take advantage of the subsidized kinship guardianship program known as Kinship Guardianship Assistance Program (KinGAP), which allows for the child to exit foster care to legal permanency; to be cared for permanently by the relative who has cared for him for six months or more; to avoid a termination of parental rights; and to have an ongoing subsidy provided to the caretaker until the child reaches majority. Only kinship foster parents are eligible for the KinGAP program in New York State. (NY Off of Children & Family Servs, Kinship Guardianship Assistance Program [KinGAP], ll-OCFS-ADM-03 at 6 [rev July 6, 2011], available at http://onlineresources.wnylc.net/pb/docs/ll-ocfs-adm-03.pdf.) Under the program, once the social services district has agreed to the arrangement in a given case, the kinship foster parent files a guardianship petition in family court pursuant to article 6. (Id. at 13.) Hundreds of KinGAP petitions are granted by New York City Family Court each year. (See Mayor’s Management Report: Preliminary Fiscal 2016 at 163 [275 KinGAP finalizations in city fiscal year 2015].) In each and every instance, the petitioner on the article 6 case is, by definition, an existing foster parent seeking guardianship of a child living in her approved kinship foster home. In each and every KinGAP case, a signed agreement between the foster parent and ACS — indicating ACS’s consent to the petition and promise to make an ongoing subsidy payment — is in place before the guardianship petition is filed. In sum, if foster parents lacked standing to be heard on article 6 petitions for children in their foster home, the KinGAP program could not exist.\nAdopting the foster care agency’s theory here would vest more power in agencies and social services districts than the statute provides and would abrogate the court’s role in determining the best interests of the children before it. It is undisputed that the court cannot direct an agency to approve or certify a relative as a foster parent but can only direct an agency to consider and investigate a nominated relative resource. (See Family Ct Act §§ 1017 [1]; 1028-a.) If a relative is so investigated and approved as a foster parent, a court can restrict any remand or placement of children before it to that specific foster home “where the court determines that such placement is in furtherance of the child’s best interests.” (Family Ct Act § 1017 [2] [b].) That was done here.\nOnce placed in a specified foster home, the court cannot order an agency or social services district to maintain a foster parent’s status as a foster parent, even if the person is also a relative, if, following an investigation governed by relevant regulations, the agency determines that the home must be closed and children removed therefrom. (People ex rel. Ninesling v Nassau County Dept. of Social Servs., 46 NY2d 382 [1978].) If her home is closed, an aggrieved foster parent’s only recourse to regain her foster parent status is to pursue administrative remedies, including a fair hearing and an article 78 proceeding in supreme court. (Id.) The standard of review in an article 78 proceeding is not whether the agency’s decision was in the child’s best interests, but whether the agency’s final determination was an abuse of its discretion. (See CPLR 7803.) In this case, after the children were in Ms. L.’s care for over four years, the agency removed them and closed her foster home, due to a determination that she was violent towards her boyfriend in their presence.\nAccording to the agency’s theory, once an agency closes a kinship foster home, and assuming its determination is affirmed by supreme court, there is no other legal mechanism for a relative whose foster home has been closed and relative foster children removed to regain care of the children, because under its reasoning former foster parents lack article 6 standing. The result is that a court that requires an agency to place a child in a specific relative foster home (because the court found that placement to be in the child’s best interests) can never revisit the question of whether that placement remains in the child’s best interests, albeit under a different legal status (custody or guardianship). In other words, the agency’s own actions usurp the court’s authority to make ongoing decisions about the child’s best interests. This is not, and cannot be, the law. Matter of Dina Michelle S. (236 AD2d 544 [2d Dept 1997]) does not hold otherwise; that case stands for the unremarkable proposition that family court is not the proper forum for a foster parent to appeal an adverse administrative ruling. Here, Family Court determined that the best interests of the children required them to be removed from foster care and released directly into Ms. L.’s temporary care and custody. Later, Family Court modified its determination and found that their best interests required them to be remanded back into foster care, restricted to Ms. L.’s approved kinship foster home. Four years later, Family Court found the surrender of parental rights, conditioned on Ms. L. adopting, to be in the children’s best interests. Though the agency has the authority to remove the children and close a previously-approved kinship foster home in a non-arbitrary way, the agency cannot, by its actions, render moot the court’s authority to revisit the children’s best interests in light of the closure of their foster home.\nThe authority and responsibility to make the ultimate decision about the child’s best interests lies with the court, not the agency; there is a “strong Legislative policy in favor of continuing Family Court jurisdiction over the child and family so that the court can do what is necessary in the furtherance of the child’s welfare.” (Matter of Shinice H., 194 AD2d 444, 444-445 [1st Dept 1993] [internal quotation marks omitted and emphasis added]; see also Matter of Samantha S., 80 Misc 2d 217, 219-220 [Fam Ct, Schenectady County 1974].) Considering that a foster parent has standing to intervene in any proceeding involving the custody of a child who has or had been in her care for a year or more (Social Services Law § 383 [3]), it makes little sense to prohibit a former relative foster parent in such circumstances from also being heard on her own application for custody, especially when the court has three times previously found the children’s best interests to lie in being cared for by her.\nThe closure of a kinship foster home due to regulatory violations by the provider should not mean that the court is forever divested of the opportunity to consider the propriety, under the best interests standard, of an article 6 order in favor of the relative. That the permanency goal at the time the kinship foster home is closed may be “placement for adoption” — in anticipation of an adoption by the kinship foster parent — does not foreclose a reconsideration of that plan. While the court cannot force the agency to consent to an adoption by any specific person (including, of course, a now-former foster parent) (Matter of Yary [Carol W.], 100 AD3d 200 [1st Dept 2012]), the court always retains the authority to modify the permanency goal. (Matter of D. Children v Geneva D., 25 Misc 3d 1208[A], 2009 NY Slip Op 52002[U] [2009]; Family Ct Act §§ 1061, 1089 [d] [2] [i].) Under the best interests standard, it may be that in a given case, the appropriate goal should be changed to “placement with a fit and willing relative” — the relative whose kinship foster home was closed by the agency. As noted above, the statute permits the court to grant a relative’s article 6 petition in the context of a permanency hearing in the related article 10 proceeding, upon a finding that a final order of custody or guardianship would be in the child’s best interests and related findings concerning safety, permanency, and well-being. (Family Ct Act § 1089-a [a].)\nThe agency’s theory in this case reifies the permanency goal of adoption at the expense of fair consideration of which person should provide permanency to the children, even if the choices available for the legal status are more limited after the agency decertifies a relative foster home. In determining what outcome would be in the best interests of the children, the primary and paramount concern should be deciding who the children’s caregiver ought to be. The concept of permanency means far more than mere stability or insulation from the possibility of a later change. From the children’s point of view, permanency means being raised by the person or people who are known to the children as their primary caretaker(s) and to whom the children have a firm attachment. The children’s placement should be “lasting,” as opposed to “binding.” (See Mark Testa & Jennifer Miller, Evolution of Private Guardianship as a Child Welfare Resource, Child Welfare for the 21st Century: A Handbook of Practices, Policies, and Programs 415-418 [Gerald P. Mallon & Peg McCartt Hess eds 2005].)\nIn sum, it is the bailiwick of family court, following a determination that the natural parents have permanently neglected a child, to weigh whether the child’s best interests require the granting of legal custody to a former kinship foster parent (should such a person file a petition) or the freeing of the child for adoption by the agency’s nominated non-kinship foster parent. (Matter of Evelyse Luz S., 62 AD3d 595 [1st Dept 2009].)\nVisitation\nMs. L. filed her custody petitions on March 6, 2015. Much litigation on ancillary matters has been required to get to the point where her petitions can be tried; by the time of the trial, it will have been some 15 months since their filing. It is not unusual for custody matters to take that long to get to trial. Given that the court has determined that Ms. L. does have standing to seek custody, it would be inequitable for her to be denied the opportunity to maintain some relationship with the children, through a temporary order of visitation, between filing and trial. Otherwise, the agency, which opposes her custody application, could influence the outcome of the trial by preventing her from maintaining contact with the children before the court hears all the evidence concerning the children’s best interests, evidence that will no doubt include testimony about the nature of the bond between the children and Ms. L.\nMatter of Alison D. v Virginia M. (77 NY2d 651 [1991]) and its progeny do not compel a different result. Alison D. provides a shield for parents against non-parents who seek to visit with their child over their objection, when the child is in the custody of the parent who has never been found unfit. Agencies do not possess a liberty interest in their relationship with their wards.\nConclusion and Order\nFor the foregoing reasons, both motions are denied. Ms. L.’s petitions shall be tried in consolidation with the pending dispositional hearing on the termination of parental rights dockets.\n. No papers were filed by the Administration for Children’s Services (ACS), the legal custodian of the children. At the time these motions were filed, the custody and guardianship of the children had been committed to Mercy First and ACS for the purpose of consenting to an adoption by Ms. L., in accordance with Ms. S.’s conditional surrender of her parental rights. At the time of determination of these motions, Ms. S.’s surrender had been vacated by court order, and the children’s custody reverted back to ACS alone by operation of law. It is assumed that ACS adopts the arguments of its contractor with respect to the pending motions. By email dated May 26, 2016, counsel for ACS indicated he did not plan to submit papers.\n. Ms. S.’s papers indicate that she seeks to have the children returned to her, but that in her view, Ms. L. is entitled to “a hearing on the issue of standing.” Respondent father Carlos P. has not appeared in this proceeding and filed no papers.\n. The children have not been in Ms. S.’s legal or physical custody since January 2010.\n. Eventually, in February 2011, the guardianship petitions were dismissed.\n. The court understands that Ms. L. currently has a CPLR article 78 petition pending.\n. It appears from the record that Ms. L. also did not have the benefit of counsel to advise her on this issue at the time she agreed to become a foster parent.\n. Like with recruited non-kinship foster parents, relatives who are approved as foster parents are assigned to a voluntary foster care agency for licensing, supervision, and case management services. This is a relatively recent feature of kinship foster care in New York City; previously, kinship foster homes were directly supervised by ACS.\n. The only prerequisite is that the permanency goal be set as “placement with a fit and willing relative” (§ 1089-a [a]), but the court has the authority to modify the goal at a permanency hearing. (Family Ct Act § 1089 [d] [2] [i].)\n. Even an adoption may not be as binding as the parties and court presume it to be at the time it is finalized. (See e.g. Dawn J. Post & Brian Zimmerman, The Revolving Doors of Family Court: Confronting Broken Adoptions, 40 Cap U L Rev 437 [2012].)",
+        "type": "majority",
+        "author": "Erik S. Pitchal, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "’Warren & Warren, P.C., Brooklyn (Ira Eras of counsel), for Mercy First, respondent.",
+      "Richard Munn, Brooklyn, Attorney for the Children.",
+      "Betty Staton, Brooklyn, for petitioner.",
+      "Brooklyn Defender Services (Kristal Padolina of counsel) for Jaris S., respondent.",
+      "Alan Sputz, Special Assistant Corporation Counsel, Family Court Legal Services, Brooklyn (Ethan Wolf of counsel), for Administration for Children’s Services-Kings, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 475]\nElizabeth L., Petitioner, v Jaris S. et al., Respondents.\nFamily Court, Kings Comity,\nJune 1, 2016\nAPPEARANCES OF COUNSEL\n’Warren & Warren, P.C., Brooklyn (Ira Eras of counsel), for Mercy First, respondent.\nRichard Munn, Brooklyn, Attorney for the Children.\nBetty Staton, Brooklyn, for petitioner.\nBrooklyn Defender Services (Kristal Padolina of counsel) for Jaris S., respondent.\nAlan Sputz, Special Assistant Corporation Counsel, Family Court Legal Services, Brooklyn (Ethan Wolf of counsel), for Administration for Children’s Services-Kings, respondent."
+  },
+  "file_name": "2347-01",
+  "first_page_order": 769,
+  "last_page_order": 781
+}

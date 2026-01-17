@@ -1,0 +1,721 @@
+{
+  "id": 6789513,
+  "name": "In the Matter of Nelline Douglas, Petitioner, v. New York City Department of Education, Respondent",
+  "name_abbreviation": "Douglas v. New York City Department of Education",
+  "decision_date": "2016-06-06",
+  "docket_number": "",
+  "first_page": "816",
+  "last_page": "835",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 816"
+    },
+    {
+      "type": "parallel",
+      "cite": "34 N.Y.S.3d 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "160 AD2d 414",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3620043
+      ],
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/160/0414-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 52324",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Misc 3d 1208",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 NY2d 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333065
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0268-01"
+      ]
+    },
+    {
+      "cite": "49 Misc 3d 675",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4353151
+      ],
+      "pin_cites": [
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/49/0675-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 52152",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Misc 3d 1228",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 AD3d 442",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4022917,
+        4026813
+      ],
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/0442-02",
+        "/ad3d/84/0442-01"
+      ]
+    },
+    {
+      "cite": "199 AD2d 613",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1153465
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/199/0613-01"
+      ]
+    },
+    {
+      "cite": "62 AD3d 1012",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3937928,
+        3932794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/1012-02",
+        "/ad3d/62/1012-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 938",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331367
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0938-01"
+      ]
+    },
+    {
+      "cite": "17 AD3d 823",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1191631
+      ],
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/17/0823-01"
+      ]
+    },
+    {
+      "cite": "96 AD3d 565",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5694696
+      ],
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/96/0565-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 716",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4172291,
+        4163771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0716-02",
+        "/ad3d/137/0716-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 446",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4300320,
+        4290931,
+        4302278
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "447"
+        },
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0446-02",
+        "/ad3d/117/0446-03",
+        "/ad3d/117/0446-01"
+      ]
+    },
+    {
+      "cite": "30 AD3d 532",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3655993,
+        3650749
+      ],
+      "pin_cites": [
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/30/0532-02",
+        "/ad3d/30/0532-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 544",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4238980,
+        4235109
+      ],
+      "pin_cites": [
+        {
+          "page": "546, 547"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0544-01",
+        "/ad3d/115/0544-02"
+      ]
+    },
+    {
+      "cite": "111 AD2d 1009",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5658823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/111/1009-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 384",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4069652
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "389"
+        },
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0384-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 584",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3701440,
+        3702307
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0584-02",
+        "/ad3d/101/0584-01"
+      ]
+    },
+    {
+      "cite": "43 AD3d 280",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3678655
+      ],
+      "pin_cites": [
+        {
+          "page": "280-281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/43/0280-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 104",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3638943
+      ],
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/6/0104-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 332",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3638765
+      ],
+      "pin_cites": [
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/6/0332-01"
+      ]
+    },
+    {
+      "cite": "59 NY2d 726",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4392082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0726-01"
+      ]
+    },
+    {
+      "cite": "91 AD2d 858",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5621817,
+        5627050
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/91/0858-01",
+        "/ad2d/91/0858-02"
+      ]
+    },
+    {
+      "cite": "67 NY2d 975",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4404986
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0975-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 222",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311764
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "230-231"
+        },
+        {
+          "page": "233"
+        },
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0222-01"
+      ]
+    },
+    {
+      "cite": "33 NY2d 229",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2309600
+      ],
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/33/0229-01"
+      ]
+    },
+    {
+      "cite": "55 NY2d 224",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4382311
+      ],
+      "pin_cites": [
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/55/0224-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 AD3d 502",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1239567
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/3/0502-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 543",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4010900
+      ],
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/0543-01"
+      ]
+    },
+    {
+      "cite": "17 NY3d 917",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3694897,
+        3690647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/17/0917-02",
+        "/ny3d/17/0917-01"
+      ]
+    },
+    {
+      "cite": "75 AD3d 445",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3983968
+      ],
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/75/0445-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 963",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3754497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0963-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 431",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5664934
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "437"
+        },
+        {
+          "page": "433, 434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/0431-01"
+      ]
+    },
+    {
+      "cite": "296 AD2d 755",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1007961
+      ],
+      "pin_cites": [
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/296/0755-01"
+      ]
+    },
+    {
+      "cite": "104 AD3d 415",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3712404
+      ],
+      "pin_cites": [
+        {
+          "page": "418-419"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/104/0415-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 146",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4435913
+      ],
+      "pin_cites": [
+        {
+          "page": "154-155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0146-01"
+      ]
+    },
+    {
+      "cite": "51 AD3d 563",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3598416
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "567"
+        },
+        {
+          "page": "567"
+        },
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/51/0563-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 50647",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Misc 3d 1215",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 NY Slip Op 51474",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Misc 3d 1206",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1524,
+    "char_count": 43841,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1825199075312885
+    },
+    "sha256": "4617a19f64ae73b54e088e21dae62dfbae319a2b6eee55b2efb855a0feffe9c2",
+    "simhash": "1:21e13fc3a03b2927",
+    "word_count": 6821
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Nelline Douglas, Petitioner, v New York City Department of Education, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nCarol R. Edmead, J.\nPetitioner Nelline Douglas, formerly a tenured public school teacher with respondent New York City Department of Education (DOE), brings this petition pursuant to CPLR 7511 (b). The petition seeks to vacate the November 20, 2015 decision and award of Hearing Officer Leah L. Murphy, Esq. (the Hearing Officer), who found, inter alia, just cause for petitioner’s termination. DOE cross-moves, pursuant to Education Law § 3020-a (5), CPLR 3211 (a) (7), and CPLR 7511, to dismiss the petition and/or confirm the award. Because petitioner failed to establish any of CPLR 75 ll’s narrow grounds for vacating the award, the petition is denied and, therefore, the decision is confirmed.\nBackground Facts\nPetitioner has been employed by DOE as a teacher since 2001, first in middle school and, since 2009, at Ryder Elementary School (PS 114). From 2001 and into her first two years at PS 114, petitioner received “satisfactory” ratings. After the 2010-2011 school year, Darwin Smith became principal at PS 114. In the next school year, 2012-2013, petitioner received an “unsatisfactory” rating.\nFor 2013-2014, under a new rating system and after six informal observations, petitioner received an “ineffective” rating. Thereafter, assistant principal Fields provided petitioner with a teacher improvement plan (TIP) for the 2014-2015 school year.\nDuring the 2014-2015 school year, assistant principal Reather Fields conducted three informal observations of the petitioner and one formal observation. Pursuant to “year-two” procedures (Education Law § 3012-c [5-a] [e]), Patricia Hanley, an independent validator, also observed petitioner’s teaching three times throughout the year. Based in part upon these evaluations, petitioner again received an “ineffective” rating.\nDuring the above two years that petitioner was rated “ineffective,” the objective performance of petitioner’s students on state and local measures of learning was rated “effective.”\nShortly after petitioner’s second consecutive “ineffective” rating, DOE commenced an action pursuant to Education Law §§ 3012-c, 3020, and 3020-a. The action alleged ineffective pedagogical practice during the 2013-2014 school year and, despite the implementation of a TIP and as confirmed by a peer validator, during the 2014-2015 school year as well. DOE also alleged that petitioner neglected her duties and failed to follow procedure and implement supervisory support, directives, and/or recommendations. According to DOE, the specifications amounted to:\n1. A pattern of ineffective teaching or performance pursuant to Education Law § 3012-c and a presumption that termination is warranted;\n2. Grounds for termination under Education Law §§ 3012-c (5-a) (j); 3020, 3020-a;\n3. Neglect of duty;\n4. Incompetent and inefficient service;\n5. Conduct unbecoming petitioner’s position;\n6. Conduct prejudicial to the good order, efficiency or discipline of the service;\n7. Substantial cause rendering petitioner unfit to properly perform obligations to the service; and\n8. Just cause for termination.\nPetitioner’s hearing took place on the record before the Hearing Officer on November 9, 10, and 12, 2015, during which time DOE called two witnesses: the peer validator and assistant principal Fields. Petitioner called only herself as a witness for her own case.\nBy decision dated November 20, 2015, the Hearing Officer concluded that DOE had met its prima facie burden of establishing “the presumption of [Petitioner’s] incompetence” and that petitioner “failed to produce substantial evidence to establish a credible dispute regarding her competency” (slip op at 10, 19). The Hearing Officer found petitioner “guilty as charged” on the first four specifications, “guilty of incompetence and inefficient service,” and held that the DOE has “just cause for termination” (id. at 24).\nThereafter, petitioner filed this action, setting forth four causes of action to vacate the decision: first, that the Hearing Officer’s actions were “arbitrary, capricious, and irrational” because the Hearing Officer made a mistake of law and exceeded her power and jurisdiction in placing the burden of substantial evidence (as opposed to preponderance of evidence) upon petitioner to rebut the “very strong” presumption of ineffective teaching utilized by the Hearing Officer; second, that the decision is “irrational” because it placed a higher burden upon the petitioner than DOE; third, that the decision is “irrational” because it disregards petitioner’s testimony in favor of only two DOE witnesses, one of whom had no knowledge of petitioner’s students or their individual needs; and fourth, that termination is excessive and shocks the conscience under the circumstances, and the Hearing Officer should have recognized the following “extraordinary circumstances” warranting remedial alternatives to termination that exist under Education Law § 3020: petitioner’s earlier, unblemished career with DOE, her “effective” rating in the area of student learning and satisfactory rating in 11 of her 14 years, and the objectively effective performance of petitioner’s students on state and local assessments during her “ineffective”/“unsatisfactory” years.\nIn support of its cross motion to dismiss, DOE makes several arguments: first, that the decision is rationally based on the record and that petitioner’s arguments amount to disagreements with the Hearing Officer’s factual and credibility determinations, which do not state bases to vacate the decision; second, that termination was the appropriate penalty based on the plain language of the Education Law and the Hearing Officer’s findings; and third, that petitioner cannot show that the decision was arbitrary and capricious because the Hearing Officer actually imposed a lower burden of proof upon petitioner than required by statute. To the extent that petitioner interposes new arguments not raised at her hearing, DOE argues that they cannot be reviewed for the first time here.\nIn opposition to DOE’s cross motion and in further support of her petition, petitioner argues that CPLR 3211 (a) (7) requires the court only to determine whether petitioner states a cause of action, not whether petitioner has a cause of action. Based on this standard, the cross motion, which speaks to the merits of the causes of action, must be denied because all of the causes of action set forth adequate bases for relief: namely, that the Hearing Officer’s decision was irrational when viewed in its totality, and that petitioner’s termination, when viewed in the context of the entire record, shocks the conscience. In any event, petitioner argues that she has established that the decision was irrational, and that the Hearing Officer’s penalty shocks the conscience.\nIn reply, DOE reiterates that the petition fails to state any adequate basis for relief, in that: first, the decision was rational and supported by the record; second, that the Education Law’s explicit provisions — whose constitutionality and application are not challenged by petitioner — justify the rebuttable presumption of incompetence after prima facie evidence has been provided; third, that termination was the appropriate penalty based on petitioner’s record and substantial precedent; and fourth, that the Hearing Officer’s application of the incorrect burden of proof actually assisted petitioner because it was lower than it should have been, and thus does not alter the analysis as to whether the findings were supported by the record, or whether the penalty was justified.\nDiscussion\nI. Petition to Vacate Arbitration Award\n“Education Law § 3020-a[5] provides that review of a hearing officer’s decision and award is limited to the grounds set forth in CPLR § 7511” (Matter of Roberts v Department of Educ. of the City of N.Y., 45 Misc 3d 1206[A], 2014 NY Slip Op 51474[U], *3 [Sup Ct, NY County 2014]; see also Abreu v New York City Dept. of Educ., 43 Misc 3d 1215 [A], 2014 NY Slip Op 50647 [U] [Sup Ct, NY County 2014], citing Lackow v Department of Educ. [or “Board”] of City of N.Y., 51 AD3d 563, 567 [1st Dept 2008]).\n“Under CPLR [§ ]7511, an award may be vacated only if (1) the rights of a party were prejudiced by corruption, fraud or misconduct in procuring the award, or by the partiality of the arbitrator; (2) the arbitrator exceeded his or her power or failed to make a final and definite award; or (3) the arbitration suffered from an unwaived procedural defect” (Roberts, 2014 NY Slip Op 51474[U], *3-4, citing Hackett v Milbank, Tweed, Hadley & McCloy, 86 NY2d 146, 154-155 [1995]).\nWhere, as here, the parties are subject to compulsory arbitration, “judicial scrutiny is stricter than that for a determination rendered where the parties have submitted to voluntary arbitration” (Matter of Asch v New York City Bd. / Dept. of Educ., 104 AD3d 415, 418-419 [1st Dept 2013], citing Lackow, 51 AD3d at 567). “The determination must be in accord with due process and supported by adequate evidence, and must also be rational and satisfy the arbitrary and capricious standards of CPLR article 78” (Lackow, 51 AD3d at 567). A section 3020-a decision is supported by adequate evidence when “there is a rational basis in [the whole record] for the findings of fact supporting the [hearing officer’s decision]” (Matter of Carroll [Pirkle], 296 AD2d 755, 756 [3d Dept 2002]; see also Matter of Principe v New York City Dept. of Educ., 94 AD3d 431, 437 [1st Dept 2012], affd 20 NY3d 963 [2012] [decision must be in accord with due process, have adequate evidentiary support, and cannot be arbitrary, capricious or irrational]).\nWith regard to fact and credibility findings, courts cannot substitute their judgment for that of a hearing officer who had the opportunity to hear and see witnesses (see City School Dist. of the City of N.Y. v McGraham, 75 AD3d 445, 450 [1st Dept 2010], affd 17 NY3d 917 [2011]). Thus, the credibility determinations of a hearing officer are entitled to deference, even where a party seeking to vacate a section 3020-a decision claims that there is evidence which conflicts with the hearing officer’s determination (see Cipollaro v New York City Dept. of Educ., 83 AD3d 543, 544 [1st Dept 2011]; Matter of Tasch v Board of Educ. of City of N.Y., 3 AD3d 502 [2d Dept 2004]).\nUltimately, the party challenging an arbitration determination has the burden of showing its invalidity (Caso v Coffey, 41 NY2d 153, 159 [1976]). Based on the submissions, petitioner fails to establish a basis to vacate the Hearing Officer’s decision.\nA. “Substantial Evidence” Requirement (Mistake of Law)\nAs to petitioner’s claim that the Hearing Officer made a mistake of law and exceeded her power and jurisdiction in incorrectly finding that the presumption of ineffective teaching was “very strong” and then, placing the burden of “substantial” evidence upon petitioner to rebut such presumption, such errors are not a basis for vacating petitioner’s termination.\nAs an initial matter, any misapplication of the law by the Hearing Officer is not included in the limited grounds for relief set forth in CPLR 7511 (Matter of Smith [Firemen’s Ins. Co.], 55 NY2d 224, 232 [1982] [even under heightened scrutiny of a compulsory arbitration proceeding, incorrect application of substantive law alone is not a sufficient basis for vacatur]; Matter of Associated Teachers of Huntington v Board of Educ., Union Free School Dist. No. 3, Town of Huntington, 33 NY2d 229, 235 [1973] [“Even where the arbitrator states an intention to apply a law, and then misapplies it, the award will not be set aside”]). Nevertheless, an overview of the applicable procedure is instructive in demonstrating that the Hearing Officer’s decision substantively tracked the applicable law and, even if it did not, was rational and not arbitrary or capricious.\nPursuant to statute and the collective bargaining agreement, teachers with tenure may not be fired except for just cause (Education Law § 3020 [1]). “Just cause” includes a pattern of ineffective teaching or incompetence, defined as two consecutive years with an annual professional performance review (“annual review”) in the lowest score bracket (see Education Law § 3012-c [2] [a] [2]-[6]). After the first year’s ineffective rating, a teacher is considered to be in “year two status” (Education Law § 3012-c [5-a] [b]), at which time an independent vali-dator is appointed to evaluate the teacher on the components of the annual review subject to the principal’s discretion (Education Law § 3012-c [5-a] [e]).\nIf a teacher in year two status is rated ineffective for the second consecutive year, and an independent validator agrees, the district may bring a proceeding pursuant to Education Law §§ 3020 and 3020-a (Education Law § 3012-c [5-a] |j]). In such proceedings, the district must allege that a teacher improvement plan was “developed and substantially implemented” after the teacher’s first ineffective rating (id.). Once that allegation is made, the two years of ineffective ratings constitute a pattern of ineffective teaching or performance that “give rise to a rebuttable presumption of incompetence” (id.). If the presumption is not successfully rebutted, the finding, absent extraordinary circumstances, constitutes just cause for removal (id.).\nPrior to July 1, 2015, it was clear, as petitioner argues, that Education Law § 3020-a first required DOE to demonstrate, by a preponderance of the evidence, that the disciplinary charges were justified (Matter of Pell v Board of Educ. of Union Free School Dist. No. 1 of Towns of Scarsdale & Mamaroneck, Westchester County, 34 NY2d 222, 230-231 [1974]; Matter of Martin v Ambach, 67 NY2d 975, 977 [1986]). That created a rebuttable presumption which shifted the burden of demonstrating competence to the respondent teacher (id.).\nHowever, effective July 15, 2015, the legislature amended the relevant statutes. The first amendment was to Education Law § 3020 (3), adding, in relevant part, the following language regarding the standards to be applied:\n“that two consecutive ineffective ratings pursuant to annual professional performance reviews conducted in accordance with the provisions of section three thousand twelve-c or three thousand twelve-d of this article shall constitute prima facie evidence of incompetence that can only be overcome by clear and convincing evidence that the employee is not incompetent in light of all surrounding circumstances, and if not successfully overcome, the finding, absent extraordinary circumstances, shall be just cause for removal” (L 2015, ch 56, § 1, part EE, § 2, subpart G, § 2 [emphasis added]; see also id. § 3020 [4] [a] [adding identical language]).\nThe next relevant change was to section 3020-a (3) (c), excising, as relevant here, the following language:\n“(i-a)(A) Where charges of incompetence are brought based solely upon a pattern of ineffective teaching or performance of a classroom teacher or principal . . . the hearing shall be conducted before and by a single hearing officer in an expedited hearing . . . “(B) ... a pattern of ineffective teaching or performance . . . shall constitute very significant evidence of incompetence” (L 2015, ch 56, § 1, part EE, § 2, subpart G, § 3 [emphasis added]).\nThe legislature also added section 3020-b, entitled “Streamlined removal procedures for teachers rated ineffective,” intended to apply to “classroom teachers . . . who receive two or more consecutive annual ineffective ratings pursuant to annual professional performance reviews conducted in accordance with the provisions of section [3012-c or 3012-d]” (§ 3020-b [1]; L 2015, ch 56, § 1, part EE, § 2, subpart G, § 4). Some of the language removed from section 3020-a was moved to section 3020-b, including the requirement of an allegation that the “employing board” develop a TIP for year two teachers (§ 3020-b [2] [d]) and of the various hearing procedures (§ 3020-b [3] [c]; L 2015, ch 56, § 1, part EE, § 2, subpart G, § 4).\nMost significantly, and relevant here because DOE argues that the new section evidences the Hearing Officer’s application of the proper burdens of proof (DOE mem of law at 23-24), the new language of section 3020-b (3) (c) provides:\n“(v) Legal Standard. (A) Two consecutive ineffective ratings pursuant to annual professional performance reviews conducted in accordance with the provisions of section [3012-c or 3012-d] of this article shall constitute prima facie evidence of incompetence that can be overcome only by clear and convincing evidence that the employee is not incompetent in light of all surrounding circumstances, and if not successfully overcome, the finding, absent extraordinary circumstances, shall be just cause for removal” (L 2015, ch 56, § 1, part EE, § 2, subpart G, § 4 [emphasis added]).\nTogether, the amendments to sections 3020, 3020-a, and 3020-b evidence the legislature’s intent to create a streamlined hearing procedure for teachers accused of a pattern of incompetence, and to clarify the specific standard to be applied by hearing officers. The new procedure and standards became effective on July 1, 2015 — two months before the charges of incompetence against petitioner were filed, and four months before petitioner’s hearing.\nIn her decision, the Hearing Officer apparently utilized the dictates of section 3020-b without explicitly invoking the statute. For example, the Hearing Officer begins her “Statutory Framework” analysis by stating that\n“This is a matter of first impression regarding the evidentiary requirements in ‘Expedited Incompetence’ hearings pursuant to Education Law § 3012-c. The new law provides for a streamlined process to discipline and terminate teachers who are deemed to have displayed a ‘pattern of ineffective teaching or performance.’. . . “[DOE] must present evidence to establish its prima facie case of incompetence by demonstrating first, that the Respondent has received two consecutive school years with the ineffective rating and third, during the second year or ‘year two,’ the Department has developed and substantially implemented a teacher improvement plan in accordance with the law. Once [DOE] has presented its prima facie case a rebuttable presumption is established that the teacher is ‘incompetent’ and ‘absent extraordinary circumstances,’ may be terminated” (decision at 7-8 [footnote omitted; emphasis added]).\nThe Hearing Officer, without citing to section 3020-b, explains:\n“There is no general rule of which I am aware, of the evidence required to overcome a rebuttable presumption. Furthermore, the statute is silent on what evidence is required to rebut an established presumption of incompetence. I have been presented with no legislative history, bill jackets or statements explaining why the presumption was created. . . .\n“With no legislative guidance or cases on point, I find the presumption of incompetence to be very strong. . . .\n“A very strong presumption, as found here, requires ‘substantial evidence’ to overcome. . . .\n“It would not serve the interests of justice to require the Respondent to prove her competence to rebut the presumption. I find that would be an unreasonably high burden. For that reason, I find that the presumption of incompetence can be rebutted by the production of substantial contradictory evidence sufficient to raise a valid and credible dispute regarding the Respondent’s competency. If the Respondent fails to produce such evidence, the presumption stands and absent extraordinary circumstances, the Respondent is terminated. . . . “[I]f the prima facie case is established, the arbitrator will determine whether the Respondent has produced substantial evidence to overcome the presumption [of incompetence]. If the presumption is not overcome, the Respondent will be terminated unless the Respondent has presented evidence of extraordinary circumstances which, if sustained, would warrant a different penalty. If the presumption is overcome, the entire record will be reviewed pursuant to . . . Education Law § 3020-a” (decision at 8-10 [emphasis added]).\nHere, the Hearing Officer properly applied the first step of the section 3020-b standards by requiring DOE to demonstrate prima facie evidence of incompetence. The Hearing Officer found that DOE’s evidence created a rebuttable, albeit “very strong,” presumption of incompetence. However, the Hearing Officer required petitioner to present “substantial” evidence, in conflict with the legislature’s express, unambiguous requirement in section 3020-b, that petitioner present “clear and convincing” (albeit a higher standard of) evidence to rebut the “very strong” presumption created by DOE’s submission of proof of petitioner’s ineffective ratings for two consecutive years, and of the TIP, which was issued in year two.\nYet, the Hearing Officer’s deviations notwithstanding, and as stated above, the court is limited in its review to the specific grounds for vacating an award listed in CPLR 7511 (Geneseo Police Benevolent Assn., Council 82, Am. Fedn. of State, County & Mun. Empls., AFL-CIO v Village of Geneseo, 91 AD2d 858 [4th Dept 1982], affd 59 NY2d 726 [1983] [potential objections in CPLR 7511 (b) and (c) are exclusive]).\nInasmuch as petitioner argues that the Hearing Officer “exceeded” her power (CPLR 7511 [b] [1] [iii]), such “an excess of power occurs only where the arbitrator’s award violates a strong public policy, is irrational or clearly exceeds a specifically enumerated limitation on the arbitrator’s power” and as applicable herein, petitioner’s claim that the decision is irrational and violates public policy lacks merit (Matter of New York City Tr. Auth. v Transport Workers’ Union of Am., Local 100, AFL-CIO, 6 NY3d 332, 336 [2005] ).\nPetitioner’s first argument, without support or justification, that the Hearing Officer violated public policy by requiring the DOE to only present a prima facie case of incompetence, challenges the material requirements — and thus the validity — of the statute (§ 3020-b) (petitioner’s mem of law at 14; see Matter of Rizzo v New York State Div. of Hous. & Community Renewal, 6 NY3d 104, 110 [2005] [“(j)udicial review of administrative determinations is confined to the facts and record adduced before the agency”]).\nPetitioner’s second argument, that her burden of providing substantial evidence was “untenable” and unfair, fails, in that by next imposing a “substantial evidence” burden of proof upon petitioner to rebut the presumption (instead of clear and convincing proof), the Hearing Officer actually lessened petitioner’s burden. A substantial evidence standard “demands only that ‘a given inference is reasonable and plausible, not necessarily the most probable’ ” (Matter of Café La China Corp. v New York State Liq. Auth., 43 AD3d 280, 280-281 [1st Dept 2007] [emphasis omitted] [substantial evidence requires less than clear and convincing evidence, proof by a preponderance of the evidence, overwhelming evidence, or evidence beyond a reasonable doubt, and may include hearsay]). Also, the claim that the burden could not be overcome by citation to her students’ objective measures of learning is a challenge to the substantive evaluation rubric, and appears to have been raised here for the first time (id.; Stoyer-Rivera v New York City Bd./Dept. of Educ., 101 AD3d 584 [1st Dept 2012] [claim that the petitioner’s due process rights were violated was unpreserved for review]).\nFinally, to the extent that petitioner argues that a “preponderance of evidence” standard should apply rather than the standards applied by the Hearing Officer, petitioner does not address the impact of the legislature’s adoption of Education Law § 3020-b’s express “clear and convincing” standard. In this court’s view, section 3020-b unmistakably overrides previous decisions by the Court of Appeals that required DOE to demonstrate, by a preponderance of the evidence, that the charged specifications were justified (compare Matter of Broad v New York City Bd./Dept. of Educ., 50 Misc 3d 384, 389 [Sup Ct, NY County 2015], applying preponderance standard in Matter of Martin v Ambach, 67 NY2d 975 [1986]). And, as the preponderance of the evidence standard is more exacting than the substantial evidence applied by the Hearing Officer (see e.g. Matter of Martin v Ambach, 111 AD2d 1009 [3d Dept 1985]), it cannot be said that the failure to apply the preponderance of evidence standard to petitioner was irrational or viola-tive of public policy.\nB. Hearing Officer’s Rationale\nPetitioner does not provide any basis to disturb the Hearing Officer’s award, which is supported by a rational basis.\nThe testimony of assistant principal Fields, credited by the Hearing Officer, reveals that petitioner opted to be observed informally six times during the 2013-2014 school year. Those observations produced concrete and documented examples that supported the Hearing Officer’s conclusion. Despite having only 11 students, substantially lower than some first-grade classes with as many as 28, petitioner did not effectively manage student behavior and blamed the first graders for their poor behavior (decision at 11, citing tr 1 at 170, 189). On another occasion, petitioner again failed to monitor student behavior (decision at 11, citing tr 1 at 179). This was a pattern that repeated itself on multiple occasions (decision at 11-14, citing tr 1 at 181-191). Assistant principal Fields attempted to provide guidance to petitioner by providing articles regarding classroom management and emphasis upon student engagement through encouragement to “make their thinking visible,” to no avail (decision at 12, citing tr 1 at 181, 187).\nDuring the 2014-2015 school year, when petitioner was in “year two” status, petitioner opted to be observed three times informally and once formally (decision at 11, 13, citing tr 1 at 162, 206). Petitioner collaborated on a teacher improvement plan to be implemented throughout the school year (decision at 11, citing tr 1 at 208, 209, 298). However, petitioner did not comply with the TIP (decision at 21, citing tr 1 at 302). Petitioner’s contention that she had only one meeting with assistant principal Fields regarding the TIP was not accepted by the Hearing Officer (decision at 21, citing tr 1 at 303; exhibit 7).\nPetitioner’s peer validator, a teacher with 17 years of experience as a teacher, literacy coach, and resident principal, confirmed the pattern of ineffective teaching observed by assistant principal Fields (decision at 14, citing tr 1 at 43, et seq.). The peer validator observed petitioner’s teaching on three separate occasions, each time rating petitioner ineffective based on misbehavior, failure to provide a cogent lesson plan, failure to assign specific tasks aimed at learning, and other deficiencies (decision at 14-18, citing tr 1 at 43-71).\nPetitioner’s arguments that objective measures such as the state and local measures of student learning should have been more heavily factored into her evaluations and the hearing are insufficient to establish that the decision lacked a rational basis. Those measures are not directly related to an individual teacher, and relate to broader assessments of student growth in the entire third grade (Education Law § 3012-c [2] [f], [g]; tr 1 at 231, line 12, through 234, line 17). This is reflected in the fact that the state and local measures account for only 40% of a teacher’s year-end rating, with subjective evaluations (including in-classroom assessment) accounting for the remaining 60% (Education Law § 3012-c [2] [a] [1]). These percentages are codified and the result of collective bargaining, and therefore their use cannot, by itself, be arbitrary and capricious.\nPetitioner’s arguments regarding principal Smith’s bias and inappropriate comments toward her are also unpersuasive. Even if this court examined and accepted the credibility of those allegations, there is no basis to disturb the Hearing Officer’s finding that petitioner could not tie principal Smith’s actions or bias toward petitioner to her ineffective ratings (decision at 19-20). Petitioner’s ineffective ratings were corroborated by observations from multiple people on multiple occasions, and subjected to an extra level of review by the Hearing Officer.\nSimilarly, petitioner’s arguments regarding the Hearing Officer’s acceptance of the testimony of assistant principal Fields and peer validator Hanley over petitioner is flawed because CPLR 7511 proceedings are an inappropriate vehicle to second-guess the Hearing Officer’s credibility determinations.\nThus, the court finds that the Hearing Officer’s decision was rationally supported by the record, and was not arbitrary, capricious, or unreasonable.\nC. Appropriateness of Termination\nThe proportionality of a petitioner’s penalty should be examined “in light of all the circumstances,” and should be affirmed unless it is “shocking to one’s sense of fairness” (Principe, 94 AD3d at 433, 434 [penalty excessive where the petitioner had a “spotless” record for five years and was promoted to dean two years prior to the incidents at issue], citing Pell, 34 NY2d at 233):\n“[A] result is shocking to one’s sense of fairness if the sanction imposed is so grave in its impact on the individual subjected to it that it is disproportionate to the misconduct, incompetence, failure or turpitude of the individual, or to the harm or risk of harm to the agency or institution, or to the public generally visited or threatened by the derelictions of the individuals. Additional factors would be the prospect of deterrence of the individual or of others in like situations, and therefore a reasonable prospect of recurrence of derelictions by the individual or persons similarly employed. There is also the element that the sanctions reflect the standards of society to be applied to the offense involved” (Matter of Brito v Walcott, 115 AD3d 544, 546, 547 [1st Dept 2014] [termination for sexual conduct with a colleague on school property, a “one-time mistake” unwitnessed by students, inappropriate where the petitioner was a tenured teacher who had made many positive contributions to the school, had an unblemished disciplinary record, and was described by her supervisor as one of the best teachers she had ever worked with], citing Pell, 34 NY2d at 234; see also Matter of Solis v Department of Educ. of City of N.Y., 30 AD3d 532, 532 [2d Dept 2006] [termination disproportionate “(i)n light of, among other things, the petitioner’s otherwise unblemished 12-year record as a teacher”]).\nThe Appellate Division has recently held that a pattern of “professional misconduct, neglect of duty, failure to follow procedures and carry out duties, and incompetent and inefficient service during two school years” is sufficient to justify termination (Matter of Davies v New York City Dept. of Educ., 117 AD3d 446, 447 [1st Dept 2014]; see e.g. Matter of Davis v New York City Bd./Dept. of Educ., 137 AD3d 716 [1st Dept 2016], citing Davies, 117 AD3d at 447). This conclusion finds support in the recent adoption of Education Law § 3020-b which, by its plain language, provides “streamlined removal procedures for teachers rated ineffective” for several consecutive years. Thus, while the ineffective ratings must be examined in context and in light of all surrounding circumstances, consecutive ineffective ratings alone are sufficient under the statute to justify termination when a rebuttable presumption of incompetence has not been overcome (Education Law § 3020-b [3] [c] [v]).\nIn addition to prima facie evidence of consecutive years of incompetent performance by petitioner, the Hearing Officer’s other findings were sufficient to justify termination. For example, the Hearing Officer cited numerous, specific instances of incompetence: failure (and/or unwillingness) to follow the teacher improvement plan (decision at 21, citing tr 1 at 302-303), improper instruction, lack of appropriate behavioral monitoring, lack of knowledge regarding manipulatives (decision at 21-22, citing tr 2 at 235, 251), inability to assess student learning or provide a basis for the use of certain materials (decision at 22, citing tr 2 at 237), and disregard of teaching tools provided to her by the independent evaluator (decision at 23, citing tr 2 at 264).\nPetitioner’s argument that termination was excessive and disproportionate because of petitioner’s decade of service with DOE is unavailing because petitioner herself admits that her record was not unblemished: she received an “unsatisfactory” rating at the end of the 2011-2012 school year, under the former binary evaluation system (petitioner’s reply at 7). To the extent that petitioner seems to suggest that the unsatisfactory rating (as well as the subsequent “ineffective” ratings) was the result of principal Smith’s arrival, the Hearing Officer addressed and discounted petitioner’s testimony in this regard, and petitioner provides no basis for the court to revisit those findings (decision at 19-20).\nMoreover, even an unblemished record does not rule out termination. In some cases, termination is justified by the severity of an offense, e.g., corporal punishment or fraud (see Matter of Patterson v City of New York, 96 AD3d 565, 566 [1st Dept 2012] [upholding a penalty of termination for a petitioner with 10 years of no disciplinary history who used a false address to avoid paying New York City income taxes]; see also Matter of Rogers v Sherburne-Earlville Cent. School Dist., 17 AD3d 823, 824 [3d Dept 2005] [upholding termination for falsifying time sheets and a pattern of excessive leave time usage and abuse of leave time benefits despite “a long and previously unblemished record”]; Matter of Ebner v Board of Educ. of E. Williston Union Free School Dist. No. 2, N. Hempstead, 42 NY2d 938 [1977] [teacher terminated for dragging a student by the hair from one class to another]; Matter of Saunders v Rockland Bd. of Coop. Educ. Servs., 62 AD3d 1012 [2d Dept 2009] [teacher terminated for allowing a student to be strapped to a chair without cause and for striking a student in the chest and jaw]; Matter of Giles v Schuyler-Chemung-Tioga Bd. of Coop. Educ. Servs., 199 AD2d 613 [1993] [teacher terminated for striking a student on the hands with a book and for throwing a car jack through a window]; compare Matter of Riley v City of New York, 84 AD3d 442, 442 [1st Dept 2011] [termination of petitioner with unblemished 15-year career shocked the conscience where unspecified offense did not cause “physical or emotional injury” to student]).\nLess severe behavior can also justify termination of a longstanding employee if the behavior is part of a pattern (Matter of Robinson v City of New York, 33 Misc 3d 1228[A], 2011 NY Slip Op 52152[U], *5, *8 [Sup Ct, NY County 2011] [dismissal warranted, notwithstanding petitioner’s 23 years of satisfactory performance, for pattern of abusive behavior]; Matter of Roberts v Department of Educ. of the City of N.Y., 45 Misc 3d 1206[A], 2014 NY Slip Op 51474[U], *2 [Sup Ct, NY County 2014] [dismissal warranted despite 11 years of satisfactory performance upon numerous instances of “performing unsatisfactory and inappropriate lessons, repeatedly failing to implement administrative directives, engaging in unwanted and unrecip-rocated physical and verbal contact with co-workers, and engaging in inappropriate conduct with students in and outside of the classroom”]; Matter of Mazzella v Bedford Cent. Sch. Dist., 49 Misc 3d 675, 683 [Sup Ct, Westchester County 2015] [termination of 18-year employee justified for recent pattern of incompetence]).\nUtilizing these standards, the court finds that the Hearing Officer’s determination to terminate petitioner was supported by the record, and that there are no extraordinary circumstances meriting departure from that determination.\nII. DOE’s Cross Motion to Confirm Award/Dismiss Petition\nUpon denial of a motion to vacate or modify an arbitration award, courts “shall confirm the award” (CPLR 7511 [e]). Once an award is confirmed, judgment “shall be entered” (CPLR 7514 [a]). Given the court’s holding above denying the petition, DOE’s cross motion to confirm is granted and final judgment is appropriate.\nFurther, on a motion made pursuant to CPLR 3211, when documentary evidence is submitted by the parties, the criterion becomes “whether the proponent of the pleading has a cause of action, not whether he has stated one” (Guggenheimer v Ginzburg, 43 NY2d 268, 275 [1977]; see Abreu, 2014 NY Slip Op 50647 [U] [granting DOE’s cross motion brought pursuant to CPLR 3211 to dismiss an article 75 petition seeking to vacate an arbitration award terminating petitioner]). Given the extensive record discussed at length above, petitioner has no cause of action to vacate the decision (see e.g. Matter of Sang v New York City Dept. of Educ., 30 Misc 3d 1208[A], 2010 NY Slip Op 52324[U], *2 [Sup Ct, NY County 2010] [granting DOE’s cross motion to dismiss petition for failure to state a cause of action (CPLR 3211 [1] [7]), explaining that petitioner’s claim that the Hearing Officer exceeded her powers or imperfectly executed the award lacked merit, and that the “voluminous transcript of the lengthy proceeding” demonstrated “that the Hearing Officer’s decision is rationally based on the evidence”]; Roberts, 2014 NY Slip Op 51474[U], *8 [finding that “petitioner fails to demonstrate any legally cognizable ground for vacating the hearing officer’s decision and award”]).\nConclusion\nFor the foregoing reasons, it is hereby ordered that the application of petitioner Nelline Douglas for an order pursuant to CPLR 7511 vacating the November 20, 2015 opinion and award of Hearing Officer Leah L. Murphy, Esq., is denied in all respects; and it is further ordered and adjudged that the cross motion of respondent New York City Department of Education to confirm the award pursuant to CPLR 7511 and/or to dismiss the petition pursuant to CPLR 3211 (a) (7) is granted, and the proceeding is dismissed; and it is further adjudged that the decision and award dated November 20, 2015 issued by Hearing Officer Leah L. Murphy, Esq., in the Matter of the Charges Preferred by the Department of Education of the City of New York, Complainant-Employer, against Nelline Douglas, Respondent-Tenured Teacher, SED File No. 27,881, is hereby confirmed in its entirety.\n. Except where otherwise noted, the relevant facts listed below are drawn from the undisputed facts set forth in the parties’ submissions. For the purposes of its cross motion to dismiss the petition and confirm the arbitrator’s award, DOE accepts the petition’s facts as true (DOE mem of law at 3 n 2).\n. The “HEDI” four-tier rating system rates teachers, in decreasing order of competence, as follows: highly effective, effective, developing, and ineffective (tr 1 at 158, lines 12-16).\n. Charges one through eight are not at issue here.\n. During its review, the court observed that several portions of the transcript were absent from the record, apparently attributable to technical difficulties relating to the transcripts’ large file sizes (see e.g. NY St Cts Electronic Filing [NYSCEF] Doc. Nos. 12-13 [omitting exhibits 3J-3K], https:// iapps.courts.state.ny.us/nyscef/CaseSearch [complete CAPTCHA, search by case index No. 653950/2015, click on index No. hyperlink]). On June 1, 2016, petitioner’s counsel submitted complete paper copies to the court. The transcripts are split into two parts: the first (tr 1) consolidates the November 9 (pages 1 to 227) and November 10 proceedings (pages 228 to 352). The second transcribes the November 12 proceedings (pages 229 to 403; tr 2). During a telephone conference with the court and counsel for both parties on June 1, 2016, petitioner’s counsel confirmed that tr 2 intentionally begins at page 229, i.e., pages 1 through 228 were not accidentally omitted, and that complete copies of the transcripts had also been sent to DOE’s counsel.\n. The hearing transcript identifies assistant principal Fields as “Aretha” Fields, but other documentation and the parties themselves identify her as “Reather” Fields.\n. Both replies are considered by the court despite having been submitted late. Petitioner submitted a late reply on the return date of the motion, but DOE had ample opportunity to respond (CPLR 2004; O’Callaghan v Meatto, Russo, Burke & Wallace, 160 AD2d 414, 415 [1st Dept 1990]).\n. The accompanying regulations were not finalized until January 23, 2016, subsequent to petitioner’s hearing and the Hearing Officer’s decision (L 2015, ch 56, § 1, part EE, § 2, subpart G, § 5 [“This act shall take effect July 1, 2015 and shall apply to hearings commenced by the filing or service of charges on or after July 1, 2015, provided that effective immediately, the commissioner of education shall be authorized to promulgate any regulations needed to implement the provisions of this act on such effective date”] [emphasis added]). 8 NYCRR 30-3.15 (c) (1) clarified that 3020-a and 3020-b hearings are one in the same:\n“Any reference in [section 3012-c (5-a) to a section 3020-a proceeding] based on a pattern of ineffective teaching shall be deemed to be a reference to a proceeding pursuant to Education Law section 3020-b against a teacher or principal who receives two or more consecutive composite Ineffective ratings; and in accordance with Education Law section 3020(3) and (4)(a), notwithstanding any inconsistent language in [section 3012-c] (5-a), any alternate disciplinary procedures contained in a collective bargaining agreement that becomes effective on or after July 1, 2015 shall provide that two consecutive Ineffective ratings pursuant to annual professional performance reviews conducted in accordance with the provisions of Education Law section 3012-c or 3012-d shall constitute prima facie evidence of incompetence that can only be overcome by clear and convincing evidence that the employee is not incompetent in light of all surrounding circumstances, and if not successfully overcome, the finding, absent extraordinary circumstances, shall be just cause for removal” (emphases added).\nIn any event, the text of the new regulation did not alter the explicit effective date (July 1, 2015) of section 3020-b, which set forth the specific standards to be applied, and therefore does not alter the holding here.\n. And, even when the limited grounds for vacatur are present, there must also be a demonstration of prejudice (Vincent C. Alexander, Practice Commentaries, McKinney’s Cons Laws of NY, Book 7B, CPLR 7511:2 at 107 [2013 ed]). Petitioner also failed to establish any prejudice, given that the Hearing Officer’s deviations operated in petitioner’s favor by lowering the burden of proof necessary to rebut the presumption of incompetence.\n. To the extent that petitioner argues that the observations were invalid because they were signed after the school year and not contemporaneously, that is an unreviewable credibility determination.\n. To the extent that Davies is distinguished by Matter of Broad v New York City Bd./Dept. of Educ. (50 Misc 3d 384, 401 [Sup Ct, NY County 2015]) on the basis that the Davies petitioner challenged only the penalty but not the substantive charges against her, that argument is inapplicable here because it is not precedential, and because the procedural posture is the same: this court has already upheld the Hearing Officer’s findings in response to petitioner’s challenge.",
+        "type": "majority",
+        "author": "Carol R. Edmead, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Richard J. Washington, New York City, for petitioner.",
+      "Zachary W. Carter, Corporation Counsel, New York City (Cassandra Branch of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[34 NYS3d 340]\nIn the Matter of Nelline Douglas, Petitioner, v New York City Department of Education, Respondent.\nSupreme Court, New York County,\nJune 6, 2016\nAPPEARANCES OF COUNSEL\nRichard J. Washington, New York City, for petitioner.\nZachary W. Carter, Corporation Counsel, New York City (Cassandra Branch of counsel), for respondent."
+  },
+  "file_name": "2351-01",
+  "first_page_order": 808,
+  "last_page_order": 827
+}

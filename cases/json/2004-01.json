@@ -1,0 +1,623 @@
+{
+  "id": 4352494,
+  "name": "UnitedHealthcare Services, Inc., Plaintiff, v. David Asprinio, M.D., et al., Defendants",
+  "name_abbreviation": "UnitedHealthcare Services, Inc. v. Asprinio",
+  "decision_date": "2015-08-27",
+  "docket_number": "",
+  "first_page": "985",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 985"
+    },
+    {
+      "type": "parallel",
+      "cite": "16 N.Y.S.3d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "203 AD2d 358",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1165593
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/203/0358-01"
+      ]
+    },
+    {
+      "cite": "2012 NY Slip Op 52157",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Misc 3d 1224",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 NY Slip Op 51569",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Misc 3d 1231",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Misc 3d 850",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3788250
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "855-856"
+        },
+        {
+          "page": "855-856"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/39/0850-01"
+      ]
+    },
+    {
+      "cite": "3 NY3d 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        456566
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/3/0200-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 5",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3707716
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "17"
+        },
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0005-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 20",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4435352
+      ],
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0020-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 24",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188922
+      ],
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0024-01"
+      ]
+    },
+    {
+      "cite": "2 AD3d 703",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1242947
+      ],
+      "pin_cites": [
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/2/0703-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 100",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3706809
+      ],
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0100-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 314",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282472
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "324"
+        },
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0314-01"
+      ]
+    },
+    {
+      "cite": "230 F3d 518",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1094295
+      ],
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/230/0518-01"
+      ]
+    },
+    {
+      "cite": "619 F Supp 2d 28",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4157031
+      ],
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/619/0028-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 608",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        956834
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "609"
+        },
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0608-01"
+      ]
+    },
+    {
+      "cite": "2012 NY Slip Op 33795",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 NY Slip Op 51353",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Misc 3d 1230",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 AD2d 27",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2911245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/2/0027-01"
+      ]
+    },
+    {
+      "cite": "237 AD2d 209",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        187682
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/237/0209-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 584",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3750931
+      ],
+      "pin_cites": [
+        {
+          "page": "594-595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/0584-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 90",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4429418
+      ],
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0090-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 422",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5691792
+      ],
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0422-01"
+      ]
+    },
+    {
+      "cite": "145 NYS 831",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        3285567
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/145/0831-01"
+      ]
+    },
+    {
+      "cite": "134 Misc 2d 655",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        857041
+      ],
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/134/0655-01"
+      ]
+    },
+    {
+      "cite": "15 NY2d 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271475
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0200-01"
+      ]
+    },
+    {
+      "cite": "41 Misc 3d 483",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3790871
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/41/0483-01"
+      ]
+    },
+    {
+      "cite": "308 NY 844",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2236466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/308/0844-01"
+      ]
+    },
+    {
+      "cite": "283 App Div 394",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2869912
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/283/0394-01"
+      ]
+    },
+    {
+      "cite": "207 NY 516",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        4502990
+      ],
+      "pin_cites": [
+        {
+          "page": "521-522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/207/0516-01"
+      ]
+    },
+    {
+      "cite": "29 AD3d 638",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5570568
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/29/0638-01"
+      ]
+    },
+    {
+      "cite": "67 AD3d 758",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3956860
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/67/0758-01"
+      ]
+    },
+    {
+      "cite": "218 AD2d 793",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1228349
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/218/0793-01"
+      ]
+    },
+    {
+      "cite": "18 AD3d 727",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        516951
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/18/0727-01"
+      ]
+    },
+    {
+      "cite": "182 AD2d 748",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1080910
+      ],
+      "pin_cites": [
+        {
+          "page": "750"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/182/0748-01"
+      ]
+    },
+    {
+      "cite": "24 AD3d 535",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        980002
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/24/0535-01"
+      ]
+    },
+    {
+      "cite": "22 AD3d 587",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1059427
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/22/0587-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 502",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3968066
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/0502-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 839",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0839-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1538,
+    "char_count": 40434,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14815091536224698
+    },
+    "sha256": "4211546538b835275933285fd27982f5f448e0667064603f3e88b562dfe3f692",
+    "simhash": "1:6affa688379af253",
+    "word_count": 6601
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UnitedHealthcare Services, Inc., Plaintiff, v David Asprinio, M.D., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAjlan D. Scheinkman, J.\nPlaintiff UnitedHealthcare Services, Inc., a health insurer, moves for a preliminary injunction to prevent defendant David Asprinio, M.D., and his medical group, University Orthopaedics, P.C., who do not participate in United’s provider network, from seeking to collect professional fees from United’s members in excess of the payments made by United and from charging United members unlawful, unreasonable or excessive amounts which were not agreed to in advance by the members. Asprinio and University oppose the motion.\nAs the court sees it, United essentially asks the court to compel a health care provider to accept whatever payments for services United is willing to make on behalf of its members, notwithstanding that the health care provider has no contractual relationship with the insurer. Whether United did not want this provider in its network or whether the provider did not want to be in United’s network or whether they could not reach acceptable financial terms is not material. What matters is that, absent an applicable statute or a contractual agreement between the insurer and the health care provider, there is no legal basis upon which the court may properly compel the health care provider to accept whatever payment the health insurer deems appropriate.\nFrom time to time, the legislature has acted in specific contexts to limit the charges that may be sought by health care providers. It has done so in the Medicare context (see Public Health Law § 19), in regard to workers’ compensation (see Workers’ Compensation Law § 13), and with respect to no-fault automobile insurance (see Insurance Law § 5108). Most recently, the legislature has provided for binding arbitration, before a neutral panel, of the charges for emergency services of physicians who do not participate in the patients’ network, with the physician being unable to bill the patient for any more than allowed by the arbitration (see Financial Services Law §§ 603, 605). While this procedure would appear to apply to the dispute that resulted in this litigation, the underlying dispute concerns care provided to a United member in 2014; the statute did not become effective until March 31, 2015.\nWhile United points to the statute as supporting its view that the courts should impose a ban on balance billing, the statute does not leave the health care provider at the mercy of the insurer; the statute provides for a neutral panel to choose between the insurer’s payment or the provider’s charge as being the reasonable fee (Financial Services Law § 605). Even more fundamentally, the statute defines a non-participating provider as being a provider “not having a contract with a health care plan to provide health care services to an insured” (Financial Services Law § 603 [e]). Thus, the statute confirms that, absent applicable legislative intervention, the relationship, if there is one, between a health care provider and a health care insurer is founded on contract. Here, there being no applicable statute and no contract, United is not entitled to the relief it seeks.\nRelevant Facts\nThe relevant facts are largely undisputed.\nAsprinio is an orthopedic trauma surgeon who is licensed to practice medicine in New York and Connecticut. He is the Director of Orthopaedic Surgery at Westchester Medical Center; as such, he is responsible for the credentialing and oversight of departmental medical staff. He also holds staff appointments at several other hospitals, including the Hospital for Special Surgery, Stamford Hospital, and Montefiore New Rochelle Hospital. He is a professor of clinical orthopaedic surgery at New York Medical College, where he also chairs the Department of Orthopaedic Surgery. United is a large and well-known player in the global health insurance industry.\nOn the afternoon of September 7, 2014, patient “JZ” was transferred from Northern Westchester Hospital to Westchester Medical Center, at the request of the health care providers at Northern Westchester who referred the patient specifically to Westchester Medical Center and Asprinio so that the patient could receive a more advanced level of care. JZ avers that she was told that there was no available surgeon on duty at Northern Westchester.\nJZ arrived at Westchester Medical Center at approximately 3:45 p.m. She was evaluated by various medical personnel. She was over 60 years of age and had a medical history that included a recent diagnosis of a heart rhythm abnormality and a prior right wrist fracture which had healed with deformity. Her immediate condition involved complex injuries to both arms sustained from a fall earlier in the day. Her left arm had sustained a displaced intra-articular distal radius fracture, that is her radius was fractured just above her wrist and multiple bond fragments were out of position. Her right arm had both the radius and her ulna broken, with involvement of her previously broken and deformed right wrist.\nJZ required immediate surgery to minimize the risk of infection at the open fracture site, to return the fractured bone to underneath the punctured skin, to protect overlying tissues, and to stabilize the fractures in order to control pain. The surgery was anticipated to be complex, requiring the skills of an orthopedic trauma specialist. JZ was given medication to control her pain and antibiotics to minimize infection.\nShe was taken to surgery at 9:55 p.m. and placed under general anesthesia. Asprinio began an operation that continued until 2:50 a.m. The procedure was complicated and challenging due to the high number of small bone fragments present around the injuries, the location of the break near the wrist (which did not leave much room for the necessary hardware), and because the amount of hardware required was greater than usual due to the location and nature of the break.\nJZ had a successful recovery from her surgery and was discharged from the hospital on September 10, 2014.\nJZ’s medical coverage was provided via United. Despite the fact that JZ’s surgery did not commence for about six hours after her arrival at Westchester Medical Center, it appears that no one told JZ that Asprinio was outside of her health insurer’s network or whether there was an option to have the surgery done by an in-network provider. JZ also claims that she was not given an advance estimate of Asprinio’s charges or told that she would be personally responsible for any charges which were not paid by her insurer.\nThe court assumes that JZ executed, in some fashion (given the fractures on each arm), consents to medical treatment and consents to disclose medical information to United because, if she had not signed consents to the procedure, it would most likely have not been performed and, if she had not authorized disclosure of her health information to United, Asprinio and University would not have been able to file claims against her health insurance policy. Of moment, however, these forms are not before the court. Among other things, this means that the record is silent as to whether Asprinio and University agreed in writing to pursue a claim on JZ’s health insurance and, if so, whether such a claim would be exclusive or inclusive of any obligation on JZ’s part to pay for her own care. There is nothing before the court that would indicate that JZ signed a document assigning her right to health insurance benefits for her surgery over to Asprinio and/or University.\nIn any event, whether as a courtesy to JZ, as part of an agreement with JZ, or just because it was perceived that United had a deeper pocket than JZ, University, on September 23, 2014 billed United $40,100 for Asprinio’s services to JZ.\nRoughly one month later, United paid $387.10 to University on account of the inpatient consultation that Asprinio provided and $6,793.49 on account of the surgery.\nThree days after the receipt of the $6,793.49 payment, University’s vendor learned that United had processed University’s claim as if Asprinio had been a participating provider and the vendor sought reconsideration. Reconsideration was denied in December 2014. University pursued a formal appeal within United’s claims structure and encouraged JZ to appeal as well. Perhaps to add to her incentive to cooperate, University, on January 1, 2015, sent her a bill for the $32,739.41 balance due. On January 24, 2015, United paid University another $4,779.50 but, a few days later, denied the appeal. On February 5, 2015, University sent JZ a bill for the unpaid balance of $27,959.91. However, University has not, at least as yet, commenced an action against JZ. JZ claims that she was told by United that she has no legal responsibility to pay anything further to University/Asprinio.\nWhile United asserts that Asprinio charged “excessive rates” and/or has engaged in unlawful, unreasonable or excessive charges, it has not, in its motion papers, explained how or why it reached its determination to pay $12,292.09 out of a bill of $40,100. Dr. Asprinio, of course, believes that his charge is reasonable, though he does not provide any information as to how the charge was computed. However, some light is shed on the matter by Michael J. McLafferty, CPA, whose affidavit was submitted by defendants. McLafferty is a partner in the Health Care Services Group of EisnerAmper LLP, a national accounting, auditing, and consulting firm and a Fellow in the American College of Healthcare Executives.\nMcLafferty explains that United relies on a database maintained by FAIR Health, Inc., which analyzes and groups medical procedures by codes, the geographical area where the procedures were performed and the amount charged by the providers. This database is often used by private health insurers to calculate the “usual and customary” fee for specific procedures and inform the amounts that they will be willing to pay to out-of-network providers.\nHere, as McLafferty notes, United claims that Asprinio’s fee in the JZ case was three times higher than the 90th percentile of the FAIR Health standard for charges for a similar procedure in this geographical area. Hence, it argues that Asprinio’s fee is grossly excessive. However, as McLafferty also notes, United does not provide any of the underlying FAIR Health data to support its argument. In particular, McLafferty points out that, among other things, United has not set forth the codes it referenced in order to assess Asprinio’s fee. If United is using codes relevant to a routine procedure, as opposed to complex surgery, United’s conclusion would be invalid. McLafferty opines that, given the lack of disclosure as to the information that United used to make its decision, it is not possible to determine whether United’s position is itself reasonable or unreasonable.\nThis court agrees that, on this record, it is not possible to decide whether United’s $12,292.09 payment is reasonable or whether Asprinio’s fee of $40,100 is reasonable. But it is not necessary for this court to make that determination. The question before the court is whether United has a legal right to have this court bar, even preliminarily, Asprinio from seeking the $27,959.91 difference from JZ. The court concludes that it does not.\nThe Complaint\nThe complaint sets forth three causes of action.\nIn the first cause of action, United seeks declaratory and injunctive relief. It alleges that defendants submitted health insurance claims knowing that there was no valid agreement with United members to pay the charges as billed and knowing that the charges were unlawful and unenforceable. United asserts that defendants billed United members, such as JZ, in order to “coerce” United to pay unlawful and excessive charges. While leveraging off of JZ’s case, United implies that defendants regularly engaged in similar overcharging as to other United insureds. United seeks a declaration that defendants are not entitled to additional reimbursement from any source, including the insured, for amounts above what United chooses to pay, that defendants’ attempts to bill the patients are coercive, and that defendants have tortiously interfered with the health benefit plans between United and its members. United seeks injunctive relief against balance billing and further contract interference.\nIn the second cause of action, United alleges that defendants submitted claims in order to obtain payment for covered services under plans of insurance and that, under such plans, United reimburses “eligible charges” and pays defendants “for all services.” United claims that, in violation of medical practice regulations, defendants have balance billed United’s insureds in order to collect unlawful, excessive and unenforceable charges “in order to inflict emotional distress on the members and to interfere with United’s relationship with plan members and sponsors.” As a result, claims United, defendants have knowingly and tortiously interfered with the contracts pursuant to which United provided insurance or benefits to its plan members.\nThe third cause of action presents a claim under General Business Law § 349 (a). According to United, defendants entered into a scheme to deceive United and the general consuming public through a pattern of submitting false and misleading insurance claims to United in which they misrepresented the charges for services rendered to patients. United asserts that defendants had no valid agreement with United’s member (JZ) and submitted charges well in excess of usual and actual fees for services. The charges, alleges United, misrepresented the actual charges to the United member because there was no valid agreement between defendants and the United member for services rendered and the charges were excessive and unreasonable. United accuses defendants of inflating their charges in order to maximize the amount that they would receive from United and alleges that the charges are excessive, manifestly unconscionable and overreaching. United claims that defendants’ practices are aimed at the consuming public at large and have a broad impact on consumers by, among other things, contributing to the increase in insurance premiums and increased health care costs. United alleges that defendants’ conduct was intended to mislead and defraud United and to induce United to overpay defendants.\nThe Preliminary Injunction Standard\nThe standard for preliminary injunctive relief is well settled. The movant must establish (1) a likelihood of success on the merits, (2) irreparable injury absent the granting of the injunction, and (3) a balance of equities in the movant’s favor (Nobu Next Door, LLC v Fine Arts Hous., Inc., 4 NY3d 839 [2005]; Apa Sec., Inc. v Apa, 37 AD3d 502 [2d Dept 2007]). While the existence of an issue of fact will not defeat a motion for injunctive relief which demonstrates the required elements (CPLR 6312 [c]), the movant must show a clear right to relief which is plain from the undisputed facts (Matter of Related Props., Inc. v Town Bd. of Town/Vil. of Harrison, 22 AD3d 587 [2d Dept 2005]; Stockley v Gorelik, 24 AD3d 535 [2d Dept 2005]). Thus, where there are key facts in dispute, the motion for a preliminary injunction should be denied (Price Paper & Twine Co. v Miller, 182 AD2d 748, 750 [2d Dept 1992]). To the extent the application seeks a mandatory injunction, the movant is required to demonstrate extraordinary circumstances and the clear entitlement to the relief sought (SHS Baisley, LLC v Res Land, Inc., 18 AD3d 727 [2d Dept 2005]; Rosa Hair Stylists v Jaber Food Corp., 218 AD2d 793 [2d Dept 1995]).\nUnited Has Failed to Show a Likelihood of Success on the Merits of its Claims\nUnited does not have a contract with either defendant. This means that defendants cannot look to United for payment of their charges for professional services, whether rendered to JZ or anyone else. Since, as to JZ, it was the patient (or her health providers at Northern Westchester Hospital on her behalf) who requested Asprinio’s services, neither Asprinio nor his medical practice has any right of action, even in quantum meruit, as against United (see e.g. Pekler v Health Ins. Plan of Greater N.Y., 67 AD3d 758 [2d Dept 2009]; Kirell v Vytra Health Plans Long Is., Inc., 29 AD3d 638 [2d Dept 2006]).\nOn the other hand, it is well recognized that, even in the absence of an express contractual agreement, a physician may recover upon an implied agreement to pay for services quantum meruit, when the services have been rendered at the request of the patient (see e.g. McGuire v Hughes, 207 NY 516, 521-522 [1913]; Crouse Irving Hosp. v City of Syracuse, 283 App Div 394 [4th Dept 1954], affd 308 NY 844 [1955]; Mercy Flight Cent., Inc. v Kondolf, 41 Misc 3d 483 [Canandaigua City Ct 2013]). An implied contract to pay for personal services rests upon a showing by the provider that the services were performed and accepted with the understanding on both sides that there was a fee obligation (Shapira v United Med. Serv., 15 NY2d 200, 210 [1965]).\nWhere there is an implied promise by or obligation of a patient to pay the fair and reasonable value of medical services rendered by a physician, and requested services are rendered, the result is a unilateral contract which supports the right to recover the reasonable value of services when no other compensation is agreed upon. The nature and difficulty of the case, and what is considered by the physician and by other doctors as an ordinary or reasonable charge for the particular services, are proper elements for consideration in fixing the value of the services. Even when the agreement is completely the creation of the law, the implied promise is to pay for the services measured by their value in the community where they are rendered and by the person who rendered them (Goldman v Ambro, 134 Misc 2d 655, 656 [Suffolk County Ct 1987]; Schoenberg v Rose, 145 NYS 831 [NY Mun Ct 1914]; 83A NY Jur 2d, Physicians, Surgeons, and Other Healers § 210).\nUnited theorizes that defendants’ patients have no obligation to pay defendants for their services in the absence of an agreement between the patients and defendants. United’s position is simply wrong. The common-law rules are clear.\nUnited has no common-law liability to pay Asprinio or his medical group for services provided to JZ or any other United insured. Asprinio and his medical group must look to the patient to recover for the reasonable value of the services rendered. Absent an agreement between United and Asprinio (and/or his medical group), United has no basis for interfering with Asprinio’s common-law right to seek recovery for the reasonable value of his services from the patient who received them.\nBy its present motion, United seeks to alter the common-law principles and, in effect, require Asprinio and his medical group to accept whatever payment United chooses to make and forgo any prospect of recovery against the patient. The question is whether the common-law rules have been supplanted by contract or statute.\nUnited claims that defendants’ balance billing constitutes a tortious interference by defendants with United’s insurance contracts with its members, including JZ. In an action founded on tortious interference with contractual relations, the plaintiff must demonstrate (1) that it had a contract with a third party, (2) that the defendant knew that the contract existed, (3) that the defendant intentionally and improperly induced the third party to breach the contract, and (4) that the plaintiff suffered damages as a result (White Plains Coat & Apron Co., Inc. v Cintas Corp., 8 NY3d 422, 426 [2007]; Kronos, Inc. v AVX Corp., 81 NY2d 90, 94 [1993]).\nHere, it is undisputed that United had an insurance contract with JZ and it is also undisputed that defendants knew that there was an insurance contract between JZ and United. But what is totally missing from plaintiffs complaint, and from its motion papers, is any allegation, much less evidence, that JZ or any other United insured breached the insurance policy with United. At best, the affidavit submitted by JZ indicates that she objects to defendants’ billing. But, even if she had urged United to pay defendants more money or if she herself paid money to defendants (voluntarily or otherwise), there is nothing to indicate that her conduct would constitute a violation of her policy with United.\nThe failure to allege an actual breach by United’s counter-parties is destructive of its tortious interference with contract claim (Oddo Asset Mgt. v Barclays Bank PLC, 19 NY3d 584, 594-595 [2012]; Downtown Women’s Ctr. v Carron, 237 AD2d 209 [1st Dept 1997]; Benton v Kennedy-Van Saun Mfg. & Eng’g Corp., 2 AD2d 27 [1st Dept 1956]; PJI 3:56). This aspect of the case is on all fours with Aetna Health Inc. v Hishmeh (40 Misc 3d 1230[A], 2013 NY Slip Op 51353[U] [Sup Ct, NY County 2013]), where Justice Melvin Schweitzer held that a health insurer had failed to state a cause of action against a medical billing company for tortious interference with contract. There, as here, the insurer claimed that defendant had balance billed the insured in order to collect unlawful excessive and unenforceable charges, inflicting emotional distress on insureds, and interfering with the insured’s relationship with plan members and sponsors. The claim failed because the insurer failed to allege that any of its members breached the contract with the insured and, without such a breach, there could be no tortious interference with an existing contract.\nThis case, as well as the Hishmeh case, are entirely distinguishable from Justice Schweitzer’s earlier decision in Aetna Health Inc. v Rak (2012 NY Slip Op 33795 [U] [Sup Ct, NY County 2012]). In that case, Aetna sought injunctive relief enjoining the defendants from submitting balance bills to members of Aetna health care plans to recover charges for services that Aetna already paid pursuant to contract rates. Aetna obtained a temporary restraining order. But in the Rak case, as Justice Schweitzer pointed out in his subsequent Hishmeh decision, Aetna alleged that Rak was a participating provider who schemed to have another doctor, Hishmeh, assist in treating his patients in order to enable Hishmeh to bill a greater amount for the services than Rak would be able to recover pursuant to his agreement with Aetna. Hence, Aetna had a plausible breach of contract claim directly against Rak. However, since Hishmeh was never a participating provider, Hishmeh was not limited as to the fee he could charge. Here, too, Asprinio was never a participating provider and did not have a contract with United.\nUnited has presumably cut deals with its participating providers pursuant to which those providers agree not to balance bill the patient. But it cannot force Asprinio to act as a participating provider without an agreement on his part to accept the rights and limitations associated with participation.\nUnited’s other substantive theory is predicated upon General Business Law § 349 (a), which prohibits “[d]eceptive acts or practices in the conduct of any business, trade or commerce or in the furnishing of any service.” The elements of a cause of action under General Business Law § 349 “are: (1) a deceptive consumer-oriented act or practice which is misleading in a material respect, and (2) injury resulting from such act” (Andre Strishak & Assoc. v Hewlett Packard Co., 300 AD2d 608, 609 [2d Dept 2002]). Stated somewhat differently, the plaintiff must demonstrate that the defendant’s deceptive acts were directed at consumers, that the acts were misleading in a material way and the plaintiff has been injured as a result (Kassover v UBS AG, 619 F Supp 2d 28, 37 [SD NY 2008], quoting Maurizio v Goldsmith, 230 F3d 518, 521 [2d Cir 2000]; see also Goshen v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 324 [2002]).\nIn the Second Department, a claim under General Business Law § 349 requires a plaintiff to establish: “ ‘first that the challenged act or practice was consumer-oriented; second, that it was misleading in a material way; and third, that the plaintiff suffered injury as a result of the deceptive act’ ” (Lonner v Simon Prop. Group, Inc., 57 AD3d 100, 110 [2d Dept 2008], quoting Singh v Queens Ledger Newspaper Group, 2 AD3d 703, 704 [2d Dept 2003], quoting Stutman v Chemical Bank, 95 NY2d 24, 29 [2000]). In determining whether a representation or an omission is a deceptive act, “the test is whether such act is ‘likely to mislead a reasonable consumer acting reasonably under the circumstances’ ” (Andre Strishak & Assoc., 300 AD2d at 609, quoting Oswego Laborers’ Local 214 Pension Fund v Marine Midland Bank, 85 NY2d 20, 26 [1995]; see Goshen v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 324 [2002] [the allegedly deceptive acts, representations or omissions must be misleading to “a reasonable consumer”]).\nHere, even assuming that the challenged balance billing practice is consumer-oriented, United is not likely to succeed in showing that it has standing to raise this issue. General Business Law § 349 (h) provides standing to “any person who has been injured by reason of any violation of this section.” And while courts have determined that standing is not limited to consumers and have afforded standing to direct competitors, it is well settled that standing does not exist “when the claimed loss ‘arises solely as a result of injuries sustained by another party’ ” (North State Autobahn, Inc. v Progressive Ins. Group Co., 102 AD3d 5, 17 [2d Dept 2012], quoting Blue Cross & Blue Shield of N.J., Inc. v Philip Morris USA Inc., 3 NY3d 200, 207 [2004]). United was not itself alleged to be a consumer of the medical services provided by defendants; rather, it is a large, sophisticated insurance company which has agreed to indemnify its insureds for certain of their medical costs under specified terms and conditions.\nTo the extent that defendants filed claims with United, United did not receive them as a consumer of the medical services provided by Asprinio, but as part of its business activities as a health insurer. To the extent that defendants sent bills to JZ, or some other United insured, United has not shown how it would have the right to complain of such conduct or how it was injured by such conduct (Hishmeh, 2013 NY Slip Op 51353[U], *6).\nTo the extent plaintiff is claiming that defendants misrepresented the charges to the United member by charging excessive rates in order to maximize the reimbursement they received from United, such allegedly deceptive acts were not directed at the consumer but rather to a large institutional provider of health insurance or, even more indirectly to the plan sponsors who might see their premiums increase. Such conduct cannot be viewed as consumer related (Hishmeh; Polish & Slavic Fed. Credit Union v Saar, 39 Misc 3d 850, 855-856 [Sup Ct, Kangs County 2013]; Silvercorp Metals Inc. v Anthion Mgt. LLC, 36 Misc 3d 1231[A], 2012 NY Slip Op 51569[U], *15 [Sup Ct, NY County 2012]; Deer Consumer Prods., Inc. v Little Group, 37 Misc 3d 1224[A], 2012 NY Slip Op 52157[U] [Sup Ct, NY County 2012]).\nThis dispute is essentially a one-time business dispute to which the consumer — the patient — is not a party. As noted by one court,\n“[u]nder New York law, ‘the term “consumer” is consistently associated with an individual or natural person who purchases goods, services or property primarily for personal, family or household purposes .... Thus, private contract disputes that are unique, private in nature, or involve a so-called “single-shot” transaction do not fall with[in] the statute’s ambit’ ” (Polish & Slavic Fed. Credit Union v Saar, 39 Misc 3d 850, 855-856 [Sup Ct, Kings County 2013]).\nAnd the acts complained of must be of a recurring nature (United Knitwear Co. v North Sea Ins. Co., 203 AD2d 358, 360 [2d Dept 1994]). In support of their motion for injunctive relief, United has not offered any evidence to support its contention that defendants actually have a regular practice of issuing excessive balance bills to United insureds. Thus, even if the allegedly deceptive act is the balance bill sent to JZ, it would seem that this allegedly single deceptive act would not fall within the statute’s ambit.\nFurther, United has not shown it is likely to succeed in establishing that it suffered any damages as a result of any misleading billing by defendants. United has refused to pay the allegedly excessive portion of the charges. The patient has not paid it either. And, even if she did, United has not shown how that would cause it to suffer any concrete loss and it would not confer standing on United in any event because standing does not exist “when the claimed loss ‘arises solely as a result of injuries sustained by another party’ ” (North State Autobahn, Inc., 102 AD3d at 17). While United articulates general theories of potential impacts to its business (loss of reputation, loss of goodwill, etc.), it has not provided any evidence that it has actually sustained any such loss to date or that it will sustain such losses absent a preliminary injunction.\nNor has United shown that it is likely to succeed in showing that the bills sent to JZ were, in fact, misleading. As noted above, defendants have at least a colorable common-law right to pursue the patient for the unpaid balance; indeed, it does not appear on this record that defendants had any obligation at all to pursue a claim against the insurer in the first place. It is not uncommon for some medical providers to refuse to accept a patient’s insurance and to require the patient to pay the charges and for the patient to pursue an insurance claim. Absent presentation of an agreement with JZ (or any other insured) whereby defendants agreed to limit the patient’s obligation to the proceeds of insurance, or a statutory restriction, there is no reason why defendants would not be free to seek the balance of their fees from the patient in question.\nMoreover, while the predicate of the action against defendants is the contention that their charges are excessive, United has not offered any evidence that such is in fact the case. While it appears that United is relying on the FAIR Health database to support its contention that Asprinio’s charges are excessive, that database has not been shown to be the sole authoritative standard and, in any event, as defendants point out, United has failed to show how it applied the information in the database to the charges imposed by Asprinio for the complex surgical procedure performed on JZ. While it is clearly United’s position that Asprinio’s charges are excessive, United has not offered any evidence in support of that position.\nUnited Has Not Shown Irreparable Injury\nThe court concludes that United has failed to show that it will sustain any injury, let alone an irreparable one, absent an injunction. United’s theory is that its reputation and goodwill will suffer when its insureds (and their plan sponsors, such as employers) learn that United’s insureds are exposed to thousands of dollars in patient responsibility. However, United does not allege that JZ, or her plan sponsor, think any the less of United or that JZ or her plan sponsor has threatened to seek alternative insurance plans. The harm alleged is entirely speculative. More important, any such harm would seem to be the natural consequence of a competitive health insurance marketplace.\nIn the area of health insurance, as with so many other things in life, there is truth in the adage that you get what you pay for. Different insurers have different networks; different insurers have different contractual arrangements with different health care providers. Those differences account for different premiums. Premiums are impacted by many variables such as deductibles, co-payments, and coverage exclusions and limitations, not to mention conditions in the competitive marketplace. And whether an insurer wishes to pay more than it believes it should in order to accommodate its insured (or a plan sponsor) is a business decision.\nWhile damage to goodwill and reputation may, as a legal matter, constitute irreparable harm, United has offered no evidence in support of its contention that it has or will suffer harm as result of defendants’ conduct.\nThe Balance of the Equities Has Not Been Shown to Favor Plaintiff\nUnited argues that balance billing is contrary to the public interest as it will create anxiety in the marketplace, create distrust of insurers and medical professionals, and artificially inflate the charge data fed into the FAIR Health database, leading to increases in premiums and health care expenses for everyone. Defendants counter that balance billing by a 14-physician medical practice in Hawthorne, New York can hardly have any measurable impact on United’s global operations. More importantly, they say that defendants are a recognized leader in orthopedic trauma care and, if balance billing is prohibited and they are relegated to the meager amounts insurers like United are willing to pay, defendants will have no incentive to provide the highly specialized care needed by out-of-network patients and will decline to take on such cases. As a consequence, the availability and quality of orthopedic medical care in the region will be undermined.\nIt is United’s burden to show that the equities balance in its favor and it has failed to do so. United is a for-profit entity. It has offered no evidence as to how it determined what portion of defendants’ bill was reasonable and what portion was excessive. Further, it has not shown that its refusal to pay any more than what has been paid will result in any savings to its insured or to any insured. Indeed, United’s refusal to pay more may result in financial loss to JZ (or any similarly situated insured) should defendants pursue legal action against JZ or should JZ (or a similarly situated insured) pay money to defendants out of her own pocket.\nUnited has not offered any evidence as to the extent, and causes, of any distrust of insurers and medical professionals. And it has not explained its use of the FAIR Health database or the reasons for United’s reliance on that database alone.\nTo the extent that United offers public policy reasons in support of the broad injunction sought, the court observes that the legislature and Governor are charged with the responsibility for setting public policy in this area and, to the extent that the 2014 legislation has dealt with the issue of surprise or balance bills, the court will not impose a remedy that exceeds the parameters so recently set by statute.\nOf particular importance to this court, United is a for-profit entity. Asprinio and his medical group are also for-profit entities. Neither is entitled to a presumption of virtue, at least insofar as JZ’s care is concerned. While it is plausible that United, at times, makes accommodations for unique or special cases, and while it is plausible that defendants may offer their services to some patients without compensation, there is no evidence that such is the case here. Rather, United wants to pay as little as possible; Asprinio and University would like to be paid as much as possible. The court declines to assist United by preventing defendants from pursuing, if they so choose, a claim against their patient. As previously discussed, in an action against the patient, a determination as to whether a fee is reasonable will be determined by a neutral judge or jury on an open record in an open courtroom, based on deliberate consideration of a number of factors, such as the nature and difficulty of the case, the value considered by the physician and by other doctors as an ordinary or reasonable charge for the particular services, and the value of the services as measured by the value in the community where they were rendered. This determination will not be made solely, as United seemingly did here, by having someone, in secret, apply some unknown codes to a database.\nThe 2014 statute is much more akin to the common-law approach than to United’s. While the determination under the statute will be made by arbitration, the arbitration panel will be independent and will consider an appropriate array of factors. In determining the appropriate amount to pay for a health care service, an independent dispute resolution entity shall consider all relevant factors:\n“(a) whether there is a gross disparity between the fee charged by the physician for services rendered as compared to:\n“(1) fees paid to the involved physician for the same services rendered by the physician to other patients in health care plans in which the physician is not participating, and\n“(2) in the case of a dispute involving a health care plan, fees paid by the health care plan to reimburse similarly qualified physicians for the same services in the same region who are not participating with the health care plan;\n“(b) the level of training, education and experience of the physician;\n“(c) the physician’s usual charge for comparable services with regard to patients in health care plans in which the physician is not participating;\n“(d) the circumstances and complexity of the particular case, including time and place of the service;\n“(e) individual patient characteristics; and\n“(f) the usual and customary cost of the service” (Financial Services Law § 604).\nThe statute does not make the determination wholly dependent on a mechanical reference to a database. Additionally, the arbitrators are compelled to choose between the insurer’s proffered fee and the fee sought by the provider, rather than determine a middle ground. In this way, each side will have an incentive to moderate its proposal since an overly aggressive proposal may fail to gain the support of the arbitration entity.\nThe equities favor this sort of balanced approach and do not favor endorsement of the unexplained determination of the insurer.\nConclusion\nIt is hereby ordered that the motion made by plaintiff UnitedHealthcare Services, Inc. for a preliminary injunction enjoining defendants David Asprinio, M.D., and University Orthopaedics, P.C. from engaging in the practice known as “balance billing” as directed at members of said plaintiff is denied in all respects.\n. In actuality, her insurance was through Oxford Health Plans, a health maintenance organization that defendants assert is wholly owned by United. Since United, for its part, ignores the role of Oxford and presents that it was United that was providing the insurance, the court will likewise ignore the intermediary.\n. While JZ makes these assertions in a belatedly submitted affidavit, neither Asprinio nor any other defense affiant asserts that JZ was given this information.\n. This contention seems contrary to what a reasonably intelligent adult would likely have experienced in the course of prior medical treatment. It is perhaps the rare case in which a patient presenting for emergency treatment is given an advance estimate of hospital and medical costs (the human body being more complicated, and the situation being more emergent, than is typically involved in an automobile repair estimate). Moreover, given that even the best private insurance has deductibles, co-payments, and coverage limitations, it is highly improbable that the average medical service consumer would perceive that a private, non-governmental insurer would pay everything and the consumer would be obligated to pay nothing.\n. As is unfortunately too often the case, the complaint calls its causes of action “Counts,” which is the practice in federal court, not in New York State court.\n. Whether defendants could obtain a recovery against JZ for some or all of the unpaid balance of their bill is dependent upon a number of fact intensive elements (see Shapira v United Med. Serv., 15 NY2d 200 [1965], supra). The court does not assume that there would, in fact, be a recovery; the court proceeds with the understanding that defendants would have a right of action against JZ.",
+        "type": "majority",
+        "author": "Ajlan D. Scheinkman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Connell Foley LLP, New York City (Thomas Vecchio, Peter J. Pizzi and James E. Figliozzi of counsel), for plaintiff.",
+      "Kelley Drye & Warren LLP, New York City ('William S. Gyves and Kelli D. Ortega of counsel), for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[16 NYS3d 139]\nUnitedHealthcare Services, Inc., Plaintiff, v David Asprinio, M.D., et al., Defendants.\nSupreme Court, Westchester County,\nAugust 27, 2015\nAPPEARANCES OF COUNSEL\nConnell Foley LLP, New York City (Thomas Vecchio, Peter J. Pizzi and James E. Figliozzi of counsel), for plaintiff.\nKelley Drye & Warren LLP, New York City ('William S. Gyves and Kelli D. Ortega of counsel), for defendants."
+  },
+  "file_name": "2004-01",
+  "first_page_order": 967,
+  "last_page_order": 984
+}

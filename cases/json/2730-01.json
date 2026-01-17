@@ -1,0 +1,676 @@
+{
+  "id": 12434504,
+  "name": "In the Matter of Sean Warner, Petitioner, v. Eric T. Schneiderman, as Attorney General of the State of New York, Respondent",
+  "name_abbreviation": "Warner v. Schneiderman",
+  "decision_date": "2015-12-23",
+  "docket_number": "",
+  "first_page": "1019",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 1019"
+    },
+    {
+      "type": "parallel",
+      "cite": "51 N.Y.S.3d 315"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "99 AD3d 458",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3479702
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0458-01"
+      ]
+    },
+    {
+      "cite": "27 AD3d 460",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2896079
+      ],
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/0460-01"
+      ]
+    },
+    {
+      "cite": "394 US 459",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174781
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "466"
+        },
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/394/0459-01"
+      ]
+    },
+    {
+      "cite": "139 Misc 2d 1053",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        871755
+      ],
+      "pin_cites": [
+        {
+          "page": "1058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/139/1053-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 50177",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Misc 3d 1118",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "253 AD2d 920",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        26013
+      ],
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/253/0920-01"
+      ]
+    },
+    {
+      "cite": "30 AD3d 244",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3651417
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/30/0244-01"
+      ]
+    },
+    {
+      "cite": "144 Misc 2d 919",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        882077
+      ],
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/144/0919-01"
+      ]
+    },
+    {
+      "cite": "299 AD2d 717",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        559599
+      ],
+      "pin_cites": [
+        {
+          "page": "719"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0717-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 297",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4372445
+      ],
+      "pin_cites": [
+        {
+          "page": "302"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0297-01"
+      ]
+    },
+    {
+      "cite": "128 AD2d 995",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3510099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "996"
+        },
+        {
+          "page": "996"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/128/0995-01"
+      ]
+    },
+    {
+      "cite": "177 AD2d 871",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1061097
+      ],
+      "pin_cites": [
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/177/0871-01"
+      ]
+    },
+    {
+      "cite": "254 AD2d 744",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        877260
+      ],
+      "pin_cites": [
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/254/0744-01"
+      ]
+    },
+    {
+      "cite": "72 NY2d 261",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4409112
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "267-268"
+        },
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/72/0261-01"
+      ]
+    },
+    {
+      "cite": "97 AD2d 943",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3356416,
+        3340867,
+        3361610,
+        3365521,
+        3345878
+      ],
+      "pin_cites": [
+        {
+          "page": "944"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/97/0943-05",
+        "/ad2d/97/0943-04",
+        "/ad2d/97/0943-01",
+        "/ad2d/97/0943-02",
+        "/ad2d/97/0943-03"
+      ]
+    },
+    {
+      "cite": "230 AD2d 839",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        315762
+      ],
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/230/0839-01"
+      ]
+    },
+    {
+      "cite": "75 AD3d 472",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3986951
+      ],
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/75/0472-01"
+      ]
+    },
+    {
+      "cite": "299 AD2d 788",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        560056
+      ],
+      "pin_cites": [
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0788-01"
+      ]
+    },
+    {
+      "cite": "99 NY2d 144",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        295032
+      ],
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/99/0144-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 41",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4421913
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "45"
+        },
+        {
+          "page": "45"
+        },
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0041-01"
+      ]
+    },
+    {
+      "cite": "140 Misc 2d 333",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        873933
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "339"
+        },
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/140/0333-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 239",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2558662
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0239-01"
+      ]
+    },
+    {
+      "cite": "35 NY2d 322",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2314454
+      ],
+      "pin_cites": [
+        {
+          "page": "326-327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/35/0322-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 801",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 AD2d 995",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        264558
+      ],
+      "pin_cites": [
+        {
+          "page": "995"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/229/0995-01"
+      ]
+    },
+    {
+      "cite": "851 F2d 602",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11349641
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "604"
+        },
+        {
+          "page": "604"
+        },
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/851/0602-01"
+      ]
+    },
+    {
+      "cite": "105 AD2d 904",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3405720
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/105/0904-01"
+      ]
+    },
+    {
+      "cite": "123 Misc 2d 446",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        825039
+      ],
+      "pin_cites": [
+        {
+          "page": "449-450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/123/0446-01"
+      ]
+    },
+    {
+      "cite": "43 AD3d 586",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3684827
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "587-588"
+        },
+        {
+          "page": "588"
+        },
+        {
+          "page": "588"
+        },
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/43/0586-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 1166",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4327921
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/1166-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 864",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8598359
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "867"
+        },
+        {
+          "page": "867"
+        },
+        {
+          "page": "866"
+        },
+        {
+          "page": "867"
+        },
+        {
+          "page": "867"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0864-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 31636",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 AD2d 844",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1219450
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "846"
+        },
+        {
+          "page": "846"
+        },
+        {
+          "page": "846"
+        },
+        {
+          "page": "844"
+        },
+        {
+          "page": "846"
+        },
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/216/0844-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1415,
+    "char_count": 42791,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2563170671340298
+    },
+    "sha256": "2bbffeab8c5498a54f309e1586616662ecbb0461d4d738195ff3aa87d706cbb2",
+    "simhash": "1:bf643a0700527ad0",
+    "word_count": 7025
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Sean Warner, Petitioner, v Eric T. Schneiderman, as Attorney General of the State of New York, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDavid A. Weinstein, J.\nThis CPLR article 78 petition challenges a determination of the Office of the New York State Attorney General (the OAG) made by letter dated May 18, 2015, terminating the State’s provision of a defense to petitioner Sean Warner in a federal civil lawsuit pursuant to Public Officers Law § 17. This case is one of three parallel proceedings. The other two, brought by Keith Swack and Matthew Rademacher, are addressed in separate opinions also issued today. The petitioners were all correction officers assigned to Attica Correctional Facility at the time of the events that are at the genesis of these proceedings.\nThe facts underlying this proceeding are as follows:\nOn January 17, 2012, Warner, Swack, Rademacher and a fourth individual were named as defendants in an action initiated by plaintiff George Williams in New York State Supreme Court, Kings County by summons with notice (the Williams action) (petition ¶ 7). Williams alleged that the defendants assaulted him on August 9, 2011, while he was incarcerated at Attica. In a letter from the OAG dated March 8, 2012, the State agreed to assume the cost of Warner’s defense and that of his codefendants in the Williams action {id. ¶ 10; see answer, exhibit B). The letter noted that the Attorney General had “not investigated all the facts and circumstances” of the matter, and “reserve [d] the right at any time to terminate, withdraw, revoke and disclaim any and all obligations of the State” undertaken by the letter (id. at 2).\nUpon defendants’ demand, Williams filed a verified complaint dated March 22, 2012 (petition, exhibit A). The complaint alleged that on the day in question, “without justification” defendants delivered multiple kicks and punches to Williams’ head and body, slammed him against a wall, threw him down the stairs and shouted racial epithets at him (id. ¶¶ 11-14). The complaint also stated that the defendants submitted false reports about the incident, which resulted in disciplinary charges being filed against Williams, and sanctions imposed on him (id. If 16-20). Williams’ pleading set forth causes of action under 42 USC § 1983, and for battery and intentional infliction of emotional distress.\nDefendants removed the Williams action to federal court, where it was stayed due to the pendency of a criminal indictment brought against them in Wyoming County (see petition, exhibit A). The civil case was ultimately transferred to the United States District Court for the Western District of New York (see petition ¶ 14).\nThe original indictment was dismissed, and a new one filed against Warner, Swack and Rademacher on January 22, 2013. The indictment set forth five counts against Warner arising out of the alleged August 9, 2011 assault on Williams: gang assault in the first degree, tampering with physical evidence, official misconduct, and two counts of offering a false instrument for filing in the first degree. The first three counts also charged Swack and Rademacher with the same offenses (petition, exhibit B).\nThe gang assault charge alleged that the three correction officers “caused serious physical injury” to Williams, with intent to do so (id.). The substantive portion of the official misconduct charge read in its entirety as follows: “At said time and place KEITH SWACK, SEAN WARNER, & MATTHEW RADD-EMACHER [sic] committed an act relating to their office but constituting an unauthorized exercise of his official function, knowing that such act is unauthorized” (id.). Official misconduct is a class A misdemeanor (see Penal Law § 195.00 [1]).\nAt defendants’ request, the District Attorney provided a bill of particulars containing further detail on the allegations in the indictment. The original bill did not reference the official misconduct charge, and by subsequent decision and order the court directed the prosecutor to give further specificity as to that count. The prosecutor responded by characterizing the official misconduct allegation as follows: “the Defendants engaged in the unauthorized use of physical force upon the victim” (answer, exhibit C).\nOn March 2, 2015, Warner pleaded guilty to a single count of official misconduct, in satisfaction of the entire indictment. The complete colloquy regarding the conduct to which he admitted was as follows:\n“The Court: Are you Sean Warner, the named Defendant in Indictment 6852?\n“Mr. Warner: Yes, sir.\n“The Court: And do you admit that you were in Wyoming County on or about August 9th, 2011?\n“Mr. Warner: Yes, sir.\n“The Court: And at that date, time and place, did you commit an act relating to your office but constituting an unauthorized exercise of your official functions, knowing that such act was unauthorized, and that the unauthorized act was removal of a baton from State grounds?\n“Mr. Warner: Yes, Sir” (petition, exhibit C at 15-16).\nWarner then entered a plea of guilty, after which his attorney asked the court to clarify that Warner was employed as a public servant on August 9, 2011. He confirmed that this was true (id. at 16).\nWarner was sentenced to a conditional discharge and, as a result of the plea, resigned from his position as a correction officer.\nFollowing Warner’s conviction, the OAG notified him by letter dated May 18, 2015 that it would no longer provide him a defense in the Williams action (petition, exhibit D). It made that determination on two grounds.\nFirst, it noted that section 17 only covers acts or omissions “which occurred or [are] alleged to have occurred while the employee was acting within the scope of his public employment duties” (id. at 2). According to the letter, “[t]he nature of the conduct to which Mr. Warner pled and which by his own admission constitutes a crime cannot be said to be within the scope of his employment” (id.).\nSecond, the letter stated that Warner had “admitted to an intentional wrong doing” (id.). It asserted that the duty to indemnify under section 17 does not apply to injuries resulting from intentional wrongdoing, and “[w]here the State has no legal obligation to indemnify, it has no obligation to defend” (id., citing Matter of Sharrow v State of New York, 216 AD2d 844, 846 [3d Dept 1995]).\nPetitioner then commenced this article 78 proceeding, by which he seeks an order “enforcing his rights under Public Officers Law section 17, compelling the [S]tate to rescind the position it took in its May 18, 2015 letter . . . , [and] paying for the cost of defense in Williams v Warner, et al.” (Petition at 19-20.) The petition avers, among other things, that the court in the Williams action has rejected defendants’ application for a stay pending completion of a federal criminal investigation, and the civil suit is therefore moving forward (id. ¶ 21).\nIn his petition, Warner argues that the only action he acknowledged during his plea colloquy was “the removal of a state-issued baton from the facility” (petition f 28). He also notes that the complaint “specifically alleges that the conduct engaged in by each Defendant was within the course or scope of his employment,” and asserts that this alone is sufficient to trigger the State’s obligation to defend him (id. ¶¶ 32, 36). Warner further contends that, by its very nature, a section 1983 suit must address actions that took place within the scope of a defendant’s employment, since “no State employee is given the assigned task of violating the civil rights of the citizens of this country” (id. ¶ 41).\nIn regard to the factual record, petitioner avers that the reports filed by the Williams defendants “alleged that the inmate was carrying a concealed weapon and physically confronted one of the officers when it was discovered,” and they maintained that “any physical force used to restrain the inmate was reasonable and justified” (id. ¶ 46). Further, Warner contends that while he admitted to taking a baton from the facility, “the record does not connect that baton with anything having to do with the assault on Williams” (id. ¶ 47). He also argues that “Official Misconduct, by definition, requires that Defendants were acting in their official capacity” (id. ¶ 48).\nIn response, the OAG has submitted a verified answer and return, as well as a memorandum of law, asserting that the conclusion reached in the May 18 letter was a proper exercise of the Attorney General’s discretion. Specifically, the OAG argues:\n“The guilty plea ... as further specified by the amendment to the Bill of Particulars, to knowingly committing an act outside the scope of his employment disqualifies [Warner] from receiving defense or indemnification under POL § 17. The petitioner’s actions were not for the purpose [of] furthering [DOCCS’] interest but were by definition authorized and committed solely to obtain and [sic] benefit or deprive another of a benefit” (answer ¶ 38).\nIn addition, respondent provides the affidavit of Megan Levine, a Deputy Attorney General at the OAG and the author of the two letters regarding defense and indemnification. She describes the process that led to the May 18 denial letter, noting specifically that it was based on the indictment, plea transcript and bill of particulars in the criminal case, as well as the civil pleadings and docket sheet (Levine aff ¶¶ 10-11). According to the affidavit, these documents indicated that Warner pleaded to both conduct outside the scope of his employment and intentional misconduct, which provided a lawful basis for the OAG to discontinue his defense (id. ¶ 15).\nThis petition was originally filed in Supreme Court in Wyoming County. The OAG moved successfully to change venue to Albany County. In granting the motion, the court stated that since “the complaint in this case ‘definitively allege [s]’ that the officers were acting within the scope of their employment, the Attorney General was not authorized by the statute to look beyond the pleadings to make any factual inquiry at all,” and the guilty plea was thus not a material event for purposes of venue (see Matter of Rademacher v Schneiderman, 2015 NY Slip Op 31636[U], *2 [Sup Ct, Wyoming County 2015]).\nDiscussion\nPublic Officers Law § 17 provides in relevant part as follows:\n“2. (a) . . . the state shall provide for the defense of the employee in any civil action or proceeding in any state or federal court arising out of any alleged act or omission which occurred or is alleged in the complaint to have occurred while the employee was acting within the scope of his public employment or duties; or which is brought to enforce a provision of section nineteen hundred eighty-one or nineteen hundred eighty-three of title forty-two of the United States code and the act or omission underlying the action occurred or is alleged in the complaint to have occurred while the employee was acting within the scope of his public employment or duties ....\n“3. (a) The state shall indemnify and save harmless its employees in the amount of any judgment obtained against such employees in any state or federal court, or in the amount of any settlement of a claim . . . provided, that the act or omission from which such judgment or settlement arose occurred while the employee was acting within the scope of his public employment or duties; the duty to indemnify and save harmless or pay prescribed by this subdivision shall not arise where the injury or damage resulted from intentional wrongdoing on the part of the employee.”\nAs an initial matter, I note the following with regard to the statutory language (with emphasis added): it provides that the duty to defend a state employee named in a section 1983 action attaches either if the act or omission “occurred” or if it is “alleged in the complaint to have occurred” while the employee “was acting within the scope of his public employment or duties.” This would seem to indicate that where the appropriate statement regarding scope of employment is contained in the pleadings filed in the action for which the employee seeks a defense, the section 17 test is met without regard to the validity of such allegations. The case law provides some support for this view (see Frontier Ins. Co. v State of New York, 87 NY2d 864, 867 [1995] [“the duty to defend may be plainly triggered by allegations of State employment contained in the complaint in the underlying action”]; Matter of Bonilla v Town of Hempstead, 131 AD3d 1166 [2d Dept 2015] [Town has duty to defend employee, because there is allegation defendant acted within scope of employment in civil complaint]; Matter of Dreyer v City of Saratoga Springs, 43 AD3d 586, 587-588 [3d Dept 2007] [“whether respondents owe petitioner a legal defense . . . hinges on whether the federal complaints allege that the employee was acting within the scope of her employment at the time of the alleged wrongdoing .... If the allegations of the complaint suggest that any of the conduct asserted falls reasonably within the scope of employment, the duty to provide a defense is triggered since the duty to defend is extremely broad and exists regardless of how baseless the complaint may be” (emphasis omitted)]; Matter of Spitz v Abrams, 123 Misc 2d 446, 449-450 [Sup Ct, Albany County 1984], affd 105 AD2d 904 [3d Dept 1984] [“If there is such an allegation (of a wrongful act within the scope of employment), a defense must be provided, irrespective of the actual facts or ultimate factual determination . . . (;) the determining factor is the conduct charged by the injured party, not what the actual conduct may in fact have been”]; Hassan v Fraccola, 851 F2d 602, 604 [2d Cir 1988] [only reasonable interpretation of Public Officers Law’s defense provisions “is that the allegations in the complaint trigger the (government’s) duty”]).\nFurther, case law governing an insurer’s duty to defend an insured, which is persuasive of the proper construction of the Attorney General’s responsibility under Public Officers Law §17, confirms the principle that the obligation to defend attaches based on the allegations in the complaint, “even if those allegations are false or groundless” (see Frontier Ins. Co., 87 NY2d at 867; see also Matter of LoRusso v New York State Off. of Ct. Admin., 229 AD2d 995, 995 [4th Dept 1996] [“the role of the Attorney-General (in overseeing defense and indemnification under section 17) is similar to that of an insurer in determining whether to provide a defense to its insured”]).\nIn this case, Williams’ complaint makes the requisite allegation: “That at all times herein mentioned, defendants were acting within the course and scope of their employment with DOCCS” (petition, exhibit A, ¶ 7). Respondent agrees that this was sufficient to trigger the initial obligation of the Attorney General to defend Warner—as, indeed, it did—but contends that such obligation terminated once the Attorney General determined that there was no prospect that it would have to indemnify him.\nThe OAG’s position is premised on Matter of Sharrow v State of New York (216 AD2d 844 [3d Dept 1995], lv denied 87 NY2d 801 [1995]). In Matter of Sharrow, the Attorney General reversed its initial determination to provide two correction officers a defense under section 17 in a section 1983 action alleging that they beat an inmate, when a videotape revealed that the officers assaulted the inmate after any possible justification for the use of force had ended, and the beating had taken place without any resistance or provocation. The Court found that these circumstances presented the “unusual scenario of having the underlying facts so clear-cut that reasonable minds could reach no other conclusion” but that the officers acted outside the scope of their employment (216 AD2d at 846 [citations and internal quotation marks omitted]). The Court noted that the “undisputed evidence” established that there was no justification for the use of force, nor was there any resistance thereto, and therefore the officers’ conduct was “a substantial departure from the essential correctional goal of maintaining order, discipline and control” (id.). Thus, “as a matter of law there [was] no possible factual or legal basis on which [the State] might eventually be held to be obligated to indemnify [petitioners]” (id. [ellipsis, citations and internal quotation marks omitted]). Given these findings, the Third Department upheld the OAG’s decision to decline to pay for the officers’ defense.\nMatter of Sharrow did not .address the question of whether the Attorney General may decline to defend under such circumstances even when the pleadings in the civil suit at issue specifically allege that petitioners acted within the scope of their employment. That was not at issue in Matter of Sharrow, since the civil complaint for which petitioners sought a defense in that case alleged only that defendants acted under “color of state law,” not that they acted within the scope of their employment (id. at 845-846).\nThe principle that the Attorney General may revoke a defense notwithstanding a clear “scope of employment” allegation at first blush seems at odds with the notion that where a civil complaint “suggest[s] that any of the conduct asserted falls reasonably within the scope of employment, the duty to provide a defense is triggered . . . regardless of how baseless the complaint may be” (see Matter of Dreyer, 43 AD3d at 588 [emphasis added]). In this case, though, the allegation that defendants acted within the scope of their employment is entirely boilerplate, and not supported by specific factual allegations in the claim (cf. International Paper Co. v Continental Cas. Co., 35 NY2d 322, 326-327 [1974] [duty to defend triggered when an injured party “can state facts which bring the injury within the coverage” (emphasis added)]). Under these circumstances, and without deciding the question, I will presume for purposes of this opinion that the Attorney General may cease to provide a defense where the Sharrow standard is met, even where the pleadings allege that the defendant acted within the scope of his or her employment. I find, in any event, that it was error for the OAG to have done so under the facts of this case.\nBefore I address the particulars of Warner’s petition, there is one crucial, preliminary issue I must resolve: the appropriate standard of review applicable to the Attorney General’s decision. Respondent contends that because the decision of whether to provide an employee a defense is “an administrative decision much like decisions rendered by other administrative agencies in response to an application for a benefit granted by a governmental entity” (see Frontier Ins. Co., 87 NY2d at 866), it must be upheld unless found arbitrary and capricious.\nThe Attorney General premises this argument on Matter of O’Brien v Spitzer (7 NY3d 239 [2006]). That proceeding concerned the OAG’s determination as to whether an individual seeking a defense under section 17 was an employee or independent contractor. The Court of Appeals held that on this issue, deference to the Attorney General was appropriate, and it was not the Court’s role to “second-guess” (id. at 242). The Court specifically found this approach to be proper because “the question is one of specific application of a broad statutory term” (id.).\nI do not find respondent’s argument persuasive. For one thing, the cases that specifically address the precise question before me—whether the OAG properly determined that it need not defend petitioner because it believed his actions were outside the scope of his employment—hold squarely for the standard of review proffered by petitioner. Thus, Matter of Sharrow found that the OAG’s determination not to defend an employee must be overturned unless it is “so clear-cut that reasonable minds could reach no other conclusion” (see 216 AD2d at 846). That decision is fully in accord with prior decisional law (see Frontier Ins. Co., 87 NY2d at 867; Mathis v State of New York, 140 Misc 2d 333, 339 [Sup Ct, Albany County 1988]). Moreover, the same standard applies in the analogous context of a private insurer, who will be relieved of such duty only “if it establishes as a matter of law that there is no possible factual or legal basis” that it will be obligated to indemnify the insured (see Allstate Ins. Co. v Zuk, 78 NY2d 41, 45 [1991]).\nFurther, under an arbitrary and capricious analysis, the Attorney General’s decision survives such review only if there is a “rational basis for the action in question” (see Matter of Gilman v New York State Div. of Hous. & Community Renewal, 99 NY2d 144, 149 [2002]). In the context of a determination under section 17 to deny an employee a defense, the Court of Appeals has definitively held that “the denial of a defense is rational only if the court determines that there is no possible factual or legal basis on which the State may be obligated to indemnify the employee, as a matter of law” (Frontier Ins. Co., 87 NY2d at 867 [emphasis added]). Thus even within the context of the general standard proffered by respondent, this is not a case where deference to its decision is required.\nFinally, even if the Attorney General’s position was correct as a general rule, it cannot be so here, where the complaint contains a specific “scope of employment” allegation. Under these circumstances, respondent seeks to avoid a specific statutory command that it provide a defense. The OAG’s only basis for why it can do so here derives from its reading of Matter of Sharrow, that where the Attorney General finds unequivocally that indemnification would be impossible, such finding can trump even “scope of employment” language in the complaint. Thus, this is not a case like O’Brien where the Attorney General is construing a broad statute; rather, respondent is arguing (as he must) that the factual record permits of no other interpretation. I cannot see what role deference to the OAG has to play in light of this legal standard.\nI proceed then, to consider whether the Sharrow standard is met in this case.\nThe essence of the Attorney General’s argument is that Warner’s guilty plea established, as a matter of law, that he acted outside the scope of his employment, and engaged in intentional misconduct that caused injury to Williams. I find that petitioner’s misdemeanor conviction is insufficient to compel either of these conclusions.\nTwo areas of case law are relevant to the OAG’s argument: that addressing the preclusive effect of criminal pleas in civil cases, and that considering the impact of such pleas on the rights of insurers to invoke policy exclusions.\nA defendant’s conviction has preclusive effect as to all matters “expressly or necessarily decided in [the] criminal proceeding” (see Zuk, 78 NY2d at 45 [citations omitted]). This is true whether the conviction is based on a plea or a verdict following trial (see Searles v Dalton, 299 AD2d 788, 789 [3d Dept 2002]). But unless there is an “identity of issue necessarily decided in the prior action that is decisive” of the subsequent proceeding, the resolution of the former does not control the outcome of the latter (see Abacus Fed. Sav. Bank v Lim, 75 AD3d 472, 473 [1st Dept 2010]).\nIn the context of a guilty plea, this means that the plea establishes only the specific elements of the crime to which the defendant pleaded, and such facts as were specifically admitted in the allocution (see Roe v Barad, 230 AD2d 839, 840 [2d Dept 1996] [plea to inducing plaintiff to engage in sexual performance did not establish civil tort of battery, since “issue of consent, or the lack thereof, was not an element of that crime,” and defendant did not admit during allocution that victim had not consented]; Davis v Hanna, 97 AD2d 943, 944 [4th Dept 1983] [plea to aiding transportation of stolen property and conspiracy does not establish civil liability for conversion, when neither conviction, nor plea minutes, establish elements of the tort, and plea transcript did not “set forth a factual basis for the offenses to which defendant pleaded guilty”]).\nHere, neither the elements of official misconduct nor the text of Warner’s allocution demonstrate that he acted outside the scope of his employment in regard to all of the conduct for which he has been sued in the Williams action, or that he engaged in intentional misconduct that caused Williams’s injury.\nIn determining whether there is an identity between the criminal conviction and the later civil action, it matters not that the criminal charges raise the identical issue as the civil pleading. The same issue must be “actually litigated and resolved in the prior [criminal] proceeding” for it to foreclose the outcome of a civil suit (see Matter of Halyalkar v Board of Regents of State of N.Y., 72 NY2d 261, 267-268 [1988] [no collateral estoppel as to question that had not been litigated in criminal proceeding, although issue as “framed by” criminal charges was “essentially indistinguishable” from subsequent civil case]). In other words, the question at issue must have been “actually determined” in the criminal case (see id. at 268).\nThese principles are applicable to the question of whether a criminal plea establishes the factual predicate for an exclusion from an insurer’s duty to defend—a role analogous to that of the Attorney General here. Thus, preclusion will only vitiate such a duty where all of the elements of an exclusion are established by the conviction (see Zuk, 78 NY2d at 46 [guilty plea to recklessly causing person’s death does not estop insured from contesting exclusion for damages which may “reasonably be expected (from insured’s intentional or) criminal act(s)”; person may act recklessly without expectation that damage will occur and thus issues were not “identical”]; Allegany Co-op Ins. Co. v Kohorst, 254 AD2d 744, 744 [4th Dept 1998] [defendant not estopped by conviction from denying intent to cause injury, which would allow insurer to invoke exclusion from duty to defend, when “intent to cause injury to a person is not an element of the crimes with which (defendant) was charged or the crime to which he pleaded guilty”]). Put otherwise, when the exclusionary clause “uses a standard not found in the Penal Law” in regard to the conviction at issue, a guilty plea does not establish that such exclusion has been met (see Green v Allstate Ins. Co., 177 AD2d 871, 872 [3d Dept 1991]).\nHere, the Attorney General argues that the crime to which Warner pleaded—official misconduct—demonstrates that he acted outside the scope of his employment, and that he engaged in intentional misconduct. At best, though, these elements are established only in regard to the specific conduct which Warner admitted: taking a baton from the prison. Such proof does not meet the Sharrow test of rebutting any possible basis for indemnification as a matter of law.\nA public employee is guilty of official misconduct when he “commits an act relating to his office but constituting an unauthorized exercise of his official functions, knowing that such act is unauthorized” (Penal Law § 195.00 [1]). Such act must be carried out “with intent to obtain a benefit or deprive another person of a benefit” (see id.).\nInitially, I note that an “unauthorized” act does not by itself equate to one outside the scope of the defendant’s employment. An individual acts within the scope of his employment “so long as he is discharging his duties, no matter how irregularly, or with what disregard of instructions” (see Cepeda v Coughlin, 128 AD2d 995, 996 [3d Dept 1987], citing Riviello v Waldron, 47 NY2d 297, 302 [1979]). Under Cepeda, one can clearly admit to actions that were “unauthorized,” without conceding that they were outside the scope of that person’s official duties. Indeed, although the use of excessive force by correction officers is barred by statute (see Correction Law § 137 [5]), such conduct may still fall within the scope of their employment when, for example, the use of force itself was necessary to respond to a prisoner’s violent acts (Cepeda, 128 AD2d at 996; see also Mathis, 140 Misc 2d at 341 [correction officer’s conduct “even if involving excessive force, could be found to be within the scope of a prison guard’s duties”]).\nThe Attorney General is on stronger ground in its contention that since the official misconduct statute requires that the intent of the criminal act be to obtain a benefit for someone or to harm another, it cannot be within the scope of employment (see answer ¶ 38). A public employee acts within the scope of his job when the employee’s “purpose in performing such actions is to further the employer’s interest, or to carry out duties incumbent upon the employee in furthering the employer’s business,” as opposed to acting in response to a matter “wholly personal in nature” (see Matter of Schenectady Police Benevolent Assn. v City of Schenectady, 299 AD2d 717, 719 [3d Dept 2002] [citations and internal quotation marks omitted]). But an act cannot be motivated by the desire to benefit a particular person or to harm another (as required for an official misconduct conviction), and at the same time be directed at furthering the goals of a public employer (cf. People v Esposito, 144 Misc 2d 919, 921 [Sup Ct, NY County 1989] [noting, in reviewing official misconduct prosecutions, that the conduct in each “had a nexus personal to the defendant”]).\nBut that does not end the inquiry. At most Warner admitted that in removing a baton from the prison, he acted with an intent inconsistent with his public duties. Nothing in the plea, however, established any connection between the baton and the alleged assault on Williams. Respondent asserted during oral argument that it could be inferred from the circumstances of the plea that the baton referenced by Warner was used to beat Williams (argument tr at 40). The plea transcript, though, provides no basis for such a connection, as Warner was neither asked nor acknowledged anything regarding the use of the baton. The inference the OAG would draw has no support in the record of the plea, and certainly is insufficient to foreclose any alternate conclusion (see Hughes v Farrey, 30 AD3d 244, 248 [1st Dept 2006] [although defendant’s intentional conduct may have been a “reasonable” inference that could be drawn from plea allocution, it was not the only such inference, and thus insufficient to establish intent for purposes of estoppel]).\nMoreover, even were I to glean from the admissions made on Warner’s plea definitive proof that the removal of the baton was connected with the assault—presumably as part of some effort at a cover up—this would not deprive Warner of the right to a defense. That is because where “some of the conduct charged . . . may arguably be outside of the scope of [petitioner’s] employment or intentional,” the Attorney General still has an obligation to defend so long as “some of the allegations fall clearly within the scope of [defendant’s] employment” (Matter of Dreyer, 43 AD3d at 588; see also Matter of Police Benevolent Assn. of N.Y. State Troopers v Vacco, 253 AD2d 920, 921 [3d Dept 1998] [under Public Officers Law § 19 (2) (a), “companion statute” to section 17, OAG decision not to reimburse attorneys’ fees “cannot be sustained in the absence of a finding that all of the charges against [petitioner] arose from acts committed outside the scope of his public employment or duties”]). At most, in this case petitioner’s guilty plea covered only a fraction of the misconduct at issue in the Williams complaint, since Warner’s acknowledgment regarding the baton said nothing about his role in any beating. Since petitioner’s admission did not preclude indemnification on the entire Williams action, it did not terminate the State’s obligation to provide him a defense (see Larson v County of Seneca, 22 Misc 3d 1118[A], 2009 NY Slip Op 50177[U] [Sup Ct, Ontario County 2009] [OAG had continuing duty to defend petitioner despite his guilty plea to official misconduct, because the allegations in the civil suit were broader than the indictment, applying to additional individuals]).\nOn this final point, respondent argues that even if the precise language of Warner’s allocution does not admit to an assault on Williams, he implicitly acknowledged such by pleading guilty to the charge in light of the clarification given by the Wyoming County District Attorney in its bill of particulars that the official misconduct count charged Warner and his codefend-ants with “unauthorized use of physical force” (see argument tr at 15 [court should “combine language of the indictment . . . with the amplification of that charge in the bill of particulars” to find respondent acted outside scope of employment]). That argument fails, though, as there is no apparent authority for the proposition that when a prosecutor submits a bill of particulars, it transforms a subsequently entered guilty plea into an admission of all the allegations set forth in the bill.\nIn the criminal context, and as relevant here, a bill of particulars\n“is a written statement by the prosecutor specifying . . . items of factual information which are not recited in the indictment and which pertain to the offense charged and including the substance of each defendant’s conduct encompassed by the charge which the people intend to prove at trial on their direct case.” (CPL 200.95 [1] [a].)\nIts purpose is “to define more specifically the conduct forming the basis for the crimes charged in the accusatory instrument, and to clarify and/or amplify matters in the pleadings that are necessary to enable the accused to mount a defense” (People v Colon, 139 Misc 2d 1053, 1058 [Sup Ct, NY County 1988] [citations and internal quotation marks omitted]).\nIn short, a bill of particulars clarifies the charges so that a defendant can understand the prosecution’s theory of the case and properly prepare a defense. Respondent’s argument would turn this purpose on its head, and compel every accused who pleads guilty after the submission of a bill of particulars to admit sub silentio to the prosecutor’s allegations, even when those allegations receive no mention in the allocution, or are different from the substance of the plea. But a guilty plea “is an admission of all the elements of a formal criminal charge” (McCarthy v United States, 394 US 459, 466 [1969]), not to every factual allegation or theory advanced by the prosecution. That is particularly the case here, where Warner explicitly stated the facts to which he was admitting, and they did not encompass the charges in the bill of particulars.\nNor does a conviction for official misconduct prove “the injury or damage [at issue in the civil suit] resulted from intentional wrongdoing on the part of the employee,” so as to remove the State’s indemnification obligation under Public Officers Law § 17 (3) (a), and concomitantly under Sharrow, its duty to defend. A conviction for official misconduct entails only a finding of intent “to obtain a benefit or deprive another person of a benefit” (Penal Law § 195.00), and includes no requirement that such intentional wrongdoing caused injury or damage to another. Indeed, in Warner’s case he made no admission in his plea that taking the baton from the facility caused any injury or damage to Williams at all. Under these circumstances, I cannot find that the admissions made on Warner’s allocution definitively established that the damage alleged in the Williams action “resulted from intentional wrongdoing” to which petitioner admitted, so as to fall within this exception to section 17 (3) (see Zannelli v Walker, 27 AD3d 460, 461 [2d Dept 2006] [reckless endangerment plea did not establish convicted individual’s responsibility for accident, because it was not an element of the crime that her conduct was a “proximate cause” of the accident, and thus causation was “(not) necessarily determined in the . . . criminal action”]).\nIn short, even if it could be inferred that the removal of the baton was connected to the alleged assault on Williams, or represented intentional misconduct, neither finding establishes that there is no “possible factual or legal basis” for indemnification of Warner under Public Officers Law § 17 (3), nor has respondent otherwise shown it is not obligated to provide him with a defense in this case under Public Officers Law § 17 (2). It is therefore ordered and adjudged that the application of petitioner Sean Warner for a judgment pursuant to CPLR article 78 is granted. Petitioner shall be entitled under section 17 of the Public Officers Law to a defense paid for by the State in the action brought against him in federal court by George Williams.\n. The documents before me spell this petitioner’s name both “Rade-macher” and “Raddemacher.” I have used the former, since it is the one set forth in the caption of his petition, except when quoting directly from a document that uses the second spelling.\n. It is unclear from the submissions on this petition when this indictment was filed. The only indictment presented in the record before me is the one referred to below, dated January 22, 2013, but the petition indicates that criminal charges were pending against Warner and his codefendants in the Williams action at the time the civil matter was stayed (see petition ¶ 12).\n. Williams filed a separate action against the State of New York in the Court of Claims. He agreed to a conditional dismissal of that suit pending resolution of his federal court case (see petition ¶ 16).\n. Specifically, the petition cites the following language in Williams’s verified complaint: “That at all times herein mentioned, defendants were acting within the course and scope of their employment with DOCCS” (petition, exhibit A, ¶ 7).\n. Counsel for petitioner conceded at oral argument that this statement was dicta (argument tr at 26).\n. Matter of Bonilla, Matter of Dreyer and Hassan construed the defense and indemnification requirements of local law, which adopted the relevant provisions of Public Officers Law § 18, the counterpart to section 17 for local governments. There is nothing in the language of the two sections that requires a different analysis. Rather, “[t]he language of section 17 is similar to that of section 18, except that it is more precise” (Hassan, 851 F2d at 604). The former refers to whether the actions “alleged in the complaint” fall within the scope of the individual’s public employment, while the latter refers generally to “any alleged act or omission” (see id.). This distinction does not make any apparent difference as far as the duty to defend is concerned, and the case law for each provision cites the other interchangeably (see e.g. Matter of Dreyer, 43 AD3d at 588, citing Spitz, and Sharrow; see also Hassan, 851 F2d at 605 [legislative history of section 18 “indicates that its defense and indemnification provisions were intended to be the same as those of section 17”]).\n. Petitioner also contends that because the Williams complaint states a claim under 42 USC § 1983, a defense must automatically be provided (see petition ¶ 41). Respondent is correct that this argument is based on the Third Department’s holding in Matter of Spitz v Abrams (105 AD2d 904 [3d Dept 1984]), which was legislatively overturned by chapter 768 of the Laws of 1985. Matter of Spitz construed earlier statutory language as requiring a defense in all section 1983 actions, regardless of the allegations; chapter 768 made clear that such a defense must be provided only when the conduct occurred or is alleged to have occurred within the scope of employment (see Mem of Dept of Law for Governor, Bill Jacket, L 1985, ch 768 at 14 [purpose of proposed legislation was to overturn Appellate Division holding in Matter of Spitz, and make clear that the statute would “treat Section 1981 and 1983 actions as all other actions”]).\n. The Sharrow petitioners also failed to contest these facts in an arbitration that led to their discharge from employment (216 AD2d at 844).\n. Matter of Sharrow does not definitively state whether it upheld the Attorney General’s decision because the officers acted outside the scope of their employment, or engaged in intentional misconduct that harmed the inmate. However, statements in the opinion that “there existed no justification for the force used,” and that “the petitioners’ conduct was a substantial departure from the essential correctional goal of maintaining order, discipline and control” (216 AD2d at 846) are directed at the “scope of employment” issue, and the decision makes no mention of the officers’ intent.\n. The holding of Matter of Sharrow, tying the defense requirement to the prospect of indemnification, seems inconsistent with the oft-repeated principle that “the State’s duty to defend [an employee] is broader than the duty to indemnify” (see Komlosi v Cuomo, 99 AD3d 458, 459 [1st Dept 2012], citing Matter of LoRusso), since that principle would indicate that there are circumstances where a defense may be required although indemnification is not. Moreover, the indemnification requirement specifically exempts certain intentional misconduct, while that exemption is not mentioned in Public Officers Law § 17 (2), governing the provision of a defense. Nonetheless, Matter of Sharrow makes clear that the OAG does not have to defend petitioner if there is absolutely no possibility of indemnification.\n. Indeed, the complaint states that the officers acted “without justification” (complaint ¶ 11). A finding that this was the case was one of the grounds on which Sharrow determined that the conduct at issue fell outside the scope of the officers’ employment (see 216 AD2d at 846 [officers acted with no “justification for the (use of force)”]). At oral argument, respondent characterized the allegation that the Williams defendants were acting within the scope of their employment as “superfluous” (argument tr at 25). Given that such an allegation is unnecessary in a section 1983 action, which requires only that defendants operated “under color of law,” there is merit to this contention.\n. The indictment did not charge, and Warner did not admit to, any mens rea in regard to his official misconduct conviction. Since a guilty plea concedes all the elements of an offense (see McCarthy v United States, 394 US 459, 466 [1969]), his plea may be deemed an admission to the intent element of the statute.",
+        "type": "majority",
+        "author": "David A. Weinstein, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Murphy Meyers, LLP, Orchard Park (Cheryl Meyers Buth of counsel), for petitioner.",
+      "Eric T. Schneiderman, Attorney General, Buffalo (George Michael Zimmermann of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[51 NYS3d 315]\nIn the Matter of Sean Warner, Petitioner, v Eric T. Schneiderman, as Attorney General of the State of New York, Respondent.\nSupreme Court, Albany County,\nDecember 23, 2015\nAPPEARANCES OF COUNSEL\nMurphy Meyers, LLP, Orchard Park (Cheryl Meyers Buth of counsel), for petitioner.\nEric T. Schneiderman, Attorney General, Buffalo (George Michael Zimmermann of counsel), for respondent."
+  },
+  "file_name": "2730-01",
+  "first_page_order": 1043,
+  "last_page_order": 1061
+}

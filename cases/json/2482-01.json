@@ -1,0 +1,89 @@
+{
+  "id": 12171309,
+  "name": "Terrace 100, L.P., Petitioner, v. Monique Blaylock et al., Respondents",
+  "name_abbreviation": "Terrace 100, L.P. v. Blaylock",
+  "decision_date": "2016-10-05",
+  "docket_number": "",
+  "first_page": "1156",
+  "last_page": "1158",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 1156"
+    },
+    {
+      "type": "parallel",
+      "cite": "40 N.Y.S.3d 876"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Nassau Cty. Dist. Ct.",
+    "id": 11496,
+    "name": "Nassau County District Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "48 AD3d 581",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3685326
+      ],
+      "pin_cites": [
+        {
+          "page": "583-584"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/48/0581-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 210,
+    "char_count": 2864,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2469800362878299
+    },
+    "sha256": "d0d7c6911e5d93999d33638c7ed3d1946d6f4fe4720679c73efcb4be52ade945",
+    "simhash": "1:3125e54d846170f2",
+    "word_count": 439
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrace 100, L.P., Petitioner, v Monique Blaylock et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nScott Fairgrieve, J.\nRespondent’s motion for summary judgment, pursuant to CPLR 3212, is granted. Petitioner’s “cross motion” for summary judgment, pursuant to CPLR 3212, is denied in light of the below discussion.\nAt the outset, the court notes that petitioner’s “cross motion” is not a proper cross motion (see CPLR 2215).\nIn the case at bar, petitioner landlord commenced a summary holdover proceeding based upon a 30-day notice to terminate (respondent’s exhibits B, C). However, on or about January 1, 2016, petitioner landlord sought re-certification of respondent’s lease and by letter dated March 7, 2016, respondent’s rent was adjusted, suggesting that respondent’s tenancy has been renewed (respondent’s exhibit J). Nonetheless, petitioner argues that re-certification of respondent’s lease has to be done by federal regulation, even though petitioner landlord has sought to terminate respondent’s tenancy.\nHowever, the case of Matter of Stepping Stones Assoc. v Seymour (48 AD3d 581, 583-584 [2d Dept 2008]) held that\n“[t]he landlord sought to recover possession of the premises based upon the tenant’s default in the payment of rent under the lease in effect at the time the proceeding was commenced. When, subsequent to that default, the landlord tendered, and the tenant accepted, the renewal lease, a new tenancy arose. Since the tenant’s right to possession was thereafter predicated upon the renewal lease, the landlord could no longer seek possession of the premises on the basis of the tenant’s default under the previous lease.” (Citations omitted.)\nFurther, the Stepping Stones Court went on to dismiss the contention that the petitioner landlord was compelled under the circumstances to tender a renewal lease to respondent in that case.\nSimilarly, in the instant case, as in Stepping Stones, the re-certification of respondent’s lease, in March of 2016, commenced a new tenancy, and prevents petitioner landlord from seeking possession of the subject premises based upon the 30-day notice to terminate under the previous lease. Moreover, as one of the judges of this court ruled in Park Lake Residences, L.P. v Gibson (Nassau Dist Ct, Apr. 17, 2007, Miller, J., index No. SP 05343/06]), the sending of the HUD re-certification notice must be viewed as a waiver of the termination notice, and respondent’s motion to dismiss should be granted (respondent’s exhibit M).\nAccordingly, the notice of petition and petition herein are dismissed.",
+        "type": "majority",
+        "author": "Scott Fairgrieve, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jeffrey A. Seigel, Nassau!Suffolk Lawyers Services Committee, Inc., Hempstead (Judy Slater Hirshon of counsel), for Monique Blaylock, respondent.",
+      "Horing Welikson & Rosen, RC., Williston Park, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[40 NYS3d 876]\nTerrace 100, L.P., Petitioner, v Monique Blaylock et al., Respondents.\nDistrict Court of Nassau County, First District,\nOctober 5, 2016\nAPPEARANCES OF COUNSEL\nJeffrey A. Seigel, Nassau!Suffolk Lawyers Services Committee, Inc., Hempstead (Judy Slater Hirshon of counsel), for Monique Blaylock, respondent.\nHoring Welikson & Rosen, RC., Williston Park, for petitioner."
+  },
+  "file_name": "2482-01",
+  "first_page_order": 1166,
+  "last_page_order": 1168
+}

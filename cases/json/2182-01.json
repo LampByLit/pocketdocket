@@ -1,0 +1,940 @@
+{
+  "id": 4234390,
+  "name": "Kallista, S.A., et al., Plaintiffs, v. White & Williams LLP et al., Defendants",
+  "name_abbreviation": "Kallista, S.A. v. White & Williams LLP",
+  "decision_date": "2016-01-07",
+  "docket_number": "",
+  "first_page": "401",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 401"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 N.Y.S.3d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "5 NY3d 582",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        983952
+      ],
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0582-01"
+      ]
+    },
+    {
+      "cite": "65 AD3d 1106",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5729239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/65/1106-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 705",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 AD3d 810",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3958153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/68/0810-01"
+      ]
+    },
+    {
+      "cite": "25 Misc 3d 451",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3757600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/25/0451-01"
+      ]
+    },
+    {
+      "cite": "23 F Supp 3d 363",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4276125
+      ],
+      "pin_cites": [
+        {
+          "page": "376-377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/23/0363-01"
+      ]
+    },
+    {
+      "cite": "548 F Supp 1172",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3499627
+      ],
+      "pin_cites": [
+        {
+          "page": "1176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/548/1172-01"
+      ]
+    },
+    {
+      "cite": "71 AD3d 1548",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3962144,
+        3970434,
+        3970467,
+        3970242,
+        3963347,
+        3982963,
+        3972054,
+        3971926,
+        3975608
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/71/1548-02",
+        "/ad3d/71/1548-05",
+        "/ad3d/71/1548-06",
+        "/ad3d/71/1548-03",
+        "/ad3d/71/1548-09",
+        "/ad3d/71/1548-08",
+        "/ad3d/71/1548-01",
+        "/ad3d/71/1548-07",
+        "/ad3d/71/1548-04"
+      ]
+    },
+    {
+      "cite": "68 AD3d 1691",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3971019,
+        3967374
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/68/1691-01",
+        "/ad3d/68/1691-02"
+      ]
+    },
+    {
+      "cite": "253 AD2d 786",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        26335
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/253/0786-01"
+      ]
+    },
+    {
+      "cite": "211 AD2d 411",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1199126
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/211/0411-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 826",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3748240,
+        3748819,
+        3749047
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0826-01",
+        "/ny3d/16/0826-02",
+        "/ny3d/16/0826-03"
+      ]
+    },
+    {
+      "cite": "74 AD3d 1168",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5746637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/1168-01"
+      ]
+    },
+    {
+      "cite": "128 AD3d 935",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4220563
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/128/0935-01"
+      ]
+    },
+    {
+      "cite": "2007 NY Slip Op 51042",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Misc 3d 1139",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 AD3d 442",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4128895
+      ],
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0442-01"
+      ]
+    },
+    {
+      "cite": "261 AD2d 288",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        108419
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/261/0288-01"
+      ]
+    },
+    {
+      "cite": "259 AD2d 300",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        889984
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/259/0300-01"
+      ]
+    },
+    {
+      "cite": "242 F3d 1359",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11130687
+      ],
+      "pin_cites": [
+        {
+          "page": "1365-1366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/242/1359-01"
+      ]
+    },
+    {
+      "cite": "35 USC § 2",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "574 US -, 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 NY3d 932",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4001743,
+        4001931,
+        4004972,
+        3998319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0932-04",
+        "/ny3d/24/0932-01",
+        "/ny3d/24/0932-02",
+        "/ny3d/24/0932-03"
+      ]
+    },
+    {
+      "cite": "23 NY3d 455",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226811
+      ],
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0455-01"
+      ]
+    },
+    {
+      "cite": "27 Misc 3d 195",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3766031
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/27/0195-01"
+      ]
+    },
+    {
+      "cite": "43 Misc 3d 848",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4031638
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/43/0848-01"
+      ]
+    },
+    {
+      "cite": "589 F2d 1156",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        827149
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1166"
+        },
+        {
+          "page": "1166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/589/1156-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 8",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734746
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "14"
+        },
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0008-01"
+      ]
+    },
+    {
+      "cite": "15 USC § 1067",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 USC § 1",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 AD2d 481",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        677304
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/224/0481-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 823",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0823-01"
+      ]
+    },
+    {
+      "cite": "271 AD2d 647",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        268268,
+        2759846
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/271/0647-01",
+        "/ad/271/0647-01"
+      ]
+    },
+    {
+      "cite": "187 AD2d 384",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1102720,
+        1102988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/187/0384-01",
+        "/ad2d/187/0384-02"
+      ]
+    },
+    {
+      "cite": "97 NY 478",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2195280
+      ],
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/97/0478-01"
+      ]
+    },
+    {
+      "cite": "83 AD2d 862",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3251054,
+        3257887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/83/0862-01",
+        "/ad2d/83/0862-02"
+      ]
+    },
+    {
+      "cite": "84 AD3d 1210",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4018472
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/1210-01"
+      ]
+    },
+    {
+      "cite": "7 AD3d 566",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        553718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/7/0566-01"
+      ]
+    },
+    {
+      "cite": "97 AD3d 778",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3477085
+      ],
+      "pin_cites": [
+        {
+          "page": "779"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0778-01"
+      ]
+    },
+    {
+      "cite": "184 AD2d 385",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1089963
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/184/0385-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 848",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4434160,
+        4431793,
+        4431634,
+        4432130
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0848-01",
+        "/ny-2d/84/0848-03",
+        "/ny-2d/84/0848-04",
+        "/ny-2d/84/0848-02"
+      ]
+    },
+    {
+      "cite": "83 NY2d 974",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0974-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 1413",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4020129
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/1413-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 59",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4265455
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "64"
+        },
+        {
+          "page": "64-65"
+        },
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0059-01"
+      ]
+    },
+    {
+      "cite": "42 AD3d 436",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3552952
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/42/0436-01"
+      ]
+    },
+    {
+      "cite": "50 AD3d 667",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3541381
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/0667-01"
+      ]
+    },
+    {
+      "cite": "72 AD3d 1019",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3982075
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/1019-01"
+      ]
+    },
+    {
+      "cite": "87 AD3d 684",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4031176,
+        4030496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/87/0684-02",
+        "/ad3d/87/0684-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 920",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4134963
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0920-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 1286",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724518
+      ],
+      "pin_cites": [
+        {
+          "page": "1289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/1286-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 791",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 AD2d 569",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        235141,
+        234406
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/258/0569-02",
+        "/ad2d/258/0569-01"
+      ]
+    },
+    {
+      "cite": "38 AD3d 34",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3884325
+      ],
+      "pin_cites": [
+        {
+          "page": "43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/38/0034-01"
+      ]
+    },
+    {
+      "cite": "290 AD2d 399",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        97225
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/290/0399-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 35",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        712669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0035-01"
+      ]
+    },
+    {
+      "cite": "256 AD2d 147",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        197497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0147-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 633",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326485
+      ],
+      "pin_cites": [
+        {
+          "page": "635-636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0633-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 763",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3963014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/0763-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 342",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3754893
+      ],
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0342-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 506",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2341858
+      ],
+      "pin_cites": [
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0506-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 144",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282506
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0144-01"
+      ]
+    },
+    {
+      "cite": "200 AD2d 665",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1157801
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/200/0665-01"
+      ]
+    },
+    {
+      "cite": "242 AD2d 359",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        495300
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/242/0359-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1699,
+    "char_count": 53936,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 5.298132930532853e-8,
+      "percentile": 0.33350013842505877
+    },
+    "sha256": "d2b9e01e57aaa18dcf0316010096e9c14af231a2742642fca108a92a41350e7f",
+    "simhash": "1:baffdf51a37afde3",
+    "word_count": 8840
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kallista, S.A., et al., Plaintiffs, v White & Williams LLP et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAlan D. Scheinkman, J.\nDefendants White & Williams LLP (White & Williams or law firm) and Randy Friedberg (collectively defendants) move, pursuant to CPLR 3211 (a) (7), to dismiss: (1) the second, third and fourth causes of action of the complaint; (2) the first cause of action as to “damage theories” and as to plaintiff Linda Gillette Parodi; and (3) the demands of both Parodi and co-plaintiff Kallista, S.A. (collectively plaintiffs) for punitive damages. Plaintiffs oppose all aspects of the motion.\nThis action arises out of claims that the law firm committed legal malpractice, and then fraudulently concealed its misconduct, in its representation of Kallista in relation to certain trademark registration applications. The action was commenced by the filing of the summons and complaint on August 4, 2015. Defendants moved to dismiss on October 2, 2015. This court held a preliminary conference with counsel on October 16, 2015. Since the court perceived that this motion would not result in the dismissal of all claims as against both defendants, the court directed that discovery proceed during the pendency of this motion. Discovery is scheduled to be completed by May 5, 2016 and a trial readiness conference is scheduled for May 6, 2016. Plaintiffs submitted their opposition to the motion on October 30, 2015 and defendants their reply on November 12, 2015. The motion was submitted for decision on November 13, 2015.\nThe Complaint\nAccording to the complaint, the allegations of which must be assumed as true for the purposes of this motion, Kallista is a Swiss corporation and has its principal place of business in Geneva (affirmation of Howard I. Elman, Esq., Oct. 2, 2015, exhibit 1, ¶ 4). Parodi is said to be a citizen of both Switzerland and the United States, residing in Switzerland (id. ¶ 5). The law firm is a Pennsylvania partnership and has maintained offices in Manhattan and in Pleasantville (id. ¶ 6). Friedberg is a member of the New York bar, a resident of Scarsdale, and is a partner in the law firm’s Manhattan office (id. ¶ 8).\nKallista was established in April 2012 to engage in the production and sale of skincare products. A sister company, Etheria, S.A., was set up at the same time for the production and sale of hair care products. Both companies are managed by Parodi, and her husband, Pierre. Pierre is the owner of Kallista (id. ¶ 11).\nPlaintiffs allege that, in late March and early April 2012, Kallista initially consulted with Friedberg regarding the preparation of a trademark application for the name “KALLISTA” for skincare products in the United States. Friedberg was also consulted regarding a trademark application for the name “ETHERIA” for hair care products in the United States (id. ¶ 12). On May 2, 2012, Kallista, Etheria, and the law firm entered into an agreement pursuant to which the law firm was to perform legal services for both companies, including the preparation and processing of the two trademarks (id. ¶ 13). In May 2012, Parodi was employed as a senior executive of Procter & Gamble and Friedberg knew that she intended to leave that position as soon as the Kallista business was operational (id. ¶ 14).\nPlaintiffs assert that, as early as November 2011, Kalliste Organics, Inc. branded soap and skincare products which were sold throughout the United States under the name “KALLISTE.” Plaintiffs say that a full and complete trademark search would have revealed the existence of the Kalliste product line (id. ¶¶ 15, 20). Despite this, on June 1, 2012, Friedberg reported to Kallista that his search of certain databases indicated a low level of risk, that it was not necessary to do a full trademark search, and that he believed that the marks were available. On June 18, 2012, Kallista instructed Friedberg to proceed with registration for both marks (id. ¶ 16).\nPlaintiffs assert that defendants did not proceed with the trademark applications, even though they invoiced Kallista for the cost of the applications and falsely represented that the applications had been filed (id. ¶¶ 16-17). In February 2013, Kallista asked Friedberg about the status of the applications and, in particular, as to whether Kallista products could be sold before the end of the summer and whether there was any risk. Friedberg allegedly advised that selling should start as soon as possible because the registration could not be finalized until that was done (id. ¶ 17). On July 24, 2013, Kallista wrote to Friedberg as to the status of the trademarks, noting that a regulatory agency had informed Kallista that the KALLISTA mark had not been registered. Friedberg is alleged to have responded by filing applications for both Etheria and Kallista that day (id. ¶ 18). Plaintiffs allege that defendants did not perform a trademark search of the United States Patent and Trademark Office (USPTO) database and that,- if such a search had been conducted, it would have been revealed that Kalliste Organics, Inc. had a trademark application for KALLISTE. Kalliste asserted in its application that it first used the KALLISTE mark in 2008. Registration of Kalliste’s trademark was issued on October 15, 2013 (id. ¶ 20).\nIn September 2013, Parodi resigned from Procter & Gamble, giving up a $250,000 CHF annual salary and generous benefits (id. ¶ 21).\nOn November 15, 2013, Friedberg received an Office action from USPTO stating that there was likelihood of confusion between the KALLISTE registration and the KALLISTA application, which were in the same class of products, and therefore the KALLISTA application was refused. Plaintiffs allege that Friedberg did not tell Kallista about this development and did not tell Kallista that the KALLISTE registration was a substantial legal threat to Kallista’s business since the KALLISTA mark posed a serious risk of infringement on the KALLISTE mark (id. ¶ 22).\nKallista, allegedly unaware of any trademark issues, successfully launched a KALLISTA product line in the United States in January 2014 (id. ¶ 23). On May 15, 2014, Friedberg filed a petition with the United States Trademark Trial and Appeal Board (the Board) to cancel the KALLISTE mark on the ground of fraud, and also filed a request to suspend the application for the KALLISTA mark. Friedberg is alleged to have taken these actions without informing Kallista or obtaining its consent (id. ¶ 24).\nAccording to plaintiffs, the petition to cancel was withdrawn after Kalliste threatened rule 11 (Fed Rules Civ Pro rule 11) sanctions against Kallista. Friedberg then entered into negotiations with Kalliste for a coexistence agreement, which would have restricted the use of the KALLISTA mark to a small section of the relevant market. This was allegedly done without informing Kallista. Further, Friedberg sent a “harsh” and factually incorrect demand letter to Kalliste {id. ¶ 25).\nOn June 5, 2014, defendants informed Kallista that the KALLISTA application was blocked by the KALLISTE trademark registration and recommended that the dispute be resolved through a coexistence agreement. In early July 2014, Fried-berg informed Kallista that the law firm would give it a credit for up to $7,500 of the costs of a coexistence agreement and apologized for “miscommunication” {id. ¶ 26). Subsequent efforts to negotiate a coexistence agreement failed.\nOn August 5, 2014, the law firm was relieved of further services by Kallista.\nKallista alleges that, in view of its inability to trademark the KALLISTA mark, it closed its business. Its distributors returned tens of thousands of dollars of KALLISTA products which cannot be sold. Kallista claims it invested over $900,000 in its business operations, which are not recoverable, and lost profits of more than $350,000 for 2014, 2015 and 2016. Parodi claims she lost income of at least $217,000 CHF {id. ¶¶ 29-30).\nThe first cause of action is for legal malpractice and is asserted by both plaintiffs as against both defendants. It is alleged that defendants breached a duty of care and skill by, among other things: failing to conduct an adequate trademark search in May 2012; failing to file and prosecute the KALLISTA trademark application in June 2012; failing to inquire into the status of the application and telling Kallista to proceed with sales in February 2013; concealing, until July 24, 2013, that no application had been filed; concealing that an Office action had been received in November 2013 refusing the KALLISTA application; failing to advise Kallista that the KALLISTE registration posed a serious risk of infringement; and delaying for six months a response to the Office action and then filing a petition to cancel without Kallista’s consent and without an adequate investigation. Plaintiffs claim damages of “sunk” costs and expenses of $900,000 to Kallista, $350,000 in lost profits to Kallista, and $234,000 in lost income to Parodi {id. ¶¶ 31-37).\nThe second cause of action is for fraudulent concealment. Plaintiffs claim that there was a conspiracy and “pattern and practice” to cover up and avoid disclosing defendants’ legal malpractice. Plaintiffs assert that defendants were under a fiduciary duty to disclose all of their acts and omissions constituting malpractice. The “pattern and practice” of fraudulent concealment is said to include: (a) concealing the failure to file a trademark application for KALLISTA in February 2013; (b) withholding from Kallista and Parodi in July 2013 that the application had not been filed sooner and that it had only been filed in response to Kallista’s inquiry; (c) concealing the receipt of the Office action; (d) failing to inform Kallista and Parodi that defendants had filed a petition to cancel the KALLISTE registration based on fraud without telling Kallista in advance and without an adequate investigation; and (e) concealing from Kallista that defendants had entered into negotiations for a coexistence agreement. Plaintiffs assert that, but for the fraudulent concealment, they would not have made any agreements with defendants and would have obtained alternate counsel and taken other measures to mitigate the damages caused by the legal malpractice. Plaintiffs seek $1.4 million damages, including the “sunk costs” of Kallista, the lost profits of Kallista, and the lost income of Parodi. Plaintiffs claim that defendants’ acts were knowing, intentional and done wantonly with a high degree of moral turpitude {id. ¶¶ 38-43). Plaintiffs claim punitive damages should be awarded because “Plaintiffs were subjected to a cruel and unjust hardship by which their interests in receiving competent and conflict-free legal advice were brazenly attacked and stolen,” and such an award is necessary to punish defendants and deter them from similar misconduct in the future {id. ¶ 44).\nThe third cause of action is for breach of contract and is asserted as against the law firm only. Kallista claims it entered into an agreement for legal services with the law firm and that Parodi is a third-party beneficiary of that agreement. In essence, plaintiffs claim that the law firm breached the agreement by failing to provide competent legal services (id. ¶ 49).\nThe fourth cause of action is for violation of section 487 of the Judiciary Law. Plaintiffs claim that defendants violated section 487 by filing and prosecuting a fraud action on behalf of Kallista (the petition to cancel the KALLISTE mark) without informing Kallista or obtaining its consent and without conducting an adequate investigation. This action is said to be part of a larger scheme to mislead plaintiffs, which persisted for more than a year and which “amounts to an extreme pattern of legal delinquency.” It is claimed that, by the filing of the petition to cancel without an adequate investigation, defendants intended to deceive the Board and also Kallista, Parodi, and Kalliste (id. ¶¶ 50-53).\nDefendants’ Contentions in Support of Their Motion\nIn support of the motion, defendants submit an attorney affirmation and a memorandum of law. The attorney affirmation supplies: (1) the summons and complaint; (2) a printout from the Trademark Electronic Search System showing the result of a word search for the mark ETHERIA on October 2, 2015; and (3) a printed copy of the “About Us” web page for the Trademark Trial and Appeal Board for the United States Patent and Trademark Office.\nDefendants argue that the second (fraudulent concealment) and third (breach of contract) causes of action are duplicative of the first cause of action (legal malpractice). It is contended that the causes of action are all predicated on nearly identical allegations and all seek the same damages. Defendants contend that there is no cognizable cause of action for fraudulent concealment of legal malpractice. Further, assert defendants, the punitive damages demand attached to the second cause of action should be dismissed in that plaintiffs have not alleged that the behavior of defendants reaches the requisite high-level of immorality as to warrant punitive damages. Defendants seek dismissal of the fourth cause of action which is predicated upon Judiciary Law § 487. According to defendants, the statute does not apply to conduct committed by an attorney practicing before a federal agency located in Virginia. Nor, say defendants, does the statute apply to a law firm, as opposed to an individual attorney. Defendants also assert that the plaintiffs have failed to allege facts sufficient to state a cause of action under the statute.\nWith regard to Parodi, defendants argue that she has no standing to maintain the first cause of action (legal malpractice) because she was not in privity with defendants. Similarly, defendants argue that, for purposes of the second cause of action (fraudulent concealment), any representation that they made to her was not made for the purpose of inducing her to rely upon it, nor would any such reliance be justifiable. Further, say defendants, they owed her no duty of disclosure as she did not personally retain defendants. Defendants assert that Parodi cannot maintain a breach of contract action (third cause of action) against the law firm because she was not a party to the contract and plaintiffs do not allege that Parodi was intended to be a beneficiary of the retainer agreement. Parodi, argue defendants, cannot maintain the fourth cause of action, based on section 487, because she was not a party to the proceeding in question before the Board.\nDefendants also assert that the claimed damages sought under the first cause of action (legal malpractice) should be dismissed because they cannot be calculated with reasonable certainty. Defendants contend that the claim for lost profits is speculative as Kallista is a new venture and calculation of such damages would be too speculative. Defendants claim that the alleged “sunk costs” are “inherently incredible” since Kallista does not claim that it could not market its products outside the United States, nor does it allege what the costs of a coexistence agreement would have been. Further, defendants assert that Kallista has not alleged why the loss of one trademark caused its entire business to cease.\nPlaintiffs’ Contentions in Opposition\nIn opposition, plaintiffs submit a memorandum of law. In setting forth the facts upon which plaintiffs’ memorandum relies, plaintiffs have, in a few instances, gone beyond the boundaries of the complaint. For one example, plaintiffs assert that they replaced the law firm with Conkle, Kremer & Engel and paid this new firm to continue the negotiations with Kalliste and to file for a new trademark (plaintiffs’ mem at 8, 9). For another, plaintiffs argue in their memorandum that Parodi had a “pre-existing relationship with Mr. Friedberg from prior employment and was responsible for contacting and retaining Randy Friedberg to obtain the trademark for Kallista in this matter” {id. at 21). No such allegations appear in the complaint. The court must rely exclusively on the actual content of the pleading and its fair intendments. Accordingly, the court has not considered the elaborations and embellishments offered, without citation to the pleading, in plaintiffs’ memorandum of law.\nPlaintiffs argue that their fraudulent concealment cause of action is not duplicative of their legal malpractice claim. They argue that the fraudulent concealment claim is based on additional parts that were part of a deliberate scheme to try to fix or repair the original legal malpractice of failing to conduct a proper trademark search (plaintiffs’ mem at 11-12). Plaintiffs state the following in their memorandum of law:\n“As soon as White & Williams cleared the term ‘Kallista’ for use and registration, Kallista started investing in the business, creating formulas, creating products, packaging and labeling, obtaining distributors, developing marketing plans, setting up websites and other social media accounts—all of which costs hundreds of thousands of dollars. These investments started in May and June of 2012 and continue through at least August of 2014, when Kallista finds new counsel. The investments from June of 2012 to July of 2013, or possibly November of 2013, are based on mere negligence or legal malpractice; the investments from July of 2013 or possibly November of 2013 are based on willful and deceptive concealments and misrepresentations. The damages may overlap to a limited degree, but the damages are different. In addition, Linda Parodi would not have left her job in September of 2013, had she known that her company name, the most important asset of the business, was in legal jeopardy. Thus her damages arise directly from the concealment, and when she undertakes her employment at Kallista, her salary is expense to Kallista and therefore damages suffered by Kallista” (plaintiffs’ mem at 12).\nThe court notes that most of these assertions are not contained in plaintiffs’ pleading. There is no assertion that plaintiffs created formulas (or anything else) after the name was “cleared” by the law firm. Nor is there any assertion as to when any investments were made by Kallista nor that Parodi was paid a salary by Kallista and the amount thereof.\nIn any event, plaintiffs contend that their second cause of action contains more than just a mere failure to disclose malpractice, pointing to the failure to disclose the Office action and the failure to disclose the filing of a petition to cancel the Kalliste registration (plaintiffs’ mem at 13).\nPlaintiffs argue that the claim for punitive damages is well pleaded and that what happened to them is “outrageous” which reflects a wanton disregard of their rights (plaintiffs’ mem at 15).\nPlaintiffs assert that section 487 of the Judiciary Law applies to activities which take place outside the State of New York and that section 487 should be read to impose liability on an entire law firm, not just individual attorneys.\nPlaintiff Parodi argues that she has standing to sue because she is the cofounder and general manager of Kallista, a firm owned by her husband. She contends that she has standing because there is, or should be, an exception to privity based on fraud, collusion or special circumstances, and because the misconduct was directed towards her.\nAs to damages, plaintiffs assert that their out-of-pocket costs (or sunk costs) are inherently credible and real and that the issue of damages should not be decided in the context of a motion to dismiss (plaintiffs’ mem at 24-25).\nDefendants’ Reply\nIn reply, defendants submit an affidavit from Randy Fried-berg to which he attaches: (a) a chain of emails between him and Parodi of March 30, 2012; (b) a chain of emails between him and George Frantzis (a person who appears to be making inquires on behalf of Kallista) of February 25, 2013; and (c) what he describes as a chain of emails between him and George Frantzis of July 25, 2013 (on which Parodi was copied). Defendants also submit a reply memorandum of law.\nThe emails are offered to support defendants’ argument in their reply memorandum (reply mem at 13-14) that Parodi did not, in fact, have a preexisting relationship with Friedberg, as claimed in plaintiffs’ memorandum of law, and that communications regarding the status of the trademark application were between Friedberg and Frantzis, not Friedberg and Parodi. But, again, since defendants did not move to dismiss based on documentary evidence and the allegations that plaintiffs made in their opposition memorandum will be disregarded to the extent not contained in the complaint, the court will not consider the assertions in the Friedberg affidavit.\nDefendants’ reply memorandum of law otherwise seeks to rebut the arguments advanced by plaintiffs in their opposition memorandum. The court notes that defendants point out that plaintiffs did not specifically address defendants’ argument that the contract cause of action is duplicative of the legal malpractice action.\nStandard of Review on a Motion to Dismiss\nThe legal standards to be applied in evaluating a motion to dismiss pursuant to CPLR 3211 (a) (7) are well-settled. In determining whether a complaint is sufficient to withstand a motion to dismiss, the sole criterion is whether the pleading states a cause of action (Cooper v 620 Props. Assoc., 242 AD2d 359 [2d Dept 1997], citing Weiss v Cuddy & Feder, 200 AD2d 665 [2d Dept 1994]). If from the four corners of the complaint factual allegations are discerned which, taken together, manifest any cause of action cognizable at law, a motion to dismiss will fail (511 W. 232nd Owners Corp. v Jennifer Realty Co., 98 NY2d 144, 152 [2002]; Cooper, 242 AD2d at 360). The court’s function is to “ ‘accept . . . each and every allegation forwarded by the plaintiff without expressing any opinion as to the plaintiff’s ability ultimately to establish the truth of these averments before the trier of the facts’ ” (Cooper at 360, quoting 219 Broadway Corp. v Alexander’s, Inc., 46 NY2d 506, 509 [1979]). The pleading is to be liberally construed and the pleader afforded the benefit of every possible favorable inference (511 W. 232nd Owners Corp., 98 NY2d at 152).\nA plaintiff may rest upon the matter asserted within the four corners of the complaint and need not make an evidentiary showing by submitting affidavits in support of the complaint. A plaintiff is at liberty to stand on the pleading alone and, if the allegations are sufficient to state all of the necessary elements of a cognizable cause of action, a plaintiff will not be penalized for not making an evidentiary showing in support of the complaint (Miglino v Bally Total Fitness of Greater N.Y., Inc., 20 NY3d 342, 351 [2013]; Kempf v Magida, 37 AD3d 763 [2d Dept 2007]; see also Rovello v Orofino Realty Co., 40 NY2d 633, 635-636 [1976]).\nThe Third Cause of Action—for Breach of Contract—Should be Dismissed as Duplicative of the First Cause of Action for Legal Malpractice\nThe third cause of action alleges that the law firm breached its contract with plaintiffs by: failing to conduct an adequate trademark search in May 2012 and failing to discover the existence of the KALLISTE mark; failing to timely file and prosecute the KALLISTA trademark application; failing to conduct a reasonable inquiry into the status of the KALLISTA trademark application; failing to conduct a competent trademark search in July 2013; concealing the receipt of the Office action refusing the KALLISTA application; waiting six months to respond to the Office action and then filing a petition to cancel the KALLISTE registration; and undertaking an unauthorized negotiation for a coexistence agreement (complaint ¶ 48). Each of these allegations is also asserted in the context of the first cause of action for legal malpractice (id. ¶ 33).\nThe breach of contract cause of action is premised on the assertion that the law firm “impliedly promised to provide competent legal services to prosecute a trademark application” (complaint ¶ 46). A breach of contract claim premised on the attorney’s failure to exercise due care or to abide by general professional standards is nothing but a redundant pleading of a malpractice claim (see e.g. Levine v Lacher & Lovell-Taylor, 256 AD2d 147 [1st Dept 1998]; Sage Realty Corp. v Proskauer Rose, 251 AD2d 35 [1st Dept 1998]). The test is not whether the theory is the same; the test is whether the facts alleged and relief sought are the same (see Estate of Nevelson v Carro, Spanbock, Kaster & Cuiffo, 290 AD2d 399 [1st Dept 2002]).\nTo the extent that the third cause of action for breach of contract arises from the same facts and seeks the same damages as the first cause of action for legal malpractice, the third cause of action should be dismissed (Shaya B. Pac., LLC v Wilson, Elser, Moskowitz, Edelman & Dicker, LLP, 38 AD3d 34, 43 [2d Dept 2006]; Mecca v Shang, 258 AD2d 569 [2d Dept 1999], lv dismissed 95 NY2d 791 [2000]).\nThe facts are the same in both causes of action. There is, however, one aspect of damages that is different. In the third cause of action, plaintiffs seek recovery for monies that they paid for purported legal services pursuant to the agreement (complaint ¶ 49). However, since the purpose of pecuniary damages in a legal malpractice action is to make the injured party whole, there is no reason to doubt that plaintiffs may obtain recovery from defendants for any fees paid that defendants did not earn due to their malpractice (Mecca v Shang, 258 AD2d at 570; see Leach v Bailly, 57 AD3d 1286, 1289 [3d Dept 2008]). Since there is no distinction between the damages recoverable in legal malpractice and those sought in breach of contract, the third cause of action shall be dismissed.\nThe Second Cause of Action—for Fraudulent Concealment—Should be Dismissed\nThe second cause of action for fraudulent concealment should also be dismissed. A fraud cause of action, like a contract cause of action, that arises from the same facts as a legal malpractice cause of action is duplicative of the legal malpractice cause of action unless distinct damages are alleged (see e.g. Postiglione v Castro, 119 AD3d 920 [2d Dept 2014]; Rupolo v Fish, 87 AD3d 684 [2d Dept 2011]; Financial Servs. Veh. Trust v Saad, 72 AD3d 1019 [2d Dept 2010]; Sitar v Sitar, 50 AD3d 667 [2d Dept 2008]; Iannucci v Kucker & Bruh, LLP, 42 AD3d 436 [2d Dept 2007]).\nHere, plaintiffs argue that the fraudulent concealment cause of action is different from their legal malpractice claims because, they say, the fraudulent concealment claim is based on the “additional facts” that defendants engaged in a plan to “fix” the malpractice while also concealing it (plaintiffs’ mem at 4, 10). However, plaintiffs, in fact, alleged the defendants attempted to fix the alleged malpractice while concealing it from plaintiffs as part and parcel of their legal malpractice cause of action {see complaint ¶ 33 [e]-|j]). Since the fraudulent concealment cause of action is based on the same facts as alleged as part of the legal malpractice claim, it fails unless distinct damages are alleged.\nIn an effort to argue that the damages claimed under the fraudulent concealment claim are distinct from those claimed in the legal malpractice cause of action, plaintiffs argue, in their memorandum, that as soon as the law firm “cleared” the KALLISTA mark for use and registration, Kallista began to invest in the business, starting in May and June 2012 and continuing through August 2014. Plaintiffs say:\n“The investments from June of 2012 to July of 2013, or possibly November of 2013, are based on mere negligence or legal malpractice; the investments from July of 2013 or possibly November of 2013 are based on willful and deceptive concealments and misrepresentations. The damages may overlap to a limited degree, but the damages are different” (plaintiffs’ mem at 12).\nThe court disagrees.\nAs previously noted, plaintiffs’ memorandum of law is not supported by their own pleading. In the fraudulent concealment cause of action, plaintiffs set forth two paragraphs directed to compensatory damages.\nThe first paragraph relating to compensatory damages contains the assertion that, but for the fraudulent concealment, they would not have continued to do business with defendants, would have obtained other attorneys, and taken other unspecified steps to minimize the damages sustained by reason of the legal malpractice alleged (complaint ¶ 41). However, this assertion does not actually allege that they sustained any damages other than the unmitigated damages claimed under the legal malpractice cause of action.\nThe second paragraph relating to compensatory damages states: “By virtue of the fraudulent concealments, Plaintiffs have sustained actual damages in excess of $1.4 million, including the sunk costs in the Kallista business, the lost income of Parodi, and the lost anticipated profits from the Kallista business” (complaint ¶ 42).\nThus, the only compensatory damages mentioned as following from fraudulent concealment are the very same damages as alleged in the cause of action for legal malpractice: (a) “sunk” costs of $900,000 (complaint ¶ 35); (b) lost profits of Kallista of $350,000 (complaint ¶ 36); and (c) Parodi’s loss of income of $234,000, incurred by leaving her prior employment (complaint ¶ 37). Rather than being distinct from the damages asserted for legal malpractice, the damages asserted for fraudulent concealment are the same.\nPlaintiffs’ reliance on Johnson v Proskauer Rose LLP (129 AD3d 59 [1st Dept 2015]) is misplaced. That case involved claims by clients of legal malpractice and fraud in connection with a tax avoidance scheme that the law firm solicited the clients to participate in and, it turned out, the law firm had a financial interest in, with the law firm disclosing only that it had represented the tax planning firm in the past in unrelated matters. As the First Department noted, the fraud claim\n“was supported by the allegations that. . . [the attorneys] made affirmative statements touting a tax avoidance plan that they had no genuine basis to represent would be an effective one, as well as their failure to apprise plaintiffs of the fact that [the law firm] was effectively in a business partnership with [the tax planning firm] and had a direct financial interest in plaintiffs’ purchasing the services being offered by [the tax planning firm]” (129 AD3d at 64).\nIn addition, the plaintiffs claimed that the fraud was widespread, with the firm having issued 380 opinion letters to other clients, and sought damages for fraud consisting of the monies (taxes, penalties and interest) paid to the IRS and the loss of income resulting from their decisions to sell stock at the urging of defendants (129 AD3d at 64-65).\nIn Johnson, the legal malpractice claim was time-barred. However, the fraud claim was not time-barred and was distinct from the legal malpractice claim because the fraud was claimed to have commenced at the outset, with the law firm’s paramount concern being the preservation of its lucrative relationship with the tax planning firm. Here, there is no claim that defendant engaged in fraud from the onset of the relationship. Moreover, there is no claim here, as there was in Johnson, of specific, affirmative misrepresentations. And here, the damages alleged are the same; in Johnson, the damages claimed for fraud were for “far more money” than for legal malpractice (129 AD3d at 70).\nBurke, Albright, Harter & Rzepka, LLP v Sills (83 AD3d 1413 [4th Dept 2011]), also relied upon by plaintiffs, is distinguishable in that the Court held only that proposed fraud and breach of fiduciary duty counterclaims were not patently lacking in merit for the purposes of allowing them to be asserted in an amended pleading and, further, the defendants offered evidence in support of those allegations.\nThere is yet a further reason for dismissal of the second cause of action as to Kallista, which was a client of defendants. It is well-settled that there is no independent cause of action for “concealing” malpractice (Weiss v Manfredi, 83 NY2d 974 [1994], rearg denied 84 NY2d 848 [1994]; Zarin v Reid & Priest, 184 AD2d 385 [1st Dept 1992]). Thus, to the extent that plaintiffs are complaining in the second cause of action that defendants fraudulently concealed their alleged malpractice, their claim cannot stand. Stripped of this, the only remaining aspect of the second cause of action is that defendants attempted to fix or repair their malpractice by taking certain actions, such as attempting to cancel the KALLISTE registration and negotiating for a coexistence agreement. But these alleged actions on the part of defendants are also alleged as part of the malpractice claim.\nWith regard to Parodi, since, as will be discussed infra, she lacks standing to maintain a legal practice action against defendants, it cannot be fairly said that the fraudulent concealment claim is duplicative of a malpractice cause of action. But her cause of action fails for other reasons.\nA cause of action to recover damages for fraudulent concealment requires, in addition to scienter, reliance and damages, a showing that there was a fiduciary or confidential relationship between the parties which would impose a duty on the defendant to disclose material information and that the defendant failed to do so (see e.g. Consolidated Bus Tr., Inc. v Treiber Group, LLC, 97 AD3d 778, 779 [2d Dept 2012]). The second cause of action is entirely barren of any allegation that defendants had a duty to disclose material information to Parodi (see e.g. E.B. v Liberation Publs., 7 AD3d 566 [2d Dept 2004]) or any facts that would support the imposition of such a duty (see e.g. Sanford/Kissena Owners Corp. v Daral Props., LLC, 84 AD3d 1210 [2d Dept 2011]).\nAccordingly, the second cause of action shall be dismissed.\nThe Fourth Cause of Action—Based on Section 487 of the Judiciary Law— Should be Dismissed\nSection 487 of the Judiciary Law provides, in relevant part, that an attorney who “[i]s guilty of any deceit or collusion, or consents to any deceit or collusion, with intent to deceive the court or any party” is guilty of a misdemeanor and, in addition to the punishment for such crime, forfeits treble damages to the injured party, recoverable in a civil action.\nThe statute provides for a cause of action against an attorney in two circumstances: (a) where the alleged deceit or collusion with the intent to deceive any party occurred in a pending judicial proceeding; or (b) where deception is directed against a court and the deception relates to either a prior judicial proceeding or one which may be commenced in the future (see e.g. Singer v Whitman & Ransom, 83 AD2d 862 [2d Dept 1981]). This statutory construction dates back to the 1884 decision of the Court of Appeals in Looff v Lawton (97 NY 478, 482 [1884]), where in construing the predecessor statute, the Court stated: “The ‘party’ referred to is clearly a party to an action pending in a court in reference to which the deceit is practiced, and not a person outside, not connected with the same at the time or with the court.”\nThus, to make out a claim under the statute the deceit complained of must have occurred during a judicial proceeding to which the plaintiff was a party (Bankers Trust Co. v Cerrato, Sweeney, Cohn, Stahl & Vaccaro, 187 AD2d 384 [1st Dept 1992]; accord Henry v Brenner, 271 AD2d 647 [2d Dept 2000]; Beshara v Little, 215 AD2d 823 [3d Dept 1995]). Thus, the alleged creation of a false affidavit in support of an insurance claim was not within the statute since the affidavit was not filed in support of a pending lawsuit (Gelmin v Quicke, 224 AD2d 481 [2d Dept 1996] [that the affidavit was produced in response to discovery demands by plaintiff did not bring the affidavit within the statute]).\nHere, in the fourth cause of action, plaintiffs allege that defendants violated section 487 “by filing and prosecuting a fraud action on behalf of Kallista (the Petition to Cancel against Kalliste), without informing Kallista or obtaining its consent, and without conducting an adequate investigation of the merits of the claim.” Plaintiffs contend that this was part of a bigger plan to mislead them which amounts to an extreme pattern of delinquency. Plaintiffs allege that by filing the petition, defendants intended to deceive the Board, Kallista, Parodi and Kalliste.\nThe petition to cancel the KALLISTE registration was not brought before a court. It was brought before an administrative agency, the Trademark Trial and Appeal Board, which is part of the United States Patent and Trademark Office, a federal agency within the United States Department of Commerce (35 USC § 1; 15 USC § 1067).\nThere is no authoritative precedent for construing section 487 to impose liability for deceit committed in the course of an administrative proceeding.\nThe court concludes that Judiciary Law § 487 does not apply to the filing of a petition with an administrative agency, whether state or federal. Section 487 is a unique statute deriving from a statute of ancient origin in the criminal law (see Amalfitano v Rosenberg, 12 NY3d 8, 14 [2009]). It is intended to regulate, through criminal and civil sanctions, the practice of law in the courts and to protect the integrity of the truth-seeking process of the courts (see Schertenleib v Traum, 589 F2d 1156, 1166 [2d Cir 1978]).\nThere is a genuine debate as to whether the court proceedings reached by section 487 are limited to proceedings in New York State courts or extend further to court proceedings in other places (compare Schertenleib v Traum, 589 F2d at 1166; Alliance Network, LLC v Sidley Austin LLP, 43 Misc 3d 848 [Sup Ct, NY County 2014]; Cinao v Reers, 27 Misc 3d 195 [Sup Ct, Kings County 2010]). However, the statute specifically provides criminal and civil sanctions for deception upon the “court.” Doubtless, the statute was enacted before the advent of extensive use of administrative tribunals to adjudicate administrative matters. However, the statute has never been amended to include administrative tribunals. Administrative tribunals are not themselves courts.\nIt would be an undue construction of the statute to read it so expansively as to bring administrative tribunals within its reach. If the statute were so read, then the statute could be found to reach a multitude of agencies, ranging from federal agencies, to state agencies, to municipal agencies. Further, it is not always necessary for a person who represents a party before an agency to be an attorney; indeed, admission to practice as an attorney may not itself be sufficient to qualify a person to represent a party before an administrative agency. Whether the statute is to be expanded to cover deception before administrative agencies, and if so, whether such coverage should be limited to attorneys, are matters for the legislature.\nThe statute is best analyzed in the criminal law context and not within the framework of comparable civil torts (see Amalfitano v Rosenberg, 12 NY3d at 14). In the criminal law, where two constructions of a criminal statute are plausible, the one more favorable to the defendant should be adopted in accordance with the rule of lenity (People v Golb, 23 NY3d 455, 468 [2014], rearg denied 24 NY3d 932, cert denied 574 US —, 135 S Ct 1009 [2015]). Thus, even if it is assumed that it is equally plausible to construe “court” as used in section 487 to include an administrative tribunal as it is to exclude an administrative tribunal, the latter construction should be preferred.\nFurther, specifically addressing the facts in this case, the United States Patent and Trademark Office is empowered to regulate and govern the recognition and conduct of “agents, attorneys, or other persons representing applicants or other parties before the Office” (35 USC § 2 [b] [2] [D]). A person who practices before the Office need not be a member of the New York bar, though if he or she is a member of the New York bar, he or she is subject to discipline by the New York authorities (Kroll v Finnerty, 242 F3d 1359, 1365-1366 [Fed Cir 2001]). But this court sees no valid basis in the history of the statute, or in the precedents applying it, for construing the statute as imposing criminal and civil liabilities upon an attorney who engages in deceit before this federal agency.\nFor these reasons, the fourth cause of action shall be dismissed. In view of this determination, it is not necessary to reach the question whether the law firm may be held liable under section 487.\nThe First Cause of Action Should be Dismissed Insofar as Brought by Linda Gillette Parodi\nDefendants maintain that Parodi lacks standing to sue them for legal malpractice because she lacks privity with them. In this regard, the complaint alleges that an agreement for legal services was entered into between Kallista, Etheria and the law firm (complaint ¶ 13). There is no claim that Parodi retained the law firm or Friedberg.\nInsofar as Parodi is concerned, the complaint alleges that she was a “co-founder” of Kallista (complaint ¶ 1), which was formed in 2012, and that she managed Kallista with her husband, who is the owner of Kallista (id. ¶ 11). According to the complaint, at the time the law firm was retained in May 2012, Friedberg was aware that Parodi intended to leave her existing employment once the Kallista business became operational (id. ¶ 14). It is alleged that, in or about September 2013, Parodi resigned from her employment with Procter & Gamble to help manage Kallista’s business and that, while at Procter & Gamble, she earned a salary in excess of $250,000 CHF and a generous benefits package (id. ¶ 21). She claims a loss of this income (id. ¶ 30). While the first cause of action alleges that defendants owed both plaintiffs a duty to use the degree of skill and care that is possessed by ordinary attorneys, there are no additional or further allegations as to why such a duty was owed to Parodi (id. ¶ 32).\nIn opposition to the motion, Parodi relies upon Good Old Days Tavern v Zwirn (259 AD2d 300 [1st Dept 1999], lv and rearg denied 261 AD2d 288 [1999]) where the Appellate Division held that, while privity of contract is generally necessary to state a cause of action for attorney malpractice, liability is extended to third parties, not in privity, for harm caused by professional negligence where there is fraud, collusion, malicious acts or other special circumstances. In Good Old Days Tavern, the appellate court ruled that there were special circumstances present in that the individual plaintiff had a relationship with the defendant attorney “tantamount to one of contractual privity” (id. at 300). The Court explained: “Indeed, plaintiff Day was for all intents and purposes a foreseeable third-party beneficiary of the contract pursuant to which he retained defendant attorney Zwirn to represent Good Old Days Tavern, Inc., of which Day was the president and sole shareholder and from which business he derived his livelihood” (id.).\nThe present case is a far cry from Good Old Days Tavern. Parodi is not an owner of Kallista at all, let alone the sole owner. She is not claimed to be an officer. Nor is it claimed that, prior to September 2013, she derived her livelihood from Kallista. Rather, the complaint alleges that Kallista retained the law firm in or about May 2, 2012 and that, at the time of the retention, Parodi was employed as a senior executive in an unrelated entity. While it is true that the complaint alleges that Friedberg was aware that Parodi intended to join Kallista when its business became operational, the fact remains that, unlike Good Old Days Tavern, Parodi is not claimed to have retained defendants on Kallista’s behalf and, further, Parodi was not even an employee at the time of such retention.\nThere is no claim that Parodi herself ever requested that defendants give her any legal advice or give her any information as to the status of the Kallista trademark application. Indeed, even if such an allegation had been made, it would not, by itself, give rise to a “near privity” relationship sufficient to extend liability for malpractice to a non-client (see Leggiadro, Ltd. v Winston & Strawn, LLP, 119 AD3d 442, 442 [1st Dept 2014]). There are simply no facts alleged that would make it foreseeable that Parodi was a third-party beneficiary of a contract made by the law firm with Kallista, a company which Parodi was not an owner, officer or employee (see Topor v Enbar, 15 Misc 3d 1139[A], 2007 NY Slip Op 51042[U] [Sup Ct, NY County 2007]).\nAccordingly, the first cause of action for malpractice shall be dismissed insofar as asserted by Parodi.\nPlaintiff Kallista’s Claims for Lost Profits Should be Dismissed\nDefendants argue that Kallista’s claims to recover for business-cessation or lost profits should be dismissed from the first cause of action as not ascertainable with reasonable certainty. The court agrees.\nTo state a cause of action for legal malpractice, a plaintiff must plead actual, ascertainable damages resulting from the attorney’s negligence; conclusory or speculative allegations of damages are insufficient. However, a plaintiff is not obligated to show, on a motion to dismiss, that it actually sustained damages. It is sufficient if plaintiff pleads allegations from which damages attributable to defendant’s malpractice might reasonably be inferred (Randazzo v Nelson, 128 AD3d 935 [2d Dept 2015]; Rock City Sound, Inc. v Bashian & Farber, LLP, 74 AD3d 1168 [2d Dept 2010], lv dismissed 16 NY3d 826 [2011]).\nKallista claims as damages for legal malpractice lost profits of $350,000 (complaint ¶ 36), a figure which it asserts is based on its anticipated profits for 2014, 2015 and 2016 {id. ¶ 29).\nHowever, Kallista also alleges that it was preparing to launch its skincare product line in the first calendar quarter of 2014 and was in the process of signing up distributors and developing products using the KALLISTA mark (complaint ¶ 19). There is no allegation that plaintiff was actually selling any products during any period between 2012 (when Kallista was formed) and the first quarter of 2014. There is no allegation as to when Kallista intended to commence actual sales of KALLISTA branded products. Moreover, Kallista appears to concede that it acquired knowledge of the claimed legal malpractice in August 2014 {id. ¶ 28).\nKallista has not set forth any basis, other than the barest conclusions, that it was expecting any profits. There is no assertion as to how many products it expected to sell under the Kallista brand and what it would earn from those products. Moreover, Kallista’s own allegations proceed on the basis that Kallista could not market products under the KALLISTA brand without running a significant legal risk of interfering with the KALLISTE mark, which was alleged (apparently by Kalliste) to have been used first in 2008, long before defendants represented Kallista (complaint ¶ 20). Kallista does not allege that had defendants timely prosecuted the KALLISTA application, the KALLISTA application would have been approved and KALLISTE’s application would have been denied. Thus, it appears that Kallista would never have been able to use the KALLISTA mark or, if it did, might still have been subjected to liability, risk, and legal expense, even if defendants had acted perfectly.\nFurther, as defendants point out, plaintiffs have not addressed in their pleading whether they could market KALLISTA branded products outside the United States and, if they did, what, if anything, they could earn from such sales.\nIn short, since this was a start-up enterprise, and since Kallista’s complaint contains only conclusory allegations regarding lost profits, the lost profits claim should be dismissed (see e.g. Nineteen N.Y. Props. Ltd. Partnership v 535 5th Operating, 211 AD2d 411 [1st Dept 1995]; Giambrone v Bank of N.Y., 253 AD2d 786 [2d Dept 1998]).\nThe “sunk costs” claim for damages stands, however, on a different footing. It is a fair and reasonable inference from the allegations of the complaint that Kallista was investing money-in its business and, in particular, toward the marketing of products under the KALLISTA brand. It is also fairly and reasonably inferrable that at least some of the expenditures and investments in the KALLISTA brand may not have been incurred had Kallista been timely informed there was a significant risk to the use of the KALLISTA name. Although it is true that Kallista has not itemized these expenditures or provided detailed allegations regarding them in its complaint, it cannot be concluded that Kallista’s claim—that certain costs would have been avoided had defendants timely informed them of the KALLISTE mark—is inherently incredible.\nConclusion\nFor the reasons set forth above, it is hereby ordered that the motion of defendants White & Williams LLP and Randy Fried-berg to dismiss (1) the second, third, and fourth causes of action set forth in the complaint of plaintiffs Kallista, S.A. and Linda Gillette Parodi; (2) the damages theories alleged in the first cause of action set forth in said complaint; (3) so much of the first cause of action set forth in the complaint as is interposed on behalf of plaintiff Linda Gillette Parodi; and (4) the demand of said plaintiffs for punitive damages, is granted in part, and denied in part; and it is further ordered that the branches of said motion as seek to dismiss the second, third, and fourth causes of action of said complaint are granted, and said causes of action are hereby dismissed in their entirety; and it is further ordered that the branch of said motion as seeks to dismiss the damages theories set forth in the first cause of action of said complaint is granted to the extent that plaintiff Kallista, S.A. seeks damages for lost profits, and such lost profits claim is dismissed; and it is further ordered that the branch of said motion as seeks to dismiss so much of the first cause of action set forth in the complaint interposed on behalf of plaintiff Linda Gillette Parodi is granted, and said cause of action is hereby dismissed insofar as asserted by said plaintiff; and it is further ordered that, except as hereinabove set forth, the said motion is denied.\n. The notice of motion, tracking the nomenclature of the complaint, refers to the specific theories of liabilities as “Claims for Relief,” using federal court parlance. The court will deem such references to be to proper state court parlance—“Causes of Action.”\n. The point of this submission is to show that, not only do plaintiffs not complain about the ETHERIA registration, the ETHERIA mark is registered (defendants’ mem at 5). However, defendants have not moved to dismiss on the basis of documentary evidence and, therefore, this document is not relevant to the motion they made (to dismiss for failure to state a cause of action) and shall be disregarded.\n. The purpose of this submission is to show that the Board is located in Alexandria, Virginia (see defendants’ mem at 11), thus setting the stage for one of defendants’ central arguments—that Judiciary Law § 487 does not apply out of state.\n. The court has also not considered plaintiffs’ request for leave to amend any allegations found to be insufficient. Plaintiffs did not move, or seek to move, for leave to amend. Further, even though the motion to dismiss had been made prior to the preliminary conference, counsel for plaintiffs did not request the opportunity to interpose an amended complaint at that time. Plaintiffs also have not provided any factual basis for these assertions since plaintiffs have not offered any affidavits. While plaintiffs, as will be discussed herein, are entitled to rely on their pleading and need not submit affidavits, they cannot simply make assertions in their memorandum of law that they did not make in their complaint.\n. Plaintiffs’ reliance on Dischiavi v Calli (68 AD3d 1691 [4th Dept 2009], rearg denied 71 AD3d 1548 [2010]) is misplaced for the same reason. There, the Court found that the plaintiffs had alleged the fraud caused additional damages, separate and distinct from those generated from the alleged malpractice. That is not the case here.\n. Since the second cause of action is being dismissed, and the punitive damages claim is part of that cause of action, the court need not address whether, if there were a viable fraud claim, punitive damages would be available.\n. The court is required to take judicial notice of federal laws (CPLR 4511 [a]).\n. In one case, a federal court dismissed, on the merits, a claim of deceit predicated upon a statement made by counsel to an arbitration panel, without addressing the question whether an arbitration panel is a court for purposes of Judiciary Law § 487 (see Tedeschi v Smith Barney, Harris Upham & Co., Inc., 548 F Supp 1172, 1176 [SD NY 1982]).\n. Given the criminal law origins of the statute, the usual rules of vicarious liability followed in civil cases may not be applicable (see Polanco v NCO Portfolio Mgt., Inc., 23 F Supp 3d 363, 376-377 [SD NY 2014]; Dupree v Voorhees, 25 Misc 3d 451 [Sup Ct, Suffolk County 2009], mod 68 AD3d 810 [2009], lv denied 15 NY3d 705 [2010]; but see Moormann v Perini & Hoerger, 65 AD3d 1106 [2d Dept 2009]).\n. Parodi’s reliance on AG Capital Funding Partners, L.P. v State St. Bank & Trust Co. (5 NY3d 582, 595 [2005]) is misplaced in that it was held that plaintiff had failed to set forth the applicability of any exceptions to the rule requiring privity for the maintenance of an attorney malpractice action.",
+        "type": "majority",
+        "author": "Alan D. Scheinkman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Matalón Shweky Elman PLLC, New York City (.Howard L. Elman of counsel), for defendants.",
+      "Law Offices of Daniel L. Abrams, PLLC, New York City (Daniel L. Abrams of counsel), for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[27 NYS3d 332]\nKallista, S.A., et al., Plaintiffs, v White & Williams LLP et al., Defendants.\nSupreme Court, Westchester County,\nJanuary 7, 2016\nAPPEARANCES OF COUNSEL\nMatalón Shweky Elman PLLC, New York City (.Howard L. Elman of counsel), for defendants.\nLaw Offices of Daniel L. Abrams, PLLC, New York City (Daniel L. Abrams of counsel), for plaintiffs."
+  },
+  "file_name": "2182-01",
+  "first_page_order": 413,
+  "last_page_order": 436
+}

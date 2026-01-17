@@ -1,0 +1,826 @@
+{
+  "id": 4318541,
+  "name": "The People of the State of New York, Plaintiff, v. Raynold Perez-Correoso, Defendant",
+  "name_abbreviation": "People v. Perez-Correoso",
+  "decision_date": "2015-03-23",
+  "docket_number": "",
+  "first_page": "839",
+  "last_page": "851",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 839"
+    },
+    {
+      "type": "parallel",
+      "cite": "11 N.Y.S.3d 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "612 SE2d 336",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        12632813
+      ],
+      "pin_cites": [
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/se2d/612/0336-01"
+      ]
+    },
+    {
+      "cite": "156 Misc 2d 641",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        910076
+      ],
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/156/0641-01"
+      ]
+    },
+    {
+      "cite": "2 Misc 3d 937",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        37570
+      ],
+      "pin_cites": [
+        {
+          "page": "942"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/2/0937-01"
+      ]
+    },
+    {
+      "cite": "183 AD2d 208",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1086068
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/183/0208-01"
+      ]
+    },
+    {
+      "cite": "2004 NY Slip Op 50973",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Misc 3d 1020",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 US Dist LEXIS 40538",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*34"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 1656282",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 NY Slip Op 51689",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Misc 3d 1205",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 NY Slip Op 50066",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Misc 2d 294",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        32667
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "296"
+        },
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/180/0294-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50182",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 143",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 NY2d 136",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109825
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "142"
+        },
+        {
+          "page": "142"
+        },
+        {
+          "page": "142"
+        },
+        {
+          "page": "142"
+        },
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0136-01"
+      ]
+    },
+    {
+      "cite": "443 US 47",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179718
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "50-51"
+        },
+        {
+          "page": "50-51"
+        },
+        {
+          "page": "51"
+        },
+        {
+          "page": "50-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0047-01"
+      ]
+    },
+    {
+      "cite": "21 Misc 3d 719",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3928593
+      ],
+      "pin_cites": [
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/21/0719-01"
+      ]
+    },
+    {
+      "cite": "532 US 67",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9300726
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/532/0067-01"
+      ]
+    },
+    {
+      "cite": "170 NC App 284",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        9005095
+      ],
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/170/0284-01"
+      ]
+    },
+    {
+      "cite": "309 AD2d 648",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        581405,
+        581903
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/309/0648-02",
+        "/ad2d/309/0648-01"
+      ]
+    },
+    {
+      "cite": "28 AD3d 165",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3007673
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0165-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 449",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3729241,
+        3733010
+      ],
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/0449-01",
+        "/ad3d/110/0449-02"
+      ]
+    },
+    {
+      "cite": "99 NY2d 125",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        295084
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "131-132"
+        },
+        {
+          "page": "131-132"
+        },
+        {
+          "page": "131-132"
+        },
+        {
+          "page": "131-132"
+        },
+        {
+          "page": "131-132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/99/0125-01"
+      ]
+    },
+    {
+      "cite": "172 Misc 2d 377",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        924522
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "379"
+        },
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/172/0377-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 924",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 AD3d 300",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3708260
+      ],
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0300-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 912",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 AD3d 1643",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3712633,
+        3715818,
+        3714531
+      ],
+      "pin_cites": [
+        {
+          "page": "1643"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/1643-01",
+        "/ad3d/101/1643-03",
+        "/ad3d/101/1643-02"
+      ]
+    },
+    {
+      "cite": "97 NY2d 341",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1061814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/97/0341-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 447",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3754435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0447-01"
+      ]
+    },
+    {
+      "cite": "516 US 905",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        328196,
+        326663,
+        326924,
+        327501,
+        323629,
+        323119,
+        327408,
+        328022,
+        325853,
+        325949,
+        323293,
+        327614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0905-05",
+        "/us/516/0905-04",
+        "/us/516/0905-07",
+        "/us/516/0905-09",
+        "/us/516/0905-02",
+        "/us/516/0905-12",
+        "/us/516/0905-06",
+        "/us/516/0905-01",
+        "/us/516/0905-08",
+        "/us/516/0905-11",
+        "/us/516/0905-10",
+        "/us/516/0905-03"
+      ]
+    },
+    {
+      "cite": "84 NY2d 749",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4432613
+      ],
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0749-01"
+      ]
+    },
+    {
+      "cite": "440 US 648",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187389
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0648-01"
+      ]
+    },
+    {
+      "cite": "28 NY2d 361",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2298778
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/28/0361-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 408",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2345105
+      ],
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0408-01"
+      ]
+    },
+    {
+      "cite": "160 Misc 2d 831",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        921091
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/160/0831-01"
+      ]
+    },
+    {
+      "cite": "63 NY2d 518",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4395261
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "526"
+        },
+        {
+          "page": "526"
+        },
+        {
+          "page": "524"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/63/0518-01"
+      ]
+    },
+    {
+      "cite": "540 US 419",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8897260
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/540/0419-01"
+      ]
+    },
+    {
+      "cite": "496 US 444",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12123840
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0444-01"
+      ]
+    },
+    {
+      "cite": "428 US 543",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178901
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0543-01"
+      ]
+    },
+    {
+      "cite": "562 US 995",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12438272,
+        12438276,
+        12438269,
+        6002603,
+        6033196,
+        6017741,
+        12438267,
+        5983250,
+        5970325,
+        5991702,
+        5907192,
+        12438265,
+        12438266,
+        6011579,
+        12438268,
+        5965053,
+        12438270,
+        12438271
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/178/0345-02",
+        "/l-ed-2d/178/0345-06",
+        "/l-ed-2d/178/0344-05",
+        "/us/562/0995-03",
+        "/us/562/0995-05",
+        "/us/562/0995-07",
+        "/l-ed-2d/178/0344-03",
+        "/us/562/0995-01",
+        "/us/562/0995-06",
+        "/us/562/0995-09",
+        "/us/562/0995-08",
+        "/l-ed-2d/178/0344-01",
+        "/l-ed-2d/178/0344-02",
+        "/us/562/0995-04",
+        "/l-ed-2d/178/0344-04",
+        "/us/562/0995-02",
+        "/l-ed-2d/178/0344-06",
+        "/l-ed-2d/178/0345-01"
+      ]
+    },
+    {
+      "cite": "589 F3d 94",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3501192
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/589/0094-01"
+      ]
+    },
+    {
+      "cite": "531 US 32",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505377
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "36"
+        },
+        {
+          "page": "48"
+        },
+        {
+          "page": "47"
+        },
+        {
+          "page": "36"
+        },
+        {
+          "page": "34"
+        },
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/531/0032-01"
+      ]
+    },
+    {
+      "cite": "308 Ga App 117",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        12164912
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "117"
+        },
+        {
+          "page": "738"
+        },
+        {
+          "page": "117-118"
+        },
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/308/0117-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 725",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4428485
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0725-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1268,
+    "char_count": 29500,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1457650619785169
+    },
+    "sha256": "c6f19f99bbbed501c875e939b7caa1f9d76cc83188adda76ddc9d2cb8b88e74c",
+    "simhash": "1:caf5a55fb49a997b",
+    "word_count": 4733
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Raynold Perez-Correoso, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSteven Hornstein, J.\nThe defendant is charged with driving while intoxicated, common law (Vehicle and Traffic Law § 1192 [3]); driving while intoxicated, per se (Vehicle and Traffic Law § 1192 [2]); and driving while impaired (Vehicle and Traffic Law § 1192 [1]). On December 11, 2014, the court conducted a combined Mapp / Johnson /Huntley /Dunaway /Ayala hearing. At the conclusion of the hearing the parties requested an opportunity to file memorandums of law. The request was granted and the defendant, on January 23, 2015, filed a memorandum of law; the People, on March 2, 2015, filed an affirmation in opposition to defendant’s memorandum of law; and the defendant, on March 13, 2015, filed a reply memorandum of law. The court, having reviewed the respective submissions, makes the following findings of fact and conclusions of law:\nFindings of Fact\nThe People called one witness, Police Officer Nicholas Mancuso. Officer Mancuso has been with the New York City Police Department for three years. While at the police academy, he received specialized training in the recognition of the signs of intoxication. He has also observed the effects of alcohol consumption during social settings. Of the 50 to 60 arrests in which he was the arresting officer, one involved driving while under the influence. He has also participated in three additional arrests involving driving under the influence in which he was not the arresting officer.\nFollowing his academy training, Officer Mancuso was assigned to the 40th Precinct in Bronx County. On June 9, 2013, while on uniform patrol, Officer Mancuso was assigned to assist in a vehicle checkpoint established approximately 30 yards east of the intersection of Jackson Avenue and East 149th Street. On the northeast corner of the intersection was a school. On the southwest corner was public housing. The area in the vicinity of the intersection contained both residential and commercial buildings.\nOfficer Mancuso, Sergeant Alberto Gonzalez and four additional officers manned the site. Two marked patrol cars, both with turret lights flashing, were positioned at the checkpoint. Behind each patrol car were cones positioned in a manner designed to funnel traffic from two westbound lanes into one lane, toward the checkpoint. No testimony was elicited as to whether signs or other devices were employed to warn or announce to motorists either the existence or purpose of the upcoming checkpoint.\nThe checkpoint was established to ensure “vehicle safety,” “traffic safety,” “public safety” and to “check for traffic violations or intoxicated drivers.” Officer Mancuso stated that this intersection had a “typically higher volume of traffic as opposed to anywhere else in the precinct impact zone.” He did not, however, explain what he meant by an “impact zone” and he did not mention the reason why this location was so designated. Nor did he state the name or rank of the person(s) who selected the site or the manner in which the selection was made.\nTo achieve the various, non-prioritized purposes given for the checkpoint, Officer Mancuso was instructed to stop every third vehicle entering the checkpoint, as well as any vehicle which violated the Vehicle and Traffic Law. No testimony was offered as to who provided these instructions. Nor was there any testimony as to whether these operational procedures were in accordance with written or other established guidelines detailing how the checkpoint was to be conducted. At approximately 11:40 p.m., Officer Mancuso observed a 1998 Ford Expedition in the checkpoint line. Office Mancuso approached the car. As he did so, the car was put in reverse and backed up approximately five yards, when its rearward progress was impeded by another vehicle’s position directly behind the Ford. Officer Mancuso ascribed no particular significance to the fact that the Ford had been placed in reverse and had traveled five yards or so.\nOfficer Mancuso and Sergeant Gonzalez approached the Ford’s driver’s side window. Officer Mancuso knocked on the driver’s side window and asked the driver (hereinafter the defendant) to put the car in park, roll down his window and provide his registration. The defendant complied with each request.\nOfficer Mancuso, from about two or three feet away, noticed that the seat belted defendant was “fidgety” and “moving around a lot”; that he appeared to have difficulty focusing on the instruction to exit the car; that his eyes were glassy and watery and that his breath bore the odor of alcohol. Notwithstanding these observations, Officer Mancuso initially wrote on a prisoner pedigree card describing the defendant’s condition as “apparently normal.” At some point thereafter, however, this notation was crossed out and “intox” was written in.\nOfficer Mancuso also detected the odor of alcohol in the car itself. A visual inspection of the vehicle’s interior revealed a half-full, uncapped, brand-name bottle of liquor with a cup on top on the back seat, behind the driver.\nWhen the defendant stepped out of the car, Officer Mancuso noticed that the defendant needed to hold onto the car to maintain his balance. Officer Mancuso, with the Sergeant at his side, asked the defendant, without administering Miranda warnings, whether he had anything to drink. Initially, the defendant stated “no.” When asked again, he stated he had two drinks. Officer Mancuso then asked where he was coming from. The defendant replied that he had been home and was going to a party in Orchard Beach. Prior to these inquiries, neither officer had drawn their firearms or physically restrained the defendant in any way. At approximately 12:08 a.m. Officer Mancuso, based on his observations and the defendant’s responses, placed the defendant under arrest.\nOfficer Mancuso transported the defendant to the 45th Precinct for a breath test. The defendant slept at the precinct while awaiting arrival of the Highway One officer to administer a breath test. Fifteen minutes before the test was offered, Officer Mancuso noted that the defendant did not drink, eat, smoke or vomit.\nAt approximately 1:40 a.m., Highway One Police Officer Patel asked the defendant, in English, if he was willing to take a breath test. The non-English speaking defendant was then shown a Spanish video in which he was again asked if he would take the test. He was also instructed, via the video, that if he refused to take the test, his license would be suspended and his refusal could be used as evidence against him.\nWhen the defendant agreed to take the test, Officer Patel demonstrated the use of the breathalyzer mouthpiece. The defendant, in the presence of Officer Mancuso, blew into the breathalyzer and registered a .11% blood alcohol level. Thereafter, he declined the coordination tests. Both the breath test and the defendant’s interaction with the Highway One officer were recorded on videotape. The video was introduced as People’s exhibit number one and the court has reviewed the video.\nConclusions of Law\nAt a Mapp /Johnson /Dunaway hearing, when a defendant challenges the legality of a stop, seizure or arrest, the People have the initial burden of going forward with evidence demonstrating the legality of the police conduct. (People v Dodt, 61 NY2d 408, 415 [1984]; People v Berrios, 28 NY2d 361 [1971].) Upon meeting this initial burden, the burden shifts to the defendant to establish the illegality of the conduct by a fair preponderance of evidence. (People v Berrios, 28 NY2d at 367.) Here, the court finds that the People have not met their burden of demonstrating the legality of the police conduct.\nThe stop of an automobile and the detention of its occupants constitutes a “seizure” within the meaning of the Fourth and Fourteenth Amendments of the United States Constitution (see Delaware v Prouse, 440 US 648, 653 [1979]) and under article I, § 12 of the New York State Constitution (see People v Spencer, 84 NY2d 749, 752 [1995], cert denied 516 US 905 [1995]). In general, a car stop is unreasonable absent an individualized suspicion of either a traffic infraction (see e.g. People v Pealer, 20 NY3d 447 [2013]; People v Robinson, 97 NY2d 341 [2001]) or criminal activity (see e.g. People v May, 81 NY2d 725, 727 [1992]). “A limited exception to the rule requiring individualized suspicion, however, allows standardized highway checkpoints or roadblocks that serve legitimate law enforcement objectives and that impose minimal intrusions on the motoring public.” (Jacobs v State, 308 Ga App 117, 117, 706 SE2d 737, 738 [2011]; see also Indianapolis v Edmond, 531 US 32, 36 [2000]; Delaware v Prouse, 440 US 648 [1979].)\nThe United States Supreme Court has upheld checkpoints under the “special needs doctrine.” (See Lynch v City of New York, 589 F3d 94, 100 [2d Cir 2009], cert denied 562 US 995 [2010]; see e.g. United States v Martinez-Fuerte, 428 US 543 [1976] [Mexican border checkpoints]; Michigan Dept. of State Police v Sitz, 496 US 444 [1990] [sobriety checkpoints]; Illinois v Lidster, 540 US 419 [2004] [checkpoint seeking information related to recent hit-and-run accident].) Conversely, checkpoints established for the general purpose of crime control have been found unconstitutional. (See Indianapolis v Edmond, 531 US at 48 [where the “primary purpose of the . . . checkpoint . . . is ultimately indistinguishable from the general interest in crime control, the checkpoint ) violate(s) the Fourth Amendment”].)\nNew York courts have also upheld checkpoints where the “primary purpose” of the checkpoint is to address specific, legitimate governmental interests. Checkpoints designed to detect and deter intoxicated driving are permissible. (See e.g. People v Scott, 63 NY2d 518 [1984]; People v Collura, 160 Misc 2d 831 [Crim Ct, NY County 1994].) Also permissible are checkpoints primarily focused on traffic “safety” (see e.g. People v Edwards, 101 AD3d 1643, 1643 [4th Dept 2012], lv denied 21 NY3d 912 [2013]; People v Dugan, 57 AD3d 300, 300 [1st Dept 2008], lv denied 11 NY3d 924 [2009]) and checkpoints formulated to deal with specific law enforcement concerns (see People v Herbert, 172 Misc 2d 377, 379 [App Term, 1st Dept 1997] [checkpoint established in area plagued with high incidence of stolen vehicles — permissible]). Where, however, the “primary purpose” of the checkpoint is general crime control, the checkpoint is unconstitutional. (See People v Jackson, 99 NY2d 125, 131-132 [2002] [the People have burden of establishing primary purpose of roadblock was not merely to further general crime control]; see also People v Velez, 110 AD3d 449, 450 [1st Dept 2013]; People v Trotter, 28 AD3d 165 [4th Dept 2006]; People v Williams, 309 AD2d 648 [1st Dept 2003].)\nIn determining a “primary purpose,” courts should not “simply accept the State’s invocation” of a proper purpose, but instead must “carry out a close review of the scheme at issue.” (State of North Carolina v Rose, 170 NC App 284, 289, 612 SE2d 336, 339 [2005], citing Ferguson v Charleston, 532 US 67, 81 [2001].) “[A] program driven by an impermissible purpose may be proscribed while a program impelled by licit purposes is permitted.” (Indianapolis v Edmond, 531 US at 47.) In addition, as stated by the Edmond Court, the “purpose inquiry . . . is to be conducted only at the programmatic level and is not an invitation to probe the minds of individual officers acting at the scene” (id. at 48; People v Jackson, 99 NY2d at 131-132). “The primary programmatic purpose [is determined] by examining the underlying reason for undertaking it as opposed to the particular manner in which the checkpoint was conducted.” (People v Dongarra, 21 Misc 3d 719, 723 [Jamestown City Ct 2008] [internal quotation marks omitted].)\nA finding that a checkpoint comports with a legitimate, “primary purpose,” does not “automatically, or even presumptively,” render it constitutional. (Illinois v Lidster, 540 US at 426.) The reasonableness of such a seizure “depends on a balance between the public interest and the individual’s right to personal security free from arbitrary interference by law officers.” (Brown v Texas, 443 US 47, 50-51 [1979] [internal quotation marks omitted]; Matter of Muhammad F., 94 NY2d 136, 142 [1999].)\nIn determining whether the People have met this burden, courts should weigh: (1) the gravity of the public concerns served by the seizure; (2) the degree to which the checkpoint effectively addresses those concerns; and (3) the severity of the intrusion on individual liberty. (Id.)\nFor more than three decades, the seminal case of People v Scott (63 NY2d 518 [1984]) has stood as a model of a checkpoint plan that passes constitutional muster. In Scott, a sobriety checkpoint was established in accordance with a detailed, written memorandum formulated by the highest ranking law enforcement officer in the county, the Sheriff. The memorandum detailed the need for sobriety checkpoints “at known DWI and high accident locations during [specified] peak hours” and contained explicit guidelines related to:\n“site selection, lighting and signs; avoidance of discrimination by stopping all vehicles, or every second, third or fourth vehicle; location of screening areas off the highway to which vehicles would be directed; the nature of the inquiries to be made, with specific direction ... It also directed that checkpoint sites be prescreened and that from two to four locations be used during a four-hour period.” (Id. at 523.)\nIn upholding the program, the Court stated “individualized suspicion is not a prerequisite to a constitutional seizure of an automobile which is carried out pursuant to a plan embodying explicit, neutral limitations on the conduct of individual officers.” (Id. at 525.) The Court, noting the importance of the governmental interest in addressing “[t]he carnage caused by drunk drivers,” stated:\n“[I]n light of the specific procedures devised and promulgated to law enforcement personnel by the head of their department, the Sheriff, and the way in which the particular roadblock was being operated when defendant was stopped, the courts below could properly conclude that it did not intrude to an impermissible degree upon the privacy of motorists approaching the checkpoint, that it was being maintained in accordance with a uniform procedure which afforded little discretion to operating personnel, and that adequate precautions as to safety, lighting and fair warning of the existence of the checkpoint were in operation.” (Id. at 526.)\nIn Scott, the checkpoint was executed in accordance with a written plan formulated by the county’s highest law enforcement official. In the years after Scott, issues arose as to whether checkpoints had to be conducted in accordance with written guidelines formulated by command level law enforcement officials. In People v Herbert (172 Misc 2d at 379), the Appellate Term, First Department, held evidence seized at a checkpoint was admissible, notwithstanding “[t]he absence of evidence that the plan followed . . . was in writing emanating from the higher echelons of the Police Department, as was the case in People v Scott.” In People v Pureco-Martinez (46 Misc 3d 143[A], 2015 NY Slip Op 50182[U], *2 [App Term, 2d Dept, 9th & 10th Jud Dists 2015]), the court noted that “while the purpose of written guidelines is to limit the executing officer’s discretion . . . there is no authority that expressly mandates the promulgation of such guidelines.” (See also People v Diplan, 180 Misc 2d 294, 296 [Crim Ct, Bronx County 1999] [“it is not necessary for the People to establish at the hearing that the checkpoint was conducted pursuant to a written plan devised by police department superiors”]; cf. People v Velit, 2002 NY Slip Op 50066 [U], *9 [Crim Ct, Queens County 2002] [“failure to produce written guidelines is devastating to the People’s case”].) As noted in People v O’Connor (2009 NY Misc LEXIS 2407, *4 [Sup Ct, Kings County 2009]), while a written plan created by high-level law enforcement personnel has not generally been required by New York courts to validate checkpoints, the formulation and implementation of “a written plan appears to be the better course of action because it eliminates any ambiguity over uniformity of procedure and whether it was followed.”\nFederal and New York State precedents indicate that where evidence is recovered during a checkpoint stop, the People bear the burden of establishing: (1) that the primary purpose of the checkpoint was to address a legitimate law enforcement objective (Indianapolis v Edmond, 531 US at 36; People v Jackson, 99 NY2d at 131-132); (2) that the checkpoint was established at the programmatic level (id.); (3) that the checkpoint was an effective means of meeting that objective (Brown v Texas, 443 US at 50-51; Matter of Muhammad F., 94 NY2d at 142); (4) that the checkpoint was administered in accordance with a uniform procedure which embodied “explicit, neutral limitations on the conduct of [the] individual officers” involved (Brown v Texas, 443 US at 51; Matter of Muhammad F., 94 NY2d at 142); (5) that the procedures employed at the checkpoint “did not intrude to an impermissible degree upon the privacy of motorists approaching the checkpoint” (People v Scott, 63 NY2d at 526); and (6) that the checkpoint provided “adequate precautions as to safety, lighting and fair warning of the existence of the checkpoint” operation. (Id.; see also People v Cabrera, 13 Misc 3d 1205[A], 2006 NY Slip Op 51689[U], *2-3 [Crim Ct, Queens County 2006].)\nIn an attempt to meet their burden, the People called one hearing witness, Police Officer Mancuso. Officer Mancuso had been with the New York City Police Department for a period of approximately 18 months when he was assigned to assist in the instant checkpoint. When asked the purpose of the checkpoint, he provided a series of primarily general, non-prioritized reasons for its establishment. He stated the checkpoint was designed to ensure “vehicle safety,” “traffic safety,” “public safety” and to “check for traffic violations or intoxicated drivers.” He did not provide, however, any details as to why the particular site was selected for a checkpoint. No information was provided that members of the public had made complaints with respect to specific conditions at this location or that the police had a particularized concern related to this area. Indeed, other than a reference to a school and a housing project being located at the corner beyond the checkpoint, and a statement that the area contained both commercial and residential buildings, there was nothing of particular note conveyed by Officer Mancuso concerning this location.\nA determination as to whether a checkpoint advances a public interest is relatively simple where a specific public interest has been identified. Where, for instance, the public interest to be advanced is deterrence of drunk driving, the establishment of a checkpoint at a time and place known for a high incidence of drunk driving advances that interest. (See e.g. People v Diplan, 180 Misc 2d at 296 [“Deterring drunk driving by focusing on an area . . . prone to such conduct (such as) public roads immediately adjacent to a sporting event, rock concert or the beach, is certainly a legitimate public interest and proper police function”].) Where, as here, multiple purposes are suggested for a suspicionless vehicle stop, the People bear the burden of establishing that the “primary purpose” “was not merely to further general crime control.” (People v Jackson, 99 NY2d at 131-132.) The evidence adduced at the hearing, however, failed to establish a primary purpose. Indeed, while the justifications offered — the interdiction of drunk drivers, the identification of unsafe vehicles, the enforcement of traffic laws — are all legitimate, indeed laudable, governmental interests, the reference to such interests does not establish a “primary purpose.” As stated by the Supreme Court in Indianapolis v Edmond (531 US at 34):\n“If we were to rest the case at this high level of generality, there would be little check on the ability of the authorities to construct roadblocks for almost any conceivable law enforcement purpose. Without drawing the line at roadblocks designed primarily to serve the general interest in crime control, the Fourth Amendment would do little to prevent such intrusions from becoming a routine part of American life.”\nThe People also bear the burden of establishing that the checkpoint was developed at the “programmatic level.” (People v Jackson, 99 NY2d at 131-132.) Under this requirement, the People must demonstrate that the checkpoint “was ordered by a supervisor rather than by officers in the field and was implemented to ensure roadway safety rather than as a constitutionally impermissible pretext aimed at discovering general evidence of ordinary crime.” (Jacobs v State, 308 Ga App 117, 117-118, 706 SE2d 737, 738 [2011]; see Indianapolis v Edmond, 531 US at 48; People v Jackson, 99 NY3d at 131-132.) Here, however, no testimony was elicited as to whether a command level officer or the officers in the field decided to establish the checkpoint. Thus, the court is unable to determine whether the checkpoint was established at the programmatic level.\nNor was there any testimony indicating why a checkpoint was established near the intersection of Jackson Avenue and East 149th Street shortly before midnight. Officer Mancuso testified that there was a school and housing project at the intersection, and that the intersection had a “typically higher volume of traffic as opposed to anywhere else in the precinct impact zone,” but he failed to state what he meant by the term “impact zone” and he failed to identify, by empirical evidence or otherwise, any particular public concern directly connected with this location. Accordingly, the court is unable to determine whether the creation of a checkpoint at this location, at this time, was an appropriate means to address a legitimate governmental interest.\nA checkpoint must also be administered in accordance with a uniform procedure which embodies “explicit, neutral limitations on the conduct of [the] individual officers” involved. (Brown v Texas, 443 US at 50-51; Matter of Muhammad F., 94 NY2d at 142.) Both Federal and New York State courts have held that “a suspicionless [checkpoint] is unreasonable unless the timing and location of the [checkpoint], and the procedures for stopping motorists there, are governed by preset guidelines.” (United States v Hudson, 2007 WL 1656282, *11, 2007 US Dist LEXIS 40538, *34 [DC June 5, 2007, No. 07-00082 (ESH)].) Examples of what type of “plan” or “uniform procedure” is constitutionally permissible are readily available. More than three decades ago, the Court of Appeals upheld a procedure established by an upstate sheriff in Scott. Accordingly, an operational checkpoint plan similar to that formulated in Scott would almost certainly withstand judicial scrutiny. In addition, the National Highway Traffic Safety Administration maintains a website providing guidelines for sobriety checkpoints. These guidelines provide explicit details outlining the purpose, administration and implementation of checkpoints. (See National Highway Traffic Safety Administration, http:// www.nhtsa.gov.)\nAlthough a checkpoint plan does not necessarily need to be in writing, a written plan is clearly preferable. Here, not only is there no evidence of a written plan, there is scant evidence of anything beyond the most rudimentary of plans. Officer Mancuso testified that there were four officers and one sergeant assigned to the checkpoint, that there were two cars with turret lights flashing, that there were cones behind the cars tunneling motorists into the checkpoint and that he was instructed to stop every third car, unless he observed a traffic infraction. This testimony fails to meet the requirement of a uniform procedure which embodies “explicit, neutral limitations on the conduct of individual officers” involved (Matter of Muhammad F., 94 NY2d at 142); it fails to detail the degree to which the officers administering the checkpoint intruded upon motorists stopped at the checkpoint and it fails to establish the existence of “adequate precautions as to safety, lighting and fair warning of the existence of the checkpoint(’s) operation” (People v Scott, 63 NY2d at 526; see also People v Cabrera, 13 Misc 3d 1205[A], 2006 NY Slip Op 51689 [U], *2-3 [Crim Ct, Queens County 2006]).\nBased on the People’s failure to meet their burden of establishing the propriety of the checkpoint, the evidence flowing from the checkpoint stop must be suppressed unless the People can establish that Officer Mancuso had reasonable cause to believe that the defendant had either committed a traffic infraction or had or was engaged in criminal activity. (See e.g. People v Pureco-Martinez, 46 Misc 3d 143[A], 2015 NY Slip Op 50182[U] [App Term, 2d Dept, 9th & 10th Jud Dists 2015] [state trooper had probable cause to believe defendant had committed a traffic infraction when defendant’s pickup truck entered a checkpoint traveling in the wrong direction]; see also People v Hopkins, 4 Misc 3d 1020[A], 2004 NY Slip Op 50973[U], *2 [Yates County Ct 2004] [“Without a constitutional road block . . . there must (be) independent probable cause for the officer to stop the defendant’s vehicle”].)\nThe People, relying on People v Chaffee (183 AD2d 208 [4th Dept 1992]), suggest that Officer Mancuso’s observation of the defendant having placed his vehicle in reverse and moving five yards or so constitutes an independent ground to justify the stop. In Chaffee, the State Police had established a “registration and sobriety” checkpoint. A trooper manning that checkpoint observed the defendant’s vehicle turn into a motel parking lot rather than go through the roadblock. The trooper then observed the defendant’s vehicle circle the lot twice and pull into a space as the trooper’s car approached. The trooper approached the defendant’s vehicle and, upon smelling alcohol on his breath, placed him under arrest. In upholding the arrest, the Court stated: “Where . . . the police have established a nonarbitrary uniform procedure to stop all motorists at the checkpoint or who reasonably appear to be avoiding the checkpoint, we should give deference to the enforcement procedures established by the police agency.” (Id. at 211.)\nAlthough “deference” was given to the officer who stopped the defendant’s vehicle in Chaffee, other courts have accorded less deference to the officers observing what they perceived as checkpoint evasion. In People v Hopkins (4 Misc 3d 1020[A], 2004 NY Slip Op 50973 [U], *2), the court held that in the absence of any erratic driving or any violation of the traffic laws, the stop of a vehicle which turned into a driveway about four hundred feet before a checkpoint was impermissible. In People v Bigger (2 Misc 3d 937, 942 [Webster Just Ct, Monroe County 2004]), the court, noting that in People v Scott (63 NY2d at 524), the checkpoint plan only allowed officers to observe and follow vehicles which made a U-turn prior to a checkpoint, held “a legal U-turn was not an articulable reason to stop a vehicle.” (See also People v Rocket, 156 Misc 2d 641, 644 [Pleasant Valley Just Ct, Dutchess County 1992] [“the mere making of a U-turn or a turnoff to avoid a DWI checkpoint is not, in and of itself, sufficient basis for a stop”].)\nHere, the justification cited for Officer Mancuso’s approach and stop of the defendant’s vehicle is far more tenuous than that cited in Chaffee. The defendant did not pull into a parking lot or a driveway in an apparent evasion of the checkpoint. Nor did he make a U-turn or pull to the side of the road. All he did was place his car in reverse and proceed about five yards. Such an action does not support a claim that the defendant attempted to evade the checkpoint.\nMoreover, Officer Mancuso’s testimony did not place any significance on this action. He did not claim that placing the car in reverse constituted a violation of the Vehicle and Traffic Laws or demonstrated that the defendant was engaged in criminal activity. Accordingly, placing the car in reverse, and proceeding five yards or so, cannot serve as an independent basis for the officer’s actions.\nAccordingly, defendant’s motion seeking, inter alia, suppression of physical, chemical test, observational, videotape and statement evidence on the ground that the prosecution has failed to meet its burden of proving the legality of the checkpoint is granted. In light of the foregoing, the defendant’s remaining contentions have been rendered moot.\nPrior to the commencement of the hearing, the court inquired whether there were any outstanding Rosario issues related to police documents. The defendant noted his belief that materials prepared by the New York City Police Department related to the instant checkpoint had been destroyed. The People responded that “the Sergeant [Gonzalez] diligently looked for it and hasn’t been able to find it.” (See defendant’s mem of law at 3.)",
+        "type": "majority",
+        "author": "Steven Hornstein, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Legal Aid Society, Bronx (Lily Goetz and Scott Spivak of counsel), for defendant.",
+      "Robert T. Johnson, District Attorney, Bronx (Xhiljola Ruci of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[11 NYS3d 405]\nThe People of the State of New York, Plaintiff, v Raynold Perez-Correoso, Defendant.\nCriminal Court of the City of New York, Bronx County,\nMarch 23, 2015\nAPPEARANCES OF COUNSEL\nThe Legal Aid Society, Bronx (Lily Goetz and Scott Spivak of counsel), for defendant.\nRobert T. Johnson, District Attorney, Bronx (Xhiljola Ruci of counsel), for plaintiff."
+  },
+  "file_name": "1886-01",
+  "first_page_order": 837,
+  "last_page_order": 849
+}

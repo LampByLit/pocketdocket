@@ -1,0 +1,151 @@
+{
+  "id": 4235129,
+  "name": "East Coast Acupuncture, P.C., as Assignee of Kenia Perez, Plaintiff, v. Hereford Insurance Company, Defendant",
+  "name_abbreviation": "East Coast Acupuncture, P.C. v. Hereford Insurance",
+  "decision_date": "2016-02-09",
+  "docket_number": "",
+  "first_page": "441",
+  "last_page": "444",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 441"
+    },
+    {
+      "type": "parallel",
+      "cite": "26 N.Y.S.3d 684"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 9129,
+    "name": "New York City Civil Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "26 Misc 3d 23",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3761049
+      ],
+      "pin_cites": [
+        {
+          "page": "24-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/26/0023-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 50732",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Misc 3d 132",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Misc 3d 85",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4068547
+      ],
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0085-01"
+      ]
+    },
+    {
+      "cite": "48 Misc 3d 336",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4319029
+      ],
+      "pin_cites": [
+        {
+          "page": "344-345"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/48/0336-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 498",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4321542
+      ],
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0498-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 371,
+    "char_count": 5729,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 9.505882454708161e-8,
+      "percentile": 0.5218885348141918
+    },
+    "sha256": "861b8cdbb7e6bf77124130d92c93addd8d5f3985ce851ddb506155fb8283ca9d",
+    "simhash": "1:17daeb4e5b5ac891",
+    "word_count": 929
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "East Coast Acupuncture, P.C., as Assignee of Kenia Perez, Plaintiff, v Hereford Insurance Company, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDevin P. Cohen, J.\nDefendant’s motion for summary judgment, submitted on default and without written opposition or appearance by the plaintiff, is decided as follows:\nFactual Background\nIn this action to recover assigned first-party no-fault benefits, plaintiff submitted claims for payment for medical services it rendered to Kenia Perez in August, September and October 2013. Defendant does not contest that it received the claim from plaintiff, but denied the claim because it claims plaintiff did not bill the services in accordance with the applicable fee schedule. Defendant recalculated the amount pursuant to its reading of the fee schedule, and paid plaintiff the amount it calculated.\nDiscussion\nDefendant moves for summary judgment on the basis that it paid plaintiff the amount to which plaintiff was entitled pursuant to the fee schedule. Defendant further contends that, under the amended version of 11 NYCRR 65-3.8, which applies to services rendered after April 1, 2013, plaintiff must prove it billed in accordance with the fee schedule in order to make its prima facie case.\nPursuant to 11 NYCRR 65-3.8 (g) (1),\n“[p]roof of the fact and amount of loss sustained pursuant to Insurance Law section 5106(a) shall not be deemed supplied by an applicant to an insurer and no payment shall be due for such claimed medical services under any circumstances:\n“(ii) for those claimed medical service fees that exceed the charges permissible pursuant to Insurance Law sections 5108(a) and (b) and the regulations promulgated thereunder for services rendered by medical providers.”\nDefendant argues that the amendments to 11 NYCRR 65-3.8 (g) (1) change the nature of plaintiff’s prima facie proof. As set forth below, this court holds that the insurer’s objection to plaintiff’s alleged over-billing remains an affirmative defense. Thus, the only issue is whether the defense is precluded or not precluded if it is rendered later than 30 days after defendant receives the claim (see Viviane Etienne Med. Care, P.C. v Country-Wide Ins. Co., 25 NY3d 498, 510 [2015]).\nAs the Court of Appeals made clear in Viviane Etienne,\n“a medical provider seeking reimbursement from a no-fault insurer demonstrates its entitlement to reimbursement of overdue benefits when it proves that it submitted a completed claim form to the insurer. A claim is overdue if it is not denied or paid within 30 days of the insurer’s receipt of proof of claim” {id. at 507).\nThe language of 11 NYCRR 65-3.8 (g) (1) does not conflict with the holding in Viviane Etienne. The regulation does not place any additional requirements on the medical provider, such as a requirement, in the general case, to substantiate the calculation of its fees. The plain language of the regulation requires that the insurance company determine if the medical provider billed its services in accordance with the applicable fee schedule. If the insurance company determines that the bill contravenes the fee schedule, the regulation states that the insurance company need not pay the bill. Therefore, the burden remains on the insurer to assert a defense that the provider billed in excess of the fee schedule.\nAlthough the amendment does not change plaintiff’s prima facie burden, I find that the new language establishes that a fee schedule defense, for services after April 1, 2013, is not precluded if it is not asserted within 30 days of receipt of the claim. The regulation appears to be a carve-out from 11 NYCRR 65-3.8 (a) (1), which states that “[n]o-fault benefits are overdue if not paid within 30 calendar days after the insurer receives proof of claim, which shall include verification of all of the relevant information requested pursuant to section 65-3.5 of this Subpart.” Conversely, 11 NYCRR 65-3.8 (g) (1) imposes no deadline on the insurance company’s determination. At least two courts in the First Department concur with this court’s interpretation of 11 NYCRR 65-3.8 (g) (1) (see Saddle Brook Surgicenter, LLC v All State Ins. Co., 48 Misc 3d 336, 344-345 [Civ Ct, Bronx County 2015]; Surgicare Surgical Assoc. v National Interstate Ins. Co., 50 Misc 3d 85, 87 [App Term, 1st Dept 2015]).\nBased on this interpretation of 11 NYCRR 65-3.8 (g) (1), defendant may assert in this action a defense that plaintiff’s claim exceeds the applicable fee schedule. In support of this defense, defendant submits the affidavit of Veronica Pabon, a certified medical coder and biller employed by defendant as a fee schedule team leader (Rogy Med., P.C. v Mercury Cas. Co., 23 Misc 3d 132[A], 2009 NY Slip Op 50732[U], *2 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2009]). Ms. Pabon states that defendant paid plaintiff, an acupuncturist, in accordance with the rate paid to chiropractors for the same services (see Great Wall Acupuncture, P.C. v GEICO Ins. Co., 26 Misc 3d 23, 24-25 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2009]). Ms. Pabon described the process by which defendant calculated the fees and supported those calculations with reference to the applicable fee schedule. Defendant also provided copies of the checks it sent to plaintiff. Based on this unopposed evidence, defendant paid plaintiff in accordance with the fee schedule, and does not owe plaintiff any additional payment.\nFor the foregoing reasons, defendant’s motion for summary judgment is granted and plaintiff’s complaint is dismissed.",
+        "type": "majority",
+        "author": "Devin P. Cohen, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Lawrence Robert Miles, Long Island City, for defendant. Perchekly Law Group, RC., Brooklyn, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[26 NYS3d 684]\nEast Coast Acupuncture, P.C., as Assignee of Kenia Perez, Plaintiff, v Hereford Insurance Company, Defendant.\nCivil Court of the City of New York, Kings County,\nFebruary 9, 2016\nAPPEARANCES OF COUNSEL\nLawrence Robert Miles, Long Island City, for defendant. Perchekly Law Group, RC., Brooklyn, for plaintiff."
+  },
+  "file_name": "2185-01",
+  "first_page_order": 453,
+  "last_page_order": 456
+}

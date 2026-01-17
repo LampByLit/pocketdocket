@@ -1,0 +1,513 @@
+{
+  "id": 6789618,
+  "name": "Owner Operator Independent Drivers Association et al., Plaintiffs, v. New York State Department of Taxation and Finance et al., Defendants",
+  "name_abbreviation": "Owner Operator Independent Drivers Ass'n v. New York State Department of Taxation & Finance",
+  "decision_date": "2016-01-22",
+  "docket_number": "",
+  "first_page": "855",
+  "last_page": "864",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 855"
+    },
+    {
+      "type": "parallel",
+      "cite": "34 N.Y.S.3d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 NY Slip Op 50160",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 1223",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "516 US 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        324365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0325-01"
+      ]
+    },
+    {
+      "cite": "312 Md 583",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2073631
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "589-591"
+        },
+        {
+          "page": "958"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/312/0583-01"
+      ]
+    },
+    {
+      "cite": "595 A2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7378087
+      ],
+      "pin_cites": [
+        {
+          "page": "1015-1018"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/595/1014-01"
+      ]
+    },
+    {
+      "cite": "517 US 1121",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11766437,
+        11766666,
+        11766346,
+        11766541,
+        11766607,
+        11766386,
+        11766739,
+        11766228,
+        11766804,
+        11766487,
+        11766296,
+        11766941,
+        11766879
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/1121-05",
+        "/us/517/1121-09",
+        "/us/517/1121-03",
+        "/us/517/1121-07",
+        "/us/517/1121-08",
+        "/us/517/1121-04",
+        "/us/517/1121-10",
+        "/us/517/1121-01",
+        "/us/517/1121-11",
+        "/us/517/1121-06",
+        "/us/517/1121-02",
+        "/us/517/1121-13",
+        "/us/517/1121-12"
+      ]
+    },
+    {
+      "cite": "671 So 2d 674",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7434399
+      ],
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/671/0674-01"
+      ]
+    },
+    {
+      "cite": "467 US 638",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205320
+      ],
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0638-01"
+      ]
+    },
+    {
+      "cite": "483 US 266",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28358
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "295"
+        },
+        {
+          "page": "284"
+        },
+        {
+          "page": "286"
+        },
+        {
+          "page": "274"
+        },
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0266-01"
+      ]
+    },
+    {
+      "cite": "430 US 274",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12123142
+      ],
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0274-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 577",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109787
+      ],
+      "pin_cites": [
+        {
+          "page": "596-597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0577-01"
+      ]
+    },
+    {
+      "cite": "519 US 278",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595433
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0278-01"
+      ]
+    },
+    {
+      "cite": "511 US 93",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147349
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "98"
+        },
+        {
+          "page": "99"
+        },
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0093-01"
+      ]
+    },
+    {
+      "cite": "134 AD3d 52",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4363526
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/134/0052-01"
+      ]
+    },
+    {
+      "cite": "14 NY2d 432",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2269129
+      ],
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/14/0432-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 155",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282470
+      ],
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0155-01"
+      ]
+    },
+    {
+      "cite": "86 AD3d 779",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4025984
+      ],
+      "pin_cites": [
+        {
+          "page": "780-781"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/86/0779-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 944",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4005914,
+        4003779
+      ],
+      "pin_cites": [
+        {
+          "page": "945-946"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0944-02",
+        "/ad3d/80/0944-01"
+      ]
+    },
+    {
+      "cite": "116 AD3d 1121",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4005342
+      ],
+      "pin_cites": [
+        {
+          "page": "1122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/116/1121-01"
+      ]
+    },
+    {
+      "cite": "10 NY3d 733",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3779528,
+        3779742,
+        3779167
+      ],
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/10/0733-01",
+        "/ny3d/10/0733-02",
+        "/ny3d/10/0733-03"
+      ]
+    },
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "324"
+        },
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 958",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3999728
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "959"
+        },
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0958-01"
+      ]
+    },
+    {
+      "cite": "35 NY2d 361",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2314448
+      ],
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/35/0361-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 223",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339376
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0223-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1029,
+    "char_count": 22374,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18252357569881486
+    },
+    "sha256": "2cf7e0a707be55744b9dda19d6e5eb40afe6291b1c198dd9f9980cbe5889f857",
+    "simhash": "1:8cc6c5a01d00df50",
+    "word_count": 3642
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Owner Operator Independent Drivers Association et al., Plaintiffs, v New York State Department of Taxation and Finance et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames H. Ferreira, J.\nIn this class action, plaintiffs challenge the constitutionality of two provisions of Tax Law § 502 requiring the payment of fees by certain vehicles operating on public highways in New York State. Specifically, plaintiffs challenge the $15 fee charged for a certificate of registration (hereinafter registration fee) (see Tax Law § 502 [1] [a]), and the $4 fee charged for a decal (hereinafter decal fee) (see Tax Law § 502 [6] [a]). Plaintiffs allege that the challenged fees “impose a higher per mile tax rate on out-of-state trucks, and thus constitute an undue burden on interstate commerce” in violation of the Commerce Clause of the US Constitution (affirmation in support of plaintiffs’ motion, exhibit A, ¶ 1). Plaintiffs also allege that, by depriving them of their rights, privileges and immunities under the Commerce Clause, defendants have violated 42 USC § 1983. Plaintiffs seek injunctive and declaratory relief, as well as a refund of fee payments and attorneys’ fees.\nPlaintiffs now move for summary judgment on their complaint. Defendants oppose the motion and also move for summary judgment dismissing the complaint. The court heard oral argument on the motions on September 8, 2015.\nSummary Judgment\nSummary judgment is a drastic remedy which should only be granted where there are no doubts as to the existence of a triable issue of fact (see Rotuba Extruders v Ceppos, 46 NY2d 223, 231 [1978]; Andre v Pomeroy, 35 NY2d 361, 364 [1974]; Black v Kohl’s Dept. Stores, Inc., 80 AD3d 958, 959 [3d Dept 2011]). “[T]he proponent of a summary judgment motion must make a prima facie showing of entitlement to judgment as a matter of law, tendering sufficient evidence to demonstrate the absence of any material issues of fact” (Alvarez v Prospect Hosp., 68 NY2d 320, 324 [1986]; see Smalls v AJI Indus., Inc., 10 NY3d 733, 735 [2008]; Baird v Gormley, 116 AD3d 1121, 1122 [3d Dept 2014]). If the proponent’s burden is met, “the burden shifts to the party opposing the motion for summary judgment to produce evidentiary proof in admissible form sufficient to establish the existence of material issues of fact which require a trial of the action” (Alvarez v Prospect Hosp., 68 NY2d at 324; Town of Kirkwood v Ritter, 80 AD3d 944, 945-946 [3d Dept 2011]). In considering a summary judgment motion, the court “must view the evidence in a light most favorable to the nonmoving party and accord that party the benefit of every reasonable inference from the record proof, without making any credibility determinations” (Black v Kohl’s Dept. Stores, Inc., 80 AD3d at 959; see Winne v Town of Duanesburg, 86 AD3d 779, 780-781 [3d Dept 2011]).\nTaxing Scheme\nTax Law article 21, Highway Use Tax (hereinafter HUT), imposes “a highway use tax for the privilege of operating any vehicular unit upon the public highways of this state and for the purpose of recompensing the state for the public expenditures incurred by reason of the operations of such vehicular units on the public highways” (Tax Law § 503 [1]). The HUT rate is assessed “based upon the gross weight of each motor vehicle and the number of miles it is operated” on New York highways (Tax Law § 503 [1]). For purposes of the statute, a “vehicular unit” means “a motor vehicle alone or in combination with any other motor vehicle, trailer, semi-trailer, dolly, or other device drawn thereby” (Tax Law § 501 [3]). In turn, “motor vehicle” is defined, for purposes of the statute, as including\n“any automobile, truck, tractor or other self-propelled device, having a gross weight in excess of eighteen thousand pounds, or any truck having an unloaded weight in excess of eight thousand pounds, or any tractor, having an unloaded weight in excess of four thousand pounds, which is used upon the public highways otherwise than upon fixed rails or tracks” (Tax Law § 501 [2] [a]).\nIn addition, Tax Law § 502, entitled “Highway use registration,” requires each “carrier” to apply for a certificate of registration “for each motor vehicle operated or to be operated by him on the public highways” in New York and requires each application for a certificate of registration to be accompanied by a $15 fee (Tax Law § 502 [1] [a]). A “carrier” is defined as including “any person having the lawful use or control, or the right to the use or control of any vehicular unit” in New York (Tax Law § 501 [5]). The statute also authorizes defendant Commissioner of the New York State Department of Taxation and Finance to “require the use of decals as evidence that a carrier has a valid certificate of registration for each motor vehicle operated or to be operated on the public highways of this state,” the fee for which is $4 (Tax Law § 502 [6] [a]). It is undisputed that neither the registration fee nor the decal fee are apportioned based upon a carrier’s actual use of New York’s highways.\nTax Law § 509 (8) authorizes the Commissioner to issue replacement certificates of registration or decals “not more often than once every year.” Defendants have submitted evidence — which is not disputed by plaintiffs — that, in practice, carriers are not required to pay the $15 registration fee and $4 decal fee on an annual basis. Rather, certificates of registration are issued in series, each of which is typically a three-year period (and which has never been shorter than three years). For example, the series that was in effect at the time of the filing of these motions was series 21, which began on January 1, 2013 and ended on December 31, 2015. For each new series, carriers seeking to register a new vehicle and carriers with registered vehicles who wish to renew their registration for those vehicles are required to pay the registration fee and decal fee. Defendants have submitted evidence that the purpose of the registration fee and decal fee is to enforce and ensure compliance with the HUT.\nAnalysis\n“Legislative enactments enjoy a strong presumption of constitutionality [and] parties challenging a duly enacted statute face the initial burden of demonstrating the statute’s invalidity beyond a reasonable doubt” (LaValle v Hayden, 98 NY2d 155, 161 [2002] [internal quotation marks and citations omitted]; see Paterson v University of State of N.Y., 14 NY2d 432, 438 [1964]; Schulz v State of N.Y. Exec., 134 AD3d 52 [3d Dept 2015]). The Commerce Clause provides that “[t]he Congress shall have Power . . . [t]o regulate Commerce . . . among the several States” (US Const, art I, § 8 [3]). “Though phrased as a grant of regulatory power to Congress, the Clause has long been understood to have a negative aspect that denies the States the power unjustifiably to discriminate against or burden the interstate flow of articles of commerce” (Oregon Waste Systems, Inc. v Department of Environmental Quality of Ore., 511 US 93, 98 [1994] [internal quotation marks omitted]; see General Motors Corp. v Tracy, 519 US 278, 287 [1997]). “[T]he first step in analyzing any law subject to judicial scrutiny under the negative Commerce Clause is to determine whether it regulates evenhandedly with only incidental effects on interstate commerce, or discriminates against interstate commerce” (Oregon Waste Systems, Inc. v Department of Environmental Quality of Ore., 511 US at 99 [internal quotation marks and citation omitted]). In this context, “[d]iscrimination means differential treatment on in-State and out-of-State economic interests that benefits the former and burdens the latter” (City of New York v State of New York, 94 NY2d 577, 596-597 [2000]; see Oregon Waste Systems, Inc. v Department of Environmental Quality of Ore., 511 US at 99). A state tax survives a Commerce Clause challenge “when the tax is applied to an activity with a substantial nexus with the taxing State, is fairly apportioned, does not discriminate against interstate commerce, and is fairly related to the services provided by the State” (Complete Auto Transit, Inc. v Brady, 430 US 274, 279 [1977]; see American Trucking Assns., Inc. v Schemer, 483 US 266, 295 [1987]).\nPlaintiffs principally rely on American Trucking Assns., Inc. v Scheiner in support of their assertion that the challenged fees are unconstitutional. In that case, the US Supreme Court struck down, as violative of the Commerce Clause, two Pennsylvania statutes which imposed lump-sum, annual taxes on commercial users of Pennsylvania’s highways. Specifically, the Court addressed the constitutionality of two flat taxes: (1) an annual $25 fee for an identification marker imposed only on out-of-state trucks; and (2) an annual fee of $36 per vehicle axle imposed on in-state and out-of-state vehicles. The Court found that the challenged fees failed the “ ‘internal consistency test,” which requires that a state tax be of a kind that, “ ‘if applied by every jurisdiction, there would be no impermissible interference with free trade’ ” (American Trucking Assns., Inc. v Scheiner, 483 US at 284, quoting Armco Inc. v Hardesty, 467 US 638, 644 [1984]). The Court concluded that the marker fee taxes were plainly discriminatory because they had the practical effect of “impos[ing] a cost per mile on [out-of-state] trucks that is approximately five times as heavy as the cost per mile borne by local trucks” (American Trucking Assns., Inc. v Scheiner, 483 US at 286). The Court continued, stating that “a state tax that favors in-state business over out-of-state business for no other reason than the location of its business is prohibited by the Commerce Clause” (id.). The Court found the axle tax similarly flawed, in that it had “a forbidden impact on interstate commerce because it exertfed] an inexorable hydraulic pressure on interstate businesses to ply their trade within the State that enacted the measure rather than ‘among the several States’ ” (id. at 286-287, quoting US Const, art I, § 8 [3]).\nThe Court affirmed that “the Commerce Clause does not require the States to avoid flat taxes when they are the only practicable means of collecting revenues from users and the use of a more finely gradated user-fee schedule would pose genuine administrative burdens” but found that such justification was unavailable in the case at bar (id. at 296). Notably, since Scheiner, several state courts have struck down unappor-tioned flat fees similar to those at issue in this case (see e.g. Sizemore v Owner-Operator Ind. Drivers Assn., Inc., 671 So 2d 674, 676 [Ala Civ App 1995], cert denied 517 US 1121 [1996] [annual identification marker fee of $12]; American Trucking Assns., Inc. v Secretary of State, 595 A2d 1014, 1015-1018 [Me 1991] [flat license fee of $25]; American Trucking Assns., Inc. v Goldstein, 312 Md 583, 589-591, 541 A2d 955, 958 [1988] [annual identification marker fee of $25]).\nHere, plaintiffs argue that the registration fee and decal fee violate the Commerce Clause because, like the fees struck down in Scheiner, they are not apportioned based on miles traveled in New York and have a discriminatory, disproportionate impact on non-New York carriers. In support, they have submitted evidence — including interrogatory responses, deposition testimony and an expert affidavit — establishing that the cost per mile for the registration and decal taxes is greater for non-New York based businesses than it is for New York based businesses. In particular, plaintiffs’ expert surmises that, based upon figures supplied by defendants, taxpayers with an out-of-state address drive, on average, “far less” on New York roads than taxpayers with a New York address (Fenili aff ¶ 15) and that the cost for non-New York based businesses for fiscal year 2013 was 4.1 times greater than the cost for New York based businesses, and for fiscal year 2014 was 4.9 times greater than the cost for New York based businesses. The court finds that this evidence demonstrates that the fees have a discriminatory impact or effect on interstate commerce.\nDefendants have not submitted any evidence disputing the discriminatory effect of the registration and decal fees. In opposition to plaintiffs’ motion, defendants point out that plaintiffs’ papers — including the affidavit of plaintiffs’ expert, Robert Fenili — rely on the erroneous assumption that the registration fee and decal fee are assessed on an annual basis, such that all carriers paid $19 during each fiscal year. Defendants assert that, because the fees are assessed once every three years, the annual cost for carriers is not $19 but $6.33. Defendants strenuously urge that this distinction is critical because “the amounts at issue fall below the level that any court has considered worthy of Constitutional consideration” (mem of law in opposition at 1). Defendants also argue that the flat taxes are permissible because it would be burdensome and impractical to apportion them. The court will address each of defendants’ contentions in turn.\nFirst, the court is unpersuaded by defendants’ argument that the statutes’ validity under the Commerce Clause turns on the amount of the flat fees charged. Whether they are assessed at $19 per year or $6.33 per year, the fact remains that taxes, in practice, have a discriminatory effect on interstate commerce. Indeed, the dollar amount of the fees assessed does not affect the conclusion of plaintiffs’ expert that the cost per mile for the registration and decal taxes is greater for non-New York based businesses than it is for New York based businesses, and it does not affect the ratios that he provided.\nDefendants argue that the Supreme Court’s decision in Schei-ner supports their position, because the Court “left undisturbed an annual marker fee of $5.00,” which, accounting for inflation, is greater than the $6.33 fees at issue in this case (mem of law in opposition at 8). The court does not read Scheiner as holding, as defendants suggest, that flat fees that have a discriminatory effect on interstate commerce are constitutionally permissible if they fall below a threshold monetary amount. As discussed above, in Scheiner, the Court addressed the constitutionality of two flat taxes: (1) an annual $25 fee for an identification marker and (2) an annual fee of $36 per vehicle axle. The challenged marker fee was only in effect from 1980 to 1982; in 1982, it was reduced to $5 per vehicle. It was stipulated in Scheiner that the administrative costs associated with the issuance of the identification markers totaled approximately $5 per vehicle, and the Court noted that “[s]ince 1982 . . . the marker fee is sufficient only to meet the specific cost of issuing the marker” (American Trucking Assns., Inc. v Scheiner, 483 US at 274). The Court in Scheiner did not specifically address the constitutionality of the $5 administrative fee, nor was the issue before it. Nowhere in the Scheiner decision did the Court hold that the $5 fee was permissible because it fell below a monetary amount. Importantly, the US Supreme Court has rejected the notion of a “de minimis” defense to an allegation that a tax is discriminatory under the Commerce Clause (see Fulton Corp. v Faulkner, 516 US 325, 333 n 3 [1996] [emphasis omitted]).\nDefendants’ second argument is that the flat taxes are constitutionally permissible because they cannot practically be apportioned. In support of this argument, defendants have submitted the affirmation of Todd M. Kerner, an attorney with defendant New York State Department of Taxation and Finance. Therein, Kerner provides the following administrative challenge to apportioning the registration and decal fees. He states that these fees are collected when a covered vehicle is first registered with the Department and when its registration is renewed before the beginning of each new series, but the HUT is paid when a carrier files its HUT returns, which may be monthly, quarterly or annually, depending on the carrier. The mileage for any covered vehicle is not known until the carrier files its HUT return. In order to apportion the registration and decal fees according to miles traveled, information from all HUT returns would have to be retroactively applied to the registration and decal fees. Kerner asserts that “[t]his cannot be accomplished without enormous and costly administrative burden” (Kerner affirmation ¶ 53).\nThe court finds this evidence insufficient to establish that apportionment of the registration and decal fees would be impractical and pose “genuine administrative burdens” upon the State (American Trucking Assns., Inc. v Scheiner, 483 US at 296). Each carrier is already under a burden to report annual mileage traveled in New York, and the administrative machinery is already in place to apportion the amount each carrier owes for HUT based on miles traveled. Although a vehicle’s annual mileage is unknown at the time the registration and decal fees are processed, the court is unpersuaded that this fact creates an “enormous and costly administrative burden” on defendants (Kerner affirmation f 53). The court can envision several ways that registration and decal fees can be apportioned, including providing carriers with a credit on their HUT tax return for the amount of registration and/or decal fees overpaid based upon annual mileage traveled in New York.\nBased upon the foregoing, the court finds no question of fact preventing summary judgment and concludes that plaintiffs have met their burden of establishing that the fees set forth in Tax Law § 502 (1) (a) and (6) (a) violate the Commerce Clause of the US Constitution. The undisputed evidence before the court establishes that the fees have a discriminatory effect on interstate commerce. The court finds this case indistinguishable from Scheiner on points of law and fact and rejects defendants’ arguments in opposition. As such, plaintiffs have established their entitlement to declaratory and injunctive relief, as will be set forth below. With respect to plaintiffs’ claim for damages in the form of a refund, the court finds that further proceedings are required. The parties will be directed to submit to the court memoranda of law addressing issues pertaining to damages, class administration and attorneys fees, including whether the court should appoint a special master to hear and decide such issues.\nAccordingly, it is hereby ordered that defendants’ motion for summary judgment is denied; and it is further ordered and adjudged that plaintiffs’ motion for summary judgment is granted inasmuch as plaintiffs are granted judgment as a matter of law on their causes of action alleging a violation of the Commerce Clause and seeking a declaratory judgment and injunction; and it is further ordered and declared that the fees set forth in Tax Law § 502 (1) (a) and (6) (a) are unconstitutional under the Commerce Clause of the US Constitution and therefore are invalid and cannot be enforced; and it is further ordered that defendants are permanently enjoined from implementing or enforcing the unconstitutional taxes against plaintiffs.\n. Plaintiffs also alleged in their complaint that the fees violated the Due Process Clauses of the US and New York Constitutions. In a decision and order dated January 28, 2014, the court (Teresi, J.), among other things, granted defendants’ pre-answer motion to dismiss that cause of action (42 Misc 3d 1223[A], 2014 NY Slip Op 50160[U] [Sup Ct, Albany County 2014]).\n. By decision and order dated September 1, 2014, the court (McNamara, J.) granted plaintiffs’ application for class certification. The certified class includes\n“all interstate motor carriers as defined in Tax Law § 502 (5):(A) who reside outside the State of New York; and (B) who have paid the registration fee and decal fee [as discussed herein] and are now or may in the future become subject to the requirements of Tax Law § 502 (1)(A) and hence liable for the per vehicle payment of the $15.00 registration fee and the $4.00 decal fee imposed by Tax Law § 502 (1)(A) and 502 (6)(A)” (affirmation in support of plaintiff’s motion, exhibit D at 5).\n. The motions were originally returnable on December 15, 2014. This matter was thereafter transferred to the IAS calendar of the undersigned. This court received the instant motion papers on May 21, 2015 and, accordingly, adjourned the return date to May 21, 2015.\n. Plaintiffs also argue that the challenged fees are preempted by the Unified Carrier Registration Act of 2005 (see 49 USC § 14504a). This statute replaced the Single State Registration System and created a “Unified Carrier Registration” system through which a motor carrier operating in interstate commerce submits a single registration fee and pays, through a designated base state, an annual registration fee in an amount determined based on the size of its vehicle fleet (see 49 USC § 14504a). The Act specifically states, in relevant part:\n“For purposes of this section, it shall be considered an unreasonable burden upon interstate commerce for any State . . .\n“to enact, impose, or enforce any requirement or standards with respect to, or levy any fee or charge on, any motor carrier or motor private carrier providing transportation or service subject to jurisdiction under subchapter I of chapter 135 (in this section referred to as an ‘interstate motor carrier’ and an ‘interstate motor private carrier’, respectively) in connection with . . .\n“the registration with the State of the interstate operations of the motor carrier or motor private carrier” (49 USC § 14504a [c] [1] [A]).\nThe court is not persuaded that this statute applies to the registration and decal fees at issue in this case, which are part of New York’s HUT and not its vehicle registration scheme, and makes no finding with respect to plaintiffs’ preemption argument.\n. In light of the court’s holding that the challenged fees violate the Commerce Clause, the court need not address plaintiffs’ alternative claim under 42 USC § 1983.",
+        "type": "majority",
+        "author": "James H. Ferreira, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Tabner, Ryan & Keniry, LLP, Albany (Thomas R. Fallati of counsel), for plaintiffs.",
+      "Eric T Schneiderman, Attorney General, Albany (Helena Lynch of counsel), for defendants.",
+      "The Cullen Law Firm, PLLC (Paul D. Cullen, Sr, Daniel E. Cohen and Joseph A. Black of counsel) for petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "[34 NYS3d 332]\nOwner Operator Independent Drivers Association et al., Plaintiffs, v New York State Department of Taxation and Finance et al., Defendants.\nSupreme Court, Albany County,\nJanuary 22, 2016\nAPPEARANCES OF COUNSEL\nTabner, Ryan & Keniry, LLP, Albany (Thomas R. Fallati of counsel), for plaintiffs.\nEric T Schneiderman, Attorney General, Albany (Helena Lynch of counsel), for defendants.\nThe Cullen Law Firm, PLLC (Paul D. Cullen, Sr, Daniel E. Cohen and Joseph A. Black of counsel) for petitioners."
+  },
+  "file_name": "2355-01",
+  "first_page_order": 847,
+  "last_page_order": 856
+}

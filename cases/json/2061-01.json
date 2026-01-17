@@ -1,0 +1,478 @@
+{
+  "id": 4068821,
+  "name": "The People of the State of New York, Plaintiff, v. Theresa Gallagher, Defendant",
+  "name_abbreviation": "People v. Gallagher",
+  "decision_date": "2015-09-28",
+  "docket_number": "",
+  "first_page": "317",
+  "last_page": "332",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "18 N.Y.S.3d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "104 AD2d 501",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3379288,
+        3395459,
+        3379144
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/104/0501-03",
+        "/ad2d/104/0501-01",
+        "/ad2d/104/0501-02"
+      ]
+    },
+    {
+      "cite": "140 AD2d 844",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3557239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/140/0844-01"
+      ]
+    },
+    {
+      "cite": "408 US 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782877
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0104-01"
+      ]
+    },
+    {
+      "cite": "3 NY3d 522",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        456467
+      ],
+      "pin_cites": [
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/3/0522-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 769",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320100
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0769-01"
+      ]
+    },
+    {
+      "cite": "16 NY2d 37",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2274064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/16/0037-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 549",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4438178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0549-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373867
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0419-01"
+      ]
+    },
+    {
+      "cite": "57 NY2d 371",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4386116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/57/0371-01"
+      ]
+    },
+    {
+      "cite": "405 US 156",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11721589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0156-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 613",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 US 612",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11302068
+      ],
+      "pin_cites": [
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0612-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 376",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407597
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "382"
+        },
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0376-01"
+      ]
+    },
+    {
+      "cite": "907 F Supp 671",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7823434
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/907/0671-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 740",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436193
+      ],
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0740-01"
+      ]
+    },
+    {
+      "cite": "2005 US Dist LEXIS 9317",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 WL 1161812",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 AD3d 720",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3884205
+      ],
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/55/0720-01"
+      ]
+    },
+    {
+      "cite": "90 Misc 2d 269",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1902539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/90/0269-01"
+      ]
+    },
+    {
+      "cite": "132 Misc 2d 1072",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        851662
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/132/1072-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 161",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4016134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0161-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 500",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422294
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0500-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 395",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579594
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0395-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 372",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4413177
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0372-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 91",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        202896
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0091-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393478
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0099-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 259",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557182
+      ],
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0259-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725125
+      ],
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0677-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1419,
+    "char_count": 32847,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 6.646250469370797e-8,
+      "percentile": 0.4052579899445875
+    },
+    "sha256": "33b441c1bda8083c7efad74c62a4ad54e7db97c1fe7d25ff609788857a13c071",
+    "simhash": "1:b61a6b9cb726abad",
+    "word_count": 5287
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Theresa Gallagher, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMary V. Rosado, J.\nDefendant is charged with two counts of violating right-of-way (Administrative Code of City of NY § 19-190 [a], [b]), three counts of violating drivers to exercise due care (Vehicle and Traffic Law § 1146 [a], [b] [1]; [c] [1]), and one count of violating vehicle entering stop or yield intersection (Vehicle and Traffic Law § 1142 [b]). By amended affirmation dated July 13, 2015, defendant moves for dismissal of the Vehicle and Traffic Law § 1142 (b) count for facial insufficiency; the Administrative Code § 19-190 (a) and (b) counts for unconstitutional vagueness and state preemption; the Vehicle and Traffic Law § 1146 counts for lack of jurisdiction and unconstitutional vagueness and the entire information in the interest of justice. By affidavit in opposition dated August 26, 2015, the People oppose dismissal of all counts arguing that the information is facially sufficient, the charged statutes do not contain constitutional or jurisdictional infirmities, nor that there are compelling circumstances requiring dismissal in the interest of justice. In rendering a decision, this court reviewed defendant’s amended affirmation dated July 13, 2015, the People’s affidavit in opposition dated August 26, 2015, the court file, and relevant statutes and case law.\nDefendants’ motion to dismiss the Vehicle and Traffic Law § 1142 (b) count is granted. The People are granted 30 days leave to file a superseding information. The remainder of her motion is denied. The court has considered defendant’s other arguments and finds them to be without merit.\nFactual Allegations\nThe information alleges, in pertinent part, that on or about October 3, 2014 at approximately 1:37 a.m. at the northwest corner of Willis Avenue and East 147th Street, the following occurred:\n“Deponent is informed . . . that, at the above time and place, a public roadway, he responded to a one vehicle collision involving a Metropolitan Transportation Authority (MTA) bus and a pedestrian. Deponent is further informed by informant that upon arrival he observed MTA Bus #5961 at the above location and further observed a white male underneath said bus.\n“Deponent is further informed by informant that he spoke with defendant, a bus operator for the MTA, at the above location and defendant stated in sum and substance: I WAS DRIVING ON WILLIS AVENUE. THE LIGHT AT EAST 147th STREET WAS GREEN AND I WAS MAKING A LEFT TURN ONTO EAST 147TH STREET. MID TURN I HEARD A POP, I THOUGHT SOMEONE THREW SOMETHING AT THE BUS. I STOPPED AND GOT OUT AND WALKED AROUND THE BUS A COUPLE OF TIMES. AN OFF DUTY BUS DRIVER BY THE NAME OF GUY, WHO WAS ON MY BUS GOT OFF WITH ME AND HE SAW THE BODY UNDER THE BUS, BY THE BACK TIRES. THEN I CALLED MY SUPERVISOR OVER THE RADIO AND WAITED FOR THE POLICE.\n“Deponent states that he has viewed video surveillance from the above time and place and observed said MTA bus, travelling northbound on Willis Avenue, make a left onto East 147th Street, heading westbound, and strike an individual on foot proceeding northbound through, and halfway across, the west cross walk of East 147th Street, with said cross walk light indicating that said individual had the right of way.\n“Deponent is further informed by informant that the white male under said bus . . . had a crushed skull and was pronounced dead on scene.”\nFacial Sufficiency\nTo be facially sufficient, an accusatory instrument “must designate the offense or offenses charged” (CPL 100.15 [2]) and “must contain a statement of the complainant alleging facts of an evidentiary character supporting or tending to support the charges” (CPL 100.15 [3]). More specifically, an information must provide “reasonable cause to believe that the defendant committed the offense charged” in the accusatory part of the information and must contain “non-hearsay allegations [that], if true, establish every element of the offense charged and the defendant’s commission thereof” (People v Henderson, 92 NY2d 677, 679 [1999]; see CPL 100.40 [1]).\nThe Court of Appeals has stated that CPL 100.40 (1) places “the burden on the People to make out their prima facie case for the offense charged in the text of the information” (People v Jones, 9 NY3d 259, 261 [2007]). It should be noted that the prima facie case requirement is not the same as the burden required at trial of proof beyond a reasonable doubt, “nor does it rise to the level of legally sufficient evidence that is necessary to survive a motion to dismiss based on the proof presented at the trial” (People v Kalin, 12 NY3d 225, 230 [2009]). Rather, what is required is that the factual allegations in the information “give an accused notice sufficient to prepare a defense and are adequately detailed to prevent a defendant from being tried twice for the same offense” (id. at 230 [citations and quotation marks omitted]). Ultimately, the information “should be given a fair and not overly restrictive or technical reading” (People v Casey, 95 NY2d 354, 360 [2000]).\nVehicle and Traffic Law § 1142\nVehicle and Traffic Law § 1142 (b) provides that\n“[t]he driver of a vehicle approaching a yield sign shall in obedience to such sign slow down to a speed reasonable for existing conditions, or shall stop if necessary as provided in section eleven hundred seventy-two, and shall yield the right of way to any pedestrian legally crossing the roadway on which he is driving, and to any vehicle in the intersection or approaching on another highway so closely as to constitute an immediate hazard during the time such driver is moving across or within the intersection. Provided, however, that if such driver is involved in a collision with a pedestrian in a crosswalk or a vehicle in the intersection after driving past a yield sign without stopping, such collision shall be deemed prima facie evidence of his failure to yield the right of way.”\nDefendant argues that Vehicle and Traffic Law § 1142 (b) is reserved for intersections controlled by street signs. The People argue that a crosswalk, giving pedestrians the right-of-way, is the functional equivalent of a yield sign and renders Vehicle and Traffic Law § 1142 (b) applicable to this case. It is unquestionable that a vehicle, turning with the right-of-way, must yield the right-of-way to pedestrians in a crosswalk. In order to adopt the People’s functional equivalent approach to yield signs, this court would have to ignore the technical nature of the Vehicle and Traffic Law. While the Vehicle and Traffic Law has a litany of specific definitions, yield signs are not explicitly defined. However, a definition can be imported from another source. A sign is a type of traffic control device.\nTraffic control devices are “all signs, signals, markings, and devices not inconsistent with this chapter placed or erected by authority of a public body or official having jurisdiction for the purpose of regulating, warning or guiding traffic” (Vehicle and Traffic Law § 153). The New York State Department of Transportation is charged with the responsibility of maintaining a uniform system of traffic control devices for statewide use (Vehicle and Traffic Law § 1680 [a]). Whenever possible, the National Manual on Uniform Traffic Control Devices (hereinafter MUTCD) is to constitute the standard for traffic control devices (id,.). Where the MUTCD conflicts with the Vehicle and Traffic Law, the Commissioner of the New York State Department of Transportation is authorized to promulgate supplements to conform to state law (id.).\nChapter 2B of the MUTCD provides extensive guidance on the use of regulatory signs, including yield signs. Section 2B.08 of the MUTCD states the standard of yield signs as “the YIELD . . . sign . . . shall be a downward-pointing equilateral triangle with a wide red border and the legend YIELD in red on a white background.” Other yield signs recognized by the MUTCD are the yield for pedestrian sign and yield for pedestrian in crosswalk sign. Figures 2B-1 and 2B-2 provide clear, picture examples of all three types of yield signs. The New York State Supplement does not use some of the sign series, but does not contradict the MUTCD. Based on MUTCD standards for yield signs and examples for conforming yield signs, it is clear that a yield sign must be a street sign. Even if a driver must yield right-of-way to pedestrians crossing in crosswalks, crosswalks cannot be yield signs, for purposes of Vehicle and Traffic Law § 1142 (b).\nThe information is devoid of any factual allegations that defendant approached a yield sign at the intersection where the accident occurred. Defendant’s statements establish that she approached and proceeded through a light, a traffic control signal. Deponent’s allegations establish that the victim was crossing a crosswalk with the crosswalk indicating that he had the right-of-way. Without a factual allegation that defendant approached a yield sign the accusatory instrument is facially insufficient as to the charge of Vehicle and Traffic Law § 1142 (b). The factual allegations fail to establish reasonable cause that defendant committed the offense charged.\nDefendant’s motion to dismiss the charge of Vehicle and Traffic Law § 1142 (b) is granted.\nPreemption\nAs a threshold matter, this court notes that preemption of a local ordinance by state law can occur through express, conflict or field preemption. A state statute may expressly prohibit a locality from legislating in an area by the words of a statute (see Consolidated Edison Co. of N.Y. v Town of Red Hook, 60 NY2d 99, 104 [1983]). Conflict preemption exists when a local government enacts a law that directly clashes with a state statute (DJL Rest. Corp. v City of New York, 96 NY2d 91 [2001]; Albany Area Bldrs. Assn. v Town of Guilderland, 74 NY2d 372 [1989]). Field preemption occurs when a locality passes legislation concerning a subject matter that the state has shown intent to regulate pervasively (Matter of Cohen v Board of Appeals of Vil. of Saddle Rock, 100 NY2d 395 [2003]; Incorporated Vil. of Nyack v Daytop Vil., 78 NY2d 500 [1991]). A local law, encroaching upon a field in which the state has completely occupied, is automatically invalid (Matter of Chwick v Mulvey, 81 AD3d 161 [2d Dept 2010]).\nDefendant argues that Administrative Code § 19-190 is invalid because the State completely preempted the field of “operations of the New York City Transit Authority” (defendant’s amended affirmation at 10). In support, she cites Public Authorities Law §§ 1204 (5-a) and 1266 (8) as evidence of the state legislature’s intent to exclusively regulate the New York City Transportation Authority (hereinafter NYCTA).\nIn pertinent part, Public Authorities Law § 1204 (5-a) confers onto NYCTA the following power:\n“To make, amend and repeal rules governing the conduct and safety of the public as it may deem necessary, convenient or desirable for the use and operation of the transit facilities under its jurisdiction, including without limitation rules relating to the protection or maintenance of such facilities, the conduct and safety of the public, the payment of fares or other lawful charges for the use of such facilities, the presentation or display of documentation permitting free passage, reduced fare passage or full fare passage on such facilities and the protection of the revenue of the authority” (emphasis added).\nIt is difficult to believe that the state legislature intended to exempt the NYCTA from any law that even tangentially affects the operations of the authority. A plain reading of the statute reserves NYCTA’s expansive rulemaking for limited, specific purposes, the maintenance of facilities and the conduct and safety of the public who use the facilities. Administrative Code § 19-190 and Vehicle and Traffic Law § 1146 do not attempt to regulate the use and operation of transit facilities. Instead they control the conduct of all drivers by imposing the use of due care while driving. Finding otherwise would exempt the NYCTA from almost any local law so long as the ordinance has some arguable effect on the authority.\nAdditionally, defendant offers Public Authorities Law § 1266 (8) as further proof of the state legislature’s intent to exempt NYCTA from any local law interfering with its operation.\n“The authority may do all things it deems necessary, convenient or desirable to manage, control and direct the maintenance and operation of transportation facilities, equipment or real property operated by or under contract, lease or other arrangement with the authority and its subsidiaries, and New York city transit authority and its subsidiaries. Except as hereinafter specially provided, no municipality or political subdivision, including but not limited to a county, city, village, town or school or other district shall have jurisdiction over any facilities of the authority and its subsidiaries, and New York city transit authority and its subsidiaries, or any of their activities or operations. The local laws, resolutions, ordinances, rules and regulations of a municipality or political subdivision, heretofore or hereafter adopted, conflicting with this title or any rule or regulation of the authority or its subsidiaries, or New York city transit authority or its subsidiaries, shall not be applicable to the activities or operations of the authority and its subsidiaries, and New York city transit authority, or the facilities of the authority and its subsidiaries, and New York city transit authority and its subsidiaries, except such facilities that are devoted to purposes other than transportation or transit purposes.” (Public Authorities Law § 1266 [8] [emphasis added].)\nContrary to defendant’s position, Public Authorities Law § 1266 (8) makes clear the state legislature did not intend to exempt the Metropolitan Transportation Authority (hereinafter MTA) and its subsidiaries from all local laws affecting the authority’s operation. As a subsidiary of the MTA, NYCTA is given almost unfettered ability to maintain and operate the transportation facilities, equipment or real property that it possesses. This generous grant of power is limited to the upkeep of tangible physical or real property used to transport passengers. Transportation facilities are defined as:\n“Any transit, railroad, omnibus, marine or aviation facility and any person, firm, partnership, association or, corporation which owns, leases or operates any such facility or any other facility used for service in the transportation of passengers, United States mail or personal property as a common carrier for hire and any portion thereof and the rights, leaseholds or other interest therein together with routes, tracks, extensions, connections, parking lots, garages, warehouses, yards, storage yards, maintenance and repair shops, terminals, stations and other related facilities thereof, the devices, appurtenances, and equipment thereof and power plants and other instrumentalities used or useful therefor or in connection therewith.” (Public Authorities Law § 1261 [17].)\nEquipment is defined as:\n“Rolling stock, omnibuses, vehicles, air, marine or surface craft, motors, boilers, engines, wires, ways, conduits and mechanisms, machinery, tools, implements, materials, supplies, instruments and devices of every nature whatsoever used or useful for transportation purposes or for the generation or transmission of motive power including but not limited to all power houses, and all apparatus and all devices for signalling, communications and ventilation as may be necessary, convenient or desirable for the operation of a transportation facility.” (Public Authorities Law § 1261 [5].)\nRead in context with the specific definitions of terms contained in the title, it is evident that Public Authorities Law § 1266 (8) applies to the maintenance of physical or real property used for transporting patrons of the MTA and its subsidiaries, and not to any activity that may affect the operation of the NYCTA as defendant argues.\nIn People v Metro-North Commuter R.R. Co., this court dismissed an information charging the defendant, a subsidiary of the MTA, with several violations of the New York City municipal code (132 Misc 2d 1072 [Crim Ct, Bronx County 1986]). In particular the defendant was cited for violations of New York City municipal code prohibiting the operation of a motor vehicle transporting diesel fuel on a public street (1) without a required placard stating that the truck contained fuel, (2) without a fire extinguisher and (3) without a New York City Fire Department permit to transport flammable and combustible liquids. This court held that Public Authorities Law § 1266 (8) gave defendant the exclusive ability to control or direct the maintenance and operation of equipment operated by the MTA. Many of the bus and rail lines operated by the MTA use diesel as fuel. To the extent that New York City ordinances required the transport of fuel, for use by the MTA fleet, to be conducted in particular way, the MTA was exempt from those regulations.\nSimilarly, in People v Long Is. R.R., the Second Department, Appellate Term affirmed the dismissal of an information charging the Long Island Railroad, a subsidiary of the MTA, with violation of the Suffolk County Sanitary Code governing diesel emissions (90 Misc 2d 269 [App Term, 2d Dept, 9th & 10th Jud Dists 1976]). That court noted that since the Long Island Railroad, at the least, found it convenient to operate diesel trains, the subsidiary was exempt from county environmental rules that were in conflict.\nMoreover, even if Administrative Code § 19-190 and Vehicle and Traffic Law § 1146 infringed on the NYCTA’s sphere of authority, Public Authorities Law § 1266 (8) would not disqualify them. Public Authorities Law § 1266 (8) does not automatically invalidate any law that affects the operation and activities of the NYCTA, but only those that interfere “with the accomplishment of its transportation purposes” (Tang v New York City Tr. Auth., 55 AD3d 720, 720 [2d Dept 2008], quoting Bogdan v New York City Tr. Auth., 2005 WL 1161812, 2005 US Dist LEXIS 9317 [SD NY, May 17, 2005, No. 02 Civ 09587 (GEL)]; see also Matter of Levy v City Commn. on Human Rights, 85 NY2d 740, 745 [1995]).\nRequiring an NYCTA bus operator to exercise due care to avoid hitting pedestrians, crossing the road with the right-of-way, does not conflict with the accomplishment of the NYCTA’s transportation purposes. The purpose of the NYCTA is “operation of transit facilities in accordance with the provisions of this title for the convenience and safety of the public” (Public Authorities Law § 1202 [1]). Administrative Code § 19-190 and Vehicle and Traffic Law § 1146’s universal requirement for all drivers to exercise due care while driving is not only in accord with the NYCTA’s purpose, but amplifies the NYCTA’s goal of promoting the public’s convenience and safety (see People’s aff in opp dated Aug. 26, 2015, exhibit A, Fatal Injury Report).\nThis court does not find Public Authorities Law §§ 1212 or 1221 as persuasive evidence of the legislature’s intent to exempt defendant’s conduct from the reaches of Administrative Code § 19-190. Public Authorities Law § 1212 is applicable to civil litigation involving the NYCTA in tort actions. Subdivision (1) requires a plaintiff, seeking to recover against the NYCTA “for damages, for injuries to real or personal property, or for the destruction thereof, or for personal injuries or death” to make demand on the Authority for payment of his claim at least 30 days prior to initiating the action. Subdivision (2) specifies the time period in which a plaintiff must file a notice of claim and commence actions against the Authority for tort and wrongful death. Subdivision (3) mandates the Authority to indemnify its employees for negligent operation of a vehicle or facility of transportation while acting in the performance of his duties and within the scope of employment. Subdivision (4) contains notice of claim requirements and statute of limitations for claims of negligence actions. Finally, subdivision (5) allows the NYCTA to require persons seeking relief from the Authority, to submit to an examination to answer questions regarding facts relative to their claim. Nothing in the language of the statute hints that it is intended to apply in criminal prosecutions. Since no statute defendant is charged with conflicts with the provisions of title 9 of the Public Authorities Law, there is nothing for the title to supersede (see Public Authorities Law § 1221).\nThis court is perplexed about defendant’s emphasis on her warrantless arrest. Defendant is charged with several offenses, including Administrative Code § 19-190 (b), an unclassified misdemeanor. A police officer may effectuate an arrest without a warrant for a crime “when he or she has reasonable cause to believe that such person has committed such crime, whether in his or her presence or otherwise” (CPL 140.10 [1] [b]). Reasonable cause is the equivalent of constitutional probable cause (Howard v Schoberle, 907 F Supp 671 [SD NY 1995]).\nDefendant’s argument that the non-enactments of 2013 NY Assembly Bill A02012A and 2013 NY Senate Bill S03644A are clear manifestations of the state legislature’s intent to prohibit warrantless arrests for violations of the Vehicle and Traffic Law, predicated on a defendant’s failure to exercise due care, is inaccurate. Defendant takes significant effort to highlight that neither legislative proposal received a vote in its favor. However, a close inspection of the procedural history of both bills supports the contrary.\nAssembly Bill A02012A was introduced on January 9, 2013, in the New York State Assembly and was referred to the Assembly Transportation Committee. The bill was amended, assigned a new bill number and recommitted to the Transportation Committee on March 21, 2013. No more actions occurred on A02012A in 2013. The Transportation Committee never voted to pass the proposal. A bill must be voted out of committee to be even eligible for a vote before the entire chamber. On January 8, 2014, the first day of the new legislative session, the bill was referred to the Transportation Committee. Once again, the committee did not approve the bill. There is no indication that it even appeared on a committee agenda. While it is technically true that “there are no votes for this bill in this legislative session” that is only because it was never eligible for a vote. Consistent with the procedural history, “no votes for this bill in this legislative session” means that no vote was conducted on the bill.\nSenate Bill S03644A made more progress than its Assembly counterpart. Senate Bill S03644A was introduced on February 7, 2013 and referred to the Senate Transportation Committee. The Transportation Committee voted the bill out of committee on March 19, 2013. The entire chamber voted on the bill on May 21, 2013. The bill passed with 61 votes in favor, one against and one excusal. On January 8, 2014, the bill was once again referred to the Transportation Committee. On June 17, 2014, the Rules Committee discharged the bill from the Transportation Committee and then passed it. That same day the bill went to a vote before the chamber. The proposal passed, again, with 58 votes in favor, zero votes against and three ex-cusáis.\nTherefore, this court fails to see how the non-enactment of either bill is relevant. The Assembly never even considered the proposal, and the Senate actually approved it.\nConstitutional Vagueness\nA statute may be vague on two separate grounds. First, that the statute does not provide notice to “a person of ordinary intelligence . . . that his contemplated conduct is forbidden by the statute” (People v Bright, 71 NY2d 376, 382 [1988], quoting United States v Harriss, 347 US 612, 617 [1954]; People v Smith, 44 NY2d 613, 618 [1978] [citation omitted]). Second, that a statute’s application allows for arbitrary and discriminatory enforcement (Papachristou v Jacksonville, 405 US 156 [1972]; People v New York Trap Rock Corp., 57 NY2d 371 [1982]; People v Cruz, 48 NY2d 419 [1979]).\nLegislative enactments possess a strong presumption of constitutional validity (People v Demperio, 86 NY2d 549 [1995]; Matter of Van Berkel v Power, 16 NY2d 37 [1965]). A party seeking to challenge the constitutionality of a statute must overcome the presumption of validity by proof beyond a reasonable doubt (People v Tichenor, 89 NY2d 769 [1997]).\nA statute that uses terms possessing a meaning “long recognized in law and life” provides defendants with sufficient notice of what is prohibited (People v Cruz at 428). A court should give the plain meaning to statutory language unless there is an accepted, technical meaning (People v Duggins, 3 NY3d 522, 527 [2004]). However, a statute does not need precise clarity, only reasonable notice (see Grayned v City of Rockford, 408 US 104 [1972]).\nVehicle and Traffic Law § 1146\nDriving with due care is employing the care of reasonably prudent drivers (see Matter of Russell v Adduci, 140 AD2d 844 [3d Dept 1988]). Black’s Law Dictionary indicates that “due care” is synonymous with reasonable care. Reasonable care is\n“the degree of care that a prudent and competent person engaged in the same line of business or endeavor would exercise under similar circumstances. Generally, reasonable care is the application of whatever intelligence and attention one possesses for the satisfaction of one’s needs. The term is always relative, depending on the particular circumstances” (Black’s Law Dictionary [10th ed 2014], care).\nSimply put, Vehicle and Traffic Law § 1146 (a) puts one on notice that he must exercise the care of a reasonably prudent and competent driver to avoid colliding with pedestrians, cyclists, or domestic animals when driving a vehicle on any roadway. Furthermore, any driver in violation of subdivision (a) who causes a “physical injury,” as defined in the Penal Law, faces a $500 maximum fine and/or up to 15 days imprisonment. If a driver causes “serious physical injury,” as defined in the Penal Law, he faces a $750 maximum fine, and/or up to 15 days imprisonment, and/or mandatory participation in a motor vehicle accident prevention course and/or suspension of his driver’s license.\nDue care is also not so vague that it would promote arbitrary or discriminatory enforcement. In People v Bright, the Court of Appeals held a loitering statute that said “a person is guilty of loitering when he [l]oiters or remains in any transportation facility, or is found sleeping therein, and is unable to give a satisfactory explanation of his presence” as unconstitutionally vague (71 NY2d 376, 382 [1988]). In that case, a police officer approached the defendant inside of Pennsylvania Station. The officer asked the defendant if he had a ticket to a train or intended to take a train. The defendant answered no to both questions. Then, after failing to produce identification, the defendant was arrested for loitering. In People v Clark, a companion case, that defendant was arrested for loitering in the Port Authority Bus Terminal when he was unable to give a satisfactory reason for being in the Terminal. The court held that the statute promoted arbitrary enforcement because it allowed a police officer to determine whether a person has satisfactorily explained his presence (id. at 385). Additionally, the statute gave no guidance on what kind of conduct gives rise to a suspicion of loitering. Therefore, if an officer observed a person waiting for his departure, the officer would also have the discretion to stop and question the individual (id. at 387).\nIn the instant matter, concern of arbitrary enforcement is not present. In order to be charged with a violation of Vehicle and Traffic Law § 1146 (a) a driver of a vehicle must collide with a pedestrian, bicycle or domestic animal upon any roadway without exercising due care. A violation of Vehicle and Traffic Law § 1146 (b) (1) includes the additional requirement that a driver causes physical injury. A violation of Vehicle and Traffic Law § 1146 (c) (1) is appropriate when a driver’s failure to exercise due care inflicts serious physical injury. In this case, defendant drove faster than the NYCTA recommended speed and killed a pedestrian who had the right-of-way.\nLikewise, Administrative Code § 19-190 is not unconstitutionally vague. It provides reasonable notice of what conduct is prohibited. Administrative Code § 19-190 (a) states that a driver of a motor vehicle who fails to yield to a pedestrian or bicyclist, who has the right-of-way, shall be guilty of a traffic infraction. To be guilty of violating Administrative Code § 19-190 (b), a person must satisfy the conditions of Administrative Code § 19-190 (a) and also make contact with a pedestrian or bicyclist causing “physical injury” as defined in the Penal Law. Violations of either subdivision (a) or (b) require a driver’s failure to exercise due care. As discussed previously “due care” is sufficiently clear in meaning to provide notice of what is prohibited and gives clear guidance for enforcement.\nDismissal in the Interest of Justice\nDefendant moves for dismissal of the information in the interest of justice pursuant to CPL 170.30 (1) (g). Criminal Procedure Law § 170.40 (1) provides that a court, in its discretion, may dismiss an information when there exists “some compelling factor, consideration or circumstance clearly demonstrating that conviction or prosecution of the defendant upon such accusatory instrument or count would constitute or result in injustice.” When deciding a motion to dismiss in the interest of justice, a court considers 10 statutorily-provided factors. A court may summarily deny a motion to dismiss in the interest of justice when a defendant fails to meet his burden of demonstrating, by a preponderance of the evidence, that a compelling factor exists to warrant dismissal (People v Schlessel, 104 AD2d 501 [2d Dept 1984]).\nDefendant has not alleged any facts nor provided any arguments in support of her motion to dismiss pursuant to CPL 170.30 (1) (g), let alone met her burden. Therefore, defendant’s motion to dismiss in the interest of justice is denied.\nFor the foregoing reasons defendant’s motion to dismiss the Vehicle and Traffic Law § 1142 (b) count is granted. The People have 30 days leave to file a superseding information. The remainder of her motion is denied. The court has considered defendant’s other arguments and finds them to be without merit.\n. The MUTCD can be viewed, in its entirety, at https://www.dot.ny.gov/ divisions/operating/oom/transportation-systems/traffic-operations-section/ muted (last accessed Sept. 28, 2015). The New York State Supplement to the MUTCD can also be found on the same website, or in 17 NYCRR chapter V. Chapter 2B of the MUTCD provides exacting specifications for the use of regulatory signs, barricades, and gates as traffic control devices. The classification of all alphanumeric sign series may be referenced in table 2B-1. Visual representations of all sign series are contained in figures 2B-1 to 2B-32.\n. Federal Highway Administration, Manual on Uniform Traffic Control Devices § 2B.11 (2009); see id. Figure 2B-2.\n. Federal Highway Administration, Manual on Uniform Traffic Control Devices § 2B.12 (2009); see id. Figure 2B-2.\n. See 17 NYCRR 2B.11 (declines the use of Rl-5a, Rl-5b and Rl-5c signs); 17 NYCRR 2B.12 (declines the use of Rl-6a and Rl-9a signs).\n. Penal Law § 10.00 (9).\n. Penal Law § 10.00 (10).\n. Penal Law § 10.00 (9).\n. These factors are:\n“(a) the seriousness and circumstances of the offense; (b) the extent of harm caused by the offense; (c) the evidence of guilt, whether admissible or inadmissible at trial; (d) the history, character and condition of the defendant; (e) any exceptionally serious misconduct of law enforcement personnel in the investigation, arrest and prosecution of the defendant; (f) the purpose and effect of imposing upon the defendant a sentence authorized for the offense; (g) the impact of a dismissal on the safety or welfare of the community; (h) the impact of a dismissal upon the confidence of the public in the criminal justice system; (i) where the court deems it appropriate, the attitude of the complainant or victim with respect to the motion; and (j) any other relevant fact indicating that a judgment of conviction would serve no useful purpose” (CPL 170.40 [1] [a]-|jD.",
+        "type": "majority",
+        "author": "Mary V. Rosado, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Armienti, DeBellis, Guglielmo & Rhoden (Harriet Wong of counsel) for defendant.",
+      "Robert T. Johnson, District Attorney (.Amy M. Hail of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[18 NYS3d 280]\nThe People of the State of New York, Plaintiff, v Theresa Gallagher, Defendant.\nCriminal Court of the City of New York, Brome County,\nSeptember 28, 2015\nAPPEARANCES OF COUNSEL\nArmienti, DeBellis, Guglielmo & Rhoden (Harriet Wong of counsel) for defendant.\nRobert T. Johnson, District Attorney (.Amy M. Hail of counsel), for plaintiff."
+  },
+  "file_name": "2061-01",
+  "first_page_order": 341,
+  "last_page_order": 356
+}

@@ -1,0 +1,325 @@
+{
+  "id": 4068306,
+  "name": "In the Matter of State of New York, Petitioner, v. Angel A., Respondent",
+  "name_abbreviation": "State v. Angel A.",
+  "decision_date": "2015-11-09",
+  "docket_number": "",
+  "first_page": "446",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 446"
+    },
+    {
+      "type": "parallel",
+      "cite": "19 N.Y.S.3d 702"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "24 NY3d 649",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0649-01"
+      ]
+    },
+    {
+      "cite": "44 Misc 3d 338",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4108405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/44/0338-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 150",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4114624
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "163"
+        },
+        {
+          "page": "163"
+        },
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0150-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 72",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4366902
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "78"
+        },
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/0072-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 25367",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 NY3d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752826
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "110"
+        },
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0099-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50302",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 1225",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 AD3d 1213",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4355842,
+        4360459
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/1213-02",
+        "/ad3d/124/1213-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 1004",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4365596,
+        4367237
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/1004-02",
+        "/ad3d/132/1004-01"
+      ]
+    },
+    {
+      "cite": "123 AD3d 464",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4340224,
+        4341890,
+        4338644
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0464-01",
+        "/ad3d/123/0464-02",
+        "/ad3d/123/0464-03"
+      ]
+    },
+    {
+      "cite": "70 AD3d 917",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3968420
+      ],
+      "pin_cites": [
+        {
+          "page": "919"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/70/0917-01"
+      ]
+    },
+    {
+      "cite": "74 AD3d 1209",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5744581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/1209-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004708
+      ],
+      "weight": 20,
+      "pin_cites": [
+        {
+          "page": "190"
+        },
+        {
+          "page": "177, 190"
+        },
+        {
+          "page": "186"
+        },
+        {
+          "page": "186"
+        },
+        {
+          "page": "180"
+        },
+        {
+          "page": "187"
+        },
+        {
+          "page": "178"
+        },
+        {
+          "page": "180"
+        },
+        {
+          "page": "178"
+        },
+        {
+          "page": "187"
+        },
+        {
+          "page": "187-188"
+        },
+        {
+          "page": "188"
+        },
+        {
+          "page": "200"
+        },
+        {
+          "page": "201"
+        },
+        {
+          "page": "188"
+        },
+        {
+          "page": "188"
+        },
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1201,
+    "char_count": 34644,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.12897701757901717
+    },
+    "sha256": "762e468a7ff0d2ae12bd8697720dc2b81e365bdd0baace4b9ce32ea6387bc4bf",
+    "simhash": "1:fcfa4cd17880824b",
+    "word_count": 5627
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of State of New York, Petitioner, v Angel A., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDineen A. Riviezzo, J.\nRespondent Angel A. is the subject of a petition for sex offender civil management pursuant to article 10 of the Mental Hygiene Law. On October 3, 2014, following a jury trial presided over by Hon. Wayne Ozzi, respondent was found to be a detained sex offender who suffers from a mental abnormality under the statute. Judge Ozzi was reassigned to another county and this matter has been assigned to this court for a dispositional hearing pursuant to Mental Hygiene Law § 10.07 (f).\nRespondent now moves for an order to set aside the jury’s verdict, dismissing the petition, based on the following grounds: (1) that the “trial court erred in allowing evidence that [respondent] suffered from a[n] antisocial personality disorder to support a finding that he has a mental abnormality as defined by MHL Section 10.03 (i)”; (2) that “pursuant to Michael M. the case should be dismissed for failure of the Petitioner to demonstrate at trial that the respondent was unable to control his sexual conduct to the extent that he was likely to be a danger to others”; and (3) that respondent’s court-appointed psychiatric examiner “erroneously and prematurely reached a conclusion of MA (during SIST review) and has now made his current findings comport to the erroneous findings” (affirmation of respondent’s counsel ¶¶ 4-7). Respondent seeks, in the alternative, an order appointing a third psychiatric examiner. The State opposes the motion in its entirety.\nThe court has considered the petition, and all relevant exhibits, the trial testimony of the respondent and the State’s expert, Lawrence Siegel, M.D., and the submissions of both parties upon this motion, as well as the recent precedent of Matter of State of New York v Donald DD. (24 NY3d 174 [2014]). For the reasons set forth below, the court denies respondent’s motion in its entirety.\nFactual and Procedural Background\nRespondent was convicted, by a plea of guilty, on December 10, 1997 in Kings County of one count of sodomy in the first degree (Penal Law § 130.50 [3] [sexual contact with a person less than 11 years of age]). The plea was in full satisfaction of an indictment for the charges of 26 counts of sodomy in the first degree, 44 counts of sexual abuse in the first degree, five counts of assault in the second degree, and five counts of assault in the third degree. Respondent was sentenced to a determinate sentence of 10 years’ incarceration. According to the petition, from January 1995 through December 1996 respondent subjected the nine-year-old daughter of his girlfriend to sexual contact, including placing his penis in the child’s mouth, rubbing his penis against and in her vagina, and rubbing her vagina with his hand. It is also alleged that respondent punched and slapped the child in the face and head.\nIn 1990, respondent was previously convicted, by a plea of guilty, of sexual abuse in the first degree (Penal Law § 130.65 [3] [sexual contact with a person less than 11 years of age]). Respondent was sentenced to an indeterminate sentence of 2V2 to 5 years’ incarceration. According to the petition, respondent had sexual contact with his live-in girlfriend’s five- and six-year-old daughters. It was reported that at least one of the children contracted a sexually transmitted disease as a consequence of the sexual assaults.\nUpon nearing his release date, respondent was initially held pursuant to article 9, also known as the Pataki civil confinement initiative. However, article 10 of the Mental Hygiene Law was enacted in 2007 and it was held that respondent’s conviction qualified him as a detained sex offender (Matter of State of New York v Angel A., 74 AD3d 1209 [2d Dept 2010]). Thus, respondent was served with notice that he had been referred to a case management team for psychiatric evaluation. After a psychiatric examination of the respondent, the case management team concluded that respondent was a sex offender requiring civil management. Specifically, respondent was diagnosed with the following disorders or conditions: Axis I: pedophilia, alcohol abuse, cannabis abuse, and cocaine abuse; Axis II: antisocial personality disorder (ASPD).\nThe case team recommended civil management and the State commenced this proceeding in Oneida County Supreme Court by serving and filing an order to show cause and petition. On January 9, 2008, upon motion by respondent, the court transferred venue of this matter to Kings County Supreme Court, the county of the underlying criminal sexual offense. A probable cause hearing was conducted before Hon. Deborah Dowling on July 24, 2008. By decision and order dated August 18, 2008, the court found probable cause to believe that respondent suffers from a mental abnormality which predisposes him to engage in sexually offending conduct, that the respondent is presently a dangerous sex offender, and there are no lesser conditions of confinement which would protect the community during pendency of the proceeding. On October 3, 2014, a jury trial was conducted before Hon. Wayne Ozzi and the jury unanimously found that respondent currently suffers from a mental abnormality.\nAt trial, the State offered the testimony of Lawrence Siegel, M.D. Dr. Siegel testified that he reviewed substantial records of the respondent, including but not limited to records from police departments, probation agencies, correctional facilities and psychiatric facilities (Siegel tr at 60). Dr. Siegel also reviewed treatment reports from New York State Office of Mental Health (OMH) employees and case review teams (Siegel tr at 60). Dr. Siegel initially evaluated respondent in 2008 by completing a review of his records, since the respondent refused to meet with him (Siegel tr at 60). Thereafter, in November 2009, Dr. Siegel met with respondent to conduct an interview that lasted l3At hours, and in February 2012 they met for a follow-up interview for one hour (Siegel tr at 61). In March 2012, Dr. Siegel met with respondent again to administer a neuropsychological test (Siegel tr at 61).\nDr. Siegel testified at trial that as a result of his review of the records and based on his interviews and neuropsychological test, he diagnosed respondent with pedophilic disorder, a substance abuse problem in remission, and personality disorder with antisocial features (Siegel tr at 106, 122). *Dr. Siegel further opined that respondent had serious difficulty in controlling his sexual urges. Respondent testified on his own behalf and admitted that he abuses children ages five to eight, that his attraction to young female children never leaves, and that it can only be managed (respondent tr at 395). While he denied any sexual urges for children currently, or in the last few years, respondent admitted to fantasizing about children when masturbating (respondent tr at 335). Respondent also admitted that he is confrontational and can display anger at times (respondent tr at 329, 338).\nStandard on Motion\nA trial court may set aside a jury verdict pursuant to CPLR 4404 (a) where a party is entitled to judgment as a matter of law. To order such a dismissal, the court must find there is “no valid line of reasoning and permissible inferences which could possibly lead rational [persons] to the conclusion reached by the jury on the basis of the evidence presented at trial” (Rodgers v New York City Tr. Auth., 70 AD3d 917, 919 [2d Dept 2010]). The court, therefore, examines respondent’s motion based on this standard.\nDiscussion\nEvidence of ASPD at Trial\nRespondent argues that the trial court erred in allowing evidence of respondent’s original diagnosis of ASPD and of his more recent diagnosis by Dr. Siegel of “personality disorder with anti-social features” to support a finding that he has a mental abnormality as defined by Mental Hygiene Law § 10.03 (i). In Donald DD., the Court of Appeals ruled that evidence that a respondent suffers from ASPD cannot be used to support a finding that he has a “mental abnormality,” as defined by the Mental Hygiene Law, when that diagnosis is not accompanied by “any other diagnosis of mental abnormality” (Matter of State of New York v Donald DD., 24 NY3d 174 [2014]). Contrary to respondent’s argument, the Court did not reject the ASPD diagnosis as unreliable, but rather expressed concern that the diagnosis of ASPD alone, when not combined with evidence of another condition, disease or disorder, does not differentiate the “sex offender whose mental abnormality subjects him to civil commitment from the typical recidivist convicted in an ordinary criminal case” (Donald DD., 24 NY3d at 190; see also Matter of State of New York v I.M., 123 AD3d 464 [1st Dept 2014]; Matter of State of New York v Odell A., 132 AD3d 1004 [2d Dept 2015]; Matter of Groves v State of New York, 124 AD3d 1213 [4th Dept 2015]).\nHere, respondent’s diagnosis of a personality disorder was accompanied by a diagnosis of pedophilic disorder which can clearly form the basis of a finding of a mental abnormality (see Matter of State of New York v Floyd Y., 46 Misc 3d 1225[A], 2015 NY Slip Op 50302 [U], *20 [Sup Ct, NY County, Mar. 10, 2015, Conviser, J.]). Therefore, the court holds that the trial court did not err in allowing at trial evidence of respondent’s diagnosis of a personality disorder and respondent is, therefore, not entitled to have the jury verdict vacated or the petition dismissed on these grounds.\nEvidence of Inability to Control Sexual Conduct\nRespondent further argues that the State failed to demonstrate at trial that respondent “was unable to control his sexual conduct.” The Court of Appeals’ decision in Donald DD. & Kenneth T. is controlling. In Kenneth T. (24 NY3d 174 [2014]), the Court of Appeals dismissed the petition based on insufficient evidence that respondent had serious difficulty controlling his sexual misconduct, a necessary finding under Mental Hygiene Law § 10.03 (i). In doing so, the Court criticized the quality of the limited evidence that was presented by the State on this issue. Before applying Kenneth T. to the facts of this case, the court will detail its understanding of the holding in Kenneth T.\nAs a threshold matter, the Court of Appeals first considered the diagnoses that the State asserted formed the basis of Kenneth T.’s mental abnormality, namely ASPD and paraphilia, not otherwise specified (paraphilia, NOS). As discussed above, the Court of Appeals in the companion case of Donald DD. held that a diagnosis of ASPD could not form the basis of a mental abnormality for purposes of Mental Hygiene Law article 10 when that diagnosis is not accompanied by “any other diagnosis of mental abnormality” (Donald DD., 24 NY3d at 177, 190). Concerning paraphilia, NOS, the Court called it a “controversial diagnosis” that is only in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V) as “a catch-all category for paraphilias that are not specifically enumerated elsewhere” (Donald DD., 24 NY3d at 186 [internal quotation marks omitted]). The Court even endorsed the dissenting view in Matter of State of New York v Shannon S., that the diagnosis of paraphilia, NOS “amount [ed] to junk science devised for the purpose of locking up dangerous criminals” and expressed “grave doubt” that it would ever survive a Frye hearing (Donald DD., 24 NY3d at 186, citing Matter of State of New York v Shannon S., 20 NY3d 99, 110 [2012]; but see Matter of State of New York v Mercado, 2015 NY Slip Op 25367 [Sup Ct, Kings County, Aug. 11, 2015, Riviezzo, J.]). The Court concluded that, because a Frye hearing had not been requested or held, it could not reach that question in this opinion. To this court, when accessing the import of the Kenneth T. decision, the Court of Appeals’ analysis of “serious difficulty controlling sexual misconduct” must be viewed in the context of the Court’s opinion that the additional diagnosis of paraphilia, NOS, is insufficient to form the basis of a mental abnormality in the first instance.\nAs to the issue of whether Kenneth T. had serious difficulty controlling his sexual misconduct, the Court characterized the State’s evidence on this issue as “two factors” gleaned from the facts surrounding the sexual offenses (Kenneth T, 24 NY3d at 180). The Court held that these two inferences, that the State’s expert drew from the facts, were legally insufficient. The first inference drawn by the State’s expert in support of his opinion that respondent had serious difficulty controlling his sexual misconduct is the fact that respondent “carried out both offenses in a way that would allow for identification by his victims” (Kenneth T., 24 NY3d at 187). Specifically, the State’s expert testified that respondent committed the first rape of a 17 year old on the rooftop in the neighborhood in which he frequented and afterwards wore the victim’s coat which aided in his identification. Further, respondent committed the second rape of a university student who could easily identify him as an employee of her university’s cafeteria (Kenneth T., 24 NY3d at 178).\nAs to the second inference concerning serious difficulty controlling sexual misconduct, the State’s expert pointed to the fact that the respondent “attempted the second rape despite having spent some 17 years in prison for the earlier crime” (Kenneth T., 24 NY3d at 180). Specifically, the expert testified that after serving a 17-year sentence for the first rape, Kenneth T. was conditionally released to parole and committed the second rape of the university student only one year later (Kenneth T., 24 NY3d at 178).\nThe Court of Appeals held that “[i]t is evident that circumstances of this nature are insufficient to show, by clear and convincing evidence, that a person has serious difficulty in controlling his sexual urges within the meaning of Mental Hygiene Law § 10.03 (i)” (Kenneth T., 24 NY3d at 187). The Court explained that neither the length of one’s prison sentence that precedes the commission of a second rape, nor the manner in which a rape is committed to either conceal or risk exposure of one’s identity, speaks to whether the offender intentionally acts upon an opportunity to rape or, in fact, has serious difficulty in controlling his sexual misconduct (Kenneth T., 24 NY3d at 187-188). The Court continued:\n“ [I] t is rarely if ever possible to say, from the facts of a sex offense alone, whether the offender had great difficulty in controlling his urges or simply decided to gratify them, though he knew he was running a significant risk of arrest and imprisonment.\n“We do not decide on this occasion from what sources sufficient evidence of a serious difficulty controlling sex-offending conduct may arise, but they cannot consist of such meager material as that a sex offender did not make efforts to avoid arrest and reincarceration.” (Kenneth T., 24 NY3d at 188.)\nWhen read in its entirety, this court believes that the Court of Appeals was concerned that if the only conclusion or inference extrapolated from the facts of sexual offenses is that the person failed to make efforts to avoid arrest and imprisonment, then that evidence alone is insufficient to support a finding of a serious difficulty in controlling sexual misconduct. Because this court reads Kenneth T. to be limited to the two inferences that the Court of Appeals specifically rejected concerning “arrest and imprisonment,” this court respectfully does not agree with the concurring opinion in Kenneth T. that the majority created “an impossible standard” (Kenneth T., 24 NY3d at 200; but see Matter of State of New York v Floyd Y., 46 Misc 3d 1225[A], 2015 NY Slip Op 50302[U], *1-2 [Sup Ct, NY County, Mar. 10, 2015, Conviser, J.]). The Court of Appeals did not hold that the State cannot draw inferences about respondent’s volition or intent from his conduct (but see Matter of State of New York v Floyd Y., 46 Misc 3d 1225[A], 2015 NY Slip Op 50302[U], *20 [Sup Ct, NY County, Mar. 10, 2015, Conviser, J.]). Rather, the Court merely held that in the case of Kenneth T. these two inferences about “arrest and imprisonment” drawn from the facts, when weighed against the competing inferences, did not meet the burden by clear and convincing evidence.\nAs to the first inference, this court concurs with the Kenneth T. majority that evidence that the respondent did not attempt to evade arrest says very little about his serious difficulty controlling his sexual misconduct. To be sure, this inference is not compelling when so few criminals actually make any meaningful effort to conceal their identity and avoid arrest even despite the increasingly common occurrence of video surveillance on almost every street corner and the posting of crimes on social media.\nAs to the second inference concerning re-offending after incarceration or the imposition of criminal sanctions and what that says about a difficulty controlling sexual misconduct, this court does agree with the concurring opinion in Kenneth T. that “the circumstances surrounding the recurrence of criminal sexual conduct despite the prior imposition of severe sanctions for similar behavior are factors that are directly relevant to evaluating whether an offender struggles to control his sexual conduct” (Kenneth T., 24 NY3d at 201). In fact, this very inference was drawn in Matter of State of New York v Shannon S. (20 NY3d 99 [2012]). In Shannon S., the Court of Appeals specifically held that the State had met its burden to prove that respondent had a mental abnormality that involved “such an inability to control behavior” based, in part, upon the State’s evidence that respondent committed three sexual offenses against pubescent females within six years “despite numerous criminal sanctions” (Shannon S., 20 NY3d at 108). The Kenneth T. Court expressly did not overrule Shannon S. and thus, Shannon S. is still binding precedent.\nThe Court of Appeals, in Kenneth T., did indicate that sufficient evidence to determine an offender’s serious difficulty in controlling his sexual impulses could be found in a “detailed psychological portrait of a sex offender” (Kenneth T., 24 NY3d at 188). While the Court did not define what a detailed psychological portrait would consist of, the Court cited just one conclusory statement testified to by the State’s expert that alone was insufficient to qualify as such, namely: that the respondent “lacked internal controls such as a conscience that might curb his impulses” (Kenneth T., 24 NY3d at 188 [internal quotation marks omitted]).\nSince Kenneth T, the Appellate Division, Third Department, has addressed the question of what constitutes a “detailed psychological portrait” of a respondent sufficient to prove serious difficulty controlling sexual urges by clear and convincing evidence (Matter of State of New York v Richard TT., 132 AD3d 72 [3d Dept 2015]). In Richard TT., the Third Department held that Donald DD. did not require dismissal when evidence of a diagnosis of borderline personality disorder, in addition to ASPD, was offered as evidence of mental abnormality (Richard TT., 132 AD3d at 78). Concerning serious difficulty controlling sexual misconduct, the Court held that the State’s expert, who had interviewed the respondent and reviewed his extensive institutional and treatment records, formed a “detailed psychological portrait” relying in part on the inference drawn from re-offending after the imposition of criminal sanctions (Richard TT., 132 AD3d at 78). Specifically, the court noted that “[a]side from the obvious fact that respondent has repeatedly victimized children despite sanctions for that behavior, respondent has expressed a lack of understanding as to what consensual sex is,” while also admitting to fantasizing about young girls (Richard TT., 132 AD3d at 78 [emphasis added]). Further, the Court relied on the fact that the respondent failed to complete sex offender treatment despite numerous attempts, suggesting that he had not brought his sexual urges under control, nor had he developed any meaningful strategies for dealing with them (Richard TT., 132 AD3d at 78). In this court’s estimation, Richard TT. instructs us that a “detailed psychological portrait” can include the facts of the sexual offense and might very well include the types of inferences reached in Kenneth T., as long as there are more than just the two inferences that were drawn in that case (Richard TT., 132 AD3d at 78).\nApplying Kenneth T. and Richard TT. to the instant matter, first, respondent here is diagnosed with pedophilic disorder. The DSM-V states that “pedophilia per se appears to be a lifelong condition” and notes that there is “an interaction between pedophilia and antisociality; such that males with both traits are more likely to act out sexually with children” (DSM-V at 699). In addition, the State’s expert, Dr. Siegel, testified that pedophilia is a “chronic disorder,” that pedophiles continue to like the same types of sexual objects (Siegel tr at 100, 106). Thus, pedophilic disorder is a diagnosis, unlike ASPD, in that standing alone it can form the basis of a mental abnormality because it predisposes one to the commission of sex offenses (see Matter of State of New York v Floyd Y., 46 Misc 3d 1225 [A], 2015 NY Slip Op 50302 [U], *22 [Sup Ct, NY County, Mar. 10, 2015, Conviser, J.]). Moreover, unlike paraphilia, NOS, the diagnosis of pedophilic disorder cannot be discounted as “junk science” or as a diagnosis created for use in sexually violent predator proceedings (but see Matter of State of New York v Mercado, 2015 NY Slip Op 25367 [Sup Ct, Kings County, Aug. 11, 2015, Riviezzo, J.]).\nSimilar to Richard TT., Dr. Siegel conducted a “detailed psychological portrait” of the respondent. He reviewed respondent’s extensive records, conducted in-person interviews with respondent on two occasions for almost three hours, and administered a neuropsychological exam. Dr. Siegel was in a position to examine and evaluate respondent’s behaviors and was able to measure respondent’s progress, or lack thereof, from Dr. Siegel’s 2008 review of respondent’s records, through 2009 during the first interview, to 2012 during the second interview (Siegel tr at 122). Dr. Siegel relied upon numerous factors as evidence of respondent’s current serious difficulty controlling his sexual urges, in addition to respondent’s criminal history and the accounts of the two sexual offenses for which he was convicted (Siegel tr at 68-71).\nSignificant to Dr. Siegel’s conclusions were the respondent’s many admissions concerning his sexual urges: that he was sexually aroused to children and that he maintained an erection and orgasm while he was sexually abusing children, a fact which was further corroborated by the child victims who reported that he ejaculated during the offense (Siegel tr at 72-77); respondent’s admission that he purposely befriended women with daughters when, in fact, he had a choice of dating a woman with sons (Siegel tr at 74); that he “groomed” his victims—meaning he planned out ways to gain their trust (Siegel tr at 78); that he continued to think sexually about the children while he was incarcerated (Siegel tr at 84); and that as late as 2010 he acknowledged masturbating as thoughts of children came into his mind (Siegel tr at 88). Further, respondent acknowledged much of his continued sexual urges for children during his trial testimony when he testified that his attraction to young female children never leaves (respondent tr at 395). These admissions by the respondent both to Dr. Siegel and at trial, are in stark contrast to the single admission rejected by the Kenneth T. Court, the source of which was the probable cause hearing that occurred two years prior to the trial (Kenneth T., 24 NY3d at 188).\nAs further evidence that respondent remains an impulsive individual who will have serious difficulty controlling his behavior, Dr. Siegel pointed to respondent’s behavior while confined in the OMH facilities. Respondent’s infractions included possession of a cell phone and a DVD with sexual material—women clad in bikinis (Siegel tr at 95). When caught with a photo of a young girl with “sexy baby” and “lips popping” written on it, respondent attempted to excuse the infraction by claiming that the girl in the picture was his “daughter” (Siegel tr at 91, 169). Respondent also engaged in confrontational and argumentative behavior while at the OMH facility, including an infraction in 2014 for biting another resident in the bathroom (Siegel tr at 92, 105, 268). Dr. Siegel opined that respondent “has serious problems controlling his anger and controlling his interactions with others since he entered treatment facilities” (Siegel tr at 124).\nAs in Richard TT., Dr. Siegel also found it significant that respondent has not successfully completed sex offender treatment despite long-term incarceration (Siegel tr at 109). In fact, respondent had completed only two levels of a five-level treatment program (Siegel tr at 109). Dr. Siegel actually opined that respondent had regressed in his treatment from 2009 to 2012 since respondent refused to acknowledge his “deviant arousal” in 2012 that he had previously acknowledged in 2009 (Siegel tr at 100). Further, respondent disavowed to Dr. Siegel his statements written in the progress notes by OMH staff indicating that he was making progress—such as his acknowledgment that since starting medication he was masturbating and thinking of sex less often (Siegel tr at 93, 99). Dr. Siegel opined that respondent needs to learn how to manage his disorder and avoid acting on his impulses (Siegel tr at 100, 122-123). Dr. Siegel acknowledged that after a certain age a pedophile may not be able to function sexually and may effectively not be interested in sex. However, he concluded that respondent has not reached that point (Siegel tr at 123). In sum, Dr. Siegel found that respondent has a “sexual attraction to children and . . . thinks he would have serious problems controlling his behavior as he’s had controlling his behavior while he’s been in treatment over the last eight years” (Siegel tr at 122).\nThe only other Appellate Division case decided post-Kenneth T. that fully considers the issue of what evidence is sufficient to support a finding of “serious difficulty controlling sexual misconduct,” by clear and convincing evidence, is the First Department case of Matter of State of New York v Frank P. (126 AD3d 150 [2015]). In Frank P, the First Department reversed a finding of mental abnormality on the grounds that the State failed to prove by clear and convincing evidence that respondent “has or will have serious difficulty controlling his behavior” (Matter of State of New York v Frank P, 126 AD3d 150, 152 [2015]). Frank P., a 67-year-old man, had been convicted of raping and sodomizing four women in four separate home invasions over 30 years prior to the commencement of the article 10 proceedings. Like in Kenneth T., Frank P. was diagnosed at trial with ASPD and paraphila, NOS. The Court stated that “[n] either of the two state experts . . . conducted a quantified analysis of the factors that led to their individual conclusions” that paraphilia, NOS “resulted in respondent’s serious difficulty in controlling his sexual behavior” (Matter of State of New York v Frank P., 126 AD3d 150, 163 [2015]). Instead, the Court stated that “both State experts opined in a conclusory fashion” (id.). The Frank P. Court held that “drawing a conclusion that a respondent has a volitional impairment from only a diagnosis of sexual abnormality” violated Donald DD. (id.). Here, as demonstrated above, Dr. Siegel did not conclude from the diagnoses alone that the respondent had serious difficulty controlling his sexual misconduct, but rather, in part, also relied upon respondent’s conduct in the OMH facility and respondent’s many admissions concerning his ongoing sexual urges.\nThe Frank P. Court indicated that the only additional evidence of respondent’s volitional impairment, other than just the diagnoses themselves, was two inferences the State’s experts made based upon respondent’s hostility towards the criminal justice system and his continued assertions that the sex with the victims was consensual. The Court held that based upon Donald DD., “the inferences that logically flow from such evidence are insufficient to support a determination, under the clear and convincing evidence standard, that respondent has or will have serious difficulty controlling his sexual behavior” (Matter of State of New York v Frank P., 126 AD3d 150, 163 [2015]). Significant to the Court’s conclusion was the fact that in 33 consecutive years in prison, “there [was] no evidence that he engaged in any inappropriate sexual behavior during that prolonged period to suggest that he had serious difficulty controlling his behavior in such an environment” (id.). Rather, the court noted that respondent had voluntarily attended anger management and sex offender treatment programs while in prison. Here, once again Dr. Siegel testified that respondent did not complete sex offender treatment, but in fact, had regressed in his treatment while also engaging in infractions of a sexual nature as recently as 2010 in the OMH facility.\nThus, as detailed above, Dr. Siegel “conducted a quantified analysis of the factors that led to [his] conclusions” and did not reach an “opinion] in a conclusory fashion” based only upon “a diagnosis of sexual abnormality” (Matter of State of New York v Frank P., 126 AD3d 150, 163 [2015]). This court finds the State’s expert developed a “detailed psychological portrait” of respondent sufficient to determine that respondent has serious difficulty in controlling his sexual misconduct within the meaning of Mental Hygiene Law § 10.03. Thus, the State met its burden by clear and convincing evidence and this court will not vacate the jury’s verdict.\nRespondent’s Psychiatric Examiner\nMental Hygiene Law § 10.06 (e) requires the court, upon request of respondent, to appoint a psychiatric examiner of his choice to evaluate him and to be paid by the State. Here, the court appointed, at the request of respondent’s counsel, Dr. Joseph Plaud, Ph.D., who provided a written report concluding that respondent does not suffer from a mental abnormality. Dr. Plaud became unavailable to testify on behalf of respondent and a second psychiatric examiner, Dr. Roy Aranda, Ph.D., was appointed by the court. Dr. Aranda, in two written reports, opined that respondent has a mental abnormality. Respondent now moves to set aside the jury verdict taking issue with Dr. Aranda and mounting an argument that in its entirety is the following: “Respondent asserts that the appointed doctor (Aranda) erroneously and prematurely reached a conclusion of MA (during SIST review) and has now made his current findings comport to the erroneous findings” (affirmation of respondent’s counsel ¶ 6).\nRespondent’s argument can be interpreted in two ways: (1) Dr. Aranda should not have opined about whether or not respondent had a mental abnormality when he was only asked to opine on his eligibility for SIST; or (2) Dr. Aranda was not asked to opine about SIST at all, but to replace Dr. Plaud in determining whether respondent had a mental abnormality.\nIn the first paragraph of his first report, Dr. Aranda explains that respondent requested that he opine as to whether or not respondent was eligible for SIST. Nothing in that request precluded Dr. Aranda from finding that respondent did not have a mental abnormality if, in fact, he believed to a degree of scientific certainty that respondent did not. Further, his report does not indicate that he was “assuming” respondent had a mental abnormality for purposes of the requested SIST review. Thus, Dr. Aranda must have concluded that respondent had a mental abnormality, and it is immaterial whether or not he did so in the context of also determining respondent’s eligibility for SIST. To the extent that respondent appears to be arguing that Dr. Aranda falsified his second report to comport with his first report, respondent has provided no evidence to support that allegation.\nNonetheless, the fact that respondent’s court-appointed psychiatric examiner twice reached a conclusion that respondent had a mental abnormality is not grounds to set aside the jury verdict or dismiss the petition. As the State argues, respondent’s expert, Dr. Aranda, was not called to testify at trial.\nTo the extent that respondent now seeks to have this court appoint a third expert witness to examine respondent, that motion is denied. Respondent is only entitled to one evaluation to be paid by the State pursuant to the plain language of the statute (see Mental Hygiene Law § 10.06 [e]; Matter of State of New York v William F., 44 Misc 3d 338 [Sup Ct, NY County, May 13, 2014, Conviser, J.]; State of New York v Charles Gerena, Sup Ct, Suffolk County, Oct. 17, 2008, Pitts, J., index No. 10322-2008). It is reasonable that respondent was provided with a second examiner when his first expert was unavailable for trial. However, respondent can not now be provided with a third expert at the State’s expense because he does not agree with the opinions and findings of his most recent expert. Accordingly, respondent’s request for an expert to be appointed by the court is denied.\nConclusion\nRespondent’s motion to vacate the jury verdict and dismiss the petition is denied.\nRespondent’s motion for the court to appoint a third psychiatric examiner is also denied.\n. Dr. Siegel testified that he did not see evidence of conduct disorder before the age of 15, a prerequisite to a diagnosis of ASPD, and therefore diagnosed the respondent with the related personality disorder (Siegel tr at 105-106).\n. Respondent relies on Matter of State of New York v Michael M. (24 NY3d 649 [2014]) in support of this argument. However, Michael M. concerned the standard to be applied by the court when revoking respondent’s placement on strict and intensive supervision and treatment (SIST) and ordering confinement which is when the State would be required to prove “that respondent is likely to be a danger to others” (affirmation of respondent’s counsel ¶ 7), a completely different procedural posture than in the instant case. Therefore, Michael M. does not apply.",
+        "type": "majority",
+        "author": "Dineen A. Riviezzo, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Wayne Bodden, Brooklyn, for respondent.",
+      "Eric T. Schneiderman, Attorney General, New York City (Donald Leo of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[19 NYS3d 702]\nIn the Matter of State of New York, Petitioner, v Angel A., Respondent.\nSupreme Court, Kings County,\nNovember 9, 2015\nAPPEARANCES OF COUNSEL\nWayne Bodden, Brooklyn, for respondent.\nEric T. Schneiderman, Attorney General, New York City (Donald Leo of counsel), for petitioner."
+  },
+  "file_name": "2072-01",
+  "first_page_order": 470,
+  "last_page_order": 484
+}

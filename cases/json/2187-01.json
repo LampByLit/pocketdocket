@@ -1,0 +1,847 @@
+{
+  "id": 4234995,
+  "name": "The People of the State of New York, Plaintiff, v. Robert Johnson, Defendant",
+  "name_abbreviation": "People v. Johnson",
+  "decision_date": "2015-12-31",
+  "docket_number": "",
+  "first_page": "450",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 450"
+    },
+    {
+      "type": "parallel",
+      "cite": "28 N.Y.S.3d 783"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Sullivan Cty. Ct.",
+    "id": 9090,
+    "name": "County Court of New York, Sullivan County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2003 U.S. Dist. LEXIS 16295",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "declining to consider evidence downloaded from corporation's website in the absence of testimony from the corporation authenticating such documents"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 NY3d 193",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4224900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0193-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 1000",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3708967
+      ],
+      "pin_cites": [
+        {
+          "page": "1007-1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/1000-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 1029",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 AD3d 1242",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5671674
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1245-1246"
+        },
+        {
+          "page": "1246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1242-01"
+      ]
+    },
+    {
+      "cite": "99 NY2d 535",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "295 AD2d 988",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1092808
+      ],
+      "pin_cites": [
+        {
+          "page": "988"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/295/0988-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 759",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 AD3d 1117",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2894796,
+        2900749
+      ],
+      "pin_cites": [
+        {
+          "page": "1118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/1117-01",
+        "/ad3d/27/1117-02"
+      ]
+    },
+    {
+      "cite": "293 Pa Super 347",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        175789
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "355-357"
+        },
+        {
+          "page": "149-150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/293/0347-01"
+      ]
+    },
+    {
+      "cite": "140 Vt 415",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4717168
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "419"
+        },
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/140/0415-01"
+      ]
+    },
+    {
+      "cite": "181 Ga App 630",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        470916
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "632"
+        },
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/181/0630-01"
+      ]
+    },
+    {
+      "cite": "439 Mich 1013",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 NW2d 753",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "pin_cites": [
+        {
+          "page": "759"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Mich App 574",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2327553
+      ],
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/190/0574-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 1046",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3756056
+      ],
+      "pin_cites": [
+        {
+          "page": "1051"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/1046-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 846",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188864,
+        1188915,
+        1188862
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0846-03",
+        "/ny-2d/95/0846-01",
+        "/ny-2d/95/0846-02"
+      ]
+    },
+    {
+      "cite": "263 AD2d 182",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        134446
+      ],
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/263/0182-01"
+      ]
+    },
+    {
+      "cite": "224 NY 356",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        85647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/224/0356-01"
+      ]
+    },
+    {
+      "cite": "2007 US Dist LEXIS 21269",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*15-16"
+        },
+        {
+          "page": "*18"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 922306",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*5"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "750 F.2d 1354",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        629059
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/750/1354-01"
+      ]
+    },
+    {
+      "cite": "208 F.3d 633",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11452473
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/208/0633-01"
+      ]
+    },
+    {
+      "cite": "76 F Supp 2d 773",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11501878
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "774-775"
+        },
+        {
+          "page": "775",
+          "parenthetical": "'[A]ny evidence procured off the Internet is adequate for almost nothing, even under the most liberal interpretation of the hearsay exception rules.'"
+        },
+        {
+          "page": "775",
+          "parenthetical": "'Anyone can put anything on the internet. No web-site is monitored for accuracy and nothing contained therein is under oath or even subject to independent verification absent underlying documentation.'"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/76/0773-01"
+      ]
+    },
+    {
+      "cite": "213 F.Supp.2d 1146",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11422779
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1153-54",
+          "parenthetical": "admitting website postings as evidence due to circumstantial indicia of authenticity, including dates and presence of identifying web addresses"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/213/1146-01"
+      ]
+    },
+    {
+      "cite": "235 F.3d 1318",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11177615
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1322-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/235/1318-01"
+      ]
+    },
+    {
+      "cite": "216 F.Supp.2d 1060",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11434470
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/216/1060-01"
+      ]
+    },
+    {
+      "cite": "2006 WL 1320242",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3-4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 1880335",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "ruling that copies of a post office's computer records could be authenticated by a custodian or other qualified witness with personal knowledge of the procedure that generated the records"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 FRD 534",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        2924284
+      ],
+      "weight": 14,
+      "pin_cites": [
+        {
+          "page": "545-546"
+        },
+        {
+          "page": "546"
+        },
+        {
+          "page": "546"
+        },
+        {
+          "page": "546"
+        },
+        {
+          "page": "546-547"
+        },
+        {
+          "page": "547-548"
+        },
+        {
+          "page": "548-549"
+        },
+        {
+          "page": "549"
+        },
+        {
+          "page": "549-553"
+        },
+        {
+          "page": "556"
+        },
+        {
+          "page": "556"
+        },
+        {
+          "page": "552-553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/241/0534-01"
+      ]
+    },
+    {
+      "cite": "878 A2d 91",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8939496
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "96"
+        },
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/878/0091-01"
+      ]
+    },
+    {
+      "cite": "926 NE2d 1162",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "1172-1173"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 Mass 857",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3667987
+      ],
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0857-01"
+      ]
+    },
+    {
+      "cite": "2015 US Dist LEXIS 74528",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 4591907",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 AD3d 592",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        574123
+      ],
+      "pin_cites": [
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/20/0592-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 826",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 AD2d 808",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1265411
+      ],
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/279/0808-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 629",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4417489
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "634"
+        },
+        {
+          "page": "635-636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0629-01"
+      ]
+    },
+    {
+      "cite": "301 NY 198",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2080303
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "201"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/301/0198-01"
+      ]
+    },
+    {
+      "cite": "13 NY2d 37",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2266898
+      ],
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/13/0037-01"
+      ]
+    },
+    {
+      "cite": "396 US 846",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11360073,
+        11359881,
+        11359765,
+        11359966,
+        11359615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/396/0846-05",
+        "/us/396/0846-03",
+        "/us/396/0846-02",
+        "/us/396/0846-04",
+        "/us/396/0846-01"
+      ]
+    },
+    {
+      "cite": "24 NY2d 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2289677
+      ],
+      "pin_cites": [
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/24/0241-01"
+      ]
+    },
+    {
+      "cite": "26 NY2d 530",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2294502
+      ],
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/26/0530-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 653",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0653-01"
+      ]
+    },
+    {
+      "cite": "192 AD2d 553",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1123231
+      ],
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/192/0553-01"
+      ]
+    },
+    {
+      "cite": "59 NY2d 282",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391243
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "288"
+        },
+        {
+          "page": "288-289"
+        },
+        {
+          "page": "288-289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0282-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 351",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        203256
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0351-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1504,
+    "char_count": 39099,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 5.0011153170616546e-8,
+      "percentile": 0.3147627525774669
+    },
+    "sha256": "659630620c56d4c17ff905871ab99e05dd82c882029a19ed7ef172a512fe7b12",
+    "simhash": "1:e6b2ddbea5aac7ce",
+    "word_count": 6176
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Robert Johnson, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nFrank J. LaBuda, J.\nThe issue of the admissibility of Facebook and other electronically stored information (ESI) evidence is novel in U.S. courts and has little statutory or judicial precedent guidance. The issue before this court at a criminal jury trial is to what extent is ESI evidence admissible at trial, and then to what extent is the proffered ESI evidence in this trial admissible.\nThe instant matter before the court concerns the admissibility of ESI at the jury trial of Sullivan County indictment No. 64-15, in which defendant was charged with one count of predatory sexual assault against a child, in violation of Penal Law § 130.96. The charges stemmed from allegations by the victim, Cassidy Doe, that for over a period of years, beginning when she was approximately 11 years old and continuing until she was approximately 13 years old, her stepfather, the defendant herein, subjected her to touching of her breasts and vagina over the course of an extended period of time (more than three months), having oral sex over the course of an extended period of time, and having intercourse on two occasions during the spring of 2014. The child witness indicated the alleged incidents occurred in her bedroom at the family residence in the Town of Mamakating, Sullivan County, New York.\nPretrial Disclosure of Purported Facebook Information\nAs a threshold matter, the ESI evidence regarding Facebook items of the sexual abuse child witness in this case was first disclosed by the prosecutor to defendant during the course of pretrial discovery and omnibus motion practice in connection with this case. The ESI items were disclosed as part of discovery because this defendant himself brought the victim’s Facebook materials to the New York State Police barracks in Wurtsboro, New York, when first interviewed, in an apparent effort to assail the character of this child victim in the weeks following the girl’s initial disclosure of his abuses of her.\nThe People did not represent, concede, or consent that these items are authentic, nor generated by the child witness, Cassidy Doe, associated with the Facebook materials.\nThe People argued that these items must be precluded from evidence in this case, as they are irrevelant, have not been authenticated, and constitute inadmissible hearsay.\nFacebook as Electronically Stored Information\nA brief description of the material now proffered for admission into evidence by defendant is warranted, in connection with the instant analysis of its authentication, relevance and admissibility at trial.\nThe defendant seeks to admit five separate exhibits. The first exhibit is a photograph which defendant alleges is a picture taken of Cassidy Doe’s Facebook page. It is alleged that the photograph is a picture of Facebook pages, created by third parties, which Cassidy has, according to defendant, “Liked.” One of those “likes” appears to be a Spanish language page entitled, “Sexo Infinito,” and may be considered “mildly” pornographic and sexually suggestive, as are all the proffered exhibits.\nToday Facebook is a major communication and identification media. Generally, a person using a Facebook account can “like” a third-party page by clicking a “Thumbs up” icon located next to content posted by the third party. This then has the page appear on the receiver’s Facebook page, and in this case the child/witness’.\nThe next two exhibits submitted by the defendant purport to be photographs taken not of Cassidy Doe’s purported Facebook page, but of images alleged by defendant to have been posted from the aforementioned third-party site “Sexo Infinito” which are observable by any person who views that site. Both of these exhibits appear to depict couples simulating exotic sexual contact.\nThe remaining two exhibits depict images of enhanced male genitalia. It appears that these images were printed from a “comment” section, meaning that they can only be accessed by clicking the term “comment,” which is adjacent to content posted at a third-party site, which in this case was allegedly done again by the child/witness.\nThe Prosecutor’s Argument\n1. The prosecutor maintains Cassidy Doe was not the person who caused a “like” associated with “Sexo Infinito” to appear on the first proffered page.\n2. Cassidy Doe never viewed the content depicted upon any of the proffered exhibits.\n3. Cassidy Doe did not identify the exhibits during direct or cross-examination.\n4. The exhibits defendant has offered into evidence are not relevant to the material issues of this case.\nThe prosecutor’s last argument regarding relevancy will be addressed first by this court. The Court of Appeals has stated, “[a]s a general rule, evidence is relevant if it tends to prove the existence or non-existence of a material fact, i.e., a fact directly at issue in the case” (People v Primo, 96 NY2d 351, 355 [2001]). Thus, where evidence offered does not tend to prove the existence or nonexistence of a material fact directly at issue in a case, it is not relevant. Assuming arguendo the exhibits are legally admissible, they would only tend to show the sexual penchant the alleged victim may or may not have. Consent in this case is not an issue under the law and the material elements of a predatory sexual assault against a child (Penal Law § 130.96). In fact, a child under the age of 13 is deemed to be incapable of consenting to sexual conduct by definition of law.\nThe ESI images sought to be introduced by the defendant do not tend to prove the existence or nonexistence of any material fact at issue in the case. The purported sexual content is irrevelant, both factually and legally, to whether or not this defendant engaged in a course of sexual conduct against Cassidy Doe from the summer of 2011 to in or about May 2014.\nDefendant has not offered a scintilla of evidence that would support materiality or relevancy in this case.\nAdditionally, there has been no evidence that Cassidy Doe ever operated the purported Facebook account or “liked” the third-party site in question, nor is there any evidence that the victim ever viewed any of the pictures contained on that third-party site, including those purportedly added to that site by its administrator or an operator thereof, nor the images appearing in the “comment” section thereof. These exhibits cannot be construed as relevant because there is no evidence to suggest a nexus between the images contained on the “Sexo Infinito” page and the elements of predatory sexual assault against a child. (Penal Law § 130.96.)\nAssuming arguendo, that the “like” choice was made on the Facebook page by the witness, any question as to what she may have liked on Facebook and pictures associated with any third-party account do not tend to prove or disprove any material fact that relates to this defendant’s guilt. Whether the victim “liked” or did not “like” a third-party site that posts sexualized content is irrevelant to the guilt or non-guilt issues at trial.\nFacebook to Impeach the Witness’ Credibility\nThe defendant’s argument to use the exhibits to impeach the witness’ credibility also fails under the law. Defendant chose not to examine the victim, Cassidy Doe, with respect to the association of her purported Facebook page with the third-party site, and furthermore, never questioned the victim as to whether she viewed the third-party site ESI images now offered by defendant into evidence. A Facebook page associated with sexualized content, purported to have been accessed well after defendant’s access to abuse the victim had been foreclosed by the removal of the victim from defendant’s home, does not go to this witness’ credibility. Furthermore, no foundation was made by the defendant to use the ESI as an inconsistent statement.\n“A cross-examiner is bound by the answers of a witness to questions concerning collateral matters (see, People v Pavao, 59 NY2d 282, 288). Thus, a ‘party who is cross-examining a witness cannot introduce extrinsic documentary evidence or call other witnesses to contradict the witness’ testimony concerning collateral matters solely for the purpose of impeaching that witness’ credibility’ (People v Pavao, supra, at 288-289).” (People v Inniss, 192 AD2d 553, 554 [2d Dept 1993], affd 83 NY2d 653 [1994].)\nThus, the collateral evidence rule, which is binding upon this court, precludes defendant from now offering the material at issue.\n“The general rule of evidence in this State concerning the impeachment of witnesses with respect to collateral matters is that ‘the cross-examiner is bound by the answers of the witness to questions concerning collateral matters inquired into solely to affect credibility.’ (Richardson, Evidence [Prince, 10th ed], § 491, p 477.) It is well established that the party who is cross-examining a witness cannot introduce extrinsic documentary evidence or call other witnesses to contradict a witness’ answers concerning collateral matters solely for the purpose of impeaching that witness’ credibility. (People v Zabrocky, 26 NY2d 530, 535; People v Schwartzman, 24 NY2d 241, 245, cert den 396 US 846; People v Duncan, 13 NY2d 37, 41; People v Sorge, 301 NY 198, 201.)” (Pavao, 59 NY2d at 288-289.)\nIn this context, defendant’s proffer of the ESI material is an attempt to assail the credibility of his victim in violation of the collateral evidence rule precluding such extrinsic documentary evidence material from admission into evidence at trial for impeachment purposes and not a prior inconsistent statement.\nThe defendant has argued that the instant material is relevant with respect to the victim’s credibility, yet defendant has failed, in toto, to confront the victim with the existence of the “like” at issue, nor has he confronted the victim with any question as to whether she viewed the seemingly pornographic images on the third-party site. The only testimony elicited from the witness on the issue of Facebook is not called into question by the evidence proffered; that is, the victim testified that she did not have pornographic images on her Facebook site, and the proffered material does not suggest otherwise. Instead, the proffered material confuses that issue by offering into evidence images on a third-party site neither controlled nor demonstrably accessed or viewed by the victim, who was never questioned with respect to her knowledge of the site. Furthermore, defendant has not demonstrated that the material at issue “show[s] moral turpitude to be relevant on the credibility issue” (Badr v Hogan, 75 NY2d 629, 634 [1990]). For all of these reasons, defendant is now barred from moving into evidence extrinsic documentary evidence assuming arguendo the defendant’s argument that such material bears in some way on the victim’s credibility. (Badr, 75 NY2d at 635-636 [“It was error to admit this extrinsic proof for the sole purpose of contradicting (a witness’) testimony on (a) collateral issue (see, People v Schwartzman, supra, at 245; People v Sorge, supra, at 201)”]; accord People v Blanchard, 279 AD2d 808, 811 [3d Dept 2001], lv denied 96 NY2d 826 [2001]; People v St. Louis, 20 AD3d 592, 593 [3d Dept 2005].)\nAccordingly, the law of this state is clear that the ESI material proffered by defendant must be relevant and material before other pertinent issues of admissibility can be met. Otherwise it is precluded from admission into evidence at trial. Nonetheless, the court will also address the fundamental evidentiary issues of ESI.\nElectronically Stored Information\nElectronically stored information is a broad term generally used to describe information stored on computers, including email, Internet sites, computer logs, documents, digital recordings, and various other media; the Federal Rules of Civil Procedure, in 2006, were amended to include provisions for the preservation and civil discovery of such information.\nAuthentication of Electronically Stored Information\nESI may, in certain contexts, be properly admitted into evidence. Such information may be authenticated according to the same principles governing authentication of other types of evidence. For example, the creator of such information may testify as to its authenticity (Thompson v Workmen’s Circle Multicare Ctr., 2015 WL 4591907, 2015 US Dist LEXIS 74528 [SD NY, June 9, 2015, No. 11 Civ 6885 (DAB) (HBP)]). However, although circumstantial evidence of authenticity may, in some cases, be sufficient to provide an adequate foundation upon which digital evidence may be admitted, circumstantial evidence is an insufficient foundation for admissibility where there is no evidence establishing the security of a website from which purported information has been accessed or that a purported author had exclusive access thereto. (Commonwealth v Williams, 456 Mass 857, 869, 926 NE2d 1162, 1172-1173 [2010].) Indeed, “courts have recognized that authentication of ESI may require greater scrutiny than that required for the authentication of ‘hard copy’ documents” (Lorraine, 241 FRD at 542-543), and that decisions as to the admissibility of such items “are to be evaluated on a case-by-case basis as any other document to determine whether or not there has been an adequate foundational showing of their relevance and authenticity” (Lorraine, 241 FRD at 543, quoting In re F.P., 878 A2d 91, 96 [Pa Super Ct 2005]). “Indeed, courts increasingly are demanding that proponents of evidence obtained from electronically stored information pay more attention to the foundational requirements than has been customary for introducing evidence not produced from electronic sources.” (Lorraine, 241 FRD at 543.)\nLorraine v Markel Am. Ins. Co.\nThis court’s reliance upon a 2007 holding of the United States District Court for the District of Maryland in Lorraine v Markel Am. Ins. Co. (241 FRD 534 [D Md 2007]) and the Federal Rules of Evidence rule 803 (8) supports a finding, in the case at bar, that defendant has failed to adequately authenticate the items he now proffers as evidence.\nIn Lorraine, the US District Court of Maryland denied summary judgment motions which were purportedly supported by emails which were not authenticated, and failed, therefore, to comply with the requirements of rule 56 (c) of the Federal Rules of Civil Procedure. (Lorraine, 241 FRD 534.) Indeed, the Lorraine court found that the documents submitted to it for consideration in that case had not been properly authenticated. In the case at bar the defendant failed to have the witness, or anyone, accept or deny the third-party Facebook page.\nThe Lorraine court engaged in an analysis of the rules governing admissibility of ESI, under the Federal Rules of Evidence, summarized and applied to the instant situation as follows.\nAuthentication by Personal Knowledge\n“Courts considering the admissibility of electronic evidence frequently have acknowledged that it may be authenticated by a witness with personal knowledge. United States v. Kassimu, 2006 WL 1880335 (5th Cir. May 12, 2006) (ruling that copies of a post office’s computer records could be authenticated by a custodian or other qualified witness with personal knowledge of the procedure that generated the records); St. Luke’s [Cataract & Laser Inst., P.A. v Sanderson], 2006 WL 1320242 at *3-4 [MD Fla, May 12, 2006] (‘To authenticate printouts from a website, the party proffering the evidence must produce “some statement or affidavit from someone with knowledge [of the website] . . . for example [a] web master or someone else with personal knowledge would be sufficient.” ’ (citation omitted)); [United States v] Safavian, 435 F.Supp.2d [36,] 40 n. 2 (D.D.C. 2006) (noting that e-mail may be authenticated by a witness with knowledge that the exhibit is what it is claimed to be); Wady [v Provident Life & Acc. Ins. Co. of Am.], 216 F.Supp.2d 1060 [CD Cal 2002] (sustaining objection to affidavit of plaintiff’s witness attempting to authenticate documents taken from the defendant’s website because the affiant lacked personal knowledge of who maintained the website or authored the documents). Although [Federal Rules of Evidence] Rule 901(b)(1) certainly is met by the testimony of a witness that actually drafted the exhibit, it is not required that the authenticating witness have personal knowledge of the making of a particular exhibit if he or she has personal knowledge of how that type of exhibit is routinely made. [Jack B. Weinstein & Margaret A. Berger, Weinstein’s Federal Evidence] § 901.03 [2] [Joseph M. McLaughlin ed, Matthew Bender 2d ed 1997]. It is necessary, however, that the authenticating witness provide factual specificity about the process by which the electronically stored information is created, acquired, maintained, and preserved without alteration or change, or the process by which it is produced if the result of a system or process that does so, as opposed to boilerplate, conclusory statements that simply parrot the elements of the business record exception to the hearsay rule, Rule 803(6), or public record exception, Rule 803(8).” (Lorraine, 241 FRD at 545-546.)\nIn the case at bar the defendant has no personal knowledge with respect to the management, security or corporate records of Facebook, nor does he have any personal knowledge that the proffered materials were created by the person to whom he has attributed them: his child victim. Defendant has not and cannot testify with respect to the maintenance of Facebook records, nor has he (or can he) testify with respect to the routine creation of such records, as he has failed to demonstrate any knowledge of the corporate policy or computer programs comprising Facebook. Because there has been no factual specificity offered in this case with respect to how the ESI at issue is created, acquired, maintained and preserved without alteration or change, he cannot authenticate the proffered materials in this manner.\nAuthentication by Comparison to Known Authentic Samples\nThe Lorraine court also explained that the ESI may be authenticated by comparisons made, by a factfinder or expert witness, to known and authentic ESI (Lorraine, 241 FRD at 546).\nDefendant has not authenticated the materials now at issue in this way, by calling an expert or other witness with comparisons.\nAuthentication by Circumstantial Evidence Coupled with Distinctive Characteristics\nNonetheless, the Lorraine court further described a method “most frequently used to authenticate e-mail and other electronic records.” (Lorraine, 241 FRD at 546.)\nThis method, pursuant to rule 901 (b) (4) of the Federal Rules of Evidence,\n“permits exhibits to be authenticated or identified by ‘[a]ppearance, contents, substance, internal patterns, or other distinctive characteristics, taken in conjunction with circumstances.’ The commentary to Rule 901(b)(4) observes ‘[t]he characteristics of the offered item itself, considered in the light of circumstances, afford authentication techniques in great variety,’ including authenticating an exhibit by showing that it came from a ‘particular person by virtue of its disclosing knowledge of facts known peculiarly to him,’ or authenticating ‘by content and circumstances indicating it was in reply to a duly authenticated’ document. Fed.R.Evid. 901(b)(4) advisory committee’s note. Use of this rule often is characterized as authentication solely by ‘circumstantial evidence.’ Weinstein at § 901.03 [8]. Courts have recognized this rule as a means to authenticate ESI, including e-mail, text messages and the content of websites. See United States v. Siddiqui, 235 F.3d 1318, 1322-23 (11th Cir. 2000) (allowing the authentication of an e-mail entirely by circumstantial evidence, including the presence of the defendant’s work e-mail address, content of which the defendant was familiar with, use of the defendant’s nickname, and testimony by witnesses that the defendant spoke to them about the subjects contained in the e-mail); Safavian, 435 F.Supp.2d at 40 (same result regarding e-mail); In re F.P., 878 A.2d at 94 (noting that authentication could be accomplished by direct evidence, circumstantial evidence, or both, but ultimately holding that transcripts of instant messaging conversation circumstantially were authenticated based on presence of defendant’s screen name, use of defendant’s first name, and content of threatening message, which other witnesses had corroborated); Perfect 10, Inc. v. Cybernet Ventures, Inc., 213 F.Supp.2d 1146, 1153-54 (C.D.Cal. 2002) (admitting website postings as evidence due to circumstantial indicia of authenticity, including dates and presence of identifying web addresses).” (Lorraine, 241 FRD at 546.)\nThe Lorraine court explained modes of circumstantial authentication that could support the admissibility of ESI, including “hash values” (241 FRD at 546-547) and “metadata” (241 FRD at 547-548), neither of which have been offered in support of the instant defendant’s proffer of the material at issue in the case at bar.\nHere the defendant has failed to authenticate the materials at issue by circumstantial evidence. Indeed, defendant, during his trial testimony, had denied knowledge that his victim had a Facebook account. Defendant’s only claim to have associated the instant exhibit purportedly depicting an image of that account based upon the appearance of the victim’s name and photograph thereupon. Federal courts have described these kinds of materials as “inherently untrustworthy,” and that “hackers can adulterate the content on any web-site from any location at any time. For these reasons, any evidence procured off the Internet is adequate for almost nothing, even under the most liberal interpretation of the hearsay exception rules” (St. Clair v Johnny’s Oyster & Shrimp, Inc., 76 F Supp 2d 773, 774-775 [SD Tex 1999]). Taken in conjunction with all of the circumstances attendant to defendant’s testimony with respect thereto, defendant’s purported authentication of the “likes” section of what he purports to be a previously-unknown-to-him Facebook page of the victim via a name, which may be entered by any person creating an account and is not verified in any way by the operators of Facebook, and a picture (again, entered by any user and not verified in any way by the operators of Facebook), without any verification from any source that the victim was the operator of that specific Facebook account at any time, including at the time defendant purportedly captured an image thereof, weeks after his access to abuse the victim had been cut off, is wholly insufficient to authenticate that image. Furthermore, the remaining exhibits offered by defendant have not been authenticated by him that can in any way attribute or connect those images to the victim, including because of this inability to authenticate the purported image of the victim’s Facebook page, as well as because those images do not appear, anywhere, on the purported image of the victim’s Face-book page, and, instead, appear on a third-party site, and defendant has failed to establish that the victim ever viewed any of those images on the “likes” sites. There is no circumstantial evidence demonstrating that the victim ever visited the third-party site.\nThus, defendant has failed to demonstrate any circumstances supporting a conclusion that the Facebook page he attributes to the victim is authentic, having not established any indicia of reliability, such as the existence of disclosed knowledge of any fact particularly known to the victim, or any content or circumstances indicating the victim was replying to any other known, authentic communication or document. Therefore, defendant has not satisfied his burden pursuant to this method of authentication as established by courts in the U.S.\nPublic Record or Reports as Authentication\nThe Lorraine court recognized that the public filing or recording of ESI may support its admissibility. (Lorraine, 241 FRD at 548-549.)\nDefendant has not, and cannot, advance this method as a means of authenticating the proffered materials.\nAccuracy and Reliability of a Process or System as Authentication\nThe Lorraine court further described authentication via proof that a particular computer process or system produces an accurate and reliable result (for example, computer-generated evidence). (Lorraine, 241 FRD at 549.)\nDefendant has not advanced this method as a means of authenticating the proffered materials.\nSelf-Authentication\nThe Lorraine court further described the variety of documents which are self-authenticating, and which include various forms of ESI, none of which have been advanced by this defendant in support of his application. (241 FRD at 549-553.) Examples of self-authenticating records include public records or reports stored in a public office: tax returns, weather bureau records, military records, social security records, INS records, VA records, judicial records, correctional records, law enforcement records, domestic public documents under and not under seal, foreign public documents, certified copies of public records, official publications of public authorities, newspapers and periodicals, trade inscriptions, acknowledged documents (for example, by a notary public), commercial paper and related documents, and certified domestic records of regularly conducted activity.\nInternet Postings, Text Message/Chat Room Content\nImportant to the law of evidence in New York the Lorraine court further engaged in a theoretical analysis of the authentication required to admit Internet postings and text message or chat room content, concluding that “[b]ased on the [relevant] cases, the rules most likely to be used to authenticate chat room and text messages, alone or in combination, appear to be 901(b)(1) (witness with personal knowledge) and 901(b)(4) (circumstantial evidence of distinctive characteristics).” (Lorraine, 241 FRD at 556.) Further, “authentication rules most likely to apply, singly or in combination, [to Internet website postings] are 901(b)(1) (witness with personal knowledge) 901(b)(3) (expert testimony) 901(b)(4) (distinctive characteristics), 901(b)(7) (public records), 901(b)(9) (system or process capable of producing a reliable result), and 902(5) (official publications).” (Lorraine, 241 FRD at 556.)\nBecause the instant defendant has failed to demonstrate the existence of any evidence supporting any of the methods of authentication described by the Lorraine court, or the federal rules, he cannot meet any of the authentication burdens contemplated by the court for the admission of the purported Facebook “likes” of the victim, nor for the admission of the far more attenuated third-party sites. Therefore, because defendant cannot demonstrate the authenticity of the proffered material, and because the material is utterly irrevelant with respect to any material fact at issue in this case, his application to admit those materials must be denied; additionally, the court should preclude these items as inadmissible hearsay.\nHearsay Objection to ESI\nInternet postings are out of court declarations and present a hearsay issue.\n“Where postings from internet websites are not statements made by declarants testifying at trial and are offered to prove the truth of the matter asserted, such postings generally constitute hearsay under Fed.R.Evid. 801. United States v. Jackson, 208 F.3d 633, 638 (7th Cir. 2000) (declining to admit web postings where defendant was unable to show that the postings were authentic, and holding that even if such documents qualified under a hearsay exception, they are ‘inadmissible if the source of information or the method or circumstances of preparation indicate a lack of trustworthiness’) (quoting United States v. Croft, 750 F.2d 1354, 1367 (7th Cir. 1984)); see also St. Clair v Johnny’s Oyster & Shrimp, Inc., 76 F.Supp.2d 773, 775 (S.D. Tex. 1999) (‘[A]ny evidence procured off the Internet is adequate for almost nothing, even under the most liberal interpretation of the hearsay exception rules.’).” (Novak v Tucows, Inc., 2007 WL 922306, *5, 2007 US Dist LEXIS 21269, *15-16 [ED NY, Mar. 26, 2007, No. 06-CV-1909 (JFB) (ARL)].)\nThe victim/witness in the case at bar was not confronted with the “likes” now attributed to her, nor was she questioned with respect to whether she has viewed the images purported to exist on a third-party site. Therefore, the “like” now attributed to her, now offered to prove, purportedly, that she did cause that “like” to exist, constitutes impermissible hearsay which falls within no existing exception and, therefore, must be precluded. The proffered material purporting to be the victim’s “likes” on Facebook pages is akin to a written statement which may be just as much hearsay as oral testimony (Boschen v Stockwell, 224 NY 356 [1918]). Furthermore, there is no evidence suggesting that the victim ever viewed the additional sexually suggestive images offered by defendant. These images do not exist even upon the purported Facebook page of Cassidy Doe offered by defendant as that of the victim, and, thus, in addition to constituting hearsay, they remain unauthenticated.\nRape Shield Law\nDefendant’s offer of these materials further violates section 60.42 of the Criminal Procedure Law, generally known as New York’s “Rape Shield” Law.\n“Evidence of a victim’s sexual conduct shall not be admissible in a prosecution for an offense or an attempt to commit an offense defined in article [130] of the penal law unless such evidence:\n“1. proves or tends to prove specific instances of the victim’s prior sexual conduct with the accused; or\n“2. proves or tends to prove that the victim has been convicted of an offense under section 230.00 of the penal law within three years prior to the sex offense which is the subject of the prosecution; or\n“3. rebuts evidence introduced by the people of the victim’s failure to engage in sexual intercourse, oral sexual conduct, anal sexual conduct or sexual contact during a given period of time; or\n“4. rebuts evidence introduced by the people which proves or tends to prove that the accused is the cause of pregnancy or disease of the victim, or the source of semen found in the victim; or\n“5. is determined by the court after an offer of proof by the accused outside the hearing of the jury, or such hearing as the court may require, and a statement by the court of its findings of fact essential to its determination, to be relevant and admissible in the interests of justice.” (CPL 60.42.)\nThe Rape Shield\n“[L]aw ‘bar[s] harassment of victims and confusion of issues through raising matters relating to the victims’ sexual conduct that have no proper bearing upon the defendant’s guilt or innocence’ (Preiser, Practice Commentaries, McKinney’s Cons Laws of NY, Book 11A, CPL 60.42, at 9 [emphasis added]; see also, Berger, Man’s Trial, Woman’s Tribulation: Rape Cases in the Courtroom, 77 Column L Rev 1, 15-22).” (People v Jovanovic, 263 AD2d 182, 192 [1st Dept 1999], appeal dismissed 95 NY2d 846 [2000].)\nThis is exactly the kind of evidence defendant now seeks to introduce, after failing to demonstrate any basis upon which this court could construe it as relevant, authenticated or nonhearsay, for the sole purpose of attacking his victim’s purported and unverified “like” of a sexualized Facebook site.\nIndeed, even where specific content has caused actual disagreement between a victim and a defendant, even simple cross-examination of the victim on that issue, far short of admission into evidence of purported images of graphic content, is properly limited, even where “it was obvious that the inappropriate . . . postings caused considerable friction between defendant and his daughter and that she resented his parental intrusion” (People v Halter, 19 NY3d 1046, 1051 [2012]). Thus, in the case at bar where defendant failed to engage in any cross-examination of his victim on this issue and has himself denied any prior knowledge of his victim’s use of Facebook prior to his separation from her and the cessation of his abuses of her, admission of the proffered material is prohibited by the rules of evidence, as set forth above, and furthermore because the defendant has totally failed to demonstrate the existence of the purported “like” prior to the cessation of his abuses, and because the introduction of such evidence violates the Rape Shield Law.\n“Evidence that [a] friend touched the victim sexually while at defendant’s apartment does not indicate that the victim was willing to engage in sexual relations with anyone, including the friend, and is irrevelant to the issue of whether her sexual relations with defendant were consensual. ... It has been routinely held that a victim’s willingness to engage in sexual conduct with one person around the time of the incident in question is not indicative of a concomitant desire to consent to such behavior with another (see People v Wilhelm, 190 Mich App 574, 585, 476 NW2d 753, 759 [1991], lv denied 439 Mich 1013 [1992]; Ellis v State, 181 Ga App 630, 632, 353 SE2d 822, 825 [1987]; State v Bevins, 140 Vt 415, 419, 439 A2d 271, 273 [1981]; Commonwealth v Folino, 293 Pa Super 347, 355-357, 439 A2d 145, 149-150 [1981]; see also People v McLaurin, 27 AD3d 1117, 1118 [2006], lv denied 7 NY3d 759 [2006]; People v Grantier, 295 AD2d 988, 988 [2002], lv denied 99 NY2d 535 [2002]). Indeed, the inference that defendant sought to establish by the proffered evidence is precisely that which the Rape Shield Law sought to prevent (see generally People v Williams, 81 NY2d [303,] 312 [1993]; Preiser, Practice Commentaries, McKinney’s Cons Laws of NY, Book 11A, CPL 60.48).” (People v Simonetta, 94 AD3d 1242, 1245-1246 [3d Dept 2012], lv denied 19 NY3d 1029 [2012].)\nThus, even if defendant were to argue that, in some way, the materials proffered demonstrate the victim’s willingness to engage in sexual conduct, such testimony or evidence is exactly the kind of testimony or evidence prohibited from admission at trial by the Rape Shield Law. Indeed, even where mental health records have included reports of a victim’s “hypersexuality,” such evidence is properly excluded.\n“Defendant did not introduce medical evidence or expert testimony to establish that hypersexuality is a mental illness that would impact the victim’s credibility or control her behavior; indeed, all references to the victim’s ‘hypersexuality’ in her medical history are to her wholly voluntary inappropriate, promiscuous behavior—conduct intentionally designed to shock and draw attention—which is precisely the kind of evidence the Rape Shield Law prohibits (see CPL 60.42; People v Simonetta, 94 AD3d 1242, 1246 [2012], lv denied 19 NY3d 1029 [2012]).” (People v McCray, 102 AD3d 1000, 1007-1008 [3d Dept 2013], affd 23 NY3d 193 [2014].)\nDefendant’s application to admit the proffered materials should, therefore, be also denied as violative of the Rape Shield Law, as well as for all of the reasons set forth above on relevancy and ESI authentication.\nConclusion\nSince the proffered ESI materials are irrevelant to the material issues at trial, and are offered solely as an impermissible collateral attack on the victim’s credibility without any demonstration that such materials actually impair the credibility of the victim, rather than simply demonstrate defendant’s effort to embarrass and shame his child victim/witness; and because the proffered ESI materials have not been sufficiently authenticated pursuant to any permissible mode of authentication; and because the proffered materials are inadmissible as hearsay; and because such evidence violates the Rape Shield Law, the materials of ESI are precluded from evidence at this trial.\n. Cassidy Doe testified at trial at the age of 14 regarding incidents that first happened when she was 11 years old.\n. Sullivan County Family Court had previously awarded defendant custody of the victim and her younger brother after determining their biological parents were incapable of caring for the children. The authorities became aware of the allegations after the victim contacted her biological mother on Facebook. According to the trial testimony, the biological mother, in turn, told the victim’s uncle, who reported the allegations to the authorities and the New York State Police investigated the case.\n. Therefore, the general rule in the context of civil cases that items produced by one party to another in the course of discovery are presumed authentic is not implicated by the People’s disclosure to counsel for defendant of documents delivered by defendant himself to the police. (See e.g. Lorraine v Market Am. Ins. Co., 241 FRD 534, 552-553 [2007].)\n. It is important to note that on January 9, 2014, Facebook was sued in the United States District Court for the Northern District of California. The complaint alleged that Facebook falsely attributed sponsorship in the form of “likes” to items that individual users had never liked. The complaint was eventually withdrawn by the plaintiff (DiTirro v Facebook, Inc., US Dist Ct, ND Cal, No. 5:2014cv00132).\n. Even if the victim was an adult, the protection of the Rape Shield Law and its progeny of cases make the victim’s sexual proclivity or sexual history “protected” and irrevelant as will be later discussed.\n6. In New York there is no legislative authority or rules for ESI.\n. “Hash” value is a word used in a message preceded by the number for a search. “Metdata” is info that is held as a description of stored data, like a Google search of keywords for a website.\n. “As Novak proffers neither testimony nor sworn statements attesting to the authenticity of the contested web page exhibits by an employee of the companies hosting the sites from which plaintiff printed the pages, such exhibits cannot be authenticated as required under the Rules of Evidence. See, e.g. Costa v. Keppel Singmarine Dockyard PTE, Ltd., No. 01-CV-11015 MMM (Ex), 2003 U.S. Dist. LEXIS 16295, at *29 n. 74 (C.D. Cal. Apr. 25, 2003) (declining to consider evidence downloaded from corporation’s website in the absence of testimony from the corporation authenticating such documents) (citing [United States v] Jackson, 208 F.3d [633,] 638 [2000], and St. Clair, 76 F.Supp.2d at 775 (‘Anyone can put anything on the internet. No web-site is monitored for accuracy and nothing contained therein is under oath or even subject to independent verification absent underlying documentation.’)). Therefore, in the absence of any authentication of plaintiff’s internet printouts, combined with the lack of any assertion that such printouts fall under a viable exception to the hearsay rule, defendants’ motion to strike Exhibits B, J, K, N-R, U and v is granted.” (Novak v Tucows, Inc., 2007 WL 922306, *5, 2007 US Dist LEXIS 21269, *18 [ED NY, Mar. 26, 2007, No. 06-CV-1909 (JFB) (ARL)].)",
+        "type": "majority",
+        "author": "Frank J. LaBuda, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Donna Maria Lasher, Youngsville, for defendant.",
+      "James R. Farrell, District Attorney, Monticello (Eamonn P. Neary of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[28 NYS3d 783]\nThe People of the State of New York, Plaintiff, v Robert Johnson, Defendant.\nCounty Court, Sullivan County,\nDecember 31, 2015\nAPPEARANCES OF COUNSEL\nDonna Maria Lasher, Youngsville, for defendant.\nJames R. Farrell, District Attorney, Monticello (Eamonn P. Neary of counsel), for plaintiff."
+  },
+  "file_name": "2187-01",
+  "first_page_order": 462,
+  "last_page_order": 480
+}

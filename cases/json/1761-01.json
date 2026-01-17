@@ -1,0 +1,313 @@
+{
+  "id": 12279858,
+  "name": "State of Wisconsin, Plaintiff-Respondent, v. Michel L. Wortman, Defendant-Appellant",
+  "name_abbreviation": "State v. Wortman",
+  "decision_date": "2017-08-23",
+  "docket_number": "No. 2016AP1144-CR",
+  "first_page": "105",
+  "last_page": "116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "378 Wis. 2d 105"
+    },
+    {
+      "type": "parallel",
+      "cite": "902 N.W.2d 561"
+    },
+    {
+      "type": "parallel",
+      "cite": "2017 WI App 61"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis. Ct. App.",
+    "id": 15300,
+    "name": "Wisconsin Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 939.12",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 939.50",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(3)(g)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WI 64",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4185951
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/355/0581-01"
+      ]
+    },
+    {
+      "cite": "2004 WI 58",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9188131
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/271/0633-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 346.65",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(2)(am)"
+        },
+        {
+          "page": "(2)(am)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "213 Wis. 2d 440",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11819518
+      ],
+      "weight": 11,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "443-44"
+        },
+        {
+          "page": "444"
+        },
+        {
+          "page": "446"
+        },
+        {
+          "page": "449"
+        },
+        {
+          "page": "450"
+        },
+        {
+          "page": "449"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/213/0440-01"
+      ]
+    },
+    {
+      "cite": "2005 WI 48",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9006600
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/279/0742-01"
+      ]
+    },
+    {
+      "cite": "164 Wis. 2d 437",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667018
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/164/0437-01"
+      ]
+    },
+    {
+      "cite": "163 Wis. 2d 164",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8666977
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/163/0164-01"
+      ]
+    },
+    {
+      "cite": "2005 WI App 123",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        8431033
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/284/0456-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 968.24",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 3,
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WI 98",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        8329132
+      ],
+      "weight": 5,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "¶¶ 20, 22"
+        },
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/294/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 734,
+    "char_count": 13380,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2490011965948594
+    },
+    "sha256": "fa8d8d9b78b85b4117ab2405e813084ada121ae0ca097bc682e39037dd97c6b2",
+    "simhash": "1:edfc379b550e2332",
+    "word_count": 2262
+  },
+  "last_updated": "2024-02-27T21:03:02.532561+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Neubauer, C.J., Reilly, P.J., and Gundrum, J."
+    ],
+    "parties": [
+      "State of Wisconsin, Plaintiff-Respondent, v. Michel L. Wortman, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "¶ 1.\nREILLY, PJ.\nMichel L. Wortman appeals from a judgment of conviction for ninth offense operating while intoxicated (OWI). Wortman was stopped by police after he walked away from the scene of an accident. Wortman argues that all evidence obtained from him should have been suppressed and that the court erred in the imposition of his fine. We affirm.\nBACKGROUND\n¶ 2. On February 14, 2012, at 8:00 p.m., Fond du Lac County Sheriffs Deputy James Pfeiffer responded to a call about a truck in a ditch. Upon arrival, Pfeiffer observed a truck that had crossed the center line, went through a driveway, and crashed into a ditch. Weather was not a factor. Pfeiffer observed Wortman walking away from the scene. Pfeiffer activated his patrol lights and pulled his squad car in front of Wortman, blocking Wortman's path. Pfeiffer asked Wortman if he was the driver of the truck, how the accident occurred, and if Wortman was injured. Wortman replied that he was the driver, that he had fallen asleep while driving, and that he was not injured. Wortman's eyes were glassy and Pfeiffer smelled alcohol. Wortman said he drank a \"king\" can of beer. Pfeiffer identified Wortman by his driver's license and told Wortman to get in the squad car so they could return to the scene of the accident. Wortman made no objection and rode in the backseat of the squad car.\n¶ 3. Pfeiffer checked Wortman's driving record and learned that Wortman's license was revoked, he had eight prior OWI convictions, was on extended supervision, and had a blood alcohol content limit of .02. Pfeiffer administered field sobriety tests. Wortman failed the tests, and Pfeiffer placed Wortman under arrest. Wortman then told Pfeiffer that he had purchased and drank the \"king\" can of beer from Kwik Trip after the crash. Pfeiffer stated surveillance from the Kwik Trip would be pulled to verify Wortman's claim, to which Wortman responded that he had lied and apologized. At no time did Pfeiffer recite Miranda warnings to Wortman.\nf 4. Wortman moved to suppress the statements he made at the scene of his arrest. Wortman claimed that he was in custody beginning when Pfeiffer pulled up in front of him to block his path and that any statements made after this point were statements made in custody without Miranda warnings and should be suppressed. The circuit court found that Wortman was not in custody and that Pfeiffer had both reasonable suspicion to stop and probable cause to arrest. Wortman thereafter pled no contest to OWI, ninth offense, and received a ten-year prison sentence and a fine of $1524.\nANALYSIS\nSuppression of Evidence and Statements Made Prior to Arrest\n¶ 5. Wortman argues that the activation of the squad lights, the blocking of his path by the squad car, the invitation that he get into the back of the squad car, and the taking of his driver's license all equate to Wortman being in custody and therefore unlawfully arrested. We disagree as all of the officer's actions were performed as part of an investigatory stop rather than a custodial arrest.\n¶ 6. The Fourth Amendment protects against unreasonable searches and seizures. We recognize two types of seizures: an investigatory or Terry stop and an arrest. State v. Young, 2006 WI 98, ¶¶ 20, 22, 294 Wis. 2d 1, 717 N.W.2d 729; see also Wis. Stat. § 968.24 (2015-16). An investigatory stop that involves temporary questioning is a minor infringement on personal liberty, and is constitutional if supported by reasonable suspicion that a crime has been committed. Young, 294 Wis. 2d 1, ¶ 20. \"Reasonable suspicion requires that a police officer possess specific and articulable facts that warrant a reasonable belief that criminal activity is afoot.\" Id., ¶ 21. Whether the reasonable suspicion standard is met is determined by considering the facts known to the officer at the time the stop occurred, together with rational inferences and inferences drawn by officers in light of policing experience and training. See State v. Washington, 2005 WI App 123, ¶ 16, 284 Wis. 2d 456, 700 N.W.2d 305; see also State v. Seibel, 163 Wis. 2d 164, 183, 471 N.W.2d 226 (1991).\nI 7. A formal arrest, in contrast, \"is a more permanent detention that typically leads to 'a trip to the station house and prosecution for crime,' \" and requires probable cause to suspect that a crime has been committed. Young, 294 Wis. 2d 1, ¶ 22 (citation omitted). We determine whether a person has been arrested by questioning whether a \"reasonable person in the defendant's position would have considered himself or herself to be 'in custody,' given the degree of restraint under the circumstances.\" State v. Swanson, 164 Wis. 2d 437, 447, 475 N.W.2d 148 (1991), overruled on other grounds by State v. Sykes, 2005 WI 48, ¶ 27, 279 Wis. 2d 742, 695 N.W.2d 277.\n¶ 8. In State v. Quartana, 213 Wis. 2d 440, 570 N.W.2d 618 (Ct. App. 1997), we addressed the propriety of an investigatory stop under a similar factual scenario. There, Quartana lost control of his vehicle, drove into a ditch, left the accident scene, and walked home. Id. at 443-44. After arriving on the scene of the accident and determining that Quartana was the owner of the vehicle, an officer went to Quartana's home. Id. at 444. Quartana admitted to the officer that he was driving at the time of the accident. Id. The officer collected Quartana's driver's license, noted bloodshot and glassy eyes and the odor of intoxicants, and drove Quartana back to the scene of the accident in his squad car. Id. Quartana failed field sobriety tests conducted at the scene and was thereafter placed under arrest. Id.\n¶ 9. We determined that the actions of the officers in Quartana did not exceed the scope of an investigatory Terry stop. We found that the express language of Wis. Stat. § 968.24 authorizes an officer to relocate the suspect a short distance during the course of a temporary investigation, so long as the person is moved within the \"vicinity\" and the purpose for the move is reasonable. Quartana, 213 Wis. 2d at 446. We also refused to find that Quartana1 s conditions of transportation amounted to an arrest: \"A restraint of liberty does not ipso facto prove that an arrest has taken place.\" Id. at 449. The transporting of Quartana back to the accident scene in the back of a squad car did not equate to an arrest as Quartana's detention was brief and public in nature. Id. at 450.\nf 10. Like Quartana, a reasonable person in Wortman's situation would not have believed he was under arrest. Pfeiffer was investigating an accident when he observed Wortman walking away from the scene and stopped him to investigate. Wortman explained that he had fallen asleep at the wheel and that he had been drinking. Pfeiffer smelled intoxicants and observed glassy eyes. Pfeiffer drove Wortman the 100 yards back to the scene of the accident.\n¶ 11. Pfeiffer's investigation continued at the accident scene. Pfeiffer determined that Wortman had eight prior OWI convictions and was on extended supervision. Pfeiffer conducted field sobriety tests, which Wortman failed. Wortman was then placed under arrest and handcuffed. The entire encounter, from investigatory stop to arrest, took approximately fifteen minutes. Until his arrest, Wortman was not in handcuffs, was not held for an extended period of time in the squad car, and was not frisked. Pfeiffer's failure to immediately return Wortman's driver's license did not transform the Terry stop into an arrest. See Quar-tana, 213 Wis. 2d at 449. We conclude that under our test for reasonable suspicion, specific and articulable facts presented evidence that criminal activity was afoot (OWI). Pfeiffer had the legal authority to briefly speak with Wortman regarding the accident and to extend the stop based on the additional factors supporting reasonable suspicion. A reasonable person in Wortman's shoes would not have considered himself under arrest until such time as he was formally arrested and placed in handcuffs. We affirm the denial of Wortman's motions to suppress.\nAppropriateness of Fine Imposed\n¶ 12. Wortman claims that the circuit court erred when it imposed a fine of $1524. Wortman argues that Wis. Stat. § 346.65(2)(am)6. only allows a civil forfeiture of $150 to $300 for a seventh, eighth, or ninth OWI conviction as § 346.65(2)(am)l. does not make an exception for subdivision six. We disagree.\nf 13. Statutory analysis begins with the plain language of the statute. State ex rel. Kalal v. Circuit Court for Dane Cty., 2004 WI 58, ¶ 45, 271 Wis. 2d 633, 681 N.W.2d 110. \"Statutory language is given its common, ordinary, and accepted meaning\" and must be interpreted \"in the context in which it is used; not in isolation but as part of a whole; in relation to the language of surrounding or closely-related statutes; and reasonably, to avoid absurd or unreasonable results.\" Id., ¶¶ 45-46. We review issues concerning statutory interpretation de novo. State v. Williams, 2014 WI 64, ¶ 16, 355 Wis. 2d 581, 852 N.W.2d 467.\n1 14. Wisconsin Stat. § 346.65(2)(am)l. provides that the penalty for \"[a]ny person violating [Wis. Stat. §] 346.63(1)\" (OWI) is a forfeiture of \"not less than $150 nor more than $300, except as provided in subds. 2. to 5. and par. (f).\" Subdivisions two through five impose escalating fines and penalties for second through sixth OWI violations. Sec. 346.65(2)(am)2.-5. Subdivision six is the section that was applicable to Wortman as it provided that any person violating § 346.63(1) \"is guilty of a Class G felony if the number of [specified] convictions . . . plus the total number of suspensions, revocations, and other convictions . . . equals 7, 8, or 9.\" Sec. 346.65(2)(am)6. (2011-12).\n¶ 15. Upon review of the language of the statute, the intent of the legislature is clear. Wisconsin Stat. § 346.65(2)(am)2.-7. clearly provides for increasing fines and terms of imprisonment based on the number of convictions amassed by the defendant. Subdivision (2)(am)6. provided that an individual, like Wortman, convicted of nine OWIs was guilty of a Class G felony. Sec. 346.65(2)(am)6. (2011-12). Under Wis. Stat. § 939.50(3)(g), the penalty for a Class G felony is \"a fine not to exceed $25,000 or imprisonment not to exceed 10 years, or both.\" The plain language of the statute provided that Wortman was guilty of a Class G felony and, therefore, subject to a fine of $25,000. To construe the statute differently would be directly contrary to the language of §§ 346.65(2)(am)6. and 939.50(3)(g). Further, if we accepted Wortman's reading, a seventh or greater OWI offense would not constitute a crime as \"[c]onduct punishable only by a forfeiture is not a crime.\" Wis. Stat. § 939.12. As Wort-man's fine was $1524, it was well within the statutory limit and was an appropriate exercise of discretion.\nBy the Court.—Judgment and order affirmed.\nWe note that the record includes two different spellings of the deputy's name: Pfeiffer and Peiffer. We use Pfeiffer throughout this decision as that is the spelling used on the citation.\nMiranda v. Arizona, 384 U.S. 436 (1966).\nWortman filed two motions: a Motion to Suppress Statements and a Motion to Suppress Because of an Illegal Arrest.\nAfter his no-merit report was denied by this court, Wortman filed a postconviction motion, which the circuit court denied.\nTerry v. Ohio, 392 U.S. 1 (1968).\nWisconsin has codified the Terry standard under Wis. Stat. § 968.24, which provides that an officer \"may stop a person in a public place for a reasonable period of time\" when supported by reasonable suspicion \"and may demand the name and address of the person and an explanation of the person's conduct.\" Section 968.24 further provides that \"[s]uch detention and temporary questioning shall be conducted in the vicinity where the person was stopped.\" All references to the Wisconsin Statutes are to the 2015-16 version unless otherwise noted.\nWisconsin Stat. § 346.65(2)(am)5. (2005—06) previously contained an all-encompassing penalty for those convicted of a fifth or greater OWI. The legislature amended the statute to include fifth or sixth offenses under subdivision five; seventh, eighth or ninth offenses under newly established subdivision six; and tenth or greater offenses under the new subdivision seven. Sec. 346.65(2)(am)5.-7. (2007-08). It appears that after the inclusion of subdivisions six and seven, the language of § 346.65(2)(am)l. was not similarly amended to reflect the change.\nIn 2012, when Wortman committed his crime, Wis. Stat. § 346.65(2)(am)6. (2011-12) provided that an individual convicted of seven, eight, or nine offenses was guilty of a Class G felony. The current version of the statute, while otherwise the same, now provides that an individual with the same number of convictions is guilty of a Class F felony. Sec. 346.65(2)(am)6.",
+        "type": "majority",
+        "author": "REILLY, PJ."
+      }
+    ],
+    "attorneys": [
+      "On behalf of the defendant-appellant, the cause was submitted on the briefs of Linda J. Schaefer of Schaefer Law Firm, S.C., Sturgeon Bay.",
+      "On behalf of the plaintiff-respondent, the cause was submitted on the brief of Scott E. Rosenow, assistant attorney general, and Brad D. Schimel, attorney general."
+    ],
+    "corrections": "",
+    "head_matter": "State of Wisconsin, Plaintiff-Respondent, v. Michel L. Wortman, Defendant-Appellant.\nCourt of Appeals\nNo. 2016AP1144-CR.\nSubmitted on briefs June 7, 2017.\nDecided August 23, 2017.\n2017 WI App 61\n(Also reported in 902 N.W.2d 561.)\nOn behalf of the defendant-appellant, the cause was submitted on the briefs of Linda J. Schaefer of Schaefer Law Firm, S.C., Sturgeon Bay.\nOn behalf of the plaintiff-respondent, the cause was submitted on the brief of Scott E. Rosenow, assistant attorney general, and Brad D. Schimel, attorney general.\nBefore Neubauer, C.J., Reilly, P.J., and Gundrum, J."
+  },
+  "file_name": "1761-01",
+  "first_page_order": 237,
+  "last_page_order": 248
+}

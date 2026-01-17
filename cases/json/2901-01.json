@@ -1,0 +1,647 @@
+{
+  "id": 12282020,
+  "name": "National Energy Marketers Association et al., Plaintiffs/Petitioners, v. New York State Public Service Commission, Defendant/Respondent; Retail Energy Supply Association, Plaintiff/Petitioner, v. New York State Public Service Commission et al., Defendants/Respondents",
+  "name_abbreviation": "National Energy Marketers Ass'n v. New York State Public Service Commission",
+  "decision_date": "2017-06-30",
+  "docket_number": "",
+  "first_page": "282",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 282"
+    },
+    {
+      "type": "parallel",
+      "cite": "60 N.Y.S.3d 760"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 Misc 3d 641",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        12170685
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/53/0641-01"
+      ]
+    },
+    {
+      "cite": "4 AD3d 726",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        26442
+      ],
+      "pin_cites": [
+        {
+          "page": "727-728"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/4/0726-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 1088",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4352081
+      ],
+      "pin_cites": [
+        {
+          "page": "1090"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/1088-01"
+      ]
+    },
+    {
+      "cite": "105 AD3d 1129",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3741488
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/105/1129-01"
+      ]
+    },
+    {
+      "cite": "253 AD2d 8",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        25922
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/253/0008-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 205",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4404483
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0205-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 661",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338252
+      ],
+      "pin_cites": [
+        {
+          "page": "669-670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0661-01"
+      ]
+    },
+    {
+      "cite": "128 Misc 2d 510",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        840283
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/128/0510-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 371",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319063
+      ],
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0371-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 235",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3742583
+      ],
+      "pin_cites": [
+        {
+          "page": "260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0235-01"
+      ]
+    },
+    {
+      "cite": "1 AD3d 751",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 AD3d 215",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        980067
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/24/0215-01"
+      ]
+    },
+    {
+      "cite": "58 Misc 2d 1",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1200006
+      ],
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/58/0001-01"
+      ]
+    },
+    {
+      "cite": "175 Misc 2d 460",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        478605
+      ],
+      "pin_cites": [
+        {
+          "page": "463-464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/175/0460-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 33",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736082
+      ],
+      "pin_cites": [
+        {
+          "page": "43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0033-01"
+      ]
+    },
+    {
+      "cite": "193 AD2d 339",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1128473
+      ],
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/193/0339-01"
+      ]
+    },
+    {
+      "cite": "95 AD2d 876",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3335898,
+        3341022
+      ],
+      "pin_cites": [
+        {
+          "page": "877"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/95/0876-02",
+        "/ad2d/95/0876-01"
+      ]
+    },
+    {
+      "cite": "930 F2d 170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541829
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/930/0170-01"
+      ]
+    },
+    {
+      "cite": "227 AD2d 82",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        346539
+      ],
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/227/0082-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 539",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4413425
+      ],
+      "pin_cites": [
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0539-01"
+      ]
+    },
+    {
+      "cite": "533 US 606",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313494
+      ],
+      "pin_cites": [
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0606-01"
+      ]
+    },
+    {
+      "cite": "72 NY2d 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4408827
+      ],
+      "pin_cites": [
+        {
+          "page": "427-428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/72/0419-01"
+      ]
+    },
+    {
+      "cite": "169 Misc 2d 924",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        839195
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "933-934"
+        },
+        {
+          "page": "935"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/169/0924-01"
+      ]
+    },
+    {
+      "cite": "245 App Div 131",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5109918
+      ],
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/245/0131-01"
+      ]
+    },
+    {
+      "cite": "136 AD2d 86",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3534846
+      ],
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/136/0086-01"
+      ]
+    },
+    {
+      "cite": "245 AD2d 450",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        407265
+      ],
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/245/0450-01"
+      ]
+    },
+    {
+      "cite": "417 US 380",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519879
+      ],
+      "pin_cites": [
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/417/0380-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 753",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4420036
+      ],
+      "pin_cites": [
+        {
+          "page": "758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0753-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 360",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3746867
+      ],
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0360-01"
+      ]
+    },
+    {
+      "cite": "279 App Div 302",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5364607
+      ],
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/279/0302-01"
+      ]
+    },
+    {
+      "cite": "98 AD2d 535",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3362720
+      ],
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/98/0535-01"
+      ]
+    },
+    {
+      "cite": "194 Misc 2d 467",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        951953
+      ],
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/194/0467-01"
+      ]
+    },
+    {
+      "cite": "146 Misc 2d 48",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        886830
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/146/0048-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 222",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311764
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0222-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393478
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0099-01"
+      ]
+    },
+    {
+      "cite": "252 AD2d 928",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        717599
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/252/0928-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1561,
+    "char_count": 41852,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2490739807610405
+    },
+    "sha256": "00889af162fea603894ac17a54f97a9b52a9cb9fc4e1903d9f7378c2c1346fcc",
+    "simhash": "1:2cb337332dc44d28",
+    "word_count": 6590
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "National Energy Marketers Association et al., Plaintiffs/Petitioners, v New York State Public Service Commission, Defendant/Respondent. Retail Energy Supply Association, Plaintiff/Petitioner, v New York State Public Service Commission et al., Defendants/Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nHenry F. Zwack, J.\nIn the two proceedings pending before the court is an order to show cause (OTSC), supported by verified petitions/complaints filed by National Energy Marketers Association, BlueRock Energy, Inc., Residents Energy, LLC and Verde Energy USA New York, LLC (collectively NEMA) and Retail Energy Supply Association (RESA), seeking a temporary restraining order and a permanent injunction. The parties seek nullification of what has come to be known as the “Low-Income Moratorium,” first issued by the Public Service Commission (PSC) on July 15, 2016 and reissued on September 15, 2016 as an “Emergency Order.” In response to both petitions, the September 28, 2016 OTSC by the court (O’Connor, J.) included a temporary restraining order (TRO) preventing the implementation of any of the provisions of the moratorium until further order of this court. The petitioners also moved for “emergency discovery,” which Judge O’Connor reserved upon and which remains pending before this court.\nAlso pending is an order to show cause dated February 9, 2017 seeking contempt for what petitioners describe as the PSC’s “blatant disregard of the temporary restraining order.” The OTSC alleges that the PSC’s issuance on December 16, 2016 of the Prohibition on Service to Low-Income Customers by Energy Service Companies—and which petitioners refer to as the “Third Moratorium Order”—was a clear violation of the September 2016 TRO. Respondents cross-moved on February 14, 2017 to vacate the TRO.\nThe Office of the Attorney General and the Utility Intervention Unit of the State of New York have made applications to file an amicus curiae brief in both actions before the court, which are opposed by RESA. The court grants these applications, and has considered the Attorney General’s briefs in making the further determinations.\nFor the reasons that follow, the court denies and dismisses NEMA’s first amended verified petition and complaint, together with denying and dismissing NEMA’s application for a temporary restraining order, preliminary injunction, and expedited discovery; and also denies and dismisses RESA’s verified petition and complaint, together with denying and dismissing RESA’s application for a temporary restraining order, preliminary injunction, and expedited discovery; and also denies and dismisses petitioners’ application for contempt. The court grants respondents’ cross motion to vacate the temporary restraining order.\nThe July 15, 2016 order—Order Regarding the Provision of Service to Low-Income Customers by Energy Service Companies—imposed a moratorium on energy services companies’ (ESCOs) enrollment and renewal of low-income customers, specifically those who participate in low-income assistance programs. The PSC found that the moratorium was “necessary to ensure that the financial benefits provided to [low-income consumers] through utility low-income assistance programs are not absorbed by ESCOs who in turn, provide gas and electricity at comparatively higher prices, without any corresponding value” to financially vulnerable consumers. The order required ESCOs to block low-income customers from enrolling with them, and to de-enroll existing low-income customers at the expiration of their contracts.\nThe petitions/complaints by NEMA and RESA argue that the PSC failed to comply with the notice provisions of the State Administrative Procedure Act when enacting the July 15, 2016 moratorium. They assert that the PSC, after considering their petitions for a rehearing, nonetheless entered an “Emergency Order” on September 15, 2016—Order on Rehearing and Providing Clarification—which reenacted the July order on an emergency basis pursuant to State Administrative Procedure Act § 202 (6), while issuing a new State Administrative Procedure Act notice on October 5, 2016, the notice of “Emergency/ Proposed Rule Making.” According to petitioners, enactment of the September 15, 2016 order did not constitute an “emergency.”\nPetitioners argue that the October notice, which doubled as both support for the Commission’s emergency rule making of September 15, 2016 and “A Notice of Proposed Rule Making,” also failed to comply with the State Administrative Procedure Act, as did the subsequent determination made by the PSC on December 16, 2016—the Order Adopting a Prohibition on Service to Low-Income Customers by Energy Service Companies. Thereafter, NEMA filed its first amended petition and complaint, renewing its arguments regarding the State Administrative Procedure Act deficiencies in the first two moratoriums, and adding that the prohibition suffered from the same faulty procedure. Petitioners assert that the October notice provided 45 days for public comment, but did not comply with the requirement that a public hearing be scheduled. Petitioners assert that there was no meaningful process to cure the substantive and procedural deficiencies underlying its prior attempts to enact the moratorium—such as a hearing or collaborative—that no true emergency justified the use of the emergency powers under the State Administrative Procedure Act, and that the PSC’s determination was unreasonable, arbitrary and capricious. While continuing to contest noncompliance with the State Administrative Procedure Act, petitioners also cited the PSC’s reliance on a deficient evidentiary record void of verifiable data such as ESCO rates, utility rates and different products offered; its violations of customer privacy rights; its constitutional violations; and the arbitrary and capricious manner in which the PSC sought to implement the moratorium.\nConcluding that the ESCOs overcharged customers by $819 million between January 2014 and June 2016, with low-income ESCO customers paying $96 million more over the same period, the PSC adopted the Order Adopting a Prohibition on the Service to Low-Income Customers By Energy Service Compa nies. The order (prohibition), which petitioners refer to as the “Third Moratorium,” provides, in pertinent part, that\n“[f]or new enrollments, the prohibition will be implemented through a rejection by the utility, through an electronic data interchange (EDI) transaction, if the prospective customer is an APP.[] Beginning 60 days after the effective date of the Order, utilities will be required to place a block on all APP accounts. In the event the APP is enrolled with an ESCO at any time after the prohibition is in effect, that enrollment shall be void.”\nThe prohibition requires ESCOs to notify their low-income customers that they will be de-enrolled at the expiration of their existing agreement.\nIn the first amended verified petition and complaint, six causes of action have been asserted. The first cause of action asserts that respondent has acted in excess of its jurisdiction and its determination is arbitrary and capricious. The second cause of action is for declaratory and injunctive relief, and the third cause of action asserts denial of due process, as does the fourth cause of action. Petitioners’ fifth cause of action asserts denial of constitutional protections (US Const 5th, 14th Amends; NY Const, art I, § 7), taking without compensation, violation of the Contracts Clause and denial of equal protection. Petitioners argue that the moratorium orders—including the prohibition—fail to comply with the State Environmental Quality Review Act; are fundamentally flawed and without basis; and were ordered before the noticed evidentiary processes and thereby based upon inaccurate pricing comparisons. Petitioners also argue that the moratorium orders violate the privacy rights of low-income customers. Petitioners assert that the PSC does not have authority to make these rule changes, including changes which will interfere with contractual relations and violate established law.\nIn its first amended verified answer, the PSC raises three objections in points of law. The first is that petitioners lack standing to assert the privacy rights of their low-income customers. Second, respondents assert that the proper procedural vehicle for the relief sought by petitioners is by way of CPLR article 78 and this is not a hybrid action. Thirdly, respondents assert that petitioners have failed to exhaust their administrative remedies by not raising before the PSC any of the challenges to: (1) the lack of energy related value added services for ESCO low-income customers; (2) the diminution of the value of the public assistance funds to low-income customers; and (3) comparisons of utility and ESCO bills to determine that ESCO low-income customers were being overcharged. Respondents also assert that petitioners have failed to offer their own product and pricing information, instead offering only bullet points criticizing respondents’ data.\nTurning first to respondents’ objection that the proper procedural vehicle for the relief petitioners seek is an article 78, and that this is not a hybrid action, the court agrees. Challenges to a legislative act—having general applicability, indefinite duration and formal adoption—can only be made in a declaratory action (Matter of Frontier Ins. Co. v Town Bd. of Town of Thompson, 252 AD2d 928 [3d Dept 1998]). Challenges to the procedures in which an act is adopted, such as administrative determinations, are the proper subject of article 78 proceedings (Consolidated Edison Co. of N.Y. v Town of Red Hook, 60 NY2d 99 [1983]). These proceedings challenge the administrative action of the PSC, and while the actions are alleged to have constitutional implications, this does not make it a hybrid proceeding.\nWhen the issue before the court concerns the exercise of discretion by an administrative agency, it “cannot interfere unless there is no rational basis for the exercise of discretion or the action complained of is arbitrary and capricious” (Matter of Pell v Board of Educ. of Union Free School Dist. No. 1 of Towns of Scarsdale & Mamaroneck, Westchester County, 34 NY2d 222, 231 [1974] [internal quotation marks omitted]). Here, the court is also mindful when reviewing decisions of the PSC that “[a]dministrative agencies are endowed by experience with greater expertise” (Matter of Estrella v Bradford, 146 Misc 2d 48, 52 [Sup Ct, Albany County 1989]) and on issues of fact and policy it is appropriate to defer to the agency (Matter of New York State Elec. & Gas Corp. v Public Serv. Commn. of State of N.Y., 194 Misc 2d 467, 470 [Sup Ct, Albany County 2002]), “whose judgment in such matters will be set aside only if it can be shown that a rational basis and reasonable support in the record are lacking” (Matter of New York Tel. Co. v Public Serv. Commn., 98 AD2d 535, 538 [3d Dept 1984]). Stated differently, the PSC’s determinations are entitled to substantial deference and must be affirmed unless they lack “any reasonable support in the record for the action taken” (Matter of Campo Corp. v Feinberg, 279 App Div 302, 307 [3d Dept 1952]). “[A] court, in dealing with a determination . . . which an administrative agency alone is authorized to make, must judge the propriety of such action solely by the grounds invoked by the agency” (Matter of National Fuel Gas Distrib. Corp. v Public Serv. Commn. of the State of N.Y., 16 NY3d 360, 368 [2011], quoting Matter of Scherbyn v Wayne-Finger Lakes Bd. of Coop. Educ. Servs., 77 NY2d 753, 758 [1991]). “[A]n agency’s order must be upheld, if at all, on the same basis articulated in the order by the agency itself” (FPC v Texaco Inc., 417 US 380, 397 [1974]) and not by the agency’s post order actions.\nAddressing petitioners’ argument that the PSC has no authority to regulate ESCOs with respect to consumer pricing requirements, the court notes that it has already determined that the PSC has such authority, and petitioners are collaterally estopped from arguing otherwise. Collateral estoppel “precludes a party from relitigating in a subsequent action or proceeding an issue clearly raised in a prior action or proceeding and decided against that party” (Matter of Heritage Hills Sewage Works Corp. v Town Bd. of Town of Somers, 245 AD2d 450, 453 [2d Dept 1997]). To reiterate the court’s previous determination: “Clearly, the Public Service Commission has the authority to establish public utility rates, in fact, it has been ‘recognized as “the very broadest of powers” ’ ” (National Energy Marketers Assn. v New York State Pub. Serv. Commn., 53 Misc 3d at 650; Public Service Law § 66 [12] [f]; Matter of Kessel v Public Serv. Commn. of State of N.Y., 136 AD2d 86, 92 [3d Dept 1988]). The Public Service Law is replete with other references to this exact authority. Public Service Law § 5 refers to the Commission’s broad statutory grant of authority over the sale of natural gas and electricity; Public Service Law, article 4, § 65 (1) provides in pertinent part that “[a]ll charges made or demanded by any such gas corporation, electric corporation or municipality for gas, electricity or any service rendered or to be rendered, shall be just and reasonable and not more than [that] allowed by law or by order of the commission.” This court further concluded that “[i]t is the duty of the Commission to prevent the imposition upon the public of unfair rates, and the creation of a rate base which is not justified” (Matter of New York State Elec. & Gas Corp. v Public Serv. Commn. of State of N.Y., 245 App Div 131, 134 [3d Dept 1935]). Public Service Law § 53 clearly provides that article 2 of the Public Service Law applies to “any entity that, in any manner, sells or facilitates the sale or furnishing of gas or electricity to residential customers.”\nThe notion that ESCOs, direct offshoots of the PSC’s activity of unbundling rates, and whose conduct is prescribed by the Uniform Business Practices (UBP) adopted by the PSC, have somehow morphed into a separate energy sector with independent rights simply has no basis in law. To the extent that ESCOs believe that their regulation must be minimized because of this also has no basis in law. Just as when the utilities argued that the PSC did not have the authority to direct “retail wheeling of electricity by electric utilities,” the court determined that the Public Service Law “[could] not be restrictively read” (Matter of Energy Assn. of N.Y. State v Public Serv. Commn. of State of N.Y., 169 Misc 2d 924, 933-934 [Sup Ct, Albany County 1996], citing Matter of New York Tel. Co. v Public Serv. Commn. of State of N.Y., 72 NY2d 419, 427-428 [1988]).\nAs for petitioners’ constitutional arguments, the court finds no violations of the Contracts, Due Process or Takings Clause with respect to the implementation of the prohibition. As to the Contracts Clause, the prohibition involves only the making of new contracts with low-income customers, and present contracts clearly remain in place. As to the equal protection claim, the prohibition reasonably reflects the different situation of low-income customers and ratepayer subsidies. The Fifth Amendment’s Takings Clause, applicable to New York through the 14th Amendment, “prohibits . . . government [s] from taking private property for public use without just compensation” and implicit in this definition is that a property interest must actually exist before it can be taken (Palazzolo v Rhode Island, 533 US 606, 617 [2001]). The “[p]roperty interests are not created by the Constitution, but rather by existing rules or understandings that stem from an independent source such as state law” (Matter of Medicon Diagnostic Labs. v Perales, 74 NY2d 539, 545 [1989] [internal quotation marks and citation omitted]). A property interest protected by the 14th Amendment does not accrue when an agency, as here the PSC, “retains significant discretion over the [entities’] . . . participation in a government program” (Matter of Loyal Tire & Auto Ctr. v New York State Thruway Auth., 227 AD2d 82, 86 [3d Dept 1997]). The court must look to the “relevant statute, regulation, or contract establishing [the] eligibility for the government benefit at issue. . . . [And] [i]f the statute, [or] regulation, or contract in issue vests in the state significant discretion over the continued conferral of th[e] benefit, it will be the rare case” that a property interest is created (Kelly Kare, Ltd. v O’Rourke, 930 F2d 170, 175 [2d Cir 1991]).\nClearly, a utility does not have a property interest in a customer (Matter of Energy Assn., 169 Misc 2d at 935). Similarly, “[w]hile customers of utilities are entitled to just and reasonable rates, they do not acquire any interest in the property of the utility” (Matter of Multiple Intervenors v Public Serv. Commn., 95 AD2d 876, 877 [3d Dept 1983] [citations omitted]; Matter of Kessel v Public Serv. Commn. of State of N.Y., 193 AD2d 339, 346 [3d Dept 1993]).\nBecause the PSC retains jurisdiction over the ESCOs to establish reasonable rates, logic dictates that it retains a sufficient amount of control over the retail energy market to prevent the assertion by these companies that they have a “property interest.” Absent an identifiable property interest— and it has already been established that a customer is not a property interest—petitioners cannot successfully assert a violation of the Takings Clause or due process. As to any interference with the petitioners’ contractual relationship with their customers, the prohibition does not require that any existing contracts be breached. Rather, and permissibly, it is only at the conclusion of an existing agreement that the ESCOs are precluded from entering into a new agreement with a low-income customer.\nTurning to petitioners’ argument that the PSC is violating the privacy rights of the APPs with the prohibition, on this issue they simply lack standing. Merely because the earlier collaborative expressed a concern about violating the statutory privacy rights of APPs does not in any way prevent the PSC from revising its position, especially in light of the ESCOs repeated failure to address the PSC’s concerns regarding overcharging these low-income customers. Further, the State has an affirmative duty under the State Constitution, as it may determine, “to provide aid, care and support of the needy” (Brownley v Doar, 12 NY3d 33, 43 [2009]). The Low Income Home Energy Assistance Program (LIHEAP), like other federal assistance plans, is not funded solely by federal programs, and therefore the State has more “liberal divulgence” as to welfare programs in order for “[an] official required to have such information properly to discharge . . . his duties” (People v Triuck, 175 Misc 2d 460, 463-464 [Sup Ct, Kings County 1998]). Disclosure concerning applicants is proper for the “administration of the plan” according to 45 CFR 205.50 (a) (1) (i) (A). The right of privacy “is a purely personal one which may be enforced only by the party himself” (Rosemont Enters. v Random House, 58 Misc 2d 1, 7 [Sup Ct, NY County 1968] [citations omitted]; “J. Doe No. 1” v CBS Broadcasting Inc., 24 AD3d 215 [1st Dept 2005]). Further, LIHEAP does permit disclosure where necessary for the administration of programs, and it authorizes data exchange with utilities to avoid duplicate programs, permits disclosure where necessary for the administration of programs, and only prohibits “improper disclosure.”\nAll said, weighing the issue of total privacy of low-income customers against insuring their right not to overpay for energy services, and the public’s right not to subsidize these energy companies, the provisions in the prohibition which amount to the sharing of the LIHEAP status of customers is well within the authority of the PSC.\nAddressing petitioners’ State Administrative Procedure Act arguments, they cannot in good faith argue that they were not given an opportunity to be heard at a meaningful time and in a meaningful manner regarding the PSC’s serious and repeated concerns regarding low-income customers being overcharged for services. Since 2012, the PSC has repeatedly stated its concern for the dilution of assistance benefits provided to low-income customers by ESCOs, and toward that end modifications to the UBP and utility tariffs were first ordered on February 25, 2014. Included among those orders was a direction that ESCOs serving low-income assistance program utility customers must either “guarantee savings over what consumers would pay their utility or provide such consumers with energy related value added services that reduce the consumer’s overall energy bill.” Following numerous petitions for a rehearing, the PSC stayed enforcement of the February 25, 2014 mandates; however, the mandates were affirmed by order dated February 6, 2015, and the low-income collaborative was launched to address implementation of these protections: that the ESCO who serves a participant in a low-income assistance program guarantee that APPs will pay no more than what they would pay as a full service customer of a utility, or the ESCO must provide the customer with an energy related value added product or service which does not dilute the value of the financial assistance program. The low-income collaborative found that “few, if any, ESCO intend to offer a product which guarantees that the customer will pay no more than would have been paid had energy been purchased from the utility” (PSC, Report of the Collaborative Regarding Protections for Low-Income Customers of Energy Service Companies, dated Nov. 5, 2015).\nAs a part of the February 26, 2015 order, the PSC launched a staff investigation into “requirements energy service companies must satisfy when providing electric or gas services in New York” in order to assess the revisions proposed in the UBP. A staff report was issued on July 28, 2015, and comments were solicited by notice dated August 12, 2015. Also, in conjunction with this order, the PSC convened a collaborative to determine a mechanism by which utility low-income customers could be identified, and “to define energy-related value-added products and services that must be provided to assistance Program Participants to qualify for exemption from the price guarantee.” The collaborative’s report (PSC, Report of the Collaborative Regarding Protections for Low-Income Customers of Energy Service Companies) was filed on November 5, 2015. As part of the collaborative, consumer advocates (the City of New York, Utility Intervention Unit of the New York State Department of State, Public Utility Law Project [PULP], and the American Association of Retired Persons) asserted, because of the difficulty identifying those low-income customers because of confidentiality requirements, and the lack of quantifiable and identifiable energy related value added products or savings, that the protections being offered for low-income customers should be made available across the board to all residential customers. The report was then issued with notice seeking comments on December 1, 2015—with the Secretary to the Commission extending the comment deadlines for initial and reply comments to January 29, 2016 and February 11, 2016. During the collaborative and during the comment period, New York State Energy Marketers Coalition and petitioners RESA and NEMA opposed expansion of the protections discussed in the collaborative report to any customers beyond low-income customers. When the PSC adopted the alternative approach advocated by consumer groups by issuing what was known as the reset order, this court found that the expansion of the inquiry from low-income households to the general public violated the State Administrative Procedure Act, as there was no notice that such an application was intended and petitioners were thereby deprived of an opportunity to be heard at a meaningful time and in a meaningful manner.\nClearly, the present prohibition does not suffer from the same infirmities experienced by the reset order. While petitioners argue that no public hearing was held, that is not an absolute requirement (Matter of Interstate Indus. Corp. v Murphy, 1 AD3d 751 [3d Dept 2003]), and on this record the court finds that the PSC provided the petitioners with the requisite and ample “opportunity to be heard in a meaningful manner at a meaningful time” (Matter of Kaur v New York State Urban Dev. Corp., 15 NY3d 235, 260 [2010]) before it issued the prohibition. Further, albeit petitioners argue that the data used by the PSC was unreliable and incomplete, they have simply failed to offer any actual alternative numbers based on the data shared with them by the utilities and the PSC, and instead offer only conclusions, speculation and hyperbole in opposition, in the court’s view, to the PSC’s reliable and accurate data. Here, the court has particularly considered the affidavit of Bruce Alch, PSC’s Chief of Retail Access and Economic Development Section of the Office of Consumer Services—which the petitioners simply failed to offer any proof in evidentiary form to refute.\nThe first amended verified petition warrants dismissal for another reason. The PSC accurately alleges that petitioners have failed to exhaust their administrative remedies. The court’s reading of the prohibition clearly finds a provision whereby a retail energy provider may be exempted from its application (“Reconsideration and Waiver of the Prohibition”) and which requires what the PSC has asked retail energy providers to do since 2014—demonstrate the ability and desire to achieve savings for low-income customers. On this record, petitioners were obligated to exhaust all possibilities of obtaining relief through administrative channels prior to filing an article 78 (Young Men’s Christian Assn. v Rochester Pure Waters Dist.., 37 NY2d 371, 375 [1975]) and the requirement was not obviated by petitioners raising the additional constitutional issues in this proceeding (Cahill v Public Serv. Commn., 128 Misc 2d 510 [Sup Ct, Albany County 1985]). The previous collaborative focused on what “value added energy products” petitioners could provide to their low-income customers, and concluded that none were sufficiently identified. The collaborative rejected the argument that the fixed rate contract for APPs was such a “value added energy product,” nor were “gift cards” or “free months.” On this record, since the collaborative report of 2015, what is clear, despite the PSC affording ESCOs ample opportunity to produce some evidence of some “value added energy product” that has simply not happened. What can also be reasonably concluded is that the ESCOs have instead focused on litigation to frustrate the plain purpose of the PSC and Public Service Law—consumer protection through the adoption of reasonable rates, particularly for those whose utility costs are being subsidized by the public. To claim now that they were unaware that such a prohibition would be forthcoming is disingenuous at best. The low-income collaborative certainly put ESCOs on notice that value added energy products and services needed to be developed and demonstrated. While, of course, it can be said that some efforts were made, what is lacking is any application by a member of NEMA or RESA for a waiver from the prohibition— absent that, the petitioners have failed to exhaust the available administrative remedies.\nPetitioners’ argument that the prohibition cannot stand because it lacks a rational basis and is arbitrary and capricious is also without merit. The PSC’s findings are well written and exceptionally comprehensive, address all of petitioners’ arguments, and are well supported by the record. The court finds the determination to be rationally and reasonably related to the mission of the PSC—to protect the public interest by insuring that energy remains affordable for all consumers in the state, especially for low-income consumers. The court agrees with the observations noted by the PSC in the prohibition order:\n“Given the ESCO community’s resistance and rejection of all efforts to protect the State’s most economically vulnerable energy consumers, and in accordance with its obligation to ensure that rates remain just and reasonable in competitive markets, the Commission took necessary affirmative action in the July and September orders by imposing a temporary moratorium on ESCO enrollments and renewals of APP.”\nUnderlying its determination was the finding, that was unchallenged by petitioners during the Low-Income Moratorium, that APPs paid more for utility service than utility APP customers, which leads to the decrease in the value of public assistance programs to low-income customers who utilized ESCO services. Clearly the PSC’s determination to adopt first the moratoriums, and then the prohibition, was a rational exercise of its broad authority and technical expertise to set rates (Mat ter of New York State Council of Retail Merchants v Public Serv. Commn. of State of N.Y., 45 NY2d 661, 669-670 [1978]). The decision reflects the PSC’s choice of customer and ratepayer protection over alleged interests of customer choice and a competitive market. The prohibition reflects a reasonable accommodation of the parties’ interests which is well within the discretion of the PSC (Matter of Abrams v Public Serv. Commn. of State of N.Y., 67 NY2d 205 [1986]). The record before the PSC fully supports the prohibition, which followed an extensive process in which the ESCOs fully participated, and the court notes that the ESCOs did not dispute the PSC’s concerns during the extensive low-income collaborative process that higher ESCO prices eroded the benefits of low-assistance programs funded by taxpayers and ratepayers. In spite of ESCOs repeated insistence that the Commission recognized the price guarantee offered by the energy companies as a value added project, this simply is not and was never the case, and instead the record establishes that the ESCOs during the collaborative—and to this day—were unwilling or unable to identify a value added energy product which would provide a price guarantee. Given the overwhelming evidence that low-income energy ESCO customers are paying more than the utility would charge for energy so that ESCOs may maintain their distribution services (and profits), together with the inability of ESCOs to offer an energy based solution to this persistent problem, the PSC was left with no alternative but to prohibit these customers from utilizing an ESCO until such time as these energy companies take some action to provide protections to low-income customers.\nConcerning the petitioners’ request for discovery, “[u]nder CPLR article 78, a petitioner is not entitled to discovery as of right, but must seek leave of court pursuant to CPLR 408 . . . [and] discovery is granted only where it is demonstrated that there is [a] need for such relief” (Matter of Town of Pleasant Val. v New York State Bd. of Real Prop. Servs., 253 AD2d 8, 15 [2d Dept 1999]; Matter of Lally v Johnson City Cent. Sch. Dist., 105 AD3d 1129 [3d Dept 2013]). On a motion for discovery in an article 78 proceeding, the court will consider whether providing the proposed discovery would be unduly prejudicial or unduly burdensome, would violate confidentiality, or would delay the case (Matter of Town of Pleasant Val. v New York State Bd. of Real Prop. Servs., 253 AD2d 8 [2d Dept 1999]).\nOn this record, the petitioners have failed to establish a “demonstrated need” for the further discovery they seek in these proceedings. The price comparisons made by the utilities were provided to NEMA as were interrogatories served by the PSC and answered by the utilities, explaining how the prices were developed. In fact, the PSC has voluntarily met every request made by NEMA. The methodology used by the PSC, billing comparisons, is a well established practice and is required under the Home Energy Fair Practices Act. The act requires that in the case of an ESCO termination of an APP for nonpayment, the utility must price compare with the servicing ESCO and return service at the lower price—ESCO or utility bundle. Further, as part of the low-income collaborative, utilities were directed to develop “historical” bill calculators which compare what a customer paid to the utility for distribution services and ESCO commodity to what the customer would have paid if he or she were full-service customers. The utilities affirmed that they had done so, and these calculators were shared with ESCOs. Faced with the fact that it is the utilities who bill ESCO customers in the vast majority of cases, ESCOs cannot argue over the use of utility data now. On this record, the court rejects, as unsupported, the notion that there is value in the different products ESCOs offer. In fact, the gift cards ESCOs offer a low-income ratepayer are actually paid for by the ratepayer through the LIHEAP assistance, and hardly meet an energy need. Utilities have always had to offer fixed rate billing—it is the budget programs—and ESCOs cannot claim that this is a unique service.\nNor is there any merit to the petitioners’ complaint concerning the PSC’s utility methodology—a methodology they embrace every time a bill for their services is sent out—or to their claim that the Alch affidavit contains figures not relied upon by the PSC. However viewed, the Alch affidavit supports the reasonableness of the PSC determination, and does not provide new information that was not before the PSC when it considered the prohibition.\nAll said, the PSC correctly tagged the petitioners’ motion for discovery as nothing more than a delaying tactic—undertaken only to further delay the implementation of the prohibition— and the request for discovery is denied.\nTurning to the petitioners’ application to hold the PSC in contempt for what it describes as its violation of the temporary restraining order, and seek counsel fees, the court is mindful that “[t]he decision of whether to hold in contempt a party who fails to comply with a court order rests within the court’s sound discretion” (Howe v Howe, 132 AD3d 1088, 1090 [3d Dept 2015], quoting Davis-Taylor v Davis-Taylor, 4 AD3d 726, 727-728 [3d Dept 2004]). The court notes that this issue was raised before the PSC by its one dissenting member during the meeting at which it approved the prohibition. The member questioned whether enacting the permanent prohibition would run afoul of the court’s restraining order. The majority of the PSC expressed the view that the prohibition was a new order, inasmuch as the restrained moratoriums were not being implemented. The court notes that the first moratorium was replaced by the Emergency Order, the second moratorium. The Emergency Order had a specific expiration date of December 19, 2016. At the end of that period, no moratorium would be in place, and the restraining order would be moot. Following the appropriate State Administrative Procedure Act notification— the requirements, including the justification, for the section 202 (6) emergency were properly set forth in the notice, not the rule—and aware of the expiration date, the PSC lawfully issued the prohibition. The justification for the emergency, which was reasonable, is that the moratorium/prohibition needed to be in place before the heating season. Because the two previous moratoriums are no longer legally viable—one was judicially viable for three days—there simply is no justiciable controversy relating to the orders prohibited by the TRO. Although petitioners assert that the PSC was barred from any proceedings concerning a low-income moratorium, the court does not agree. The PSC did not try to enforce the prior moratoriums, and in good faith has not sought to enforce the prohibition while this determination has been pending, and the status quo has been maintained.\nImplicit in this court’s determination is the opinion that the ESCO market is in need of immediate reform to protect low-income consumers and to avoid the diminution of taxpayer-funded assistance funds. Accordingly, the court would not expect, given the ESCOs’ posture in these proceedings, that the PSC would take no steps in furtherance of its obligation to all utility ratepayers. Short of actually attempting to enforce the Emergency Moratorium order, there has been no contempt, and on this record it would be an abuse of the court’s discretion to so hold.\nThe court notes that petitioners initially met the requirements for an injunction and were granted a temporary restraining order. However, as discussed above, petitioners have simply not met their burden for permanent injunctive relief, as the balance of the equities is clearly with the PSC and which has acted pursuant to statutory authority to protect New York consumers. Any financial loss the ESCOs may experience as a result of the prohibition—which is imposed on the limited class of low-income customers (APPs)—does not compare to the necessity of cost saving for APPs and the ratepayers who subsidize them.\nAccordingly, it is ordered that the first amended verified petition and complaint of National Energy Marketers Association, BlueRock Energy, Inc., Residents Energy, LLC and Verde Energy USA New York, LLC (index No. 5860-16) is denied and dismissed in all respects; and it is further ordered that the verified petition and complaint of Retail Energy Supply Association (index No. 5693-16) is denied and dismissed in all respects; and it is further ordered that the petitioners’ applications for a temporary restraining order, preliminary injunction, expedited discovery and contempt are denied; and it is further ordered that respondents’ cross motion to vacate the temporary restraining order is granted.\n. Part of the PSC’s rationale for the moratorium was its recent issuance of a directive in May 2016 that limits the energy burden to low-income customers to 6% of the customer’s income, increasing the need for energy assistance programs to go further.\n. Assistance Program Participant.\n. Procedurally, the petition was amended to reflect the enactment of the December 16, 2016 prohibition.\n. Petitioners argue that the orders will be environmentally detrimental by reducing customers’ access to “green” energy. That said, they provide no actual data or argument that APPs make up a significant customer base, nor was this issue raised before the Commission.\n. General Business Law § 349-d (6) provides that no material changes may be made to terms or duration of an ESCO contract without the consent of the customer. The prohibition makes no changes to existing contracts, and is only effective on expiration of same.\n. The court understands that an appeal has been taken of its previous order—National Energy Marketers Assn. v New York State Pub. Serv. Commn. (53 Misc 3d 641 [Sup Ct, Albany County, July 22, 2016]).\n. Order Taking Actions to Improve the Residential and Small NonResidential Retail Access Markets, NY PSC Case No. 12-M-0476 (Feb. 25, 2014).\n. PULP and Public Advocate for New York concluded that ESCOs were simply not able to offer products that guarantee savings, and privacy issues made it unlikely that low-income customers could be readily identifiable and consumer protections made this data sharing improbable. Further, changes in utility databases and other costs of maintaining a verification system would need to be transferred to the ratepayer.\n. For example, the record clearly refutes the conclusory statements in the affidavit of Thomas Fitzgerald, CEO of Verde Energy, in support of the temporary restraining order, arguing that the utilities failed to respond to its request to “fully unbundle the costs of competitive functions from their delivery rates so that those costs may properly be reflected in the utilities price to compare.” Craig Goodman, President of NEMA, explains it as, “Utilities have consistently refused . . . efforts to provide ESCO data showing their actual cost of the electric and gas commodities they purchase.”\n. Implementation of the order was extended, as a result of a January 17, 2017 petition by NEMA and Impacted ESCO Coalition for a rehearing to allow the petition to grant requests for waivers of the prohibition.\n. (See Order Taking Actions to Improve the Residential and Small NonResidential Retail Access Markets, NY PSC Case No. 12-M-0476 at 24 [Feb. 25, 2014].) RESA, in its August 10, 2016 “Petition and Request for Clarification,” poses the exact question the order answers, and that is what if an ESCO has a product that can be valuable to a customer.\n. In his affidavit dated September 26, 2016 in support of a temporary restraining order, Phil VanHorne, CEO of BlueRock Energy, Inc., asserts that “[t]he PSC has repeatedly reegonized that ESCO like BlueRock offer value-added services, including specifically recognizing that fixed-rate plans are value add[ed] products by the nature of their budget predictability and certainty.” The court finds no basis for this repeated assertion in the present record.",
+        "type": "majority",
+        "author": "Henry F. Zwack, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Boies Schiller & Flexner LLP, Armonk (Jason Cyrulnik of counsel), for plaintiffs/petitioners in the first above-entitled action/proceeding.",
+      "Barclay Damon, LLP, Syracuse (David G. Burch, Jr. of counsel), for plaintiff/petitioner in the second above-entitled action/proceeding.",
+      "Paul Agresta, General Counsel, New York State Public Service Commission, Albany («Jonathan D. Feinberg of counsel), for defendants/respondents in the first and second above-entitled actions/proceedings.",
+      "Eric T. Schneiderman, Attorney General, New York City (Judith Vale and Andrew Rhys Davies of counsel), for Office of the Attorney General and another, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[60 NYS3d 760]\nNational Energy Marketers Association et al., Plaintiffs/Petitioners, v New York State Public Service Commission, Defendant/Respondent. Retail Energy Supply Association, Plaintiff/Petitioner, v New York State Public Service Commission et al., Defendants/Respondents.\nSupreme Court, Albany County,\nJune 30, 2017\nAPPEARANCES OF COUNSEL\nBoies Schiller & Flexner LLP, Armonk (Jason Cyrulnik of counsel), for plaintiffs/petitioners in the first above-entitled action/proceeding.\nBarclay Damon, LLP, Syracuse (David G. Burch, Jr. of counsel), for plaintiff/petitioner in the second above-entitled action/proceeding.\nPaul Agresta, General Counsel, New York State Public Service Commission, Albany («Jonathan D. Feinberg of counsel), for defendants/respondents in the first and second above-entitled actions/proceedings.\nEric T. Schneiderman, Attorney General, New York City (Judith Vale and Andrew Rhys Davies of counsel), for Office of the Attorney General and another, amici curiae."
+  },
+  "file_name": "2901-01",
+  "first_page_order": 282,
+  "last_page_order": 299
+}

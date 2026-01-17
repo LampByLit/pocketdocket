@@ -1,0 +1,544 @@
+{
+  "id": 4352418,
+  "name": "The People of the State of New York, Respondent, v. Larry Whitaker, Appellant",
+  "name_abbreviation": "People v. Whitaker",
+  "decision_date": "2015-05-22",
+  "docket_number": "",
+  "first_page": "1016",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 1016"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Essex Cty. Ct.",
+    "id": 9624,
+    "name": "County Court of New York, Essex County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "248 AD2d 889",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1669004
+      ],
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/248/0889-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 780",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426825
+      ],
+      "pin_cites": [
+        {
+          "page": "783"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0780-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 513",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4390918
+      ],
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0513-01"
+      ]
+    },
+    {
+      "cite": "148 AD2d 1007",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3581921,
+        3578729,
+        3586255
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/148/1007-03",
+        "/ad2d/148/1007-02",
+        "/ad2d/148/1007-01"
+      ]
+    },
+    {
+      "cite": "57 NY2d 136",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4387363
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/57/0136-01"
+      ]
+    },
+    {
+      "cite": "144 AD2d 285",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3559646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/144/0285-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 1047",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320302
+      ],
+      "pin_cites": [
+        {
+          "page": "1049"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/1047-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 702",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4425868
+      ],
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0702-01"
+      ]
+    },
+    {
+      "cite": "334 US 736",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159179
+      ],
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/334/0736-01"
+      ]
+    },
+    {
+      "cite": "805 F2d 1117",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1111570
+      ],
+      "pin_cites": [
+        {
+          "page": "1123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/805/1117-01"
+      ]
+    },
+    {
+      "cite": "818 F2d 1052",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716316
+      ],
+      "pin_cites": [
+        {
+          "page": "1055"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/1052-01"
+      ]
+    },
+    {
+      "cite": "430 US 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124278
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "358",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "1204",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0349-01"
+      ]
+    },
+    {
+      "cite": "389 US 128",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11335632
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0128-01"
+      ]
+    },
+    {
+      "cite": "161 AD2d 957",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        994986
+      ],
+      "pin_cites": [
+        {
+          "page": "958"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0957-01"
+      ]
+    },
+    {
+      "cite": "99 AD2d 883",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3357992
+      ],
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/99/0883-01"
+      ]
+    },
+    {
+      "cite": "65 AD3d 716",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "pin_cites": [
+        {
+          "page": "717-718"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 NY2d 100",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319188
+      ],
+      "pin_cites": [
+        {
+          "page": "112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0100-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 564",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "301 AD2d 784",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012922
+      ],
+      "pin_cites": [
+        {
+          "page": "786"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/301/0784-01"
+      ]
+    },
+    {
+      "cite": "293 AD2d 212",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        955729
+      ],
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/293/0212-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 975",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 AD2d 909",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1106910
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/188/0909-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 52180",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 1203",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 Misc 2d 103",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        952019
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "104"
+        },
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/194/0103-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 219",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3704188
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0219-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 761",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326308
+      ],
+      "pin_cites": [
+        {
+          "page": "762"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0761-01"
+      ]
+    },
+    {
+      "cite": "12 NY2d 428",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2264531
+      ],
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/12/0428-01"
+      ]
+    },
+    {
+      "cite": "3 NY2d 148",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2245864
+      ],
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/3/0148-01"
+      ]
+    },
+    {
+      "cite": "47 AD2d 661",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5412936,
+        5395586,
+        5400688
+      ],
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/47/0661-03",
+        "/ad2d/47/0661-02",
+        "/ad2d/47/0661-01"
+      ]
+    },
+    {
+      "cite": "29 NY2d 250",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2301659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/29/0250-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 975,
+    "char_count": 22227,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1481447373958868
+    },
+    "sha256": "5f90f5994d877121df16ead1268bd3dff289b2ac9b3cb36097c40d9b4fdd1800",
+    "simhash": "1:96a29acd77db1fb5",
+    "word_count": 3625
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Respondent, v Larry Whitaker, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRichard B. Meyer, J.\nAppeal by the defendant from a judgment of the Town of Elizabethtown Justice Court (Garrison, J.) revoking the defendant’s three-year probation sentence and re-sentencing him to a definite sentence of three months in jail.\nThe defendant was convicted of the crime of criminal mischief in the fourth degree (Penal Law § 145.00), a class A misdemeanor, in the Justice Court of the Town of Dannemora, Clinton County, on February 11, 2013. He was ordered to pay restitution of $1,440.54 plus a 10% surcharge of $144.05 for a total of $1,584.59, at the rate of $75 per month “payable to CLINTON COUNTY PROBATION DEPARTMENT, 34 Court Street, Plattsburgh, NY 12901,” and sentenced to a three-year term of probation that included a separate condition for payment of the restitution. There was no provision in the probation conditions requiring the defendant to pay any other amounts (i.e., crime victim fee, mandatory surcharge, DNA fee). By an order of intrastate transfer dated February 26, 2013, and because the defendant then resided in the Town of Moriah, Essex County, probation supervision was transferred to Essex County. In that order, the defendant’s address is listed as being in Moriah, New York, but the receiving court is designated to be the “Elizabethtown Town Court.” The Essex County Probation Department accepted the transfer of supervision on March 1, 2013, and “[u]pon completion of transfer, the appropriate court within the jurisdiction of the receiving probation department . . . assume [d] all powers and duties of the sentencing court and . . . sole jurisdiction in the case” (CPL 410.80 [2] [a]).\nA probation violation information, sworn to by a probation officer with the Essex County Probation Department and dated June 4, 2014, was filed with the Town of Elizabethtown Justice Court. The sole violation alleged was that the defendant then owed $490 in restitution, the defendant having only paid $635 when he should have paid $1,125 (15 months at $75 per month). On June 12, 2014, the defendant admitted to the violation of probation, and the case was adjourned until December 11, 2014. When the defendant failed to appear at the December date, a warrant for his arrest was issued, and the town justice signed a judgment in the amount of $519.59 against the defendant, that being the amount then owed toward his restitution obligation. The defendant was arrested on December 31, 2014 and upon being brought before the local court he was remanded without bail to the county jail.\nOn January 8, 2015 the defendant again appeared before the local court. As of that date, the restitution amount had been paid and satisfied in full. However, the local court revoked the defendant’s probation sentence and re-sentenced him to three months’ incarceration in the county jail. The defendant now appeals, challenging the subject matter jurisdiction of the local court to hear and determine the probation violation and claiming that the disposition imposed was harsh and excessive.\nI.\n“Upon completion of transfer, the appropriate court within the jurisdiction of the receiving probation department shall assume all powers and duties of the sentencing court and shall have sole jurisdiction in the case including jurisdiction over matters specified in article twenty-three of the correction law.” (CPL 410.80 [2] [a].) The defendant contends that “the appropriate court” here is not in the Town of Elizabethtown, where the probation department has its offices, but instead is the Town of Moriah, where the defendant resides. The People assert that the Essex County Probation Department has authority to choose any court within the county as the venue for a probation violation, irrespective of a defendant’s residence in the county or any of the jurisdictional requirements for the commencement of criminal proceedings in CPL 20.40 and 20.50. Both are incorrect.\n“The subject matter jurisdiction of the Justice Court in criminal cases is limited to those matters in which the court has geographical jurisdiction (UJCA, § 2001, subd. [1]; CPL 20.40, subds. 1, 2; CPL 20.50, subd. 1; People v Osborne, 29 NY2d 250).” (People v Epstein, 47 AD2d 661, 662 [2d Dept 1975].) “[I]t is certain that a defect in [subject matter] jurisdiction can never be waived (see, e.g., People v Scott, 3 NY2d 148, 152).” (People v Nicometi, 12 NY2d 428, 431 [1963].) Thus, “[t]he commencement of a criminal action requires that the criminal conduct bear a necessary nexus to the geographical jurisdiction of the court wherein the action is commenced. (CPL 20.40, 20.50.)” (People v Hickey, 40 NY2d 761, 762 [1976].) Under CPL 20.50, which makes applicable “[t]he principles prescribed in section 20.40, governing geographical jurisdiction over offenses as between counties of this state, ... to the determination of geographical jurisdiction over offenses as between . . . towns . . . within a particular county” (CPL 20.50 [1]), the jurisdiction of a town justice court is generally limited to offenses committed within that town. As relevant here, however, if “[t]he offense committed was one of omission to perform a duty imposed by law, which duty either was required to be or could properly have been performed in such [town] . . . it is immaterial whether such person was within or outside such [town] at the time of the omission” (CPL 20.40 [3]).\nWith these immutable jurisdictional rules in mind, it is clear that “the appropriate court” having jurisdiction over matters relating to a transferred probation sentence can and must only be determined based upon the geographic location of the defendant’s offending conduct as circumscribed by CPL 20.40 and 20.50. As applied here, the defendant’s failure to make the restitution payments to the Essex County Probation Department, located in the Town of Elizabethtown, provides the necessary geographic nexus for the Town of Elizabethtown Justice Court to have subject matter jurisdiction over the defendant’s probation violation proceeding premised upon such nonpayment. Similarly, the violation proceeding could properly have been brought in the defendant’s town of residence (CPL 20.40 [3]) or in Essex County Court (see People v Roberts-Alexandrov, 102 AD3d 219 [3d Dept 2012]).\nThe result here is not inconsistent with the cases cited by either the defendant (Matter of Rogers, 194 Misc 2d 103, 104 [Elmira City Ct 2002]; People v Murtovic, 42 Misc 3d 1203[A], 2013 NY Slip Op 52180[U] [Newburgh City Ct 2013]), or by the People (People v Roberts-Alexandrov). In Rogers, the court clearly applied the jurisdictional constraints imposed by CPL 20.50: “Where a county contains multiple different local criminal courts, section 20.50 of the Criminal Procedure Law sets the geographical jurisdiction of offenses, and the jurisdiction of the cities, towns and villages located therein.” (Matter of Rogers, 194 Misc 2d at 104.) Nothing in Rogers indicates that the offending conduct of the defendant there occurred in the city of Elmira. Because CPL 410.80 (2) (a) (ii) requires that, upon transfer of a probation case, “[t]he sending probation department shall consult with the probation department to which supervision will be transferred to determine the appropriate criminal court to receive the case,” the Rogers court held that “the [receiving] Probation Department, in making its recommendation as to the appropriate local criminal court to receive the case, must take into consideration the geographical residence of the defendant and the geographical jurisdiction of the local criminal court.” (Id. at 105.) Notably, the failure to designate the proper court to which the powers of the sentencing court will be transferred, or, presumably, the incorrect designation, on the intrastate order of transfer is a ministerial act which does not affect the jurisdiction of the court which ultimately considers a probation violation (see People v Perry, 188 AD2d 909 [3d Dept 1992], llv denied 81 NY2d 975 [1993]; People v Roberts-Alexandrov). In Rogers, the appropriate court was the Town or Village Court of Horseheads, where the defendant resided.\nIn Murtovic, the defendant’s probation sentence was transferred from the Town of Fishkill Justice Court in Dutchess County, where he had been convicted of driving while intoxicated, to Orange County where the defendant resided. Subsequent to the transfer, the Fishkill court granted the defendant’s application to modify his probation sentence so that he could reapply for a driver’s license. In holding that the Fishkill court lacked subject matter jurisdiction post-transfer to modify the probation sentence, the Newburgh City Court relied upon the statutory language directing that “the appropriate court within the jurisdiction of the receiving probation department shall assume all powers and duties of the sentencing court” (CPL 410.80 [2] [a]).\nThe issue in People v Roberts-Alexandrov was whether the designation of the Easton Town Court as the receiving court in the intrastate order of transfer deprived the Washington County Court of subject matter jurisdiction over the defendant’s misdemeanor probation sentence. The defendant’s offending conduct occurred in Washington County. Noting that “[a]n appropriate court to receive a misdemeanor probationer is a ‘criminal court’ (CPL 410.80 [2]), which includes a superior court such as County Court, as well as various other courts (see CPL 1.20 [19]; 10.10)” (102 AD3d at 221), the RobertsAlexandrov court held that “County Court had the power to hear the matter, and the error in the transfer order was similar to a venue or ministerial error that did not deprive County Court of subject matter jurisdiction” (id. at 222 [citations omitted]).\nThe residence of a defendant sentenced to probation serves only to establish the identity of the “appropriate probation department” to which “the sentencing court shall transfer supervision” (CPL 410.80 [1]), nothing more. No other reference is made in that statute to the “residence” or “residency” of a probationer for any other purpose. CPL 410.80 does not alter or supercede the jurisdictional requirements of CPL 20.40 and 20.50, and upon the transfer of probation supervision to a probation department in another county of this state the determination of “the appropriate court” for enforcement must conform to those requirements.\nn.\nThe defendant does not challenge the revocation of his probation sentence, only the length of the period of incarceration imposed upon his re-sentence as being harsh and excessive. The return filed by the court below reveals that at the January 8, 2015 court appearance the trial court relied upon a memo from the probation department indicating that the defendant had paid the restitution in full and recommending that the defendant’s probation sentence be revoked and he be re-sentenced to three months in the county jail. There is also indication in the transcript from that court appearance that the court had other memos from the probation department that were considered, but no such records are in the return. While the People’s brief includes in the appendix memos from the probation department, since those documents are not in the return the same cannot be considered by this court on appeal. An appendix contains “only such parts of the record on appeal as are necessary to consider the questions involved” (CPLR 5528 [a] [5]). Also missing from the return are the recorded proceedings from the June 12 and December 11, 2014 court appearances.\n“Absent a clear abuse of discretion or the existence of extraordinary circumstances, a trial court’s exercise of discretion in imposing what it considers to be an appropriate sentence will not be disturbed (see People v Sczepankowski, 293 AD2d 212, 215).” (People v May, 301 AD2d 784, 786 [3d Dept 2003], lv denied 100 NY2d 564 [2003].) “The gravity of the offense is obviously key, as is the gravity of the danger which the offender poses to society.” (People v Broadie, 37 NY2d 100, 112 [1975].) “In assessing the gravity of a criminal offense, the primary consideration is the harm it causes to society. ... A second consideration, in assessing the proportionality of the punishment to the crime, is the character of the offender and the gravity of the threat he poses to society.” (Id. at 112-113.) “Circumstances that merit consideration with regard to defendant’s claim that [his] sentence is harsh and excessive are that defendant has no prior criminal record and [he] paid full restitution by the time of [re-] sentencing.” (People v Tesar, 65 AD3d 716, 717-718 [3d Dept 2009].)\nIn revoking the defendant’s probation sentence and re-sentencing him to three months in jail, the following colloquy occurred between the court and the defendant:\n“THE COURT: It has been paid. But it’s like robbing a liquor store and if I get caught and pay it back I’m good to go. Right? We talked about this before. All right. You know, I could send you to nine months. That was my goal today give you nine months of incarceration. I’m revoking your probation. They don’t want you on probation, they just can’t work with you. All the memos I have you just don’t seem to get it Mr. Whitaker. You don’t get it at all. I can’t get you to come to court other than having the police pick you up. I’m going to go along with the recommendation of the memo. I’ll hereby sentence you to three months incarceration in Essex County jail. Do you have anything you want to add, would you like to say?\n“MR. WHITAKER: I’d like to apologize for the time, it was inconvenient with the weather. I didn’t call that day because we were out of power. I came the next day or I called the next day. I came to court and it wasn’t you weren’t here, it was the other Judge was here.\n“THE COURT: We’re not going to debate that Mr. Whitaker. I was here. I sat here in the dark with a lantern. Don’t tell me about the power being off, I know about it. Everybody came from Ticonderoga further away than you came. Mr. Ackerman came, he lives in Keeseville. We all know the weather was bad. A phone call would have been in order. You chose not to do that. You’re remanded to the custody of the Sheriff. Court stands adjourned.”\nHere, the only alleged and proven violation of the defendant’s probation sentence was his failure to pay timely the restitution amount. At the time the violation was filed, the defendant was in arrears by $490, representing approximately 6V2 months of payments at the rate of $75 per month. Restitution was paid in full prior to the revocation of the defendant’s probation sentence. The gravity of his offense was minimal, and nothing in the record reveals that the defendant posed any danger whatsoever to society. Although the defendant has a prior conviction for making a false written statement (Penal Law § 210.45), a class A misdemeanor, in 2008 when the defendant was 19 years old, the conduct underlying that offense does not appear to represent any threat to the public.\nTo the extent that the court below considered the defendant’s failure to complete a substance abuse evaluation and appear for meetings with his probation officer, both of which, if true, would be violations of his probation sentence, such was error.\n“The court may not revoke a sentence of probation or a sentence of conditional discharge, or extend a period of probation, unless (a) the court has found that the defendant has violated a condition of the sentence and (b) the defendant has had an opportunity to be heard pursuant to this section. The defendant is entitled to a hearing in accordance with this section promptly after the court has filed a declaration of delinquency or has committed him or has fixed bail pursuant to this article. . . .\n“The court must file or cause to be filed with the clerk of the court a statement setting forth the condition or conditions of the sentence violated and a reasonable description of the time, place and manner in which the violation occurred. The defendant must appear before the court within ten business days of the court’s issuance of the notice to appear and the court must advise him of the contents of the statement and furnish him with a copy thereof.” (CPL 410.70 [1], [2].)\nSince the return contains no specific information regarding these alleged violations, it does not appear from the record that the defendant was either afforded due notice of those alleged violations or the opportunity for a hearing thereon. While “[ojffenses committed by a defendant, even those for which he has not been convicted, may properly b[e] submitted to the court as factors to be considered in imposing sentence (see, People v Whalen, 99 AD2d 883, 884)” (People v Banks, 161 AD2d 957, 958 [3d Dept 1990]),\n“because sentencing is a critical stage in a criminal proceeding a convicted defendant standing before a sentencing judge still remains wrapped in his right to procedural due process, Mempa v Rhay, 389 US 128, 88 S.Ct. 254, 19 L.Ed.2d 336 (1967), and may question the procedure leading to the imposition of his sentence. Gardner v Florida, 430 US 349, 358, 97 S.Ct. 1197, 1204, 51 L.Ed.2d 393 (1977) (plurality opinion).” (United States v Lee, 818 F2d 1052, 1055 [2d Cir 1987].)\n“[A] court’s discretion in sentencing is not without limits. Generally, as a matter of due process, an offender may not be sentenced on the basis of‘materially untrue’ assumptions or ‘misinformation’ (United States v Pugliese, 805 F2d 1117, 1123, quoting Townsend v Burke, 334 US 736, 741). Rather, ‘[t]o comply with due process . . . the sentencing court must assure itself that the information upon which it bases the sentence is reliable and accurate’ (People v Outley, 80 NY2d 702, 712).” (People v Naranjo, 89 NY2d 1047, 1049 [1997] [internal quotation marks omitted]; see also People v Villanueva, 144 AD2d 285 [1st Dept 1988].)\nThe transcript from the January 8, 2015 court appearance contains insufficient evidence that the information of other alleged probation violations was reliable and accurate, or that the defendant had no valid defense with respect thereto.\nAlso problematic here is that the return filed by the lower court contains no record of the proceedings before it on June 12, 2014 when the defendant initially appeared on the violation, nor on December 11, 2014 at which the defendant failed to appear. In 2008, the Chief Administrative Judge promulgated a rule requiring the mechanical recording of any proceedings in the town or village justice courts (see Administrative Order of Chief Admin Judge of Cts AO/245/08 [May 21, 2008]). It is impossible to determine whether the defendant was given a Parker warning (see People v Parker, 57 NY2d 136 [1982]; People v Smith, 148 AD2d 1007 [4th Dept 1989]) and, as a result, whether the court should have proceeded on December 11, 2014 to enter a judgment against the defendant for the amount of restitution then unpaid and issue a bench warrant for the defendant’s arrest. This is particularly so since it appears from the record that defendant’s counsel was present in court on December 11, 2014 and there was an undisputed, significant weather event which resulted in a power outage such that the court admitted to sitting “in the dark with a lantern.” At the January 8, 2015 appearance, the defendant stated that he was unable to call on December 11th due to the power outage and that he appeared in court the next day. It is not unreasonable for a person to assume that a court will not be in session during a power outage, and the lack of electricity can make telephone communication impossible. Absent the record of those proceedings, none having been provided in the return, it cannot be said that the court below did or did not abuse its discretion in issuing the bench warrant, or violate the defendant’s right to be present in issuing the judgment, at the December 11, 2014 court session.\n“An intermediate appellate court has broad, plenary power to modify a sentence that is unduly harsh or severe under the circumstances, even though the sentence may be within the permissible statutory range (CPL 470.15 [6] [b]; People v Thompson, 60 NY2d 513, 519). This sentence-review power may be exercised, if the interest of justice warrants, without deference to the sentencing court.” (People v Delgado, 80 NY2d 780, 783 [1992].)\nAn “ ‘[intermediate appellate court’ means any court possessing appellate jurisdiction, other than the court of appeals.” (CPL 1.20 [22].) Since the defendant openly admitted his failure to pay restitution as required by his probation sentence, paid the restitution in full before his probation sentence was revoked, was employed full time, and posed no threat to society (see e.g. People v Hearn, 248 AD2d 889, 890 [3d Dept 1998]), and based upon the circumstances of the proceedings below, the defendant’s re-sentence is hereby modified by reducing his period of incarceration from three months to time served.\n. At the rate of $75 per month, it would take the defendant 22 months to pay the restitution amount in full, the last payment being only $9.59.\n. While the appeal was pending, this court entered an order staying the sentence of incarceration.\n. It is unclear from the record why the defendant was directed to submit to substance abuse treatment upon his initial appearance before the court below on June 12, 2014. The sole alleged violation was failing to pay restitution. Had the defendant been in violation of that provision of his probation sentence, the probation department should have included it in the violation information dated June 4, 2014 or in a subsequent violation instrument, along with factual statements justifying the need for such an evaluation and treatment, establishing that the defendant had been directed by his probation officer to obtain an evaluation, and the defendant’s failure to comply.",
+        "type": "majority",
+        "author": "Richard B. Meyer, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Brandon E. Boutelle, Public Defender, Elizabethtown (Joshua Ackerman of counsel), for appellant.",
+      "Kristy L. Sprague, District Attorney, Elizabethtown (James E. Martineau, Jr. of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 505]\nThe People of the State of New York, Respondent, v Larry Whitaker, Appellant.\nCounty Court, Essex County,\nMay 22, 2015\nAPPEARANCES OF COUNSEL\nBrandon E. Boutelle, Public Defender, Elizabethtown (Joshua Ackerman of counsel), for appellant.\nKristy L. Sprague, District Attorney, Elizabethtown (James E. Martineau, Jr. of counsel), for respondent."
+  },
+  "file_name": "2007-01",
+  "first_page_order": 998,
+  "last_page_order": 1008
+}

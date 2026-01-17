@@ -1,0 +1,263 @@
+{
+  "id": 4353755,
+  "name": "In the Matter of K.O., a Child Alleged to be Neglected. J.C. et al., Respondents",
+  "name_abbreviation": "In re K.O.",
+  "decision_date": "2015-07-22",
+  "docket_number": "",
+  "first_page": "806",
+  "last_page": "810",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 806"
+    },
+    {
+      "type": "parallel",
+      "cite": "15 N.Y.S.3d 673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Misc 3d 746",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4031860
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/43/0746-01"
+      ]
+    },
+    {
+      "cite": "126 AD2d 169",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3503281
+      ],
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/126/0169-01"
+      ]
+    },
+    {
+      "cite": "25 AD3d 4",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1007656
+      ],
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/25/0004-01"
+      ]
+    },
+    {
+      "cite": "79 AD3d 1720",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4009163
+      ],
+      "pin_cites": [
+        {
+          "page": "1721"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/1720-01"
+      ]
+    },
+    {
+      "cite": "280 AD2d 1005",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1290364
+      ],
+      "pin_cites": [
+        {
+          "page": "1006"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/280/1005-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374385
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0161-01"
+      ]
+    },
+    {
+      "cite": "51 AD3d 488",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3602658
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "495-496"
+        },
+        {
+          "page": "495-496"
+        },
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/51/0488-01"
+      ]
+    },
+    {
+      "cite": "44 Misc 3d 539",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4108762
+      ],
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/44/0539-01"
+      ]
+    },
+    {
+      "cite": "201 AD2d 938",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1161329,
+        1161698
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/201/0938-02",
+        "/ad2d/201/0938-01"
+      ]
+    },
+    {
+      "cite": "153 Misc 2d 803",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        902931
+      ],
+      "pin_cites": [
+        {
+          "page": "808-809"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/153/0803-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 683",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4131693
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0683-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 486,
+    "char_count": 8405,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14824165424316244
+    },
+    "sha256": "f3b37888d8d325f7dc9c9e5d66fdd6c02911cc10dd5bfef6ea9d2adcd6b54d7d",
+    "simhash": "1:5d1c288748a9ce72",
+    "word_count": 1417
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of K.O., a Child Alleged to be Neglected. J.C. et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAnn E. O’Shea, J.\nPetitioner, the New York City Administration for Children’s Services (petitioner or ACS), commenced this proceeding on February 3, 2015 charging respondents J.C. (the mother), M.O. (the maternal grandfather), and F.O. (the maternal grandmother) with the neglect of K.O., born in February 2000. The mother, who was 14 years old when K.O. was born, lives in California and is alleged to have declined to plan for the child, after the maternal grandparents, who have cared for the child all her life, refused to permit the child to return home when she was ready for discharge from Brookdale Hospital after a mental health evaluation. K.O. was remanded on February 3, 2015, remains in the care and custody of the Commissioner, and currently is placed in the Euphrasian Residence. Petitioner plans to transfer K.O. from the Euphrasian Residence to Hawthorne Cedar Knolls, a residential treatment center in Westchester County, New York.\nCurrently before the court is an order to show cause filed by K.O.’s attorney seeking an order precluding ACS from moving the child from her current placement in the Euphrasian Residence to Hawthorne Cedar Knolls. The attorney for K.O. argues that Hawthorne Cedar Knolls provides a higher level of care than is necessary or appropriate for K.O. and seeks review of petitioner’s decision to move her through a “level of care” hearing. ACS opposes the motion on the grounds that the court lacks the legal authority to interfere in the Commissioner’s placement decisions. Both parties submitted briefs on the issue.\nFamily Court Act § 1017 sets out the steps to be followed in determining the appropriate placement of a child when the child is initially removed from his or her home (Matter of Paige G. [Katie P], 119 AD3d 683 [2d Dept 2014]; Family Ct Act § 1017). ACS is required in the first instance to locate relatives of the child to inform them of the pendency of the proceeding and of the opportunity for becoming foster parents or for seeking custody or care of the child (see Family Ct Act § 1017 [1]). The Family Court is then required to determine if the child can suitably reside with any such relative (see Family Ct Act § 1017 [1] [a], [b]). If a suitable relative exists, the Family Court may either place the child with that relative or with the local commissioner of social services with directions to allow the child to reside with that relative pending his or her approval as a foster parent (see Family Ct Act § 1017 [2] [a]).\nOnly if no suitable relative is located may the Family Court consider whether another placement would be appropriate (Matter of Paige G. [Katie P.], 119 AD3d 683, 684 [2d Dept 2014]; Family Ct Act § 1017 [2] [b]). If there are no other suitable resources for the child, the court may elect to remand the child and place her in the custody of the local commissioner of social services (Family Ct Act § 1017 [2] [b]). If placement in a particular foster home would further the child’s best interests, the court may direct the commissioner to have the child reside in a specific certified foster home (id.). In addition, the court may direct that the child not be placed in a specific foster home if such placement would be contrary to the child’s best interests (see Matter of Adrienne M., 153 Misc 2d 803, 808-809 [Fam Ct, Monroe County 1992], affd 201 AD2d 938 [4th Dept 1994]; Matter of Gunner T. [Maria T.], 44 Misc 3d 539, 541 [Fam Ct, Clinton County 2014]). There are no further statutory provisions expressly granting the court authority to make a placement decision in the child’s best interests.\nSocial Services Law § 398 expressly grants the Commissioner both the authority and responsibility to “[p]lace children in its care and custody or its custody and guardianship, in suitable instances, in family homes, agency boarding homes, group homes or institutions under the proper safeguards” (Social Services Law § 398 [6] [g] [1]) and to “[s]upervise children who have been cared for away from their families until such children become twenty-one years of age or until they are discharged to their own parents, relatives within the third degree or guardians, or adopted” (Social Services Law § 398 [6] [h]; see also Matter of Brian L. v Administration for Children’s Servs., 51 AD3d 488, 495-496 [1st Dept 2008]).\nFamily Court Act § 255 authorizes the Family Court to “order . . . any state, county, municipal and school district officer and employee to render such assistance and cooperation as shall be within his legal authority, as may be required, to further the objects of this act.” However, section 255 does not permit the Family Court to invade the discretionary authority of the state agency authorized to provide appropriate care for a child in its custody (see Matter of Lorie C., 49 NY2d 161 [1980]). In Lorie C., the Court of Appeals held that, while\n“section 255 authorizes an order requiring the doing of an act within the legal authority of the official to whom the order is directed the power to order ‘assistance and cooperation!,]’ [it] cannot be read as permitting an order which denigrates from that officer’s statutory authority, any more than it can be read as expanding such an official’s authority into areas not granted by statute” (49 NY2d at 171).\nThus, Family Court has no authority to order ACS to provide a child with specific medical or surgical care, the determination of which is within ACS’s discretion (Matter of Brian L. v Administration for Children’s Servs., 51 AD3d 488, 495-496 [1st Dept 2008]); nor may the court order the removal of a child from a residential treatment center and placement elsewhere (Matter of Philip J., 280 AD2d 1005, 1006 [4th Dept 2001]); nor order the Commissioner to certify the person with whom the child is placed as an “emergency foster parent” (Matter of Jermaine H. [Lisa H.], 79 AD3d 1720, 1721 [4th Dept 2010]; see also Matter of Ronald W., 25 AD3d 4, 12 [1st Dept 2005] [Family Court does not have authority to order New York State Office of Mental Retardation and Developmental Disabilities to reevaluate a 20-year-old individual and place him in an “appropriate” facility]; Matter of Enrique R., 126 AD2d 169, 172 [1st Dept 1987] [Family Court has no authority to order ACS to commence a special proceeding against New York City Housing Authority on behalf of foster child and his grandmother]).\nWhile Family Court Act § 1017 (2) (b) grants Family Court discretion to order that a child be placed — or not placed — in a particular foster home, it does not grant the court authority to determine the level of care to be provided to the child, i.e., whether the child should be placed in a family home, an agency boarding home, a group home or an institution. Such determination is specifically within the discretionary authority of the Commissioner. Thus, this court may not compel ACS to accede to a different placement plan for K.O. than the one which, in its discretion, it has selected for her. K.O.’s remedy does not lie in this court, which lacks subject matter jurisdiction over challenges to the Commissioner’s discretionary decisions. However, ACS’s decisions are subject to review in a CPLR article 78 proceeding under an abuse of discretion standard (Matter of Brian L., 51 AD3d at 500; see also Matter of D.F. v Carrion, 43 Misc 3d 746 [Sup Ct, NY County 2014] [review of ACS refusal to pay for medical procedures to address gender dysphoria]). Accordingly, the motion seeking review of ACS’s determination to place K.O. in a residential treatment center is denied.\n. The grandparents are also alleged to have abused K.O. physically by hitting and choking her and verbally abusing her.\n. The question of whether Family Court Act § 1017 (2) (b) grants Family Court authority to choose between one or another placement (other than specific certified foster homes) providing the same level of care is not presently before the court.",
+        "type": "majority",
+        "author": "Ann E. O’Shea, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Mindy Gress, Brooklyn, Attorney for the Child.",
+      "Michael A. Cardozo, Corporation Counsel, Brooklyn (.Danielle Stevens of counsel), for petitioner.",
+      "Brooklyn Defender Services, Brooklyn (Sarah Lorr of counsel), for M.O., respondent.",
+      "Kyle Sosebee, Brooklyn, for J.C., respondent.",
+      "F.O., respondent pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[15 NYS3d 673]\nIn the Matter of K.O., a Child Alleged to be Neglected. J.C. et al., Respondents.\nFamily Court, Kings County,\nJuly 22, 2015\nAPPEARANCES OF COUNSEL\nMindy Gress, Brooklyn, Attorney for the Child.\nMichael A. Cardozo, Corporation Counsel, Brooklyn (.Danielle Stevens of counsel), for petitioner.\nBrooklyn Defender Services, Brooklyn (Sarah Lorr of counsel), for M.O., respondent.\nKyle Sosebee, Brooklyn, for J.C., respondent.\nF.O., respondent pro se."
+  },
+  "file_name": "1981-01",
+  "first_page_order": 788,
+  "last_page_order": 792
+}

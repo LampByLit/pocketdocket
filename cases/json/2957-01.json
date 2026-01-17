@@ -1,0 +1,410 @@
+{
+  "id": 12282789,
+  "name": "The People of the State of New York, Plaintiff, v. Jose Chalupa, Defendant",
+  "name_abbreviation": "People v. Chalupa",
+  "decision_date": "2017-09-18",
+  "docket_number": "",
+  "first_page": "815",
+  "last_page": "827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 815"
+    },
+    {
+      "type": "parallel",
+      "cite": "62 N.Y.S.3d 730"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "143 AD2d 572",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3565408
+      ],
+      "pin_cites": [
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/143/0572-01"
+      ]
+    },
+    {
+      "cite": "113 AD3d 885",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3910794
+      ],
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/113/0885-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 331",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4396993
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "337"
+        },
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0331-01"
+      ]
+    },
+    {
+      "cite": "247 AD2d 234",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        693976,
+        693949,
+        694087,
+        694279
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/247/0234-03",
+        "/ad2d/247/0234-02",
+        "/ad2d/247/0234-04",
+        "/ad2d/247/0234-01"
+      ]
+    },
+    {
+      "cite": "28 NY3d 392",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        12281433
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "405"
+        },
+        {
+          "page": "408-409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/28/0392-01"
+      ]
+    },
+    {
+      "cite": "44 Misc 3d 505",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4106025
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "509"
+        },
+        {
+          "page": "508-509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/44/0505-01"
+      ]
+    },
+    {
+      "cite": "52 Misc 3d 769",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        6789369
+      ],
+      "pin_cites": [
+        {
+          "page": "773-774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/52/0769-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 587",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4040837
+      ],
+      "pin_cites": [
+        {
+          "page": "588-589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/0587-01"
+      ]
+    },
+    {
+      "cite": "53 Misc 3d 88",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        12170247
+      ],
+      "pin_cites": [
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/53/0088-01"
+      ]
+    },
+    {
+      "cite": "51 Misc 3d 13",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4235113
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/51/0013-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 1174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4291832,
+        4297298,
+        4293973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/1174-02",
+        "/ny3d/22/1174-03",
+        "/ny3d/22/1174-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 500",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525026
+      ],
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0500-01"
+      ]
+    },
+    {
+      "cite": "178 Misc 2d 778",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1685732
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/178/0778-01"
+      ]
+    },
+    {
+      "cite": "42 Misc 3d 341",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4056525
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/42/0341-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50568",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Misc 3d 1213",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 NY2d 47",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4415937
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0047-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004146
+      ],
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0001-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75991
+      ],
+      "pin_cites": [
+        {
+          "page": "114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0103-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 569",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 NY3d 100",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3741866
+      ],
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0100-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1025,
+    "char_count": 26620,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2491133652965868
+    },
+    "sha256": "4c78ee6a11f15d094ed811f3729bedc0e1229facb1393212b599de9ffde4cfce",
+    "simhash": "1:a203d41bde688337",
+    "word_count": 4361
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jose Chalupa, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nTara A. Collins, J.\nDefendant Jose Chalupa is charged with one count of harassment in the second degree (Penal Law § 240.26 [1]). He moves for the dismissal of this charge because (1) it is facially insufficient and (2) the People have failed to bring the case to trial within 30 days pursuant to Criminal Procedure Law § 30.30 (1) (d). For the reasons stated below, the defendant’s motions are denied.\nProcedural History\nDefendant Jose Chalupa was arrested on March 15, 2017, for harassment in the second degree pursuant to Penal Law § 240.26 (1). At that time, he was given a desk appearance ticket. The defendant was arraigned in Criminal Court on June 7, 2017, and the People answered ready for trial. The case was adjourned for trial to July 14, 2017.\nOn July 14, 2017, the People stated not ready for trial and informed the court that the complainant had returned to active military duty. They requested this adjournment to be deemed excludable as an “exceptional circumstance” under CPL 30.30 (4) (g) (i). The court reserved its decision. The People stated that they would file a statement of readiness. Later that day, defense counsel requested the case to be recalled on the calendar and asked for a motion schedule, which was granted. Defense motions were filed on July 17, 2017. The People filed their response on August 31, 2017. The defense filed a reply motion on September 1, 2017.\nIn his motion, the defendant moves for dismissal of the charge against him based on facial insufficiency and the People’s failure to be ready within the applicable statutory time. The People oppose this motion.\nFacial Insufficiency Motion\nDefendant moves to dismiss the harassment in the second degree charge as facially insufficient.\nTo be facially sufficient, the accusatory instrument must provide “reasonable cause to believe that the defendant committed the offense charged.” (CPL 100.40 [1] [b]; 70.10.) In order to do so, the accusatory instrument must contain “facts of an evidentiary character supporting or tending to support the charges.” (CPL 100.15 [3].) Furthermore, these facts must be supported by “[n]on-hearsay allegations.” (CPL 100.40 [1] [c].) Finally, a valid and sufficient accusatory instrument is a “non-waivable jurisdictional prerequisite.” (People v Dreyden, 15 NY3d 100, 103 [2010].)\nIn reviewing an accusatory instrument for facial sufficiency, the Court of Appeals has instructed that “[s]o long as the factual allegations of an information give an accused notice sufficient to prepare a defense and are adequately detailed to prevent a defendant from being tried twice for the same offense, they should be given a fair and not overly restrictive or technical reading.” (People v Konieczny, 2 NY3d 569, 575 [2004].) The standard of review for the court is whether the accusatory instrument makes out a prima facie case when the allegations are viewed in the light most favorable to the People. (People v Jennings, 69 NY2d 103, 114 [1986] [“The sufficiency of the People’s presentation is properly determined by inquiring whether the evidence viewed in the light most favorable to the People, if unexplained and uncontradicted, would warrant conviction by a petit jury”]; CPL 170.45.)\nIn this case, the accusatory instrument provides:\n“NOELLIA QUESADA states that on or about March 15, 2017, at approximately 2:52 PM at Northwest corner of Bronxdale Avenue and White Plains Road, County of the Bronx, State of New York . . . [that] she was sitting behind the steering wheel of her vehicle while parking her vehicle into a vacant public parking lot spot. Deponent further states that she observed defendant driving a black 2013 Chevrolet Impala, New York license plate No. HPH6049 and defendant parked said vehicle next to deponent’s vehicle.\n“Deponent further states that she exited her vehicle and she removed several items from her vehicle at which time she observed defendant exit his vehicle, approach her and defendant stated in sum and substance: YOU DIDN’T SEE ME TRY TO PARK, WHAT THE FUCK IS WRONG WITH YOU, YOU STUPID BITCH. Deponent further states that defendant engaged in a verbal dispute with deponent. Deponent further states that shortly afterwards she observed defendant enter his vehicle and defendant stated in sum and substance: DON’T WORRY BITCH I GOT SOMETHING FOR YOU. Deponent further states that she observed defendant drive away from said location.\n“Deponent further states that after she exited her vehicle that she observed defendant make a U-turn and drive said vehicle in the direction of deponent stopping said vehicle near deponent. Deponent further states that she observed defendant roll down the driver’s side window of his vehicle and extend his arm beyond the driver’s side window while repeatedly motioning with his hand imitating a pistol with his fingers and pointing his hand in the direction of deponent, and defendant repeatedly stated in sum and substance: YOU BETTER NOT LEAVE YOUR CAR, I GOT YOU BITCH. Deponent further states that shortly afterwards she observed defendant drive away from said location.\n“Deponent further states that shortly afterwards she observed defendant make a U-turn and drive said vehicle again in the direction of deponent then stopping said vehicle near deponent. Deponent further states that defendant rolled down the driver’s side window of his vehicle and defendant extended his arm beyond the driver’s side window while repeatedly motioning with his hand imitating a pistol with his fingers and pointing his hand in the direction of deponent, and defendant repeatedly stated in sum and substance, YOU BETTER NOT LEAVE YOUR CAR, I GOT YOU BITCH. Deponent further states that defendant then drove away from said location.\n“Deponent further states that as a result of the defendant’s actions deponent experienced annoyance, alarm, and fear for her physical safety.” (See Criminal Court information.)\nHere, the only charge brought against the defendant is harassment in the second degree. A person is guilty of this charge when “with intent to harass, annoy or alarm another person: 1. He or she strikes, shoves, kicks or otherwise subjects such other person to physical contact, or attempts or threatens to do the same.” (Penal Law § 240.26 [1].)\nAs an initial matter, defendant points out that there are no allegations that he made any physical contact with the complaining witness or that he attempted to do so. The People concede as much in their response. Thus, the facial sufficiency of this accusatory instrument depends on whether the factual allegations make out a prima facie case that the defendant threatened to strike, shove, kick, or otherwise subject the complainant to physical contact.\nDefendant concedes that the language that was allegedly used in this case was “obscene and abusive.” (See defendant’s motion at 9, ¶ 20.) However, he argues that the allegations in this case do not rise to the legal threshold of a “threat” because they were mere verbal intimidations. Given the First Amendment concerns, he asserts that the prohibitions on speeches must be narrowly tailored to “fighting words, true threats, incitement, obscenity, child pornography, fraud, defamation or statements integral to criminal conduct.” (People v Marquan M., 24 NY3d 1, 7 [2014].) To illustrate this point, the defendant relies on People v Dietze (75 NY2d 47 [1989]), where the Court of Appeals decided that the defendant’s statement that he would “beat the crap out of [the complainant] some day or night on the street” did not “fall within the scope of constitutionally proscribable expression.” (Id. at 50-51.) As highlighted by Dietze, a true threat must be “clear, unambiguous and immediate.” (People v Orr, 47 Misc 3d 1213[A], 2015 NY Slip Op 50568[U], *1 [Crim Ct, NY County 2015].) Defendant argues that his alleged statements did not establish a clear and immediate threat, and thus, they were worthy of the First Amendment protections.\nOn the other hand, the People argue that this case involves not just verbal intimidations, but threats accompanied by actions such as hand gestures imitating a firearm and driving back and forth to the complaining witness’ location. The combination of the defendant’s alleged statements to the complainant and the actions makes out a true “threat,” according to the People.\nViewing the allegations in the light most favorable to the People, the court finds that the allegations here make a prima facie case of harassment in the second degree. In this case, the defendant allegedly exited his car, approached the complainant and said, “You didn’t see me try to park, what the fuck is wrong with you, you stupid bitch.” He then allegedly got back into his car and said, “Don’t worry, bitch, I got something for you” before driving off. If this was the extent of the defendant’s alleged actions, this indeed would be a close question as to whether the defendant’s actions and statements, while offensive and vulgar, would rise to the objective level of a “true threat.” There are no allegations of any physical contact or a threat to do so. The expression “I got something for you” could have many noncriminal explanations.\nHowever, the allegations do not stop there. After he got into his vehicle, the defendant allegedly drove off, made a U-turn, and came back to where the complainant was located. He allegedly rolled down the window, extended his arm out of the driver’s side window, and imitated a pistol with his fingers. Then, pointing his fingers at the complainant, he allegedly said, “you better not leave your car, I got you bitch.” This allegedly happened not once, but twice.\nThis was not just a vulgar, offensive speech. Assuming that the allegations are true, which the court is required to do at this juncture, the speech and the gestures were meant to incite fear and alarm in the complaining witness. It can be reasonably inferred that the imitation of a pistol with the hand and pointing it was meant as a specific threat of physical contact—a shooting. Not only that, the alleged circling back with his car and the statement, “You better not leave your car, I got you bitch” made this threat immediate as it implied that the harm was on its way. In this way, Dietze is distinguishable as the statement that the defendant would “beat the crap out of [the complainant] some day or night on the street” (75 NY2d at 50) does not imply immediacy. (Compare People v Jakubowski, 42 Misc 3d 341 [Crim Ct, Kings County 2013] [finding that the allegations of the defendant gesturing with his fingers across his throat to simulate throat-slashing so as to cause complainant to fear imminent physical harm was facially sufficient to plead all of the elements of Penal Law § 240.26]; People v Price, 178 Misc 2d 778 [Crim Ct, NY County 1998] [finding that the defendant’s alleged statement of “I’ll get you” while shaking his hand at the attorney who previously represented him was facially sufficient to make out a prima facie case of harassment in the second degree].)\nIn the instant case, the allegations of the defendant’s words when combined with his actions are sufficient to make out a genuine and immediate physical threat to the complaining witness. As such, the defendant’s motion to dismiss for facial insufficiency is denied.\nSpeedy Trial Motion\nThe defendant also moves to dismiss the accusatory instrument pursuant to CPL 30.30 (1) (d). He is charged with one count of harassment in the second degree, Penal Law § 240.26, which is a violation. When the highest count in the complaint is a violation, CPL 30.30 (1) (d) provides that the People must be ready for trial within 30 days from the commencement of the action. The People’s failure to comply with this statutory mandate will result in dismissal of the charges against the defendant. (CPL 170.30 [1] [e].)\nAt the heart of the defendant’s contention is the period of time from June 7, 2017, the date of his arraignment, to his next court appearance on July 14, 2017. Defendant claims that this period must be charged to the prosecutor as (1) the People could not validly assert readiness on a facially insufficient accusatory instrument and (2) the complaining witness was unavailable on June 7, 2017, rendering the People’s statement of readiness illusory.\nThe part of the defendant’s motion seeking a CPL 30.30 dismissal based on facial insufficiency is denied for the reasons stated in the previous section of this decision. Furthermore, this court rejects the defendant’s argument for illusory readiness due to complainant’s active military status.\nIt is well established that, to be ready for trial, the People must serve\n“(i) either a statement of readiness by the prosecutor in open court, transcribed by a stenographer, or recorded by the clerk or a written notice of readiness sent by the prosecutor to both defense counsel and the appropriate court clerk, and (ii) the People must in fact be ready to proceed at the time they declare readiness.” (People v Chavis, 91 NY2d 500, 505 [1998].)\nIn this case, the People answered ready for trial on the record at the defendant’s arraignment. Therefore, the first prong of the test was satisfied.\nThe second prong calls upon this court to inspect whether the People were in fact ready for trial at the time of their announcement. In this case, despite the People’s statement of readiness at the defendant’s arraignment, the case was not sent out for trial. Instead, it was adjourned to July 14, 2017. It is worth noting that July 14, 2017, was a “trial Friday.” In the Bronx, firm trial cases are scheduled for Fridays to ensure, among other things, that they are tried in a timely fashion. All of the parties in this case were told to be present at 9:30 a.m. and no phone alerts to the witnesses were allowed. On July 14, 2017, however, the People informed the court that the complainant was on active military duty in a different state.\nBased on the record that was made on July 14, 2017, the defendant claims that the People’s initial statement of readiness at his arraignment was illusory. The defendant asserts that he was informed by the People off the record that the complainant had returned to active military status prior to his arraignment. Given the fact that the complainant was in a different state on an active military duty, the defendant argues that the People could not have been ready for trial at his arraignment. In the defendant’s view, since the complainant’s status had remained the same for both of his court appearances, the fact that the People were seeking an adjournment on July 14, 2017, as an “exceptional circumstance” substantiates the fact that the witness was unavailable on June 7, 2017, as well.\nThe People neither confirm nor deny the defense counsel’s assertions about the date of the complainant’s military activation. However, they do concede that the complainant was not in court on June 7, 2017. At the same time, they claim that they had maintained several ways to contact the complainant prior to the defendant’s arraignment. As such, they argue, their statement of readiness on June 7, 2017, was a present statement of readiness for trial. The People further aver that the request for an “exceptional circumstance” exclusion on July 14, 2017, was “to obtain the most convenient time for the complaining witness to return to Bronx County.” (See People’s response at 7, ¶ 3.)\nWhen the People revoke their statement of readiness in a postreadiness posture, this court’s analysis is guided by the instructions given in recent Court of Appeals cases. People v Sibblies (22 NY3d 1174 [2014]) was the leading case that sought to provide guidance on this issue. It was a plurality decision with two differing camps, one led by Chief Judge Lipp-man and the other by Judge Graffeo. Under Chief Judge Lipp-man’s proposed framework, when the People changed their readiness status, the burden fell on them to affirmatively “demonstrate that some exceptional fact or circumstance arose after their declaration of readiness so as to render them presently not ready for trial.” (Id. at 1178.) Judge Graffeo advocated for a narrower rule in which the People were entitled to “a presumption that a statement of readiness [was] truthful and accurate” unless there was “proof that the readiness statement did not accurately reflect the People’s position.” (Id. at 1180-1181 [citations omitted].)\nThe plurality decision in Sibblies caused a stir among the lower courts. Some courts refused to adopt a particular opinion, holding that the People’s readiness was illusory under both concurring opinions. (See e.g. People v Guirola, 51 Misc 3d 13, 17 [App Term, 2d Dept, 2d, 11th & 13 Jud Dists 2016] [finding that the People’s readiness was illusory under both opinions]; People v Carthon, 53 Misc 3d 88, 90 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2016] [same].) However, Judge Graffeo’s plurality decision soon became the dominant opinion adopted by the lower courts. (See e.g. People v Rodriguez, 135 AD3d 587, 588-589 [1st Dept 2016] [following Judge Graffeo’s approach]; People v Jaoui, 52 Misc 3d 769, 773-774 [Crim Ct, NY County 2016] [same]; People v McLeod, 44 Misc 3d 505, 509 [Crim Ct, NY County 2014] [same].)\nThis discourse among the lower courts culminated in the recent Court of Appeals case of People v Brown (28 NY3d 392 [2016]). In that case, the Court conclusively adopted Judge Graffeo’s plurality and rejected the other approach championed by Chief Judge Lippman. (Id. at 405 [“Today, we hold that an off-calendar statement of readiness is presumed truthful and accurate and that a defendant who challenges such a statement must demonstrate that it is illusory”].) Moreover, in doing so, it delineated burdens and procedures for determination of illusory readiness.\nWhen the defendant challenges the People’s readiness by a motion to dismiss pursuant to CPL 30.30, the People are entitled to a “presumption that a statement of readiness is truthful and accurate.” (Id. at 405, citing Sibblies at 1180 [Graffeo, J., concurring].) At the same time, the People “retain the obligation in the postreadiness context to ensure ‘that the record explains the cause of adjournments sufficiently for the court to determine which party should properly be charged with any delay.’ ” (Id. at 406 [citations omitted].) The People have the option of stating the reasons on the record at the calendar call or providing valid reasons for their unreadiness in the response to a defendant’s CPL 30.30 motion. (Id.) Ultimately, the defendant bears the burden of demonstrating that a statement is illusory. (Id.)\nApplying these principles to the case at bar, the People’s readiness at the defendant’s arraignment must be deemed as a truthful and accurate representation of their present readiness for trial. The defendant claims, however, that the People’s readiness was illusory because the complainant was in another state on active military duty beginning May 11, 2017. The record before the court does not support the defendant’s claim. The discussion of the complainant’s physical location and military activation appears to have occurred off the record. Moreover, the assertion by the defendant that the complainant went on active military duty on May 11, 2017, seems to be rebutted by the fact that the Criminal Court complaint was signed by the complaining witness on May 11, 2017. (See complaint.) Thus, the presumption of truthful and accurate readiness is not rebutted.\nEven if this court were to accept the defendant’s assertions about the complainant’s military status, however, this court’s analysis does not change under People v Dushain (247 AD2d 234 [1st Dept 1998]). In Dushain, the defendant was indicted on charges of criminal sale of a controlled substance in the third degree and criminal possession of a controlled substance in the third degree. The People first announced ready for trial on June 29, 1994. Subsequently, unbeknownst to the People, the arresting officer in that case retired from the New York City Police Department on March 30, 1995, and joined the Nassau County Police Department. On March 31, 1995, the People answered ready for trial. The People answered ready on subsequent adjournments without knowing that the officer had changed his job. On June 20, 1995, the People learned of the officer’s job change for the first time and requested two weeks to find out how to make the officer available for trial. The defendant filed a 30.30 motion, arguing that the People’s statements of readiness following the officer’s job change were illusory. The trial court granted the defendant’s motion after finding that the People failed the “actual readiness” test under People v Kendzia (64 NY2d 331, 337 [1985] [“(T)he prosecutor must make his statement of readiness when the People are in fact ready to proceed. The statute contemplates an indication of present readiness, not a prediction or expectation of future readiness”]).\nHowever, the Appellate Division reversed the trial court’s decision. In doing so, it held, “The change in the witness’s status as of March 31st did not invalidate the People’s statements of readiness, announced on various adjourned dates, nor did their ignorance of the change render them unable to proceed.” (Dushain, 247 AD2d at 236.) At the heart of the issue in that case, the Court found, was that the trial court was satisfied with the prosecutor’s representation as to the officer’s “actual availability.” (Id.) Throughout the People’s various statements of readiness, despite their unawareness of the fact that the officer had changed jobs, “the witness’s whereabouts were ascertainable, and the People never lost the ability to secure his attendance for trial.” (Id.) The Court further held that “[t]he People are not required to contact their witnesses on each and every adjourned date.” (Id. [citations omitted].) Finally, the People need not “have the ability to produce their witnesses instantaneously in order for a statement of readiness to be valid.” (Id.)\nTherefore, under Dushain, the fact that the witness is in a different geographic location, or employed by a different agency, or even the unawareness by the People of such changes does not invalidate their statement of readiness as long as the People never “[lose] the[ir] ability to secure [the witness’s] attendance for trial.” (Id.) In this case, the People claim that they have never lost this ability. In fact, as in Dushain, the People maintain that they can secure the complainant’s attendance with a subpoena to her commanding officer. While the People requested an “exceptional circumstance” adjournment, which is reserved only for unavailable witnesses, it seems to have been caused by their erroneous understanding of CPL 30.30 (4) (g) (i), and not because of the witness’s actual unavailability. The People’s response makes it clear that their request was an attempt to reduce inconvenience to the complainant. Finally, the fact that the basis for the retraction of readiness is mentioned for the first time in the People’s response to the defendant’s CPL 30.30 motion is entirely permissible under Brown. (28 NY3d at 405.)\nUnder such circumstances, the People’s subsequent statement of unreadiness does not invalidate their previous statement of readiness. (See People v Miller, 113 AD3d 885, 887 [3d Dept 2014] [“(N)either the People’s decision to seek a superseding indictment nor their subsequent request for an adjournment negate(d) or render(ed) illusory what otherwise (was) presumed to be (an) accurate and truthful statement of readiness” under the speedy trial requirements (citation omitted)]; People v McLeod, 44 Misc 3d 505, 508-509 [Crim Ct, NY County 2014] [in analyzing a motion to dismiss for violation of the statutory right to a speedy trial, “(1) a post-COR (certificate of readiness) statement that the People are not ready does not, by itself, vitiate an off-calendar COR and (2) an unexceptional reason for post-COR unreadiness that does not demonstrate that the COR was inaccurate, such as the complainant is unavailable today, does not render the COR illusory”].)\nBecause the court’s analysis does not change whether the complainant was on active military duty or not on June 7, 2017, the court further finds that a hearing is not necessary. In Brown, the case was remitted to the trial court for further findings regarding the People’s illusory statement of readiness because the People failed to provide any explanation for the unreadiness to court. (Brown, 28 NY3d at 408-409 [“The People failed to state a reason for their unreadiness on August 8 at the calendar call or in response to defendant’s CPL 30.30 motion. . . . Thus, a summary disposition of the motion was not warranted, and the record is insufficient to determine whether the statement of readiness was illusory”].) Given the People’s explanation in this case, this court sees no need for further hearings.\nFor the foregoing reasons, the court finds that the defendant has failed to meet his ultimate burden of demonstrating that the People’s readiness on June 7, 2017, was illusory.\nAs for the People’s request for an “exceptional circumstance” adjournment on July 14, 2017, this court is denying that application as the complainant was never unavailable, as conceded by the People. (CPL 30.30 [4] [g] [i].) At the same time, because the defense chose to file the instant motion, the period between July 14, 2017, to the date that this decision is rendered will not be chargeable to the People. (CPL 30.30 [4] [a]; People v Kendzia, 64 NY2d 331, 336 [1985] [holding that the time it takes to decide the defendant’s speedy trial motion is excludable]; People v Shannon, 143 AD2d 572, 573 [1st Dept 1988].)\nAccordingly, zero days are chargeable to the People and the defendant’s motion to dismiss pursuant to CPL 30.30 (1) (d) is denied.\nAccording to the People,\n“an assistant district attorney did speak to the complaining witness in this case, prior to her signing the criminal court complaint, and the complaining witness did provide an email address and several phone numbers, both for her home in the Bronx, should she be on leave from duty, as well as for work and her cell phone, should she be on active duty stateside.” (See People’s response at 7, ¶ 3.)",
+        "type": "majority",
+        "author": "Tara A. Collins, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Zamir Ben-Dan for defendant.",
+      "Darcel D. Clark, District Attorney (Bernadette Safrath of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[62 NYS3d 730]\nThe People of the State of New York, Plaintiff, v Jose Chalupa, Defendant.\nCriminal Court of the City of New York, Bronx County,\nSeptember 18, 2017\nAPPEARANCES OF COUNSEL\nZamir Ben-Dan for defendant.\nDarcel D. Clark, District Attorney (Bernadette Safrath of counsel), for plaintiff."
+  },
+  "file_name": "2957-01",
+  "first_page_order": 815,
+  "last_page_order": 827
+}

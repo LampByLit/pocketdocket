@@ -1,0 +1,751 @@
+{
+  "id": 4235617,
+  "name": "Steven J. Boggs, Claimant, v. State of New York, Defendant",
+  "name_abbreviation": "Boggs v. State",
+  "decision_date": "2015-12-09",
+  "docket_number": "Claim No. 121796-A",
+  "first_page": "376",
+  "last_page": "385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 376"
+    },
+    {
+      "type": "parallel",
+      "cite": "25 N.Y.S.3d 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Cl.",
+    "id": 9160,
+    "name": "New York Court of Claims"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "551 US 537",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3573210
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/551/0537-01"
+      ]
+    },
+    {
+      "cite": "565 US -, 132",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 AD3d 1029",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3720569
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/104/1029-01"
+      ]
+    },
+    {
+      "cite": "87 AD3d 867",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4029849,
+        4028618
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/87/0867-01",
+        "/ad3d/87/0867-02"
+      ]
+    },
+    {
+      "cite": "249 F3d 156",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11095336
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/249/0156-01"
+      ]
+    },
+    {
+      "cite": "511 US 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147494
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "834"
+        },
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0825-01"
+      ]
+    },
+    {
+      "cite": "801 F3d 51",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6055212
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "68"
+        },
+        {
+          "page": "68"
+        },
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/801/0051-01"
+      ]
+    },
+    {
+      "cite": "125 AD2d 750",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5697598
+      ],
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/125/0750-01"
+      ]
+    },
+    {
+      "cite": "292 AD2d 349",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        195912,
+        195844
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/292/0349-01",
+        "/ad2d/292/0349-02"
+      ]
+    },
+    {
+      "cite": "46 AD3d 1262",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4046065
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/46/1262-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 171",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4003050
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0171-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 243",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4336842
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/0243-01"
+      ]
+    },
+    {
+      "cite": "66 AD3d 1182",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3948528
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/66/1182-01"
+      ]
+    },
+    {
+      "cite": "10 NY2d 237",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2260546
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/10/0237-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 378",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319116
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "381"
+        },
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0378-01"
+      ]
+    },
+    {
+      "cite": "10 NY3d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3780316
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/10/0001-01"
+      ]
+    },
+    {
+      "cite": "510 US 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        230419
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0471-01"
+      ]
+    },
+    {
+      "cite": "994 F Supp 237",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        214116
+      ],
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/994/0237-01"
+      ]
+    },
+    {
+      "cite": "136 F Supp 2d 52",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11109640
+      ],
+      "pin_cites": [
+        {
+          "page": "58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/136/0052-01"
+      ]
+    },
+    {
+      "cite": "938 F Supp 2d 491",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3908186
+      ],
+      "pin_cites": [
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/938/0491-01"
+      ]
+    },
+    {
+      "cite": "32 Misc 3d 855",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3775043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/32/0855-01"
+      ]
+    },
+    {
+      "cite": "3 NY3d 396",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        456447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/3/0396-01"
+      ]
+    },
+    {
+      "cite": "2 AD3d 694",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1243837
+      ],
+      "pin_cites": [
+        {
+          "page": "695-696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/2/0694-01"
+      ]
+    },
+    {
+      "cite": "244 AD2d 835",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        403354
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/244/0835-01"
+      ]
+    },
+    {
+      "cite": "33 AD3d 1180",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3752286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/33/1180-01"
+      ]
+    },
+    {
+      "cite": "307 AD2d 676",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        185958
+      ],
+      "pin_cites": [
+        {
+          "page": "678-679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/307/0676-01"
+      ]
+    },
+    {
+      "cite": "17 NY3d 707",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 AD3d 1393",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4007048
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/1393-01"
+      ]
+    },
+    {
+      "cite": "124 AD3d 1215",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4362319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/1215-01"
+      ]
+    },
+    {
+      "cite": "203 AD2d 80",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1165802,
+        1165549
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/203/0080-02",
+        "/ad2d/203/0080-01"
+      ]
+    },
+    {
+      "cite": "403 US 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0397-01"
+      ]
+    },
+    {
+      "cite": "446 US 14",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180250
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0014-01"
+      ]
+    },
+    {
+      "cite": "173 Misc 2d 1007",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        87405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/173/1007-01"
+      ]
+    },
+    {
+      "cite": "2005 NY Slip Op 52230",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Misc 3d 1072",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 NY2d 78",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1061769
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "83"
+        },
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/97/0078-01"
+      ]
+    },
+    {
+      "cite": "286 AD2d 496",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        217640,
+        218362
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/286/0496-01",
+        "/ad2d/286/0496-02"
+      ]
+    },
+    {
+      "cite": "29 AD3d 1125",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5554472
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/29/1125-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 1106",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3960132
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/1106-01"
+      ]
+    },
+    {
+      "cite": "61 AD3d 1145",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3935556
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/1145-01"
+      ]
+    },
+    {
+      "cite": "120 AD3d 848",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4225406
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/0848-01"
+      ]
+    },
+    {
+      "cite": "436 US 658",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490618
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "691-692"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0658-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 172",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        319938
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "185"
+        },
+        {
+          "page": "186"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "193-194"
+        },
+        {
+          "page": "195"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0172-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 204",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3758303
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/0204-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333065
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0268-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 314",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282472
+      ],
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0314-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "87-88"
+        },
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 968,
+    "char_count": 18798,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.3776877221195043e-8,
+      "percentile": 0.27488822707424254
+    },
+    "sha256": "dcb34349a17d9ddba3989be383517f6740148d66db1890c2526071fb775ed1c7",
+    "simhash": "1:386a56c17620a66d",
+    "word_count": 3156
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven J. Boggs, Claimant, v State of New York, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nFrancis T. Collins, J.\nDefendant moves to dismiss the claim for lack of jurisdiction and failure to state a cause of action pursuant to CPLR 3211 (a) (2), (7) and (8).\nClaimant, an inmate proceeding pro se, seeks damages for cruel and unusual punishment arising from the alleged deliberate indifference of prison officials in failing to provide him with supplies to clean up raw sewage that spontaneously erupted from the toilet in his cell. Claimant alleges the incident occurred when he was confined to his cell in the Special Housing Unit of Great Meadow Correctional Facility for 23 hours per day and that cleaning materials were not supplied for nearly 12 hours after the sewage erupted. Claimant alleges in pertinent part the following:\n“5.) On the 5th day of July, 2012, at approximately 10:00 p.m., Claimant Steven J. Boggs was laying [sic] on his bed in cell No. 11, F-company, at Great Meadow Correctional Facility reading a book when the toilet errupted [sic] raw sewage and covered approximately 85% of the cell floor, the sight and stench was sickening.\n“6.) On the 5th day of July, 2012, the defendant had full visual and oral knowledge and refused to issue cleaning supplies after many requests from myself and a direct order from an area supervisor. I was not issued cleaning material until approximately 9:20 a.m. on the 6th day of July, 2012.\n“7.) As a result of this incident, claimant has suffered severe mental pain and anguish” (defendant’s exhibit A, claim).\nDefendant contends that the claim should be dismissed because this court lacks jurisdiction over causes of action alleging violations of the Federal Constitution and the claim fails to state a cause of action under the New York State Constitution. With respect to violations of the New York State Constitution, defendant contends, first, that such claims are limited to alleged violations of the Equal Protection and Search and Seizure Clauses of the State Constitution and, second, that no state constitutional claim lies where claimant has an adequate remedy in another forum, namely, either the Federal District Court or the New York State Supreme Court pursuant to 42 USC § 1983.\nOn a motion to dismiss a claim pursuant to CPLR 3211 (a) (7) the court is required to “accept the facts as alleged in the [claim] as true, accord [claimant] the benefit of every possible favorable inference, and determine only whether the facts as alleged fit within any cognizable legal theory” (Leon v Martinez, 84 NY2d 83, 87-88 [1994]; see also Goshen v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 326 [2002]). The determination is therefore made by reference to whether “ ‘the proponent of the pleading has a cause of action, not whether he has stated one’ ” (Leon v Martinez, 84 NY2d at 88, quoting Guggenheimer v Ginzburg, 43 NY2d 268, 275 [1977]; see also Dee v Rakower, 112 AD3d 204, 208 [2d Dept 2013]).\nTo the extent the claim rests on an alleged violation of the prohibition against cruel and unusual punishment contained in the Eighth Amendment to the Federal Constitution, the claim must be dismissed as the State is not a “person” within the meaning of the enabling legislation (42 USC § 1983; Brown v State of New York, 89 NY2d 172, 185 [1996], citing Monell v New York City Dept. of Social Servs., 436 US 658 [1978]; see also Flemming v State of New York, 120 AD3d 848 [3d Dept 2014]; Shelton v New York State Liq. Auth., 61 AD3d 1145 [3d Dept 2009]; Markowitz v State of New York, 37 AD3d 1106 [4th Dept 2007]; Matter of Gable Transp., Inc. v State of New York, 29 AD3d 1125 [3d Dept 2006]; Welch v State of New York, 286 AD2d 496 [2d Dept 2001]).\nThe claim may also be read as alleging a violation of the New York State Constitution. The criteria for determining whether a violation of the New York State Constitution may form the basis for a tort cause of action were set forth in the seminal case of Brown v State of New York (89 NY2d 172 [1996]). The applicable constitutional provision must be self-executing, i.e., it must take effect immediately, without the need for enabling legislation (id. at 186), and a damage remedy must further the purpose of the underlying constitutional provision and be necessary to assure its effectiveness (id. at 187; see also Martinez v City of Schenectady, 97 NY2d 78, 83 [2001]). As noted in Brown, the provisions of the State Constitution are presumptively self-executing (89 NY2d at 186) and while there exists no appellate authority concluding that New York State’s constitutional provision prohibiting cruel and unusual punishment may form the basis for a tort cause of action, several decisions of the Court of Claims have acknowledged the potential viability of such a claim (see Thomas v State of New York, 10 Misc 3d 1072[A], 2005 NY Slip Op 52230[U] [Ct Cl 2005]; Zulu v State of New York, Ct Cl, May 21, 2001, Patti, J., UID No. 2001-013-006; Ramos v State of New York, Ct Cl, Dec. 18, 2000, Marin, J., UID No. 2000-016-106; De La Rosa v State of New York, 173 Misc 2d 1007 [Ct Cl 1997]). Moreover, in Carlson v Green (446 US 14 [1980]) the Supreme Court recognized a damages cause of action under Bivens v Six Unknown Fed. Narcotics Agents (403 US 388 [1971]), the federal counterpart to a Brown cause of action, premised upon an alleged violation of the Eighth Amendment. In doing so, the Court found that the case involved no special factors that counseled hesitation and that the existing statutory remedy under the Federal Tort Claims Act was inadequate. Here, defendant has likewise identified no special factors that counsel hesitation. Inasmuch as case law supports the view that the State Constitution’s prohibition against cruel and inhuman punishment (art I, § 5), like the Eighth Amendment of the Federal Constitution, may form the basis for a constitutional tort cause of action, defendant’s contrary contention is rejected.\nDefendant’s second argument, that an action pursuant to 42 USC § 1983 is an adequate alternative remedy, is directly contradicted by the holding of the Court of Appeals in Brown. Notwithstanding the existence of a pending section 1983 action against the potentially responsible individuals in Brown (89 NY2d at 211), the Court found recognition of a constitutional tort cause of action necessary to ensure the full realization of the claimant’s constitutional rights under the Search and Seizure and Equal Protection Clauses of the State Constitution. In so doing, the Court explicitly acknowledged the availability of a damage remedy for violations of the State Constitution under section 1983, as well as the Federal Constitution pursuant to Bivens, but found them unavailing.\nAddressing the dissent’s criticism that such a tort cause of action creates new respondeat superior liability against the State contrary to the holding of Monell v New York City Dept. of Social Servs. (436 US 658 [1978]), the Court made clear its view that it was the Court of Claims Act (§§ 8, 9 [2]), not the Court, that imposed upon the State vicarious liability for the conduct of its employees (Brown, 89 NY2d at 193-194). The Court in Brown concluded that whereas governmental entities, whether state or federal, are immune from suit under section 1983, no such immunity exists in relation to state constitutional torts because the State has specifically waived its immunity and subjected itself to respondeat superior liability pursuant to Court of Claims Act §§ 8 and 9 (2). In this regard, the Court stated:\n“In Welch v State of New York (203 AD2d 80) the Appellate Division held, as we do here, that the State cannot be liable on the basis of respondeat superior in a section 1983 action under the rule in Monell v New York City Dept. of Social Servs. (436 US 658, supra). A section 1983 action is controlled by the Federal statute which limits liability to actions taken ‘under color’ of State law, i.e., as a matter of governmental policy or custom (see, Monell, supra, at 691-692). A plaintiff seeking to recover on the basis of respondeat superior simply does not come within the terms of section 1983. The Welch decision, based as it is on the Federal enabling statute, is inapposite to the action here based on the State Constitution and governed by the State statutes waiving immunity and imposing respondeat superior liability for actions of officers and employees” (id. at 193-194).\nThe above statement by the Court of Appeals is too clear to permit any other conclusion than the one made here, that a claim asserting a constitutional tort cause of action is actionable in the Court of Claims notwithstanding the concurrent availability of a 42 USC § 1983 action which may be brought against an employee of the State in his or her individual capacity.\nThe Court of Appeals once again addressed the viability of a tort cause of action based upon an alleged violation of the State Constitution in Martinez (97 NY2d 78). While Martinez did not overrule Brown, it reiterated that the right to pursue a constitutional tort cause of action is a narrow one which may not be invoked where the claimant has an alternative avenue of redress. Insofar as the plaintiff in Martinez succeeded in obtaining the suppression of illegally obtained evidence and the dismissal of the criminal charges against her, the Court held that recognition of a constitutional tort cause of action was “neither necessary to effectuate the purposes of the State constitutional protections plaintiff invokes, nor appropriate to ensure full realization of her rights” (Martinez, 97 NY2d at 83). Subsequent cases have held that the availability of a proceeding pursuant to CPLR article 78 (LM Bus. Assoc., Inc. v State of New York, 124 AD3d 1215 [4th Dept 2015]; Carver v State of New York, 79 AD3d 1393 [3d Dept 2010], lv denied 17 NY3d 707 [2011]; Bullard v State of New York, 307 AD2d 676, 678-679 [3d Dept 2003]) as well as monetary remedies under traditional tort principles (Waxter v State of New York, 33 AD3d 1180 [3d Dept 2006]; Augat v State of New York, 244 AD2d 835 [3d Dept 1997]; Lyles v State of New York, 2 AD3d 694, 695-696 [2d Dept 2003], affd 3 NY3d 396 [2004]; Albright v State of New York, 32 Misc 3d 855 [Ct Cl 2011]) render recognition of a constitutional tort cause of action unnecessary.\nIn the instant matter, as to those decisions in both lower federal and state courts holding that there is no private right of action under the New York State Constitution where remedies are available under 42 USC § 1983 (Shelton, 61 AD3d 1145; Hershey v Goldstein, 938 F Supp 2d 491, 520 [SD NY 2013]; Bath Petroleum Stor., Inc. v Sovas, 136 F Supp 2d 52, 58 [ND NY 2001]; Wahad v F.B.I., 994 F Supp 237, 240 [SD NY 1998]; Sze v State of New York, Ct Cl, Nov. 16, 2011, Milano, J., UID No. 2011-041-040), for the reasons set forth in Brown, the court is constrained to disagree. The Court of Appeals made clear in Brown that the relief afforded by section 1983 is not sufficient to displace a state constitutional tort cause of action because the State is not a proper party in a section 1983 action and is not vicariously liable for the conduct of its officers and employees under that statute. In fact, the Court explicitly drew a distinction between the respondeat superior liability envisioned in Brown and that at issue in Bivens and Federal Deposit Ins. Corp. v Meyer (510 US 471 [1994]), which denied the plaintiffs attempt to hold a government agency liable after a finding that the individual defendant enjoyed immunity under Bivens, stating “[t]here is no similar problem here because the State has waived immunity for the acts of its officers and employees (see, Court of Claims Act § 9 [2]) and this provision distinguishes the case before us from the Federal cases limiting liability to individuals” (Brown, 89 NY2d at 195). In the view of the Court of Appeals, the State is “appropriately held answerable for the acts of its officers and employees because it can avoid such misconduct by adequate training and supervision and avoid its repetition by discharging or disciplining negligent or incompetent employees” (Brown, 89 NY2d at 194). Thus, the court here concludes that the availability of an action pursuant to section 1983 does not foreclose recognition of a constitutional tort cause of action for cruel and inhuman treatment under the State Constitution.\nNor is the availability of any other remedy apparent. Claimant does not allege that he suffered physical injury as the result of his exposure to the raw sewage in his cell, but rather emotional injury which haunts him to this day. To recover on a claim for negligent infliction of emotional distress, the circumstances must provide some indicia of reliability (Ornstein v New York City Health & Hosps. Corp., 10 NY3d 1 [2008]). As a matter of policy, therefore, liability for negligent infliction of emotional distress is limited to circumstances in which the breach of duty owed directly to the claimant results in emotional harm accompanied by “residual physical manifestations” (Johnson v State of New York, 37 NY2d 378, 381 [1975], citing inter alia Battalla v State of New York, 10 NY2d 237 [1961]; see also Justice v State of New York, 66 AD3d 1182 [3d Dept 2009]) or the circumstances are such that there exists a “guarantee that the claim is not spurious” (Johnson, 37 NY2d at 382 [internal quotation marks omitted]; see also Taggart v Costabile, 131 AD3d 243 [2d Dept 2015]). Such guarantees of genuineness have been found to exist in only limited circumstances, such as the negligent transmission of a death notification or the mishandling of a corpse (id.; see also Shipley v City of New York, 80 AD3d 171 [2d Dept 2010]; Estate of LaMore v Sumner, 46 AD3d 1262 [3d Dept 2007]; Massaro v O’Shea Funeral Home, 292 AD2d 349 [2d Dept 2002]). Inasmuch as the claimant here alleges no physical manifestations of injury, and the exposure to raw sewage fits within none of the limited circumstances in which a cause of action for negligent infliction of emotional distress have otherwise been recognized, a claim for negligent infliction of emotional distress is not an available remedy. While physical manifestations of injury are unnecessary to support a cause of action for intentional infliction of emotional distress, “where the act complained of constituted official conduct, public policy prohibits the maintenance of a suit against the State” (see Brown v State of New York, 125 AD2d 750, 752 [3d Dept 1986]). Nor would injunctive relief have been possible given the duration of the exposure. There being no alternative avenue of redress available, the court will next address whether the allegations in the claim, assumed to be true for the purposes of the instant motion, give rise to a claim for a violation of the prohibition against cruel and inhuman treatment in the State Constitution.\nFederal courts considering inmates’ claims involving exposure to human waste have held that, depending upon the duration and severity of the exposure, such unsanitary conditions may constitute cruel and inhuman treatment in violation of the Eighth Amendment (see Willey v Kirkpatrick, 801 F3d 51, 68 [2d Cir 2015] and the cases cited therein). Eighth Amendment claims are evaluated by reference to whether the conduct alleged is, from an objective perspective, a “ ‘sufficiently serious’. . . denial of ‘the minimal civilized measure of life’s necessities’ ” (Farmer v Brennan, 511 US 825, 834 [1994] [citation omitted]) and whether the prison official has a “ ‘sufficiently culpable state of mind,’ ” which in prison-conditions cases “is one of ‘deliberate indifference’ to inmate health or safety” (Farmer, 511 US at 834 [citation omitted]). In Willey the Second Circuit Court of Appeals recently rejected a bright-line durational requirement in determining whether a prisoner’s exposure to raw sewage may form the basis for an Eighth Amendment claim for cruel and inhuman treatment, holding that the viability of such a claim depends upon a balancing of “both the duration and the severity of the exposure” and that its “qualitative offense to a prisoner’s dignity should be given due consideration” (Willey v Kirkpatrick, 801 F3d at 68; see also Gaston v Coughlin, 249 F3d 156 [2d Cir 2001] [Second Circuit reversed summary judgment dismissing complaint where the area directly in front of prisoner’s cell was filled with human feces, urine, and sewage for several days]). The court explained:\n“Where, for example, an exposure to human waste lasts merely ten minutes, but that exposure takes the form of working in a well while facing ‘a shower of human excrement without protective clothing and equipment,’ a jury may find an Eighth Amendment violation . . . Spending three days in that well was not required to state a claim. Likewise, a less severe exposure may be constitutionally permissible if rectified in short order but may become cruel and unusual with the prolonged passage of time” (Willey, 801 F3d at 68).\nThe allegations in the instant claim, that sewage covered 85% of the claimant’s cell for a period of nearly 12 hours, if true, may give rise to a constitutional tort claim for violation of the prohibition against cruel and inhuman treatment (cf. Rodriguez v City of New York, 87 AD3d 867 [1st Dept 2011] [allegations of a slippery floor condition were not sufficiently serious to constitute cruel and inhuman punishment]). To the extent claimant alleges that prison staff ignored a supervisor’s direct order to provide the claimant with a means to clean the unsanitary conditions in his cell, he sufficiently alleged the requisite state of mind necessary to survive a motion to dismiss for failure to state a cause of action (cf. Scott v Smith, 104 AD3d 1029 [3d Dept 2013]).\nBased on the foregoing, the defendant’s motion is denied.\n. Since Carlson was decided it has been recognized that alternate remedies need not be equally effective or perfectly congruent so long as there exists another meaningful alternative remedy (see e.g. Minneci v Pollard, 565 US —, 132 S Ct 617 [2012]; Wilkie v Robbins, 551 US 537 [2007]).\n. The Court also made clear its view that claimant’s right to recover damages should not be dependent on the availability of a common-law tort cause of action because to hold otherwise would produce the “paradox” that individuals whose complaint fits within the framework of a common-law tort may recover whereas others must go remediless because the duty violated was spelled out in the State Constitution (89 NY2d at 191).",
+        "type": "majority",
+        "author": "Francis T. Collins, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eric T. Schneiderman, Attorney General (.Michael T. Krenrich of counsel), for defendant.",
+      "Steven J. Boggs, claimant pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[25 NYS3d 545]\nSteven J. Boggs, Claimant, v State of New York, Defendant.\n(Claim No. 121796-A.)\nCourt of Claims,\nDecember 9, 2015\nAPPEARANCES OF COUNSEL\nEric T. Schneiderman, Attorney General (.Michael T. Krenrich of counsel), for defendant.\nSteven J. Boggs, claimant pro se."
+  },
+  "file_name": "2179-01",
+  "first_page_order": 388,
+  "last_page_order": 397
+}

@@ -1,0 +1,771 @@
+{
+  "id": 12282180,
+  "name": "In the Matter of The New York Times Company et al., Petitioners, v. New York State Executive Chamber, Respondent",
+  "name_abbreviation": "New York Times Co. v. New York State Executive Chamber",
+  "decision_date": "2017-07-06",
+  "docket_number": "",
+  "first_page": "405",
+  "last_page": "427",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 405"
+    },
+    {
+      "type": "parallel",
+      "cite": "56 N.Y.S.3d 821"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "68 AD3d 1290",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3961515
+      ],
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/68/1290-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 906",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339727
+      ],
+      "pin_cites": [
+        {
+          "page": "907-908"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0906-01"
+      ]
+    },
+    {
+      "cite": "111 AD3d 1123",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3731946
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1125"
+        },
+        {
+          "page": "1126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/1123-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 373",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3751699
+      ],
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/0373-01"
+      ]
+    },
+    {
+      "cite": "103 F.3d 234",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        963
+      ],
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/103/0234-01"
+      ]
+    },
+    {
+      "cite": "1998 WL 726000",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 US Dist LEXIS 17400",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*40-41"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 WL 1021559",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 US Dist LEXIS 124841",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "*8"
+        },
+        {
+          "page": "*8"
+        },
+        {
+          "page": "*9"
+        },
+        {
+          "page": "*10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 5544424",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "823 F.2d 574",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4330785,
+        1736221
+      ],
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/262/0166-01",
+        "/f2d/823/0574-01"
+      ]
+    },
+    {
+      "cite": "393 F3d 1345",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3435121,
+        9175302
+      ],
+      "pin_cites": [
+        {
+          "page": "1349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/364/0274-01",
+        "/f3d/393/1345-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 32418",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Misc 3d 950",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3786448
+      ],
+      "pin_cites": [
+        {
+          "page": "954-955"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/38/0950-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 726",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3699844
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0726-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2345728
+      ],
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0557-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 50044",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 1215",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 AD3d 722",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4052538
+      ],
+      "pin_cites": [
+        {
+          "page": "724"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/0722-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 477",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618841
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0477-01"
+      ]
+    },
+    {
+      "cite": "139 AD3d 598",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4291817,
+        4285946
+      ],
+      "pin_cites": [
+        {
+          "page": "599"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0598-02",
+        "/ad3d/139/0598-01"
+      ]
+    },
+    {
+      "cite": "1998 US Dist LEXIS 5798",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1998 WL 185496",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 AD2d 512",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5705425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/153/0512-01"
+      ]
+    },
+    {
+      "cite": "437 US 214",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178611
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/437/0214-01"
+      ]
+    },
+    {
+      "cite": "2016 NY Slip Op 32749",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Misc 2d 119",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        338394
+      ],
+      "pin_cites": [
+        {
+          "page": "123-124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/195/0119-01"
+      ]
+    },
+    {
+      "cite": "562 US 562",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12457268,
+        5989278
+      ],
+      "pin_cites": [
+        {
+          "page": "584"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/179/0268-01",
+        "/us/562/0562-01"
+      ]
+    },
+    {
+      "cite": "740 F.3d 195",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4323632,
+        3826164
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/408/0061-01",
+        "/f3d/740/0195-01"
+      ]
+    },
+    {
+      "cite": "2017 US Dist LEXIS 2316",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*33"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2017 WL 78482",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "493 US 146",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11330437
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "155"
+        },
+        {
+          "page": "153"
+        },
+        {
+          "page": "154-155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0146-01"
+      ]
+    },
+    {
+      "cite": "5 USC § 552",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "b"
+        },
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 AD3d 500",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4332875,
+        4334948
+      ],
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0500-02",
+        "/ad3d/123/0500-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 57",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3751430
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "67"
+        },
+        {
+          "page": "64"
+        },
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/0057-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 755",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 AD2d 202",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "206-208"
+        },
+        {
+          "page": "206-207"
+        },
+        {
+          "page": "206-207"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 AD3d 455",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3702673,
+        3700530
+      ],
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0455-01",
+        "/ad3d/101/0455-02"
+      ]
+    },
+    {
+      "cite": "95 NY2d 956",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189345,
+        1189315
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0956-02",
+        "/ny-2d/95/0956-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 207",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501455
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "214-215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0207-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 267",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320046
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "275"
+        },
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0267-01"
+      ]
+    },
+    {
+      "cite": "145 AD3d 1391",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12182685
+      ],
+      "pin_cites": [
+        {
+          "page": "1392"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/145/1391-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4404421
+      ],
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0562-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 246",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        76036
+      ],
+      "pin_cites": [
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0246-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 567",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4371434
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "571"
+        },
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0567-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1558,
+    "char_count": 45931,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.249081510157542
+    },
+    "sha256": "4ae8e3a9770146cce46a36ef19dfc5834e79b9938005b3589b654dd37fc81f93",
+    "simhash": "1:861c6223ef9b615c",
+    "word_count": 7332
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of The New York Times Company et al., Petitioners, v New York State Executive Chamber, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPatrick J. McGrath, J.\nIn 2015, the United States Attorney’s Office for the Southern District of New York (hereinafter USAO) commenced a grand jury investigation that either initially or over time focused on state economic development initiatives commonly known as the Buffalo Billion and the Nano Economic Development Program. In connection therewith, the USAO served a grand jury subpoena on the Executive Chamber on April 28, 2016, demanding the production of records. Todd R. Howe (a lobbyist who had worked for now Governor Cuomo before he was elected) and Joseph Percoco (former executive deputy secretary to Governor Andrew Cuomo) were subjects of the investigation.\nPercoco and eight codefendants were charged via criminal complaint on September 20, 2016, and indicted November 22, 2016, accused of various corruption, extortion, bribery and fraud offenses which are the subject of the Buffalo Billion/ Nano investigation. On December 21, 2016, United States District Court Judge Valerie E. Caproni signed a protective order on consent, binding on all parties, prohibiting disclosure to the public, including members of the media, of specified “disclosure material” produced by the USAO to defendants. The Executive Chamber itself is not a named party in the indictment.\nOn September 20, 2016, Howe pleaded guilty to committing various federal crimes in connection with matters that were and are the subject of the Buffalo Billion/Nano investigation. On September 22, 2016, the USAO announced that Howe is cooperating with the government.\nThe New York Attorney General (hereinafter NYAG) has also conducted a bid-rigging criminal investigation in coordination with the USAO and the Federal Bureau of Investigation. On September 22, 2016, the NYAG instituted a criminal proceeding via felony complaint that overlaps with the Buffalo Billion/ Nano federal investigation and judicial proceedings. The state complaint does not charge anyone named in the Freedom of Information Law (FOIL) requests, but does name one of Percoco’s codefendants in the federal indictment.\nOn June 3, 2016 and July 12, 2016, petitioners made requests to the Executive Chamber pursuant to FOIL seeking the following information:\n1. Any email correspondence between State Operations Director Jim Malatras and Todd R. Howe between the dates of January 1, 2011 and June 1, 2016.\n2. Daily schedules for the years 2011, 2012, 2013, 2014 and 2015 for Joseph Percoco, as well as calendars kept by secretaries, aides and schedulers.\n3. Any and all records pertaining to Percoco’s return to the Executive Chamber in 2014 (Percoco left his position as aide to the Governor in April 2014 to run the Governor’s reelection campaign, and returned to his government post in late 2014).\n4. Any emails from Percoco and various members of the executive branch staff between the dates of January 1, 2014 through January 8, 2016, including Jim Malatras; Former Deputy Director of State Operations for Policy Andrew Kennedy; and Secretary to the Governor William Mulrow.\nBetween August 8, 2016 and October 5, 2016, the Executive Chamber (hereinafter the Chamber) denied all requests on the same grounds, specifically, Public Officers Law § 87 (2) (e). Petitioners took timely administrative appeals, and each denial was upheld, relying principally on Public Officers Law § 87 (2) (e) (i), which exempts from disclosure records compiled for law enforcement purposes, where the disclosure thereof would interfere with law enforcement investigations or judicial proceedings. The Chamber reserved the right to assert other FOIL exemptions, and attempts to do so here in its memorandum of law in opposition to the petition, specifically, that the records are exempt under Public Officers Law § 87 (2) (e) (ii) and (iii), as well as Public Officers Law § 87 (2) (a) and (b). Although the Chamber did not invoke these exemptions in its initial denial, it argues that it may do so here, because “the rights of third parties not before the Court would be affected by the disclosure,” including the grand jury and third parties whose name appear on records responsive to the Howe email FOIL request. Petitioners do not dispute this, and fully respond to the Chamber’s arguments in connection thereto.\nThe petitioners commenced this CPLR article 78 proceeding to compel the respondents to disclose, pursuant to FOIL (Public Officers Law § 84 et seq.), the aforementioned information. Petitioners argue that the documents were not “compiled for law enforcement purposes” as they were originally made in the ordinary course of business. Next, that the Chamber has failed to establish how disclosure would interfere with law enforcement investigations or judicial proceedings. Petitioners claim that the scope of the FOIL requests “far exceeds the scope of prosecutorial interest” and therefore, disclosure would not risk prematurely revealing prosecutorial strategy. Petitioners note that the records requested in connection with Percoco are records that were sent to him, i.e., records that he already knows about, so there can be little question of the disclosure of confidential material. Petitioners also note that federal prosecutors were required to produce Federal Rules of Criminal Procedure rule 16 discovery on or before January 17, 2016, which “diminishes significantly the risk of interference posed by disclosure,” nor would it amount to the equivalent of early discovery.\nThe Chamber retained counsel, Elkan Abramowitz, a former Assistant United States Attorney now in private practice, to assist in responding to the subpoena. He affirms that the Chamber indicated to the USAO that it would cooperate fully with the investigation, and that it has produced thousands of responsive documents. Mr. Abramowitz states that the FOIL requests on their face seek documents and information that fall substantially within the scope of the subpoena served on the Chamber, and subsequent requests made by the USAO. He also affirms that based on searches to respond to the grand jury subpoena, all communications in the Chamber’s possession that would be responsive to the FOIL requests are also responsive to the grand jury subpoena.\nMr. Abramowitz argues that disclosure of the requested records may reveal nonpublic aspects of the case, which could hinder the US AO’s ability to shape and control its investigation. Additionally, it could make public the persons identified in the materials sought by the USAO, and give those persons access to that information, which could jeopardize the USAO’s investigation. He states that the disclosure of the records would result in the same harm regardless of whether the FOIL requests were made to the Chamber or the USAO.\nDiscussion\nThe legislative declaration section of FOIL announces New York’s public policy that\n“a free society is maintained when government is responsive and responsible to the public, and when the public is aware of governmental actions . . .\n“[T]he public, individually and collectively and represented by a free press, should have access to the records of government in accordance with the provisions of [FOIL].” (Public Officers Law § 84.)\nFOIL “proceeds under the premise that the public is vested with an inherent right to know and that official secrecy is anathematic to our form of government.” (Matter of Fink v Lefkowitz, 47 NY2d 567, 571 [1979].) This court must bear in mind “that FOIL is to be liberally construed and its exemptions narrowly interpreted so that the public is granted maximum access to the records of government.” (Matter of Capital Newspapers, Div. of Hearst Corp. v Whalen, 69 NY2d 246, 252 [1987].) In keeping with that policy, “FOIL provides that all records of a public agency are presumptively open to public inspection and copying unless otherwise specifically exempted.” (Matter of Capital Newspapers Div. of Hearst Corp. v Burns, 67 NY2d 562, 566 [1986]; see Public Officers Law § 87 [2].) “Notably, blanket exemptions for particular types of documents are inimical to FOIL’S policy of open government, and the agency must articulate a particularized and specific justification for denying access to the requested documents.” (Matter of Police Benevolent Assn. of N.Y. State, Inc. v State of New York, 145 AD3d 1391, 1392 [3d Dept 2016] [internal quotation marks, brackets and citations omitted]; see Matter of Gould v New York City Police Dept., 89 NY2d 267, 275 [1996].)\nCompiled for Law Enforcement Purposes\nPublic Officers Law § 87 (2) (e) (i) exempts from disclosure records that “are compiled for law enforcement purposes and which, if disclosed, would . . . interfere with law enforcement investigations or judicial proceedings.” This provision broadly permits an agency to make “a generic determination” that disclosure of a record would interfere with a judicial proceeding against a particular individual. (Matter of Legal Aid Socy. v New York City Police Dept., 274 AD2d 207, 214-215 [1st Dept 2000], lv dismissed and denied 95 NY2d 956 [2000]; see Matter of Whitley v New York County Dist. Attorney’s Off., 101 AD3d 455, 455 [1st Dept 2012]; Matter of Pittari v Pirro, 258 AD2d 202, 206-208 [2d Dept 1999], lv denied 94 NY2d 755 [1999].) The exemption is based on the risk that such disclosure would have a chilling effect on a pending prosecution, would create a substantial likelihood of delay in a pending criminal proceeding, or would interfere with criminal discovery rules. (Matter of Pittari v Pirro, 258 AD2d 202, 206-207 [2d Dept 1999], lv denied 94 NY2d 755 [1999].) While the agency need not specify the potential risk posed by disclosure for each and every document requested, it must “identify the generic kinds of documents for which the exemption is claimed, and the generic risks posed by disclosure of these categories of documents . . . [T]he agency must still fulfill its burden under Public Officers Law § 89 (4) (b) to articulate a factual basis for the exemption.” (Matter of Lesher v Hynes, 19 NY3d 57, 67 [2012]; see also Matter of Law Offs. of Adam D. Perlmutter, P.C. v New York City Police Dept., 123 AD3d 500, 501 [1st Dept 2014].)\nFOIL’S “legislative history . . . indicates that many of its provisions . . . were patterned after the Federal analogue. Accordingly, Federal case law and legislative history . . . are instructive” when interpreting such provisions. (Matter of Lesher v Hynes, 19 NY3d 57, 64 [2012], citing Matter of Fink v Lefkowitz, 47 NY2d 567, 572 n [1979].) In Lesher v Hynes, the Court of Appeals noted that New York’s law enforcement exemption is modeled on 5 USC § 552 (b) (7), part of the Freedom of Information Act (FOIA). FOIA’s law enforcement exemption permits the nondisclosure of “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would” create one of six specified dangers, the first of which was to “interfere with enforcement proceedings.” (5 USC § 552 [b] [7] [A].) When the New York Legislature amended FOIL in 1977, it enacted Public Officers Law § 87 (2) (e) (i), which, as previously noted, denies access to records “compiled for law enforcement purposes and which, if disclosed, would . . . interfere with law enforcement investigations or judicial proceedings.”\nIn John Doe Agency v John Doe Corp. (493 US 146, 155 [1989]), the United States Supreme Court reversed the Court of Appeals, which had drawn a\n“distinction . . . between documents that originally were assembled for law enforcement purposes and those that were not so originally assembled but were gathered later for such purposes. The plain language of Exemption 7 does not permit such a distinction. Under the statute, documents need only to have been compiled when the response to the FOIA request must be made.” (Emphasis added.)\nThe Court found that\n“as is customary, we look initially at the language of the statute itself. The wording of the phrase under scrutiny is simple and direct: ‘compiled for law enforcement purposes.’ The plain words contain no requirement that compilation be effected at a specific time. The objects sought merely must have been ‘compiled’ when the Government invokes the Exemption. A compilation, in its ordinary meaning, is something composed of materials collected and assembled from various sources or other documents. See Webster’s Third New International Dictionary 464 (1961); Webster’s Ninth New Collegiate Dictionary 268 (1983). This definition seems readily to cover documents already collected by the Government originally for non-law-enforcement purposes.” {Id. at 153.)\nIn Schwartz v Department of Defense (2017 WL 78482, *12, 2017 US Dist LEXIS 2316, *33 [ED NY, Jan. 6, 2017, 15-CV-7077 (ARR)(RLM)]), the Court noted that\n“ [t]he term ‘compiled’ in exemption 7 is broad; it requires only ‘that a document be created, gathered, or used by an agency for law enforcement purposes at some time before the agency invokes the exemption.’ Pub. Emps. for Envtl. Responsibility v. U.S. Section, Int’l Boundary & Water Comm’n, U.S.-Mexico, 740 F.3d 195, 203 (D.C. Cir. 2014). ‘This definition . . . readily . . . coverts] documents already collected by the Government originally for non-law-enforcement purposes’ that are subsequently used for law enforcement purposes. John Doe Agency, 493 US at 153.”\nAdditionally, as noted by Justice Alito in his concurring opinion in Milner v Department of Navy (562 US 562, 584 [2011]),\n“[t]his Court has given a fairly broad meaning to ‘compiled’ under § 552(b)(7). In John Doe Agency, we held that information need not have been originally ‘compiled for law enforcement purposes’ to satisfy Exemption 7’s threshold requirement. Rather, ‘even though . . . documents were put together at an earlier time for a different purpose,’ they may fall within Exemption 7 if they are later assembled for law enforcement purposes. 493 U.S., at 154-155. For example, documents originally gathered for routine business purposes may fall within Exemption 7 if they are later compiled for use in a criminal investigation. Similarly, federal building plans and related information—which may have been compiled originally for architectural planning or internal purposes—may fall within Exemption 7 if that information is later compiled and given to law enforcement officers for security purposes.”\nCiting John Doe Agency, Supreme Court in New York County has held that\n“ ‘compiled’ means the time when the reply to a FOIL request has to be performed, not when the documents are originally collected and assembled by the government agency. The law enforcement exception is to prevent, among other things, the disclosure of documents under FOIL that would interfere with either law enforcement investigations or judicial proceedings (Public Officers Law § 87 [2] [e] [i]) . . . The important point in time as to ‘compiling’ of documents is not when they are created or initially received, but when they would be gathered for disclosure under FOIL. That is the time when their disclosure would have an effect on law enforcement investigations, judicial proceedings, or a person who is to be or is being tried.” (Matter of New York Times Co. v City of N.Y. Fire Dept., 195 Misc 2d 119, 123-124 [Sup Ct, NY County 2003].)\nPetitioners rely on the unreported case of Matter of King v Dillon (Sup Ct, Nassau County, Dec. 19, 1984, index No. 20859) and its holding that the relevant time for “compiling” is when the records were created; however, Matter of King was decided prior to John Doe Agency. Additionally, as noted by the respondent, Matter of King is distinguishable as there were no issues raised concerning confidential material, as the materials sought were the minutes of a public meeting of a village board, which were otherwise available to the public prior to being in possession of the district attorney.\nPetitioners also rely on Matter of Newsday, LLC v Town of Oyster Bay (2016 NY Slip Op 32749[U] [Sup Ct, Nassau County 2016]). Among the items requested were financial disclosure forms filed by a former Town official, Frederick Ippolito. The court referred to the basis for the denial of access to the form and wrote that\n“the Town states that the request for Ippolito’s financial disclosure forms is ‘unique’ because the documents ‘were the subject of activities by law enforcement agencies.’ Presumably, the Town was making reference to the fact that Ippolito was the subject of a federal indictment (the indictment was unsealed in March 2015) and charged with six counts of tax evasion based on his receipt, from 2008 through 2013, of over $2 million from Lizza and a principal of Lizza that he failed to report. Ip-polito eventually pleaded guilty to one felony count of tax evasion in January 2016. The Town argues that ‘[a]s materials that are the subject of law enforcement investigations and/or proceedings are generally kept secret ... it would have been improper for the Town to disclose those documents to Newsday, which would have undoubtedly published a story. . . .’ In support of this argument the Town cites to Fed. R. Crim Proc. 6 and CPL § 190.25(4)(a). Both of these provisions relate, among other things, to the secrecy of grand jury proceedings.\n“The argument of the Town is wholly without merit. The Newsday requests have nothing to do with grand jury proceedings nor any criminal investigation. Instead, they ask for government contracts and financial disclosure forms required to be in the Town’s possession—documents that undoubtedly are proper subjects of a FOIL request. They were not compiled for law enforcement purposes and therefore cannot possibly be subject to the law enforcement [purposes] exemption. Whether the contents of these made-in-the-ordinary-course Town documents reveal or establish nefarious or criminal conduct and as such may be used as evidence in a criminal proceeding is material only to the extent that Newsday, as the public’s representative, is able to bring such conduct to public light—precisely part of Newsday’s mission, as well as that of the FOIL statutes. The Town’s argument to the contrary reveals a misunderstanding (or perhaps contempt) of the purpose of the FOIL statutes, and the materials must be produced.” (2016 NY Slip Op 32749[U], *14-15 [emphasis added].)\nAs noted by the petitioners, the New York Committee on Open Government (hereinafter, the Committee) agrees with this position. However, unlike the court in Matter of Newsday, LLC v Town of Oyster Bay, which fails to mention or cite John Doe Agency, the Committee at least acknowledges its existence. Petitioners cite Committee FOIL-AO-19480 (2016), wherein the Committee responds to a request for information similar to that of the instant request with respect to Percoco. The opinion first acknowledges that “FOIL does not contain exactly the same language as the federal FOIA. However, the thrust of the ‘law enforcement purposes’ exception is similar.” (Comm on Open Govt FOIL-AO-19480 [2016].) Additionally, that\n“[i]n good faith and in the interest of transparency and full disclosure, the leading federal judicial decision relating to the law enforcement purposes exception, John Doe Agency, . . . reflects the conclusion by the U.S. Supreme Court that the term ‘compiled’ refers to the time that records are collected and assembled, not the time when they are created. It is noted that the Supreme Court reversed the holding of the U.S. Court of Appeals, which construed ‘compiled’ to mean ‘originally compiled.’ ” (Id.)\nThe opinion notes that three Justices dissented in John Doe Agency, however, there is no dispute that those Justices remain in the minority.\nFOIL-AO-19480 notes that it is the Committee’s “opinion” that the court in Matter of Newsday, LLC v Town of Oyster Bay, has interpreted the exemption narrowly, and thus correctly; however, neither the Nassau County Supreme Court nor the Committee on Open Government outweigh or overrule the very clear holding of the United States Supreme Court. Therefore, this court will follow that holding, and finds that the Chamber has established that the requested records were compiled for law enforcement purposes when the reply to the FOIL requests had to be performed.\nInterference with Law Enforcement Investigations or Judicial Proceedings\nRespondent must also establish the second prong of Public Officers Law § 87 (2) (e) (i), specifically, that the records, “if disclosed, would . . . interfere with law enforcement investigations or judicial proceedings.”\nIn Matter of Pittari v Pirro (258 AD2d 202, 206-207 [2d Dept 1999]), petitioner sought documents pertaining to the arrest and prosecution of his client from law enforcement agencies under FOIL while the criminal proceeding was still pending. The Court, noting the similarity between the state and federal statutes, cited NLRB v Robbins Tire & Rubber Co. (437 US 214, 222 [1978]), wherein the Supreme Court of the United States, in interpreting the meaning of the language would “interfere with enforcement proceedings,” held that neither the legislative history nor statutory language of 5 USC § 552 (b) (7) supported the proposition that the determination of whether disclosure would “interfere with enforcement proceedings” must be made on an individual case-by-case basis. Rather, “generic determinations” may be made that in “particular kinds of enforcement proceedings, disclosure of particular kinds of investigatory records while a case is pending would generally ‘interfere with enforcement proceedings.’ ” (NLRB v Robbins Tire & Rubber Co. at 236.)\nThe Pittari Court noted that if a criminal proceeding is pending, mandating FOIL disclosure would interfere with the orderly process of disclosure in the criminal proceeding set forth in CPL article 240. While the Court acknowledged that it could not disregard the open-government mandate of FOIL based on what is perceived as some generalized tension between FOIL and a distinct statutory disclosure scheme, the Court found that there is more than a “generalized tension” between FOIL and CPL article 240 while a criminal proceeding is still pending. The Court cited CPL article 240, which sets the types of evidence subject to disclosure, but also the timing for such disclosure. The Court noted that it is not within the authorized powers of the courts to compel disclosure which is not provided for in CPL article 240, and attempts to do so generally warrant issuance of a writ of prohibition. The Court noted that if a defendant in a pending criminal prosecution was capable of obtaining such disclosure under FOIL, “many of the provisions of CPL article 240 would be rendered meaningless.” (.Pittari at 207.)\nThe Court also found that FOIL disclosure in the course of a pending criminal proceeding would “create ... a substantial likelihood of delay in the adjudication of that criminal proceeding” generated by administrative appeals of the denial of disclosure based on the delays that would result from ancillary proceedings challenging the administrative determinations. (Id.)\n“While discovery rulings in a criminal proceeding are generally not reviewable until after a final judgment is rendered (see, CPL art 450), judgments in proceedings challenging administrative determinations are subject to immediate appeal (see, CPLR 5701). The adjudication of the criminal proceeding would be delayed pending the ultimate resolution of such appeals.” (Id. at 207.)\nThe Court ultimately found that where a criminal proceeding is pending, documents are exempt under Public Officers Law § 87 (2) (e) (i) upon the “generic determination” that disclosure of categories of records would create broad risks of harm and that a document-by-document showing of interference is not required. (See also Matter of Legal Aid Socy. v New York City Police Dept., 274 AD2d 207 [1st Dept 2000], lv dismissed and denied 95 NY2d 956 [2000] [same].)\nIn Matter of Lesher v Hynes (19 NY3d 57, 67 [2012]), the Court of Appeals reaffirmed the holding of Pittari, but also emphasized that not\n“every document in a law enforcement agency’s criminal case file is automatically exempt from disclosure simply because kept there. The agency must identify the generic kinds of documents for which the exemption is claimed, and the generic risks posed by disclosure of these categories of documents. Put slightly differently, the agency must still fulfill its burden under Public Officers Law § 89 (4) (b) to articulate a factual basis for the exemption.”\nThe Court found that the District Attorney had articulated a factual basis for the exemption, noting that there was an active criminal case pending and that the requested information was “replete with information about the crimes committed,” and so its release posed an obvious risk of prematurely tipping the District Attorney’s hand. (Id. at 63.)\nThe Chamber argues that at the time the FOIL requests were made, the investigation was in its early stages, and that the Chamber “could reasonably conclude that disclosure could hinder the US AO’s ability to shape and control its investigation.” Further, that public disclosure of investigatory records risks alerting potential targets, subjects and witnesses about the investigation, and might allow them to ellude detection, destroy or fabricate evidence, and modify, tailor or fabricate testimony. Finally, that disclosure could reference innocent parties and affect their reputation. Mr. Abramowitz also notes that because Percoco knows the contents of his own emails, schedules, employment records, he has several codefendants, some of whom are coconspirators, who may not. Additionally, that while the case against Howe has concluded by his plea of guilty, he is a cooperating witness who will “presumably” testify at trial. Finally, respondent disputes the petitioners’ claims that their requests are not broader than prosecutorial strategy, because petitioners cannot know the prosecutor’s strategy. The main problem with this last argument, and all of respondent’s arguments, is that the Chamber also has no personal knowledge of prosecutorial strategy.\nIn both Pittari and Lesher, the agency opposing the FOIL request was the prosecuting agency. The cases cited by the Chamber (New York News v Office of Special State Prosecutor of State of N.Y., 153 AD2d 512 [1989]; NLRB v Robbins Tire & Rubber Co., 437 US 214 [1978]; Accuracy in Media, Inc. v United States Secret Serv., 1998 WL 185496, 1998 US Dist LEXIS 5798 [D DC, Apr. 16, 1998, No. Civ A 97-2109(PLF)]) concerning the risks of alerting potential targets are also based on FOIL/FOIA requests made to the law enforcement agencies themselves. (See also Matter ofLoevy & Loevy v New York City Police Dept., 139 AD3d 598, 599 [1st Dept 2016] [“NYPD submitted an affidavit by a detective averring that he was handling an active, ongoing investigation into the homicide, and had recently pursued potential leads. The detective’s affidavit established that disclosure of the records could interfere with the active investigation by, among other things, leading to witness tampering or enabling the perpetrator to evade detection”].)\nPetitioners stress the importance of opposing the FOIL request with an affidavit from a person with actual knowledge of the prosecution. As noted by the petitioners, Matter of New York Times Co. v City of N.Y. Fire Dept. (4 NY3d 477 [2005]) concerned a FOIL request for tapes and transcripts of calls made on September 11, 2001 to the Fire Department’s 911 emergency service and oral histories that consisted of interviews with firefighters in the days following September 11. The Fire Department argued, inter alia, that disclosure should be denied as to six records said by the United States Department of Justice to be possible exhibits in the federal criminal trial of Zacarías Moussaoui. The Court disagreed, and held that\n“[t]he federal court has shown some concern about pretrial publicity; it has entered an order, binding on the parties to the Moussaoui case—though not, of course, on the Fire Department or the Times— prohibiting disclosure of ‘discovery materials’ produced by the prosecutors to Moussaoui and his counsel. It may be that there is some good reason, not apparent from the record before us, why the disclosure of the six potential exhibits at issue here would create problems in the criminal case, and it can do no harm for the Department of Justice to have an opportunity to point out such a good reason to Supreme Court. If such a submission is made, Supreme Court should decide, in light of the additional information submitted and following an in camera inspection if necessary, whether the potential exhibits are subject to the law enforcement exception to FOIL.” (Id. at 490-491.)\nDespite the lessened, “generic” standard of particularity, an “agency must still fulfill its burden under Public Officers Law § 89 (4) (b) to articulate a factual basis for the exemption.” (Lesher v Hynes at 67.) Vague allegations and/or attorney affirmations alone, will not suffice since, “evidentiary support is needed.” (Matter of Dilworth v Westchester County Dept. of Correction, 93 AD3d 722, 724 [2d Dept 2012]; Newsday LLC v Nassau County Police Dept., 42 Misc 3d 1215[A], 2014 NY Slip Op 50044[U] [Sup Ct, Nassau County 2014]; see also Matter of Washington Post Co. v New York State Ins. Dept., 61 NY2d 557, 567 [1984]; Matter of Madera v Elmont Pub. Lib., 101 AD3d 726, 727 [2d Dept 2012]; Matter of Loevy & Loevy v New York City Police Dept., 38 Misc 3d 950, 954-955 [Sup Ct, NY County 2013]; Matter of Windham v City of N.Y. Police Dept., 2013 NY Slip Op 32418 [U] [Sup Ct, NY County 2013].)\nIn Lesher, the Court of Appeals sustained the investigation exemption, but only because the District Attorney was able to articulate a series of concrete factual statements relating to specific document categories and then describe the relevant harm disclosure might create. The Court relied on the fact that the District Attorney had “identified for Supreme Court the categories of records that he sought to withhold on the basis of the exemption,” which included “correspondence with the United States Department of State ‘consist [ing] of crime summaries, timelines of when and where each crime occurred, witness names and personal information, and witness statements’ ”; and also “identified the generic harm that disclosure would cause—i.e., [that] disclosure would necessarily interfere with law enforcement proceedings because the correspondence was ‘replete with information about the crimes committed,’ and so its release posed an obvious risk of prematurely tipping the District Attorney’s hand.” (Lesher v Hynes at 67-68.)\nThis court agrees that the prosecutor(s) in the federal and state criminal proceedings at hand may have legitimate reasons to oppose disclosure in order to protect certain aspects of their case, and that some or all of the potential reasons cited by Mr. Abramowitz may be at play here. However, Mr. Abramowitz has no firsthand knowledge of how either federal or state prosecutors intend to make their case. This is apparent by the very language he employs, noting that Howe will “presumably” testify, that the Chamber “could reasonably conclude” that disclosure would hinder the investigation, or that disclosure of Percoco’s records “could” impact the proceedings. Mr. Abramowitz’s statements are conclusory and contain no descriptive facts upon which the court can meaningfully weigh the viability of the claimed exemption, because he does not have access to the necessary information concerning the prosecutors’ case, and thus cannot articulate a factual, as opposed to a speculative, basis for the exemption.\nThe Chamber also invokes subdivision (2) (e) (ii) and (iii), which exempts information compiled for law enforcement purposes which, if disclosed, would (ii) deprive a person of a right to a fair trial or impartial adjudication or (iii) identify a confidential source or disclose confidential information relating to a criminal investigation.\nWith respect to Public Officers Law § 87 (2) (e) (ii), the Chamber notes that the Federal District Court has issued a protective order, which covers the documents at issue in order to ensure a fair trial. However, as noted in Matter of New York Times Co. v City of N.Y. Fire Dept., it only binds the parties to the federal criminal case, not the Chamber itself, and therefore, does not constitute a bar to disclosure under FOIL. The Chamber provides no other justification for this exemption.\nWith respect to Public Officers Law § 87 (2) (e) (iii), the Chamber does not make any representations whatsoever about the existence of confidential sources. Notably absent from respondent’s argument is any suggestion that there were confidential sources in this investigation, that the accounts of confidential sources are in the requested documents or how the information sought is confidential.\nIn accordance with the foregoing, the court finds that the Chamber has failed to sustain its burden of demonstrating that the requested material falls squarely within an exemption by articulating a particularized and specific justification for denying access under Public Officers Law § 87 (2) (e) (i)-(iii).\nPublic Officers Law § 87 (2) (a)\nThe Chamber also now cites Public Officers Law § 87 (2) (a), which states that an agency may deny access to records or portions thereof that are specifically exempted from disclosure by state or federal statute. Specifically, that the records requested “pertain” to grand jury proceedings, and are exempt under New York Criminal Procedure Law § 190.25 and Federal Rules of Criminal Procedure rule 6 (e), both of which impose a general requirement of secrecy for information relating to the grand jury process. The Chamber argues that any record supplied in connection with a grand jury subpoena falls under this exemption, and that all of the documents that would respond to petitioners’ FOIL requests were provided to the USAO’s grand jury subpoena.\nHowever, as noted by the petitioners, the Chamber is not bound to secrecy by state or federal statute. New York Criminal Procedure Law § 190.25 (4) (a) states that grand jury proceedings are secret,\n“and no grand juror, or other person specified in subdivision three of this section or section 215.70 of the penal law, may, except in the lawful discharge of his duties or upon written order of the court, disclose the nature or substance of any grand jury testimony, evidence, or any decision, result or other matter attending a grand jury proceeding.”\nThe Chamber does not qualify for any of the aforementioned exceptions. The federal rules also impose stringent secrecy requirements on certain grand jury participants, including the attorneys, court reporters, and grand jurors. (See Fed Rules Crim Pro rule 6 [e].) The Chamber does fall into any exception contained in the analogous federal statutes. (See rule 6 [e] [2] [A] [“No obligation of secrecy may be imposed on any person except in accordance with Rule 6”].) Those secrecy rules make no mention of a subpoena recipient or a witness.\nEven if they are covered by these two statutes, the Chamber argues that the mere receipt of a federal grand jury subpoena justifies the exemption of responsive documents. The Chamber cites Lopez v Department of Justice (393 F3d 1345, 1349 [DC Cir 2005]), which notes that\n“ ‘[t]here is no per se rule against disclosure of any and all information which has reached the grand jury chambers.’ Senate of the Commonwealth of Puerto Rico v. DOJ, 823 F.2d 574, 582 (D.C.Cir.1987) (‘SCPR’). The relevant inquiry for this Court is whether disclosure of the information requested would ‘tend to reveal some secret aspect of the grand jury’s investigation, such matters as the identities of witnesses or jurors, the substance of testimony, the strategy or direction of the investigation, the deliberations or questions of jurors, and the like.’ ”\nWith respect to grand jury subpoenas, the Court held that\n“[t]he date on which a grand jury subpoena was issued inherently tends to ‘reveal’ the ‘direction of the investigation.’ The prosecutor may issue the subpoena without the knowledge of the grand jury, but his authority to do so is grounded in the grand jury investigation, not the prosecutor’s own inquiry. Federal prosecutors have no authority to issue grand jury subpoenas independent of the grand jury. . . . DiGenova may have noted that the grand jury itself does not decide to issue the subpoena, but it also noted that ‘a grand jury subpoena gets its name from the intended use of the testimony.’ 779 F.2d at 80 n. 11 . . . Because the evidence and testimony subpoenaed is that which is intended to be used by the grand jury, the subpoenas and the dates on which they are issued tend to reveal the direction of the relevant investigation. All grand jury subpoenas (be they ad testificandum or duces tecum) and therefore their dates of issuance fall within FOIA’s third exemption.” (Id. at 1349-1350 [emphasis omitted].)\nIn this case, the petitioners are not seeking the subpoena and/or the date on which it was issued.\nHowever, the Chamber also cites case law in which the courts upheld an agency’s refusal to disclose records produced in response to a grand jury subpoena. The Chamber cites Barouch v United States Dept. of Justice (2015 WL 5544424, *3, 2015 US Dist LEXIS 124841, *8 [D DC, Sept. 18, 2015, Civil Action No. 14-0552 (ABJ)]), wherein the court again cited to Senate of the Commonwealth of Puerto Rico v United States Dept, of Justice, which noted that rule 6 (e) does not draw “a veil of secrecy . . . over all matters occurring in the world that happen to be investigated by a grand jury” and that “there is no per se rule against disclosure of any and all information which has reached the grand jury chambers.” The court noted that the “touchstone is whether disclosure would tend to reveal some secret aspect of the grand jury’s investigation,” such as “the identities of witnesses or jurors, the substance of testimony, the strategy or direction of the investigation, the deliberations or questions of jurors, and the like.” (2015 WL 5544424, *3, 2015 US Dist LEXIS 124841, *8.) The court cited Lopez to withhold the actual grand jury subpoena, but also reviewed a “declaration submitted in support of defendants’ renewed motion for summary judgment” from the Chief of the Disclosure Division at the Bureau for Alcohol, Tobacco, Firearms and Explosives (ATF), which explained that the 97 withheld pages were “comprised of a grand jury subpoena for records and the records produced in response to the grand jury subpoena.” (2015 WL 5544424, *4, 2015 US Dist LEXIS 124841, *9.) She further specifies that the records produced in response to the subpoena consisted of “financial documents that provide the direction of the grand jury investigation as well as lay the groundwork for how Mr. Barouch proceeded with the attempted murder of his ex-wife through the use of a destructive device.” (2015 WL 5544424, *4, 2015 US Dist LEXIS 124841, *10 [internal quotation marks omitted].) The court upheld the subpoenaed records under FOIA exemption 3 and rule 6 (e), but only after receiving the declaration from the Chief of the Disclosure Division at ATF which discussed how disclosure would tend to reveal some secret aspect of the grand jury’s investigation.\nThe Chamber also cites Germosen v Cox (1999 WL 1021559, *13, 1999 US Dist LEXIS 17400, *40-41 [SD NY, Oct. 29, 1999, 98 Civ 1294(BSJ)]), wherein the court found that the\n“records requested by Germosen fall within the coverage of Rule 6(e). By its terms, Rule 6(e)(2) applies to ‘matters occurring before the grand jury.’ Fed. R. Crim.R 6(e) (2). This scope encompasses documents subpoenaed as exhibits as well as potential documentary exhibits which, if turned over, would reveal the direction and strategy of an investigation. See Local 32B—32J, service Employees Int'l Union, AFL-CIO v. GSA, No. 97 Civ. 8509, 1998 WL 726000, at *6 (S.D.N.Y. Oct. 15, 1998). Rule 6(e) also protects from disclosure documents that would reveal the identity of grand jury witnesses or other secret aspects of the proceedings. See McDonnell, 4 F.3d at 1248 (names and identities of witnesses subpoenaed and transcripts of testimony before grand jury are not subject to disclosure); Fund for Constitutional Govt., 656 F.2d at 869 (information quoting, summarizing, or evaluating testimony, discussing scope, focus and direction of investigation, and identifying potential witnesses or potential documentary exhibits is protected by Rule 6(e)). Furthermore, Rule 6(e) imposes no requirement that materials actually be presented to the grand jury in order to fall within the rule’s scope. See In re Grand Jury Subpoena, 103 F.3d 234, 237 (2d Cir.1996) (‘The plain language of the Rule shows that Congress intended for its confidentiality provisions to cover matters beyond those actually occurring before the grand jury’).”\nContrary to the Chamber’s assertions, the court in Germosen v Cox did not issue a blanket rule that all documents produced in response to a grand jury subpoena are exempt, but again noted that the exemption applies to documents that would reveal the direction and strategy of an investigation, the identity of grand jury witnesses or other secret aspects of the proceedings.\nIn this case, the FOIL requests do not seek the actual subpoena. Additionally, the Chamber does not provide any insight as to that “touchstone” of the analysis, specifically, how their response to the FOIL requests would “tend to reveal some secret aspect of the grand jury’s investigation,” such as “the identities of witnesses or jurors, the substance of testimony, the strategy or direction of the investigation, the deliberations or questions of jurors, and the like.” (Senate of the Commonwealth of Puerto Rico v United States Dept, of Justice at 582.) This is again related to the fact that the Chamber has no knowledge of the direction of the grand jury proceedings or the investigation.\nFinally, the Chamber argues that the disclosure could reference innocent parties and affect their reputation. Public Officers Law § 87 (2) (b) permits an agency to deny access to records or portions thereof if disclosure “would constitute an unwarranted invasion of personal privacy.” The personal privacy exemption incorporates a non-exhaustive list of categories of information that the legislature has determined would constitute unwarranted invasions of personal privacy if disclosed. (See Public Officers Law § 89 [2] [b].) In the absence of any proof establishing the applicability of any enumerated categories, the determination of whether disclosure of the information sought constitutes an unwarranted privacy invasion requires a “balancing [of] the privacy interests at stake against the public interest in disclosure of the information.” (Matter of Harbatkin v New York City Dept. of Records & Info. Servs., 19 NY3d 373, 380 [2012] [internal quotation marks and citation omitted].)\nAs noted above, “the [public] agency must articulate ‘particularized and specific justification’ for not disclosing requested documents” (Matter of Gould v New York City Police Dept., 89 NY2d at 275, quoting Matter of Fink v Lefkowitz, 47 NY2d at 571; see Matter of Rose v Albany County Dist. Attorney’s Off., 111 AD3d 1123, 1125 [2013]); conclusory assertions, unsupported by facts, will not suffice (see Church of Scientology of N.Y. v State of New York, 46 NY2d 906, 907-908 [1979]; Matter of Rose v Albany County Dist. Attorney’s Off., 111 AD3d at 1126; Matter of Carnevale v City of Albany, 68 AD3d 1290, 1292 [2009]). In this case, the Chamber offered no proof that the requested records fell into any enumerated categories and failed to specify the implicated privacy interests, if any, against which the public interest in disclosing the records were to be balanced. The Chamber’s claim that innocent non-specified people may have their reputations besmirched in an unspecified manner fails to sustain its burden to provide a particularized and specific justification for not disclosing requested documents.\nThe petitioners also seek an award of attorney’s fees and costs. Attorney’s fees and other costs may be awarded to a FOIL requestor if the agency unreasonably denied access to the records sought, or failed to reply within the statutory time to the initial request, or to an administrative appeal. (Public Officers Law § 89 [4] [c].) Here, there is no allegation that the Chamber failed timely to respond either to the initial requests for records, or to petitioners’ administrative appeals. While the court has found that the records should be provided, the Chamber’s reasons for withholding the records are, at least, arguable. Therefore, under the circumstances of this action, the court declines to award attorney’s fees.\nTherefore, in accordance with the foregoing, it is hereby ordered and adjudged that the petition compelling the Executive Chamber to respond to petitioners’ four FOIL requests is granted to the extent that, within 45 days from the date of this decision, respondents are directed to deliver to petitioners documents that are responsive to the items listed on pages 408-409 of this decision, order, and judgment to the extent that the items are within the Chamber’s possession, and it is further ordered and adjudged that the petitioners’ request for attorney’s fees is denied.\nThe Chamber cites Public Officers Law § 89 (2) (b) for this exemption, but includes it as a basis for nondisclosure under Public Officers Law § 89 (2) (e) (i).",
+        "type": "majority",
+        "author": "Patrick J. McGrath, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Legal Department, New York Times, for petitioners.",
+      "Greenberg Traurig, LLP for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[56 NYS3d 821]\nIn the Matter of The New York Times Company et al., Petitioners, v New York State Executive Chamber, Respondent.\nSupreme Court, Albany County,\nJuly 6, 2017\nAPPEARANCES OF COUNSEL\nLegal Department, New York Times, for petitioners.\nGreenberg Traurig, LLP for respondent."
+  },
+  "file_name": "2913-01",
+  "first_page_order": 405,
+  "last_page_order": 427
+}

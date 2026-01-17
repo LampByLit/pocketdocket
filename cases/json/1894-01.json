@@ -1,0 +1,328 @@
+{
+  "id": 4318445,
+  "name": "In the Matter of Eric M. Gordon, Petitioner, v. Darwin E. LaClair, Superintendent, Franklin Correctional Facility, et al., Respondents",
+  "name_abbreviation": "Gordon v. LaClair",
+  "decision_date": "2015-06-11",
+  "docket_number": "",
+  "first_page": "926",
+  "last_page": "936",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 926"
+    },
+    {
+      "type": "parallel",
+      "cite": "16 N.Y.S.3d 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "408 US 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782797
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0471-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12126861
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0651-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 480",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777850
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0480-01"
+      ]
+    },
+    {
+      "cite": "466 F3d 330",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3774812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/466/0330-01"
+      ]
+    },
+    {
+      "cite": "2004 US Dist LEXIS 22260",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 2203250",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 US Dist LEXIS 11857",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "*12"
+        },
+        {
+          "page": "*18-19"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 1499457",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 F3d 639",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9103137
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/339/0639-01"
+      ]
+    },
+    {
+      "cite": "779 F3d 330",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4013101
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/779/0330-01"
+      ]
+    },
+    {
+      "cite": "131 F3d 818",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11889252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/131/0818-01"
+      ]
+    },
+    {
+      "cite": "195 F3d 1285",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1738217
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/195/1285-01"
+      ]
+    },
+    {
+      "cite": "205 F3d 1237",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11463819
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/205/1237-01"
+      ]
+    },
+    {
+      "cite": "546 US 938",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5967488,
+        6001185,
+        5895904,
+        3811568,
+        3805777,
+        5991389,
+        3811860,
+        5988055,
+        6002617,
+        5978778,
+        6010491,
+        5882493,
+        5987257
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0938-12",
+        "/us/546/0938-13",
+        "/us/546/0938-09",
+        "/us/546/0938-06",
+        "/us/546/0938-10",
+        "/us/546/0938-01",
+        "/us/546/0938-02",
+        "/us/546/0938-04",
+        "/us/546/0938-08",
+        "/us/546/0938-05",
+        "/us/546/0938-07",
+        "/us/546/0938-03",
+        "/us/546/0938-11"
+      ]
+    },
+    {
+      "cite": "409 F3d 665",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8956639
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/409/0665-01"
+      ]
+    },
+    {
+      "cite": "395 F3d 216",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9167312
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/395/0216-01"
+      ]
+    },
+    {
+      "cite": "622 F3d 315",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3787500
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/622/0315-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 876",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 AD3d 964",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3549310,
+        3550247
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/42/0964-01",
+        "/ad3d/42/0964-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 927,
+    "char_count": 23235,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.345434925059198e-8,
+      "percentile": 0.27322828473783606
+    },
+    "sha256": "eff4abe81cd335ffdbf23ed2db0c08e0d934eac55c9457190a5d333cdf2c9bf1",
+    "simhash": "1:f15f726683a9e26e",
+    "word_count": 3584
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Eric M. Gordon, Petitioner, v Darwin E. LaClair, Superintendent, Franklin Correctional Facility, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nS. Peter Feldstein, J.\nThis proceeding was originated by the petition for a writ of habeas corpus of Eric M. Gordon, sworn to on July 25, 2014 and originally filed in Erie County. Petitioner’s affidavit, in support of petition for writ of habeas corpus, also sworn to on July 25, 2014, was filed in Erie County along with the petition. By transfer order dated October 9, 2014 the Supreme Court, Erie County, ordered that this proceeding be transferred to Franklin County where petitioner was — and remains — confined in the custody of the New York State Department of Corrections and Community Supervision (DOCCS) at the Franklin Correctional Facility. Petitioner’s memorandum of law, sworn to on October 30, 2014, was received directly in chambers on November 10, 2014 and filed in the Franklin County Clerk’s office on November 24, 2014.\nThe court issued an order to show cause on November 21, 2014 and has received and reviewed respondents’ answer and return, verified on January 16, 2015 and supported by the letter memorandum of Christopher J. Fleury, Esq., Assistant Attorney General, dated January 16, 2015. The court has also received and reviewed petitioner’s reply thereto, sworn to on January 30, 2015 and supported by his letter memorandum dated January 24, 2015 and sworn to on January 30, 2015. Petitioner’s reply and letter memorandum were both filed in the Franklin County Clerk’s office on February 5, 2015. In addition, the court has received and reviewed petitioner’s memorandum of points and authorities, sworn to on April 7, 2015 and filed in the Franklin County Clerk’s office on April 15, 2015.\nOn October 28, 2005 petitioner was sentenced in Supreme Court, Erie County, to a determinate term of five years (with five years’ postrelease supervision) upon his conviction, following a plea, of the crime of attempted burglary in the second degree. The judgment of conviction was affirmed on direct appeal to the Appellate Division, Fourth Department. (People v Gordon, 42 AD3d 964 [2007], lv denied 9 NY3d 876 [2007].) Petitioner was released from DOCCS custody to postrelease supervision on multiple occasions and, following multiple delinquencies, has apparently completed serving the five-year determinate term and is currently serving the remainder of the five-year period of postrelease supervision in DOCCS custody. The maximum expiration date of the period of post-release supervision is calculated by DOCCS officials as July 28, 2015.\nPetitioner was most recently released from DOCCS custody to postrelease parole supervision on June 6, 2013. His supervision, however, was revoked following a final parole revocation hearing conducted on October 2, 2013. Petitioner was returned to DOCCS custody as a postrelease supervision violator on October 29, 2013. In the meantime, prior to his final parole revocation hearing, petitioner commenced a habeas corpus proceeding in Supreme Court, Erie County under that court’s index number 2013-2788. As part of an order to show cause dated October 2, 2013 the habeas corpus proceeding was converted into a proceeding for judgment pursuant to article 78 of the CPLR. By memorandum decision and order dated December 16, 2013 the underlying petition was dismissed. No direct appeal was taken and the current proceeding was subsequently commenced in Erie County.\nThe petition and supporting documents in the instant proceeding contain scant direct reference to the facts and circumstances underlying the revocation of petitioner’s postrelease parole supervision in the fall of 2013. In this regard it is noted that the petitioner does not specify the various conditions of his postrelease supervision nor does he specify the parole violation charges brought against him and/or which of those parole violation charges were ultimately sustained following the October 2, 2013 final parole revocation hearing. It is clear from the record, however, that on May 30, 2013, prior to petitioner’s release to parole supervision, a determination was made pursuant to DOCCS Directive 8304 to supervise him, upon release, as a “discretionary sex offender.” In this proceeding petitioner challenges that determination. More specifically, petitioner argues that under the Due Process Clause of the United States Constitution he was entitled to notice and opportunity to be heard prior to being designated a discretionary sex offender.\nIt is not disputed that neither petitioner’s crime of conviction — attempted burglary in the second degree — nor any crime of conviction in his criminal history, constitutes a “[s]ex offense” or a “[s]exually violent offense,” as those terms are defined in Correction Law § 168-a (2) and (3). Thus petitioner is not a “[s]ex offender” under the definition set forth in Correction Law § 168-a (1) and not subject to potential registration with the New York State Sex Offender Registry pursuant to Correction Law article 6-C.\nDOCCS Directive 8304 sets forth departmental policy “to identify and provide intensive supervision strategies to both individuals subject to the New York State Sex Offender Registry and to individuals with a history of sexually inappropriate behaviors so that the interests of public safety and the supervision needs of the releasees are served.” (DOCCS Directive 8304 [II].) An offender — unlike petitioner — subject to registration with the Sex Offender Registry is designated in Directive 8304 as a “Mandatory Sex Offender.” (DOCCS Directive 8304 [III] [A].) Under the provisions of DOCCS Directive 8304 (III) (B), however, a “discretionary sex offender” is defined as “[a]n offender found upon case review and determination by the Bureau Chief to meet Department established criteria for specialized supervision as a sex offender.” Under the relevant provisions of DOCCS Directive 8304 (IV) (A), moreover, the criteria for potential discretionary sex offender review are identified as including the following:\n“1. Current or prior crime of conviction/adjudication is a sexually motivated offense, but not a NYS Registry sex offense conviction . . . or . . .\n“4. History of a documented pattern of sexual misbehaviors (i.e., crimes with a sexual component not incorporated into a final conviction; school records; jail or prison disciplinary records; or sexually inappropriate behaviors admitted to by the offender); and\n“5. It appears that the offender and/or community would benefit from intensive supervision practices that incorporate specialized sex offender ‘containment’ strategies.”\nThe May 30, 2013 determination to supervise petitioner, upon his parole release, as a “discretionary sex offender” was based upon the finding that during the course of the commission of the crime underlying his incarceration (attempted burglary in the second degree) he “remained unlawfully while high on crack & refused to leave until he had sex w/victim & her 7 yr old daughter.”\nThe containment strategy referenced in the above-quoted provisions of DOCCS Directive 8304 (IV) (A) (5) is defined in DOCCS Directive 8304 (III) (C) as follows:\n“A specialized approach to supervision based on the development of external controls and supports that assists in offender monitoring and accountability for behaviors. This strategy relies on interdisciplinary collaboration and teamwork to ensure that criminal sexual behavior of offenders in managed and treated. A coordinated approach among the supervising Parole Officer, Polygraph Examiner, and treatment providers assist in the early detection of offender offense cycles, patterns, and risk factors.”\nNotwithstanding the forgoing, and aside from providing that discretionary sex offenders be subject to parole supervision “on a 40:1 caseload status” (DOCCS Directive 8304 [V] [A]), the court finds nothing in the directive mandating the application of any specific parole condition(s) to discretionary sex offenders.\nThe argument advanced by petitioner in this proceeding is presented in a curious procedural posture. As already noted, petitioner previously commenced a habeas corpus proceeding in Supreme Court, Erie County under that court’s index No. 2013-2788. The proceeding was apparently commenced after petitioner was taken into local custody on a parole violation warrant but prior to his October 2, 2013 final parole revocation hearing. Although the record herein does not include a copy of the earlier petition, it does appear that it featured some sort of challenge to the authority of the Board of Parole to issue certain (unspecified in this proceeding) conditions of release. As part of an order to show cause dated October 2, 2013, the habeas corpus proceeding under index No. 2013-2788 was converted into a CPLR article 78 proceeding and ultimately dismissed for failure to exhaust administrative remedies. In its memorandum decision and order of December 16, 2013 the Supreme Court, Erie County (Hon. Christopher J. Burns), concluded as follows:\n“Petitioner specifically contends that the Board of Parole lacked the authority to impose certain conditions upon him when he was released to parole supervision. He was then violated and returned to custody for failing to abide by those conditions. In the hearing before the Board of Parole, the petitioner specifically raised these arguments. As such, he must first have those issues decided through an administrative appeal and the instant petition must be dismissed.”\nAs alluded to previously, petitioner concedes that he took no direct appeal from the final determination under Erie County index No. 2013-2788. Rather, he commenced this proceeding and asserted in paragraph six of his affidavit in support of petition for writ of habeas corpus, sworn to on July 25, 2014, that he\n“now represents his habeas corpus application back to the Court believing that the first application was improperly converted to an article 78 proceeding when the relief the petitioner seeks is immediate relief [release?] of the petitioner as the restraints and confinement the petitioner is now under is illegal in that it violates the Constitution of the State of New York, and that of the United States.”\nPerhaps attempting to distinguish the argument advanced in this proceeding from the argument(s) advanced in the previous proceeding, petitioner asserts as follows in paragraphs 3 and 11 of his affidavit in support of petition for writ of habeas corpus:\n“Please note: that this petition is not initiated on any parole violation or parole condition per-se, but that this petition is initiated specifically to challenge the parole [’]s unconstitutional classification of the petitioner as a sex offender . . . The petitioner represents here the fact that the Department of Parole’s classification of him as a sex offender with out [sic] due process of law presents a legal impediment to the now standing parole violation that the petitioner is currently being held imprisonment for at present. Here, procedural due process required that the Department of Parole before classifying the petitioner a discretionary sex offender, should have received notice and been given an opportunity to be heard before the final sex offender determination was concluded, and that as such, any parole violation has been obtained in violation of these constitutional safe guards [sic]. New York Constitution Art. 1 § 6, United States Constitution amends 5th, 8th, and 14th.”\nAlthough the court is unaware of any New York State court determination that is directly relevant to the disposition of the argument advanced by petitioner, various federal courts have held that where an inmate who has not been convicted of a sex offense is nevertheless designated, in some form, as a sex offender and coerced to participate in intensive sex offender therapy, a liberty interest under the Due Process Clause of the US Constitution is triggered. (See Renchenski v Williams, 622 F3d 315 [3d Cir 2010]; Coleman v Dretke, 395 F3d 216 [5th Cir 2004], reh en banc denied 409 F3d 665 [2005], cert denied 546 US 938 [2005]; Chambers v Colorado Dept. of Corr., 205 F3d 1237 [10th Cir 2000]; Kirby v Siegelman, 195 F3d 1285 [11th Cir 1999]; and Neal v Shimoda, 131 F3d 818 [9th Cir 1997].) Notwithstanding the foregoing, the Fifth Circuit Court of Appeals recently determined that an inmate’s liberty interests under the Due Process Clause were not implicated, even though it found no doubt that such inmate suffered stigma as a result of his classification as a sex offender, where there was no coercion to participate in a sex offender treatment program. (See Toney v Owens, 779 F3d 330 [5th Cir 2015]; see also Gunderson v Hvass, 339 F3d 639 [8th Cir 2003].)\nThe 2004 decision of the Fifth Circuit Court of Appeals in Coleman, cited in the preceding paragraph, is of particular interest in the case at bar. Although Mr. Coleman was indicted for aggravated sexual assault of a child and indecency with a child by contact, he ultimately entered a plea of guilty to, and was convicted only of, simple misdemeanor assault. After being released on parole supervision an additional condition of release, requiring him to participate in sex offender therapy, was imposed without prior notice or opportunity to be heard. Mr. Coleman failed to enroll in sex offender therapy and, as a result of that failure, his parole was revoked. The Fifth Circuit Court of Appeals ultimately agreed “that prisoners who have not been convicted of a sex offense have a liberty interest created by the Due Process Clause in freedom from sex offender classification and conditions.” (395 F3d at 222 [footnote with citations omitted].) According to the Coleman court,\n“Although many parolees are required to participate in some form of counseling or treatment as a condition on their release, we find that, due to its highly invasive nature, Texas’s sex offender therapy program is ‘qualitatively different’ from other conditions which may attend an inmate’s release. Accordingly, the Due Process Clause . . . provides Coleman with a liberty interest in freedom from the stigma and compelled treatment on which his parole was conditioned, and the state was required to provide procedural protections before imposing such conditions.” {Id. at 223 [footnotes with citations omitted].)\nThe proceedings in Coleman were ultimately remanded “to the [federal] district court with instructions to issue the writ to order Coleman’s [parole] release under its original terms unless the state promptly conducts further proceedings justifying Coleman’s confinement pursuant to state law and consistent with the opinion of this court.” (409 F3d at 670.) Despite some obvious similarities between the facts and circumstances in Coleman and those in the case at bar, this court, for the reasons set forth below, ultimately concludes that the petitioner herein is not entitled to habeas corpus relief.\nEven if this court was ultimately persuaded that the determination to supervise petitioner as a “discretionary sex offender,” issued without benefit of notice or opportunity to be heard, coupled with the imposition of a parole condition requiring him to participate in intrusive sex offender therapy, would constitute a violation of his constitutional due process rights, the proper remedy (preparóle violation) would be a court order striking the offending parole condition. The proper post-parole violation remedy would be a court order vacating any parole board determination sustaining a charge that petitioner violated the offending parole condition. Habeas corpus relief directing petitioner’s immediate release from DOCCS custody and restoration to parole supervision, however, would only be appropriate if the revocation of parole was based solely on a finding that he violated the parole condition mandating petitioner’s participation in sex offender therapy.\nIn the case at bar the petitioner does not allege, nor does the record demonstrate, that the determination revoking petitioner’s postrelease supervision following the October 2, 2013 final hearing was based solely on a finding that petitioner violated a release condition mandating his participation in sex offender therapy. As noted previously in this decision and judgment, the petitioner’s papers do not specify the various conditions of his postrelease supervision, do not specify the parole violation charges brought against him and do not specify which of those parole violation charges were ultimately sustained following the final hearing. On page 12 of his reply, sworn to on January 30, 2015, moreover, petitioner, after referencing various elements of the mandated sex offender treatment program, states that “[i]t is a given fact, that had the petitioner failed to comply with any of these conditions, he would certainly have violated the terms of his parole.” This language suggests to the court that the revocation of petitioner’s postrelease supervision following the October 2, 2013 hearing was not based upon a sustained violation of a release condition mandating his participation in sex offender therapy. To the extent the final parole revocation determination was based, in whole or in part, upon violations of parole conditions unrelated to petitioner’s “discretionary sex offender” designation, habeas corpus relief would clearly be unavailable. To the extent the final parole revocation determination was based, in whole or in part, upon violations of parole conditions arguably related to petitioner’s “discretionary sex offender” designation but not rising to the intrusive level of a condition that he participate in a sex offender treatment program, the court likewise finds that habeas corpus relief would be unavailable. In this regard the court notes the unreported findings and recommendation of the United States Magistrate Judge in Williams v Ballard (2004 WL 1499457, 2004 US Dist LEXIS 11857 [ND Tex, June 18, 2004, No. 3-02-CV-0270-M], report and recommendation accepted 2004 WL 2203250, 2004 US Dist LEXIS 22260 [ND Tex, Sept. 30, 2004, No. 3:02-CV-0270-M], affd on other grounds 466 F3d 330 [5th Cir 2006]). In Williams, a federal civil rights action, the plaintiff (who had not been convicted of a sex offense) was released from prison to parole supervision conditioned upon his registration as a sex offender under the Texas Sex Offender Registration Act, farther conditioned upon his participation in a sex offender counseling program and further subject to various less intrusive conditions related to his sex offender status. As noted by the United States Magistrate Judge, “[n] either the statute nor Texas parole officials provided plaintiff with notice or an opportunity to be heard before these special release conditions were imposed.” (2004 WL 1499457, *4, 2004 US Dist LEXIS 11857, *12.) The Magistrate Judge ultimately found\n“little difficulty in concluding that at least some of the conditions imposed on plaintiff relating to his sex-offender status give rise to a constitutionally protected liberty interest. Requiring plaintiff to register as a sex offender and publishing his picture . . . on a sex-offender website . . . is an ‘atypical and significant hardship’ exceedingly more burdensome than the standard conditions of parole placed on persons convicted of aggravated robbery [plaintiff’s crime of conviction] . . . Plaintiff also was required to participate in psychosexual counseling, which included the forced administration of smelling salts . . . ‘Compelled treatment in the form of mandatory behavior modification programs’ implicates the constitutional right ‘to be free from . . . unjustified intrusions on personal security.’ Vitek v. Jones, 445 U.S. 480, 492 . . . (1980), quoting [Ingraham] v. Wright, 430 U.S. 651, 673 . . . (1977). The court therefore concludes that plaintiff has satisfied the infringement prong of the ‘stigma-plus-infringement test’ with respect to the parole board’s unilateral decision to require him to register as a sex offender under [Texas] SORA and participate in a sex-offender counseling.” (2004 WL 1499457, *6, 2004 US Dist LEXIS 11857, *18-19.)\nNotwithstanding the foregoing, the United States Magistrate Judge added in an accompanying footnote that\n“[t]he other non-public sex-offender conditions of plaintiff’s release do not impose ‘atypical and significant hardships’ in relation to the ordinary incidents of parole supervision. Among the special conditions that do not implicate a liberty interest sufficient to give rise to a due process violation are: (1) avoiding contact with children; (2) prohibiting plaintiff from owning or operating a computer, accessing the Internet, or possessing pornographic material; and (3) requiring plaintiff to undergo a psychological evaluation. The imposition of those conditions are clearly within the discretion of the parole board.” (2004 WL 1499457, *6 n 6, 2004 US Dist LEXIS 11857, *19 n 6, citing Morrissey v Brewer, 408 US 471 [1972].)\nIn the case at bar the court finds that the petitioner failed to adequately state a cause of action whereby he would be entitled to immediate release from DOCCS custody back to postrelease parole supervision. The mere fact that petitioner may have been unlawfully designated a “discretionary sex offender” for parole supervision purposes does not, in and of itself or even when coupled with a parole condition directing his participation in an intrusive sex offender treatment program, mandate the judicial reversal of a subsequent final parole revocation determination in the absence of allegations/findings that the parole revocation determination was based solely upon the violation of the release condition requiring petitioner to participate in the sex offender treatment program.\nBased upon all of the above, it is, therefore, the decision of the court and it is hereby adjudged, that the petition is dismissed.\nIn paragraph 12 of his affidavit in support of petition for writ of habeas corpus, sworn to on July 25, 2014, petitioner asserts that after his release from DOCCS custody to postrelease supervision he was advised that he had been classified as a “discretionary sex offender” and that, as such, he would have to participate in a sex offender therapy program. No details with respect to the nature of the program were set forth in either the petition for writ of habeas corpus or the affidavit in support of petition for writ of habeas corpus. For the purposes of this decision and judgment only, the court presumes that such program was of such a nature as to trigger petitioner’s liberty interest under the Due Process Clause. In this regard it is noted that on page 12 of his reply, sworn to on January 30, 2015, petitioner asserts that the mandated sex offender program included “psychotherapy, and confrontational group sessions which were victim centered, focused on sexual behaviors, and was not confidentially maintain[ed]. These therapeutic measures were certainly intrusive.”",
+        "type": "majority",
+        "author": "S. Peter Feldstein, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eric M. Gordon, petitioner pro se.",
+      "Eric T. Schneiderman, Attorney General, Plattsburgh, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[16 NYS3d 371]\nIn the Matter of Eric M. Gordon, Petitioner, v Darwin E. LaClair, Superintendent, Franklin Correctional Facility, et al., Respondents.\nSupreme Court, Franklin County,\nJune 11, 2015\nAPPEARANCES OF COUNSEL\nEric M. Gordon, petitioner pro se.\nEric T. Schneiderman, Attorney General, Plattsburgh, for respondents."
+  },
+  "file_name": "1894-01",
+  "first_page_order": 924,
+  "last_page_order": 934
+}

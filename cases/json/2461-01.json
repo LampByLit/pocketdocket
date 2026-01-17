@@ -1,0 +1,730 @@
+{
+  "id": 12171027,
+  "name": "Bank of New York Mellon, Solely in its Capacity as Securities Administrator for J.P. Morgan Mortgage Acquisition Trust, Series 2006-WMC3, Plaintiff, v. WMC Mortgage, LLC, as Successor-by-Merger to WMC Mortgage Acquisition Corp., et al., Defendants",
+  "name_abbreviation": "Bank of New York Mellon v. WMC Mortgage, LLC",
+  "decision_date": "2016-09-07",
+  "docket_number": "",
+  "first_page": "967",
+  "last_page": "982",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 967"
+    },
+    {
+      "type": "parallel",
+      "cite": "39 N.Y.S.3d 892"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "140 AD3d 518",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5774808
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/140/0518-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 26793",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 899320",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 AD3d 413",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        6788192
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/141/0413-01"
+      ]
+    },
+    {
+      "cite": "307 AD2d 113",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        185629
+      ],
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/307/0113-01"
+      ]
+    },
+    {
+      "cite": "104 F Supp 3d 441",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        6837798
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "462-464"
+        },
+        {
+          "page": "478",
+          "parenthetical": "discussing \"disturbing examples from the files of Nomura reflecting its willingness to securitize defective loans,\" such as withholding \"due diligence information from its co-lead underwriter\""
+        },
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/104/0441-01"
+      ]
+    },
+    {
+      "cite": "2016 NY Slip Op 31386",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 NY Slip Op 32520",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 NY Slip Op 31432",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 AD3d 412",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3744298
+      ],
+      "pin_cites": [
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/105/0412-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 450",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4300139
+      ],
+      "pin_cites": [
+        {
+          "page": "451"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0450-01"
+      ]
+    },
+    {
+      "cite": "121 AD3d 514",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4291243
+      ],
+      "pin_cites": [
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/121/0514-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282577
+      ],
+      "pin_cites": [
+        {
+          "page": "569"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0562-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 48",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4165908
+      ],
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/0048-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 533",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4001755,
+        4000683
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0533-02",
+        "/ad3d/80/0533-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 498",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3482483,
+        3479683
+      ],
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0498-01",
+        "/ad3d/99/0498-02"
+      ]
+    },
+    {
+      "cite": "72 AD3d 434",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3972186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/0434-01"
+      ]
+    },
+    {
+      "cite": "38 NY2d 669",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2321390
+      ],
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/38/0669-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 48",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188535
+      ],
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0048-01"
+      ]
+    },
+    {
+      "cite": "128 NY 295",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2241478
+      ],
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/128/0295-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 220",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4315944
+      ],
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0220-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 777",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5719503
+      ],
+      "pin_cites": [
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0777-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 666",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3638623
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "674"
+        },
+        {
+          "page": "675"
+        },
+        {
+          "page": "675"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/6/0666-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 478",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5689844
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "491"
+        },
+        {
+          "page": "491-492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0478-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 901",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5697900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0901-01"
+      ]
+    },
+    {
+      "cite": "218 AD2d 628",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1228171
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "628",
+          "parenthetical": "\"that extraordinary remedy is only applicable in circumstances where there is evidence that plaintiff was lulled into inaction by defendant in order to allow the statute of limitations to lapse\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/218/0628-01"
+      ]
+    },
+    {
+      "cite": "33 AD3d 518",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3759397,
+        3761317
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/33/0518-01",
+        "/ad3d/33/0518-02"
+      ]
+    },
+    {
+      "cite": "643 Fed Appx 44",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 US Dist LEXIS 42453",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*13-14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 1259630",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "524 BR 563",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        4339009
+      ],
+      "pin_cites": [
+        {
+          "page": "588-589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/524/0563-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 31787",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12167894
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "3-4"
+        },
+        {
+          "page": "6"
+        },
+        {
+          "page": "7-8"
+        },
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/143/0001-01"
+      ]
+    },
+    {
+      "cite": "133 AD3d 96",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4363796
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "108"
+        },
+        {
+          "page": "107-108"
+        },
+        {
+          "page": "107-108"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/133/0096-01"
+      ]
+    },
+    {
+      "cite": "643 Fed Appx 14",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "810 F3d 861",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4061066
+      ],
+      "pin_cites": [
+        {
+          "page": "866-867"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/810/0861-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 544",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2340626
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0544-01"
+      ]
+    },
+    {
+      "cite": "143 AD3d 15",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12167939
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "20"
+        },
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/143/0015-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 581",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4318626
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0581-01"
+      ]
+    },
+    {
+      "cite": "136 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4110289
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/0001-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 32002",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 NY Slip Op 51934",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Misc 3d 1230",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Misc 3d 229",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4067742
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "237"
+        },
+        {
+          "page": "236"
+        },
+        {
+          "page": "236"
+        },
+        {
+          "page": "236-237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0229-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1348,
+    "char_count": 37470,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24696381912613438
+    },
+    "sha256": "614c2b08c61ee62083371ac14c1db3ee84677bb2fd1bc3f97bf895d7af6eba49",
+    "simhash": "1:a8a7e16b884ebf6b",
+    "word_count": 6139
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank of New York Mellon, Solely in its Capacity as Securities Administrator for J.P. Morgan Mortgage Acquisition Trust, Series 2006-WMC3, Plaintiff, v WMC Mortgage, LLC, as Successor-by-Merger to WMC Mortgage Acquisition Corp., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nShirley Werner Kornreich, J.\nMotion sequence numbers 001 and 002 are consolidated for disposition.\nDefendants WMC Mortgage, LLC (WMC), J.P. Morgan Mortgage Acquisition Corporation (JPMMAC), and J.P. Morgan Chase Bank, N.A. (Chase, and together with JPMMAC, JPMorgan) move, pursuant to CPLR 3211, to dismiss the complaint. Defendants’ motions are granted in part and denied in part for the reasons that follow.\nI. Procedural History and Factual Background\nAs this is a motion to dismiss, the facts recited are taken from the complaint and the documentary evidence submitted by the parties.\nThis is the third residential mortgage backed securities (RMBS) put-back action before this court in which The Bank of New York Mellon (BONY), as securities administrator, seeks to compel JPMMAC (the sponsor), Chase (the servicer), and WMC (the originator) to put back nonconforming loans in an RMBS trust. The trust at issue in this case is the J.P. Morgan Mortgage Acquisition Trust, Series 2006-WMC3 (the trust). The court assumes familiarity with the two related actions and RMBS cases in general. (See Bank of N.Y. Mellon v WMC Mtge., LLC, 50 Misc 3d 229 [Sup Ct, NY County 2015] [WMC2] [holding, inter alia, that the accrual clause does not extend the statute of limitations]; Bank of N.Y. Mellon v WMC Mtge., LLC, 41 Misc 3d 1230[A], 2013 NY Slip Op 51934[U] [Sup Ct, NY County 2013] [WMC4] [addressing, inter alia, the meaning of section 2.06 (a) (iii) of the pooling and servicing agreement], rearg denied 2014 NY Slip Op 32002 [U] [Sup Ct, NY County 2014], affd 136 AD3d 1 [1st Dept 2015].)\nBONY commenced this action on October 10, 2014 by filing a summons with notice. Its complaint, filed on September 28, 2015, asserts four causes of action: (1) breach of contract, asserted against the originator, WMC; (2) breach of contract, asserted against the sponsor, JPMMAC; (3) breach of contract, asserted against the servicer, Chase; and (4) breach of contract, asserted against WMC. (See Doc No. 13.) The first two causes of action are to put back nonconforming loans, the third cause of action is for failure to notify, and the fourth cause of action is for reimbursement of costs. The two operative contracts are the mortgage loan sale and interim servicing agreement dated July 1, 2005 (the MLSA) (Doc No. 28) and the pooling and servicing agreement dated August 1, 2006 (the PSA) (Doc No. 30). The PSA’s closing date was September 14, 2006, more than six years before this action was commenced.\nOn December 4, 2015, defendants filed the instant motions to dismiss. WMC contends that, under ACE Sec. Corp., Home Equity Loan Trust, Series 2006-SL2 v DB Structured Prods., Inc. (25 NY3d 581 [2015]), the claims asserted against it are time-barred. BONY opposes and takes the position that the MLSA’s accrual clause renders its claims against WMC timely. The court rejected BONYs accrual clause argument in WMC2 and the court adheres to that decision. Indeed, after WMC2 was decided, both the First Department and the Second Circuit issued decisions on the accrual clause issue in accord with WMC2. (See Deutsche Bank Nat’l Trust Co. v Flagstar Capital Mkts. Corp., 143 AD3d 15, 20 [1st Dept 2016] [Flagstar II] [“(t)he accrual provision in the agreement is unenforceable, despite the principle of freedom of contract upon which plaintiff relies”]; accord John J. Kassner & Co. v City of New York, 46 NY2d 544, 550 [1979]; see also Deutsche Bank Natl. Trust Co. v Quicken Loans Inc., 810 F3d 861, 866-867 [2d Cir 2015] [Quicken]; Lehman XS Trust, Series 2006-4N ex rel. U.S. Bank Natl. Assn. v Greenpoint Mtge. Funding, Inc., 643 Fed Appx 14, 16 [2d Cir 2016].) In Flagstar II, the First Department approvingly cited the Second Circuit’s decision in Quicken. (See Flag star II, 143 AD3d at 20 [“(a)ssuming arguendo that the accrual provision is not unenforceable as a matter of public policy, we are persuaded by the Second Circuit’s reasoning”].) BONY, therefore, is left to rely on its alternative argument, namely, that principles of equitable estoppel bar WMC from maintaining a statute of limitations defense. The court rejects this argument.\nJPMorgan, however, is not similarly situated to WMC in this action because it executed tolling agreements. Nonetheless, JPMMAC argues that, under the PSA, its “backstop” liability was extinguished once the claims against WMC became time-barred. The court does not agree. Moreover, Chase contends it is not a proper defendant since the failure to notify claim asserted against it is not viable. The court considered and rejected a virtually identical failure to notify claim in WMC2 (despite sustaining such a claim in WMC4) on the ground that ACE foreclosed failure to notify claims where the PSA makes clear that the trustee’s sole remedy with respect to nonconforming loans is a put-back claim against the sponsor or originator. The court reexamines this issue in light of Nomura Home Equity Loan, Inc., Series 2006-FM2 v Nomura Credit & Capital, Inc. (133 AD3d 96 [1st Dept 2015]), which was issued less than a month after WMC2 was decided, and Morgan Stanley Mtge. Loan Trust 2006-13ARX v Morgan Stanley Mtge. Capital Holdings LLC (143 AD3d 1 [1st Dept 2016]), which was issued after oral argument on the instant motions. (See Doc No. 97 [July 12, 2016 tr].)\nII. WMC’s Motion (Sequence No. 001)\nBONY contends that WMC, the originator, should be equitably estopped from asserting a statute of limitations defense due to WMC’s failure to notify BONY of the pervasive fraud permeating the loans in the trust. Similar arguments made by other RMBS trustees have been rejected. (See Deutsche Bank Natl. Trust v Flagstar Capital Mkts. Corp., 2015 NY Slip Op 31787[U], *7-8 [Sup Ct, NY County 2015, Friedman, J.] [Flagstar I] [citing In re Residential Capital, LLC, 524 BR 563, 588-589 (Bankr SD NY 2015, Glenn, J.)], affd on other grounds 143 AD3d 15 [2016]; Wells Fargo Bank, N.A. v JPMorgan Chase Bank, N.A., 2014 WL 1259630, *5, 2014 US Dist LEXIS 42453, *13-14 [SD NY, Mar. 27, 2014, Cedarbaum, J., No. 12 Civ 6168(MGC)], affd 643 Fed Appx 44 [2d Cir 2016].) This court also rejects the argument.\n“The doctrine of equitable estoppel is an ‘extraordinary remedy.’ ” (Pahlad v Brustman, 33 AD3d 518, 519 [1st Dept 2006] [quoting East Midtown Plaza Hous. Co. v City of New York, 218 AD2d 628, 628 (1st Dept 1995) (“that extraordinary remedy is only applicable in circumstances where there is evidence that plaintiff was lulled into inaction by defendant in order to allow the statute of limitations to lapse”)], affd 8 NY3d 901 [2007].) “For the doctrine to apply, a plaintiff may not rely on the same act that forms the basis for the claim — the later fraudulent misrepresentation must be for the purpose of concealing the former tort.” (Ross v Louise Wise Servs., Inc., 8 NY3d 478, 491 [2007] [emphasis added], citing Zumpano v Quinn, 6 NY3d 666, 674 [2006].) “[W]here the alleged concealment consisted of nothing but defendants’ failure to disclose the wrongs they had committed, . . . defendants [are] not estopped from pleading a statute of limitations defense.” (Corsello v Verizon N.Y., Inc., 18 NY3d 777, 789 [2012] [emphasis added], citing Ross, 8 NY3d at 491-492.) In other words, equitable tolling is unavailable where the plaintiff does not allege “an act of deception . . . separate from the ones for which they sue.” (See id.)\nIn this case, BONY has not alleged any affirmative act on the part of WMC that prevented BONY from commencing suit. On the contrary, BONY’s tolling argument is based on WMC’s failure to notify BONY of its knowledge of the presence of nonconforming loans in the trust. Regardless of whether an originator’s failure to notify can form the basis of an independent cause of action, WMC’s failure to notify BONY of the very warranty breaches BONY sues on cannot be used as a predicate for equitably tolling the statute of limitations. While BONY’s brief states in conclusory terms that “WMC actively concealed facts from [BONY]” (see Doc No. 58 at 11), the use of the word “conceal” to parrot the standard for equitable tolling cannot change the nature of what WMC is alleged to have done wrong. WMC is not alleged to have hidden anything or prevented BONY from discovering breaches. WMC is merely accused of failing to notify BONY that it “learned of rampant breaches.” (See id.) This type of failure to notify, which contravenes WMC’s obligations under section 2.03 of the PSA, is nothing more than the “failure to disclose the wrongs . . . committed” that Cor-sello holds is insufficient to warrant equitable tolling.\nTo be sure, as BONY reminds the court, the conduct of those in the RMBS industry was appalling. Nonetheless, the ACE court has also reminded us that RMBS cases, and all causes of action, no matter how despicable, cannot be brought if barred by the statute of limitations. (See Zumpano, 6 NY3d at 675 [“Conduct like this might be morally questionable . . . but it is not fraudulent concealment as a matter of law. A wrongdoer is not legally obliged to make a public confession, or to alert people who may have claims against it, to get the benefit of a statute of limitations. Plaintiffs do not allege any specific misrepresentation to them by defendants, or any deceptive conduct sufficient to constitute a basis for equitable estoppel” (emphasis added)]; see also Flagstar I, 2015 NY Slip Op 31787 [U], *8 [“the complaint does not plead an affirmative act or omission that dissuaded or prevented the Trustee from bringing suit. Nor does the complaint plead that the Trustee could not have learned of the breaches absent notice from (the originator). The Trustee cannot invoke the protection of equitable estoppel because it fails to allege that (the originator’s) silence prevented it from discovering any defects in the loans”].) Equitable tolling, the exception to such a bar, is only available when the defendant, after breaching the contract, takes some affirmative action to induce the plaintiff not to timely commence suit. Remaining silent is not enough. Consequently, as this action was commenced more than six years after the transaction closed and since WMC is not a party to a tolling agreement, BONY’s repurchase claim (the first cause of action) against WMC is dismissed as time-barred.\nBONY, additionally, pleads a separate cause of action against WMC for reimbursement (the fourth cause of action). That claim also is dismissed. The complaint concedes that WMC’s reimbursement obligation “is reflected in the price at which WMC is to repurchase noncompliant Mortgage Loans” because “[t]hat price was defined to include ‘all reasonable and customary costs and expenses, including reasonable attorneys’ fees incurred by Purchaser,[] to effect repurchases.’ ” (See complaint ¶ 58, quoting Doc No. 28 at 13 [MLSA § 1.01, definition of repurchase price].) WMC’s reimbursement obligation is merely part of the remedy for warranty breaches. As discussed in WMC2, under ACE, BONY cannot maintain an independent cause of action for any portion of its repurchase remedy if the underlying claim for which the remedy applies is time-barred.\nIll, JPMorgan’s Motion (Sequence No. 002)\nJPMorgan raises two issues on this motion: (1) whether JPMMAC, the sponsor, can have put-back liability under the PSA if, as is the case here, BONY’s claims against WMC, the originator, are time-barred; and (2) whether BONY can maintain a failure to notify claim against Chase, the servicer. A. JPMMAC’s Liability\nSection 2.03 (a) (i) of the PSA provides, in pertinent part, that “[i]n the event that [WMC] shall fail to cure the applicable breach or repurchase of a Mortgage Loan in accordance with the [repurchase protocol], [JPMMAC] shall do so.” (See Doc No. 30 at 56.) However, JPMMAC’s repurchase obligations are limited “to the extent that [WMC] is obligated to do so under the [MLSA and the AARA].” (See id. [emphasis added].) The parties dispute the meaning of “to the extent that [WMC] is obligated to do so” in light of the claims against WMC being time-barred. JPMMAC takes the position that it cannot have liability since WMC no longer has any repurchase obligations. BONY disagrees, contending that JPMMAC is conflating the existence of an obligation with whether the obligation is legally enforceable. BONY is correct.\nIt is well settled that the running of the statute of limitations does not extinguish the underlying liability. (See Faison v Lewis, 25 NY3d 220, 233 [2015] [“While statutes of limitations foreclose a party’s claim, they do not extinguish a party’s underlying right” (emphasis added)], citing Hulbert v Clark, 128 NY 295, 298 [1891], and Siegel, NY Prac § 34 at 44 [5th ed 2011] [“The theory of the statute of limitations generally followed in New York is that the passing of the applicable period does not wipe out the substantive right; it merely suspends the remedy” (emphasis added)]; see also Tanges v Heidelberg N. Am., 93 NY2d 48, 55 [1999] [“The expiration of the time period prescribed in a Statute of Limitations does not extinguish the underlying right, but merely bars the remedy”]; Matter of Paver & Wildfoerster [Catholic High School Assn.], 38 NY2d 669, 676 [1976] [“it has been said long ago and many times since that the Statute of Limitations only bars the remedy; it does not impair the underlying right”].) As these cases make clear, the statute of limitations merely cuts off a plaintiff’s ability to enforce an obligation through a lawsuit. The statute of limitations, however, does not affect the existence of the obligation itself. Indeed, a statute of limitations defense can be waived, further proving that a contractual obligation does not cease to exist after a claim for breach becomes time-barred. (See Horst v Brown, 72 AD3d 434 [1st Dept 2010]; see also Hakim v Hakim, 99 AD3d 498, 501 [1st Dept 2012] [time-barred breach of contract claim can be revived pursuant to General Obligations Law § 17-101 if debtor, in writing, recognizes existing debt and writing contains nothing inconsistent with intention on part of debtor to pay it]; Compañía de Inversiones de Engergía S.A. v AEI, 80 AD3d 533 [1st Dept 2011] [same].)\nUnder ACE, the period to timely commence suit against WMC has elapsed. Nonetheless, since WMC continues to have the legal obligation to repurchase nonconforming loans, despite such obligation not being enforceable, JPMMAC remains liable under section 2.03 (a) (i). These extremely sophisticated parties could have made JPMMAC’s liability dependent on the enforceability rather than the existence of BONY’s claims against WMC. They chose not to. The court may not rewrite the agreement to add the additional condition that WMC’s obligation be enforceable. (See WMC4, 136 AD3d at 6 [“A contractual provision that is clear on its face must be enforced according to the plain meaning of its terms. This rule applies with even greater force in commercial contracts negotiated at arm’s length by sophisticated, counseled businesspeople. In addition, courts may not by construction add or excise terms, nor distort the meaning of those used and thereby make a new contract for the parties under the guise of interpreting the writing” (citations and internal quotation marks omitted)]; see also Macy’s Inc. v Martha Stewart Living Omnimedia, Inc., 127 AD3d 48, 54 [1st Dept 2015]; accord Greenfield v Philles Records, 98 NY2d 562, 569 [2002].) Hence, JPMMAC is not absolved of liability under the PSA by virtue of the claims against WMC being time-barred. B. Chase’s Liability\nIn WMC2, the court stated that “[a]fter ACE, the notion that a separate failure to notify claim is viable should be put to rest.” (See WMC2, 50 Misc 3d at 237.) Prior to ACE, this court had held to the contrary. (See WMC4, 41 Misc 3d 1230[A], 2013 NY Slip Op 51934[U], *2 n 7 [“To be sure, a servicer such as (Chase) cannot receive actual notice of originator fraud, not tell anyone, and think it can credibly maintain it did nothing wrong. This type of ‘failure to notify’ upends the framework of the MLSA and PSA”].) In WMC2, this court held that ACE affected the viability of failure to notify claims because, as this court read ACE, the notification obligation is part of the repurchase protocol, and, as such, is part of BONY’s contractual remedy, “not a separate and continuing promise of future performance.” (See WMC2, 50 Misc 3d at 236, quoting ACE, 25 NY3d at 598.) However, in light of Nomura and Morgan Stanley, which held otherwise, and unless the Court of Appeals reverses those decisions, there is indeed life in failure to notify claims.\nIn Nomura, the First Department held that the RMBS trustee was entitled “to pursue damages for defendant’s failure to give prompt written notice ¡after it discovered material breaches of the representations and warranties in section 8 of the [mortgage loan purchase agreement (MLPA)].” (See Nomura, 133 AD3d at 108.) Elsewhere in Nomura, the First Department drew, as it has done in other put-back cases, a distinction between claims barred by the PSA’s sole remedy clause and those beyond the scope of that clause. (See id. at 107-108, citing Ambac Assur. Corp. v EMC Mtge. LLC, 121 AD3d 514, 518 [1st Dept 2014]; see also Assured Guar. Mun. Corp. v DLJ Mtge. Capital, Inc., 117 AD3d 450, 451 [1st Dept 2014].) For instance, the Nomura Court held that claims under section 7 of the MLPA, as opposed to claims under section 8 of the MLPA, were not subject to the sole remedy clauses in section 9 (c) of the MLPA and section 2.03 (e) of the PSA because, by their terms, they only apply to breaches of representations and warranties contained in section 8. (See Nomura, 133 AD3d at 107-108.) The Court stated:\n“[h]ad these Very sophisticated parties’ desired to have the sole remedy provisions apply to both section 8 and section 7 breaches, ‘they certainly could have included such language in the contracts. They did not do so, and this Court will not do so now “under the guise of interpreting the writing.” ’ ” (See id., quoting MBIA Ins. Corp. v Countrywide Home Loans, Inc., 105 AD3d 412, 413 [1st Dept 2013].)\nIn Morgan Stanley, the First Department held “that, consistent with [Nomura], defendant’s alleged breach of its contractual duty to notify the Trustee of defective loans gives rise to an independent, separate claim for breach of the parties’ agreements.” (See Morgan Stanley, 143 AD3d at 3-4 [emphasis added].) That Court also held that the sole remedy clause, which might otherwise have precluded a failure to notify claim, was not a ground for dismissal on a CPLR 3211 motion because the trustee’s gross negligence claim, if proved after discovery, might result in the sole remedy clause being rendered unenforceable. (See 143 AD3d at 7.)\nThis court assumes that Nomura and Morgan Stanley do not contravene ACE. Under Nomura and Morgan Stanley, a trustee may maintain an independent failure to notify claim so long as such notification obligation is beyond the scope of the sole remedy clause or, even if that is not the case, if gross negligence is pleaded.\nHere, the sole remedy clause, which appears in section 2.03 (a) (i) of the PSA, is broad. It provides:\n“It is understood and agreed that the obligation of [WMC] or [JPMMAC], as applicable, to cure or to repurchase (or to substitute for) any Mortgage Loan as to which a document is missing, a material defect in a constituent document exists or as to which such a breach has occurred and is continuing shall constitute the sole remedy respecting such omission, defect or breach available to the Securities Administrator and the Trustee on behalf of the Certificateholders.” (See Doc No. 30 at 56 [emphasis added].)\nUnlike sole remedy provisions in some other PSAs, this provision is broad, covering the only parties that can be sued— WMC and JPMMAC — and providing for the only redress for nonconforming loans. By way of contrast, other sole remedy provisions, such as that in Nomura, are limited to governing the relief available against a particular party. (See e.g. Nomura, 133 AD3d at 107 [“section 2.03 (e) of the PSA . . . states that ‘the obligation under this Agreement of the Sponsor ... to cure (or) repurchase . . . any Mortgage Loan as to which a breach has occurred or is continuing shall constitute the sole remedies against the Sponsor respecting such breach available to Certificateholder’ ” (emphasis added)]; see also SACO I Trust 2006-5 v EMC Mtge. LLC, 2014 NY Slip Op 31432 [U], *11 [Sup Ct, NY County 2014, Bransten, J.] [“It is understood and agreed that the obligation under this Agreement of EMC to cure, repurchase or replace any Mortgage Loan as to which a breach has occurred and is continuing shall constitute the sole remedies against EMC (in its capacity as Sponsor) respecting such breach available to the Certificateholders, the Depositor or the Trustee” (emphasis added)].)\nHere, had the PSA merely stated that repurchase is BONY’s sole remedy against WMC and JPMMAC, a failure to notify claim against Chase would have been viable under Nomura. But, that is not what the clause provides. Rather, it provides that the sole remedy, inferentially against anyone, is a put-back claim against WMC and JPMMAC. That being said, the sole remedy clause does purport to be limited to addressing the obligation to “cure or to repurchase (or to substitute for) any Mortgage Loan as to which a document is missing, a material defect in a constituent document exists or as to which such a breach has occurred and is continuing.” Notification is not mentioned, and, consequently, BONY contends that such clause does not apply to Chase’s notification obligations.\nChase argues that BONYs position is not tenable. It argues that it, just like WMC and JPMMAC, is a party to the PSA and has notification obligations. (See Doc No. 30 at 55 [“Upon discovery by any of the parties hereto” (emphasis added)].) The failure to notify cause of action in the complaint states that such obligation is contained in section 2.03 (a) of the PSA, which “required [Chase] to give prompt written notice to . . . the Trust upon discovery” of a warranty breach “and ‘to cause [WMC] to . . . cure such defect or breach within 90 days from the date [WMC] was notified of such . . . defect or breach.’ ” (See complaint ¶ 126, quoting Doc No. 30 at 55 [PSA § 2.03 (a) (i)].) Chase further argues that its notification obligation under section 2.03 is merely one of the components of the repurchase protocol. And, it contends that a core holding of ACE is that supposed “breaches” of the various requirements of the repurchase protocol are not actionable, independent breaches of contract; they merely are part of the remedy for breaches of the representations and warranties. (See ACE, 25 NY3d at 591 [describing the requirement to “promptly notify” as part of the repurchase protocol].) As a result, the “repurchase obligation [is] not a separate and continuing promise of future performance; . . . it [is] the Trust’s sole remedy in the event of . . . breach of representations and warranties. Viewed in this light, the cure or repurchase obligation [is] not an independently enforceable right.” (See id. at 598-599 [emphasis added].)\nIndeed, based on this language in ACE, this court held in WMC2 that “[i]f the ‘cure or repurchase obligation’ is not an independent promise of future performance, the bank’s obligation to notify the trustee cannot be considered to be an independent obligation since both are components of the repurchase protocol. Holding otherwise would contravene ACE.” (See WMC2, 50 Misc 3d at 236.) This court also noted that this “was the prevailing view prior to ACE.” (See id. at 236-237 [collecting cases].) As discussed in WMC2, pre-Nomura, and in the very decision Morgan Stanley reversed, Justice Friedman remarked “that there is authority that a cause of action for breach of an obligation to notify may be pleaded against the servicer . . . where the Trustee’s relief against the servicer is not limited by the sole remedy provision.” (See id. at 237 n 5 [emphasis added], quoting Morgan Stanley Mtge. Loan Trust 2006-13 ARK v Morgan Stanley Mtge. Capital Holdings, LLC, 2014 NY Slip Op 32520[U], *3 n 1 [Sup Ct, NY County 2014], revd 143 AD3d 1 [2016].) Justice Friedman was referring to Justice Bransten’s decision in SACO (2014 NY Slip Op 31432[U], *11). But here, as set forth above, BONY’s claims against Chase do appear to be limited by the subject sole remedy provision; whereas in SACO, claims against EMC, in its capacity as servicer, were not. (See id.)\nUnder these circumstances, prior to Morgan Stanley (and certainly prior to Nomura), this court would have held that the sole remedy provision in the subject PSA precludes BONY’s claim against Chase for failure to notify in accordance with section 2.03 (a). The rationale is that Chase’s notification obligation is merely part of the repurchase protocol and, thus, under ACE, cannot form the basis of an independent cause of action.\nMorgan Stanley, however, altered the failure to notify landscape. In Morgan Stanley, the Court quoted the sole remedy clause in section 3.01 of the MLPA, which\n“provides . . . that ‘it is understood and agreed that the obligations of the Seller in this Section 3.01 to cure, repurchase or substitute for a defective Mortgage Loan constitutes the sole remedy of the Purchaser respecting a missing or defective document or a breach of the representations or warranties contained in this Section 3.01.’ ” (See Morgan Stanley, 143 AD3d at 6 [additional emphasis added].)\nThis language is, for all intents and purposes, identical to the sole remedy clause in section 2.03 (a) (i) of the PSA in this case. The sole remedy clauses here and in Morgan Stanley are effectively covenants not to sue anyone for nonconformance except the sponsor and originator, and then only for a put-back claim under the repurchase protocol. The Appellate Division did not address the differences in the sole remedy clauses in Nomura and Morgan Stanley. Since Morgan Stanley expressly permitted the maintenance of a failure to notify claim under a functionally equivalent sole remedy clause, BONY’s failure to notify claim against Chase must be permitted to proceed.\nAccordingly, it is ordered that the motion by defendant WMC Mortgage, LLC to dismiss the claims asserted against it in the complaint (the first and fourth causes of action) is granted, and the Clerk is directed to enter judgment dismissing the complaint against said defendant with prejudice; and it is further ordered that the motion by defendants J.P. Morgan Mortgage Acquisition Corporation and J.P. Morgan Chase Bank, N.A. to dismiss the claims asserted against them in the complaint (the second and third causes of action) is denied, and such claims are hereby severed and shall continue against said defendants.\n. Familiarity with the numerous put-back decisions of Justice Friedman also is assumed. (See e.g. Federal Hous. Fin. Agency v Equifirst Corp., 2016 NY Slip Op 31386[U], *2 [Sup Ct, NY County, July 19, 2016] [“This motion raises many issues that have now been resolved by the appellate Courts and have been the subject of this court’s decisions in the RMBS litigation”].)\n. References to “Doc No.” followed by a number refer to documents filed in this action in the New York State Courts Electronic Filing (NYSCEF) system.\n. A third contract relevant to this transaction, the interpretation of which is not at issue on this motion, is the assignment and assumption and recognition agreement dated September 14, 2006 (the AARA) (Doc No. 29), pursuant to which nonparty J.R Morgan Acceptance Corporation I, the depositor, acquired JPMMAC’s rights to the loans under the MLSA. Those rights were then sold to the trust under the PSA. (See generally Federal Hous. Fin. Agency v Nomura Holding Am., Inc., 104 F Supp 3d 441, 462-464 [SD NY 2015, Cote, J.] [providing “Overview of the Securitization Process”].)\n. For the purposes of this motion, JPMorgan assumes the claims asserted against it are timely under ACE. JPMorgan reserved its right to challenge the meaning and effect of the tolling agreements.\n. As is generally the case with fraud, when the defendant is plaintiff’s fiduciary, a fraudulent omission, as opposed to an affirmative misrepresentation, may be actionable. (See Zumpano, 6 NY3d at 675; Kaufman v Cohen, 307 AD2d 113, 122 [1st Dept 2003].) Here, the parties are arm’s length contractual counterparties.\n. Indeed, by September 2012 (six years after closing), it was common knowledge that RMBS trusts were awash in fraudulent loans. The court expresses no opinion on the liability, if any, that BONY may face with respect to its performance as RMBS trustee. Those issues are currently being litigated against BONY and other RMBS trustees and it would be inappropriate for the court to comment on the matter. (See Commerce Bank v Bank of N.Y. Mellon, 141 AD3d 413 [1st Dept 2016]; see generally e.g. Royal Park Investments SA/NV v Bank of N.Y. Mellon, 2016 WL 899320, 2016 US Dist LEXIS 26793 [SD NY, Mar. 2, 2016, 1:14-cv-6502-GHW].)\n. See e.g. Federal Hous. Fin. Agency, 104 F Supp 3d at 478 (discussing “disturbing examples from the files of Nomura reflecting its willingness to securitize defective loans,” such as withholding “due diligence information from its co-lead underwriter”); see also id. at 539 (“Shoddy underwriting practices [as opposed to relaxed underwriting standards] like those at issue here contributed to both the spectacular expansion of the subprime mortgage and securitization markets and their contraction. The ability of originators to quickly sell and shift the risk of subprime loans off their books reduced their incentive to carefully screen borrowers. They approved loans that did not comply with stated underwriting guidelines and they misrepresented the quality of those loans to purchasers. Appraised values were overstated, owner occupancy was misreported, credit risk was hidden, and second liens were undisclosed. In short, these shoddy practices contributed to the housing price boom”).\n. The court assumes, arguendo, that this section covers BONY’s expenses even though purchaser is defined to mean JPMMAC. (See Doc No. 28 at 1.) It should be noted that, in other cases, this court and the Appellate Division have held that other provisions of the PSAs and MLSAs entitle trustees to their attorneys’ fees incurred in put-back actions. (See U.S. Bank N.A. v DLJ Mtge. Capital, Inc., 140 AD3d 518 [1st Dept 2016]; WMC4, 41 Misc 3d 1230[A], 2013 NY Slip Op 51934[U], *5-6.)\n. The circumstances by which BONY agreed to toll its claims against JPMorgan, but not WMC, are not before the court.\n. Arguably, under ACE, regardless of whether a sole remedy clause bars a failure to notify claim and regardless of whether gross negligence is pleaded, all notification obligations set forth in the repurchase protocol should be considered part of the repurchase remedy and not give rise to independent causes of action. This court has always accepted the independent breach theories proffered by trustees, but recognizes that such theories have, to a great extent, been rejected by ACE. Nomura and Morgan Stanley represent, perhaps unexpectedly, an indication that certain independent breach claims (i.e., claims other than put-back claims for breach of warranty) may indeed be viable.\n. It should be noted that in SACO, Justice Bransten held:\n“Although the ‘sole remedy’ provision may not be applicable to the [failure to notify] claim, EMC is correct that Plaintiff’s damages for this claim are limited to repurchase or damages in the amount of the repurchase price. The thrust of Plaintiff⅛ claim is that EMC as Servicer became aware of breaches of representations and warranties, which upon prompt notice to EMC, in its capacity as Seller, should have triggered EMC the Seller’s obligation to repurchase. Thus, EMC the Servicer’s failure to notify damaged the Trusts by not effectuating this repurchase trigger. The remedy for such a breach would be repurchase, or damages in the amount of repurchase.” (SACO, 2014 NY Slip Op 31432[U], *24 [emphasis added].)\nMorgan Stanley’s somewhat cryptic description of SACO makes it difficult to ascertain the Appellate Division’s position on Justice Bransten’s approach. (See Morgan Stanley, 143 AD3d at 9 [citing SACO when stating that “(w)e recognize that some trial courts have taken different approaches when faced with issues involving the scope of the sole remedies clauses in residential mortgage put-back actions”].) The court will not opine on the proper measure of damages available on a claim against a servicer for failure to notify since, according to the Appellate Division, that question need not be addressed on a motion to dismiss. (See Morgan Stanley, 143 AD3d at 7-8.)\n. If Chase could be sued here for failure to notify, the possibility exists that many (if not all) servicers who similarly failed to notify the trustee of breaches would be liable, even if the underlying put-back claims against the sponsor and originator are time-barred. One might argue that the logic of Morgan Stanley suggests that a failure to notify claim might accrue differently than a put-back claim or that damages for the loss of the opportunity to timely commence a put-back claim might be available, i.e., a major backdoor to ACE. That possibility is difficult to reconcile with ACE, and is best left to the Appellate Division to resolve. This court sees no reason to infer the unstated implications or intentions of the Appellate Division’s holdings in Morgan Stanley. This court and all RMBS counsel would surely benefit if the Appellate Division would clarify the implications of Nomura and Morgan Stanley.\n. It should be noted that the sole remedy clause in the PSA, found in section 2.05 (a), which the Appellate Division did not quote, provides:\n“It is understood and agreed that the obligations of the Originators and the Seller to cure or to repurchase (or to substitute for) any related Mortgage Loan as to which a document is missing, a material defect in a constituent document exists or as to which such a breach has occurred and is continuing shall constitute the sole remedy against the such party [sic] respecting such omission, defect or breach available to the Trustee on behalf of the Certificateholders.” (See Morgan Stanley Mort. Loan Trust 2006-13ARX v Morgan Stanley Mort. Capital Holdings LLC, index No. 653429/2012, Doc No. 17 at 63 [emphasis added].)\nThe differences between the sole remedy clauses in the MLPA and PSA are not addressed in the Appellate Division’s decision and do not appear to have influenced the result. The Appellate Division relied on the MLPA’s sole remedy clause, which, as discussed herein, is functionally equivalent to the sole remedy clause at issue in this case.\n. While Chase could argue that a distinction ought to be drawn between the sole remedy clauses in Nomura and Morgan Stanley, the Appellate Division drew no such distinction and, therefore, neither can this court. Indeed, while Morgan Stanley’s treatment of the failure to notify issue is not as terse as that in Nomura, the Appellate Division, relying in part on the trial court, appears to have assumed that the issues in Nomura and Morgan Stanley are the same. (See Morgan Stanley, 143 AD3d at 7 [“In dismissing plaintiffs failure to notify cause of action, the motion court observed that the issues raised by the Trustee were substantially the same as those raised in another RMBS case before it (i.e., Nomura) . . . and that its ruling was consistent with that earlier case. After the parties briefed this appeal, this Court modified the motion court’s decision in Nomura, holding that under similar RMBS agreements, a seller’s failure to provide the trustee with notice of material breaches it discovers in the underlying loans states an independently breached contractual obligation, allowing a plaintiff to pursue separate damages. Consistent with our decision in Nomura, we now modify the motion court’s order dismissing the failure to notify claim made in this case and reinstate it” (emphasis added and citations omitted)].) The trial court decision preceded Nomura, and Justice Friedman, apparently, assumed the issue was the same. However, after Nomura, it would have been useful for the Appellate Division to address the differences between the sole remedy clauses in Nomura and Morgan Stanley (and perhaps, as noted above, address the PSA’s sole remedy clause in Morgan Stanley), or to at least discuss whether such differences should be relevant to the viability of a failure to notify claim. An implication of Morgan Stanley, not supported by Nomura, is that failure to notify claims are generally viable, despite the sole remedy clause not purporting to be limited as against the sponsor and originator.",
+        "type": "majority",
+        "author": "Shirley Werner Kornreich, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jenner & Block LLP for WMC Mortgage, LLC, as successor-by-merger to WMC Mortgage Acquisition Corp., defendant.",
+      "Sullivan & Cromwell LLP for J.P. Morgan Mortgage Acquisition Corporation and another, defendants.",
+      "McKool Smith for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[39 NYS3d 892]\nBank of New York Mellon, Solely in its Capacity as Securities Administrator for J.P. Morgan Mortgage Acquisition Trust, Series 2006-WMC3, Plaintiff, v WMC Mortgage, LLC, as Successor-by-Merger to WMC Mortgage Acquisition Corp., et al., Defendants.\nSupreme Court, New York County,\nSeptember 7, 2016\nAPPEARANCES OF COUNSEL\nJenner & Block LLP for WMC Mortgage, LLC, as successor-by-merger to WMC Mortgage Acquisition Corp., defendant.\nSullivan & Cromwell LLP for J.P. Morgan Mortgage Acquisition Corporation and another, defendants.\nMcKool Smith for plaintiff."
+  },
+  "file_name": "2461-01",
+  "first_page_order": 977,
+  "last_page_order": 992
+}

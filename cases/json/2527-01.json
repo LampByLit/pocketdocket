@@ -1,0 +1,132 @@
+{
+  "id": 12298287,
+  "name": "The People of the State of New York, Plaintiff, v. Ramon Escobar, Defendant",
+  "name_abbreviation": "People v. Escobar",
+  "decision_date": "2016-11-01",
+  "docket_number": "",
+  "first_page": "348",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 348"
+    },
+    {
+      "type": "parallel",
+      "cite": "39 N.Y.S.3d 916"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "46 NY2d 321",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0321-01"
+      ]
+    },
+    {
+      "cite": "25 NY2d 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2292089
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/25/0175-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 370",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4428920
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0370-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 479",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0479-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 318",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579722
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 7368,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25018968287340304
+    },
+    "sha256": "6391338f6f32f965bb93d869caddb884349e2d7dc7320fb5bbd402f26f1346be",
+    "simhash": "1:12a2e49e8d570365",
+    "word_count": 1217
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Ramon Escobar, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMatthew A. Sciarrino, Jr., J.\nThe defendant, Ramon Escobar, is charged with manslaughter in the first degree (Penal Law § 125.20 [1]) and other related charges. On September 29, 2016, the court held a hearing as to whether the defendant’s Sixth Amendment right to counsel had been violated. Both the defendant and the People submitted arguments and memoranda of law. The court makes the following findings of facts and conclusions of law.\nFindings of Fact\nThe People presented the testimony of one witness, New York Police Department (NYPD) Detective Joyce Ahern, whom the court finds credible.\nDetective Ahern testified that on April 29, 2011 at 8:50 p.m. she responded to a phone call for a stabbing at South 9th Street and Roebling Street in Brooklyn (Kings County). The victim, who later died from his injuries, was named David Fernandez (also known as “Chunky”). Detective Ahern was assisted in her investigation by Detectives Randazzo, Malak and Christopher-son. During the course of her investigation, Detective Ahern spoke to an individual named Colon Radames who stated that he heard the police were looking for “Moe” in regards to the stabbing of “Chunky.” Mr. Radames told Detective Ahern that Moe’s last name was Escobar. After running computer checks, Detective Ahern was able to link the name Moe to an individual named Ramon Escobar. After pulling up a photo of Ramon Escobar, she showed the photo to Mr. Radames who confirmed that the person in the photo was Ramon Escobar. Several witnesses and surveillance video placed the defendant at the scene, but none showed the stabbing itself. On May 1, 2011, Detective Ahern was told by Detective Malak that he had spoken to Michael Marley, Esq., who indicated that he represented Ramon Escobar. Later, Mr. Marley faxed a letter dated May 1, 2011 to Detective Malak wherein he wrote:\n“Dear Detective:\n“I called you Sunday morning concerning my client, RAMON ESCOBAR.\n“I asked if you or other police officials were looking to speak to my client.\n“You informed me that Mr. Escobar is not being sought and that no one from the 90th Precinct is looking to talk to him.\n“If this situation changes, I wanted you to have my information on file as Mr. Escobar’s attorney.\n“Thank you for your courtesy.\n“Michael L. Marley, Esq.”\nRamon Escobar was not arrested at that time.\nOn February 4, 2015 a new witness came forward and stated that he observed the defendant stabbing the victim. After the witness identified the defendant in a photo array, Detective Ahern generated an “i-card” for Ramon Escobar and on April 16, 2015 he was arrested. Detective Ahern, who knew that Mr. Marley had previously informed the NYPD that he represented the defendant, consulted with Assistant District Attorney (ADA) Sara Kurtzberg. This ADA told her that it was okay to question the defendant, without an attorney being present or notifying Mr. Marley. As a result, there was no attempt to reach out to Mr. Marley before bringing the defendant in for questioning. Detective Ahern read the defendant his Miranda rights and questioned him at the 90th Precinct detective squad. He waived his Miranda rights, but he was never asked if he was still represented by counsel. He subsequently made an oral and written statement which stated in sum and substance that he had been drinking, that he had an argument with Chunky and that he stabbed him but didn’t mean to kill him. After-wards, Detective Ahern asked him if he would be willing to speak to an assistant district attorney. The defendant agreed and was taken to the District Attorney’s Office where he was interviewed by ADA Kurtzberg on video, again without an attorney present and again without any evidence that Detective Ahern or ADA Kurtzberg attempted to contact Mr. Marley.\nConclusions of Law\nThe People contend that since the defendant waived his counsel during the reading of his Miranda rights and because there is no evidence of continuous representation the statement is admissible. A novel theory, but one that does not survive, in this court’s opinion, the Sixth Amendment of the United States Constitution and his right “to have the Assistance of Counsel for his defense” (US Const 6th Amend) or article I, § 6 of the New York State Constitution.\nThe indelible right to counsel is triggered when the attorney notifies the police that the suspect is represented by counsel (People v Grice, 100 NY2d 318 [2003]). Mr. Marley did that here orally and then in writing. Accordingly the defendant’s indelible right to counsel attached on May 1, 2011 when Mr. Marley faxed over a letter confirming his representation of the defendant. Once that right to counsel attaches, it may only be waived in the presence of said attorney (People v Hobson, 39 NY2d 479 [1976]). Any so-called waiver of the defendant’s attorney without his attorney’s presence is ineffective (id,.). Further, mere passage of time does not eradicate a defendant’s indelible right to counsel (People v West, 81 NY2d 370 [1993]). A suspect whose indelible right to counsel has attached has no obligation to inform law enforcement as to the status of the attorney-client relationship (id. at 376). Further, the burden is not on the defendant to demonstrate “continuous representation” as the People argue. Nor is it relevant how much or how little interaction the attorney and defendant had during the course of his representation, as the People argue without support. The law is clear and unwavering: the burden is on the police to determine whether representation continues (id.). In this case they, upon the advice of the Assistant District Attorney, completely failed to do so; advice they sought because they knew it was an issue. Absent some indication the representation had ceased, the police should not question a defendant on a matter where they knew he was represented (id.). Accordingly, the defendant’s oral and written statements to Detective Ahern as well as his videotaped statement will be suppressed.\nHowever, the court finds that the statements were taken voluntarily and free of coercion. Accordingly, should the defendant testify at trial to a version of facts that is contrary to his prior statements, the People may use his prior statements for the limited purpose of impeaching him on cross-examination or on their rebuttal case (People v Harris, 25 NY2d 175 [1969]). An instruction as to the limited nature would of course be given to the jury. The People should also be aware that contrary to their argument, the defendant does not open the door simply by recounting events to which the prior statement relates. The trial testimony must be contradictory and the trial court will not allow mention of the prior statements until and if that occurs (People v Wise, 46 NY2d 321 [1978]).\nAccordingly, it is hereby ordered that the defendant’s motion to suppress his statements is granted; and it is further ordered that should the defendant testify in contradiction to his previous statements the People may use said statements as impeachment or on their rebuttal case.",
+        "type": "majority",
+        "author": "Matthew A. Sciarrino, Jr., J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Michael Marley, New York City, for defendant.",
+      "Eric Gonzalez, Acting District Attorney, Brooklyn (Chow Yun Xie of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[39 NYS3d 916]\nThe People of the State of New York, Plaintiff, v Ramon Escobar, Defendant.\nSupreme Court, Kings County,\nNovember 1, 2016\nAPPEARANCES OF COUNSEL\nMichael Marley, New York City, for defendant.\nEric Gonzalez, Acting District Attorney, Brooklyn (Chow Yun Xie of counsel), for plaintiff."
+  },
+  "file_name": "2527-01",
+  "first_page_order": 336,
+  "last_page_order": 340
+}

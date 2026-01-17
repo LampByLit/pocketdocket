@@ -1,0 +1,277 @@
+{
+  "id": 12282730,
+  "name": "The People of the State of New York, Plaintiff, v. Charles Cassis, Defendant",
+  "name_abbreviation": "People v. Cassis",
+  "decision_date": "2017-09-12",
+  "docket_number": "",
+  "first_page": "785",
+  "last_page": "791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 785"
+    },
+    {
+      "type": "parallel",
+      "cite": "64 N.Y.S.3d 473"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "22 NY3d 678",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4292900
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "683-684"
+        },
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0678-01"
+      ]
+    },
+    {
+      "cite": "149 AD2d 920",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3584695
+      ],
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/149/0920-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 55",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8593635
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "58"
+        },
+        {
+          "page": "58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0055-01"
+      ]
+    },
+    {
+      "cite": "36 AD2d 845",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3254226,
+        3254882,
+        3255901
+      ],
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/36/0845-02",
+        "/ad2d/36/0845-01",
+        "/ad2d/36/0845-03"
+      ]
+    },
+    {
+      "cite": "274 F2d 899",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1956756
+      ],
+      "pin_cites": [
+        {
+          "page": "904"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/274/0899-01"
+      ]
+    },
+    {
+      "cite": "55 NY2d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4382538
+      ],
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/55/0001-01"
+      ]
+    },
+    {
+      "cite": "284 US 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5718921
+      ],
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0390-01"
+      ]
+    },
+    {
+      "cite": "7 F2d 59",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1669850
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/7/0059-01"
+      ]
+    },
+    {
+      "cite": "37 AD2d 1003",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3254528,
+        3261436
+      ],
+      "pin_cites": [
+        {
+          "page": "1003"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/37/1003-01",
+        "/ad2d/37/1003-02"
+      ]
+    },
+    {
+      "cite": "66 NY2d 985",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403759
+      ],
+      "pin_cites": [
+        {
+          "page": "987"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0985-01"
+      ]
+    },
+    {
+      "cite": "63 NY2d 530",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4394070
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "536-537"
+        },
+        {
+          "page": "536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/63/0530-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 10779,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24911027631340668
+    },
+    "sha256": "d8da4175912eb2bbba86c7e656f71e93790fcb0c8d2a61f00c9a452ffdb3668e",
+    "simhash": "1:9626771f590676d2",
+    "word_count": 1811
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Charles Cassis, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nGuy H. Mitchell, J.\nOn May 3, 2017, after the conclusion of a bench trial, the defendant was acquitted of one count of attempted forcible touching pursuant to Penal Law §§ 110.00 and 130.52 (1) and one count of attempted forcible touching pursuant to Penal Law §§ 110.00 and 130.52 (2). The defendant was convicted of one count of sexual abuse in the third degree under Penal Law § 130.55, a class B misdemeanor.\nBy notice of motion dated May 30, 2017, the defendant moved to set aside the verdict pursuant to Criminal Procedure Law § 330.30 (1) and for other relief as this court may deem necessary.\nThe defendant argues that the evidence presented during trial was legally insufficient to convict the defendant of sexual abuse in the third degree, or in the alternative, that the verdicts in this case are repugnant.\nFor the reasons stated below, the defendant’s motion to set aside the verdict is denied.\nCriminal Procedure Law § 330.30 (1) limits the power granted to the trial judge to set aside a verdict. Under Criminal Procedure Law § 330.30 (1) a verdict may be set aside only if based upon insufficient evidence, or in the alternative, evidence which though legally sufficient, was inadequate to prove guilt beyond a reasonable doubt as a matter of law (see People v Carter, 63 NY2d 530, 536-537 [1984]). Legally sufficient evidence is defined as “competent evidence which, if accepted as true, would establish every element of an offense charged and the defendant’s commission thereof” (CPL 70.10 [1]). To set aside a verdict, the judge must therefore find that (1) there was not competent evidence that established each element of the charged crime, or (2) the defendant raised an objectionable issue which requires reversal or modification of the verdict as a matter of law (see Carter, 63 NY2d at 536).\nIf established, a claim that a verdict is repugnant constitutes an issue that would require reversal or modification as a matter of law and thus may be raised by motion to set aside or modify the verdict (see People v Alfaro, 66 NY2d 985, 987 [1985]). Verdicts are “repugnant” when there are charges of two crimes (or more), each of which has identical elements, and there is a finding of guilt on one but not on the other (id.; see also People v Blanford, 37 AD2d 1003, 1003 [3d Dept 1971]). The difficulty stems from the jury’s implicit finding that the essential elements of one crime were proved, while one or more of the same elements were not proved for the other crime (id.). The problem often occurs when the jury convicts the defendant on one count and acquits on another, but the verdicts are illogical when viewed in light of the proof adduced (id.).\nThe Supreme Court has upheld jury verdicts in criminal cases despite inconsistency as between counts (see Steckler v United States, 7 F2d 59, 60 [1925]; Dunn v United States, 284 US 390, 393 [1932]). Courts have reasoned that “[w]hen the jury has decided to show lenity to the defendant, an accepted power of the jury, the court should not then undermine the jury’s role and participation by setting aside the verdict” (People v Tucker, 55 NY2d 1, 9 [1981] [citations omitted]). In some jurisdictions, courts have instituted a rule to bar inconsistent verdicts where the judge is the finder of facts (see United States v Maybury, 274 F2d 899, 904 [1960]). Later expressions of this rule, however, limit it to situations where “no rational theory can support the difference in the findings” (People v Pugh, 36 AD2d 845, 846 [2d Dept 1971]).\nIn the case at hand, the defendant argues that the verdicts may not coexist because based on the elements of the charged offenses, acquittal of the defendant on the forcible touching counts would require that he also be acquitted of the sexual abuse charge.\nThe court must look only at the essential elements of the crime in determining whether a verdict is repugnant (see People v Trappier, 87 NY2d 55, 58 [1995]; People v Sylvers, 149 AD2d 920, 921 [4th Dept 1989]). A person is guilty of an attempt to commit a crime when, with intent to commit a crime, he engages in conduct which tends to effect the commission of such crime (Penal Law § 110.00). Under Penal Law § 130.52 (1), a person is guilty of forcible touching when he or she intentionally, and for no legitimate purpose, forcibly touches the sexual or other intimate parts of another person for the purpose of degrading or abusing such person or for the purpose of gratifying the actor’s sexual desire. For this court to find the defendant guilty of this crime, the People are required to prove, from all of the evidence in the case, beyond a reasonable doubt, each of the following three elements:\n1. The defendant forcibly touched the sexual or other intimate parts of another person for the purpose of degrading or abusing him/her, or for the purpose of gratifying the defendant’s sexual desire;\n2. The defendant did so intentionally and for no legitimate purpose; and\n3. The defendant did so without express or implied consent.\nForcibly touching another includes squeezing, grabbing, pinching, rubbing, or other bodily contact involving the application of some level of pressure to the victim’s sexual or intimate parts (see Penal Law § 130.52; see also People v Guaman, 22 NY3d 678, 683-684 [2014]).\nUnder Penal Law § 130.52 (2), a person is guilty of forcible touching when he or she intentionally, and for no legitimate purpose, subjects another person to sexual contact for the purpose of gratifying the actor’s sexual desire and with intent to degrade or abuse such other person while such other person is a passenger on a bus, train, or subway car operated by any transit agency, authority or company, public or private, whose operation is authorized by New York State or any of its political subdivisions.\nUnder Penal Law § 130.55, a person is guilty of sexual abuse in the third degree when he or she subjects another person to sexual contact without that person’s consent. For this court to find the defendant guilty of this crime the People are required to prove, from all the evidence in the case, beyond a reasonable doubt, both of the following two elements:\n1. That the defendant subjected another person to sexual contact; and\n2. That the defendant did so without the consent of the complainant in that he/she did not expressly or impliedly acquiesce to the defendant’s conduct.\nSexual contact means any touching of the sexual or other intimate parts of a person for the purpose of gratifying the sexual desire of either party (see Penal Law § 130.00 [3]). It includes the touching of the actor by the victim as well as the touching of the victim by the actor, whether directly or through clothing, as well as the emission of ejaculate by the actor upon any part of the victim, clothed or unclothed (id.).\nThere are notable differences between the elements required to be established to find a defendant guilty of forcible touching under Penal Law § 130.52 (1) and sexual abuse in the third degree, Penal Law § 130.55. First, sexual abuse in the third degree criminalizes any sexual touching whereas forcible touching criminalizes forceful touching (see Penal Law § 130.52 [1]; see also Guaman, 22 NY3d at 684). Second, sexual abuse in the third degree requires that the conduct took place for purposes of either party’s sexual gratification whereas forcible touching requires that the conduct took place for the defendant’s sexual gratification. Lastly, sexual abuse in the third degree requires that the conduct took place for purposes of sexual gratification; forcible touching, however, requires that the conduct took place either for the purpose of degrading or abusing the complainant, or for the purpose of gratifying the defendant’s sexual desire (id. at 681).\nAlthough force is not a required element for forcible touching under subdivison (2) of Penal Law § 130.52 and sexual abuse in the third degree, Penal Law § 130.55, there exist significant differences between these statutes as well. The first and most obvious distinction is that forcible touching under Penal Law § 130.52 (2) has a location element; the alleged conduct must have occurred “on a bus, train, or subway car operated by any transit agency, authority or company, public or private, whose operation is authorized by New York state or any of its political subdivisions” (Penal Law § 130.52 [2]). The second distinction is that sexual abuse in the third degree requires that the conduct took place for purposes of either party’s sexual gratification; forcible touching requires that the conduct took place solely for the defendant’s sexual gratification. Lastly, sexual abuse in the third degree requires that the conduct take place for purposes of sexual gratification; forcible touching, however, requires that the conduct took place with the intent to degrade or abuse another person.\nThe notable differences between these statutes alone obviate the fact that a conviction for sexual abuse in the third degree is not legally inconsistent with an acquittal on forcible touching and therefore not repugnant. Determining whether a verdict is repugnant does not require a factual inquiry; rather, the court must look at the essential elements of the crimes (Trappier, 87 NY2d at 58). A verdict, therefore, is only truly repugnant, not merely inconsistent, when two charged crimes have identical elements and there is a finding of guilt on one but not the other. As outlined above, the charged crimes in this case do not have identical elements.\nIn the case at hand, the court further found that the evidence presented at trial was sufficient to establish sexual abuse in the third degree. Officer Gonzalez testified that the defendant made contact with a female’s buttocks with his groin area on the 5 train. The Officer also testified that the female glanced at the defendant disgustedly and looked uncomfortable. The Officer’s credible testimony established, beyond a reasonable doubt, that the defendant subjected the woman to sexual contact and that the defendant did so without her consent.\nFor these reasons, defendant was acquitted of counts 1 and 2, the two counts of attempted forcible touching under Penal Law §§ 110.00 and 130.52 (1) and (2), and convicted of count 3, sexual abuse in the third degree under Penal Law § 130.55.\nAccordingly, the defendant’s motion to set aside the verdict is denied.",
+        "type": "majority",
+        "author": "Guy H. Mitchell, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Legal Aid Society, New York City (Anthony Graniere of counsel), for defendant.",
+      "Cyrus R. Vance, Jr., District Attorney, New York City (.Matthew Mierswa of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[64 NYS3d 473]\nThe People of the State of New York, Plaintiff, v Charles Cassis, Defendant.\nCriminal Court of the City of New York, New York County,\nSeptember 12, 2017\nAPPEARANCES OF COUNSEL\nLegal Aid Society, New York City (Anthony Graniere of counsel), for defendant.\nCyrus R. Vance, Jr., District Attorney, New York City (.Matthew Mierswa of counsel), for plaintiff."
+  },
+  "file_name": "2953-01",
+  "first_page_order": 785,
+  "last_page_order": 791
+}

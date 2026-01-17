@@ -1,0 +1,398 @@
+{
+  "id": 4351953,
+  "name": "The People of the State of New York, Plaintiff, v. Jose Negron, Defendant",
+  "name_abbreviation": "People v. Negron",
+  "decision_date": "2015-06-12",
+  "docket_number": "",
+  "first_page": "392",
+  "last_page": "401",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 392"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "64 NY2d 331",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4396993
+      ],
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0331-01"
+      ]
+    },
+    {
+      "cite": "252 AD2d 399",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        717649
+      ],
+      "pin_cites": [
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/252/0399-01"
+      ]
+    },
+    {
+      "cite": "165 Misc 2d 205",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        933753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/165/0205-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 500",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        113600,
+        114477,
+        114486
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "501"
+        },
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0500-02",
+        "/ad2d/306/0500-01",
+        "/ad2d/306/0500-03"
+      ]
+    },
+    {
+      "cite": "90 AD2d 705",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5614845,
+        5610918
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/90/0705-01",
+        "/ad2d/90/0705-02"
+      ]
+    },
+    {
+      "cite": "91 NY2d 434",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525173
+      ],
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0434-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 50243",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 1228",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Misc 3d 560",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4107724
+      ],
+      "pin_cites": [
+        {
+          "page": "563-564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/44/0560-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50709",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Misc 3d 1219",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 NY3d 1174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4291832,
+        4297298,
+        4293973
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1180"
+        },
+        {
+          "page": "1179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/1174-02",
+        "/ny3d/22/1174-03",
+        "/ny3d/22/1174-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 458",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426798
+      ],
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0458-01"
+      ]
+    },
+    {
+      "cite": "159 Misc 2d 205",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        918277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/159/0205-01"
+      ]
+    },
+    {
+      "cite": "6 Misc 3d 958",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1355041
+      ],
+      "pin_cites": [
+        {
+          "page": "960-961"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/6/0958-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 50086",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Misc 3d 1111",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 NY Slip Op 50541",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Misc 3d 1102",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 NY Slip Op 50824",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Misc 3d 1223",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 NY Slip Op 50658",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Misc 3d 1217",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 NY Slip Op 50993",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Misc 3d 1202",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 NY Slip Op 50278",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 NY2d 499",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109808
+      ],
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0499-01"
+      ]
+    },
+    {
+      "cite": "28 Misc 3d 388",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3767265
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/28/0388-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 333",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4376687
+      ],
+      "pin_cites": [
+        {
+          "page": "348-349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0333-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 864,
+    "char_count": 21201,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 6.390318350503575e-8,
+      "percentile": 0.39572171968327113
+    },
+    "sha256": "ef2675704a61204150be3a51c0e3136cf731174165a4b310373eb692015180eb",
+    "simhash": "1:2ec685bfb65a9d9e",
+    "word_count": 3423
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jose Negron, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLaura R. Johnson, J.\nIn this case, defendant is charged with criminal possession of a controlled substance in the seventh degree, a class A misdemeanor. He was arraigned on December 8, 2014. The complainant in the accusatory instrument that the People filed at defendant’s arraignment was Police Officer Ivan Williams. Williams stated, under oath, that he was informed by the sworn statement of Police Officer Georin Duran that Duran had observed defendant in possession of a glass pipe, which Duran had recovered from the ground where defendant dropped it and which he recognized to contain crack cocaine on the basis of training and experience. At the arraignment, the People also filed a supporting deposition. This document was not signed by Officer Duran, the informant named in the complaint. Instead, it was a three-page form, completed and signed on December 7, 2014 by one Police Officer Delmonico, who swore that he had observed defendant in possession of a glass pipe with what he recognized as crack residue on the basis of his training and experience, and which he had recovered from the ground where defendant dropped it. Based on the two documents they had filed — the complaint signed by Officer Williams and Delmonico’s long-form supporting deposition — the People announced their trial readiness without objection by defense counsel. The case was adjourned to the Misdemeanor Drug Treatment Part (MBTC) the following day, December 9, 2014, for an assessment of whether a plea offer involving treatment was appropriate.\nOn December 9th, defense counsel pointed out that the informant named in the complaint, Officer Duran, was not the officer who had supplied the supporting deposition. Apparently concluding this discrepancy rendered the accusatory instrument defective, the judge presiding in the Treatment Part adjourned the case for “conversion” (minutes of Dec. 9, 2014 at 2). On December 29, 2014, the People filed a laboratory report (prepared on Dec. 9, 2014) showing that the substance in the pipe was cocaine. At a February 24, 2015 calendar call of this case, the People explained that the complainant police officer, who drafted the complaint, had mistakenly inserted the name of the arresting officer rather than that of the “recovering” officer whose supporting deposition was attached. However, the People left the accusatory instrument untouched until March 12, 2015, when they filed a superseding information. The new information, now sworn to by a paralegal employed by the District Attorney’s office, named Officer Delmonico as the source of its allegations of defendant’s possession of the pipe with residue, and the People re-filed Delmonico’s original supporting deposition in support of the superseding instrument.\nDefendant moves to dismiss on the ground that his statutory right to a speedy trial has been violated. He argues that the People could under no circumstances have been ready for trial until they filed the superseding information, in that the accusatory instrument was “unconverted” up until that point. He contends that the People must therefore be charged with the 94 days that had elapsed before they supplied the superseding accusatory instrument, and that delay alone is in excess of the 90 days allotted them under CPL 30.30. He also contends that any statements of readiness made by the People, either at defendant’s arraignment or after, were “illusory,” both because the People’s initial assertion of readiness was invalid due to the purported lack of an adequate accusatory instrument and because they requested several adjournments later in the case. For the reasons that follow, the motion to dismiss is denied.\nThe “Conversion” Issue\nThe December 9, 2014 direction by the judge in the Treatment Part to the People to “convert” the original accusatory instrument is not binding on this court in deciding the present speedy trial motion. It is well settled that a calendar judge’s notations with respect to speedy trial are not determinative; the ultimate determination is made only when a defendant moves to dismiss on speedy trial grounds (People v Berkowitz, 50 NY2d 333, 348-349 [1980]). Nor is the calendar court’s direction the “law of the case.” Application of that preclusionary doctrine is warranted only where the parties have had a “full and fair” opportunity to litigate the initial judicial determination, and this is the first time that the issue has been addressed in a written motion, with notice and opportunity for response (People v Portorreal, 28 Misc 3d 388, 392 n 3 [Crim Ct, Queens County 2010] [Calendar Part ruling that accusatory instrument required second laboratory report for conversion was not binding on judge deciding speedy trial motion], citing People v Evans, 94 NY2d 499, 502 [2000]; see also People v Lambert, 2002 NY Slip Op 50278[U], *5 [Crim Ct, NY County 2002]).\nAt the heart of defendant’s speedy trial claim is a situation that is not at all uncommon, especially when the police make multiple drug arrests at a particular location. Had the People orally moved to amend the factual portion of the complaint in order to correct the mistake made by the officer who had drafted it, there is authority for allowing them to do so (see People v Donadeo, 44 Misc 3d 1202[A], 2014 NY Slip Op 50993[U], *3-4 [Crim Ct, Queens County 2014]). But the People made no such application. Accordingly, the question whether the People could legitimately be ready for trial on the basis of an accusatory instrument consisting of a hearsay complaint naming one source of knowledge, supplemented by a supporting deposition on firsthand knowledge from a different source, is squarely before the court.\nAs noted above, this situation arises from time to time in criminal court. Although it is generally obvious — as it was here — that the drafter of the complaint simply made an error, some judges deem the mistake a fatal defect and direct the People to cure by “converting,” presumably meaning by filing an accusatory instrument in which there is consistency as to the source of the information supporting the charge(s). For the reasons that follow, I find that the accusatory instrument in this case has been a valid and triable information from the outset.\nA. The Accusatory Instrument Complies with All Statutory Requirements for an Information\nWhere the highest charge against a defendant is a misdemeanor, the People may commence the criminal action with a “complaint,” but absent a waiver by the defendant, they must file an “information” in order for the prosecution to go forward (CPL 1.20 [4], [7]). Complaints and informations have in common the formal requirements that they name the court in which they are filed and the title of the action and be verified by a “complainant,” who may be “any person having knowledge, whether personal or upon information and belief, of the commission of the offense or offenses charged” (CPL 100.15 [1]). Both types of accusatory instruments must contain an accusatory part that designates the charged offense(s) and a factual part containing “facts of an evidentiary character supporting or tending to support the charges” (CPL 100.15 [2], [3]). The documents filed at defendant’s arraignment meet all of the formal requirements for an information set out in these statutes.\nOn its face, the accusatory instrument consisting of the two documents complies with all substantive requirements for an information as well. The factual allegations in an information, considered together with any supporting depositions, must provide reasonable cause to believe that the defendant committed the offense charged in the accusatory portion (CPL 100.40 [1] [b]; [4] [b]). The complaint contains evidentiary facts, albeit in hearsay form, that provide reasonable cause to believe that defendant possessed crack cocaine residue. Independently, the supporting deposition sets forth the same evidentiary fact-based reasonable cause. At the same time, the supporting deposition, sworn to by a firsthand witness, standing alone, also meets the additional requirement for facial sufficiency that distinguishes a complaint from an information, the requirement that “[n] on-hearsay allegations of the factual part of the information and/or of any supporting depositions establish, if true, every element of the offense charged and the defendant’s commission thereof” (CPL 100.15 [3]; 100.40 [1] [c]).\nOn the date that she filed this motion, defense counsel argued orally that the accusatory instrument filed at arraignment was defective because it contained unconverted hearsay— i.e., the hearsay information supposedly supplied by Officer Duran, which was not substantiated by a sworn statement from Duran. But the mere presence of hearsay in an accusatory instrument does not render it facially insufficient as an information or mean that it is unconverted. Nowhere does the CPL prohibit the presence of hearsay in an information. It simply requires that the particular facts necessary to make out the elements of the charges be established by nonhearsay allegations contained in the factual part of the information itself “and/or” any supporting depositions. If the material elements of a charge are in hearsay form in a complaint, those allegations must be “converted” by the filing of a supporting deposition, which “taken together” with the misdemeanor complaint “satisfies] the requirements for a valid information” (CPL 170.65 [1]). The supporting deposition sworn to by Officer Delmonico and filed at arraignment contained all of the firsthand factual allegations necessary, if true, to establish the elements of criminal possession of a controlled substance in the seventh degree and defendant’s commission of that crime. The requirements for a valid information having been met, no statute requires the People to strike residual hearsay in an accusatory instrument.\nNor is there any rule requiring that the signer of a supporting deposition be the informant named in the complaint. CPL 100.20 defines a supporting deposition as\n“a written instrument accompanying or filed in connection with ... a misdemeanor complaint . . . subscribed and verified by a person other than the complainant of such accusatory instrument, and containing factual allegations of an evidentiary character, based either upon personal knowledge or upon information and belief, which supplement those of the accusatory instrument and support or tend to support the charge or charges contained therein” (emphasis added).\nThat broad language plainly does not limit the field of individuals who can provide a supporting deposition to persons named as a source of information in the filed accusatory instrument.\nB. Variance between the Facts in the Complaint and Supporting Deposition Does Not Invalidate the Accusatory Instrument\nThe discrepancy between the complaint and the supporting deposition as to which officer recovered the drugs does not render this otherwise facially sufficient accusatory instrument invalid. The identity of the recovering officer is not an element of the crime, and the error in the complaint does not alter the People’s theory of the case. There is ample authority for deeming an accusatory instrument a valid information despite the fact that the supporting deposition does not precisely mirror its allegations but adds to or even alters the facts contained in it. (See e.g. People v Walcott, 47 Misc 3d 1217[A], 2015 NY Slip Op 50658 [U], *1-2 [Crim Ct, NY County 2015] [complaining witness noted in her supporting deposition that time, date and number of stalking incidents differed from those alleged in hearsay complaint of police officer]; People v D’Andrea, 35 Misc 3d 1223[A], 2012 NY Slip Op 50824[U] [Crim Ct, Richmond County 2012] [complaining witness’s supporting deposition annotated to indicate that time and place of incident were different than hearsay allegations of deponent police officer]; People v Ochoa, 23 Misc 3d 1102[A], 2009 NY Slip Op 50541 [U] [Crim Ct, NY County 2009] [supporting deposition stated the marijuana was recovered from police car rather than on street]; People v Hobson, 22 Misc 3d 1111[A], 2009 NY Slip Op 50086[U] [Crim Ct, NY County 2009] [information deemed facially sufficient where complaint alleged that controlled substance recovered from defendant was heroin but lab test showed that it was cocaine]; People v Blake, 6 Misc 3d 958, 960-961 [Crim Ct, NY County 2005] [lab test showing drugs were different controlled substance than alleged in complaint was sufficient to convert since, read together, documents constituted “notice sufficient for the defendant to prepare his defense and prevention of double jeopardy”].)\nThe general thrust of these decisions, which this court finds persuasive, is that so long as it is clear — as it is in this case— that the supporting deposition refers to the same incident as the rest of the accusatory instrument, mistakes by the officer who swore out the original complaint may be corrected by a supporting deposition on firsthand knowledge without affecting the validity of the accusatory instrument. The decisions cited by defendant in his motion are not to the contrary. In People v Otis (NYLJ, July 24, 1997 at 30, col 6 [Crim Ct, Kings County 1997]), and People v Drucker (159 Misc 2d 205 [Crim Ct, Bronx County 1993]), the supporting depositions at issue were “short-form” depositions, in which the officer only swore that the facts attributed to him in the accusatory instrument were true. Under those circumstances, it was necessary for the court to be able to determine that the officer who signed the short-form deposition was, in fact, the same officer who had furnished the information in the accusatory instrument. By contrast, Officer Delmonico’s supporting deposition, a full statement as to his observations and recovery of the drugs, provided all of the necessary facts to support the charges standing on its own.\nOn the date of arraignment, the accusatory instrument met all of the statutory requirements and fulfilled the underlying purposes of a valid information: the nonhearsay allegations in Officer Delmonico’s long-form supporting deposition “assure [d] that there exist [ed] a sound and supportable basis for subjecting the accused to a trial” (Matter of Edward B., 80 NY2d 458, 464 [1992]) and gave defendant notice sufficient to prepare his defense and prevent double jeopardy. Requiring the People to file a “cleaned up” version of the accusatory instrument (as they eventually did in this case) was unnecessary. Defendant may be able to make some hay out of the drafter’s mistake concerning the identity of the recovering officer at any hearings or a trial, but that is all he is entitled to do.\nThe Sibblies Claim\nRelying on People v Sibblies (22 NY3d 1174 [2014]), defendant argues that the People have never genuinely been ready for trial, and that they must therefore be charged with the entire amount of time elapsed until his motion was filed, roughly five months. His argument is predicated, for the most part, on the claim that this court has just rejected. Having determined that the People had a valid information from the outset of this case, the court also rejects defendant’s claim that the People’s statements of readiness were “illusory” for lack of a valid information.\nThe defendant is correct that the People were not ready at arraignment as they declared — but not, as he claims, because the complaint was not converted to an information. Rather, they required a field test or laboratory report to be ready for trial (People v Ortiz, 47 Misc 3d 1219[A], 2015 NY Slip Op 50709[U] [Crim Ct, Kings County 2015]; People v Beckett, 44 Misc 3d 560, 563-564 [Crim Ct, Bronx County 2014]; People v Colon, 42 Misc 3d 1228[A], 2014 NY Slip Op 50243[U] [Crim Ct, Bronx County 2014]). On December 26, 2014, the People served the defense with a laboratory report and statement of readiness; those documents were filed with the court on December 29, 2014, formally and validly announcing the People’s readiness for trial. From the December 8, 2014 arraignment until this statement of readiness, the People are to be charged with 18 days or, at most, 21 days. This statement of readiness tolls the speedy trial clock until the next adjournment (People v Stirrup, 91 NY2d 434, 440 [1998]).\nOn the next calendar date, February 24, 2015, the People served and filed discovery by stipulation. Defendant asserts that “the case was not on for discovery and the defense did not request discovery by stipulation” (defendant’s motion f 7). In fact, no mention of discovery by stipulation (DBS) was made one way or the other on December 9, 2014 in MBTC. And, because the People had previously filed a valid statement of readiness, it is not critical whether defendant had waived DBS or whether the time preceding production of DBS was excludable as motion practice. For the purpose of the questions currently before the court, therefore, I will assume that there was no excludable time prior to the People’s statement of readiness on December 29, 2014 and that there was no motion practice or its equivalent.\nOn February 24, defendant raised before me the question of whether the complaint was properly converted to an information. The People offered to go down to the Early Case Assessment Bureau and redraft the information in time for a second call of the case; defendant, however, asked that it be served and filed off calendar. I also indicated to the parties on February 24 that I did not believe the original complaint to be uncorroborated, and I adjourned the case to March 19 for hearings and trial. The People served and filed a superseding accusatory instrument and statement of readiness on March 12, 2015. Therefore, even if the previous adjournment is not excludable as the adjournment after the court’s decision on motions (People v Green, 90 AD2d 705 [1st Dept 1982]), the People would be charged with only an additional 16 days, for a total of 37 days, at most.\nOn March 19, 2015, the People were not ready because the arresting officer was on vacation. This is a legitimate and not uncommon reason for post-readiness delay, and the People’s statement on the record of their reason for needing a brief adjournment is sufficient to rebut any challenge to the presumption that the original written statement of readiness was truthful and accurate (People v Sibblies, 22 NY3d 1174, 1180 [2014, Graffeo, J., concurring]). Although the case was adjourned to April 29, the People are charged only with the 14 days they requested (People v Nielsen, 306 AD2d 500, 501 [2d Dept 2003]), for a total of 51 days, at most.\nOn April 29, 2015, the People were not ready for trial because the assigned assistant was on trial (not “in training” as defense counsel asserts). Contrary to defendant’s contention (defendant’s motion 1 10), the People are not required to demonstrate “exceptional circumstances” to justify this post-readiness delay (People v Sibblies, 22 NY3d at 1179). The case was adjourned to May 14; the People are charged with the 14 days they requested (People v Nielsen, 306 AD2d at 501), for a total of 65 days, at most.\nOn May 14, 2015, the People answered ready for trial. However, defendant filed the present motion, stopping the speedy trial clock.\nConclusion\nBecause the original complaint was properly corroborated at arraignment, the People are chargeable with at most 65 days. Defendant’s motion to dismiss is denied.\n. The third decision defendant cites, People v Zavulunov (165 Misc 2d 205 [Crim Ct, Kings County 1995]), appears to involve the same issue but the decision contains no description of the supporting deposition.\n. Defendant’s allegation that the laboratory report was first provided in court on February 24, 2015 is belied by the records in the court file, which bear the receipt stamps of the Legal Aid Society and the court, dated December 26 and 29, 2014, respectively.\n. It is not necessary for this court at this time to reach the question of whether the People’s statement of readiness — served on defendant before it was filed with the court — was effective upon such service, or not until filing. Authority that statements of readiness made in the absence of defense counsel are deemed effective at the time of filing, so long as defense counsel is promptly notified (People v Anderson, 252 AD2d 399, 400 [1st Dept 1998], citing People v Kendzia, 64 NY2d 331, 337 [1985]), are not dispositive of the situation in the present case.\n. An official transcript of these proceedings is not available, as the court reporter is sick and out of the office. The supervising court reporter read the stenographer’s notes aloud to the court, however. The court obtained the minutes of all the other adjourned dates, as well as of defendant’s arraignment.",
+        "type": "majority",
+        "author": "Laura R. Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Legal Aid Society, Brooklyn (Emily Poppish of counsel), for defendant.",
+      "Kenneth P. Thompson, District Attorney, Brooklyn (Jacob Weinstein of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 514]\nThe People of the State of New York, Plaintiff, v Jose Negron, Defendant.\nCriminal Court of the City of New York, Kings County,\nJune 12, 2015\nAPPEARANCES OF COUNSEL\nThe Legal Aid Society, Brooklyn (Emily Poppish of counsel), for defendant.\nKenneth P. Thompson, District Attorney, Brooklyn (Jacob Weinstein of counsel), for plaintiff."
+  },
+  "file_name": "1947-01",
+  "first_page_order": 374,
+  "last_page_order": 383
+}

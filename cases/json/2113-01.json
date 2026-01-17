@@ -1,0 +1,271 @@
+{
+  "id": 4069070,
+  "name": "The People of the State of New York, Plaintiff, v. Gonzalo Margaro Tendilla, Defendant",
+  "name_abbreviation": "People v. Tendilla",
+  "decision_date": "2015-12-10",
+  "docket_number": "",
+  "first_page": "869",
+  "last_page": "875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 869"
+    },
+    {
+      "type": "parallel",
+      "cite": "21 N.Y.S.3d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "133 AD3d 787",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368916
+      ],
+      "pin_cites": [
+        {
+          "page": "791"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/133/0787-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 777",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226855
+      ],
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0777-01"
+      ]
+    },
+    {
+      "cite": "559 US 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3581896,
+        12447673
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0356-01",
+        "/l-ed-2d/176/0284-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 910",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4367312
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/0910-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 168",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4297723
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "191-193"
+        },
+        {
+          "page": "191"
+        },
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0168-01"
+      ]
+    },
+    {
+      "cite": "14 NY3d 546",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5714598
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "559"
+        },
+        {
+          "page": "559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/14/0546-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3747037
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "207"
+        },
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0200-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 936",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4313088
+      ],
+      "pin_cites": [
+        {
+          "page": "937"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0936-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 637",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4270438
+      ],
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0637-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 828",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4396920
+      ],
+      "pin_cites": [
+        {
+          "page": "829"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0828-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 397",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436350
+      ],
+      "pin_cites": [
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0397-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 622,
+    "char_count": 12781,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.12903281233770772
+    },
+    "sha256": "80da45415376ac01f716e809a28dc2f97073efe6f54caa4659ca6637c540e183",
+    "simhash": "1:b18847a920d80267",
+    "word_count": 2032
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Gonzalo Margaro Tendilla, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nElisa S. Koenderman, J.\nThe defendant, Gonzalo Margaro Tendilla, moves pursuant to Criminal Procedure Law § 440.10 (h) to vacate his judgments of conviction for disorderly conduct (Penal Law § 240.20). He claims that his attorney on each case was ineffective because he or she failed to advise him that his guilty plea would have immigration consequences. Specifically, he contends that had he known that his conviction would result in denial of his application for consideration of deferred action for childhood arrivals (DACA), he would not have pleaded guilty and instead have gone to trial. Because none of his attorneys had an obligation to advise him of this collateral consequence of his convictions, the defendant’s motion is denied.*\nThe defendant pleaded guilty to disorderly conduct and was sentenced to a conditional discharge on September 9, 2008, March 20, 2009 and October 12, 2011, respectively. Each conviction subsequently was sealed pursuant to CPL 160.55.\nThe defendant asserts that on May 14, 2014, the United States Citizenship and Immigration Services (USCIS) denied his application for DACA on the ground that he has been convicted of three or more nonsignificant misdemeanors. The defendant states in each case that had he “been aware that my guilty plea would result in denial of my application, I would not have pled guilty. Instead, I would have gone to trial or, at the very least, compel [sic] my attorney to request an Adjournment in Contemplation of Dismissal on my behalf.” Accordingly, the defendant seeks to vacate his judgments of conviction.\nOn August 15, 2012, the USCIS began accepting requests to defer removal, as an act of prosecutorial discretion, of certain undocumented aliens who arrived in the United States as children under the age of 16. Among other conditions, eligible applicants must not have a prior felony, significant misdemeanor, or three or more nonsignificant misdemeanor convictions. An individual granted deferred action may not be removed from the United States for a two-year period and may also receive employment authorization.\nAt the time the defendant pleaded guilty in the above-referenced cases, DACA did not exist. Therefore, none of the defendant’s attorneys could have been expected to advise him about it. Additionally, when he pleaded guilty, the defendant already was removable as an undocumented alien. Since his convictions of disorderly conduct did not subject him to automatic deportation, his attorney in each case had no obligation to inform him that his guilty plea might have other negative immigration consequences (Padilla, 559 US at 360).\nRecognizing that “deportation is an integral part—indeed, sometimes the most important part—of the penalty that may be imposed on noncitizen defendants who plead guilty to specified crimes,” the United States Supreme Court held that constitutionally competent counsel must advise a defendant whether his conviction subjects him to automatic deportation (id. at 364). The Court observed that under contemporary immigration law, “if a noncitizen has committed a removable offense . . . his removal is practically inevitable” (id. at 363-364). It characterized deportation as a “drastic measure” (id. at 360) and a “particularly severe penalty” (id. at 365 [internal quotation marks omitted]) which is the “equivalent of banishment or exile” (id. at 373-374). While acknowledging that many courts have held generally that defense counsel need not advise his client about collateral consequences, the Supreme Court declined to distinguish between direct and collateral consequences to define the scope of effective assistance, noting that deportation is “uniquely difficult to classify” (Padilla, 559 US at 366). Accordingly, it held that where the terms of the immigration statute are “succinct, clear, and explicit” (id. at 368) in stating the deportation consequence of a conviction, defense counsel’s “duty to give correct advice is equally clear” (id. at 369). Hence, where the risk of automatic deportation as a consequence of a conviction is truly clear “from reading the text of the [removal] statute” (id. at 368), defense counsel must advise his client specifically about it.\nIn Padilla, the defendant, a native of Honduras and lawful permanent resident of the United States, faced deportation after pleading guilty to the transportation of a large amount of marijuana (id. at 359). His attorney not only failed to advise him of the risk of automatic deportation but assured him that he “ ‘did not have to worry about [his] immigration status since he had been in the country so long’ ” (id.). Since “[t]he consequences of [the] plea could easily be determined from reading the removal statute,” which “specifically command[ed] removal for all controlled substances convictions except for the most trivial of marijuana possession offenses,” it was “not a hard case in which to find” counsel’s performance deficient (id. at 368-369).\nIn contrast, where the “deportation consequences of a particular plea are unclear or uncertain,” counsel’s duty “is [much] more limited” (id. at 369). Thus, “[w]hen the law is not succinct and straightforward ... a criminal defense attorney need do no more than advise a client that pending criminal charges may carry a risk of adverse immigration consequences” (id. at 369). In other words, where it is unclear whether a certain conviction meets the statutory criteria for mandatory removal, defense counsel is not required to inform his client that he is subject to automatic deportation. Rather, the attorney need only caution the defendant that his plea may have negative immigration consequences. For example, it may be uncertain “whether a particular crime is an ‘aggravated felony’ or a ‘crime involving moral turpitude’ ” (id. at 378 [Alito, J., concurring] [citations omitted]) or “whether a particular state disposition will result in a ‘conviction’ for purposes of federal immigration law” (id. at 380 [citations omitted]). In such circumstances, a general admonition that the plea may have adverse immigration consequences, instead of a specific warning that it carries the risk of automatic deportation, will suffice.\nIn any event, the sole immigration consequence about which defense counsel must affirmatively advise his client—in either general or specific terms—is the risk of automatic deportation (id. at 360). Where a plea entails no such risk, Padilla does not mandate that an attorney notify a defendant about other potential negative immigration consequences to provide effective assistance. As the concurrence notes, the rule is so narrow that it does not obligate defense counsel to inform his client that a conviction for a particular offense may render him excludable, albeit not removable, from the United States (id. at 382 [Alito, J., concurring]). While it might be the better practice to offer such advice, it is not required. The defendant is entitled to meaningful, not perfect, representation (see People v Ford, 86 NY2d 397, 404 [1995], citing People v Modica, 64 NY2d 828, 829 [1985]).\nMoreover, aside from advice about the risk of automatic deportation, an attorney generally is not compelled to advise a defendant about the collateral consequences of a guilty plea (see id.; People v Lewis, 129 AD3d 637, 638 [1st Dept 2015]; People v Astwood, 122 AD3d 936, 937 [2d Dept 2014]). Nevertheless, an attorney must provide “essential advice” which is “specific to [the defendant’s] personal circumstances” (Peque, 22 NY3d at 190). This encompasses advice about direct consequences as well as any collateral consequence which would be of “such great importance” to the defendant that it would cause him to decide not to plead guilty (People v Harnett, 16 NY3d 200, 207 [2011], citing People v Gravino, 14 NY3d 546, 559 [2010]). If a defendant can demonstrate that he pleaded guilty in ignorance of a collateral consequence, the prospect of which was “realistic enough that it reasonably could have caused him, and in fact would have caused him, to reject an otherwise acceptable plea bargain,” his plea may be deemed involuntary (id.). Such cases will be “rare,” however, since “in the vast majority of plea bargains the overwhelming consideration for the defendant is whether he will be imprisoned and for how long” (id., citing Gravino, 14 NY3d at 559).\nHere, the alleged consequence of the defendant’s convictions—the denial of his DACA application—is not the risk of automatic deportation. The relief currently unavailable to the defendant—essentially, a promise by the federal government not to initiate deportation proceedings against him for a specified period and the possibility of interim employment—is not the equivalent of a mandatory removal action. Rather, it is a collateral consequence about which the defendant’s attorneys were not bound to inform him. Indeed, because DACA did not exist at the time the defendant pleaded guilty in these cases, it was impossible for his attorneys to have done so. Consequently, the prospect of denial of the defendant’s DACA application could not have been “realistic enough that it reasonably could have caused him, and in fact would have caused him, to reject an otherwise acceptable plea bargain” (id.).\nIn fact, the defendant received an extremely advantageous plea bargain in each case. He was permitted to plead guilty to a non-criminal offense with a non-incarceratory sentence in full satisfaction of misdemeanor charges for which he faced up to one year in jail. Additionally, when the defendant pleaded guilty in each case he already was deportable as an undocumented alien. There, is no evidence that his guilty pleas have contributed to his risk of deportation. Moreover, his convictions of disorderly conduct do not subject him to automatic deportation under the removal statute. Accordingly, the defendant cannot demonstrate any prejudice from his attorneys’ alleged lack of advice. The defendant’s motion to vacate his judgments of conviction therefore is denied.\n. The defendant also contends that the court failed to address immigration consequences at the time he pleaded guilty in each case. In 2013, the New York Court of Appeals ruled that due process requires that a court advise a defendant that if he is a noncitizen, he may be deported as a result of his guilty plea to a felony (People v Peque, 22 NY3d 168, 191-193 [2013]). If the court fails to do so, and the defendant is able to show that there is a reasonable probability that he would not have pleaded guilty and instead have gone to trial had he been so informed, his plea will be deemed involuntary (id. at 198). Here, in each instance, the defendant pleaded guilty to a violation which did not subject him to automatic deportation. Thus, the court had no duty to apprise him about immigration consequences. Regardless, because the defendant’s convictions became final prior to Peque, the ruledoes not apply retroactively to him (see e.g. People v Pena, 132 AD3d 910 [2d Dept 2015]).\n. Additionally, the rule under Padilla v Kentucky (559 US 356, 360 [2010]) that defense counsel has a duty to advise a noncitizen client of the deportation risk of a guilty plea does not apply retroactively to the defendant’s 2008 and 2009 convictions under docket Nos. 2008QN041384 and 2008QN037747, respectively (see e.g. People v Baret, 23 NY3d 777, 782 [2014]; People v Pinto, 133 AD3d 787, 791 [2d Dept 2015]).\n. Analogously, in deciding that due process requires that a trial court warn a noncitizen defendant that he may be deported as a result of his felony guilty plea, the New York Court of Appeals asserted that “deportation is a virtually automatic result of a [felony conviction] for nearly every noncitizen defendant” (Peque, 22 NY3d at 191). It remarked that “the deportation process deprives the defendant of an exceptional degree of physical liberty by first detaining and then forcibly removing the defendant from the country” {id. at 192). The Court declared that although technically collateral, deportation has “punitive qualities not entirely unlike the core components of a criminal sentence” which cause it to “resemble in many respects a direct consequence of a guilty plea” (id. at 191-192).\n. Moreover, to obtain relief the defendant would have to show that neither his attorney nor the court informed him about the consequence (Harnett, 16 NY3d at 207; see also Peque, 22 NY3d at 204 [Pigott, J., concurring]).",
+        "type": "majority",
+        "author": "Elisa S. Koenderman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "John S. Campo for defendant.",
+      "Richard A. Brown, District Attorney (Antara Kanth of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[21 NYS3d 589]\nThe People of the State of New York, Plaintiff, v Gonzalo Margaro Tendilla, Defendant.\nCriminal Court of the City of New York, Queens County,\nDecember 10, 2015\nAPPEARANCES OF COUNSEL\nJohn S. Campo for defendant.\nRichard A. Brown, District Attorney (Antara Kanth of counsel), for plaintiff."
+  },
+  "file_name": "2113-01",
+  "first_page_order": 893,
+  "last_page_order": 899
+}

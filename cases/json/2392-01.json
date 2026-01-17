@@ -1,0 +1,394 @@
+{
+  "id": 12170277,
+  "name": "The People of the State of New York, Plaintiff, v. Selwyn Days, Defendant",
+  "name_abbreviation": "People v. Days",
+  "decision_date": "2016-06-29",
+  "docket_number": "",
+  "first_page": "181",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 181"
+    },
+    {
+      "type": "parallel",
+      "cite": "34 N.Y.S.3d 570"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Westchester Cty. Ct.",
+    "id": 9795,
+    "name": "Westchester County Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "425 F2d 1375",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3679604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/425/1375-01"
+      ]
+    },
+    {
+      "cite": "478 F2d 749",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2270474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/478/0749-01"
+      ]
+    },
+    {
+      "cite": "122 F3d 1058",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 Mich 519",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        333569
+      ],
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/456/0519-01"
+      ]
+    },
+    {
+      "cite": "90 AD2d 80",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5619091
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/90/0080-01"
+      ]
+    },
+    {
+      "cite": "210 AD2d 581",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1194317,
+        1193365
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/210/0581-01",
+        "/ad2d/210/0581-02"
+      ]
+    },
+    {
+      "cite": "175 AD2d 250",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1049753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/175/0250-01"
+      ]
+    },
+    {
+      "cite": "127 AD2d 684",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3504730,
+        3508101,
+        3504783
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/127/0684-01",
+        "/ad2d/127/0684-03",
+        "/ad2d/127/0684-02"
+      ]
+    },
+    {
+      "cite": "94 NY2d 499",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109808
+      ],
+      "pin_cites": [
+        {
+          "page": "504-505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0499-01"
+      ]
+    },
+    {
+      "cite": "1 NY3d 535",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        1249310,
+        1249263
+      ],
+      "pin_cites": [
+        {
+          "page": "536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/1/0535-02",
+        "/ny3d/1/0535-01"
+      ]
+    },
+    {
+      "cite": "302 AD2d 408",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        729832,
+        729242,
+        729739
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/302/0408-02",
+        "/ad2d/302/0408-03",
+        "/ad2d/302/0408-01"
+      ]
+    },
+    {
+      "cite": "217 AD2d 53",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1223723
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/217/0053-01"
+      ]
+    },
+    {
+      "cite": "67 AD3d 712",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3963532,
+        3963807
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/67/0712-01",
+        "/ad3d/67/0712-02"
+      ]
+    },
+    {
+      "cite": "95 AD3d 65",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5682424
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/95/0065-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 282",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3676389
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/11/0282-01"
+      ]
+    },
+    {
+      "cite": "139 AD3d 484",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4292146
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0484-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 60",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 AD2d 221",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5655113
+      ],
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/109/0221-01"
+      ]
+    },
+    {
+      "cite": "41 AD2d 204",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5600437
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/41/0204-01"
+      ]
+    },
+    {
+      "cite": "26 NY3d 1108",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 AD3d 972",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4339270
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "981"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/0972-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 52667",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Misc 3d 1205",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 AD3d 574",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3483166
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/31/0574-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1440,
+    "char_count": 42696,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24692385540624184
+    },
+    "sha256": "5fb751c08ba466d10fdca98cb3e19060cefecabb6bdc622c77a6bbfb7930455f",
+    "simhash": "1:b284b7aedd1a99f9",
+    "word_count": 6827
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Selwyn Days, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nBarbara G. Zambelli, J.\nThis case involves the murders in November 1996 of an elderly man, Archie Harris, and his home health aide, Betty Ramcharan, in the man’s home in Eastchester. By early 1999, the investigating law enforcement officials had exhausted all available leads, and the investigation was declared a “cold case.” Approximately two years later, on February 15, 2001, defendant Selwyn Days was arrested for violating an order of protection that his former girlfriend Cherlyn Mayhew had obtained against him in September 2000. Later that day, the defendant’s former girlfriend informed the police that, during an altercation with her several months prior to that arrest, the defendant told her that he had killed two people.\nAfter an almost seven-hour interrogation, of which approximately the last 75 minutes were videotaped, the defendant confessed to the murders. When the defendant began his videotaped confession, he had been in custody for almost 14 hours, from approximately 11:00 a.m. on the day of his arrest until 1:41 a.m. the following day.\nThe defendant’s first trial ended in a hung jury in 2003. After a second trial in 2004, the defendant was convicted of two counts of murder in the second degree, and the Appellate Division affirmed the conviction (see People v Days, 31 AD3d 574 [2006]), including the trial court’s decision to exclude expert testimony on the issue of false confessions. Beginning in April 2007, the defendant filed a series of motions pursuant to CPL 440.10 to vacate his conviction, based upon allegations of ineffective assistance of counsel, among other claims. After a hearing, the County Court determined that the defendant’s counsel at his second trial was ineffective, vacated the judgment, and ordered a new trial (see People v Days, 26 Misc 3d 1205[A], 2009 NY Slip Op 52667[U] [Westchester County Ct 2009, Cohen, J.]). The defendant’s third trial, conducted in February 2011, again ended with a hung jury. Thereafter, the defendant was tried for a fourth time, after which the jury-convicted him on December 20, 2011 of two counts of murder in the second degree. The defendant was sentenced to two consecutive terms of imprisonment of 25 years to life (Warhit, J.).\nThe defendant appealed the December 20, 2011 conviction. By decision dated September 2, 2015, the Second Department reversed the judgment on the law and in the exercise of discretion finding “the County Court improvidently exercised its discretion in denying the defendant’s motion for leave to introduce expert testimony on the subject of false confessions” (People v Days, 131 AD3d 972, 981 [2d Dept 2015], lv denied 26 NY3d 1108 [2016]) and further finding that the court “improvidently exercised its discretion in permitting the People to belatedly amend the bill of particulars.” {Id. at 982.) The Appellate Division ordered a new trial in accordance with the decision to be preceded by a hearing to determine the scope of the expert testimony on the issue of false confessions.\nOn May 18, 2016, the defendant brought the present motion to dismiss the indictment in the furtherance of justice pursuant to CPL 210.20 (1) (i) and 210.40 and based on a generalized claim founded on due process. The People oppose the motion.\nDismissal of an indictment in the interest of justice “is required as a matter of judicial discretion by the existence of some compelling factor, consideration or circumstance clearly demonstrating that conviction or prosecution of the defendant . . . would constitute or result in injustice” (CPL 210.40 [1]; see People v Clayton, 41 AD2d 204 [2d Dept 1973]). The power to dismiss the indictment on such ground must be exercised sparingly (People v Insignares, 109 AD2d 221, 234 [1985]; see People v Belge, 41 NY2d 60 [1976]; People v Howell, 139 AD3d 484 [1st Dept 2016]). Furthermore, in deciding a motion to dismiss an indictment in the interest of justice, the court must strike a sensitive balance between the individual and the State interests to determine whether the ends of justice are served by dismissal of the indictment (People v Jenkins, 11 NY3d 282, 287 [2008]). “Such discretion is appropriately reserved for the unusual case that cries out for fundamental justice beyond the confines of conventional considerations of legal or factual merits of the charge or even on the guilt or innocence of the defendant” (People v Keith R., 95 AD3d 65, 67 [1st Dept 2012]; see People v Belge; People v Howell; People v Schellenbach, 67 AD3d 712 [2d Dept 2009]). In evaluating these factors, the court must be careful not to substitute its own judgment concerning the credibility of the witnesses, the culpability of the defendant or other questions of fact for that of the jury (see People v Schellenbach; People v Hudson, 217 AD2d 53 [2d Dept 1995]; People v Rahmen, 302 AD2d 408 [2d Dept 2003]). In making this determination, the court must consider the applicable factors under CPL 210.40 individually and collectively before concluding that dismissal of the indictment is in the interest of justice (see People v Jenkins; People v Berrus, 1 NY3d 535, 536 [2003]).\nIn determining whether such compelling factors, considerations or circumstances exist, a court must consider the 10 factors enumerated in CPL 210.40 (1):\n“(a) the seriousness and circumstances of the offense;\n“(b) the extent of harm caused by the offense;\n“(c) the evidence of guilt, whether admissible or inadmissible at trial;\n“(d) the history, character and condition of the defendant;\n“(e) any exceptionally serious misconduct of law enforcement personnel in the investigation, arrest and prosecution of the defendant;\n“(f) the purpose and effect of imposing upon the defendant a sentence authorized for the offense;\n“(g) the impact of a dismissal upon the confidence of the public in the criminal justice system;\n“(h) the impact of a dismissal on the safety or welfare of the community;\n“(i) where the court deems it appropriate, the attitude of the complainant or victim with respect to the motion;\n“(j) any other relevant fact indicating that a judgment of conviction would serve no useful purpose.”\nThe court will first address criteria (c) evidence of guilt and (e) exceptional misconduct by law enforcement because these two grounds are the factors most heavily relied on by the defense in support of the motion for dismissal in the interest of justice.\n(c) The Evidence of Guilt, Whether Admissible or Inadmissible at Trial\nContentions of the Parties\nThe defendant maintains that the prosecution’s case has always been incredibly weak and now, as the result of the decision on the CPL 440.10 motion (Cohen, J.) and the Appellate Division’s ruling permitting the introduction of expert testimony on the subject of false confessions, has been eviscerated. First, the defense argues that the People’s theory of the crime has been crippled because it relies extensively on the now wholly discredited confession of the defendant and testimony of Mayhew. Second, the fact that alibi witnesses place the defendant in another state around the time of the murders and there is no forensic evidence connecting the defendant to the crime scene, the defense asserts, completely undermines the prosecution’s case.\nIn terms of the defendant’s confession, the defense contends that it has no evidentiary value because it is false. Specifically, the defendant argues that the constellation of circumstances surrounding the interrogation included all of the hallmarks comporting with the research concerning interrogations that generate false confessions. First, the defendant claims that, after being in custody for 14 hours and subject to 6V2 hours of interrogation, he was exhausted. Next, the defendant contends that the three interrogating police officers used leading questions that frequently conveyed key crime scene facts, including the murder weapon and the gender of one victim, thereby furnishing the foundation for the false confession. Moreover, the defendant’s low IQ and alleged history of serious psychiatric problems, the defendant proposes, made him clinically suggestible and compliant, as measured by the Gudjonsson Suggestibility Scale and the Gudjonsson Compliance Scale. The fictional nature of the confession is further substantiated, the defense alleges, by the fact that a number of the details that the defendant provided did not correspond with the crime scene evidence or the timeline of events. Hence, the defense maintains, as the defendant is a highly suggestible and compliant individual with a borderline IQ, significant cognitive impairments and a history of psychiatric illness, he was vulnerable to the suggestive interrogation tactics and consequently falsely confessed. As the result of these facts, the defense opines, the “purported confession is an unreliable piece of evidence” (Finzi affirmation in support of motion to dismiss at 3-4).\nNext, the defense contends that the testimony of the defendant’s former girlfriend Mayhew has been wholly discredited and as such does not yield any evidence of guilt. Since testifying against the defendant at the first trial, the defendant points out, Mayhew has resisted taking the stand at each following trial. Specifically, she refused to appear at the second trial, and testified, in essence, at the third and fourth trials that she did not recall the defendant making any incriminating statements or her previous testimony nor did she know if her previous testimony was true. Furthermore, at the fourth trial, the court was obliged to rule that Mayhew was feigning memory loss, held her in contempt (in jail) and ultimately admitted her 2003 testimony at the trial. Based on these facts, the defendant maintains, Mayhew is “a badly tarnished witness” who is unlikely to testify again and will therefore necessitate a new court determination of the admissibility of the 2003 testimony. In any event, the defense continues, “Mayhew is a thoroughly discredited witness whose testimony (in particular testimony she has been unwilling to repeat in open court since [defendant’s] first trial) should not form the basis for any conviction, much less one based on a discredited confession” (Finzi affirmation in support of motion to dismiss at 5).\nAs for the issue of alibi witnesses, the defense asserts that meaningful evidence of guilt is lacking as there are no eyewitnesses that place the defendant in New York State at the time of the crimes. In contrast, the defense points out, there are several eyewitnesses that place the defendant in Golds-boro, North Carolina around the date of the killings.\nFinally, the defense argues that, since none of the forensic evidence collected matches the defendant, the case against the defendant has collapsed. Specifically, the defendant points out that the DNA indicated that unidentified individuals had been in contact with various items involved in the murders including the murder weapon. Furthermore, the defense emphasizes that the fingerprint on the tape used to tape a plastic bag around the female victim’s head did not match the defendant or other victim and, in fact, none of the relevant fingerprints matched the defendant. Moreover, forensics prove, the defendant states, that the blond hair found on the victim’s sock did not come from either victim or the defendant. Under the circumstances, the defense contends, the forensic evidence “excludes defendant and implicates other potential assailants” (defense mem of law at 21).\nIn sum, the defense submits that, based on all of these alleged facts, “the probability of acquittal at [a] fifth trial is higher than it has ever been and continued prosecution is a pernicious and malicious harassment of the accused” (defense mem of law at 21-22).\nIn contrast, the People argue that the strength of the prosecution’s case remains strong, and may have been enhanced by the Appellate Division’s ruling. Initially, the People assert that the defendant skews the record and ignores facts that are compelling proof of his criminality in the moving papers. The People point out that the alleged motive for the defendant’s actions (that the defendant murdered Archie Harris because Harris allegedly sexually assaulted the defendant’s mother) remains powerful evidence of his guilt and the condition of the victim (his pajama pants pulled down below his ankles) supports this revenge motive for the murders. In addition, the People argue, these facts confirm the integrity of the defendant’s confession because, as part of that statement, the defendant avowed that he “honored his mother” by killing Harris (People’s mem of law at 23).\n’ Next, with regards to the veracity of the defendant’s confession, the People maintain that the recent Appellate Division decision allowing the defendant to introduce expert testimony concerning the social science regarding false confessions does not constitute a finding that the confession lacks credibility and may, in fact, strengthen the prosecution’s case. First, the People point out that the allegation that the confession was false has been rejected by two juries and, thus, whether the new expert testimony warrants a different finding remains a question of fact for a jury. Second, the People submit that the introduction of the relevant expert testimony may strengthen the prosecution’s case as the defendant’s age, attendance at college and a criminal history of 22 convictions will be discussed before the jury (with limiting instructions) as factors militating against a finding that the confession is false. Third, the People allege that the exploration of the defendant’s overall IQ rating as a factor associated with false confessions will reveal that, based on the defendant’s life experiences (“adaptive functioning”) which included working, traveling independently between states and maintaining interpersonal relationships with women, the defendant’s cognitive function is not as low as he has been claiming. Fourth, in terms of the defendant’s allegations of mental illness, the exploration of the question of mental illness as it allegedly tainted the defendant’s confession will reveal that there is no proof that the defendant was actually mentally ill at the time of the murders. In any case, the People assert, it is for the jury to hear and evaluate the veracity of the defendant’s confession and, if it is found reliable, the confession is definitive proof of the defendant’s guilt. Consequently, rather than militating against another trial, the introduction of the new expert evidence on confessions weighs in favor of further proceedings.\nAs for the Mayhew testimony, the People disagree that it has been discredited. The People point out that the relevant circumstances surrounding Mayhew’s testimony, including the witness’s anonymous report and articulated fear of the defendant and the fact that it corroborated the defendant’s later confession, have not changed. Moreover, the People argue that only “when it would be necessary for [her] to testify at not one, not two, but four successive trials — she eventually refused to testify, was contemptuous of the court and returned to her original persona of a terrified witness not willing to risk her life” (People’s mem of law at 27), and therefore Mayhew’s recalcitrance was understandably based on fear and does not undermine the veracity of her testimony. In any event, the People assert that the question of the reliability of a witness’s testimony is for the jury to resolve, and hence the issues surrounding the Mayhew statement must be resolved at trial.\nAs for the defendant’s contention that the testimony of the alibi witnesses undermines the prosecution’s case, the People point out that Judge Cohen previously concluded that the “accuracy and/or import of that [alibi] testimony was not above reproach” (People v Days, 26 Misc 3d 1205[A], 2009 NY Slip Op 52667[U], *15 [Westchester County Ct 2009, Cohen, J.]). In addition, the People assert that Judge Cohen rejected the claim of actual innocence and, therefore, the issue of the integrity of the alibi testimony is a question for the jury and supports the proposition that a new trial should be granted.\nThe People contend that the court may consider inadmissible evidence in deciding this motion.. First, the People argue that the fact that the defendant twice told Mayhew that he commit^ ted the murders while trying to strangle her is powerful proof of guilt. The People also assert that the reliability of Mayhew’s testimony is supported by her fear of testifying because defendant went to her apartment and threatened her with a knife. Furthermore, the People emphasize that the previous court evidentiary rulings on the admissibility of this information are not binding at a new trial,' and argue that, should previously precluded threats to Mayhew be admitted at the next proceeding, it would allow the jury to better assess Mayhew’s credibility (see People v Evans, 94 NY2d 499, 504-505 [2000]). Under all of the circumstances, the People contend, the evidence of guilt warrants a further trial in this matter.\nOn reply, the defense reiterates many of the points previously made in the moving brief.\nThe defense next asserts that, because Mayhew’s testimony was unconvincing at the first trial, it has been proven to be not creditable. The defendant further alleges that the argument that Mayhew’s refusal to repeat her testimony under oath is based on fear of the defendant should be rejected because, during the previous trial, Judge Warhit held a hearing on the issue and concluded that there was no proof that her refusal was grounded in fear. In any event, the defense asserts, “the more reasonable inference to draw, based on all of the available evidence, is that [Mayhew] lied on the stand [at the first trial], and is now trying to avoid prosecution for perjury” (reply mem of law at 4).\nAs for the alibi witness issue, the defendant states that the People have not put forth any evidence that undermines the credibility of the alibi witnesses proffered at the CPL 440.10 hearing or at the subsequent trials. In addition, the People’s failure to identify any witness who can place the defendant near the scene of the crime, the defense declares, is fatal to the prosecution’s case.\nIn terms of the forensic evidence, the defense contends that the failure of the People to address the allegation that the physical evidence uniformly points to other unknown assailants and exculpates the defendant constitutes a concession of this point by the prosecution. In fact, the defense asserts, the People have never once proffered any credible explanation for the lack of forensic evidence consistent with the defendant’s guilt and, as such, this fact significantly undermines the case against the defendant. Under all of these circumstances, the defense concludes, the doubts as to the strength of the prosecution’s case require a finding that this criterion inures to defendant’s benefit and warrants dismissal of the indictment.\nConclusion\nThe persuasive weight of much of the evidence of guilt offered in this case is difficult to calculate because its evidentiary value is inextricably intertwined with questions of credibility that fall within the purview of a jury. In evaluating these factors, therefore, the court will not substitute its own judgment concerning the credibility of the witnesses, the culpability of the defendant or any other questions of fact that are rightly resolved by the trier of fact (see People v Schellenbach; People v Hudson, 217 AD2d 53 [2d Dept 1995]; People v Rahmen).\nAs for the defendant’s confession, the determination of its value belongs with the trier of fact. Of note, despite the defense’s numerous legal challenges during the various criminal proceedings, none of the previous judicial holdings concluded that the statement was involuntary or unreliable. If believed, the statement is proof of the commission of the crime. Moreover, the introduction of expert testimony concerning false confessions at a new trial will generate an array of factual questions that are appropriately resolved by the trier of fact. Furthermore, the resulting expert testimony could have a myriad of consequences on the evidence of guilt, as were described by the defense and the prosecution. In any event, the numerous factual issues generated by the analysis of whether the confession was false support the conclusion that a further proceeding is warranted so that the adjudication of these questions, and others, will be made by the proper entity, the jury (see People v Schellenbach; People v Hudson; People v Rahmen).\nLikewise, the value of the Mayhew testimony is for the jury to decide on retrial. As such, the testimony, if believed by the jury, gives support to the prosecution’s case. In any case, for the court to assess the credibility of the defendant’s confession and Mayhew’s testimony at this juncture would be an improper violation of the province of the jury (see People v Hudson; People v Schellenbach; People v Rahmen). This is true even if there are concerns as to the possible reluctance of the witness to cooperate with the prosecution (see People v Foster, 127 AD2d 684 [2d Dept 1987]).\nIn terms of the alibi witnesses, the reliability and truthfulness of the witnesses who placed the defendant out-of-state was not definitively determined in the previous proceedings and, as such, this issue remains unresolved. Hence, as was true for the confession and the Mayhew testimony, the veracity and value of this testimony is appropriately for the trier of fact at a new trial.\nFinally, it is true that the lack of forensic evidence connecting the defendant to the crime scene weighs significantly against the prosecution’s case. That fact alone, however, is insufficient justification for removing the determination of the defendant’s guilt from the hands of a jury (see generally People v Bebee, 175 AD2d 250 [2d Dept 1991]).\nAccordingly, the court finds that the numerous open, critical factual questions that require a finding by a jury support the conclusion that a further proceeding is warranted.\n(e) Any Exceptionally Serious Misconduct of Law Enforcement Personnel in the Investigation, Arrest and Prosecution of the Defendant\nContentions of the Parties\nThe defense argues the People have, over the past 15 years of this prosecution, “engaged in a pattern of conduct that has undermined the fact-finding process and impaired [defendant’s] ability to receive a fair trial” (defense mem of law at 23). Specifically, the defense asserts that the interrogation of the defendant, the investigation of the crime and the handling of critical criminal evidence each involved exceptionally serious misconduct on the part of law enforcement.\nFirst, the defendant argues that the police did not conduct the 2001 interrogation in a responsible manner to minimize the likelihood of a false confession and to preserve a record of what was said in the interrogation. Initially, the defense notes that the confession was obtained after an almost seven-hour interrogation, of which only approximately the last 75 minutes were videotaped. Hence, when the defendant began his videotaped confession, he had been in custody for almost 14 hours, from approximately 11:00 a.m. on the day of his arrest until 1:41 a.m. the following day.\nThe defense maintains that the decision not to record the interrogation of the low IQ suspect with a history of psychiatric problems was “problematic.” In addition, the defendant asserts that the detectives asked leading and suggestive questions during the recorded portion of the interview and, in light of the detectives’ admissions that they discussed the murders with the suspect before recording the interrogation, argues that it is reasonable to infer that the unrecorded questioning was equally inappropriate.\nSecond, the defense contends that the police investigation was “lackadaisical” and lacked good faith. The defense argues that the authorities made no effort at the time of the confession to determine whether the confession was actually true as an adequate investigation would have revealed that the defendant was living in North Carolina on the date of the murders and that his confession included an inconsistent time-line connected by unrelated events. Next, the defendant argues that the police botched the investigation concerning the crucial issue of the actual date of the murders, demonstrated by the fact that the evidence that the police ultimately relied on, 14 years after the crime (the victim’s phone records), to determine the date of the crimes had been in law enforcement’s possession since the killings.\nThird, the defendant contends that the prosecution failed to preserve critical evidence (specifically a hair found on the victim’s sock and the roll of tape used to wrap a bag around the victim’s head which contained a fingerprint) that could have identified the true killer and helped to exonerate the defendant (defense mem of law at 25).\nThe People counter that the retrial was ordered because of a change in the law with regards to the admissibility of expert testimony on false confessions and, consequently, law enforcement misconduct is not at issue here.\nNext, the People contend that the entire foundation of the defense’s argument with regards to the confession as applied to this criterion is faulty because it is based on the erroneous premise that the police lied about what transpired prior to the recorded portion of the interview. The People assert that there is no evidence to support this supposition and in fact any such wrongdoing has been refuted by police testimony at all four trials. The People acknowledge that the failure to record more of the 2001 interrogation was a mistake, but contend that the error does not amount to exceptionally serious misconduct. The People do not address the defense’s allegations that the investigation was incomplete and that law enforcement improperly failed to preserve critical evidence.\nConclusion\nWhile the delay in recording the interrogation was an acknowledged error, the court finds that the failure to record the entire interrogation does not per se amount to exceptionally serious police misconduct..\nTo the extent that the defense argues that any recorded apparently leading or suggestive questioning is definitive proof of earlier, more insidious questioning, the testimony by the police at the previous trials as to their behavior prior to commencing the recording contradicts the defense’s theory. Additionally, the theory regarding interrogation variables that lead to false confessions was not an accepted science in 2001 and, hence, the alleged failure of the police to question the defendant in accordance with those guidelines was not per se exceptionally serious police misconduct. Hence, the propriety of the police’s questioning and the validity of the confession involve unresolved questions of fact for a jury.\nAs for the investigation, the People do not challenge the allegation that it was incomplete. The failure to confirm the defendant’s location at the time of the killings and the delay in determining the date of death based on the collected telephone records, while not exceptional police work, however, does not, without more, rise to the level of egregious misconduct by law enforcement of the kind that would warrant the dismissal of an indictment for a double homicide.\nAlthough the relevant hair and tape evidence held by the FBI was destroyed, the defendant received all of the testing results on the materials from the prosecution at the time of the testing, thereby negating any insidious motive to destroy the evidence. In addition, many years had passed before the defendant made the production request. Under the circumstances, therefore, the loss of evidence does not, by itself, establish egregious police misconduct.\nIn sum, the consequences of any questionable actions by law enforcement will be appropriately considered by the jury in a new trial.\nAs for the Remaining Criteria:\n(a) The Seriousness and Circumstances of the Offense and (b) The Extent of Harm Caused by the Offense\nThe defendant does not address these first two criteria in the moving papers.\nThe People argue that the seriousness of a double murder and the resulting harm of two people losing their lives militate against dismissal of the case.\nIn the reply, the defendant concedes that the crimes at issue here are serious, but argues that “no one factor is dispositive, and in view of the other factors described [herein], this factor should be afforded very little weight in this case. See People v Sosenko, 210 AD2d 581 (3d Dept. 1994)” (reply mem of law at 16).\nThe court finds that the brutal killing of two people and the extraordinary violence surrounding the crimes are extremely serious. Moreover, there can be no doubt that the murder of two people inflicts substantial social harm.\n(d) The History, Character and Condition of the Defendant\nThe defendant did not address this criterion in the moving papers.\nThe People argue that the defendant’s extensive criminal history and his threats on Mayhew’s life, some made while incarcerated, militate against dismissing the proceedings. In addition, the People assert that there was an implication in the defendant’s former attorney’s testimony that the defendant approved of his mother’s alleged attempts to fabricate alibi evidence and this approval provides proof of another relevant character flaw.\nOn reply, the defense asserts that there is no evidence to support the People’s implication that any alibis were fabricated or that the defendant approved of any such fabrication. Furthermore, the defendant declares that this factor is\n“outweighed by the countervailing considerations that [defendant] is now over 50 years old and has spent the last 15 years of his life in jail awaiting a fair trial [and] it would be inappropriate to subject [defendant] to a fifth trial . . . due to conduct that bears no relation to . . . the facts of this case” (reply mem of law at 17).\nIn the court’s opinion, the defendant’s criminal history including the history of alleged threats against Mayhew are not factors inuring to the benefit of defendant.\n(f) The Purpose and Effect of Imposing upon the Defendant a Sentence Authorized for the Offense\nThe defense points out that the defendant has already served 15 years in jail and that the punishment already suffered by the defendant is appropriately considered in this criterion, citing People v Clayton (41 AD2d 204 [2d Dept 1973]).\nThe People argue that the purpose and effect of imposing upon the defendant a sentence authorized by the offense manifestly favors another trial. If the defendant is convicted, the People assert, the public and criminal justice system have\n“an interest to ensure that such an intentional, violent act — a brutal double murder — is appropriately punished for all the identified reasons for imposing a criminal sentence identified in People v Suitte (90 AD2d 80, 83 (1982) [observing the ‘four principal objectives of punishment are deterrence, rehabilitation, retribution and isolation’]).”\nUpon his first conviction of two counts of murder in the second degree in April 2004, the defendant was sentenced to two consecutive prison terms of 25 years to life (Adler, J.). At the fourth trial, the defendant was again convicted of two counts of murder in the second degree and sentenced to two consecutive terms of imprisonment of 25 years to life (Warhit, J.).\nThe court finds that the interest in imposing an authorized sentence upon conviction so that the full appropriate sentence reflecting the gravity of the crimes is served warrants a new trial.\n(g) The Impact of a Dismissal upon the Confidence of the Public in the Criminal Justice System\nThe defendant argues that a “conviction in this case, on this record will undermine confidence in the criminal justice system” (defense mem of law at 26).\n“The circumstances of the interrogation, given recent, highly publicized examples of false confessions . . . will further erode public confidence in the tactics used by police to question suspects, and the bizarre and conflicting testimony of Ms. Mayhew over the years has rendered her initial accusation ... so facially incredible that it should not be used in a criminal prosecution” (id.).\nThe People, in essence, argue that the factors herein weigh in favor of another trial and hence a dismissal would undermine public confidence in the judicial system. Furthermore, the issues of the veracity of the confession and Mayhew’s testimony and of the defendant’s guilt are still open questions to be resolved by a jury, and a dismissal would undermine the public’s confidence in the justice system’s ability and willingness to find the truth.\nSignificant legal resources, on all sides, have been committed to this case over many years. As part of this history, public attention has attached to the numerous proceedings in the matter and, as such, the various allegations made and many legal issues raised throughout the criminal proceedings have a public import, particularly with regards to the public’s understanding of and confidence in the criminal justice system.\nIn light of the complicated legal issues generated by the previous trials that ended in convictions and mistrials, there exists the potential that the community is confused as to the value and meaning of the results of these past trials and as to the defendant’s innocence or guilt. Initially, the Appellate Division confirmed defendant’s conviction and the trial court’s decision to preclude expert testimony as to the defendant’s susceptibility to falsely confess (31 AD3d 574 [2d Dept 2006]). Subsequently, in 2012, the Court of Appeals changed the law concerning the admissibility of expert testimony regarding false confessions and, thereafter, the defendant was awarded a new trial in part based on this change of law in 2015 (131 AD3d 972 [2d Dept 2015]). Hence, the criminal proceedings in this matter have been enmeshed in mistrials, convictions and appeals as well as complicated legal issues as to the use of expert testimony and the changes in the law regarding that evidence. Under these confusing circumstances, therefore, the community has a strong interest in obtaining a final resolution of the defendant’s guilt or lack of guilt and a dismissal of the indictment at this juncture would undermine the public’s confidence in the criminal justice system (see People v Keith R., 95 AD3d 65 [1st Dept 2012]).\n(h) The Impact of a Dismissal on the Safety or Welfare of the Community\nThe defendant does not address this criterion.\nThe People argue, in essence, that, under the circumstances, a dismissal and release of the defendant without a final trial resolution would cause anxiety, fear and concern in the community which “is left to harbor strong impressions of defendant’s guilt of these brutal crimes (given the two prior convictions), and, therefore, fear that a murderer has been released, presenting an obvious danger to others” (People’s mem of law at 32).\nIt is fair to state that the dismissal of the indictment for a violent double murder would have a negative impact upon the safety and welfare of the community.\n(i) Where the Court Deems it Appropriate, the Attitude of the Complainant or Victim with Respect to the Motion\nThe People do not address this criterion.\nThe defense asserts that “none of Archie Harris’ relatives (who were estranged from him) or any of Ms. Ramcharan’s family have, to our knowledge, been present or active in seeking continued punishment of [defendant]” (defense mem of law at 26).\nThis factor is not a factor that the court deems appropriate to consider.\n(j) Any Other Relevant Fact Indicating That a Judgment of Conviction Would Serve No Useful Purpose\nNeither the defense nor the People raise this criterion in support of their positions.\nAfter the evaluation of these criteria, both individually and collectively, the court finds that the instant case is not one of those rare instances that warrants the extraordinary remedy of the exercise of the dismissal power provided under CPL 210.40 and, as such, the court declines to exercise its discretion (see People v Howell; People v Insignares; People v Bebee; People v Schellenbach; People v Hudson; People v Foster, People v Rahmen).\nDue Process\nThe defense next asserts that a fifth trial would violate the defendant’s right to due process by requiring him, after being incarcerated for over 15 years, to suffer the anxiety and emotional toll of another trial when the evidence has not changed and most of the jurors in the previous four trials had reasonable doubt as to guilt. The People counter that this constitutional claim lacks any legal foundation as there is no decision by the United States Supreme Court or the New York Court of Appeals that interprets the Due Process Clause of the Fourteenth Amendment or its state counterpart to confer, independent of double jeopardy or statute of limitations principles, a freestanding substantive due process right of a defendant to be relieved of multiple prosecutions for the same offense following a properly declared mistrial or appellate reversal (see People v Sierb, 456 Mich 519, 525 [1998]; United States v Jones, 122 F3d 1058 [2d Cir 1997]).\nIn the reply papers, the defendant attempts to recast the argument stating that he:\n“seeks no ‘free standing substantive due process due right’ in connection with his Clayton motion. Rather [defendant] asserts the uncontroversial proposition that procedural due process protects against fundamental unfair government action. After four defective trials in which a substantial portion of the jurors who heard the prosecutions’ evidence had reasonable doubt about the evidence, allowing the People to present the very same evidence a fifth time would be fundamentally unfair” (reply mem of law at 17).\nAt its core, the defendant’s initial due process argument is founded on the language and concepts contained in footnote 4 of the decision in United States v Castellanos (478 F2d 749, 753 n 4 [2d Cir 1973]). In the relevant footnote, the court muses that, while the Double Jeopardy Clause places no limit on the number of permissible retrials following deadlocked juries, “it would still remain open for the defendant to argue that such a ‘trial by attrition’ violated the Due Process Clause” (id.).\nThe meaning and precedential value of this language was thereafter addressed in United States v Jones (122 F3d 1058 [2d Cir 1997]), wherein the court concluded that the cited language was dicta. In Jones, the defendant argued that, based on the language of the Castellanos footnote, his fourth retrial, which ended in a conviction, violated the Due Process Clause. Initially, the Jones court observed that the Castellanos decision cited approvingly the prior decision of United States v Persico (425 F2d 1375 [2d Cir 1970]), in which the prior court confirmed the convictions of several defendants who were retried in circumstances comparable to or more onerous to those of the defendant in the Jones case. Specifically, in Pérsico one of the defendants had been tried a fifth time after two deadlocked juries and two appellate reversals and three other defendants had been tried a fifth time after two appellate reversals, one deadlocked jury and another mistrial granted on other grounds (see United States v Jones; United States v Castellanos; United States v Persico). Hence, the Jones court concluded that the circumstances before it, involving one defendant tried four times, did not even rise to the level of the potential due process violation very briefly mentioned in the Castellanos decision.\nIn any event, the Jones court went on to reject the due process argument referencing the fact that the defendant had failed to cite any decision that had explicitly barred retrial based on due process grounds and the court was unable to locate any such case itself (see United States v Jones; see also United States v Castellanos; United States v Persico). Accordingly, under Castellanos and Persico, the court held, the defendant’s fourth retrial was not constitutionally barred.\nHence, to the extent that the defense argues that there is a due process protection from retrial, the assertion is rejected as contrary to the Jones decision. Furthermore, as none of the cases cited by the defendant involves a court holding that repeated prosecutions are barred based on this novel due process argument, the claim is devoid of legal support.\nIn any case, under the circumstances, any such due process protection from retrial would not govern here for the same reasons as it was inapplicable in Jones. The defendant here is facing his fifth trial. In Persico, the court confirmed the convictions of a defendant who had been tried a fifth time after two deadlocked juries and two appellate reversals and of three other defendants who had been tried a fifth time after two appellate reversals, one deadlocked jury and another mistrial granted on other grounds (see United States v Jones; United States v Castellanos). It is clear that in the instant action, similar to Jones, therefore, the facts of this case do not give rise to a level of the due process concerns above those in Pérsico and, accordingly, there is no due process bar to a fifth trial presented here.\nFurthermore, to the extent that the defendant implies that procedural due process protection against fundamentally unfair government action bars a fifth trial here, that position lacks any legal support. The cases cited by the defense with regard to the requirement that criminal prosecutions comport with the notion of fundamental fairness do not involve multiple prosecutions and hence do not govern here. As such, there is no legal basis presented to justify extending the principles of due process to include a prohibition against subjecting the defendant to a fifth trial.",
+        "type": "majority",
+        "author": "Barbara G. Zambelli, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Paul, Weiss, Rifkind, Wharton & Garrison, LLP, New York City (.Roberto Finzi, William A. Clareman and Justin Wiley of counsel), The Exoneration Initiative, New York City (Glenn Garber and Rebecca E. Freedman of counsel), and Deren, Genett & Macreery, Katonah (John Brian Macreery of counsel), for defendant.",
+      "James A. McCarty, Acting District Attorney, White Plains (Laurie Sapakoff, Steven A. Bender, Richard Longworth Hecht, Perry Perrone and Laura Murphy of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[34 NYS3d 570]\nThe People of the State of New York, Plaintiff, v Selwyn Days, Defendant.\nCounty Court, Westchester County,\nJune 29, 2016\nAPPEARANCES OF COUNSEL\nPaul, Weiss, Rifkind, Wharton & Garrison, LLP, New York City (.Roberto Finzi, William A. Clareman and Justin Wiley of counsel), The Exoneration Initiative, New York City (Glenn Garber and Rebecca E. Freedman of counsel), and Deren, Genett & Macreery, Katonah (John Brian Macreery of counsel), for defendant.\nJames A. McCarty, Acting District Attorney, White Plains (Laurie Sapakoff, Steven A. Bender, Richard Longworth Hecht, Perry Perrone and Laura Murphy of counsel), for plaintiff."
+  },
+  "file_name": "2392-01",
+  "first_page_order": 191,
+  "last_page_order": 209
+}

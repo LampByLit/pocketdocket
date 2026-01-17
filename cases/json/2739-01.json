@@ -1,0 +1,194 @@
+{
+  "id": 12434523,
+  "name": "Rent Stabilization Association of NYC, Inc., et al., Petitioners, v. New York City Rent Guidelines Board, Respondent",
+  "name_abbreviation": "Rent Stabilization Ass'n of NYC v. New York City Rent Guidelines Board",
+  "decision_date": "2017-03-28",
+  "docket_number": "",
+  "first_page": "1108",
+  "last_page": "1114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 1108"
+    },
+    {
+      "type": "parallel",
+      "cite": "49 N.Y.S.3d 878"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "71 NY2d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4409032
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0001-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 329",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3747315
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "334"
+        },
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0329-01"
+      ]
+    },
+    {
+      "cite": "1999 US App LEXIS 14960",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. App. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*7-8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 F Supp 2d 524",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11686163
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/13/0524-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 643",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 AD2d 982",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 NY Slip Op 52698",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Misc 3d 1202",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Misc 2d 837",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        806658
+      ],
+      "pin_cites": [
+        {
+          "page": "839"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/117/0837-01"
+      ]
+    },
+    {
+      "cite": "38 AD2d 174",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5594252
+      ],
+      "pin_cites": [
+        {
+          "page": "175-176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/38/0174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 739,
+    "char_count": 12492,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2563193838714149
+    },
+    "sha256": "4acbb29dc9b57eb95d36291cd87f513294a537f91c75c6d8e2146749bf6eb1f6",
+    "simhash": "1:56d7e1cd67fab6e3",
+    "word_count": 1985
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rent Stabilization Association of NYC, Inc., et al., Petitioners, v New York City Rent Guidelines Board, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDebra A. James, J.\nPetitioners bring this CPLR article 78 proceeding seeking to annul the 2016 apartment and loft order No. 48 promulgated by respondent dated June 27, 2016 (order 48). Respondent cross-moves to dismiss the petition.\nThe court has received a number of applications from amici curiae whose intervention it has granted by separate orders and has considered the papers submitted therewith in deciding this application. As set forth in the petition, the petitioner Rent Stabilization Association of NYC, Inc. (the Association) is a trade association representing 25,000 property owners and/or managing agents who manage approximately one million apartments in New York City, many of which are rent-stabilized. The co-petitioners are owners of buildings claimed to be affected by the respondent’s order. The respondent New York City Rent Guidelines Board (the Board) was created by and derives its authority from Administrative Code of the City of New York § 26-510 (b), which is part of the Rent Stabilization Law (RSL), originally enacted in 1969 by the New York City Council (Local Law No. 16 [1969] of City of NY, codified as amended at Administrative Code § 26-501 et seq.).\nRSL § 26-510 (b) provides in relevant part that\n“[t]he rent guidelines board shall establish annually guidelines for rent adjustments, and in determining whether rents for housing accommodations subject to the emergency tenant protection act of nineteen seventy-four or this law shall be adjusted shall consider, among other things (1) the economic condition of the residential real estate industry in the affected area including such factors as the prevailing and projected (i) real estate taxes and sewer and water rates, (ii) gross operating maintenance costs (including insurance rates, governmental fees, cost of fuel and labor costs), (iii) costs and availability of financing (including effective rates of interest), (iv) over-all supply of housing accommodations and over-all vacancy rates, (2) relevant data from the current and projected cost of living indices for the affected area, (3) such other data as may be made available to it. Not later than July first of each year, the rent guidelines board shall file with the city clerk its findings for the preceding calendar year, and shall accompany such findings with a statement of the maximum rate or rates of rent adjustment, if any, for one or more classes of accommodations subject to this law, authorized for leases or other rental agreements commencing on the next succeeding October first or within the twelve months thereafter. Such findings and statement shall be published in the City Record.”\nOrder 48 challenged here was promulgated pursuant to this statute.\n“CPLR 7804 (subd. [f]) makes provision for respondent to move to dismiss the petition, objecting to it in point of law, analogous to article 32 motions to dismiss and for summary judgment. Similar to such motions, in a motion to dismiss a petition the facts stated therein are deemed admitted for the purposes of the motion and the facts alleged are considered in a light most favorable to petitioners. Conclusory allegations are not among the facts deemed admitted, however.” (Semple v Miller, 38 AD2d 174, 175-176 [4th Dept 1972].)\nPetitioners in their papers challenge the consideration by the respondent of “tenant affordability” as a factor in issuing order 48 as beyond the scope of the Board’s authority under RSL § 26-510 (b). The respondent counters that “tenant affordability” has long been a consideration in its deliberations and is authorized by the statute.\nThus the question presented before the court at this juncture is whether the Board is authorized under the Rent Stabilization Law to consider “tenant affordability” when establishing annual guidelines for rent adjustments. Based upon the precedents cited as follows, the court finds that the Board acted with a rational basis in taking into account “tenant affordability.”\nOver 30 years ago a term of this court held that “one of the factors that the board chose to consider was the tenants’ ability to pay. This was entirely proper and consistent with the statutory authorization embodied in [RSL § 26-510] (subd b, par [3]) of the Administrative Code.” (Matter of Muriel Towers Co. v City of N.Y. Rent Guidelines Bd., 117 Misc 2d 837, 839 [Sup Ct, NY County 1983]; see New York State Tenants & Neighbors Coalition, Inc. v Nassau County Rent Guidelines Bd., 25 Misc 3d 1202[A], 2006 NY Slip Op 52698[U], *3 [Sup Ct, Nassau County 2006] [the court held in “Muriel Towers (that) the Administrative Code authorized the Board to consider a tenant’s ability to pay, and . . . (i)n any event. . . the tenant’s ability to pay was a ‘factor’ considered by the Board, and was not the sole basis of the Board’s consideration in determining its rent guidelines”].) The trial court’s decision in Muriel Towers was affirmed by the Appellate Division, First Department, without opinion (Matter of Muriel Towers Co. v City of New York Rent Guidelines Bd., 94 AD2d 982 [1st Dept 1983]) and a subsequent appeal to the Court of Appeals on constitutional grounds was dismissed. (60 NY2d 643 [1983].) Similarly, the District Court for the Southern District of New York has held,\n“Plaintiff claims that the Board went beyond its authority in denying hotels any rent increase in the past three years. It states that the Board was creating social policy, something not within its power, by taking tenants’ ability to pay into account.\n“However, the legislature gave the Board this power in RSL § 26-510 (b) when it allowed the Board to consider, ‘among other things’ 1) ‘the economic condition of the residential real estate industry,’ 2) ‘relevant data from the current and projected cost of living indices,’ and 3) ‘such other data as may be made available to it.’ The law gives the Board great latitude in deciding what factors to examine and what weight to place on each factor.” (Greystone Hotel Co. v City of New York, 13 F Supp 2d 524, 529 [SD NY 1998].)\nIn an unpublished opinion the Second Circuit affirmed the District Court ruling holding in pertinent part that\n“RGB considered tenant hardship in accordance with a statutory scheme that mandated this consideration in conjunction with a host of other factors that explicitly weigh landlord costs . . . Under these circumstances, no due process violation exists because any consideration of tenant hardship occurred in the context of a statutory scheme that ‘represents a rational attempt to accommodate the conflicting interests of protecting tenants from burdensome rent increases while at the same time ensuring that landlords are guaranteed a fair return on their investment.’ ” (Greystone Hotel Co. v City of New York, 1999 US App LEXIS 14960, *7-8 [2d Cir 1999] [citation omitted].)\nPetitioners argue that the cited cases have no precedential effect upon this court because there was no written opinion in the Muriel Towers appellate decision and that the local rules of the Second Circuit do not permit citation to its opinion in Grey-stone Hotel. This court however finds petitioners’ attempts to distinguish Muriel Towers and Greystone Hotel from the present proceeding unavailing because whatever the binding prec-edential value of those cases, petitioners here have failed to present any legally cognizable argument as to why those cases were wrongly decided.\nPetitioners also argue that the listing of factors the Board is to consider in its deliberations as set forth in RSL § 26-510 (b) is exclusive, and that under the principle of ejusdem generis, the Board is only permitted to consider items related to landlord costs such as set forth in RSL § 26-510 (b) (1) despite the language in subdivision (3) of the statute allowing the Board to consider “such other data as may be made available to it.”\nHowever, petitioners’ proffered parsing of the statutory text is fatally undermined by the fact that the Court of Appeals itself has held that the Board could consider tenants’ economic circumstances in its deliberations, in a case where the Association appeared as amicus curiae. In Matter of Casado v Markus (16 NY3d 329, 334 [2011]) the Court held that it was permissible for the Board to impose minimum dollar increases in rents where there had not been a vacancy increase in a period of time; that is, the percentage increase on certain apartments with lower rents would be higher than on some apartments with higher rents. As part of its holding that the Board’s exercise was proper the Court described the Board’s analysis that\n“showed that the subsidy appears to be unfair even when tenant income is taken into account. The analysis (which excluded senior citizens receiving rent increase exemptions) showed that the median rent-to-income ratio for tenants living in their apartments six years or more was lower than the same ratio for all tenants—and would continue to be lower even if minimum increases in the range of those at issue here were imposed. The RGB therefore decided to adopt the minimums.” (Id. at 334.)\nThus the Court in Casado indicated that the Board could take into account the effect rent policy would have on tenants’ economic circumstances and could determine that distinctions in rent policy and any implicit subsidies therein should be adjusted to eliminate unfairness. Further, contrary to petitioners’ arguments, the Court also held that where the Board has long employed certain methods and exercised certain powers without challenge as is the case here with “tenant affordability,” “the fact that such distinctions have long been accepted without question is further confirmation that nothing in the governing legislation can fairly be read to prohibit them.” (Casado, 16 NY3d at 336.)\nPetitioners’ further argument that Casado supports their application because the Court in dicta stated that “[i]t could be argued that, in making distinctions based on tenant income, the . . . Rent Guidelines Board trespassed on a sensitive policy area that is within the Legislature’s special province (see Boreali v Axelrod, 71 NY2d 1 [1987])” (Casado at 337-338) is inapposite because the Court was referring to a situation where “distinctions” were being made in setting rent policy where in this case no “distinctions” are being made because of “tenant affordability.”\nBy stipulation dated September 15, 2016, petitioners withdrew with prejudice their third cause of action asserting a regulatory taking.\nTherefore, the court shall grant the cross motion to dismiss the petition.\nAccordingly, it is ordered that the cross motion to dismiss the petition is granted; and it is further ordered and adjudged that the petition is dismissed in its entirety.\nThe amici curiae who were permitted to intervene by separate motions are as follows:\nOn motion sequence No. 2: the Rent Justice Coalition, Orlando Areiza, Michael Castaldo, Jose Genao, Ruben Gonzalez, Diana Latorre, Martina Rivera, Patricia Rosario, Jeronimo Santes Simbron, Maury Sherman, Nina Sills, George Sotiroff, Martin D. Stoner, Domary Rivera, Hon. Margaret Chin, Hon. Julissa Ferreras-Copeland, Hon. Daniel Garodnick, Hon. Ben Kallos, Hon. Steve Levin, Hon. Mark Levine, Hon. Rosie Mendez, Hon. Antonio Reynoso, Hon. Donovan Richards, Hon. Helen Rosenthal and Hon. Jumaane D. Williams.\nOn motion sequence No. 3: the Community Housing Improvement Program.\nOn motion sequence No. 4: Housing Court Answers and Mobilization Against Displacement.",
+        "type": "majority",
+        "author": "Debra A. James, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Rosenberg & Estis, P.C., New York City (Jeffrey Turkel of counsel), for petitioners.",
+      "Zachary W. Carter, Corporation Counsel, New York City (Emily Stitelman of counsel), for respondent.",
+      "The Legal Aid Society, New York City (Robert Desir of counsel), Urban Justice Center, New York City (Michael Leon ard of counsel), and Goddard Riverside Law Project, New York City (Matthew F. Longobardi of counsel), for Rent Justice Coalition and others, intervenors-respondents.",
+      "Belkin, Burden, Wenig & Goldman LLP, New York City CMat-thew Brett of counsel), for the Community Housing Improvement Program, intervenor-respondent.",
+      "Brooklyn Legal Services Corporation, Brooklyn {Adam Meyers and Jean Stevens of counsel), for Housing Court Answers and Mobilization Against Displacement, intervenor-respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[49 NYS3d 878]\nRent Stabilization Association of NYC, Inc., et al., Petitioners, v New York City Rent Guidelines Board, Respondent.\nSupreme Court, New York County,\nMarch 28, 2017\nAPPEARANCES OF COUNSEL\nRosenberg & Estis, P.C., New York City (Jeffrey Turkel of counsel), for petitioners.\nZachary W. Carter, Corporation Counsel, New York City (Emily Stitelman of counsel), for respondent.\nThe Legal Aid Society, New York City (Robert Desir of counsel), Urban Justice Center, New York City (Michael Leon ard of counsel), and Goddard Riverside Law Project, New York City (Matthew F. Longobardi of counsel), for Rent Justice Coalition and others, intervenors-respondents.\nBelkin, Burden, Wenig & Goldman LLP, New York City CMat-thew Brett of counsel), for the Community Housing Improvement Program, intervenor-respondent.\nBrooklyn Legal Services Corporation, Brooklyn {Adam Meyers and Jean Stevens of counsel), for Housing Court Answers and Mobilization Against Displacement, intervenor-respondent."
+  },
+  "file_name": "2739-01",
+  "first_page_order": 1132,
+  "last_page_order": 1138
+}

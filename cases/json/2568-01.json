@@ -1,0 +1,701 @@
+{
+  "id": 12434353,
+  "name": "In the Matter of Melissa S., Petitioner, v. Allen S., Respondent",
+  "name_abbreviation": "Melissa S. v. Allen S.",
+  "decision_date": "2016-11-30",
+  "docket_number": "",
+  "first_page": "684",
+  "last_page": "690",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 684"
+    },
+    {
+      "type": "parallel",
+      "cite": "42 N.Y.S.3d 580"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "118 AD3d 1357",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4066036,
+        4065102
+      ],
+      "pin_cites": [
+        {
+          "page": "1358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/1357-01",
+        "/ad3d/118/1357-02"
+      ]
+    },
+    {
+      "cite": "139 AD3d 850",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4285721
+      ],
+      "pin_cites": [
+        {
+          "page": "851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0850-01"
+      ]
+    },
+    {
+      "cite": "123 AD3d 138",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4337214
+      ],
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0138-01"
+      ]
+    },
+    {
+      "cite": "106 AD3d 592",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3720181
+      ],
+      "pin_cites": [
+        {
+          "page": "592-593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/106/0592-01"
+      ]
+    },
+    {
+      "cite": "45 AD3d 470",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3356226
+      ],
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/45/0470-01"
+      ]
+    },
+    {
+      "cite": "305 AD2d 751",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        119905,
+        120667
+      ],
+      "pin_cites": [
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/305/0751-02",
+        "/ad2d/305/0751-01"
+      ]
+    },
+    {
+      "cite": "517 US 820",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11747036
+      ],
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0820-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 1000",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4036983
+      ],
+      "pin_cites": [
+        {
+          "page": "1002"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/1000-01"
+      ]
+    },
+    {
+      "cite": "132 P3d 751",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "pin_cites": [
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wash App 316",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5876556
+      ],
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/132/0316-01"
+      ]
+    },
+    {
+      "cite": "7 NE3d 1028",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "pin_cites": [
+        {
+          "page": "1031"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "467 Mass 788",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4316944
+      ],
+      "pin_cites": [
+        {
+          "page": "791"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/467/0788-01"
+      ]
+    },
+    {
+      "cite": "18 USC § 2265",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 AD3d 409",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4155337,
+        4164259
+      ],
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/0409-01",
+        "/ad3d/127/0409-02"
+      ]
+    },
+    {
+      "cite": "25 NY3d 1220",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4319200,
+        4317978,
+        4321611,
+        4316654
+      ],
+      "pin_cites": [
+        {
+          "page": "1221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/1220-01",
+        "/ny3d/25/1220-02",
+        "/ny3d/25/1220-03",
+        "/ny3d/25/1220-04"
+      ]
+    },
+    {
+      "cite": "128 AD3d 1122",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4210532
+      ],
+      "pin_cites": [
+        {
+          "page": "1123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/128/1122-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 448",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4317864
+      ],
+      "pin_cites": [
+        {
+          "page": "453-454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0448-01"
+      ]
+    },
+    {
+      "cite": "560 US 959",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12454980,
+        12454981,
+        12454982,
+        12454983,
+        12454984,
+        12454985,
+        12454986,
+        12454987,
+        12454988,
+        12454989,
+        12454990,
+        12454991,
+        12454992
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/177/0314-05",
+        "/l-ed-2d/177/0314-06",
+        "/l-ed-2d/177/0314-07",
+        "/l-ed-2d/177/0314-08",
+        "/l-ed-2d/177/0315-01",
+        "/l-ed-2d/177/0315-02",
+        "/l-ed-2d/177/0315-03",
+        "/l-ed-2d/177/0315-04",
+        "/l-ed-2d/177/0315-05",
+        "/l-ed-2d/177/0315-06",
+        "/l-ed-2d/177/0315-07",
+        "/l-ed-2d/177/0315-08",
+        "/l-ed-2d/177/0316-01"
+      ]
+    },
+    {
+      "cite": "14 NY3d 33",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5714290
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/14/0033-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1519",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4177320
+      ],
+      "pin_cites": [
+        {
+          "page": "1520"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1519-01"
+      ]
+    },
+    {
+      "cite": "77 AD3d 207",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5752002
+      ],
+      "pin_cites": [
+        {
+          "page": "210-211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0207-01"
+      ]
+    },
+    {
+      "cite": "254 AD2d 581",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        877299
+      ],
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/254/0581-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 532",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4413619
+      ],
+      "pin_cites": [
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0532-01"
+      ]
+    },
+    {
+      "cite": "145 AD2d 494",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3575229
+      ],
+      "pin_cites": [
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/145/0494-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 856",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 AD3d 1011",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3490815
+      ],
+      "pin_cites": [
+        {
+          "page": "1014"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/1011-01"
+      ]
+    },
+    {
+      "cite": "92 AD3d 945",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4051939
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/92/0945-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 801",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 AD3d 1342",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4049165
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/91/1342-01"
+      ]
+    },
+    {
+      "cite": "79 AD3d 1482",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4007153
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1482-1483"
+        },
+        {
+          "page": "1483-1485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/1482-01"
+      ]
+    },
+    {
+      "cite": "29 AD3d 583",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5563477,
+        5559621
+      ],
+      "pin_cites": [
+        {
+          "page": "584"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/29/0583-01",
+        "/ad3d/29/0583-02"
+      ]
+    },
+    {
+      "cite": "3 AD3d 751",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1239714
+      ],
+      "pin_cites": [
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/3/0751-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 809",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "245 AD2d 374",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        406578
+      ],
+      "pin_cites": [
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/245/0374-01"
+      ]
+    },
+    {
+      "cite": "31 AD3d 1146",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3495327
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1149"
+        },
+        {
+          "page": "1149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/31/1146-01"
+      ]
+    },
+    {
+      "cite": "91 AD2d 592",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5620944,
+        5617839
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "593"
+        },
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/91/0592-01",
+        "/ad2d/91/0592-02"
+      ]
+    },
+    {
+      "cite": "45 NY2d 965",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 AD2d 15",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3099695
+      ],
+      "pin_cites": [
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/64/0015-01"
+      ]
+    },
+    {
+      "cite": "109 AD2d 87",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5662809
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/109/0087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 795,
+    "char_count": 13541,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2562937066987303
+    },
+    "sha256": "ea5fcc2a7c7c960acd8a7c9424d79033474797ed8dedb896ee7d278cda9c17e7",
+    "simhash": "1:8270018e152242d5",
+    "word_count": 2243
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Melissa S., Petitioner, v Allen S., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn M. Hunt, J.\nIn this family offense proceeding under article 8 of the Family Court Act, the respondent has made the unprecedented request that his physical appearance before the court be dispensed with, and that he be permitted to participate and give testimony in the proceeding by electronic means, specifically by “telephone” from the offices of an attorney located in another state.\nBy petition filed pursuant to Family Court Act § 821 on October 19, 2016, Melissa S. alleges that the respondent, Allen S., who is her spouse, committed one or more of the family offenses enumerated in Family Court Act § 812 (1). The petition alleges that the parties reside at the same address in Astoria, New York, that there are no children residing in the parties’ home, and that\n“Allen accused me of cheating and being pregnant. [He] [s]aid he was leaving the next day. He was recording me the week prior with audio device. I left to check into a hotel. I was woken to enraged texts. Officers met me at the apartment where he [had] vandalized the front door—‘Lying, cheating, slut whore lives here’ and [he] saturated my clothes . . . with vinegar, oil and coffee grounds. [He] ruined clothing and bedding [and] [1] eft hostile notes, continued to harass me via text. The most recent incident started on October 16, 2016 at 2:00 p.m. at my residence in Astoria.\n“I have not filed a criminal complaint concerning these incidents. I have no children and there are no other children living in my home.”\nPetitioner appeared before a court attorney-referee on the date she filed her petition (see Family Ct Act § 153-c), a temporary order of protection was issued in petitioner’s favor, a summons was issued for the respondent, and the case was adjourned for further proceedings before this court on November 30, 2016.\nOn November 16, 2016 the respondent filed this application to dispense with his personal appearance before the Family Court, and for authorization to appear and participate in the proceeding by telephone from a specified law office, which is located in Las Vegas, Nevada. Subsequently, the respondent then filed an “answer” to the family offense petition and interposed a “counter-claim” pursuant to Family Court Act § 154-b.\nIn support of his application to testify by electronic means (by telephone), respondent states that “[o]n 10/19/16,1 received a summons to appear in Family Court, Queens County, State of New York on November 30, 2016 at 11:00 A.M.” He further states that he now “resides” in Las Vegas, that it would pose an “economic hardship” were he required to return to New York in order to defend himself in this proceeding, that three unidentified members of his family passed away in October 2016 and he “is helping family with costs,” and the “[c]ost of sudden and unexpected relocation to avoid proximity to petitioner.”\nRespondent’s application further states that\n“I understand that I have the right to discuss this matter with legal counsel [and] [b]y this application, I am consenting to the hearing and determination of this matter by this Court without my physical presence [and] I understand that I have the right to be present at any and all appearances, including any hearing scheduled by the Court. I understand that if I fail to appear on any of the scheduled dates, either in person or by telephone, audio-visual means or other electronic means approved by this Court, this Court may hear the matter in my absence of [sic] may issue a warrant for my arrest.”\nThe use of electronic technology to facilitate participation by litigants in judicial proceedings locations remote from the courtroom has found acceptance in recent years, as technology has developed.\nOne recent example is a 2015 amendment of the Family Court Act which authorizes the implementation of a pilot program for the electronic filing of family offense petitions which permits a petitioner in a domestic violence case to appear electronically from a remote location to request that a temporary order of protection be issued (Family Ct Act § 153-c [b], as amended by L 2015, ch 367, § 1, eff Apr. 1, 2016). In criminal actions, the “electronic appearance” of a defendant is authorized in certain circumstances, not including a hearing or a trial, by Criminal Procedure Law § 182.20 (1) and 22 NYCRR 106.1 (see Preiser, Practice Commentaries, McKinney’s Cons Laws of NY, Book 11A, CPL 182.10 at 253 [2007 ed]).\nIn addition to ex parte appearances by a petitioner by electronic means at the preliminary stage of a family offense proceeding, the Family Court Act authorizes the taking of testimony “by telephone, audio-visual means or other electronic means” (see 22 NYCRR 205.44 [a]), in certain other proceedings, without regard to whether the hearing is a preliminary appearance or fact-finding hearing. The proceedings in which testimony by electronic means is specifically authorized are: (i) child support proceedings (Family Ct Act § 433 [c]); (ii) paternity proceedings (Family Ct Act § 531-a [a]); (iii) proceedings under the Uniform Interstate Family Support Act (Family Ct Act § 580-316 [f]); and (iv) interstate custody proceedings commenced under the Uniform Child Custody Jurisdiction and Enforcement Act (Domestic Relations Law § 75-j [2]).\nCivil litigants in this state generally have “a fundamental right, guaranteed by the due process clause of both the Federal and State Constitutions, to be present at every stage of [a] trial” (Matter of Raymond Dean L., 109 AD2d 87, 88 [1985]; see NY Const, art I, § 6; Carlisle v County of Nassau, 64 AD2d 15, 18 [1978], appeal dismissed 45 NY2d 965 [1978]; Lunney v Graham, 91 AD2d 592, 593 [1982]; Matter of Deborah J.B. v Jimmie Lee E., 31 AD3d 1146, 1149 [2006]).\nThe right to appear in a civil proceeding is not absolute (Matter of James Carton K., 245 AD2d 374, 377 [1997], lv denied 91 NY2d 809 [1998]; Matter of Elizabeth T., 3 AD3d 751, 753 [2004]; Matter of Lillian D.L., 29 AD3d 583, 584 [2006]; Matter of Eileen R. [Carmine S.], 79 AD3d 1482, 1482-1483 [2010]; Matter of Atreyu G. [Jana M.], 91 AD3d 1342 [2012], lv denied 19 NY3d 801 [2012]; Matter of Assatta N.P. [Nelson L.], 92 AD3d 945 [2012]; Matter of Kyanna T. [Winston R.], 99 AD3d 1011, 1014 [2012], lv denied 20 NY3d 856 [2013]), and a court may proceed in the absence of a litigant where there is “an express waiver or unusual circumstances” (Matter of Radjpaul v Patton, 145 AD2d 494, 497 [1988]; see Matter of Christina F., 74 NY2d 532, 534 [1989]; Lunney, 91 AD2d at 593; Matter of Jolene SS., 254 AD2d 581, 582 [1998]; Deborah J.B., 31 AD3d at 1149; Matter of Justin CC. [Tina CC.], 77 AD3d 207, 210-211 [2010]; Matter of Desirea F. [Angela F.], 137 AD3d 1519, 1520 [2016]).\nIn those instances where a litigant is involuntarily unable to appear due to illness or incarceration, and where there is no statute or regulation prescribing a specific procedure for the particular proceeding at issue, courts are vested with inherent power to adopt necessary procedures in order to accommodate the absent litigant’s participation in the litigation (see People v Wrotten, 14 NY3d 33 [2009], cert denied 560 US 959 [2010]; Matter of State of New York v Robert F., 25 NY3d 448, 453-454 [2015]; Matter of Eileen R. [Carmine S.], 79 AD3d 1482, 1483-1485 [2010]; Matter of Sonara HH. [Robert HH.], 128 AD3d 1122, 1123 [2015], lvs dismissed 25 NY3d 1220, 1221 [2015]).\nHowever, the same is not true where a litigant has voluntarily absented himself or herself from the proceedings by leaving the territorial jurisdiction of the state. In the absence of a statutory provision authorizing a voluntarily absent litigant to testify electronically from a remote location, courts are not obligated to permit such testimony because, most notably, the ability of a court to determine the credibility of a witness who testifies by telephone would be compromised (Matter of Neamiah Harry-Ray M. [Donna Marie M.], 127 AD3d 409, 410 [2015]).\nHere, the respondent, who is also a cross-petitioner by virtue of having filed a counterclaim, voluntarily departed New York and is not restrained in his liberty or incapacitated and unable to appear in these proceedings. This court has considered the several grounds advanced in support of respondent’s request to defend against his wife’s family offense petition and to prosecute his own family offense petition by telephone. The grounds asserted by the respondent are essentially self-serving and unsubstantiated by any documentation, and they do not justify any alteration of normal trial procedure in these cases.\nHaving departed New York without any apparent necessity after allegedly committing the acts set forth in the family offense petition, and in declining to return after admittedly being served with process by the Sheriff in Clark County, Nevada, the respondent has voluntarily placed himself beyond the jurisdiction of this court. At the same time, respondent has affirmatively invoked the jurisdiction of the Family Court by filing a counterclaim against his wife, and in requesting relief on his behalf (see Family Ct Act § 154-c [3]).\nAside from the impact that the proposed telephonic testimony will have upon the fact-finding process, respondent’s absence will render the court practically unable to enforce or ensure compliance with any orders, mandates (e.g. Family Ct Act § 251), or conditions which may be issued in connection with either the petition or respondent’s cross-petition.\nThe commencement of a family offense proceeding by the petitioner and the service of the summons and petition upon the respondent constitute a directive that respondent personally appear before this court to respond to the petition. These legal documents were most certainly not an invitation for the respondent to remain in a distant state, beyond the jurisdiction of the Family Court.\nWhile any final order of protection issued by this court would be subject to enforcement throughout the United States under the provisions of the federal Violence Against Women Act (18 USC § 2265 [a]; e.g. Commonwealth v Shea, 467 Mass 788, 791, 7 NE3d 1028, 1031 [2014]; State v Esquivel, 132 Wash App 316, 322, 132 P3d 751, 754 [2006]), the enforcement of foreign protective orders is limited to orders issued after “reasonable notice and [the] opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person’s right to due process” (18 USC § 2265 [b] [2]; see Matter of Daniel W. v Kimberly W., 135 AD3d 1000, 1002 [2016]).\nUnder the circumstances here, where the respondent is not involuntarily confined or unable to appear in court, there is no valid reason for this court to issue an order of protection that could be subject to collateral attack on due process grounds in the event that the protected party seeks to enforce the order in another jurisdiction.\nIn the absence of an established inability to appear or genuine necessity, respondent’s voluntary departure and continued absence from New York disentitles him to request that the court devise a special procedure by which he may remotely defend against his wife’s family offense petition and prosecute his own cross-petition (see Degen v United States, 517 US 820, 824 [1996]; Matter of Skiff-Murray v Murray, 305 AD2d 751, 753 [2003]; Wechsler v Wechsler, 45 AD3d 470, 472 [2007]; Matter of Christie S. v Marqueo S., 106 AD3d 592, 592-593 [2013]; Matter of Allain v Oriola-Allain, 123 AD3d 138, 142 [2014]; Matter of Fauconier v Fauconier, 139 AD3d 850, 851 [2016]).\nFinally, respondent’s voluntary departure from New York and his expressed intention not to return in order to participate in these proceedings may ultimately result in dismissal of the cross-petition he filed from Nevada, as a litigant who places himself beyond the jurisdiction of the court may not invoke the court’s jurisdiction to obtain affirmative relief (Matter of Shehatou v Louka, 118 AD3d 1357, 1358 [2014]).\nAccordingly, it is hereby ordered, that respondent’s application to appear and testify by telephone in the family offense proceedings commenced by both parties, is denied for the reasons indicated.\n. The attorney is presumably licensed to practice law in the state where the office is located, but he does not appear to be admitted to practice in New York.\n. Instead of having service of the summons, petition and temporary-order of protection effected by the sheriff or other law enforcement officer, the petitioner appears to have advised the court attorney-referee that she would arrange for service of the papers upon the respondent (Family Ct Act § 153-b [c]). The court notes that a “Domestic Violence Pedigree Sheet” completed by the petitioner states that respondent might be staying at an address in Berkeley, California or at an address in Las Vegas, Nevada.\n. Family Court Act § 154-b provides, in pertinent part, that\n“the respondent may file with the court an answer to the petition and a counter-claim. A counter-claim shall be heard in the same manner as a petition and may be heard on the return date of the petition . . . [t]he petitioner may . . . serve a reply to the counter-claim. A denial of the allegations of the counter-claim shall be presumed if the petitioner does not file and serve [an answer]” (Family Ct Act § 154-b [1]).",
+        "type": "majority",
+        "author": "John M. Hunt, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Allen S., respondent pro se.",
+      "Melissa S., petitioner pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[42 NYS3d 580]\nIn the Matter of Melissa S., Petitioner, v Allen S., Respondent.\nFamily Court, Queens County,\nNovember 30, 2016\nAPPEARANCES OF COUNSEL\nAllen S., respondent pro se.\nMelissa S., petitioner pro se."
+  },
+  "file_name": "2568-01",
+  "first_page_order": 672,
+  "last_page_order": 678
+}

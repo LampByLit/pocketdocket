@@ -1,0 +1,687 @@
+{
+  "id": 6788298,
+  "name": "National Union Fire Insurance Company of Pittsburgh, Pennsylvania, et al., Plaintiffs, v. TransCanada Energy USA, Inc., et al., Defendants; TC Ravenswood, LLC, Plaintiff, v. National Union Fire Insurance Company of Pittsburgh, Pennsylvania, Also Known as AIG, Now Known as Chartis, et al., Defendants",
+  "name_abbreviation": "National Union Fire Insurance v. TransCanada Energy USA, Inc.",
+  "decision_date": "2016-03-02",
+  "docket_number": "Action No. 1; Action No. 2",
+  "first_page": "455",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 455"
+    },
+    {
+      "type": "parallel",
+      "cite": "28 N.Y.S.3d 800"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "102 AD3d 645",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3704791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0645-01"
+      ]
+    },
+    {
+      "cite": "196 SW3d 761",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        8409463
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/196/0761-01"
+      ]
+    },
+    {
+      "cite": "2014 US Dist LEXIS 35461",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*31"
+        },
+        {
+          "page": "*34"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 1017606",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*12"
+        },
+        {
+          "page": "*13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 NY3d 728",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4293436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0728-01"
+      ]
+    },
+    {
+      "cite": "976 F2d 145",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11287672
+      ],
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/976/0145-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 243",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3967296,
+        3961629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/0243-01",
+        "/ad3d/37/0243-02"
+      ]
+    },
+    {
+      "cite": "489 F Supp 2d 326",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        5466504
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/489/0326-01"
+      ]
+    },
+    {
+      "cite": "6 AD3d 300",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        70779,
+        70813
+      ],
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/6/0300-01",
+        "/ad3d/6/0300-02"
+      ]
+    },
+    {
+      "cite": "23 F3d 617",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10510214
+      ],
+      "pin_cites": [
+        {
+          "page": "625-626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/23/0617-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 575",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4001684
+      ],
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/0575-01"
+      ]
+    },
+    {
+      "cite": "69 F Supp 3d 302",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4197579
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/69/0302-01"
+      ]
+    },
+    {
+      "cite": "147 AD2d 423",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3579646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/147/0423-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 371",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215710
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0371-01"
+      ]
+    },
+    {
+      "cite": "229 AD2d 515",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        264543
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/229/0515-01"
+      ]
+    },
+    {
+      "cite": "128 AD2d 332",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3513825
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/128/0332-01"
+      ]
+    },
+    {
+      "cite": "19 AD3d 652",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        612016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/19/0652-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 76",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4100328
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0076-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 640",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4427118
+      ],
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0640-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 695",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3485125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0695-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 688",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004825
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0688-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282434
+      ],
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0208-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 321",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4438697
+      ],
+      "pin_cites": [
+        {
+          "page": "326-327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0321-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 347",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4440146
+      ],
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0347-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 704",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752434
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "708"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/0704-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 239",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3999120
+      ],
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0239-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 351",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339088
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0351-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 126",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3967128
+      ],
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/0126-01"
+      ]
+    },
+    {
+      "cite": "67 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3955941
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "14"
+        },
+        {
+          "page": "13-14"
+        },
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/67/0001-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 675",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4320437
+      ],
+      "pin_cites": [
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0675-01"
+      ]
+    },
+    {
+      "cite": "235 AD2d 192",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1227412
+      ],
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/235/0192-01"
+      ]
+    },
+    {
+      "cite": "241 AD2d 418",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1534738
+      ],
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/241/0418-01"
+      ]
+    },
+    {
+      "cite": "200 AD2d 472",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1157970
+      ],
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/200/0472-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "27 AD3d 224",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2878410
+      ],
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/0224-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 982",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431081
+      ],
+      "pin_cites": [
+        {
+          "page": "985"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0982-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 851",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4398011
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0851-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 1062",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4430115
+      ],
+      "pin_cites": [
+        {
+          "page": "1062"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/1062-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1250,
+    "char_count": 34591,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18248361197892232
+    },
+    "sha256": "c3e4a58654aa8b73992497f367cf64504d7731cf05beeccf924c0f5827b87457",
+    "simhash": "1:3ee7e3b7834ffc1a",
+    "word_count": 5643
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "National Union Fire Insurance Company of Pittsburgh, Pennsylvania, et al., Plaintiffs, v TransCanada Energy USA, Inc., et al., Defendants. TC Ravenswood, LLC, Plaintiff, v National Union Fire Insurance Company of Pittsburgh, Pennsylvania, Also Known as AIG, Now Known as Chartis, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nBarbara Jaffe, J.\nBetween August 29, 2008 and September 12, 2008, excessive vibrations emanated from unit 30 of the Ravenswood Generating Station (facility) in Long Island City, reaching a level that resulted in a breakdown, and requiring that the unit be shut down. These actions arise from that breakdown.\nI. Background\nOn August 26, 2008, TransCanada Energy USA, Inc., a major energy company with control of nearly $54 billion in energy-related assets, including the Keystone XL Pipeline, acquired the Ravenswood facility, a power plant consisting of 21 units that utilize steam turbine, combined cycle, and combustion turbine technology to generate electricity for the New York metropolitan area. On September 12, 2008, due to the excessive vibrations, unit 30 was taken out of service and repairs ensued. On September 16, 2008, a crack in the unit’s rotor was discovered. The unit was placed back into service on May 18, 2009. (Action No. 1, NY St Cts Elec Filing [NYSCEF] Doc No. 548 at 687002, 687008.)\nTC Ravenswood, LLC, TransCanada’s subsidiary that operates the facility, seeks coverage in action No. 2 under a first-party property insurance contract, as pertinent here, for lost sales of capacity in excess of $48 million, resulting when unit 30 was out of service for more than eight months following the breakdown. In action No. 1, Factory Mutual Insurance Company, National Union Fire Insurance Company of Pittsburgh, Pennsylvania, ACE INA Insurance and Arch Insurance Company (collectively, the insurers) seek a declaratory judgment that no such coverage exists.\nIn motion sequence No. 20 in action No. 1, and motion sequence No. 34 in action No. 2, TransCanada Energy USA, Inc., TC Ravenswood Services, Corp. and TC Ravenswood, LLC (collectively, TransCanada) move, pursuant to CPLR 3212, for an order granting them partial summary judgment declaring that: (1) the “all risks” property insurance policy (the policy) it purchased to insure against property damage and business interruption losses covers the September 12, 2008 breakdown; (2) the “capacity payments” policy exclusion does not apply to its loss; and (3) the “period of liability” policy provision does not cut off the measurement of its business interruption loss that resulted from the unit being out of service between September 12, 2008 and May 18, 2009.\nIn motion sequence No. 21 in action No. 1, and in motion sequence Nos. 35 and 36 in action No. 2, the insurers jointly move for an order granting them partial summary judgment declaring that TransCanada’s claim for loss of capacity sales after May 18, 2009 is not covered by the policy, and dismissing TransCanada’s complaint to the extent it seeks coverage for such loss.\nAll five motions are consolidated for disposition.\nII. Relevant Facts\nElectricity generation is regulated by the Federal Regulatory Commission, and administered in New York by the New York Independent System Operator (NYISO), which pays service providers for generating electricity and for being available to generate electricity. Unit 30 generates approximately 39% of the facility’s capacity, and over 50% of the revenue attributable to unit 30 is capacity revenue received from the NYISO. The unit’s capacity to produce electricity is determined by seasonal tests that measure the production level attained during the test and determine the capacity TransCanada is able to sell. (NYSCEF Doc No. 557.)\nThe facility’s capacity to produce electricity is sold to utilities at auctions conducted by the NYISO. {Id. at 687010; NYSCEF Doc No. 550.) The amount that TransCanada receives from the auction is determined by the auction price and amount of capacity sold. {Id. at 2770.) TransCanada’s claim for lost capacity sales is based on capacity sales in NYISO’s monthly spot auctions (NYSCEF Doc No. 552), and TransCanada does not receive capacity payments for capacity sold at auction until the sale occurs (NYSCEF Doc Nos. 548, 553, 554).\nA. The Insurance Policy\nTransCanada maintains its own insurance risk department, and as part of its effort to acquire the facility, it retained Marsh Canada to negotiate and procure insurance policies for the facility. On August 26, 2008, TransCanada simultaneously purchased both the policy, and, via stock acquisition, the facility. (NYSCEF Doc Nos. 543, 544.)\nThe policy is a first-party property and combined business interruption insurance policy, by which the property is insured against all risks of physical loss or damage (NYSCEF Doc No. 545 § A [5]), and against TransCanada’s losses of “gross earnings” arising from the interruption of business activities, including mechanical breakdown {id.; see also § B [5] [mechanical breakdown not excluded]). Coverage ran from August 26, 2008 to June 1, 2009. {Id. § A [2].)\nAn “occurrence” is defined as the “sum total of all loss or damage of the type insured, including any insured Time Element loss, arising out of or caused by one discrete event of physical loss or damages,” excluding certain types of events not pertinent here. {Id. § A [7].)\nThe relevant portions of the policy provide as follows:\n“1. LOSS INSURED\n“A. This Policy insures TIME ELEMENT loss, as provided in the TIME ELEMENT COVERAGES, directly resulting from physical loss or damage of the type insured by this Policy: . . .\n“5) during the Periods of Liability described in this section. . . .\n“2. TIME ELEMENT COVERAGES “A. GROSS EARNINGS “1) Measurement of Loss:\n“a) The recoverable GROSS EARNINGS loss is the Actual Loss Sustained by the Insured of the following during the PERIOD OF LIABILITY:\n“(i) Gross Earnings;\n“(ii) less all charges and expenses that do not necessarily continue during the interruption of production or suspension of business operations or services;\n“(in) plus all other earnings derived from the operation of the business.” {Id. § C [1] [A]; [2] [A] [1].)\n“Gross earnings” is defined for non-manufacturing operations as “the total net sales less cost of merchandise sold, materials and supplies consumed in the operations or services rendered by the Insured.” (Id. § C [2] [A] [2] [b].)\nCoverage for business interruption begins and ends as follows:\n“A. The PERIOD OF LIABILITY applying to all TIME ELEMENT COVERAGES ... is as follows:\n“1) For building and equipment, the period:\n“a) starting from the time of physical loss or damage of the type insured against; and\n“b) ending with due diligence and dispatch the building and equipment could be:\n“(i) repaired or replaced; and\n“(ii) made ready for operations,\n“under the same or equivalent physical and operating conditions that existed prior to the damage.”\n(Id. § C [4] [A].)\nThe policy also contains a capacity payments exclusion, whereby coverage of “[a]ny increase in loss due to retroactive or future changes in the Capacity Payments or Bonus Pay-merits that were in effect at the time of loss, resulting from a loss insured by this policy, other than during the actual period of interruption,” is excluded. (Id. § C [5] [C].) “Capacity payments” are “payments that become payable to the Insured in return for attaining or exceeding certain production levels.” (Id. § C [5] [a].)\nAn endorsement to the policy addresses the special nature of the contract and the rules governing its application: “This policy is written on a form bargained for, reviewed, and accepted by the Insured, the Insured’s broker, and the Subscribing Companies. No liability or burden will be assigned or assumed by the drafting of the form. Policy construction or interpretation will not be presumed to favor any party.” (NYSCEF Doc No. 545 at 6883.)\nB. Procedural Background\nOn September 16, 2008, TransCanada sent a notice of loss to the insurers, setting forth a gross earnings claim for business interruption losses consisting almost entirely of lost capacity payments from a loss of capacity sales. (NYSCEF Doc No. 548.) The insurers then began an investigation.\nOn June 2, 2010, the insurers filed an action seeking a declaratory judgment against TransCanada. (Action No. 1.) On July 23, 2010, TransCanada filed its own action against the insurers seeking coverage under the policy. (Action No. 2.)\nIII. Discussion\n“ ‘[T]he proponent of a summary judgment motion must make a prima facie showing of entitlement to judgment as a matter of law, tendering sufficient evidence to demonstrate the absence of any material issues of fact.’ ” (Ayotte v Gervasio, 81 NY2d 1062, 1062 [1993] [citation omitted]; Winegrad v New York Univ. Med. Ctr., 64 NY2d 851 [1985].) “Failure to make such showing requires denial of the motion, regardless of the sufficiency of the opposing papers.” (Winegrad, 64 NY2d at 853; see also Lesocovich v 180 Madison Ave. Corp., 81 NY2d 982, 985 [1993].)\nOnce the proponent’s prima facie burden is satisfied, the opposing party bears the burden of presenting evidentiary facts sufficient to raise triable issues of fact. (Zuckerman v City of New York, 49 NY2d 557, 562 [1980]; CitiFinancial Co. [DE] v McKinney, 27 AD3d 224, 226 [1st Dept 2006].) Summary judgment may be granted only when it is clear that no triable issues of fact exist (Alvarez v Prospect Hosp., 68 NY2d 320, 324 [1986]), and “should not be granted where there is any doubt as to the existence of a triable issue” of fact (American Home Assur. Co. v Amerford Intl. Corp., 200 AD2d 472, 473 [1st Dept 1994]; see also Color by Pergament v Pergament, 241 AD2d 418, 420 [1st Dept 1997] [“Summary judgment is an exercise in issue-finding, not issue-determination, and may not be granted when material and triable issues of fact are presented”]). The court must examine the evidence in a light most favorable to the party opposing the motion. (Martin v Briggs, 235 AD2d 192, 196 [1st Dept 1997].)\n“An insurance agreement is subject to principles of contract interpretation.” (Universal Am. Corp. v National Union Fire Ins. Co. of Pittsburgh, Pa., 25 NY3d 675, 680 [2015].) “As with the construction of contracts generally, ‘unambiguous provisions of an insurance contract must be given their plain and ordinary meaning, and the interpretation of such provisions is a question of law for the court.’ ” (Id. [citations omitted]; Slattery Skanska Inc. v American Home Assur. Co., 67 AD3d 1, 14 [1st Dept 2009].)\n“[Contracts of insurance are ‘to be interpreted so as to give effect to the intention of the parties as expressed in the unequivocal language employed.’ The best evidence of what the parties to an agreement intended is the language of the agreement itself, especially where, as here, the parties to the insurance policy were sophisticated commercial entities.” (Slattery Skanska Inc. v American Home Assur. Co., 67 AD3d 1, 13-14 [1st Dept 2009] [citations omitted]; Broad St., LLC v Gulf Ins. Co., 37 AD3d 126, 130 [1st Dept 2006].)\nThe key inquiry when interpreting a contract is whether the contract is unambiguous with respect to the question disputed by the parties. (Breed v Insurance Co. of N. Am., 46 NY2d 351, 355 [1978].) “Whether a contractual term is ambiguous must be determined by looking within the four corners of the document and not to extrinsic sources.” (Slattery Skanska Inc., 67 AD3d at 14.) “Ambiguity in a contract arises when the contract, read as a whole, fails to disclose its purpose and the parties’ intent” (Ellington v EMI Music, Inc., 24 NY3d 239, 244 [2014]), or where its terms are subject to more than one reasonable interpretation (Dean v Tower Ins. Co. of N.Y., 19 NY3d 704, 708 [2012]).\nHowever, “provisions in a contract are not ambiguous merely because the parties interpret them differently.” (Mount Vernon Fire Ins. Co. v Creative Hous., 88 NY2d 347, 352 [1996].) Rather, “the test to determine whether an insurance contract is ambiguous focuses on the reasonable expectations of the average insured upon reading the policy and employing common speech.” (Matter of Mostow v State Farm Ins. Cos., 88 NY2d 321, 326-327 [1996] [citations omitted].)\nAlthough ambiguities in an insurance policy are construed usually against the policy’s drafter, the insurer (Dean v Tower Ins. Co. of N.Y., 19 NY3d 704 [2012]), here, the language in the policy bars such construction.\n“Generally, it is for the insured to establish coverage and for the insurer to prove that an exclusion in the policy applies to defeat coverage” (Consolidated Edison Co. of N.Y. v Allstate Ins. Co., 98 NY2d 208, 218 [2002]; see also Platek v Town of Hamburg, 24 NY3d 688 [2015] [although insurer has burden of proving applicability of exclusion, insured has burden to establish existence of coverage]). Even where an insurance policy covers “all risks,” the insured must prove that a loss occurred and that the loss is covered. (United States Dredging Corp. v Lexington Ins. Co., 99 AD3d 695 [2d Dept 2012].)\nThe insurer bears the burden of proving that the exclusion: (1) “is stated in clear and unmistakable language”; (2) “is subject to no other reasonable interpretation”; and (3) “applies in the particular case.” (Continental Cas. Co. v Rapid-American Corp., 80 NY2d 640, 652 [1993]; J.P. Morgan Sec. Inc. v Vigilant Ins. Co., 126 AD3d 76 [1st Dept 2015].)\nA. Whether the Policy Covers Losses Arising from the Mechanical Breakdown of Unit 30 (TransCanada’s Motion)\nTransCanada argues that the September 12, 2008 breakdown is covered because: (1) the policy covers “all risks”; (2) unit 30 was operating properly on August 26, 2008; (3) the breakdown of unit 30 occurred after August 26 when it purchased the facility and the start of the policy period; (4) unit 30 was generating electricity between August 26 and September 12, the date of the breakdown; and (5) the crack that was found in the rotor of unit 30 on September 16, 2008 had expanded during the policy period, and caused the breakdown of unit 30 during the policy period. (NYSCEF Doc No. 451.)\nIt contends that the following facts are undisputed: there was a “mechanical breakdown,” that the breakdown occurred after the policy took effect, that the breakdown was caused by the crack that expanded and caused property damage during the policy period, and that the breakdown constituted an event of physical loss or damage. TransCanada asserts that, as a result of the breakdown, it suffered property damage in the amount of $7,023,882, and a loss of gross earnings in the amount of $50,835,096, and seeks these amounts, subject to any applicable deductible, as damages resulting from the breakdown. It also claims that its business interruption loss is comprised of the following losses: $609,683 energy revenue, $1,429,833 ancillary revenue, and $48,795,580 in capacity revenue losses. (Id.)\nThe insurers deny coverage on the ground that TransCana-da’s loss or damage during the policy period was caused by the crack that formed before the policy commenced, thereby barring coverage. It denies that it is relevant whether the unit suffered a “mechanical breakdown” during the policy period, and observes that the policy does not contain or define the term “mechanical breakdown.” (NYSCEF Doc No. 564.)\nIn reply, TransCanada reiterates its arguments. (NYSCEF Doc No. 637.)\nThe policy here insures against “all risks of physical loss or damage” to the property occurring during the policy period, without regard to the date or time of the incident giving rise to the loss or damage. It is undisputed that TransCanada’s property sustained a physical loss or damage when the policy was in effect, and that there is no provision in the policy that excludes physical loss or damage originating before the commencement of the policy period, or any requirement that the cause of the loss or damage occur during the policy period, or even any provision linking coverage to the cause of the loss or damage.\nDirectly on point is Labate v Liberty Mut. Fire Ins. Co. (19 AD3d 652 [2d Dept 2005]). There, the insureds sought a declaration that their property loss was covered under a provision covering any occurrence that results, during the policy period, in property damage, whereas the insurer argued that the occurrence at issue was not covered because some of the damage was sustained before the policy period had commenced. The Court found that as it was alleged that some of the damage was sustained during the policy period, “it is immaterial whether the causative event happened during or before the policy period.” (Id. at 654.) Rather, the Court held that because the governing provision contained no basis for finding that the timing of the cause of the damage was relevant, coverage was based “exclusively” on the fact that the specified property damage was sustained during the policy period. (Id. at 653-654, quoting National Cas. Ins. Co. v City of Mount Vernon, 128 AD2d 332 [2d Dept 1987].)\nTransCanada has thus established, prima facie, that the policy covers its loss and damages for the breakdown of unit 30. (See National Cas. Ins. Co., 128 AD2d at 337 [where nonparty alleged that injury was sustained during policy period but precipitating event predated coverage, coverage found as it did not depend on date of event which caused injuries; “the operative event triggering exposure, and thus resulting in coverage under the policy, is the sustaining of a specified injury during the policy period”]; see also General Acc. Ins. Co. of Am. v IDBAR Realty Corp., 229 AD2d 515 [2d Dept 1996] [insurer failed to establish that coverage did not exist where part of injury may have occurred before effective dates of policies]; United States Liab. Ins. Co. v Farley, 215 AD2d 371 [2d Dept 1995] [even if nonparties suffered injuries prior to policy inception, insurer failed to show that they did not suffer additional injuries during policy period]; Levine v Lumbermen’s Mut. Cas. Co., 147 AD2d 423 [1st Dept 1989] [policy did not require any error or omission by insured to take place entirely during policy period; it was sufficient that at least some of covered acts occur during policy period]; see also Hanover Ins. Co. v Vermont Mut. Ins. Co., 69 F Supp 3d 302 [ND NY 2014] [event triggering coverage is not source of injury but injury itself].)\nGiven this authority, it is irrevelant that the crack formed before the policy period. And while the insurers focus on the term “mechanical breakdown,” TransCanada uses that term only to describe the incident giving rise to the loss, and does not rely on the term to argue that coverage exists. Consequently, the insurers’ expert reports need not be addressed.\nMoreover, as it is undisputed that the unit was functioning properly until September 12, 2008, despite the crack’s preexistence, and that it did not break down until it experienced the excessive vibrations that day, there is no merit to the insurers’ argument that the crack caused no damage beyond that incurred before the policy’s commencement. Even if the crack required repair before then, it caused no damage until September 12.\nThe insurers’ reliance on the so-called “injury-in-fact” test, whereby coverage depends on “when the injury, sickness, disease or disability actually began” and “requires the insured to demonstrate actual damage or injury during the policy period” (e.g. Downey v 10 Realty Co., LLC, 78 AD3d 575, 576 [1st Dept 2010]), is misplaced as TransCanada does not argue that discovery of the crack during the policy period triggered coverage; rather, it argues that because the loss was incurred during the policy period, it is covered.\nIn any event, the authority cited by the insurers supports TransCanada’s position here. In Maryland Cas. Co. v W.R. Grace & Co. (23 F3d 617, 625-626 [2d Cir 1993], amended May 16, 1994), the court found that the policy at issue required that the injury “result during the policy period, but it need not be discovered during that time,” and concluded that “coverage is triggered upon the existence of property damage independent of its discovery.” Thus, it is irrevelant here whether the crack existed or could have been discovered before the policy commenced.\nAs the dispositive issue is not whether the event causing the loss or damage occurred during the policy period, but whether there was physical loss or damage during the policy period, the insurers fail to raise an issue of fact as to whether TransCana-da’s loss is covered under the policy.\nB. Whether the Policy Covers Loss of Capacity Payments (Both Motions)\nAs there is no dispute that unit 30 was returned to service on May 18, 2009, and that most of TransCanada’s approximately $48 million claimed loss of capacity sales were only realized at auctions of capacity held after May 18, 2009, the insurers argue that the lost capacity sales are not covered as a matter of law because they were incurred after the period of liability ended. (NYSCEF Doc No. 533.)\nAccording to TransCanada, the period of liability provision does not exclude from coverage the business interruption losses that resulted from unit 30 being out of service between September 12, 2008 and May 18, 2009, arguing that because capacity revenues are calculated and paid at subsequent auctions, the total amount of its loss includes decreased capacity revenues resulting from the forced outage while unit 30 was being repaired which were earned or sustained during the period of liability, even though not paid until the auctions were held. (NYSCEF Doc No. 619.)\nTransCanada also denies that the exclusion for capacity payments applies to its loss because it receives no capacity payments or bonus payments, as those terms are defined in the policy, and that any capacity revenue that it received for unit 30’s availability to generate electricity is determined by the rules of the NYISO. (Id.)\n1, Period of Liability Provision\nThe insurers argue that the period of liability provision unambiguously limits coverage for TransCanada’s loss of capacity sales to the period between September 12, 2008 and May 18, 2009, as coverage is limited to the actual loss sustained during the period of liability, which begins when the damage occurs, and ends when the damaged property is placed back in operation. As unit 30 was repaired and placed back in operation on May 18, 2009, they maintain that any lost capacity sold after May 18, 2009 is not covered. (NYSCEF Doc No. 533.)\nIn opposition, TransCanada argues that it is entitled to coverage for sales made outside of the period of liability, because the NYISO uses a rolling average and capacity periods in calculating the amount of capacity sales, and that as the capacity produced during the period of liability was not sold at auction until after the end of the period of liability, the lost capacity sales are directly attributable to and result from the damage at issue. (NYSCEF Doc No. 619.)\n“ ‘The purpose of business interruption insurance is to indemnify the insured against losses arising from inability to continue normal business operation and functions due to the damage sustained as a result of the hazard insured against.’ ” (Cytopath Biopsy Lab. v United States Fid. & Guar. Co., 6 AD3d 300, 301 [1st Dept 2004] [citation omitted].) “[B]usiness interruption losses experienced by the insured beyond the time needed to physically restore the destroyed or damaged property are not recoverable.” (44 Am Jur 2d, Insurance § 1549; see also Retail Brand Alliance, Inc. v Factory Mut. Ins. Co., 489 F Supp 2d 326 [SD NY 2007]; Children’s Place Retail Stores, Inc. v Federal Ins. Co., 37 AD3d 243 [1st Dept 2007].)\nAnother purpose of business interruption insurance is to “return to the insured that amount of profit that would have been earned during the period of interruption had a casualty not occurred” (Pennbarr Corp. v Insurance Co. of N. Am., 976 F2d 145, 154 [3d Cir 1992]), or to “compensate an insured for losses stemming from an interruption of normal business operations . . . thus preserving the continuity of the insured’s business earnings by placing the insured in the position that it would have occupied if there had been no interruption” (Voss v Netherlands Ins. Co., 22 NY3d 728, 731 n 1 [2014], quoting 11 Steven Plitt et al., Couch on Insurance 3d § 167:9).\nHere, the pertinent inquiry is whether the insurers have sustained their burden of proving that TransCanada’s loss of capacity of sales after May 18, 2009 does not constitute an actual loss sustained during the period of liability and is thus not covered.\nIn Nonpareil Corp. v Hartford Cas. Ins. Co. (2014 WL 1017606, 2014 US Dist LEXIS 35461 [D Idaho, Mar. 17, 2014, No. 4:10-CV-00500-EJL]), the plaintiff company, which was engaged in the production of processed and unprocessed potatoes, suffered a breakdown of one of its boilers and sought business interruption insurance payments for expenses incurred due to the breakdown. The plaintiff bought or contracted to buy potatoes by November or December of each year, and then processed them over the following eight or nine months, at which time processing ended. When its boiler broke down, the plaintiff was unable to process all of the potatoes it intended to process, which affected its process capabilities. Having sold some potatoes at a loss because it could not timely process them, the plaintiff claimed as damages the difference between the price paid and sold for those potatoes. The court found that the difference in price was part of the plaintiff’s business interruption damages because although the potatoes were not sold until the boiler was back in operation, “the inability to process the potatoes was directly attributable to the boiler breakdown — stated another way, but for the boiler breakdown, [the plaintiff] would have been able to take delivery and process the contracted potatoes.” (2014 WL 1017606, *12, 2014 US Dist LEXIS 35461, *31.) The court also permitted the plaintiff to recoup payments it made to two other companies to settle their contractual obligations to deliver processed potatoes, finding that although the payments were made after the period of restoration of the boiler, “[b]ut for the failure of the boiler, [the plaintiff] would have had the production capacity to process” those potatoes as well, and would not have had to settle the contracts. (2014 WL 1017606, *13, 2014 US Dist LEXIS 35461, *34.)\nSimilarly, in Gates v State Auto. Mut. Ins. Co. (196 SW3d 761 [Tenn 2005]), the insured sought payment for business interruption losses sustained when a tornado damaged its building and forced it to close for several months; the restoration period at issue ended when the damage was fixed. The nature of its business was “rent to own” furniture contracts, whereby customers purchased furniture on installment. As damages, the insured sought the entire value of the sales contracts that would have been signed during its period of restoration, even though most of the payments under those contracts would have become due after the restoration period. The insurance company argued that because the policy provided that it would pay for the “actual loss” of business income sustained during the period of restoration, the insured was entitled only to the payments that would have been received during the restoration period. Thus, if a hypothetical purchaser, but for the tornado, would have bought an $1,800 bedroom suite during the restoration period at $100 per month for 18 months, the issue was whether the insured would be entitled to the value of the entire contract, or only $100 for each month during the restoration period. The court granted judgment for the insured, finding that the insurer’s interpretation of the term “actual loss of business income,” considered with the nature of the insured’s business, would defeat the purpose of business interruption insurance, which was to place the insured in the position it would have occupied had the interruption not occurred. (196 SW3d at 765.)\nHere, it is undisputed that between September 12, 2008 and May 18, 2009, as a result of the damaged unit, TransCanada was unable to generate any or the usual amount of electricity, and that when it sold those months of electricity capacity at auctions held after May 18, 2009, it did so at a decreased amount due to its decreased capacity. Thus, its loss, the decreased capacity, was not manifest or realized until the auctions were held. In other words, the loss at issue here is the decreased capacity sustained during the period of liability, even though the amount of the loss was not ascertained until after the period of liability when the auctions were held.\nMoreover, these losses directly resulted from covered physical loss or damage, and are neither speculative nor incapable of being linked directly to the period of liability at issue. Rather, TransCanada is able to connect its capacity to produce electricity on a monthly basis from September 12, 2008 and May 18, 2009 to a particular auction held after May 18, 2009 and can show the amount of electricity it was able or unable to sell at each auction based on the electricity it was able and unable to generate during each month within the period of liability.\nAs the purpose of a business interruption policy is to reimburse the insured for the amount of profit that it would have earned during the period of interruption had an injury not occurred and to place it in the position it would have occupied had the interruption not occurred, TransCanada has established, prima facie, that the policy covers its loss of capacity sales and the insurers have not demonstrated that TransCanada’s loss of capacity sales is not covered by the policy. Acceptance of the insurers’ interpretation of the policy would result in a windfall to them as they would not be obliged to pay TransCanada any amount for its business interruption despite it being undisputed that TransCanada’s business was interrupted for months, simply because TransCanada did not actually receive the decreased revenue until months after the repairs were made.\nIn light of this result, I need not consider TransCanada’s argument that the insurers had paid a similar claim in another case.\n2. Capacity Payments Exclusion\nThe insurers argue also that TransCanada’s claim for lost capacity sales is excluded as “capacity payments” under the policy, defined as those “that become payable to the Insured in return for attaining or exceeding certain production levels.” (NYSCEF Doc No. 533.)\nTransCanada denies that its capacity sales constitute capacity payments as defined in the policy, as it is paid on its actual production and not for attaining or exceeding certain production levels. In reply, the insurers argue that payments based on production levels are within the exclusion. (NYSCEF Doc No. 619.)\n“Capacity payments” are payments made to the insured “in return for attaining or exceeding certain production levels.” (NYSCEF Doc No. 533.) Conversely, if the certain production level is neither attained nor exceeded, the insured does not get paid.\nAs capacity payments are defined as those made when an insured attains or exceeds a certain production level, they cannot be interpreted as those made when an insured attains or exceeds any production level, as such an interpretation renders the term “certain” superfluous. And, if a certain production level need not be attained or exceeded, the policy should have provided that the payment would be made based on any production level for which the insured was paid; otherwise, the phrase “attaining or exceeding” the production levels would also be superfluous.\nIn light of the plain wording of the provision for capacity payments, and as it is undisputed that TransCanada gets paid based on its actual production capacity and not when it attains or exceeds any specific production level, the insurers have not sustained their burden of establishing that the capacity payments exclusion applies to bar coverage for TransCanada’s lost capacity sales. The insurers’ argument regarding the other exclusion relating to an increase in loss due to retroactive or future changes in the capacity is thus moot.\nAs the insurers fail to establish that these exclusions bar coverage for TransCanada’s lost capacity sales, TransCanada is entitled to partial summary judgment on these claims to the extent of declaring that its lost capacity sales are covered under the policy.\nTransCanada’s reliance on the affirmation of its attorney to introduce relevant evidence and documents is proper. (See Branch Servs., Inc. v Cooper, 102 AD3d 645 [2d Dept 2013]; see also 6B Carmody-Wait 2d § 39:95 [2015] [attorney’s affirmation may serve as vehicle for submission of documentary evidence on motion for summary judgment].)\nIV. Conclusion\nAccordingly, it is hereby ordered that the motions of TransCanada Energy USA, Inc., TC Ravenswood Services, Corp. and TC Ravenswood, LLC for partial summary judgment (motion sequence No. 20 in action No. 1, and motion sequence No. 34 in action No. 2) are granted; it is further ordered and declared that the policy at issue covers the September 12, 2008 breakdown of unit 30 at Ravenswood; it is further ordered and declared that the policy at issue covers TransCanada’s claim for loss of capacity sales after May 28, 2009; it is further ordered that the motions of Factory Mutual Insurance Company, National Union Fire Insurance Company of Pittsburgh, Pennsylvania, ACE INA Insurance and Arch Insurance Company for partial summary judgment declaring that TransCanada’s claim for loss of capacity sales after May 28, 2009 is not covered by the policy (motion sequence No. 21 in action No. 1, and motion sequence Nos. 35 and 36 in action No. 2) are denied; and is further ordered that the remainder of the action is continued.",
+        "type": "majority",
+        "author": "Barbara Jaffe, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Anderson Kill & Olick, P.C., New York City (John G. Nevius, John M. O’Connor and Kathleen Donovan of counsel), for defendants in action No. 1 and plaintiff in action No. 2.",
+      "Foran Glennon Palandech Ponzi & Rudloff PC, New York City (Charles J. Rocco, Malcolm J. Reilly and Mara Hsiung of counsel), for plaintiffs in action No. 1 and defendants in action No. 2.",
+      "Podvey Meanor Catenacci Hildner Cocoziello & Chattman, New York City {Henry J. Catenacci, H. Richard Chattman and Gregory D. Miller of counsel), for Factory Mutual Insurance Company, defendant in action No. 2."
+    ],
+    "corrections": "",
+    "head_matter": "[28 NYS3d 800]\nNational Union Fire Insurance Company of Pittsburgh, Pennsylvania, et al., Plaintiffs, v TransCanada Energy USA, Inc., et al., Defendants. TC Ravenswood, LLC, Plaintiff, v National Union Fire Insurance Company of Pittsburgh, Pennsylvania, Also Known as AIG, Now Known as Chartis, et al., Defendants.\n(Action No. 1.)\n(Action No. 2.)\nSupreme Court, New York County,\nMarch 2, 2016\nAPPEARANCES OF COUNSEL\nAnderson Kill & Olick, P.C., New York City (John G. Nevius, John M. O’Connor and Kathleen Donovan of counsel), for defendants in action No. 1 and plaintiff in action No. 2.\nForan Glennon Palandech Ponzi & Rudloff PC, New York City (Charles J. Rocco, Malcolm J. Reilly and Mara Hsiung of counsel), for plaintiffs in action No. 1 and defendants in action No. 2.\nPodvey Meanor Catenacci Hildner Cocoziello & Chattman, New York City {Henry J. Catenacci, H. Richard Chattman and Gregory D. Miller of counsel), for Factory Mutual Insurance Company, defendant in action No. 2."
+  },
+  "file_name": "2309-01",
+  "first_page_order": 447,
+  "last_page_order": 462
+}

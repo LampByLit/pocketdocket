@@ -1,0 +1,107 @@
+{
+  "id": 12298919,
+  "name": "In the Matter of the Estate of Ricardo Alberto Serrano, Deceased",
+  "name_abbreviation": "In re the Estate of Serrano",
+  "decision_date": "2017-06-14",
+  "docket_number": "",
+  "first_page": "497",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 497"
+    },
+    {
+      "type": "parallel",
+      "cite": "54 N.Y.S.3d 564"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "New York Cty. Sur. Ct.",
+    "id": 23033,
+    "name": "New York County Surrogate's Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C.A. §§ 2701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Geo Wash L Rev 1208",
+      "category": "journals:journal",
+      "reporter": "Geo. Wash. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 USC § 2711",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 USC § 2510",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 USC § 2701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 294,
+    "char_count": 4766,
+    "ocr_confidence": 0.733,
+    "sha256": "bcb213dc5488273a1e321008a2b7db4f725c80eee5384a6ae351012009e832dc",
+    "simhash": "1:e39705dda0c48de0",
+    "word_count": 739
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Estate of Ricardo Alberto Serrano, Deceased."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRita M. Mella, S.\nIn this small estate proceeding, petitioner has filed an amended affidavit under article 13 of the Surrogate’s Court Procedure Act, requesting authority to access his deceased spouse’s Google email, contacts and calendar information in order to “be able to inform friends of his passing” and “close any unfinished business etc.” Petitioner attaches to his amended affidavit a copy of an email from Google, responding to his request for this information, in which Google requests a court order specifying that, among other things, “disclosure of the content [of the requested electronic information] would not violate any applicable laws, including but not limited to the Electronic Communications Privacy Act and any state equivalent.”\nPursuant to recently enacted article 13-A of the Estates, Powers and Trusts Law—which was modeled after the Revised Uniform Fiduciary Access to Digital Assets Act (see Sponsor’s Mem, Bill Jacket, L 2016, ch 354)—the custodian of electronic records, here Google, “shall disclose” to the personal representative of the decedent’s estate a catalogue of electronic communications sent or received by a deceased user (other than the content of electronic communications) upon the custodian’s receipt from the representative of a written request for disclosure, a copy of the death certificate of the user, and a certified copy of the letter of appointment as fiduciary or a small-estate certificate (EPTL 13-A-3.2). To the extent that information about a user’s contacts is “information that identifies each person with which a user has had an electronic communication, the time and date of the communication, and the electronic address of the person,” it is considered a catalogue of electronic communication (EPTL 13-A-l [d]).\nInasmuch as there is no transfer of information between two or more parties when a calendar entry is made, a user’s calendar is not a “communication,” the disclosure of which by the custodian is prohibited by the Stored Communications Act (SCA) (18 USC § 2701 et seq. see 18 USC § 2510 [12] [defining “electronic communication” as “any transfer” of data by specific electronic means (emphasis added)]; 18 USC § 2711 [1]; see also Revised Uniform Fiduciary Access to Digital Assets Act § 2, Comment at 7 [2015] [describing “electronic communication” to include “email, text messages, instant messages, and any other electronic communication between private parties” (emphasis added)]). A deceased user’s calendar kept electronically is, thus, a digital asset that does not include “content of electronic communications,” and, therefore, must be disclosed to a personal representative by a custodian of such a record pursuant to EPTL 13-A-3.2.\nIt appears then that petitioner, acting as voluntary administrator, has the authority to request—and Google shall disclose—the contacts and calendar information associated with decedent’s Google account. Google has requested, presumably pursuant to EPTL 13-A-3.2 (d) (4), a finding by the court before any disclosure is made. The court hereby finds that petitioner has identified for Google, as custodian, the email address of an account belonging to decedent (EPTL 13-A-3.2 [d] [4] [A]). In the alternative, the court finds that disclosure here is “reasonably necessary for administration of the estate” (EPTL 13-A-3.2 [d] [4] [B]). As previously discussed, disclosure of the requested non-content information is permitted, if not mandated, by article 13-A of the EPTL and does not violate the ECPA. The court has issued today a certificate pursuant to SCPA 1304 (5) indicating petitioner’s authority as voluntary administrator to request the disclosure of such information.\nAuthority to request from Google disclosure of the content of the decedent’s email communications—to the extent petitioner requests such authority—is denied without prejudice to an application by the voluntary administrator, on notice to Google, establishing that disclosure of that electronic information is reasonably necessary for the administration of the estate (EPTL 13-A-3.1 [e] [3] [D]).\n. The same is true for entries made in a user’s contacts.\n. The SCA was enacted in 1986 as part of the Electronic Communications Privacy Act of 1986 (ECPA) (Orin S. Kerr, A User’s Guide to the Stored Communications Act, and a Legislator’s Guide to Amending It, 72 Geo Wash L Rev 1208 [Aug. 2004]; Claudia G. Catalano, Annotation, Unlawful Access to Stored Communications Pursuant to Stored Communications Act, 18 U.S.C.A. §§ 2701 et seq., 1 ALR Fed 3d 1 [2015]).",
+        "type": "majority",
+        "author": "Rita M. Mella, S."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Kenneth Haywood, petitioner pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[54 NYS3d 564]\nIn the Matter of the Estate of Ricardo Alberto Serrano, Deceased.\nSurrogate’s Court, New York County,\nJune 14, 2017\nAPPEARANCES OF COUNSEL\nKenneth Haywood, petitioner pro se."
+  },
+  "file_name": "2799-01",
+  "first_page_order": 497,
+  "last_page_order": 499
+}

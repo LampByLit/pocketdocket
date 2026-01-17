@@ -1,0 +1,508 @@
+{
+  "id": 4351454,
+  "name": "The People of the State of New York, Plaintiff, v. Jeffrey Liggins, Defendant",
+  "name_abbreviation": "People v. Liggins",
+  "decision_date": "2015-07-02",
+  "docket_number": "",
+  "first_page": "650",
+  "last_page": "661",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "114 AD2d 965",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3457126
+      ],
+      "pin_cites": [
+        {
+          "page": "965-966"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/114/0965-01"
+      ]
+    },
+    {
+      "cite": "30 AD3d 623",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3658419,
+        3647108
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "623-624"
+        },
+        {
+          "page": "623-624"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/30/0623-01",
+        "/ad3d/30/0623-02"
+      ]
+    },
+    {
+      "cite": "61 NY2d 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2345681
+      ],
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0009-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 1140",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4399672
+      ],
+      "pin_cites": [
+        {
+          "page": "1142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/1140-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 1070",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 AD3d 1281",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4242844
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/1281-01"
+      ]
+    },
+    {
+      "cite": "32 AD3d 1348",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        538153,
+        537593
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/32/1348-02",
+        "/ad3d/32/1348-01"
+      ]
+    },
+    {
+      "cite": "281 AD2d 564",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        98563,
+        98613
+      ],
+      "pin_cites": [
+        {
+          "page": "565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/281/0564-01",
+        "/ad2d/281/0564-02"
+      ]
+    },
+    {
+      "cite": "36 NY2d 230",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2317079
+      ],
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/36/0230-01"
+      ]
+    },
+    {
+      "cite": "124 AD2d 1064",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5696872
+      ],
+      "pin_cites": [
+        {
+          "page": "1064"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/124/1064-01"
+      ]
+    },
+    {
+      "cite": "32 NY2d 254",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2307634
+      ],
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/32/0254-01"
+      ]
+    },
+    {
+      "cite": "161 AD2d 115",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        995905
+      ],
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0115-01"
+      ]
+    },
+    {
+      "cite": "293 AD2d 555",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        955441,
+        955873
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/293/0555-02",
+        "/ad2d/293/0555-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 396",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2343248
+      ],
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0396-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 911",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2555081,
+        2558100,
+        2554765
+      ],
+      "pin_cites": [
+        {
+          "page": "912"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0911-02",
+        "/ny3d/7/0911-03",
+        "/ny3d/7/0911-01"
+      ]
+    },
+    {
+      "cite": "302 AD2d 602",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        729364
+      ],
+      "pin_cites": [
+        {
+          "page": "603"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/302/0602-01"
+      ]
+    },
+    {
+      "cite": "59 NY2d 294",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391794
+      ],
+      "pin_cites": [
+        {
+          "page": "299-300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0294-01"
+      ]
+    },
+    {
+      "cite": "182 AD2d 772",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1081272
+      ],
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/182/0772-01"
+      ]
+    },
+    {
+      "cite": "50 AD3d 816",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3524099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "817"
+        },
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/0816-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 780",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3996314
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "781"
+        },
+        {
+          "page": "781"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0780-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 896",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3709981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0896-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 1045",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3705587,
+        3705366
+      ],
+      "pin_cites": [
+        {
+          "page": "1046"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/1045-02",
+        "/ad3d/101/1045-01"
+      ]
+    },
+    {
+      "cite": "159 AD2d 356",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3614676
+      ],
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/159/0356-01"
+      ]
+    },
+    {
+      "cite": "176 AD2d 613",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1054912,
+        1055027
+      ],
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/176/0613-02",
+        "/ad2d/176/0613-01"
+      ]
+    },
+    {
+      "cite": "309 AD2d 808",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        581516
+      ],
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/309/0808-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 885,
+    "char_count": 24036,
+    "ocr_confidence": 0.735,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1480621070958191
+    },
+    "sha256": "d51acd0b46ab4d93ff36d26ccc6ff22e377533d69f0764f9f5217f57c65c879f",
+    "simhash": "1:ba76b60cb736ffe9",
+    "word_count": 3944
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jeffrey Liggins, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nWilliam M. Harrington, J.\nOn April 13, 2015, following a jury trial, the defendant, Jeffrey Liggins, was convicted of two counts of criminal sexual act in the second degree (Penal Law § 130.45 [1]) and four counts of sexual abuse in the second degree (Penal Law § 130.60 [2]).\nOn April 26, 2015, the defendant moved to set aside the verdict pursuant to CPL 330.30 (1), alleging that certain comments made by the prosecutor during summation were improper and denied the defendant his right to a fair trial. The People filed their response in opposition to the defendant’s motion on June 4, 2015.\nAdditionally, in court on April 29, 2015, and in written papers dated June 4, 2015, the People indicated their intention to have the defendant adjudicated a second child sexual assault felony offender, in accordance with CPL 400.19. The defense filed its response in opposition on June 26, 2015.\nFor the reasons stated below, the motion to set the verdict aside is denied.\nFurthermore, the court finds that the defendant may be subject to adjudication as a second child sexual assault felony offender.\nThe prosecutor’s remarks in summation did not deprive the defendant of a fair trial.\nThe defendant alleges that during the prosecutor’s summation she improperly vouched for the credibility of the complaining witness and shifted the burden of proof to the defendant, resulting in a denial of the defendant’s right to a fair trial and requiring the court to set aside the verdict. The court has considered the defendant’s arguments and finds them to be without merit.\nFirst, the prosecutor’s various comments relating to the complainant’s lack of motive to lie — specifically, wherein she stated “what did this sixteen year old boy [the complainant] gain from sitting on this witness stand and having to tell you, a bunch of strangers, that this defendant sexually assaulted him” — did not improperly vouch for the credibility of the complainant. Rather, the prosecutor’s posing of this rhetorical question to the jury fairly responded to the defense counsel’s attack on the complainant’s credibility. As such, it was within the broad bounds of comment permissible in closing arguments and constituted a fair response to arguments made by defense counsel in summation, as well as a fair comment on the evidence. (See People v Adamo, 309 AD2d 808, 810 [2d Dept 2003]; People v Swinson, 176 AD2d 613, 614 [1st Dept 1991]; People v Rodriguez, 159 AD2d 356, 357 [1st Dept 1990]; People v Kennedy, 101 AD3d 1045, 1046 [2d Dept 2012]; People v Cuba, 101 AD3d 896 [2d Dept 2012].)\nTo the extent that certain of the prosecutor’s isolated remarks may be said to have vouched for the credibility of the complainant, the court cured any error by immediately sustaining defense counsel’s objections and providing prompt curative instructions to the jury. (See People v Rayford, 80 AD3d 780, 781 [2d Dept 2011]; People v Alexander, 50 AD3d 816, 817 [2d Dept 2008]; People v DeFigueroa, 182 AD2d 772, 773 [2d Dept 1992].)\nIn addition, the court explained to the jury why the remarks were improper and instructed the jurors that they, not the prosecutor, must decide whether and to what extent the witnesses were credible. Furthermore, the court instructed the jury on numerous occasions that the statements made by either attorney in summation were not evidence, and that the jurors were the ultimate finders of the facts. These instructions, which the jury must be presumed to have followed, alleviated any potential prejudice to the defendant. (People v Berg, 59 NY2d 294, 299-300 [1983].)\nNext, the defendant claims that the prosecutor improperly shifted the burden of proof to the defendant by stating to the jury that “just because a case went to trial it doesn’t mean you are missing anything.” It is difficult to discern precisely the relevance or meaning of this cryptic comment, and for that reason defense counsel’s objection was sustained. To the extent that the comment could be interpreted as shifting the burden of proof to the defendant, the court repeatedly instructed the jury — in preliminary instructions before opening statements; at various points during the prosecutor’s closing argument; and in the final charge after the summations — that it was the People’s burden to prove beyond a reasonable doubt each and every one of the elements of the charged crimes. Any possible prejudice that resulted from the prosecutor’s comment was alleviated by these repeated instructions. (See People v Bayer, 302 AD2d 602, 603 [2d Dept 2003]; Rayford, 80 AD3d at 781; Alexander, 50 AD3d at 817; People v Romero, 7 NY3d 911, 912 [2006]; People v Galloway, 54 NY2d 396, 399 [1981].) Moreover, the prosecutor’s summation did not “demonstrate a persistent, egregious course of conduct that was deliberate and reprehensible” and therefore vacatur is not required. (See People v Svanberg, 293 AD2d 555, 555 [2d Dept 2002]; People v Rudolph, 161 AD2d 115, 116 [1st Dept 1990]; People v Brosnan, 32 NY2d 254, 262 [1973]; People v Banks, 124 AD2d 1064, 1064 [4th Dept 1986].)\nFinally, any error must be considered harmless in view of the overwhelming evidence of the defendant’s guilt. It was undisputed that, at the time of the crime, the defendant was over the age of 18 and the victim was less than 15 years of age. Therefore, any oral sexual conduct or anal sexual conduct between the defendant and the victim could not have been consensual. (See Penal Law § 130.05 [2] [b].) That there was, in fact, illicit sexual contact between the defendant and the victim was established conclusively by the complainant’s detailed testimony about the encounter, corroborated by the presence of the defendant’s semen on the complainant’s boxer shorts. Moreover, in his trial testimony, the defendant did not offer any explanation for the presence of his semen on the young victim’s underwear. Therefore, there is no significant probability that, but for the supposed errors, the jury would have acquitted the defendant. (See People v Crimmins, 36 NY2d 230, 242 [1975]; People v Svanberg, 293 AD2d 555 [2d Dept 2002]; People v Robinson, 281 AD2d 564, 565 [2d Dept 2001].)\nFor the aforementioned reasons, the defendant’s motion to set aside the verdict is denied.\nThe defendant may be adjudicated a second child sexual assault felony offender.\nThe Relevant Statute\nCriminal Procedure Law § 400.19 (2) outlines the procedures to be followed when the People are seeking to prosecute a defendant as a second child sexual assault felony offender. It provides as follows:\n“When information available to the people prior to the trial of a felony offense for a sexual assault against a child indicates that the defendant may have previously been subjected to a predicate felony conviction for a sexual assault against a child, a statement may be filed by the prosecutor at any time before trial commences setting forth the date and place of each alleged predicate felony conviction for a sexual assault against a child and a statement whether the defendant was eighteen years of age or older at the time of the commission of the predicate felony.” (CPL 400.19 [2] [emphasis added].)\nFactual Background\nOn March 11, 2015, more than three weeks before the defendant’s trial commenced, the court, the attorneys, and the defendant engaged in the following colloquy: “The Court: I’ve looked at the defendant’s record. And from what I can tell, he would qualify based on his prior conviction, to be sentenced as a second child sexual assault felony offender, were he to be convicted of the top count at this trial.” Later, during the same proceeding, the colloquy continued:\n“The Court: Defendant was convicted in the past, I think it was 2005, of a case involving sexual conduct against a child under the age of 15. The instant charges involves allegations of sexual conduct against a child under 15. So, I believe he would be sentenced, were he to be convicted after trial, as a second child sexual assault felony offender. Which means, if he were to be convicted of both counts of 130.45, subdivision one, on each of those counts he could be sentenced to a minimum of five years determinate sentence to a maximum of fifteen years determinate sentence and those sentences can be run consecutively. So, it could be a total of a minimum of ten to a maximum of thirty years. That would also include periods of post-release supervision.\n“A.D.A. Silver: And I would just like to put on the record that if the defendant were convicted after trial, that the People would be seeking the maximum.”\nThe transcript continued:\n“The Court: Do you have any questions about what the People are offering on the plea agreement or what the potential sentence would be were you to be convicted after trial?\n“The defendant: No questions.\n“The Court: You need to confer with your attorney about that at all?\n“The defendant: No, I don’t.\n“The Court: Do you wish to exercise your right to proceed to trial?\n“The defendant: Correct.”\nTrial commenced on April 6, 2015. On April 13, 2015, the jury found the defendant guilty of two counts of criminal sexual act in the second degree (Penal Law § 130.45 [1]) — a class D felony and a child sexual assault offense — as well as four counts of sexual abuse in the second degree (Penal Law § 130.60 [2]). The case was adjourned until April 29, 2015 for sentencing.\nOn April 28, 2015 — the day before sentencing and more than three weeks after trial commenced — the People filed a predicate statement purporting to contain a recitation of the defendant’s prior convictions for sexual assaults against children. In addition to being late, this statement incorrectly cited some of the sections of the Penal Law for which the defendant had previously been convicted.\nOn April 29, 2015, the scheduled date for sentencing, the People asked that the defendant be adjudicated a second child sexual assault felony offender and recommended that he be sentenced to a term of imprisonment of 15 years on each of his two convictions for criminal sexual act in the second degree. In addition, the People recommended that the terms run consecutively, for a total term of 30 years.\nThe court informed the People that their predicate statement incorrectly cited the sections of the Penal Law for which the defendant had previously been convicted. Furthermore, the court informed the People that they had failed to file the second child sexual assault felony offender statement before trial commenced, as set forth in CPL 400.19 (2), and asked the People to explain their failure to timely file the statement. The People did not offer any excuse for their failure. Rather, they responded that because CPL 400.19 (2) provides that a predicate statement “may be filed by the prosecutor at any time before trial commences” (emphasis added), they had the option to file the required statement before or after trial. The court adjourned the matter until July 2, 2015 to allow the parties to address the issue in written motions.\nOn June 4, 2015, the People filed a written motion arguing that because the defendant was advised on the record, before trial, that he was potentially a second child sexual assault felony offender and that they would seek the maximum permissible sentence if he were convicted, there was no impediment to proceeding under CPL 400.19. In support of their position, the People cited two Fourth Department cases, People v Armbruster (32 AD3d 1348 [4th Dept 2006]) and People v Wragg (115 AD3d 1281 [4th Dept 2014], lv granted 23 NY3d 1070 [2014]).\nOn June 8, 2015, the People filed an updated predicate statement containing an accurate accounting of the defendant’s three prior child sexual assault felony convictions. On June 26, 2015, the defendant filed his opposition to the People’s motion, arguing, inter alia, that the People’s failure to follow the notice procedures set forth in CPL 400.19 (2) precluded them from seeking to adjudicate the defendant as a second child sexual assault felony offender and to have him sentenced accordingly.\nConclusions of Law\nThe People have acknowledged that they did not, before the commencement of trial, file a written predicate statement detailing the defendant’s prior convictions for sexual assault against a child, as required by CPL 400.19 (2). The People’s original position was that because CPL 400.19 (2) states that a predicate statement “may be filed by the prosecutor at any time before trial commences” (emphasis added), they had the option of filing the required statement either before or after trial. In other words, the People contended that the word “may” means that the filing of a predicate statement can be done whenever the People desire.\nIt should be apparent from the plain wording of the statute in question that the People’s argument, to put it mildly, strains credulity. It is certainly true that, unlike statutes providing for the sentencing of predicate felony offenders or violent predicate felony offenders — which do not vest discretion in the People and provide that the statement must be filed at any time before sentencing — CPL 400.19 (2) gives the People the discretion to decide whether to seek enhanced punishment for a defendant who is a second child sexual assault felony offender. However, as to the timing of the statement, the statute could not be clearer: the second child sexual assault felony offender statement is to be filed by the prosecutor at any time before trial commences. Had the legislature intended to permit the People to file the statement at any time before sentencing, it could have so provided. To say that the phrase “before trial” authorizes the People to file the statement after trial is utterly nonsensical. That the legislature vested the People with discretion to file the statement does not lead ineluctably to the conclusion that they may also determine the timing of the filing, even in direct contravention of the plain terms of the authorizing statute. Indeed, the fact that CPL 400.19 uniquely provides that the statement must be filed before trial, and not before sentencing, bolsters this conclusion.\nHaving concluded that the People failed to timely file the statement, the court must consider whether this failure precludes the People from seeking to have the defendant adjudicated as a second child sexual assault felony offender and sentenced as such. The court determines that, under the facts of the instant case, the People are not precluded from proceeding under CPL 400.19.\nThe record amply demonstrates that prior to the commencement of trial the defendant was not only advised that he could be sentenced as a second child sexual assault felony offender, but also that he was aware that the People intended to seek such enhanced punishment were he to be convicted after trial. Furthermore, he was made aware that, were he to be convicted after trial and adjudicated a second child sexual assault felony offender, he faced a maximum potential term of imprisonment of 30 years. As a result, though the People did not strictly comply with the terms of the statute, it is apparent that the defendant was effectively advised that he was subject to being sentenced as a second child sexual assault felony offender, he was made aware of the potential sentence he faced, and he was informed that the People meant to have him adjudicated as a second child sexual assault felony offender and sentenced as such.\nInasmuch as the defendant was given effective oral notice before trial, and the People have filed written notice before sentencing, the absence of a formal, written, pretrial statement does not, under these circumstances, preclude the People from proceeding under CPL 400.19.\nThe precedents cited by the People—People v Armbruster (32 AD3d 1348 [4th Dept 2006]) and People v Wragg (115 AD3d 1281 [4th Dept 2014], lv granted 23 NY3d 1070 [2014])—though not directly on point, support this conclusion.\nIn Armbruster, the defendant was convicted upon his plea of guilty to, inter alia, attempted sexual abuse in the first degree (Penal Law §§ 110.00, 130.65 [3]). After the defendant’s guilty plea was entered and defendant was sentenced as a second felony offender, the People moved to set aside defendant’s sentence and filed a second child sexual assault felony offender statement pursuant to CPL 400.19. The defendant contended that the statement was untimely, and that the court, therefore, was precluded from sentencing him as a second child sexual assault felony offender.\nThe Fourth Department rejected this argument and permitted the People to file the CPL 400.19 statement after the guilty plea. Affirming the defendant’s adjudication and sentencing as a second child sexual assault felony offender, the Fourth Department concluded that\n“the CPL 400.19 statement is timely filed in the event that there is a guilty plea if it is filed within a sufficient time before the imposition of sentence to afford the defendant notice and an opportunity to be heard (see generally Preiser, Practice Commentaries, McKinney’s Cons Law of NY, Book 11A, CPL 400.19, at 401-402)” (Armbruster, 32 AD3d at 1349).\nThe Fourth Department held that\n“[e]ven assuming, arguendo, that the People were required to file the CPL 400.19 statement before the entry of defendant’s guilty plea and that the statement thus was untimely filed, we would nevertheless conclude that the People’s failure to file a timely statement pursuant to CPL 400.19 is harmless under the circumstances of this case (see People v Bouyea, 64 NY2d 1140, 1142 [1985]; People v Harris, 61 NY2d 9, 20 [1983])” (id. at 1349-1350).\nThe Fourth Department noted that the record established that the judge, the prosecutor, and the defendant all contemplated that the defendant would be sentenced as a predicate offender, and that a potential sentencing range of imprisonment of between 4 and 12 years was contemplated as provided by Penal Law § 70.07 (4) (f). In addition, Armbruster admitted his prior conviction and made no objection to being sentenced to concurrent eight-year terms as a predicate felon at the initial sentencing proceeding. Consequently, the Fourth Department found that\n“[w]here, as here, The statutory purposes for filing a predicate statement (i.e. [,] apprising the court of the prior conviction and affording defendant notice and an opportunity to be heard in connection with the predicate felony) are satisfied, strict compliance with [CPL 400.19] is not required’ (People v Sampson, 30 AD3d 623, 623-624 [(2d Dept) 2006], quoting People v Carmello, 114 AD2d 965, 965-966 [1985])” (id. at 1350).\nThough defendant Liggins did not enter a guilty plea, this factual distinction does not diminish the legal relevance of the rationale of the Armbruster decision: so long as the defendant was effectively advised that he could be adjudicated a second child sexual assault felony offender and had an opportunity to challenge the adjudication before sentencing, the absence of formal pretrial notice is not fatal.\nThe Fourth Department’s rationale in Armbruster is applicable to this case. Here, as in Armbruster, each of the parties was aware before trial that the defendant could be sentenced as a second child sexual assault felony offender. Indeed, in the case at bar, the defendant, prior to trial, was told by the court that if he were convicted of both counts of criminal sexual act in the second degree, he could be sentenced to a minimum determinate term of imprisonment of five years and a maximum determinate term of imprisonment of 15 years on each count, and that those sentences could be consecutive: the potential range of enhanced punishment for a second child sexual assault felony offender provided by Penal Law § 70.07 (4) (e). As such, and in light of the rationale of the Fourth Department in both Armbruster and Wragg, which was based upon circumstances similar to the facts of this case, the court concludes that the People’s failure to file a timely statement pursuant to CPL 400.19, although an error, does not preclude the People from proceeding under CPL 400.19. (See also People v Sampson, 30 AD3d 623, 623-624 [2d Dept 2006].)\nFor the foregoing reasons, the court finds that the People are not precluded from seeking to adjudicate the defendant as a second child sexual assault felony offender. Therefore, if the defendant is ultimately adjudicated a second child sexual assault felony offender under the remaining procedures outlined in CPL 400.19, he may be subjected to the increased penalties that accompany such a finding as set forth in Penal Law § 70.07.\n. In her summation, the prosecutor also repeatedly informed the jury that it was the People’s burden to prove the defendant’s guilt beyond a reasonable doubt.\n. Defense counsel did not request that the court give a curative instruction after the aforementioned comment; rather, counsel only raised a general objection to the comment, which the court sustained. Defense counsel did cite the comment as an example of the prosecutor’s allegedly improper rhetoric in her motion for a mistrial after summations had concluded.\n. The defendant has previously been convicted of the following crimes: sexual abuse in the first degree (Penal Law § 130.65 [1]) in 1994; attempted sexual abuse in the first degree (Penal Law §§ 110.00, 130.65 [3]) in 2003; and attempted sexual abuse in the first degree (Penal Law §§ 110.00, 130.65 [3]) in 2005. A sexual assault against a child means a felony offense, (a) the essential elements of which include the commission or attempted commission of sexual conduct, (b) committed or attempted to be committed against a child less than 15 years old. (Penal Law § 70.07 [2].) As such, at the very least, the defendant’s 2003 and 2005 convictions would qualify as predicate child sexual assault offense convictions. (See Penal Law § 70.07 [3].)\n. See e.g. CPL 400.15, 400.16, 400.21.\n. See Peter Preiser, Practice Commentaries (McKinney’s Cons Laws of NY, Book 11A, CPL 400.19 at 401-402) (“The procedure set forth here differs from the basic prototype enacted for second felony offender sentencing [see CPL § 400.21] in several respects. Most pointedly, decision to invoke the mechanism for the enhanced sentence lies in discretion of the People. Thus, while the basic recidivist procedure provides that the statement ‘must be filed before sentence is imposed,’ this procedure vests the prosecutor with discretion [i.e., ‘a statement may be filed’] and specifies authority to file the statement ‘at any time before trial commences’ ”).\nThe fact that other second felony offender provisions {e.g. CPL 400.21 [2]) state that the predicate statement “must be filed by the prosecutor before sentence is imposed” demonstrates that the legislature purposefully set forth a different time frame in CPL 400.19, further undermining the People’s argument that the timing of the filing of a predicate statement specifically set forth in CPL 400.19 can be ignored at their choosing.\n. The court can only speculate as to the reason that the legislature provided that the statement is to be filed before trial, however, it seems reasonable to surmise that the legislature intended for the statement to be filed before trial so that a defendant would be apprised of the enhanced sentence he would be facing were he to be convicted after trial, and in that way, he would be able to knowingly and intelligently consider whether to accept any pretrial plea offers.\n. In People v Wragg (115 AD3d 1281 [4th Dept 2014], lv granted 23 NY3d 1070 [2014]), the Fourth Department affirmed the defendant’s sentence as a second child sexual assault felony offender after he was convicted at trial, citing Armbruster without elaboration.",
+        "type": "majority",
+        "author": "William M. Harrington, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Julie Clark, Brooklyn, for defendant.",
+      "Kenneth P. Thompson, District Attorney, Brooklyn (Lauren Silver and Lauren Branchini of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 533]\nThe People of the State of New York, Plaintiff, v Jeffrey Liggins, Defendant.\nSupreme Court, Kings County,\nJuly 2, 2015\nAPPEARANCES OF COUNSEL\nJulie Clark, Brooklyn, for defendant.\nKenneth P. Thompson, District Attorney, Brooklyn (Lauren Silver and Lauren Branchini of counsel), for plaintiff."
+  },
+  "file_name": "1969-01",
+  "first_page_order": 632,
+  "last_page_order": 643
+}

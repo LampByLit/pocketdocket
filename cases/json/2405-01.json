@@ -1,0 +1,422 @@
+{
+  "id": 12170388,
+  "name": "The People of the State of New York, Plaintiff, v. Rachel L. Utsett, Defendant",
+  "name_abbreviation": "People v. Utsett",
+  "decision_date": "2016-07-21",
+  "docket_number": "",
+  "first_page": "337",
+  "last_page": "346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 337"
+    },
+    {
+      "type": "parallel",
+      "cite": "36 N.Y.S.3d 566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Glens Falls City Ct.",
+    "id": 22968,
+    "name": "Glens Falls City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "179 AD2d 442",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069336
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0442-01"
+      ]
+    },
+    {
+      "cite": "50 AD3d 316",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3524164,
+        3528127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/0316-02",
+        "/ad3d/50/0316-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 721",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188925
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0721-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 584",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3639850
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/6/0584-01"
+      ]
+    },
+    {
+      "cite": "367 US 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785580
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0643-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 415",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356163
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0415-01"
+      ]
+    },
+    {
+      "cite": "442 US 200",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1531819
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0200-01"
+      ]
+    },
+    {
+      "cite": "15 NY2d 72",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0072-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 170",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331501
+      ],
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0170-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 479",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407804
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "484"
+        },
+        {
+          "page": "486-487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0479-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 425",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4433808
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0425-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 753",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 AD2d 801",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1131815
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/194/0801-01"
+      ]
+    },
+    {
+      "cite": "178 Misc 2d 687",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1685747
+      ],
+      "pin_cites": [
+        {
+          "page": "689"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/178/0687-01"
+      ]
+    },
+    {
+      "cite": "73 Misc 2d 420",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1259383
+      ],
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/73/0420-01"
+      ]
+    },
+    {
+      "cite": "129 Misc 2d 690",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        843592,
+        1581069
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/129/0690-01"
+      ]
+    },
+    {
+      "cite": "196 Misc 2d 993",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        604622
+      ],
+      "pin_cites": [
+        {
+          "page": "998"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/196/0993-01"
+      ]
+    },
+    {
+      "cite": "154 Misc 2d 616",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        905031
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/154/0616-01"
+      ]
+    },
+    {
+      "cite": "163 Misc 2d 353",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        927909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/163/0353-01"
+      ]
+    },
+    {
+      "cite": "165 Misc 2d 1024",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        933700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/165/1024-01"
+      ]
+    },
+    {
+      "cite": "166 Misc 2d 54",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        936772
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/166/0054-01"
+      ]
+    },
+    {
+      "cite": "166 Misc 2d 313",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        936806
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/166/0313-01"
+      ]
+    },
+    {
+      "cite": "166 Misc 2d 753",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        936769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/166/0753-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 102",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4421809
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0102-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 795,
+    "char_count": 20710,
+    "ocr_confidence": 0.735,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24693138480274332
+    },
+    "sha256": "e0689c6b15ab616517fc162a379d5f8561bc53567f0a9d2c4e679f5a299a3fb0",
+    "simhash": "1:aa63c70b034a15f1",
+    "word_count": 3393
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Rachel L. Utsett, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nGary C. Hobbs, J.\nOn April 29, 2016, the defendant was arrested and charged by simplified traffic informations with the offenses of aggravated unlicensed operation of a motor vehicle in the third degree (Vehicle and Traffic Law § 511 [1] [a]) and driver’s view obstructed (Vehicle and Traffic. Law § 375 [30]). The defendant’s initial appearance was scheduled for May 12, 2016, and the defendant did appear and was arraigned on that date.\nThe defendant has filed an omnibus motion seeking various relief, together with an affirmation of Bryan M. Racino, Esq., Warren County Assistant Public Defender, attorney for the defendant, in support of said motion. The People have respondéd to the defendant’s motion with an affirmation in opposition by Marat Shkolnik, Esq., Warren County Assistant District Attorney. Upon a reading and filing of the motion and opposition papers, and with due deliberation thereon, it is the decision and order of this court as follows.\nDefendant’s Motion to Dismiss the Simplified Traffic Informations\nOn May 31, 2016, the defendant served the People with her CPL 240.20 discovery demands, which are titled “Misdemeanor Demand for Discovery and Bill of Particulars.” On page 5, paragraph 18, of her discovery demands, the defendant requested that “[i]n the event that any of the charges against this defendant include a violation of the Vehicle and Traffic Law, the defendant hereby demands a supporting deposition.” (Emphasis added.) The defendant’s request for a supporting deposition was contained within other discovery demands, which sought disclosure of items such as photographs, drawings, and reports of scientific tests or experiments from the People. A copy of the defendant’s discovery demands, however, was then filed with this court on June 1, 2016.\nThe defendant moves this court for an order dismissing the simplified traffic informations pursuant to CPL 100.25 (2) and 100.40 (2) on the grounds, that the defendant timely requested, but never received, a supporting deposition. In response, the People have attached a supporting deposition, dated July 18, 2016, from Officer Christopher J. Perilli, to their response to the defendant’s omnibus motion. (Shkolnik affirmation, last exhibit.) The People further assert that the defendant failed to properly request a supporting deposition, because the defendant’s request was contained in the defendant’s demands for discovery, rather than making a request directly to this court. (Shkolnik affirmation para 16.)\nThe issue before this court is whether the defendant’s request for a supporting deposition, which was contained in the defendant’s CPL 240.20 discovery demands, constitutes a proper request for a supporting deposition under CPL 100.25. If so, the defendant asserts that the charges must be dismissed.\nIt is well settled that a defendant arraigned upon a charge contained in a simplified traffic information may request, and is entitled as of right, a supporting deposition by the complainant, police officer or public servant. If the defendant makes no request, then the right to a supporting deposition is waived and prosecution may proceed on the original instrument. However, if a timely request for a supporting deposition is made, then the failure to supply one renders the simplified information insufficient on its face and subjects it to dismissal. (People v Nuccio, 78 NY2d 102, 104 [1991], citing CPL 100.40 [2], 170.35 [1] [a], and 170.30 [1] [a]; People v Curtis, 166 Misc 2d 753 [Perinton Just Ct 1995]; People v DeLuca, 166 Misc 2d 313 [Yonkers City Ct 1995]; People v Malone, 166 Misc 2d 54 [Suffolk Dist Ct 1995]; People v Sperling, 165 Misc 2d 1024 [Suffolk Dist Ct 1995]; People v Smith, 163 Misc 2d 353 [Perinton Just Ct 1994]; People v Rossi, 154 Misc 2d 616 [Muttontown Just Ct 1992]; Gerstenzang & Sills, Handling the DWI Case in New York § 17:5.)\nCPL 100.25 (2) defines a “timely” request for a supporting deposition as one that is made “not later” than 30 days after the date the defendant is first required to appear, except as provided in CPL 100.25 (3), which empowers the court to authorize service of a demand after the 30-day period has expired where one of the offenses charged is a misdemeanor and where the defendant moves for leave to serve the demand within 90 days of the date he or she is first required to appear. (CPL 100.25 [2], [3].)\nThus, even if the simplified traffic information charges the defendant with a misdemeanor, the defendant must still request the supporting deposition within the 30-day time period or, in the alternative, the defendant must seek leave from the court for “good cause” shown to serve the request within 90 days of her first required court appearance. (People v Brady, 196 Misc 2d 993, 998 [Nassau Dist Ct 2003]; Preiser, Practice Commentaries, McKinney’s Cons Laws of NY, Book 11A, CPL 100.25.)\nMore importantly, CPL 100.25 requires that the defendant’s request for a supporting deposition be made to the court, not just to the People. (See CPL 100.25 [2]; People v Schlosser, 129 Misc 2d 690, 690 [Nassau Dist Ct 1985]; Muldoon, Handling a Criminal Case in New York § 3:76 [2015].) As is indicated in the treatise, 1 Edward L. Fiandach, New York Driving While Intoxicated § 12:9 (2d ed 2015), the\n“[statutory authority is silent as to the precise manner in which the request is to be made. Even so, some guidance is inferentially afforded by the Legislature’s use of the phrase ‘[u]pon such a request, the court must order the complainant police officer or public servant to serve a copy. . . .’ Such phraseology is consistent with the interpretation that the only notification necessary to trigger the operation of the statute is a request upon the Court.” (Emphasis added.)\nThe defendant’s obligation to make a request directly to the court is consistent with the CPL’s statutory framework. Pursuant to CPL 100.25 (2), when a timely request is made, the court must then order, the police officer or public servant to serve defendant with a copy of the supporting deposition within 30 days of the demand or at least five days before trial, whichever is earlier, and to file the supporting deposition with the court. Thus, where the court receives a proper request, but fails to order the supporting deposition, the simplified information must still be dismissed, even though the People and arresting officer were not aware of the defendant’s request. (People v Zagorsky, 73 Misc 2d 420, 425 [Broome County Ct 1973] [It is the responsibility of the court to order the complainant police officer to prepare and file a supporting deposition with the court and failure to so order in advance of trial calls for dismissal of the information].)\nIn the present case, the defendant’s request, which was contained within a CPL 240.20 discovery demand, is not a proper request made to this court, despite the fact that a copy of the defendant’s discovery demands was filed with this court.\nA trial court is not a party required to review or respond to the defendant’s CPL 240.20 discovery demands. (See CPL 240.20 [2] [which requires the prosecutor to “make a diligent, good faith effort to ascertain the existence of demanded property and to cause such property to be made available for discovery where it exists but is not within the prosecutor’s possession, custody or control; provided, that the prosecutor shall not be required to obtain by subpoena duces tecum demanded material which the defendant may thereby obtain”].) Even though the defendant filed a courtesy copy of her discovery demands with this court on June 1, 2016, and within the 30-day time period, there was nothing contained in either the caption of the defendant’s discovery demands nor in any correspondence sent to this court that notified this court that the defendant was requesting an order for the arresting officer to provide a supporting deposition.\nIf this court were to hold otherwise, then criminal courts would be required to review each and every discovery demand made by a defendant to the People to determine if some part of the defendant’s demands somehow contains a request for a court order directing the service and filing of a supporting deposition. This requirement would place an undue burden on our trial courts, and is not required under the Criminal Procedure Law. To the contrary, the statutory scheme of CPL 100.25 places the burden on the defendant to make a proper request for a supporting deposition directly to the court, rather than inserting such a request in a document that is served, noticed or addressed to a third party. (See e.g. People v Titus, 178 Misc 2d 687, 689 [App Term, 2d Dept 1998] [the defendant needs to file a timely, written request with the court to become entitled to a supporting deposition as of right].)\nBased on the foregoing, the defendant failed to make a proper request for a supporting deposition directly to this court as required pursuant to CPL 100.25. As a result, the defendant waived her right to obtain a supporting deposition. However, even if this court considered the defendant’s present omnibus motion as an application seeking leave to request a supporting deposition within 90 days of the defendant’s initial date of appearance (i.e., by Aug. 10, 2016), then the defendant’s motion would still be denied as being moot. On July 19, 2016, within 30 days of the defendant’s omnibus motion, the People served and filed a supporting deposition, dated July 18, 2016, sworn to by Officer Perilli. This court has reviewed this supporting deposition and finds that it conforms to the requirements of CPL 100.25 and 100.40.\nBased on the forgoing, the defendant’s motion to dismiss for the failure to serve a timely supporting deposition is denied.\nMotion to Preclude Defendant’s Statements\nThe defendant seeks to preclude any statement allegedly made by the defendant to a law enforcement officer, which has not been disclosed, or has been insufficiently disclosed, in a CPL 710.30 notice. Here, the defendant asserts that she has never been provided with the CPL 710.30 notice and seeks preclusion of any alleged statements of the defendant. (Racino affirmation ¶ 2.)\nIn response, the People have attached a CPL 710.30 notice, dated July 18, 2016, to the affirmation of ADA Shkolnik. The People’s CPL 710.30 notice states that the People intend to offer at a trial “evidence of a statement made by you [the defendant] on_at Grand Street to Christopher J. Perilli a public servant, in which you substantially stated as follows:. _.” (Shkolnik affirmation, last exhibit). The People’s CPL 710.30 notice fails to provide the defendant with notice of the date or time of the alleged statement or with the sum or substance of any statement made by the defendant to Officer Perilli.\nWhere, as here, the People intend to introduce at trial evidence of a statement made by defendant to law enforcement officers and/or of any identification procedure used, the People must, no later than 15 days after arraignment, serve defendant with a notice of intention to use such evidence and, if they fail to serve timely notice or demonstrate good cause for untimely service, they may not introduce such evidence in their case-in-chief. (CPL 710.30; see also People v Degrijze, 194 AD2d 801 [2d Dept 1993], lv denied 82 NY2d 753 [1993].)\nCPL 710.30 is a notice statute intended to facilitate a defendant’s opportunity to challenge before trial the voluntariness of statements made by him and/or the legality of the identification process used by law enforcement. (People v Lopez, 84 NY2d 425, 428 [1994], citing People v O’Doherty, 70 NY2d 479, 484 [1987], People v Greer, 42 NY2d 170, 179 [1977], and People v Huntley, 15 NY2d 72 [1965].)\nThere are only two exceptions to this 15-day notice requirement: (a) the 15-day time provision may be waived for good cause and (b) the notice may be excused if the defendant has in fact moved for suppression. (CPL 710.30 [2], [3].) In People v Lopez, the Court of Appeals found that the CPL 710.30 notice that was served on the defendant was insufficient where the notice informed defendant Lopez that the People intended to offer oral and written statements but failed to specify the time and place of the oral or written statements and the sum and substance of those statements. (People v Lopez, 84 NY2d 425, 428 [1994].) Thus, to be sufficient, the notice must advise of the time and place the statement was made and must recite the sum and substance of what was said by the defendant. A full copy of the defendant’s statement does not need to be supplied, but the defendant’s alleged statement must be described sufficiently so that the defendant can identify it. (Peter Preiser, Practice Commentaries, McKinney’s Cons Laws of NY, Book 11A, CPL 710.30, citing People v Lopez, 84 NY2d 425 [1994].)\nIn addition, it is irrevelant that the People’s failure to satisfy the requirements of 710.30 did not result in prejudice to the defendant. Instead, the statutory remedy for the People’s failure to comply with the statute is preclusion, and the issue of prejudice or lack of prejudice simply plays no part in the court’s analysis. (People v Lopez, 84 NY2d 425, 428 [1994], citing CPL 710.30 [3] and People v O’Doherty, 70 NY2d 479, 486-487 [1987].) Furthermore, the failure to serve a CPL 710.30 notice or an insufficient CPL 710.30 notice cannot be cured by discovery. (People v Lopez, 84 NY2d 425, 428 [1994].)\nIn the present case, on May 12, 2016, the defendant was arraigned in this court on the misdemeanor charge of aggravated unlicensed operation of a motor vehicle in the third degree (Vehicle and Traffic Law § 511 [1] [a]) and the infraction of driver’s view obstructed (Vehicle and Traffic Law § 375 [30]). The People were, therefore, required to serve a CPL 710.30 notice on the defendant by May 27, 2016.\nThe People’s July 18, 2016 notice of the defendant’s statements allegedly made to Officer Perilli is untimely. In addition, the People’s CPL 710.30 notice is statutorily insufficient. The notice fails to provide any information concerning the sum or substance of the defendant’s alleged statement made to Officer Perilli. (People v Lopez, 84 NY2d 425, 428 [1994].)\nBased on the foregoing, the defendant’s motion to preclude is granted and the People are precluded from using, in their case-in-chief, any statements that were allegedly obtained from the defendant by a law enforcement officer or public servant.\nDefendant’s Motion for a Mapp/Dunaway Hearing\nThe defendant also moves this court for a probable cause hearing pursuant to Dunaway v New York (442 US 200 [1979]). In support of the defendant’s motion, defense counsel recites the case law regarding probable cause hearings. However, the defendant’s motion fails to provide this court with any factual basis for her claim that her arrest or detention was without probable cause.\nA motion to suppress evidence “must state the ground or grounds of the motion and must contain sworn allegations of fact.” (CPL 710.60 [1].) A motion to suppress must be summarily granted where the defendant alleges a legal ground warranting suppression and the People concede the truth of the factual allegations. (CPL 710.60 [2] [a].) A court may summarily deny a motion to suppress if the defendant fails to allege a proper legal basis for suppression or if the “sworn allegations of fact do not as a matter of law support the ground alleged.” (CPL 710.60 [3] [b].) “[T]he sufficiency of [the] defendant’s factual allegations should be evaluated by (1) the face of the pleadings, (2) assessed in conjunction with the context of the motion, and (3) [the] defendant’s access to information.” (People v Mendoza, 82 NY2d 415, 426 [1993].)\nHowever, even if the defendant’s factual allegations are deficient, summarily denying a motion to suppress is disfavored. In Mendoza the Court of Appeals explained:\n“The CPL does not mandate summary denial of defendant’s motion even if the factual allegations are deficient. If the court orders a Huntley or Wade hearing, and defendant’s Mapp motion is grounded in the same facts involving the same police witnesses, the court may deem it appropriate in the exercise of discretion to consider the Mapp motion despite a perceived pleading deficiency. Indeed, considerations of judicial economy militate in favor of this procedure; an appellate court might conclude that summary denial of the Mapp motion was improper, requiring the parties and witnesses to reassemble for a new hearing, often months or years later.” (82 NY2d at 429-430 [citation omitted].)\nThe Court of Appeals’ decision in Mendoza, however, does not eliminate the need for the defendant to raise some factual basis for the holding of a MappIDunaway hearing. Instead, the Mendoza decision reminds trial courts to consider any factual allegations that are set forth in other portions of the defendant’s motion, such as the application seeking a Huntley hearing, and directs the trial court to refrain from summarily denying the Dunaway/Mapp motion where the defendant has provided a factual basis for the motion.\nIn the present case, this court has reviewed the affirmation of Bryan Racino, Esq., in support of the defendant’s omnibus motion. Unfortunately, this affirmation fails to contain any facts or factual basis to warrant a Mapp/Dunaway hearing. (See Mapp v Ohio, 367 US 643 [1961]; Dunaway v New York, 442 US 200 [1979].) In order to be entitled to a MappIDunaway hearing, the defendant must provide the court with some factual basis to justify the hearing.\nBased on the forgoing, the defendant’s motion seeking a MappIDunaway hearing is denied, as the defendant has failed to meet the minimum standard required for a suppression hearing. (See CPL 710.60 [3] [b]; People v Mendoza, 82 NY2d 415 [1993]; People v Burton, 6 NY3d 584 [2006]; People v Jones, 95 NY2d 721 [2001]; People v Marte, 50 AD3d 316 [1st Dept 2008] [The court properly denied defendant’s suppression motion without granting a hearing. Defendant’s vague and con-clusory submission was insufficient either to raise a claim that he discarded the drugs at issue as a reaction to unlawful police conduct or to advance any other basis for suppression].)\nDefendant’s Motion for Discovery and Inspection\nThe defendant moves this court for an order seeking that the People provide disclosure as required under the CPL. The People assert that they have provided all discovery as required under CPL 240.20. Upon review of the motion and response to the motion, the defendant’s motion to preclude is denied as being moot, insofar as the People appear to have adequately provided responses to the defendant’s discovery demands, and the information provided adequately conforms to the requirements of CPL 240.20. However, the People are reminded of their continuing obligation to use due diligence to provide additional discovery to the defendant as required by law, and any failure to adequately disclose discoverable items to defense counsel will result in an appropriate sanction, which may include preclusion of any undisclosed item(s).\nMotion for Brady Materials\nThe defendant’s motion for disclosure of Brady materials is granted to the extent that, if in exercising its obligation of due diligence, the People obtain or discover any exculpatory materials, then the People are required to promptly disclose such exculpatory materials to the defendant.\nMotion for Rosario Materials\nThe defendant’s motion for disclosure of Rosario (People v Rosario, 179 AD2d 442 [1st Dept 1992]) materials is granted, to the extent that the People are directed to provide such Rosario materials within the time requirements of CPL 240.45.\nMotions Relating to Sandoval, Ventimiglia and Molineux\nThe defendant’s motion seeking to obtain notice from the People of any proposed trial issues pursuant to Ventimiglia or Sandoval or Molineux and their respective progeny is granted, to the extent that the People are directed to provide such notice to the defendant no later than three business days prior to the trial date of this action.\nLeave to Make Further Motions\nThe defendant’s motion seeking leave to make further motions is denied pursuant to CPL 255.20.\nThe defendant was first required to appear in court on May 12, 2016. The date for the defendant to timely request a supporting deposition was, therefore, June 11, 2016.",
+        "type": "majority",
+        "author": "Gary C. Hobbs, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Marcy I. Flores, Public Defender (Bryan M. Racino of counsel), for defendant.",
+      "Kathleen B. Hogan, District Attorney (Marat Shkolnik of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[36 NYS3d 566]\nThe People of the State of New York, Plaintiff, v Rachel L. Utsett, Defendant.\nCity Court of Glens Falls,\nJuly 21, 2016\nAPPEARANCES OF COUNSEL\nMarcy I. Flores, Public Defender (Bryan M. Racino of counsel), for defendant.\nKathleen B. Hogan, District Attorney (Marat Shkolnik of counsel), for plaintiff."
+  },
+  "file_name": "2405-01",
+  "first_page_order": 347,
+  "last_page_order": 356
+}

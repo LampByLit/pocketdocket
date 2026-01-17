@@ -1,0 +1,455 @@
+{
+  "id": 4235386,
+  "name": "The People of the State of New York, Plaintiff, v. Shawn Thomas, Defendant",
+  "name_abbreviation": "People v. Thomas",
+  "decision_date": "2016-02-05",
+  "docket_number": "",
+  "first_page": "341",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 341"
+    },
+    {
+      "type": "parallel",
+      "cite": "24 N.Y.S.3d 884"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "150 Misc 2d 543",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        894885
+      ],
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/150/0543-01"
+      ]
+    },
+    {
+      "cite": "147 Misc 2d 588",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        889016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/147/0588-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 123",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3747113
+      ],
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0123-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752798
+      ],
+      "pin_cites": [
+        {
+          "page": "359-360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0354-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 1100",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4318574
+      ],
+      "pin_cites": [
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/1100-01"
+      ]
+    },
+    {
+      "cite": "9 Misc 3d 1046",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        992802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/9/1046-01"
+      ]
+    },
+    {
+      "cite": "96 Misc 2d 147",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1921204
+      ],
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/96/0147-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 98",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331592
+      ],
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0098-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 518",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4228009
+      ],
+      "pin_cites": [
+        {
+          "page": "524"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0518-01"
+      ]
+    },
+    {
+      "cite": "180 Misc 2d 707",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        32630
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/180/0707-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 51221",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Misc 3d 129",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "260 NY 138",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2002676
+      ],
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/260/0138-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 51537",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Misc 3d 127",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 NY2d 729",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2348315,
+        2349737,
+        2348155
+      ],
+      "pin_cites": [
+        {
+          "page": "731"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0729-02",
+        "/ny-2d/68/0729-03",
+        "/ny-2d/68/0729-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 835",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Misc 2d 262",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        170923
+      ],
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/184/0262-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725181
+      ],
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0523-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 569",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725125
+      ],
+      "pin_cites": [
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0677-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "230"
+        },
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    },
+    {
+      "cite": "19 Misc 3d 75",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3543168
+      ],
+      "pin_cites": [
+        {
+          "page": "76-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/19/0075-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 60",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "62-63"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 NY2d 928",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 AD2d 221",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5655113
+      ],
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/109/0221-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1169,
+    "char_count": 25465,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14049429136602173
+    },
+    "sha256": "a4ddfe644bd843d8ffcdb6d4bd9489397f767970ed945e3e10d0beb911c1cfea",
+    "simhash": "1:9c345743210f8f83",
+    "word_count": 4094
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Shawn Thomas, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLaura R. Johnson, J.\nThis case presents the evolving issue of prohibitions on the use of electronic vapor cigarettes in public places. Defendant was using such a device on a subway platform. When the police approached him to issue a summons, defendant declined to provide identification and, instead, used an obscenity in telling the police to leave him alone. He was placed under arrest.\nProcedural History\nDefendant Shawn Thomas was arraigned on June 9, 2015 on a complaint charging him with violating smoking restrictions under the Public Health Law, obstructing governmental administration in the second degree and disorderly conduct under the Penal Law, and disorderly conduct under the New York City Transit Authority Rules of Conduct. On September 30, 2015, this court granted defendant’s application to represent himself. By pro se motion filed on October 30, 2015, defendant now moves to dismiss the complaint, claiming that it is facially insufficient and that the People have not been ready for trial under the speedy trial rules (CPL 30.30). On December 2, 2015, the People served defendant in open court with their opposition, and on December 11, 2015, defendant filed a reply (response to government’s answer to defendant’s motion to dismiss). On January 7, 2016, defendant filed a request for bill of particulars and discovery demand. He also filed a “Notice of Counterclaim and Counter Complaint” purportedly under the same docket number. On January 26, 2016, defendant filed a “Request for Judicial Notice” generally challenging this court’s jurisdiction over this entire matter, but also repeating several of his arguments in support of his motion challenging the facial sufficiency of the accusatory instrument.\nMotion to Dismiss in Furtherance of Justice\nDefendant seeks dismissal of his case pursuant to CPL 170.40, based on various claims of official misconduct, by law enforcement at the time of his arrest and also during the course of this prosecution. In his original motion, defendant asserted that his right to prosecution by information was improperly waived by his former defense counsel. If the court were to grant defendant’s motion on this ground, the remainder of his claims would be moot.\nWith respect to defendant’s allegations of police misconduct, defendant asserts that he has “video of the entire arrest from start to finish” that would entitle him to dismissal under CPL 170.40 (1) (e) (defendant’s response ¶¶ 13-14), and has provided what purports to be a transcript of that video in his “Notice of Counterclaim and Counter Complaint.” Defendant may seek to offer this video at trial (should this case ever reach trial, in light of this court’s decision regarding the insufficiency of the charges). However, dismissal in the interest of justice is to be “exercised sparingly and only in that rare and unusual case where it cries out for fundamental justice beyond the confines of conventional considerations.” (People v Insignares, 109 AD2d 221, 234 [1st Dept 1985] [internal quotation marks omitted], lv denied 65 NY2d 928 [1985], quoting People v Belge, 41 NY2d 60, 62-63 [1976].) Because defendant has not supplied the court with the alleged videotape, he has not demonstrated that the circumstances of this case meet this standard and merit the extraordinary measure of a dismissal in the interest of justice.\nThe court also rejects defendant’s claim that his right to proceed by information was violated by counsel’s statement at arraignment that she “waive [d] the reading” (defendant’s motion at 4-6). Prior to this waiver, the bridge officer routinely asks, “do you waive the reading of the charges but not the rights thereunderl” Counsel’s waiver thus resulted only in the complaint not being read aloud at arraignment; it did not waive defendant’s right to prosecution by information. In fact, the matter was adjourned for the express purpose of requiring the People to convert the complaint to an information.\nIn complaining that a disregard for his due process rights was “underscored” by the court’s statement on July 28, 2015 that “if he had not entered a plea in this case . . . the Judge would simply have entered a plea for the defendant” (defendant’s motion ¶ 20), defendant evidently does not understand that the plea the court would have entered on his behalf would have been a plea of not guilty. In fact, under CPL 170.65 (1), “[a] defendant against whom a misdemeanor complaint is pending is not required to enter a plea thereto.” In any event, contrary to defendant’s contentions in his reply memorandum (defendant’s response ¶¶ 3-10), no substantive right was waived, and the court was not required to allocute defendant on the ministerial practice of not reading the complaint aloud, nor provide any specific explanation of the proceedings to this defendant, who was at the time represented by counsel.\nDefendant’s motion to dismiss pursuant to CPL 170.40 is denied.\nSpeedy Trial\nOn June 24, 2015, 15 days after defendant’s arraignment, the People filed a supporting deposition and a written statement of readiness for trial. If the information as it then stood was facially sufficient, the statement of readiness was valid. If, however, the information was not facially sufficient—as the court indeed finds for the reasons discussed below—it is necessary to know how much chargeable time has elapsed on this case to determine whether the People have any time remaining in which they can attempt to supersede.\nThe speedy trial clock has not run out on this case. The case was arraigned on June 9, 2015. At arraignment, the case was adjourned for conversion to July 28, 2015. The People filed a supporting deposition converting the hearsay in the complaint on June 24, 2015. Putting aside the accompanying statement of readiness filed on that date, the People are to be charged with the entire adjournment from June 9th to July 28th, a period of 49 days.\nOn July 28, 2015, the People were instructed to serve and file discovery by stipulation (DBS) by September 30, 2015, which they did. Adjournment for DBS is excludable as equivalent to motion practice, irrespective of the People’s readiness on the accusatory instrument (People v Dorilas, 19 Misc 3d 75, 76-77 [App Term, 2d Dept, 2d & 11th Jud Dists 2008]).\nOn September 30, 2015, defendant’s application to proceed pro se was granted. Defendant then indicated that he intended to file a motion to dismiss, and the court set a motion schedule, pursuant to which defendant’s motion was due on October 23rd. Adjournments for motion practice are expressly excludable under CPL 30.30 (4) (a). The parties did not adhere to the schedule set by the court, however. Although defendant’s motion bears a date of October 23, 2015, it was not served and filed until October 30, 2015. Because defendant’s motion was seven days late, it is only fair to grant the People an additional seven days to file their opposition. The People’s opposition was due on November 13th, and an additional seven days would give them until November 20th, but they did not serve their opposition on defendant until the next calendar date, December 2, 2015. The People are charged for the 12 days that their response was late, for a total of 61 days.\nOn December 2, 2015, the court clearly was not in a position to decide defendant’s motion, and defendant indicated that he wished to file a reply. The case was adjourned for decision to February 5, 2016. This adjournment is likewise excludable under CPL 30.30 (4) (a).\nSpeedy trial deadlines are set based on the top charge of the accusatory instrument which, in this case, is obstruction of governmental administration in the second degree (Penal Law § 195.05), a class A misdemeanor. Therefore, the People’s 90-day speedy trial clock under CPL 30.30 (1) (b) has not run out.\nFacial Insufficiency\nThe Criminal Court information before the court is sworn to by Police Officer Alexande Miroshnyk of the “868 Command,” and is based largely on information provided by Sergeant Eill of the same command. It lists the following four charges: obstructing governmental administration in the second degree (Penal Law § 195.05), a class A misdemeanor; disorderly conduct (Penal Law § 240.20 [3]), a violation; violation of smoking restrictions (Public Health Law § 1399 [1] [sic]); and disorderly conduct (21 NYCRR 1050.7 [b]).\nThe incident in question is alleged to have occurred on June 8, 2015 at approximately 9:02 p.m. at Flatbush Avenue and Fulton Street, in Brooklyn. The factual portion of the accusatory instrument reads as follows:\n“The Deponent is informed by Sergeant Eill . . . that, at the above time and place, the northbound platform of the Nevins Street subway station on the 2/3 line, informant observed the defendant smoking an electronic vapor cigarette on said subway platform, which is not a designated smoking area.\n“The deponent is further informed by informant [Sergeant Eill] that informant asked for the defendant’s identification in order to issue the defendant a summons for the above mentioned electronic vapor cigarette.\n“The deponent further states that after displaying informant’s New York City Police Department shield to the defendant, the defendant refused, several times, to produced [sic] the requested identification.\n“The deponent further states that deponent [P.O. Miroshnyk] observed defendant tell informant, Sergeant Eill and Police Office [r] James Pick . . . Tuck you’ three times in a loud voice and that the defendant stated loudly, ‘get the fuck away from me.’ ”\nOn June 24, 2015, the People filed the supporting deposition of Sergeant Eill off calendar, converting the complaint to an information.\nPursuant to sections 100.15 (3) and 100.40 (4) (b) of the Criminal Procedure Law, a local criminal court accusatory instrument is facially sufficient when it contains factual allegations of an evidentiary nature that provide reasonable cause to believe that the defendant committed the offense charged in the accusatory portion of such instrument. Similarly, an information is sufficient when its nonhearsay allegations, if true, establish every element of the offense charged and defendant’s commission of it (CPL 100.40 [1] [b], [c]; People v Alejandro, 70 NY2d 133 [1987]). The People’s prima facie burden “is not the same as the burden of proof beyond a reasonable doubt required at trial . . . , nor does it rise to the level of legally sufficient evidence that is necessary to survive a motion to dismiss based on the proof presented at trial” (People v Kalin, 12 NY3d 225, 230 [2009] [internal quotation marks omitted], citing People v Henderson, 92 NY2d 677, 680 [1999]). An information “should be given a fair and not overly restrictive or technical reading” (People v Casey, 95 NY2d 354, 360 [2000]; see also People v Konieczny, 2 NY3d 569 [2004]), during which inferences may rationally be drawn (see People v Bello, 92 NY2d 523, 526 [1998]), and a court “is not required to ignore common sense or the significance of the conduct alleged” (People v Gonzalez, 184 Misc 2d 262, 264 [App Term, 1st Dept 2000], lv denied 95 NY2d 835 [2000]). Nevertheless, conclusory statements are not sufficient. As the Court noted in People v Dumas (68 NY2d 729, 731 [1986]), the requirement of “facts of an evidentiary character” is not merely technical, but is “designed to provide the court with sufficient facts for the court to determine whether the defendant should be held for further action.” Finally, the failure to satisfy the requirements of CPL 100.40 (1) (c) is a jurisdictional defect, which may be raised at any time (People v Alejandro, 70 NY2d 133 [1987]; People v Kalin, 12 NY3d at 229). Thus, contrary to the People’s assertion, defendant’s motion is not untimely. (See People’s opposition at 6.)\nThe accusatory instrument lists the charges in descending order of severity, but a logical analysis of its sufficiency must begin with a consideration of what is charged as the third count, a violation of smoking restrictions.\nCount 3: Public Health Law Smoking Restrictions\nThe complaint states that defendant was observed “smoking an electronic vapor cigarette” on the “northbound platform of the Nevins Street subway station on the 2/3 line . . . which is not a designated smoking area.”\nFor this conduct, defendant is charged in the third count of the information under “PHL 1399 (1).” In fact, there is no such provision. Article 13-E of the Public Health Law (§ 1399-n et seq.) addresses the regulation of smoking in public and workplaces. Both the title of the charged offense (“Smoking restrictions”) and the facts relied on in the information before this court make it plain that defendant is charged with a violation of Public Health Law § 1399-0 (1), and the omission of the “-o” is an error that could, theoretically, be cured by amendment (People v Norman, 1 Misc 3d 127[A], 2003 NY Slip Op 51537[U] [App Term, 2d Dept, 9th & 10th Jud Dists 2003]). Correction of the statute number would not salvage this accusatory instrument, however.\nPublic Health Law § 1399-0 (1) (e) provides that ‘‘[s]moking shall not be permitted and no person shall smoke in the following indoor areas: . . . public means of mass transportation, including subways, underground subway stations.”\nEssential to this provision is the term “smoking,” which is defined in Public Health Law § 1399-n (8): “ ‘Smoking’ means the burning of a lighted cigar, cigarette, pipe or any other matter or substance which contains tobacco.”\nAn electronic cigarette neither burns nor contains tobacco. Instead, the use of such a device, which is commonly referred to as “vaping,” involves “the inhalation of vapourized e-cigarette liquid consisting of water, nicotine, a base of propylene glycol or vegetable glycerin and occasionally, flavouring.” This does not fit within the definition of “smoking” under Public Health Law § 1399-0.\nThe People contend that no specific prohibition on electronic cigarettes is necessary because “the courts of New York have yet to make a determination as to whether electronic cigarettes are to be viewed any differently under these sections than tobacco cigarettes” (People’s opposition at 6). But this is precisely backward. There are no “common law” crimes in New York; this court has jurisdiction only over actions brought pursuant to statutory prohibitions, and only where the accusatory instrument makes out every element of the offense as it is defined by statute (see Penal Law § 1.05 [3]; CPL 170.35 [1] [a], [b]). Moreover, it is well established that “[l]aws which create crime ought to be so explicit that all men subject to their penalties may know what acts it is their duty to avoid” (People v Grogan, 260 NY 138, 145 [1932] [citations omitted]).\nThe legislative body of New York City has taken measures to address this issue. Since April 29, 2014, it has been illegal under New York City’s Smoke Free Air Act to use electronic cigarettes in certain public places. The New York State Legislature is also well aware that the Public Health Law does not currently prohibit the use of electronic cigarettes. Indeed, on June 18, 2015, 10 days after the occurrence alleged in this case, the New York State Assembly approved Bill A05955, a bill to amend Public Health Law § 1399-n to “[m]ake[ ] the restrictions relating to smoking in public areas applicable to electronic cigarettes.” That bill died in the state senate, however, and was returned to the Assembly on January 6, 2016.\nThe charge of violation of smoking restrictions under the Public Health Law is facially insufficient.\nCount 4: Disorderly Conduct under the Transit Authority Rules\nThe fourth count of the information charges defendant under a provision cited as “RR § 1050 [7] [B],” entitled “Disorderly Conduct.” New York Codes, Rules and Regulations, properly abbreviated “NYCRR,” includes, at title 21 NYCRR, part 1050, provisions governing the conduct and safety of the public in the use of the facilities of the New York City Transit Authority. 21 NYCRR 1050.7 provides that “[n]o person on or in any facility or conveyance shall: . . . (b) smoke or carry an open flame or lighted match, cigar, cigarette, pipe or torch,” and deems a violation of that provision to be “disorderly conduct.” The term “facility” is defined in 21 NYCRR 1050.2 (b) and includes the subway platform where defendant was observed. Unlike the Public Health Law, the Transit Authority rules do not separately define the term “smoke.” Nevertheless, the references in the provision to “open flame or lighted match ... or torch” suggest that the concern addressed by this provision is the risk of fire.\nDefendant argues that the allegation that he possessed an electronic vapor cigarette is conclusory in the absence of any further description of the device (defendant’s motion ¶¶ 44-46). The words “electronic vapor” sufficiently describe the device and, critically, make it clear that this is not an item that is lit by a flame or that actually burns.\nThe factual allegations of the information do not make out this violation of the Transit Authority’s rules of conduct. Accordingly, defendant’s motion to dismiss this charge is granted.\nCount 1: Obstructing Governmental Administration\nAs relevant to this case, Penal Law § 195.05 provides that\n“[a] person is guilty of obstructing governmental administration when he intentionally obstructs, impairs or perverts the administration of law or other governmental function or prevents or attempts to prevent a public servant from performing an official function, by means of intimidation, physical force or interference, or by means of any independently unlawful act.”\nHere, the information alleges that defendant refused to produce identification despite repeated requests by the police sergeant who wanted to write defendant a summons, and that he cursed at the sergeant and other officers and told them to get away from him. The issues here are twofold: whether the police were engaged in an official function, and whether defendant’s refusal constituted either “interference,” “intimidation,” or an “independently unlawful act.” Ordinarily, the issuance of a summons is an “official function” with which a defendant may not lawfully interfere (see e.g. People v Ballard, 28 Misc 3d 129[A], 2010 NY Slip Op 51221[U] [App Term, 2d Dept, 9th & 10th Jud Dists 2010]; People v Pappalardo, 180 Misc 2d 707 [App Term, 1st Dept 1999]). However, the charge here fails on the second element.\nIt is well settled that, under the express provisions of the statute, if the obstruction is accomplished by interference, “[t]he interference must be[,] in part at least, physical in nature” (People v Dumay, 23 NY3d 518, 524 [2014] [internal quotation marks omitted], quoting People v Case, 42 NY2d 98, 102 [1977]). Defendant’s refusal to provide identification did not physically interfere with the officer’s ability to write him a summons.\nFurthermore, as defendant correctly argues (defendant’s motion at 8), ignoring a police officer’s request for identification is not a crime, and therefore does not amount to an “independently unlawful act” under obstruction of governmental administration (People v Offen, 96 Misc 2d 147, 150 [Crim Ct, NY County 1978]; see also People v Alston, 9 Misc 3d 1046 [Crim Ct, NY County 2005] [on traffic stop, defendant failed to comply with officer’s request for license, registration, and insurance card]).\nIn opposition to defendant’s motion, the People contend that “in refusing [to provide identification] and then stating loudly to each of the officers T— you’ and ‘get the f— away from me,’ [defendant] interfered with the administration of this governmental function by means of intimidation” (People’s opposition at 5). There is no subjective allegation here that the officer was intimidated by defendant’s conduct, and defendant’s mere utterance of an obscenity, absent any physical act or other words to create a credible threat, was not objectively intimidating. Thus, defendant’s conduct as alleged does not fall within any of the prohibited categories, making the charge of obstruction facially insufficient.\nAccordingly, defendant’s motion to dismiss the charge of obstruction of governmental administration as facially insufficient is granted.\nCount 2: Disorderly Conduct under the Penal Law\nAs to the remaining charge, Penal Law § 240.20 (3) provides in pertinent part that “[a] person is guilty of disorderly conduct when, with intent to cause public inconvenience, annoyance or alarm, or recklessly creating a risk thereof: . . . In a public place, he uses abusive or obscene language, or makes an obscene gesture.”\nDefendant is alleged to have repeatedly “told” the officers an obscenity “in a loud voice.” It is not illegal to yell or curse at a police officer (People v Gonzalez, 25 NY3d 1100, 1101 [2015]). Instead, such argumentative words constitute disorderly conduct under the Penal Law “only when the situation extends beyond the exchange between the individual disputants to a point where it becomes a potential or immediate public problem” (People v Baker, 20 NY3d 354, 359-360 [2013], quoting People v Weaver, 16 NY3d 123, 128 [2011]). In the case before this court, there is no allegation whatsoever from which the court could infer that defendant attracted any public attention, or that he even inadvertently created public inconvenience, annoyance, or alarm or risked doing so.\nAccordingly, defendant’s motion to dismiss the charge of disorderly conduct under Penal Law § 240.20 (3) is granted.\nConclusion\nWherefore, and for the reasons discussed above, it is hereby ordered, that defendant’s motion to dismiss the case in the interests of justice pursuant to CPL 170.40 is denied; and it is further ordered, that defendant’s motion to dismiss pursuant to CPL 30.30 is denied; and it is further ordered, that defendant’s motion to dismiss all counts of the information as facially insufficient is granted; and it is further ordered, that defendant’s motion to dismiss for lack of jurisdiction is granted to the extent required by the decision on his facial sufficiency motion, but otherwise denied.\n. Defendant also seeks to dismiss the complaint in furtherance of justice pursuant to CPL 170.40, and claims that this court lacks subject matter and personal jurisdiction.\n. The Criminal Court of Kings County does not have jurisdiction to hear defendant’s claims of false imprisonment and abuse of process (CPL 10.30).\n. Notwithstanding defendant’s claims in his January 26, 2016 submission that the City of New York and the State of New York are legal fictions, defendant concedes that “[t]his court and the judges thereof have jurisdiction with respect to crimes and offenses committed within the corporation known as the City of New York” (defendant’s request for judicial notice ¶ 20).\n. Public Health Law § 1399, which related to the statutory construction of provisions regulating summer day camps for children, was repealed by Laws of 2000, chapter 515, § 2, effective October 4, 2000. The Public Health Law does contain a section 1399-1 (the character after the dash being a lowercase L, not a numeral one), but it has nothing to do with smoking regulations. That provision is part of Public Health Law article 13-D, “Regulation of Housing; Used as Accommodations by Employees of Certain Motels and Hotels.” “The provisions of this article shall not apply to cities having a population of one hundred twenty-five thousand or more”—making Public Health Law §§ 1399-j and 1399-k inapplicable to New York City (Public Health Law § 1399-1).\n. Joy D’Souza, Smoking vs. Vaping: This is How They Affect Your Body, Huffington Post Canada, Aug. 18, 2015, available at http:// www.huffingtonpost.ca/2015/08/18/smoking-vs-vaping_n_8004290.html.\n. On December 30, 2013, then Mayor Michael Bloomberg approved local legislation passed by the New York City Council amending the Smoke Free Air Act, which had previously been substantially identical to the Public Health Law provision, so that it would prohibit use of electronic cigarettes in various locations, including underground subway stations (Administrative Code of City of NY § 17-503 [a], as amended by Local Law No. 152 [2013] of City of NY).\n. The text and history of Assembly Bill A05955 can be found at http:// assembly. state.ny.us/leg/?default_fld=&bn=A05955&term=2015 & Summary=Y&Actions=Y&Memo=Y&Text=Y.\n. The citation in the accusatory instrument to “RR” is unclear, but appears to be a reference to the “NYCRR.”\n. Defendant’s reliance on People v Cody (147 Misc 2d 588 [Rochester City Ct 1990]) to support his contention that Penal Law § 240.20 (3) is unconstitutionally vague, is unavailing (defendant’s motion ¶¶ 38-39). Cody failed to take into account the statute’s interdiction on public nuisance and breach of peace, and was overruled on that ground by the Appellate Term in People v Perkins (150 Misc 2d 543, 546 [App Term, 2d Dept 1991]). And, of course, as discussed in text, the Court of Appeals has recently and repeatedly addressed the very situation of mouthing off at police.",
+        "type": "majority",
+        "author": "Laura R. Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Shawn Thomas, pro se, and John Carlton, New York City, for defendant.",
+      "Kenneth P. Thompson, District Attorney, Brooklyn (Sandy Wong of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[24 NYS3d 884]\nThe People of the State of New York, Plaintiff, v Shawn Thomas, Defendant.\nCriminal Court of the City of New York, Kings County,\nFebruary 5, 2016\nAPPEARANCES OF COUNSEL\nShawn Thomas, pro se, and John Carlton, New York City, for defendant.\nKenneth P. Thompson, District Attorney, Brooklyn (Sandy Wong of counsel), for plaintiff."
+  },
+  "file_name": "2176-01",
+  "first_page_order": 353,
+  "last_page_order": 365
+}

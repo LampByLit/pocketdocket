@@ -1,0 +1,778 @@
+{
+  "id": 12279860,
+  "name": "E. Glenn Porter, III and Highland Memorial Park, Inc., Plaintiffs-Appellants, v. State of Wisconsin, Dave Ross and Wisconsin Funeral Directors Examining Board, Defendants-Respondents",
+  "name_abbreviation": "Porter v. State",
+  "decision_date": "2017-08-29",
+  "docket_number": "No. 2016AP1599",
+  "first_page": "117",
+  "last_page": "154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "378 Wis. 2d 117"
+    },
+    {
+      "type": "parallel",
+      "cite": "902 N.W.2d 566"
+    },
+    {
+      "type": "parallel",
+      "cite": "2017 WI App 65"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis. Ct. App.",
+    "id": 15300,
+    "name": "Wisconsin Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S. Ct. 669",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12609209,
+        12609210,
+        12609211,
+        12609212,
+        12609213,
+        12609214
+      ],
+      "weight": 4,
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/0669-01",
+        "/s-ct/137/0669-02",
+        "/s-ct/137/0669-03",
+        "/s-ct/137/0669-04",
+        "/s-ct/137/0669-05",
+        "/s-ct/137/0669-06"
+      ]
+    },
+    {
+      "cite": "136 S. Ct. 2464",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598624,
+        12598625,
+        12598626,
+        12598627,
+        12598628,
+        12598629
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/2464-01",
+        "/s-ct/136/2464-02",
+        "/s-ct/136/2464-03",
+        "/s-ct/136/2464-04",
+        "/s-ct/136/2464-05",
+        "/s-ct/136/2464-06"
+      ]
+    },
+    {
+      "cite": "222 Wis. 2d 475",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11545761
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/222/0475-01"
+      ]
+    },
+    {
+      "cite": "51 N.W.2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "260 Wis. 471",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8679428
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/260/0471-01"
+      ]
+    },
+    {
+      "cite": "214 N.W. 369",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1927,
+      "opinion_index": 0
+    },
+    {
+      "cite": "193 Wis. 311",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8690249
+      ],
+      "year": 1927,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/193/0311-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 456",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6219005
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0456-01"
+      ]
+    },
+    {
+      "cite": "839 N.W.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 Wis. 2d 273",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        3749583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/351/0273-01"
+      ]
+    },
+    {
+      "cite": "2013 WI 92",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "opinion_index": 0
+    },
+    {
+      "cite": "411 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10186
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0001-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176316
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "313",
+          "parenthetical": "quoting San Antonio Indep. Sch. Dist. v. Rodriguez, 411 U.S. 1, 28 (1973)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0307-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 157.11",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(9g)(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 440.92",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(3)(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 445.125",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(l)(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 WI 7",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9103326
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/259/0013-01"
+      ]
+    },
+    {
+      "cite": "901 N.W.2d 782",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2017 WI App 52",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        12279783
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 19-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/377/0566-01"
+      ]
+    },
+    {
+      "cite": "2006 WI 88",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        8336973
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶¶ 57, 59-61"
+        },
+        {
+          "page": "¶¶ 57, 59-61"
+        },
+        {
+          "page": "¶ 57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/293/0202-01"
+      ]
+    },
+    {
+      "cite": "450 U.S. 221",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183467
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "244",
+          "parenthetical": "Powell, J., dissenting"
+        },
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/450/0221-01"
+      ]
+    },
+    {
+      "cite": "105 Wis. 2d 203",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8674281
+      ],
+      "weight": 8,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "204"
+        },
+        {
+          "page": "209-10"
+        },
+        {
+          "page": "210"
+        },
+        {
+          "page": "210-11"
+        },
+        {
+          "page": "204, 210"
+        },
+        {
+          "page": "212-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/105/0203-01"
+      ]
+    },
+    {
+      "cite": "861 F.3d 678",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12276213
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "685",
+          "parenthetical": "stating the United States Supreme Court has \"never invalidated an economic regulation on rational-basis review because a more direct or effective policy alternative was available\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/861/0678-01"
+      ]
+    },
+    {
+      "cite": "2005 WI 125",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        8431575
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "¶ 76"
+        },
+        {
+          "page": "¶ 78"
+        },
+        {
+          "page": "f 8"
+        },
+        {
+          "page": "¶¶ 97-176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/284/0573-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11912
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "315"
+        },
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0307-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 16",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        5748914
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "f 12"
+        },
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/323/0377-01"
+      ]
+    },
+    {
+      "cite": "2015 WI 3",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4256034
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 39"
+        },
+        {
+          "page": "¶ 39"
+        },
+        {
+          "page": "¶ 49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/360/0193-01"
+      ]
+    },
+    {
+      "cite": "2011 WI 83",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4017577
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/336/0578-01"
+      ]
+    },
+    {
+      "cite": "193 Wis. 2d 299",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8664323
+      ],
+      "weight": 4,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/193/0299-01"
+      ]
+    },
+    {
+      "cite": "2005 WI 32",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9005647
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/279/0169-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 17",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        5748101
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/323/0321-01"
+      ]
+    },
+    {
+      "cite": "2000 WI 98",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        11113199
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/237/0099-01"
+      ]
+    },
+    {
+      "cite": "2016 WI 57",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        6775016
+      ],
+      "weight": 13,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "¶ 30"
+        },
+        {
+          "page": "¶ 32"
+        },
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "f 27"
+        },
+        {
+          "page": "¶ 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/370/0001-01"
+      ]
+    },
+    {
+      "cite": "2014 WI 99",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4091203
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 77"
+        },
+        {
+          "page": "¶ 77"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/358/0001-01"
+      ]
+    },
+    {
+      "cite": "2016 WI 1",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4185010
+      ],
+      "weight": 6,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "¶ 34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/366/0001-01"
+      ]
+    },
+    {
+      "cite": "2002 WI 104",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9367860
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/255/0359-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 802.08",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WI App 264",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        8231568
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/306/0513-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. §§ 157.067",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1694,
+    "char_count": 52437,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 6.573523458064447e-8,
+      "percentile": 0.402527907997725
+    },
+    "sha256": "0551a62564c20f2e2c562b82bc9490126125d452e991d70e08941a01f54d3f25",
+    "simhash": "1:ae836314bf2aa731",
+    "word_count": 8182
+  },
+  "last_updated": "2024-02-27T21:03:02.532561+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stark, P.J., Hruz and Seidl, JJ."
+    ],
+    "parties": [
+      "E. Glenn Porter, III and Highland Memorial Park, Inc., Plaintiffs-Appellants, v. State of Wisconsin, Dave Ross and Wisconsin Funeral Directors Examining Board, Defendants-Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "¶ 1.\nSTARK, P.J.\nIn this appeal, E. Glenn Porter, III and Highland Memorial Park, Inc., contend two statutes, which the parties refer to as the \"anti-combination laws,\" are facially unconstitutional on equal protection and substantive due process grounds. Generally speaking, the anti-combination laws prohibit the joint ownership or operation of a cemetery and a funeral home. The State asserts the anti-combination laws survive rational basis scrutiny and are therefore constitutionally permissible. Porter agrees the anti-combination laws are subject to rational basis review; however, he urges us to apply a more stringent form of rational basis scrutiny, sometimes referred to as \"rational basis with bite.\"\nf 2. We conclude that, whether analyzed using traditional rational basis scrutiny or a so-called \"rational basis with bite\" standard, the anti-combination laws pass constitutional muster, in that Porter has failed to show beyond a reasonable doubt they are not rationally related to a legitimate government interest. We therefore affirm the circuit court's order granting summary judgment to the State.\nBACKGROUND\nf 3. For purposes of this case, the term \"the anti-combination laws\" refers to Wis. Stat. §§ 157.067(2) and 445.12(6) (2015-16). Section 157.067(2) provides:\nNo cemetery authority may permit a funeral establishment to be located in the cemetery. No cemetery authority may have or permit an employee or agent of the cemetery to have any ownership, operation or other financial interest in a funeral establishment. Except as provided in sub. (2m), no cemetery authority or employee or agent of a cemetery may, directly or indirectly, receive or accept any commission, fee, remuneration or benefit of any kind from a funeral establishment or from an owner, employee or agent of a funeral establishment.\nSection 445.12(6) provides:\nNo licensed funeral director or operator of a funeral establishment may operate a mortuary or funeral establishment that is located in a cemetery or that is financially, through an ownership or operation interest or otherwise, connected with a cemetery. No licensed funeral director or his or her employee may, directly or indirectly, receive or accept any commission, fee, remuneration or benefit of any kind from any cemetery, mausoleum or crematory or from any owner, employee or agent thereof in connection with the sale or transfer of any cemetery lot, outer burial container, burial privilege or cremation, nor act, directly or indirectly, as a broker or jobber of any cemetery property or interest therein.\n¶ 4. Porter is the president and one of the principal owners of Highland Memorial Park, a cemetery located in New Berlin, Wisconsin. Porter would like to expand his business by operating a funeral establishment in conjunction with his existing cemetery operations. However, the anti-combination laws prevent him from doing so.\n¶ 5. As a result, Porter filed this lawsuit, asserting the anti-combination laws are facially unconstitutional on substantive due process and equal protection grounds. In support of his substantive due process claim, Porter alleged the anti-combination laws \"arbitrarily and irrationally prevent cemetery operators from owning an interest in a funeral establishment and owners and operators of funeral establishments from having an ownership interest in a cemetery.\" Porter further contended the laws infringe on his right to earn a living and do not further any legitimate government interest.\nf 6. Porter's equal protection claim alleged the anti-combination laws \"create anticompetitive, irrational, and arbitrary distinctions between classes of Wisconsin citizens,\" in that only cemetery operators are prohibited from operating or obtaining ownership interests in funeral establishments, and only funeral directors are prohibited from obtaining ownership interests in cemeteries. Porter alleged there is \"no reasonable basis\" for these classifications, and they serve \"no legitimate governmental purpose.\" As relief, Porter sought: (1) a declaratory judgment that the anti-combination laws violate equal protection and substantive due process; (2) an order permanently enjoining the State from enforcing the anti-combination laws; and (3) reasonable costs and attorney fees.\n¶ 7. The State moved for summary judgment, arguing rational basis scrutiny applied to both of Porter's claims because he had not alleged the creation of a suspect class or the violation of a fundamental right. The State asserted the anti-combination laws survived rational basis review because they were rationally related to three legitimate government interests—\"preserving competition in the death care services industry, protecting consumers from higher prices and poor service, and reducing the potential for abuses from commingling of cemetery and funeral revenues.\" In support of its motion, the State submitted, among other things, a report authored by economics professor Jeffrey Sundberg, who opined to a reasonable degree of professional certainty that the anti-combination laws serve the State's claimed government interests. In response, Porter relied primarily on a report and affidavit authored by economics professor David Harrington, who opined to a reasonable degree of professional certainty that the anti-combination laws do not actually advance the State's claimed interests. Porter argued any dispute as to that issue created a material question of fact requiring a trial.\n¶ 8. The circuit court granted summary judgment in favor of the State. The court concluded the anti-combination laws are constitutional because they are rationally related to a number of legitimate government interests—namely, \"preserving competition, avoiding commingling of funds, preserving consumer choices, avoiding higher prices, fostering personal service, [and] avoiding undue pressure on consumers.\" The court explained it was \"satisfied . . . that if there are arguments over whether some of this works or some of that doesn't work, it stands as proof then that there is a basis for the law.\" The court emphasized it was \"not supposed to decide whether or not one type of law is better than the other, but only whether or not there's a rational basis for it.\" Given the court's determination there was a rational basis for the anti-combination laws, it concluded it did not \"need to go beyond summary judgment and to have a trial on the matter, because . . . there's enough information before the court that the court finds the law is constitutional.\"\nSTANDARDS OF REVIEW\n¶ 9. We independently review a grant of summary judgment, applying the same standard as the circuit court. Hardy v. Hoefferle, 2007 WI App 264, ¶ 6, 306 Wis. 2d 513, 743 N.W.2d 843. Summary judgment is appropriate if \"the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\" Wis. Stat. § 802.08(2).\n¶ 10. Porter raises a facial challenge to the constitutionality of the anti-combination laws. \"A facial constitutional challenge to a statute is an uphill endeavor.\" State v. Dennis H., 2002 WI 104, ¶ 5, 255 Wis. 2d 359, 647 N.W.2d 851. To succeed, Porter must demonstrate the anti-combination laws cannot be constitutionally enforced under any circumstances. See Winnebago Cty. v. Christopher S., 2016 WI 1, ¶ 34, 366 Wis. 2d 1, 878 N.W.2d 109, cert. denied sub nom. Christopher S. v. Winnebago Cty., Wis., 136 S. Ct. 2464 (2016). The constitutionality of a statute presents a question of law that we review independently. Madison Teachers, Inc. v. Walker, 2014 WI 99, ¶ 13, 358 Wis. 2d 1, 851 N.W.2d 337.\n¶ 11. In assessing Porter's constitutional claims, we presume the anti-combination laws are constitutional. See Blake v. Jossart, 2016 WI 57, ¶ 27, 370 Wis. 2d 1, 884 N.W.2d 484, cert. denied, 137 S. Ct. 669 (2017). To overcome this presumption, Porter must demonstrate the laws are unconstitutional beyond a reasonable doubt. Id. \"It is not sufficient for the challenging party merely to establish doubt about a statute's constitutionality, and it is not enough to establish that a statute probably is unconstitutional.\" Id. (quoting Aicher ex rel. LaBarge v. Wisconsin Patients Comp. Fund, 2000 WI 98, ¶ 19, 237 Wis. 2d 99, 613 N.W.2d 849). If there is any doubt regarding a statute's constitutionality, we resolve that doubt in favor of upholding the statute. Id.\nDISCUSSION\n¶ 12. As noted above, Porter argues the anti-combination laws are unconstitutional on two grounds. First, he contends the laws violate his constitutional right to substantive due process. The right to substantive due process is \"rooted in the Fourteenth Amendment to the United States Constitution, and Article I, Section 1 of the Wisconsin Constitution.\" State v. Wood, 2010 WI 17, ¶ 17, 323 Wis. 2d 321, 780 N.W.2d 63. Substantive due process \"addresses 'the content of what government may do to people under the guise of the law.' \" Dane Cty. DHS v. Ponn P., 2005 WI 32, ¶ 19, 279 Wis. 2d 169, 694 N.W.2d 344 (quoting Reginald D. v. State, 193 Wis. 2d 299, 307, 533 N.W.2d 181 (1995)). It protects against government action that shocks the conscience or interferes with rights implicit in the concept of ordered liberty. Id. Stated differently, it protects against state action that is \"arbitrary, wrong or oppressive, regardless of whether the procedures applied to implement the action were fair.\" Id.\n¶ 13. Second, Porter argues the anti-combination laws violate his constitutional right to equal protection of the laws. See U.S. Const, amend XIV, § 1; Wis. Const. art. I, § l. To demonstrate unconstitutionality on this basis, Porter must show that the anti-combination laws \"treat [] members of similarly situated classes differently.\" See Blake, 370 Wis. 2d 1, ¶ 30. \"The right to equal protection does not require that such similarly situated classes be treated identically, but rather requires that the distinction made in treatment have some relevance to the purpose for which classification of the classes is made.\" State v. West, 2011 WI 83, ¶ 90, 336 Wis. 2d 578, 800 N.W.2d 929.\nf 14. When a statute is challenged on substantive due process or equal protection grounds, a court must first determine which level of judicial scrutiny to apply. State v. Alger, 2015 WI 3, ¶ 39, 360 Wis. 2d 193, 858 N.W.2d 346. \"Whether reviewing substantive due process or equal protection, the threshold question is whether a fundamental right is implicated or whether a suspect class [] is disadvantaged by the challenged legislation.\" State v. Smith, 2010 WI 16, ¶ 12, 323 Wis. 2d 377, 780 N.W.2d 90. If a statute implicates a fundamental right or disadvantages a suspect class, \"the challenged legislation must survive strict scrutiny.\" Id. Under strict scrutiny, a law will be upheld only if it is narrowly tailored to serve a compelling state interest. Alger, 360 Wis. 2d 193, ¶ 39.\n¶ 15. If a challenged law does not implicate a fundamental right or disadvantage a suspect class, courts generally apply rational basis scrutiny. Smith, 323 Wis. 2d 377, f 12. Under rational basis scrutiny, we will uphold a challenged law unless it is patently arbitrary and bears no rational relationship to a legitimate government interest. Id.\n¶ 16. It is undisputed the anti-combination laws do not affect any fundamental right or disadvantage a suspect class. Accordingly, the parties agree we should analyze the laws' constitutionality using rational basis scrutiny. However, while agreeing in principle that rational basis scrutiny is appropriate, the parties dispute how, precisely, rational basis scrutiny should be applied under the specific circumstances of this case.\n¶ 17. The State urges us to apply what we will refer to as \"traditional\" rational basis scrutiny. In other words, the State argues our review is limited to determining whether the anti-combination laws are rationally related to some legitimate government interest. See id. The State emphasizes that, on traditional rational basis review, a court must \"identify or, if necessary, construct a rationale supporting the legislature's determination,\" regardless of whether that rationale actually influenced the legislature to pass the challenged law. Blake, 370 Wis. 2d 1, ¶ 32. The State also cites FCC v. Beach Communications, Inc., 508 U.S. 307, 315 (1993), in which the United States Supreme Court stated, \"[LJegislative choice is not subject to courtroom fact-finding and may be based on rational speculation unsupported by evidence or empirical data.\" The State further notes the rational basis test \"does not require the legislature to choose the best or wisest means to achieve its goals. Deference to the means chosen is due even if the court believes that the same goal could be achieved in a more effective manner.\" Ferdon ex rel. Petrucelli v. Wisconsin Patients Comp. Fund, 2005 WI 125, ¶ 76, 284 Wis. 2d 573, 701 N.W.2d 440 (footnotes omitted); see also Monarch Beverage Co. v. Cook, 861 F.3d 678, 685 (7th Cir. 2017) (stating the United States Supreme Court has \"never invalidated an economic regulation on rational-basis review because a more direct or effective policy alternative was available\").\nf 18. Applying these principles, the State argues on appeal that the anti-combination laws satisfy rational basis scrutiny because they are conceivably related to two legitimate government interests: protecting consumers from increased prices, and limiting or minimizing the manipulation of funds required to be held in trust by funeral directors and cemetery operators. The State asserts the identification of these \"conceivable, rational\" bases for the anti-combination laws should end our analysis.\n¶ 19. Porter, in contrast, argues something more is required for the anti-combination laws to satisfy rational basis review. Porter asserts, and the State does not dispute, that the anti-combination laws were enacted decades ago at the behest of the Wisconsin Funeral Directors and Embalmers Association. Porter contends the laws were (and continue to be) a protectionist measure intended to insulate funeral directors from competition by combination firms—i.e., firms providing both funeral home and cemetery services. Because there is evidence showing there was a protectionist motive for the enactment of the anti-combination laws, Porter argues we must view the laws with a more skeptical eye. Citing Ferdon, Porter asserts that, instead of simply asking whether the anti-combination laws are rationally related to some legitimate government objective, we must consider whether the laws have a \"real and substantial relationship\" to such an objective. In other words, Porter argues the anti-combination laws survive rational basis review only if the evidence shows the laws actually —not just conceivably—advance a legitimate government interest. As Porter notes, this evidence-based form of rational basis review is sometimes referred to as \"rational basis with teeth\" or \"rational basis with bite.\" See Ferdon, 284 Wis. 2d 573, ¶ 78.\n¶ 20. Porter relies on several cases in support of his argument that we should employ a \"rational basis with bite\" analysis in the instant case, rather than the traditional rational basis analysis espoused by the State. Perhaps the most persuasive of these cases are State ex rel. Grand Bazaar Liquors, Inc. v. City of Milwaukee, 105 Wis. 2d 203, 313 N.W.2d 805 (1982), and Ferdon.\n¶ 21. At issue in Grand Bazaar Liquors was the constitutionality of a City of Milwaukee ordinance establishing an eligibility requirement that an applicant for a Class \"A\" liquor license—that is, a license to sell packaged beer and liquor to be consumed off the premises—receive at least fifty percent of the applicant's income from the on-the-premises sale of intoxicants. Grand Bazaar Liquors, 105 Wis. 2d at 204, 205 n.3. The record showed the ordinance was enacted at the behest of special interest groups \"as an anticom-petitive measure to keep large retail stores out of the retail liquor business.\" Id. at 209-10. However, during litigation, the City raised two alternative purposes for the ordinance. Id. at 210. Addressing these alternative purposes—which it did immediately after noting the record supported the notion the ordinance was an anti-competitive measure supported by special interest groups—our supreme court stated:\nWhile this after-the-fact reasoning does not necessarily make it any less worthy of consideration because our review is focused on the reasonable person's perspective of the ordinance regardless of testimony and evidence in the record, we cannot help but conclude in this case that \"the Court should receive with some skepticism post hoc hypotheses about legislative purpose, unsupported by the legislative history.\"\nId. at 210-11 (quoting Schweiker v. Wilson, 450 U.S. 221, 244 (1981) (Powell, J., dissenting)). The court further explained that, while rational basis review prevents a court from substituting its own notions of good public policy for those of the legislative body that adopted a particular law, \"this does not mean that our evaluation is limited to form and not substance.\" Id. at 209.\n¶ 22. The Grand Bazaar Liquors court later quoted a secondary source for the proposition that \"the reasonableness of an ordinance is dependent upon whether it tends to accomplish the objects for which the municipality exists. In other words, to be reasonable, an ordinance must tend in some degree to accomplish the object for which the municipal corporation was created and powers conferred upon it.\" Id. at 212 (quoting 5 McQuillin, Municipal Corporations, § 18.06, 347 (3d ed. 1969)). Applying this standard, the court concluded the ordinance in question did not actually accomplish either of the two purposes the City articulated during litigation—namely, limiting the number of premises in the City licensed to sell intoxicants, and encouraging adherence to the City's liquor regulations. Id. at 210, 212. The court noted there was \"no evidence in the record to demonstrate . . . any public need to limit the number of new liquor licenses,\" nor was there evidence \"regarding any public health, safety, morals, or general welfare problem or concern with observance of the city of Milwaukee's laws.\" Id. at 212-13. Based on this lack of evidence, the court concluded the ordinance was not rationally related to either of the purposes the City advanced. Id. at 212-14.\nf 23. Porter argues Grand Bazaar Liquors is relevant to this case for two reasons. First, Porter asserts Grand Bazaar Liquors demonstrates that, when the record shows the actual motivation for a law was economic protectionism, we must view alternative purposes for the law that are subsequently advanced during litigation with a degree of skepticism. Second, Porter contends Grand Bazaar Liquors shows that the \"factual question\" of whether a law actually furthers its purported objectives is relevant in a proper rational basis analysis.\n¶ 24. Porter also relies heavily on Ferdon. In Ferdon, our supreme court considered the constitutionality of statutes limiting noneconomic damages in medical malpractice cases to $350,000. Ferdon, 284 Wis. 2d 573, f 8. The court concluded rational basis was the appropriate level of scrutiny because the statutes did not involve any fundamental right or suspect classification. Id., ¶¶ 65-66. The court recited the traditional standard for rational basis review. Id., ¶ 73. However, the court then stated, \"For judicial review under rational basis to have any meaning, there must be a meaningful level of scrutiny, a thoughtful examination of not only the legislative purpose, but also the relationship between the legislation and the purpose.\" Id., ¶ 77. The court further explained:\nThe rational basis test is \"not a toothless one.\" \"Rational basis with teeth,\" sometimes referred to as \"rational basis with bite,\" focuses on the legislative means used to achieve the ends. This standard simply requires the court to conduct an inquiry to determine whether the legislation has more than a speculative tendency as the means for furthering a valid legislative purpose. \"The State may not rely on a classification whose relationship to an asserted goal is so attenuated as to render the distinction arbitrary or irrational.\"\nId., ¶ 78 (footnotes omitted).\nf 25. The Ferdon court identified one overarching legislative objective for the $350,000 cap on non-economic damages, as well as five underlying objectives. Id., ¶¶ 89-95. The court then addressed whether a rational relationship existed between the cap and each of those identified objectives. In so doing, the court analyzed extensive evidence provided by the parties—including government reports, scientific studies, and testimony—and concluded that, in practice, the cap did not actually further the identified government objectives. Id., |¶ 97-176. For instance, the court concluded the cap was not rationally related to the objective of ensuring quality health care by creating an environment that health care providers are likely to move into because the \"available evidence\" indicated health care providers \"do not decide to practice in a particular state based on that state's cap on noneconomic damages.\" Id., ¶ 171. Elsewhere, the court observed that while it was plausible at first blush that a cap on damages would reduce health care costs, id., ¶ 161, the evidence showed the correlation between such caps and a reduction in health care costs was \"at best indirect, weak, and remote.\" Id., ¶ 166. Because the evidence did not show that the challenged cap actually furthered the identified government interests, the court concluded there was no rational basis for the cap. Id., ¶¶ 184-87.\n¶ 26. Porter asserts he has presented evidence that the anti-combination laws do not actually further any of the State's claimed government interests and, in fact, operate contrary to some of those interests. Consequently, under the rational basis with bite standard set forth in Ferdon, which Porter contends was also used in Grand Bazaar Liquors, Porter argues there is at least a dispute of material fact as to the constitutionality of the anti-combination laws. Accordingly, Porter asserts the circuit court erred by granting summary judgment to the State.\n¶ 27. In response, the State points out that no Wisconsin Supreme Court case since Ferdon has employed the same sort of searching rational basis analysis used in Ferdon when assessing a statute's constitutionality on substantive due process or equal protection grounds. See, e.g., Blake, 370 Wis. 2d 1; Madison Teachers, 358 Wis. 2d 1; Northwest Airlines, Inc. v. DOR, 2006 WI 88, 293 Wis. 2d 202, 717 N.W.2d 280. However, Porter contends our supreme court did not employ a rational basis with bite analysis in cases like Blake, Madison Teachers, and Northwest Airlines because the specific nature of the arguments, issues, and factual records in those cases did not require such an analysis. Moreover, in an opinion released after oral argument in this case, the court of appeals followed the Ferdon court's approach in concluding a $750,000 cap on noneconomic damages in medical malpractice cases was facially unconstitutional. Mayo v. Wisconsin Injured Patients & Families Comp. Fund, 2017 WI App 52, ¶¶ 19-29, 377 Wis. 2d 566, 901 N.W.2d 782. Our opinion in Mayo undercuts the State's argument that Ferdon is an outlier whose methodology has not been repeated.\n¶ 28. Both the parties and this court have devoted significant time and attention to the issue of the proper way to apply rational basis scrutiny in the instant case. However, we need not resolve the parties' dispute regarding whether the applicable level of scrutiny, here, is traditional rational basis review or rational basis with bite. Ultimately, under either standard, we conclude as a matter of law that the anti-combination laws are not unconstitutional on substantive due process or equal protection grounds.\n¶ 29. In the following paragraphs, we first analyze the constitutionality of the anti-combination laws using what we perceive as traditional rational basis review. We then apply a rational basis with bite analysis. Finally, we address Porter's argument that a remand for further proceedings is necessary because disputed issues of material fact precluded the circuit court from granting summary judgment to the State.\nI. Traditional rational basis review\n¶ 30. As noted above, on rational basis review, our task is to determine whether the anti-combination laws are rationally related to some legitimate government interest. Smith, 323 Wis. 2d 377, ¶ 12. Under traditional rational basis scrutiny, we are not concerned with the actual reasons the legislature passed the anti-combination laws. See Madison Teachers, 358 Wis. 2d 1, ¶ 77 (describing legislature's actual motivations as \"irrelevant\" and stating that there need not be evidence supporting a law's rationality). Rather, the laws survive rational basis review if we can conceive of any rational basis for them. See State v. Radke, 2003 WI 7, ¶ 27, 259 Wis. 2d 13, 657 N.W.2d 66. Our ultimate inquiry is whether the legislature could have \"rationally concluded\" or \"reasonably believed\" that the anti-combination laws would advance a legitimate government interest. See Northwest Airlines, 293 Wis. 2d 202, ¶¶ 57, 59-61. Moreover, we presume the anti-combination laws are constitutional, and to overcome that presumption Porter must demonstrate their unconstitutionality beyond a reasonable doubt. See Blake, 370 Wis. 2d 1, ¶ 27.\nf 31. On appeal, the State asserts the anti-combination laws are rationally related to two legitimate government interests: protecting consumers from increased prices, and limiting or minimizing the manipulation of funds required to be held in trust by funeral directors and cemetery operators. With respect to the first of these interests, the State contends that, without the anti-combination laws, combination firms would, in the short run, offer lower prices than stand-alone funeral homes and limit stand-alone firms' access to cemeteries. The State asserts this would drive stand-alone funeral homes from the market, at which point combination firms would increase their prices. The State therefore contends that allowing combination firms to operate in Wisconsin would ultimately increase the price of death care services for Wisconsin consumers to their detriment.\nf 32. As for its second claimed government interest—limiting the manipulation of funds required to be held in trust—the State asserts that \"different types of sales within the death care industry are subject to different requirements for holding in trust those funds paid for 'pre-need' purchase.\" The State explains:\nFor example, caskets purchased pre-need are subject to a 100% trusting requirement, meaning all funds paid for a casket before death must be held in trust. See Wis. Stat. § 445.125(l)(a)l. Other merchandise, however, is subject to different trusting requirements: for example, \"monuments, markers, nameplates, vases, and urns\" are subject to a 40% trusting requirement. See Wis. Stat. § 440.92(3)(a), 157.061(3). And sales of cemetery plots require the seller to place in trust 15% of the principal paid for the plot, to cover perpetual care expenses. See Wis. Stat. § 157.11(9g)(c).\n¶ 33. The State asserts the potential for abuse arises when a combination firm sells both cemetery plots and other merchandise subject to higher trusting requirements. The State contends that such a firm could \"charge [] more for merchandise that is subject to a lower trusting requirement, and lower [] its prices for that merchandise which is subject to higher trusting requirements.\" The State asserts, \"Doing so would give the firm immediate access to more funds, at the risk that funds are not available when the pre-need purchaser dies and needs the paid-for merchandise.\"\n1 34. Porter does not dispute—and we agree— that the State's two claimed bases for the anti-combination laws are legitimate government interests. Both interests conceivably serve to protect consumers in markets encountered by virtually everyone, and at a time in their lives when they may be particularly vulnerable to questionable marketing influences due to the loss of loved ones. Using a traditional rational basis analysis, we conclude the legislature could have reasonably believed the anti-combination laws would advance both of the State's claimed interests. See Northwest Airlines, 293 Wis. 2d 202, ¶¶ 57, 59-61. It is of no import that the legislature may actually have been motivated by other concerns when it enacted the anti-combination laws, nor was the legislature required to cite evidence supporting the laws' rationality. See Madison Teachers, 358 Wis. 2d 1, ¶ 77. For purposes of traditional rational basis review, it is sufficient that the anti-combination laws conceivably advance the legitimate government interests now relied upon by the State. Thus, under traditional rational basis review, Porter has failed to demonstrate beyond a reasonable doubt that the anti-combination laws are unconstitutional.\nII. Rational basis with bite\nf 35. We similarly conclude, under a rational basis with bite analysis, that Porter has failed to show the anti-combination laws are unconstitutional. As discussed above, Porter contends that, under rational basis with bite, the anti-combination laws are constitutional only if they bear a \"real and substantial relationship\" to a legitimate government objective. Porter argues the anti-combination laws do not meet this standard because an examination of the materials submitted by the parties shows the laws do not, in fact, further any of the State's claimed interests.\nf 36. In support of its argument that the anti-combination laws are constitutional, the State relies primarily on the report of its expert witness, economics professor Jeffrey Sundberg. Sundberg opined, to a reasonable degree of professional certainty, that the anti-combination laws \"protect the interest of consumers\" by \"encourag[ing], or preventing] the discouragement of, competition.\" Sundberg explained that combination firms, if permitted, would \"have an opportunity to significantly reduce the amount of competition they face\" through a process called \"foreclosure.\" According to Sundberg:\n[A] cemetery with a financial interest in a funeral home could easily create an advantage by charging a normal or perhaps lower price for burials from its partner home, and a higher price for burials from other funeral homes. This would allow the combination to achieve a higher market share and create a disadvantage for rival firms, as long as the number of cemeteries was limited. This at least appears to be a consumer-friendly result, as long as it lasts. However, as the combination captures more market share, the amount of competition will decline and the firm can then charge full prices that include the artificially higher cost of the burial plot previously charged to other firms. Prices faced by consumers will rise.\n¶ 37. Sundberg conceded foreclosure is \"not a common result,\" but he asserted it is \"most likely to work in a case where one part of the integrated firm is a special resource, one that cannot easily be replicated by others.\" Sundberg opined, \"This is likely to be the case with cemeteries,\" because there are far fewer cemeteries in the United States than funeral homes. Sundberg continued:\nGiven the land, capital, and regulatory requirements, it is reasonable to believe that entering the cemetery industry is much more difficult than starting a new funeral home.\nAs a result, a funeral home that is owned by, or owns, a cemetery has access to a scarce resource, one that gives it an advantage over other funeral homes. As other firms exit the market it becomes advantageous for the combination to use its market power to extract more money from consumers, perhaps by charging higher prices or perhaps by simply encouraging distraught consumers with few alternatives to add more features to their loved one's service.\nThe small number of cemeteries and the barriers to creating new ones, especially in urban areas, give a special advantage to well-capitalized large firms that can afford to purchase multiple funeral homes. With enough funeral homes, it may be profitable for a cemetery to completely exclude burials from funeral homes owned by others.\n¶ 38. Porter relies on the contrary report and affidavit of his expert witness, economist David Harrington. Harrington opined that the anti-combination laws actually increase the cost of death care services to Wisconsin consumers by, on average, $192 per death. Harrington explained it is less costly to produce funeral services at combination firms because those firms are able to benefit from economies of scale and scope. Harrington also disputed Sundberg's assertion that permitting combination firms would lead to foreclosure, ultimately resulting in higher prices for Wisconsin consumers. He explained:\nPerhaps the best evidence for this point is [the] fact that combination firms already exist and do business in almost all of the states. Although I have not deliberately investigated the possibility, I can say that over the many years I have studied the industry I have not seen any evidence that combination firms actually engage in the kind of exclusionary behavior that [Sundberg] says that he fears. If they did so, their conduct would likely have been the subject of a challenge under the antitrust laws. I am not aware that any such case has ever been brought in the states where combination firms are permitted to do business.\n¶ 39. Porter argues Harrington's opinions show that the anti-combination laws do not, in fact, further the State's claimed interest in protecting consumers from increased prices. We disagree. Sundberg sharply disputed Harrington's assertion that the anti-combination laws increase the cost of death care services in Wisconsin by $192 per death, raising several specific and reasonable criticisms of Harrington's methodology. In addition, although Harrington opined that, in his experience, he has not seen any evidence that combination firms engage in exclusionary behavior in the states where they are permitted, he conceded he has not \"deliberately investigated the possibility.\" Moreover, even accepting as true Harrington's assertion that there is no evidence foreclosure and resultant price increases have occurred in other states where combination firms are permitted, there is similarly no evidence in the record establishing that those results do not occur. On this record, Porter has not established, beyond a reasonable doubt, that the anti-combination laws do not actually further the State's claimed interest in protecting consumers from increased prices.\n¶ 40. As for the State's second claimed governmental interest, Sundberg opined that the anti-combination laws \"reduce[] the potential for abuses from comingling of cemetery and funeral revenues.\" (Formatting altered.) Sundberg explained:\n[TJhere is some potential for abuse when combinations exist. The amount of money set aside is supposed to be 15% of the value of [a cemetery] plot. By providing funeral services as well as cemetery plots, a firm could potentially exploit [the trusting requirement for cemetery plots] by increasing the price of something like burial vaults and reducing the price of the plot itself, collecting the same amount of revenue while being required to set aside less money for perpetual care, without actually reducing the actual expenses of perpetual care.\nSundberg opined that having a single firm selling more categories of merchandise \"makes the commingling potentially easier to disguise, if a firm were interested in doing so.\" He asserted that, at a minimum, without the anti-combination laws, \"detecting such activity would be more difficult.\"\n| 41. Harrington disagreed with Sundberg's conclusions regarding the potential for abuse of trusting requirements. He opined:\nWisconsin has a state statute (Wis. Stat. § 157.11) designed to ensure that cemeteries are cared for in perpetuity. This statute applies to cemeteries operated by combination firms to the same extent that it applies to any cemetery. Abuse or misuse of funds is no more or less likely simply because a cemetery firms [sic] operates a funeral establishment. By defendant's logic, a cemetery should be precluded from operating a flower shop because of the possibility that funds could be comingled. Wisconsin law does not prohibit cemeteries from engaging in the flower business or from selling any other complementary goods other than funeral services.\n¶ 42. Again, Harrington's opinion does not establish, beyond a reasonable doubt, that the anti-combination laws do not actually advance the State's interest in limiting the potential for abuse of trusting requirements. While Harrington asserted the abuse or misuse of funds is no more likely to occur in a combination firm than a stand-alone firm, Sundberg offered a contrary opinion and further opined, without contradiction, that having more categories of merchandise makes the commingling of funds with different trusting requirements easier to disguise and more difficult to detect. Sundberg also directly addressed Harrington's point that cemeteries are not prohibited from operating flower shops, noting, \"While such commingling could also occur with funds from flower sales, . . . funeral revenues are likely to be much more significant than flower sales.\"\n¶ 43. Based on the expert opinions contained in Sundberg's report, one could reasonably conclude the anti-combination laws advance the State's interest in limiting the potential for abuse of trusting requirements. See Northwest Airlines, 293 Wis. 2d 202, ¶ 57. Ultimately, while it is true the State has not presented conclusive evidence showing the anti-combination laws actually limit abuse of trusting requirements in practice, Porter has similarly failed to present definitive evidence that the anti-combination laws do not have that effect. Stated differently, Porter has failed to demonstrate, beyond a reasonable doubt, that the laws do not actually serve the State's interest in limiting the potential for abuse of trusting requirements.\n¶ 44. The principal cases Porter relies on in support of his argument that the anti-combination laws do not satisfy rational basis with bite—Grand Bazaar Liquors and Ferdon—are distinguishable. As discussed above, in Grand Bazaar Liquors, the City of Milwaukee argued an ordinance requiring Class \"A\" liquor license applicants to receive at least fifty percent of their income from the on-the-premises sale of intoxicants was rationally related to the City's interests in limiting the number of premises in the City licensed to sell intoxicants and encouraging adherence to liquor regulations. Grand Bazaar Liquors, 105 Wis. 2d at 204, 210. Our supreme court disagreed, noting there was no evidence in the record of any need to limit the number of new liquor licenses or evidence of any problem with observance of the City's liquor laws. Id. at 212—13. Here, in contrast, there is evidence in the record—namely, Sund-berg's report and opinions—that the anti-combination laws further the State's claimed objectives. Unlike the Grand Bazaar Liquors court, we are not faced with a complete lack of evidence regarding the rational relation between the challenged laws and the government's claimed purposes.\n¶ 45. In Ferdon, our supreme court analyzed an extensive evidentiary record in assessing whether a $350,000 cap on noneconomic damages in medical malpractice cases furthered several government objectives. Ferdon, 284 Wis. 2d 573, ¶¶ 97-176. The court generally concluded the evidence supporting a rational relationship between the cap and the government's interests was weak, while the plaintiff had presented significantly stronger evidence that the cap did not actually further any of the government's interests. See, e.g., id., If 120-25, 144-158, 163-66, 168-176.\nI 46. In this case, each side has presented a single expert witness supporting its position. The opinions of Sundberg, the State's expert, support a conclusion that the anti-combination laws advance the State's interests in protecting consumers from increased prices and limiting the potential for abuse of trusting requirements. Although the opinions of Porter's expert support a contrary conclusion, they do not negate the rationality of Sundberg's opinions or definitively establish that the anti-combination laws do not actually advance the State's claimed interests. As a result, Porter's expert's opinions fail to rebut the presumption the laws are constitutional. Thus, unlike the plaintiff in Ferdon, Porter has failed to demonstrate the unconstitutionality of the anti-combination laws beyond a reasonable doubt.\nIII. Necessity of a remand for further proceedings\nI 47. Porter argues that, even if he has not definitively established that the anti-combination laws are unconstitutional, he has, at the very least, raised a genuine issue of material fact regarding the laws' constitutionality. Porter therefore contends the circuit court erred by granting the State's summary judgment motion. Porter asks us to reverse the court's order and remand for further proceedings—presumably an evi-dentiary hearing.\n¶ 48. We decline Porter's invitation to remand this case for further proceedings, as none are necessary. While evidence, including expert opinion, has been presented in this case, the court must determine the relative merit of that evidence during a constitutional challenge. Even under a rational basis \"with bite\" analysis, neither the Ferdon court nor any authority Porter has cited stands for the proposition that evidence bearing on a rational basis review is for some fact-finder to determine. In addition to being unprecedented, allowing for a fact-finding hearing would improperly elevate a so-called factual determination— presumably one made under a mere preponderance-of-the-evidence standard—as dispositive of the question of the anti-combination laws' constitutionality—which determination we know involves a more stringent standard that is a question of law. See Madison Teachers, 358 Wis. 2d 1, ¶ 13.\n¶ 49. In sum, we presume the anti-combination laws are constitutional, and in order to overcome that presumption, Porter must demonstrate the laws are unconstitutional beyond a reasonable doubt. See Blake, 370 Wis. 2d 1, f 27. Under these circumstances, if the evidence indicates there is a reasonable difference of opinion as to whether the anti-combination laws are rationally related to the State's claimed interests, then the State has prevailed because Porter cannot meet his burden. The circuit court therefore properly granted summary judgment to the State.\nCONCLUSION\n¶ 50. Under either traditional rational basis scrutiny or rational basis with bite, Porter has failed to establish that the anti-combination laws are unconstitutional beyond a reasonable doubt. We therefore affirm the circuit court's order granting summary judgment to the State.\n¶ 51. We emphasize that our decision in this case does not express any opinion as to the wisdom of the anti-combination laws or whether they are the best way to accomplish the State's legitimate interests in protecting consumers from potential increased prices and limiting the possibility for abuse of trusting requirements. The wisdom and efficacy of the anti-combination laws are issues for the legislature, not this court, to decide. Rational basis review \"does not 'allow us to substitute our personal notions of good public policy for those of the legislature.\" Id., ¶ 32 n.16 (quoting Schweiker v. Wilson, 450 U.S. 221, 234 (1981)). It is, instead, \"a paradigm of judicial restraint.\" Smith, 323 Wis. 2d 377, ¶ 17 (quoting Beach Commc'ns, 508 U.S. at 314). What is more, even if Porter's arguments caused us to doubt the anti-combination laws' constitutionality, \"it is not enough to establish that a statute probably is unconstitutional.\" Blake, 370 Wis. 2d 1, ¶ 27 (quoting Aicher, 237 Wis. 2d 99, ¶ 19). Here, for all of the reasons discussed above, we conclude Porter has failed to show beyond a reasonable doubt that the anti-combination laws are not rationally related to some legitimate government interest. That conclusion ends our inquiry.\nBy the Court.—Order affirmed.\nWe refer to the plaintiffs-appellants, collectively, as \"Porter\" throughout the remainder of this opinion. We also refer to them individually where needed.\nWe refer to the defendants-respondents, collectively, as \"the State.\"\nAll references to the Wisconsin Statutes are to the 2015-16 version unless otherwise noted.\nOur supreme court has clarified that, although the \"beyond a reasonable doubt\" burden of proof is reminiscent of the evidentiary burden of proof in criminal cases, \"the constitutionality of a statute is an issue of law, not fact.\" Madison Teachers, Inc. v. Walker, 2014 WI 99, ¶ 13 n.8, 358 Wis. 2d 1, 851 N.W.2d 337 (quoting Ferdon ex rel. Petrucelli v. Wisconsin Patients Comp. Fund, 2005 WI 125, ¶ 68 n.71, 284 Wis. 2d 573, 701 N.W.2d 440). \"The beyond a reasonable doubt burden of proof in a constitutional challenge case means that a court gives great deference to the legislature, and a court's degree of certainty about the unconstitutionality results from the persuasive force of legal argument.\" Id. (quoting Ferdon, 284 Wis. 2d 573, ¶ 68 n.71).\nOur supreme court has observed that the United States and Wisconsin Constitutions \"provide substantively similar due process guarantees.\" Winnebago Cty. v. Christopher S., 2016 WI 1, ¶ 35 n.18, 366 Wis. 2d 1, 878 N.W.2d 109, cert. denied sub nom. Christopher S. v. Winnebago Cty., Wis., 136 S. Ct. 2464 (2016). Accordingly, the court has, on multiple occasions, declined to distinguish between the federal and state due process protections, and the parties do not ask us to do so here. See id.; see also Blake v. Jossart, 2016 WI 57, ¶ 28 & n.15, 370 Wis. 2d 1, 884 N.W.2d 484, cert. denied, 137 S. Ct. 669 (2017); State v. Wood, 2010 WI 17, ¶ 17 n.9, 323 Wis. 2d 321, 780 N.W.2d 63.\nAs with the constitutional right to substantive due process, our supreme court \"appli[es] the same interpretation to the equal protection provisions of both the Wisconsin Constitution and the federal constitution.\" Aicher ex rel. LaBarge v. Wisconsin Patients Comp. Fund, 2000 WI 98, ¶ 55 n.14, 237 Wis. 2d 99, 613 N.W.2d 849.\nThe United States Supreme Court has stated a \"suspect class is one 'saddled with such disabilities, or subjected to such a history of purposeful unequal treatment, or relegated to such a position of political powerlessness as to command extraordinary protection from the majoritarian political process.1 \" Massachusetts Bd. of Ret. v. Murgia, 427 U.S. 307, 313 (1976) (quoting San Antonio Indep. Sch. Dist. v. Rodriguez, 411 U.S. 1, 28 (1973)). Examples of suspect classes include classifications based on race or national origin. See id.\n\"A third level of scrutiny, intermediate scrutiny,. . . typically applies to 'discriminatory classifications based on sex or illegitimacy.'\" Milwaukee Cty. v. Mary F.-R., 2013 WI 92, ¶ 35 n.22, 351 Wis. 2d 273, 839 N.W.2d 581 (quoting Clark v. Jeter, 486 U.S. 456, 461 (1988)). Intermediate scrutiny is plainly inapplicable to Porter's constitutional claims regarding the anti-combination laws, and, as such, we do not address it further.\nPorter also relies on a number of older cases, including John F. Jelke Co. v. Emery, 193 Wis. 311, 214 N.W. 369 (1927), and Dairy Queen of Wisconsin, Inc. v. McDowell, 260 Wis. 471, 51 N.W.2d 34 (1952).\nNeither Porter nor the State draws a substantive distinction between Porter's arguments regarding substantive due process and equal protection. In addition, neither party addresses the five-factor test Wisconsin courts have traditionally employed in equal protection challenges to determine whether a legislative classification satisfies the rational basis test. See Aicher, 237 Wis. 2d 99, ¶ 58. Instead, the parties appear to agree that both of Porter's arguments rise and fall on the question of whether the anti-combination laws are rationally related to a legitimate government interest. This approach is consistent with State v. Smith, 2010 WI 16, ¶ 16, 323 Wis. 2d 377, 780 N.W.2d 90, in which our supreme court stated:\nAlthough substantive due process and equal protection may have different implications, \"[t]he analysis under both the due process and equal protection clauses is largely the same.\" Accordingly, as a practical matter, the rational basis analysis applicable to [a party's] substantive due process challenge is also relevant to [the party's] equal protection challenge.\nSee also State v. Alger, 2015 WI 3, ¶ 49, 360 Wis. 2d 193, 858 N.W.2d 346 (resolving both equal protection and substantive due process claims by determining whether the challenged state action was rationally related to a legitimate government interest).\nWe recognize that Porter perceives there is but one rational basis review, not two different types of analyses. Be that as it may, we dispose of Porter's arguments in the course of applying what we identify as the rational basis with bite analysis.\nThe State argued in the circuit court that the anti-combination laws were rationally related to other legitimate government interests. However, the State has abandoned those arguments on appeal, and we therefore do not address them. See A.O. Smith Corp. v. Allstate Ins. Cos., 222 Wis. 2d 475, 491, 588 N.W.2d 285 (Ct. App. 1998).\nPorter asserts the anti-combination laws are not rationally related to the State's first claimed interest—protecting consumers from increased prices—because the type of exclusionary behavior described by the State is already illegal under state and federal antitrust law. Porter contends the legislature cannot rationally enact a statute to combat an evil that is already illegal.\nWe are not convinced the fact that some of the exclusionary conduct described by the State may be illegal under other laws obviates the rational basis for the anti-combination laws. Despite the existence of state and federal antitrust law, the legislature could have reasonably deemed it prudent to enact additional measures aimed at specifically preventing exclusionary conduct in the death care industry—an industry in which consumers are particularly vulnerable. The legislature may also have reasonably wanted to prevent anti-competitive behavior by combination firms that, while not rising to the level of an antitrust violation, could nevertheless be detrimental to consumers.\nSundberg noted in his affidavit that there is \"no industrial organization literature that specifically evaluates the possibility of foreclosure in the death services industry.\" However, Sundberg continued:\n[A] very recent paper suggests that there are reasons to he concerned about foreclosure in industries structured the same way as the funeral homes industry. Loertscher and Reisinger use a theoretical analysis to argue that while vertical integration tends to be pro-competitive under most circumstances, it is likely to be anti-competitive in cases where the integrating firm faces many competitors, as is the case in the funeral homes industry at the present time.\nSee also supra n.4.",
+        "type": "majority",
+        "author": "STARK, P.J."
+      }
+    ],
+    "attorneys": [
+      "On behalf of the plaintiffs-appellants, the cause was submitted on the briefs of Richard M. Esenberg, Michael Fischer, Thomas C. Kamenick and Clyde Taylor of Wisconsin Institute For Law & Liberty, Milwaukee. There was oral argument by Richard M. Esenberg.",
+      "On behalf of the defendants-respondents, the cause was submitted on the brief of Gabe Johnson-Karp, assistant attorney general, and Brad D. Schimel, attorney general. There was oral argument by Gabe Johnson-Karp."
+    ],
+    "corrections": "",
+    "head_matter": "E. Glenn Porter, III and Highland Memorial Park, Inc., Plaintiffs-Appellants, v. State of Wisconsin, Dave Ross and Wisconsin Funeral Directors Examining Board, Defendants-Respondents.\nCourt of Appeals\nNo. 2016AP1599.\nOral argument June 19, 2017.\nDecided August 29, 2017.\n2017 WI App 65\n(Also reported in 902 N.W.2d 566.)\nOn behalf of the plaintiffs-appellants, the cause was submitted on the briefs of Richard M. Esenberg, Michael Fischer, Thomas C. Kamenick and Clyde Taylor of Wisconsin Institute For Law & Liberty, Milwaukee. There was oral argument by Richard M. Esenberg.\nOn behalf of the defendants-respondents, the cause was submitted on the brief of Gabe Johnson-Karp, assistant attorney general, and Brad D. Schimel, attorney general. There was oral argument by Gabe Johnson-Karp.\nBefore Stark, P.J., Hruz and Seidl, JJ.\nPetition for Review filed.\nSee Callaghan’s Wisconsin Digest, same topic and section number."
+  },
+  "file_name": "1762-01",
+  "first_page_order": 249,
+  "last_page_order": 286
+}

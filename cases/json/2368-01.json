@@ -1,0 +1,543 @@
+{
+  "id": 6789992,
+  "name": "The People of the State of New York, Plaintiff, v. Willie Tookes, Defendant; The People of the State of New York, Plaintiff, v. Michael Robertson, Defendant",
+  "name_abbreviation": "People v. Tookes",
+  "decision_date": "2016-06-08",
+  "docket_number": "",
+  "first_page": "956",
+  "last_page": "979",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 956"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 NY3d 88",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        456676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/3/0088-01"
+      ]
+    },
+    {
+      "cite": "36 Misc 3d 880",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3784478
+      ],
+      "pin_cites": [
+        {
+          "page": "886-887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/36/0880-01"
+      ]
+    },
+    {
+      "cite": "183 Misc 2d 737",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0737-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 666",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501208
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0666-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 1447",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3721158
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/1447-01"
+      ]
+    },
+    {
+      "cite": "291 AD2d 856",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        129019,
+        128774
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/291/0856-02",
+        "/ad2d/291/0856-01"
+      ]
+    },
+    {
+      "cite": "120 AD3d 1442",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4239684
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/1442-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1625",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4175921,
+        4174465,
+        4171263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1625-01",
+        "/ad3d/137/1625-03",
+        "/ad3d/137/1625-02"
+      ]
+    },
+    {
+      "cite": "60 AD3d 1496",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5716930
+      ],
+      "pin_cites": [
+        {
+          "page": "1497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/60/1496-01"
+      ]
+    },
+    {
+      "cite": "139 AD3d 515",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4286704,
+        4289491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0515-01",
+        "/ad3d/139/0515-02"
+      ]
+    },
+    {
+      "cite": "139 AD3d 425",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4287434,
+        4281596
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0425-02",
+        "/ad3d/139/0425-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 625",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4238377,
+        4235347
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0625-01",
+        "/ad3d/138/0625-02"
+      ]
+    },
+    {
+      "cite": "138 AD3d 634",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4247249,
+        4239566,
+        4247975
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0634-02",
+        "/ad3d/138/0634-03",
+        "/ad3d/138/0634-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 573",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4244361,
+        4236286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0573-01",
+        "/ad3d/138/0573-02"
+      ]
+    },
+    {
+      "cite": "138 AD3d 581",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4235779,
+        4246724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0581-01",
+        "/ad3d/138/0581-02"
+      ]
+    },
+    {
+      "cite": "138 AD3d 580",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4238491,
+        4234407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0580-02",
+        "/ad3d/138/0580-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 566",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4238824
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0566-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 571",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4246928,
+        4243450
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0571-02",
+        "/ad3d/138/0571-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 741",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0741-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 740",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734475
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0740-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 45",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3735291
+      ],
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0045-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 1112",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3732078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/1112-01"
+      ]
+    },
+    {
+      "cite": "124 Misc 2d 622",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        828131
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/124/0622-01"
+      ]
+    },
+    {
+      "cite": "138 AD2d 514",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3540946,
+        3543975
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/138/0514-01",
+        "/ad2d/138/0514-02"
+      ]
+    },
+    {
+      "cite": "165 AD2d 656",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/165/0656-01"
+      ]
+    },
+    {
+      "cite": "198 AD2d 25",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1149240,
+        1148882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/198/0025-02",
+        "/ad2d/198/0025-01"
+      ]
+    },
+    {
+      "cite": "244 AD2d 277",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        402913,
+        402003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/244/0277-02",
+        "/ad2d/244/0277-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 923",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "249 AD2d 103",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        710299,
+        709884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/249/0103-01",
+        "/ad2d/249/0103-02"
+      ]
+    },
+    {
+      "cite": "115 AD3d 490",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4237009,
+        4247997
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0490-01",
+        "/ad3d/115/0490-02"
+      ]
+    },
+    {
+      "cite": "26 NY3d 730",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4134598
+      ],
+      "weight": 15,
+      "pin_cites": [
+        {
+          "page": "733"
+        },
+        {
+          "page": "738-739"
+        },
+        {
+          "page": "736"
+        },
+        {
+          "page": "740-741"
+        },
+        {
+          "page": "739"
+        },
+        {
+          "page": "733"
+        },
+        {
+          "page": "736"
+        },
+        {
+          "page": "739"
+        },
+        {
+          "page": "740"
+        },
+        {
+          "page": "736"
+        },
+        {
+          "page": "740"
+        },
+        {
+          "page": "735"
+        },
+        {
+          "page": "740"
+        },
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/26/0730-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1714,
+    "char_count": 54614,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18253554550863776
+    },
+    "sha256": "0deedab0f03de12eaa085ae299e16c5405ceb7fbeebc48d8c4e04ba787a03fe0",
+    "simhash": "1:4c1c3dd75eebe6d6",
+    "word_count": 8729
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Willie Tookes, Defendant. The People of the State of New York, Plaintiff, v Michael Robertson, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDaniel P. Conviser, J.\nLegal decisions which expand or contract fundamental constitutional rights often receive significant attention. But the offenders who are consigned to our correctional institutions also have more prosaic concerns. At issue here are claims by two inmates that the mandatory surcharges and fees which were imposed on them at sentencing have prevented them from obtaining necessary extra soap, deodorant, toothpaste, other hygiene products and additional commissary items they need. They ask here for this court to defer the payment of these surcharges and fees until after their prison terms are over. Deferrals are of paramount importance to indigent inmates because without them, a significant portion of any funds an inmate earns in prison or obtains from outside sources are docked by the Department of Corrections and Community Supervision (DOCCS) to pay down surcharge and fee obligations. Felony defendants other than youthful offenders are assessed a minimum of $375 at sentencing and in some cases significantly more. Inmates use monies in inmate accounts to buy commissary items like extra soap, shampoo, food or postage stamps. Although the two cases here are unrelated, the court is addressing them in one decision because they raise similar factual claims and are governed by the same legal standards.\nInmate surcharge and fee issues are not usually subject to extended legal briefing, argument or appellate opinions. Indeed, in this court’s experience, assistant district attorneys, who are usually one of the two parties in criminal cases, almost always take no position when defendants ask to have financial obligations deferred. The real party in interest with respect to such fee issues, other than the defendant, is the State. A landmark exception to this dearth of legal analysis is the recent decision of the Court of Appeals in People v Jones (26 NY3d 730 [2016]). That case has imposed significant new restrictions on the authority of trial courts to defer surcharges and fees. Under the Jones standards, it is clear that both motions here must be denied.\nStatement of Facts\nPeople v Tookes\nDefendant Willie Tookes, to put it mildly, is far from a sympathetic figure. He was convicted after a jury trial presided over by this court of robbery in the first degree, burglary in the first degree and other charges and sentenced upon those convictions as a second violent felony offender to a determinate sentence of 15 years, followed by five years of postrelease supervision. Mr. Tookes, along with his codefendant and lifelong friend Charles Hamilton, robbed and assaulted Mr. Tookes’ former fiancée in her home, at a time when Mr. Tookes and the victim continued to be acquainted but were no longer romantically involved. Mr. Tookes pretended (very transparently) to be a “victim” of the robbery committed by Mr. Hamilton who entered the victim’s home, assaulted her by striking her with what appeared to be a gun, tying her with duct tape and stealing her property, all while being assisted by Mr. Tookes. The victim testified that in addition to the obvious trauma caused by the robbery and assault itself, the fact that it was committed by a man she once loved and planned to marry made the betrayal inherent in the crime much more painful. Mr. Tookes was also convicted in 1986 of robbery in the first degree, rape in the first degree and sodomy in the first degree for which he served a long prison term. He is 54 years old. At sentencing the court imposed the standard felony mandatory surcharge of $300, crime victims’ assistance fee of $25 and DNA data bank fee of $50. Since Mr. Tookes was indigent, the court entered a civil judgment for the payment of the surcharges and fees. (See generally Penal Law § 60.35.)\nInmates frequently seek the deferral of their surcharge and fee obligations (waiver is not permitted) either at sentencing or in postjudgment motions. Those applications are usually made through brief form requests which provide little information for the reasons a deferral is sought. Mr. Tookes’ claim is unique, in this court’s experience, because it outlines the precise situation he is facing. In his motion, he first indicates he is earning $8 per week from prison labor. He says he is left with only $4 after fee assessments. The court understands that Mr. Tookes, under DOCCS rules, would actually be allotted a little more, allowed to keep 60% of his $8 weekly wage based on his two existing “encumbrances” (see discussion infra). That would equal $4.80 per week. He asserts that this does not allow him to buy the commissary items which are provided to inmates in disciplinary housing units (who cannot work) which he asserts is unfair, since he has not been accused of breaking any prison rules. He describes these items as being needed “for bearable living in prison.”\nMr. Tookes asserts that he receives no outside support and must rely on his prison wages for\n“stamps, extra soap (we’re issued one bar every two weeks), tooth paste (we’re issued one tube per month), and other minimum care products. And as I shower every day, in a double bunk inmate cell, the single bar of soap issued by the state is simply not enough to ensure my hygiene.”\nHe notes that he is confined at the Five Points Correctional Facility (a maximum security prison) which has over 1,200 inmates and that he needs deodorant and other hygiene products to live in that environment. He says that he also needs money to supplement his diet. While indicating that he receives no outside help, he also asserts (in an obvious contradiction) that when his family sacrifices to send him money, much of it is taken to pay his surcharge and fee obligations (which would be correct, as discussed infra). Mr. Tookes has attached a list of what he asserts are the prices for some of the items he aspires to purchase. These are:\n1. Effergrip Denture Adhesive Cream: $3.32\n2. Deodorant: $2.74\n3. Slippers: $2.93\n4. Soap: 97 cents\n5. Shampoo: $2.04\n6. Toothpaste: $1.55\n7. Denture Cleanse Pills: $2.29\n8. Lotion: $2.92\n9. Tooth Brush: 29 cents\n10. Finger Nail Clippers: 43 cents\n11. Toe Nail Clippers: 23 cents\n12. Petroleum Jelly: $1.90\n13. Mouth Wash: $1.04\nMr. Tookes is far from a completely credible reporter. But the basic facts he outlines with respect to the monies available to state inmates to purchase commissary items appear to be correct.\nPeople v Robertson\nMr. Robertson pleaded guilty to two indictments. The first alleged that he stole a cell phone from a woman at a nightclub in Manhattan. He pleaded guilty to grand larceny in the fourth degree with respect to that crime and received an indeterminate sentence of 2 to 4 years’ incarceration. The second indictment charged him with possessing a forged instrument, a credit card. He pleaded guilty to criminal possession of a forged instrument in the second degree with respect to that crime and received a sentence of 3 to 6 years’ incarceration. Both of those sentences were ordered to run concurrently. Mr. Robertson failed to appear for his sentencing on the grand larceny plea and was later apprehended after the issuance of a bench warrant. This court then increased his grand larceny sentence beyond what was promised when he pleaded guilty. Mr. Robertson has previous convictions for assault in the third degree and attempted robbery in the third degree. He is 26 years old.\nSince Mr. Robertson was convicted in two indictments involving two separate transactions, he was assessed with two mandatory surcharges of $300, two crime victims’ assistance fees of $25 and two DNA data bank fees of $50 for a total assessment of $750. (See generally Penal Law § 60.35.) Like Mr. Tookes, a civil judgment was entered at sentencing for the surcharges and fees since Mr. Robertson did not have money to pay them. Mr. Robertson, like Mr. Tookes, asserts he is indigent. He says he earns $9 per week through prison labor. He alleges that these assessments work “an unreasonable hardship on him above the ordinary hardship suffered by other indigent inmates because remaining money after the surcharge is not enough to satisfy the basic needs such as Toothpaste, Toothbrush, Soap, deodorant and shampoo.”\nDOCCS Surcharge and Fee Collection Rules\nIt is a common misunderstanding, even among many experienced criminal defense attorneys, that the imposition of a civil judgment for court-imposed surcharges and fees defers their collection until after a prison sentence is over. That is not the case. Rather, DOCCS collects funds to pay down these amounts from monies in inmate accounts. The DOCCS collections implement a legislative mandate that the agency collect funds from inmates who have not paid surcharges and fees. (See Penal Law § 60.35.) Monies in inmate accounts come from two sources: outside deposits (from family members, friends or an inmate) and prison earnings. DOCCS has issued directives which describe how monies from inmate accounts are seized to pay court-ordered financial obligations.\nThe most recent such directive this court has obtained, “Collection & Repayment of Inmate Advances & Obligations,” dated July 1, 2014, is, in this court’s view, not completely comprehensible with respect to the instant issues. The court therefore contacted the “supervising budget analyst” in charge of inmate accounts at DOCCS who helpfully explained the DOCCS procedures. DOCCS collections from inmate accounts depend on how many “encumbrances” an inmate has and whether funds come from prison earnings or outside sources. DOCCS considers the $300 mandatory surcharge and $25 crime victims’ assistance fee typically charged in felony cases to be a single “encumbrance” and the DNA data bank fee a second encumbrance. With respect to outside contributions to an inmate’s account, DOCCS deducts 25% of funds in an account to pay down owed amounts for one encumbrance and 50% of those funds where there are two or more encumbrances. If an inmate has two encumbrances but one is fully paid, the deduction amount will revert to the rate for a single encumbrance.\nThe same system with slightly different percentages applies to inmate funds earned through prison labor. For those monies, DOCCS deducts 20% of inmate funds to pay down one encumbrance and 40% where there are two or more encumbrances. Inmates placed in disciplinary segregation (“the box,” a “special housing unit” or “SHU” for short) are provided certain commissary items since they do not perform prison labor. Inmates too sick to work are provided a minimal allowance. However, those allowances are still subject to the same percentage assessments as those imposed on working inmates. DOCCS may also advance inmates sums to assist them with the expenses incurred by legal filings, even if an inmate has no money.\nDOCCS does not recognize court-ordered deferrals which are issued for only a portion of an inmate’s term. That is, were a court imposing a determinate sentence of five years’ incarceration to order a surcharge and fee deferral for three years, DOCCS would not implement the order. That is because the DOCCS computer system is not equipped to defer and then collect a surcharge or fee. It may only completely collect or completely defer an obligation. DOCCS will recognize a deferral, however, of one fee and not another. Thus, were a court to defer a restitution obligation but not a mandatory surcharge, DOCCS would recognize the restitution deferral. DOCCS assesses a flat 50% deduction to pay restitution obligations, which are not at issue here. An inmate who has financial obligations at the time of release will have his account assessed to pay them, except that the inmate will be able to keep the first $40 of funds in his account as “release money” and will in all cases be allotted $40 upon release, even if he has no funds. DOCCS does not punish inmates (through a loss of prison privileges, for example) because an inmate has no money to pay court-imposed surcharges and fees.\nConclusions of Law\nPeople v Jones\nIn Jones the Court of Appeals interpreted what it noted had been characterized as the series of interlocking “poorly drafted and difficult to follow” statutes which impose the obligation on defendants to pay mandatory surcharges and fees and specify the circumstances under which those assessments may be deferred. (26 NY3d at 733 [citation omitted].) The defendant in Jones pleaded guilty to class B felony drug crimes, was given concurrent six-month jail sentences and asked for a deferral of his mandatory surcharge. The First Department affirmed the trial court’s denial of the deferral request, holding that because the defendant was subject to a jail sentence of more than 60 days, he was required to make his deferral application in a post-sentencing proceeding. (People v Jones, 115 AD3d 490 [2014].) The Court of Appeals affirmed that holding.\nThe Jones Court first traced the history of the statutes governing surcharges and fees and legislative enactments prohibiting assessment waivers. Surcharge deferrals are provided for by CPL 420.40. This statute indicates that it “governs the deferral” of surcharges and fees and financial hardship hearings related to the imposition of surcharges. (CPL 420.40 [1].)\nThe statute then goes on, however, to provide procedures and standards for deferrals with respect to a “summons issued pursuant to subdivision three of section 60.35 of the penal law” and other statutory provisions not relevant here. (CPL 420.40 [2].) That subdivision, however, does not provide for any such summonses, nor are such summonses issued when a defendant is sentenced to state prison for a felony. Subdivision (8) of section 60.35 of the Penal Law does provide for such summonses to be issued when a surcharge or fee remains unpaid after 60 days. This section, however, provides that it is not applicable to jail sentences of longer than 60 days or state prison sentences. This initially presented the question to the Jones Court of whether the surcharge deferrals provided by CPL 420.40 were only applicable to persons who were not sentenced to jail for more than 60 days and not sentenced to prison (the interpretation supported by CPL 420.40 [2]) or whether those deferral procedures were generally applicable to all offenders (the interpretation supported by the preceding subdivision of the statute, CPL 420.40 [1]). The Court determined the surcharge deferral statute was applicable to all offenders. (26 NY3d at 738-739.)\nThat statute provides that offenders may present “credible and verifiable information” warranting a surcharge or fee deferral because the person’s “indigence” “would work an unreasonable hardship on the person or his or her immediate family.” (CPL 420.40 [2].) The court is directed in considering the application to be “mindful of the mandatory nature” of these assessments and “the important criminal justice and victim services sustained by such fees.” (CPL 420.40 [3].) Courts deferring a payment are then directed to do so in a written order which becomes a civil judgment imposing the obligation. (CPL 420.40 [5].)\nThe Jones Requirement for “Resentencing” to Obtain Deferrals\nThe Jones Court held that a surcharge deferral may only be granted by a court in a “resentencing” proceeding. It cannot be granted at the time surcharges and fees are actually imposed (at sentencing). The Court reached that conclusion not based on any language in the surcharge deferral statute itself (CPL 420.40) which contains no such requirement. Rather, it focused on CPL 420.35, which provides that the provisions of CPL 420.10 governing the collection of fines, restitution and reparation are applicable to surcharge and fee assessments. CPL 420.10 is an extended statute which provides various procedures related to the payment of defendants’ financial obligations. It provides, inter alia, rules for where monies should be remitted, the fact that defendants can pay all or a portion of a fine at a particular time, the circumstances under which defendants can be imprisoned for failure to pay and civil proceedings to collect defendants’ financial obligations.\nWithin that extended statute there is also a provision which allows a defendant who cannot pay a “fine, restitution or reparation” to make an “application for resentence.” (CPL 420.10 [5].) It is this provision which the Jones Court settled on, through multiple cross-references, as being the sole mechanism inmates have to seek surcharge and fee deferrals. The Court acknowledged that this resentencing provision did not speak in any way about “deferrals” (or for that matter surcharges or fees at all). The Court reasoned, however, that the ability to “adjust the terms of payment” of a fine provided within that statute (CPL 420.10 [5] [a]) “necessarily encompasses the power to defer, that is to delay, payment” (of a surcharge or fee). (26 NY3d at 736.)\nThis court respectfully believes the legislature did not intend that prison bound offenders seeking assessment deferrals must first have fees assessed at sentencing and then bring a second proceeding to have the collection of those same fees deferred. That is not to say the Jones Court was technically incorrect in tracing the multiple cross-references it followed to reach that conclusion. But, in this court’s view, the purpose of those cross-references was to incorporate provisions of CPL 420.10 which would apply to any kind of financial obligation a defendant might have (such as the specification of where financial obligations are deposited or how a civil proceeding might be brought to collect them). It was a convenient shorthand legislative drafters apparently adopted to avoid repeating numerous administrative requirements in multiple statutes.\nThe Jones Court acknowledged the critique that its resen-tencing rule “would be a waste of judicial resources” (particularly when a defendant seeks an assessment deferral at sentencing, which is often the case) but said such “policy determinations are beyond our authority and instead best left for the legislature.” (26 NY3d at 740-741.) It is of course correct that courts should not usurp legislative powers. But the Jones Court construed a series of interlocking and contradictory statutes susceptible to multiple interpretations. The fact that the resentencing rule it adopted might lead to a questionable policy result was obviously something the Court was entitled to consider.\n“It is a fundamental rule of statutory interpretation that of two constructions which might be placed upon an ambiguous statute one which would cause objectionable consequences is to be avoided. Stated . . . another way, the rule is that the construction to be adopted is the one which will not cause objectionable result[s], or cause inconvenience, hardship, injustice, mischief, or absurdity.” (McKinney’s Cons Laws of NY, Book 1, Statutes § 141, Comment at 280-281 [1971] [footnotes omitted].)\nNotwithstanding the criticisms which can be leveled against the “resentencing” approach and the fact that the Jones Court did not explicitly rely upon prior precedents to reach its conclusion, that approach is supported by a long line of authority. The appellate courts which issued those rulings doubtless gave each one careful consideration. The resentencing rule which culminated in the First Department’s Jones decision developed, however, through a series of Appellate Division cases which have never discussed the standard in more than three sentences. Tracing those decisions back through time reveals that the resentencing rule which existed prior to Jones apparently derived from one discretionary decision by a Yates County Court Judge 32 years ago, who questioned whether a prison inmate could, under any circumstances, ever be found to be “indigent.”\nThe First Department in Jones held that any deferral application had to be made in a motion for resentencing. The First Department’s Jones decision cited two earlier decisions of the First Department which propounded a similar rule in one sentence. (People v Bradley, 249 AD2d 103 [1st Dept 1998], lv denied 92 NY2d 923 [1998]; People v Wheeler, 244 AD2d 277 [1st Dept 1997].) Both of those cases, however, held that a deferral application could not be made until after a defendant’s incarceration term was over. That view was explicitly rejected by the Court of Appeals in Jones. (26 NY3d at 739.) Both Bradley and Wheeler in turn cited the First Department’s decision in People v Velasquez (198 AD2d 25 [1st Dept 1993]). That three-sentence decision propounded the same rule but with respect to surcharge waivers (which are no longer authorized) and in turn cited People v Ramirez (165 AD2d 656 [1st Dept 1990]) which propounded the same rule in another brief decision. That holding cited to an earlier one-sentence conclusion on the timing of waiver applications by the Second Department in People v Fulton (138 AD2d 514 [2d Dept 1988]) which, finally, cited to the more extended trial court analysis in People v West (124 Misc 2d 622 [Yates County Ct 1984, Dugan, J.]). It is this 32-year-old trial court decision which appears to be the forebear of all of the subsequent Appellate Division cases on the issue.\nWest again considered waivers (which were authorized in 1984) rather than deferrals. The court noted that a 1983 budget bill had included “improvements to the mandatory surcharge procedures” which, inter alia, included provisions which gave courts the authority to waive assessments “to avoid time consuming and needless resentencing hearings” (124 Misc 2d at 624). On the other hand, the court noted that a defendant claiming inability to pay a surcharge could apply at any time for a “resentence as to the mandatory surcharge” (id,., citing CPL former 420.35, and former 420.10 [4], now sub [5]). The court noted that under the 1984 version of CPL 420.35, the court was authorized to waive surcharges where, because of a defendant’s “indigency,” a surcharge payment would work an “unreasonable hardship” upon an offender or his immediate family.\nThe court pointed out, however, that inmates in correctional institutions who claimed indigency under the applicable statutes could have surcharges collected from funds in their inmate accounts. “Can it be said” the court asked “that an inmate of the correction system is indigent?” (Id. at 625.) It said that Black’s Law Dictionary defined an indigent person as “one who is needy and poor, or one who has not sufficient property to furnish him a living or anyone able to support him to whom he is entitled to look for support.” (Id. [citation omitted].) Noting that it had the authority to waive surcharge collections, the court held that would be premature, since the defendant would be able to pay a portion of the surcharge from inmate funds and could plead indigency upon release. The trial court’s decision in West subsequently became a rule of general application which first prohibited surcharge deferrals until after incarceration and later prohibited such deferrals at sentencing. That same rule was then adopted by the Court of Appeals in Jones, although the Jones decision apparently arose from the Court’s own statutory construction analysis rather than this long line of precedent.\nThe other conundrum about these authorities is that, in this court’s experience, the “resentence” rule has sometimes been observed by trial courts in the breach. Trial courts, at least prior to Jones, sometimes ruled on deferral applications at sentencing. Indeed, some appellate rulings have considered the merits of trial court deferral rulings which were made at sentencing, without indicating the sentencing court did not have the authority to reach the merits of the deferral issue. {See e.g. People v Flanders, 110 AD3d 1112 [3d Dept 2013] [upholding deferral denial].) Thus, while Jones has apparently not announced a new legal resentencing rule, it has, perhaps, served to clarify that deferrals can never be granted by a court at sentencing.\nAn important question going forward will be what form such resentencing proceedings will have to take. Applications by defendants for surcharge deferrals are routine and are often made at sentencing. Making such applications through a motion for a “resentence” might perhaps be as simple as a defense attorney, following the imposition of a sentence, saying something like: “I now move to resentence my client. In that resentencing, we ask that his surcharges and fees be deferred.” That construction is supported by the Jones Court’s repeated assertions that a deferral can be sought “at any time after sentencing” (26 NY3d at 733; see also 26 NY3d at 736 [a defendant can move for a deferral “at any time after the initial sentence has been imposed”]; 26 NY3d at 739 [noting that the resentencing statute, CPL 420.10 (5), allows a resentencing application “at any time”]). Alternatively, a new proceeding with a new docket number would have to be brought. The Jones Court acknowledged the criticism that such a new proceeding would “likely” require assigned counsel. (26 NY3d at 740.) However, in practice, counsel are not typically assigned to indigent prisoners making postjudgment motions to defer financial obligations.\nA resentence might also require not just a determination on surcharge and fee deferrals. It might require a new recitation of the entire sentence. That appears to be what is contemplated under CPL 420.10 (5). Sentences are imposed in a unitary proceeding. CPL 420.10 (5) provides no authority for a court to modify or newly impose only a portion of a sentence (consisting, for example, of a fine). It rather contemplates circumstances in which an entire sentence may be revoked. (See discussion infra.) Timing then might become important in some cases. For example, were a defendant sentenced, and then resentenced six months later (with a deferral), the sentence date might become the date of the resentence, which might then impact subsequent predicate felony adjudications. (See Penal Law art 70 [imposing timing requirements for predicate felony adjudications based on sentencing dates].)\nOn the other hand, the Court of Appeals has held that the assessment of surcharges and fees are not part of a sentence. In People v Guerrero (12 NY3d 45, 47 [2009]) the Court rejected the claim that surcharges and fees had not been validly assessed because the Court did not pronounce them in the defendant’s presence at sentencing (“we now hold that the mandatory surcharge and crime victim assistance fee . . . are not a part of a sentence”). (See also People v Furet, 12 NY3d 740 [2009]; People v Harris, 12 NY3d 741 [2009] [same].) Thus, the notion that surcharges and fees are not part of a sentence will have to be reconciled with the rule that those surcharges and fees may only be deferred through a resentencing proceeding.\nThe resentencing requirement imports the standards applicable to fines, restitution and reparation onto surcharge and fee deferrals. The extent to which any of those provisions would be deemed applicable to surcharge and fee deferrals, however, is not clear. CPL 420.10 (5) explicitly authorizes a court in a resentencing proceeding to “[l]ower the amount of the fine, restitution or reparation,” “revoke” the portion of the sentence imposing a financial obligation while retaining a prison or probation sentence or revoke a defendant’s entire sentence and resentence the defendant to a term which does not include a financial obligation a defendant cannot afford. These provisions, of course, directly contradict the surcharge deferral standards of CPL 420.40 which do not contemplate that such remedies could ever be available to a defendant seeking a surcharge deferral. The only remedy a defendant has under the deferral statute is a deferral. Waivers, reductions, or the vacatur of financial obligations are strictly prohibited. The Jones Court held, however, that a person (like the defendants here) “may apply for resentencing, pursuant to 420.10 (5) [the above cited statute] . . . [and] ‘if the court is satisfied that the defendant is unable to pay’ the court may ‘[a]djust the terms of payment’ ” (26 NY3d at 736, quoting CPL 420.10 [5] [a]).\nPeople v Guerrero held that surcharge and fee collections are intended to save the state money, rather than impose additional punishment. That goal would be facilitated by allowing trial courts to grant deferrals as a partial incentive for defendants’ pleas. The vast majority of criminal cases are obviously resolved by pleas. During plea negotiations, the court and the People are empowered and frequently do offer defendants significant incentives with respect to crimes of conviction and agreed-upon sentences if a defendant pleads guilty. What has been less than clear is whether such plea discussions can also include an offer by the court to defer monetary assessments. The $375 which might be lost in a plea deferral is likely generally expended in less than an hour of a trial (if the salaries of judges, assistant district attorneys, defense attorneys, court clerks, court officers, court attorneys and stenographers are considered, along with the lost productivity of jurors). Whatever issues might arise in connection with such deferral offers were they available as a condition of a plea and sentence, however, would obviously be different if a deferral could not be implemented as part of an initial judgment but only be granted in a subsequent resentencing proceeding.\nIn the instant case, the first question is whether the defendants’ motions qualify as applications for “resentencing.” Mr. Tookes and Mr. Robertson, proceeding pro se, were both likely not aware of the Jones decision when they filed their motions, much less in a position to argue how the case should be interpreted. In this court’s view, however, although neither pro se defendant styled his motion as one for resentencing, both motions were procedurally proper. The fundamental point of the Jones procedural rule appears to be that a defendant can’t obtain an assessment deferral at sentencing. He must seek it at some later time, through a different proceeding. Both defendants here did that.\nThe New Jones Standard for Surcharge Deferrals\nThe second important holding of the Jones case was the standard the Court adopted for surcharge and fee deferrals. The Court held:\n“While the legislature has provided for deferral of the mandatory surcharge, the statutory scheme contemplates that granting such request is neither routine nor common, certainly not for persons in confinement. As we read the statutes, they are intended to ensure what defendant now seeks to avoid, namely the payment of the surcharge during a defendant’s confinement, except in the most unusual and exceptional of circumstances where a defendant’s sources of income support a judicial finding of inability to pay any portion of the surcharge.” (26 NY3d at 740.)\nIn an earlier portion of its opinion the Court said that deferrals may only be provided under “limited circumstances, namely an inability to pay that is not solely due to incarceration.” (Id. at 732.)\nThe Court also emphasized what it considered the policy imperatives of ensuring the greatest possible collections from prison inmates: “[T]he legislature could not be clearer in communicating its intent to restrain the judiciary from discharging a person’s obligation to pay the statutorily imposed amount” (of surcharges and fees). (26 NY3d at 735.) 1995 amendments to the surcharge and fee statutes (providing for deferrals) “in no way signaled a legislative retreat from its commitment to securing payment of these surcharges and its interest in directing the exercise of judicial authority.” (Id.)\n“[T]he fees imposed under Penal Law § 60.35 are related to the ‘State’s legitimate interest in raising revenues,’ and the mandatory surcharge ‘is paid to the State to shift costs of providing services to victims of crime from “law abiding taxpayers and toward those who commit crimes.” ’ That goal is facilitated by ensuring that collection will be attempted even during periods of confinement.” (Id. at 737-738 [citations omitted].)\nRejecting an interpretation of the relevant statutes would allow for a deferral at sentencing since that “interpretation would allow those persons incarcerated-for 60 days or less to avoid payment during confinement, undermining the legislative goal to collect mandatory surcharges, during the term of incarceration as a means to assist with the funding of victims’ services.” (Id. at 740 [citations omitted].) The Jones standard obviously imposes a heavy burden on inmates. Drilling down on the standard’s precise language, however, reveals that it is even more daunting than it might initially appear.\nThe first important point about the Jones rule is that it is significantly more restrictive than the deferral standard created by the legislature. The legislature has provided that a deferral may be granted where an assessment “would work an unreasonable hardship on the person or his or her immediate family” by virtue of a defendant’s indigency. (CPL 420.40 [2].) The court considering that application is also directed to be “mindful” of the mandatory nature of assessments and the important purposes they serve. This standard grants broad discretion to trial courts. The use of the unusual statutory term “mindful” could not be clearer in that regard. It requires discretionary determinations of “unreasonable hardship” both upon defendants and their immediate families. It counsels courts to balance those considerations with the important purposes served by surcharge and fee collections. It establishes procedures to ensure that when deferrals are granted (which the statute obviously contemplates will occur regularly) judgments are entered to facilitate the collection of obligations from defendants at a future time.\nThat broad discretion is mirrored, in a less restrictive form, by the standards for the treatment of prison inmates which have been adopted by the American Bar Association (ABA). With respect to the collection of financial obligations from prisoners, the ABA standard provides: “In imposing and enforcing financial obligations on prisoners, governmental authorities, including courts, should consider both the interest served by the imposition of the obligation and the cumulative effect of financial obligations on a prisoner’s successful and law-abiding re-entry.”\nThe Jones standard, however, significantly limits judicial discretion. It requires that prisoners cannot have financial obligations deferred “except in the most unusual and exceptional of circumstances where a defendant’s sources of income support a judicial finding of inability to pay any portion of the surcharge.” (26 NY3d at 740.) The “inability to pay any portion of the surcharge,” however, is more than “unusual and exceptional” in the confined offender population. It is, as this court understands DOCCS rules, nonexistent, except for inmates confined in disciplinary housing.\nEvery able-bodied inmate can presumably work and earn some prison income. The two defendants here have indicated they earn $8 and $9 per week. Inmates who are unable to work for health reasons, as this court understands DOCCS rules, also receive a minimal allowance from which surcharge and fee assessments are taken pursuant to the standard DOCCS formulas. Read literally then, it would appear that no inmates could be eligible for deferrals, except possibly those confined for disciplinary reasons, since every other inmate is able to pay at least some “portion” of surcharges and fees. It was surely not the intention of the Jones Court, however, to provide that only inmates in disciplinary segregation would be able to obtain deferrals. Obviously, it would make no sense to reward such inmates with a financial benefit for their misconduct.\nEven inmates in disciplinary housing, however, would appear to not qualify for deferrals since such placements are not “the most unusual and exceptional of circumstances.” Even if an inmate was granted a deferral, however, it is not clear what benefit would accrue from it. An inmate incapable of paying “any portion of the surcharge” would obtain no monetary assistance from a deferral since, by definition, he would have no money. Theoretically, a deferral for a prison inmate might prevent the imposition of a penalty (such as the loss of prison privileges). Even presuming it would be lawful to punish a prison inmate for being indigent, however, this court understands that DOCCS does not seek to do that.\nThe kind of inmate who might qualify for a deferral under Jones is also not apparent because while the decision provided an extended discussion of the court’s statutory construction analysis, it provided no information at all about the defendant, Anthony Jones, except that he was convicted of two drug crimes and given concurrent six-month jail sentences. It is not clear what income Anthony Jones had in his prison account, what hardship he claimed fee assessments had imposed upon him or his family or what he aspired to achieve by a surcharge deferral. We do not know, for example, whether Mr. Jones hoped to buy soap, shampoo, deodorant, postage stamps, food or other items.\nThe Jones decision was announced on February 18, 2016. The First Department in the past four months since the decision was rendered has already issued nine virtually identical one-sentence rulings applying Jones, all of which affirmed a trial court order denying a surcharge deferral. In each case the First Department held that “[t]he sentencing court properly found that it had no discretion to . . . defer defendant’s mandatory surcharge” (or virtually identical words to that effect). (See People v Singleton, 138 AD3d 571, 572 [1st Dept 2016]; People v Rosario, 138 AD3d 566 [1st Dept 2016]; People v Davis, 138 AD3d 580 [1st Dept 2016]; People v Hernandez, 138 AD3d 581 [1st Dept 2016]; People v Crawford, 138 AD3d 573 [1st Dept 2016]; People v Wiggins, 138 AD3d 634 [1st Dept 2016]; People v Young, 138 AD3d 625 [1st Dept 2016]; People v Williams, 139 AD3d 425 [1st Dept 2016]; People v Santiago, 139 AD3d 515 [1st Dept 2016].) The message to trial courts could not be clearer.\nAs with the resentence issue, the Jones Court did not ground its “most unusual and exceptional of circumstances” holding on prior precedent. But while the notion that deferrals can only be granted in exceptional cases does not come from the deferral statute itself, it does, like the resentencing requirement, have a long judicial history, albeit one which has expressed the requirement for hardship “exceptionalism” in far less exacting terms than Jones. That history, like the history of the resen-tencing requirement, has featured numerous appellate rulings which have repeatedly asserted (without discussion) that in order to qualify for a deferral a defendant must demonstrate a hardship “over and above the ordinary hardship suffered by other indigent inmates.” (See e.g. People v Johnson, 60 AD3d 1496, 1497 [4th Dept 2009] [internal quotation marks omitted]; People v Parker, 137 AD3d 1625 [4th Dept 2016]; People v Larose, 120 AD3d 1442 [3d Dept 2014]; People v Kistner, 291 AD2d 856 [4th Dept 2002]; People v Cheatom, 57 AD3d 1447 [4th Dept 2008].) Those holdings ultimately refer back to dicta in a 2000 Third Department case People v Abdus-Samad (274 AD2d 666 [3d Dept 2000]) which, again like the resentenc-ing issue, finally were derived from the discretionary decision of one trial court judge, in this case, in Brooklyn. (People v Parker, 183 Misc 2d 737 [Sup Ct, Kings County 2000, Lewis, J.].)\nIn that case, the court found the defendant’s assertion that he had no money, was unemployed prior to being incarcerated and was not supporting any family outside prison did not make him different than other inmates. Since his “basic needs” were being provided, he had not demonstrated an “unreasonable” hardship warranting a deferral. That conclusion, followed by the recitation of the “over and above the ordinary hardship suffered by other indigent inmates” dicta in Abdus-Samad which cited the trial court’s decision in Parker, then became black-letter law. It transformed the statutory term “unreasonable hardship” (which is repeated three times in the deferral statutes) into the rule that a hardship had to be “exceptional” rather than only “unreasonable.” Jones, in requiring “the most unusual and exceptional of circumstances” preventing the payment of “any portion” of a surcharge in order to obtain a deferral, is just the most recent and restrictive judicial iteration of a comparative hardship test which the legislature has never endorsed.\nAn exceptional hardship is different than an unreasonable one. The deferral standard the legislature created does not ask whether the hardship suffered by an inmate is worse than the hardships suffered by other inmates. It asks whether that hardship is an unreasonable one to impose. Under the exceptional hardship test, a large proportion of state prison inmates could be suffering an unreasonable hardship through fee assessments, but if that hardship was roughly equivalent among inmates no fee deferrals could ever be granted.\nThe deferral statute (CPL 420.40) was added by the Sentencing Reform Act of 1995, an omnibus bill which most significantly eliminated parole and created determinate sentencing with significantly increased prison terms for violent felony offenders with a prior felony conviction. Mr. Tookes was sentenced under those 1995 sentencing rules. 1995 was the first year of the administration of Governor George Pataki, who made enacting more punitive criminal justice policies the centerpiece of his legislative efforts that year. The Sentencing Reform Act was preceded by the legislature’s enactment of the death penalty and the creation of the new sentence of “life imprisonment without parole” a few months earlier. The deferral statute was followed a few weeks later by the enactment of the Sex Offender Registration Act (Megan’s Law) which for the first time required registration and community notification for sex offenders. 1995 is perhaps the year which saw the most punitive criminal justice enactments in modern New York history, at least since the enactment of the “Rockefeller drug laws” in 1973.\nIn the ensuing 21 years, the legislature has made only technical amendments to the deferral statute. They have never revisited the “unreasonable hardship” test which indeed existed for surcharge waivers prior to 1995. They have never sought to make that test “tougher” or more restrictive than the standard they created at the pinnacle of their modern day efforts to “crack down” on crime. In fact, in 2004, the legislature applied the unreasonable hardship standard to surcharges again in an expanded form, providing that youthful offenders could have surcharges and fees waived if “the imposition of such fee would work an unreasonable hardship on the defendant, his or her immediate family, or [in an expansion of the standard] any other person who is dependent on such defendant for financial support.” The increasingly restrictive standards on fee deferrals which culminated in the Jones decision have been created by the judiciary.\nThese new restrictions come at a time when states are increasingly acting to provide greater reentry opportunities for convicted offenders. A landmark study published last month by the Vera Institute of Justice reports that states in 2014 and 2015 enacted a wide range of criminal justice reforms “where ideologically driven criminal justice policies rooted in punitive views of justice system-involved people are giving way to an evidence-based approach rooted in what works to make society safer and stronger.” Under the heading “Easing the Harmful Impact of Fees and Fines,” the report notes that financial fees imposed on inmates “can be an enormous financial burden on those currently incarcerated or recently released, who often have limited resources” and outlines how multiple states enacted statutes to attempt to mitigate inmate fee burdens in 2014 and 2015.\nIt is clear that neither of the defendants here qualify for a deferral under the Jones standard. They would appear to be unqualified simply because they are performing prison labor. Even assuming the Jones standard was given a broader construction, there is little which is unusual or exceptional about these requests. Mr. Tookes’ application is perhaps somewhat unique because his placement in a double-cell arguably means he has a greater need for soap, shampoo or deodorant than a single-celled inmate. But state prison inmates generally live in close quarters.\nIt is also obvious that both defendants can likely afford to purchase many of the commissary items they aspire to obtain, although perhaps not as soon as they would like. DOCCS presumably established its percentage fee assessment system to allow working inmates to continue to afford commissary items, rather than attempt to take every penny an inmate earns until court assessments are fully paid. The desire of Mr. Tookes and Mr. Robertson to have access to more hygiene products, communicate with their families and get better food are not exceptional. They reflect the most basic human needs and desires. As Mr. Tookes put it, he is attempting to make his upcoming more than decade-long stay in prison “bearable.” That is not an interest the law here recognizes as legitimate. This court respectfully believes that is wrong.\nFirst, as reflected in the statutory standards and legislative history outlined, supra, the legislature intended courts to have more discretion in granting assessment deferrals than the Jones rule provides. Second, such discretion is consistent with how prisoners should be treated, as reflected in the ABA guidelines. That discretion is necessary because, as both the Penal Law and ABA standards recognize, there are two important competing considerations in deferral applications, not one. Resolving those considerations is best achieved through the exercise of judicial discretion in individual cases.\nSentencing for a trial court is not an abstract exercise. A sentence is pronounced on a human being, who, no matter what crime he or she has committed, stands in the well, often in custody, and often with family members close by, who upon a sentence to state prison will suffer a significant punishment. Punishment is also exacted upon any member of a defendant’s family who cares for him. In imposing that sentence, of course, justice must be tempered with humanity. Other than the fundamental question of how long an inmate’s sentence will run, however, surcharge and fee deferrals are usually the only decision a trial court makes about an inmate’s conditions of confinement.\nWillie Tookes and Michael Robertson will, absent other untoward consequences, doubtless survive their prison terms without the extra soap, shampoo, deodorant, denture adhesive, postage stamps or extra food a deferral would bring them. The State will get to collect all or some portion of the fees they owe, an obviously positive result. But as the one human being who is most directly responsible for sending a fellow human being to be confined in a correctional facility where much of what makes a life worth living is taken, the sentencing court should have the ability to provide the extra soap or deodorant, the postage stamps which might make communicating with family easier or even the extra food which might make prison life more bearable. This court does not know whether it would grant a deferral to Mr. Tookes or Mr. Robertson if it had that option. There are clearly many state prison inmates who would present a more compelling case for such relief. But this court does not have any such choice to make here.\nWhen the court imposes a sentence on a first felony offender convicted of a class B violent felony, it has the discretion to impose a determinate term of between 5 and 25 years. (Penal Law § 70.02 [3] [a].) It has the discretion to impose or not impose tens or even hundreds of thousands of dollars of costs on the State through its sentencing determinations. Trial courts are also capable of deciding whether a $375 assessment must be paid during a defendant’s incarceration. We are capable of balancing the human needs of prisoners with the financial imperatives of the state we serve. Indeed, as the legislature has recognized, no one is better qualified to make such decisions.\nThis court has no such discretion here. For all of those reasons, both defendants’ motions are denied.\n. The court contacted the Assistant District Attorneys in each case to advise them that the court was not seeking a response to defendants’ motions from the People and the People in each case did not seek to provide any such response. The court has forwarded a copy of its decision to the Assistant District Attorneys and defense attorneys who represented the parties in the two underlying criminal cases here.\n. As outlined infra, a defendant convicted in multiple indictments like Mr. Robertson (or a defendant convicted of multiple crimes occurring in different transactions in one indictment) must pay multiple surcharges and fees (in Mr. Robertson’s case, totaling $750). (See Penal Law § 60.35 [2].) Additional fees are also applicable in certain cases, for example, sex offenders must pay an additional $1,050 by virtue of the “sex offender registration fee” and “supplemental sex offender victim fee.” (Penal Law § 60.35 [1] [a] [iv]; [b].) Offenders convicted of driving while impaired or intoxicated crimes must pay additional surcharges of $195. (Vehicle and Traffic Law §§ 1809-c [1]; 1809-e [1] [b].)\n. The court in People v Morrison (36 Misc 3d 880, 886-887 [Sup Ct, NY County 2012, Stone, J.]) made the same point in a more extended discussion.\n. Mr. Tookes’ claims and quotations from him are taken from his pro se motion, dated December 15, 2015.\n. See CPL 420.35 (2) (generally prohibiting, with certain limited exceptions not applicable here, any judicial waiver of mandatory surcharges and fees).\n. Defendant’s pro se motion, Apr. 14, 2016.\n. (Phone conversations on May 24 and June 3, 2016.) These conversations did not concern the instant cases in any respect; rather they were an attempt to understand the general DOCCS rules applicable to the collection of inmate financial obligations. The court has determined not to publish the name of the DOCCS budget analyst it spoke to.\n. Courts, presumably, have the power to direct such partial assessment deferrals and thus effectively mandate that DOCCS modify their systems to provide for such partial deferral orders. This court is not aware, however, that any court has ever tried to force DOCCS to implement a partial assessment deferral.\n. The Jones decision was a unanimous opinion authored by Judge Rivera in which Chief Judge DiFiore and Judge Garcia took no part.\n. As noted, supra, defendants sentenced for felonies have at least three mandatory assessments imposed at sentencing: a “mandatory surcharge” of $300, a “crime victims’ assistance fee” of $25 and a “DNA databank” fee of $50. The Jones decision indicates the defendant sought the deferral of his $300 “surcharge.” (26 NY3d at 732.) The brief Appellate Division decision referred to the assessments as “surcharges” (plural). The deferral statute (CPL 420.40) refers to the deferral of surcharges and DNA data bank fees but not crime victims’ assistance fees (which, as noted, supra, are treated as subsumed within mandatory surcharges by DOCCS). It would indeed be unusual for a defendant like Anthony Jones to seek the deferral of his surcharge but not his crime victims’ assistance fee or DNA data bank fee. This court presumes the Jones Court used the word “surcharge” at various points in its decision as a shorthand for the financial obligations imposed on defendants at sentencing.\n. CPL 420.10 (5) (a) speaks only to the ability to “adjust” payment terms; later paragraphs of CPL 420.10 (5) speak to lowering or vacating those terms.\n. American Bar Association Standards for Criminal Justice: Treatment of Prisoners, Standard 23-8.8 (b) (3d ed 2011), available at http:// www.americanbar.org/content/dam/aba/publications/ criminaljustice_standards/Treatment_of_Prisoners. authcheckdam.pdf.\n. The length of a judicial decision obviously has no necessary relationship to how thoughtful a court has been in analyzing an issue. As with the brief “resentencing” rule cases cited, supra, this court has no doubt each of these brief decisions carefully considered the deferral standard issue.\n. See CPL 420.35 (1), (2); 420.40 (2).\n. L 1995, ch 3.\n. The death penalty was enacted by chapter 1 of the Laws of 1995. While the statute’s imposition of the death penalty was invalidated by the New York Court of Appeals in People v LaValle (3 NY3d 88 [2004]), provisions of the statute which created the crime of murder in the first degree with the previously nonexistent sentence of life imprisonment without parole remain effective. Megan’s Law was enacted by chapter 192 of the Laws of 1995.\n. See L 2003, ch 62.\n. L 2004, ch 56, part F, § 5, amending CPL 420.30 (3).\n. Vera Institute of Justice, Justice in Review: New Trends in State Sentencing and Corrections 2014-2015 at 2 (May 2016); see also NY Times Editorial Board, States Lead the Way on Justice Reform, NY Times, May 30, 2016 (discussing the Vera report).\n. Justice in Review at 47.\n. For a thoughtful presentation of the opposite argument — that prisoners are simply not entitled to seek surcharge deferrals and decrying the proliferation of inmate deferral petitions seeking such relief — see People v Morrison.\n. There are some important exceptions. Trial courts can direct that certain low-level felony offenders serve state prison terms through a sentence of “parole supervision” (CPL 410.91). Courts are also empowered to direct that certain drug offenders participate in prison-based drug treatment or-“shock incarceration” programs. (Penal Law § 60.04 [6], [7].) All of these dispositions can result in significantly lower effective incarceration terms.",
+        "type": "majority",
+        "author": "Daniel P. Conviser, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Willie Tookes, defendant pro se in the first above-entitled action.",
+      "Michael Robertson, defendant pro se in the second above-entitled action."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 889]\nThe People of the State of New York, Plaintiff, v Willie Tookes, Defendant. The People of the State of New York, Plaintiff, v Michael Robertson, Defendant.\nSupreme Court, New York County,\nJune 8, 2016\nAPPEARANCES OF COUNSEL\nWillie Tookes, defendant pro se in the first above-entitled action.\nMichael Robertson, defendant pro se in the second above-entitled action."
+  },
+  "file_name": "2368-01",
+  "first_page_order": 948,
+  "last_page_order": 971
+}

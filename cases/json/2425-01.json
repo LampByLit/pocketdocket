@@ -1,0 +1,271 @@
+{
+  "id": 12170605,
+  "name": "The People of the State of New York, Plaintiff, v. Michael Buchholz, Defendant",
+  "name_abbreviation": "People v. Buchholz",
+  "decision_date": "2016-08-12",
+  "docket_number": "",
+  "first_page": "563",
+  "last_page": "567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 563"
+    },
+    {
+      "type": "parallel",
+      "cite": "39 N.Y.S.3d 684"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "62 AD3d 1160",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3938351
+      ],
+      "pin_cites": [
+        {
+          "page": "1161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/1160-01"
+      ]
+    },
+    {
+      "cite": "701 F3d 81",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5710881
+      ],
+      "pin_cites": [
+        {
+          "page": "89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/701/0081-01"
+      ]
+    },
+    {
+      "cite": "804 F3d 242",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4358143
+      ],
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/804/0242-01"
+      ]
+    },
+    {
+      "cite": "140 Misc 2d 945",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        873909
+      ],
+      "pin_cites": [
+        {
+          "page": "947"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/140/0945-01"
+      ]
+    },
+    {
+      "cite": "89 Misc 2d 789",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1900289
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/89/0789-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 155",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282470
+      ],
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0155-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 507",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319055
+      ],
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0507-01"
+      ]
+    },
+    {
+      "cite": "103 AD2d 687",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5638517,
+        5634694
+      ],
+      "pin_cites": [
+        {
+          "page": "689"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/103/0687-01",
+        "/ad2d/103/0687-02"
+      ]
+    },
+    {
+      "cite": "10 NY2d 263",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2260528
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/10/0263-01"
+      ]
+    },
+    {
+      "cite": "19 NY2d 496",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2277963
+      ],
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/19/0496-01"
+      ]
+    },
+    {
+      "cite": "561 US 742",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12455289,
+        3644508
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/177/0894-01",
+        "/us/561/0742-01"
+      ]
+    },
+    {
+      "cite": "554 US 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677081
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "577 US -, 136",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 584,
+    "char_count": 9550,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24694200318242493
+    },
+    "sha256": "39ac475c00f2518823259e7e187a72a76cc1e07e33e0143879c207954ddb4cf9",
+    "simhash": "1:c019ec0730e91af4",
+    "word_count": 1565
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Michael Buchholz, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nArmando Montano, J.\nThe motion by defendant for an order dismissing the accusatory instrument on the grounds that Penal Law § 265.01 (1) violates his right to keep and bear arms under the Second Amendment is denied.\nDefendant is charged with criminal possession of a weapon in the fourth degree (Penal Law § 265.01 [1]) arising from his alleged possession of a gravity knife.\nIn accordance with CPLR 1012 (b) and Executive Law § 71, defendant provided the Attorney General with requisite notice of the instant challenge to the constitutionality of Penal Law § 265.01 (1). By letter dated May 9, 2016, the Office of the Attorney General informed this court that although they are not intervening at this time, they reserve the right to do so at a later stage in the proceedings.\nBased upon the per curiam opinion issued by the United States Supreme Court in Caetano v Massachusetts (577 US —, 136 S Ct 1027 [2016]), defendant argues that the charge of Penal Law § 265.01 (1) must be dismissed. Defendant asserts that in Caetano, the Supreme Court rejected a Massachusetts statute prohibiting the possession of stun guns. As there is no reasonable distinction between a gravity knife and a stun gun, defendant contends that Caetano must be interpreted to also apply to gravity knives.\nThe People oppose the instant motion in its entirety and argue that defendant has failed to meet his burden of demonstrating the unconstitutionality of Penal Law § 265.01 (1) beyond a reasonable doubt. First, the People aver that defendant has misread Caetano. Contrary to defendant’s assertions, the People contend that Caetano does not stand for the proposition that stun guns are protected under the Second Amendment. Instead, the People submit that the Supreme Court chastised the Massachusetts court’s rationale in upholding a statute banning stun guns as contrary to binding precedent in District of Columbia v Heller (554 US 570 [2008]). The People note that on remand, the Massachusetts court could still find that stun guns are not entitled to Second Amendment protection.\nSecond, the People assert that defendant bases his argument on an overly expansive reading of Heller and McDonald v Chicago (561 US 742 [2010]). The People point out that the statutes at issue in Heller and McDonald amounted to a total ban on the possession of handguns. In contrast, Penal Law § 265.01 (1) does not ban all types of knives. Except for switchblades, gravity knives, pilum ballistic knives, metal knuckle knives, and cane swords, the People aver that all knives may be possessed lawfully.\nLastly, the People argue that the issue of whether the possession of a gravity knife should be legal is best left to the legislature rather than the judiciary. The People maintain that when the legislature enacted Penal Law § 265.01 (1), it weighed competing factors and determined that an important government interest would be served by criminalizing the possession of gravity knives. In reply, defendant reiterates that Caetano must be interpreted to apply to gravity knives as well as stun guns. Defendant maintains that the Supreme Court’s opinion is clear in that states cannot broadly and arbitrarily criminalize the possession of weapons, stun guns, or gravity knives.\nFirst and foremost, “[s]tatutes are presumed valid and constitutional and the one challenging the statute has the burden of showing the contrary.” (McKinney’s Cons Laws of NY, Book 1, Statutes § 150 [b]; see also People v Epton, 19 NY2d 496, 505 [1967] [“It must be assumed that the Legislature intended to enact a statute which was in harmony with the United States Constitution and the Constitution of the State of New York”].) Additionally, there is “a further presumption that the Legislature has investigated for and found facts necessary to support the legislation.” (I. L. F. Y. Co. v Temporary State Hous. Rent Commn., 10 NY2d 263, 269 [1961].)\nAs the party challenging the statute, defendant bears a heavy burden “of demonstrating the infirmity beyond a reasonable doubt, and only as a last resort will courts strike down legislative enactments on the ground of unconstitutionality.” (Matter of Schultz Mgt. v Board of Stds. & Appeals of City of N.Y., 103 AD2d 687, 689 [1st Dept 1984], quoting Sgaglione v Levitt, 37 NY2d 507, 515 [1975, Cooke, J., dissenting]; see also LaValle v Hayden, 98 NY2d 155, 161 [2002] [“(C)ourts must avoid, if possible, interpreting a presumptively valid statute in a way that will needlessly render it unconstitutional”]; People v Smith, 89 Misc 2d 789 [App Term, 2d Dept, 9th & 10th Jud Dists 1977] [When construing a statute, the court must, if possible, preserve its constitutionality].) Finally, “[c]ourts of first instance should only invalidate legislative enactments in the most clear and convincing cases.” (People v Portnoy, 140 Misc 2d 945, 947 [Crim Ct, Bronx County 1988].)\nThe Second Amendment provides that “[a] well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” (US Const 2d Amend.)\nIn Heller, the Supreme Court held that “the Second Amendment protects only those weapons in common use by citizens for lawful purposes like self-defense.” (New York State Rifle & Pistol Assn., Inc. v Cuomo, 804 F3d 242, 253 [2d Cir 2015] [internal quotation marks omitted].) The Supreme Court was careful to emphasize that\n“nothing in our opinion should be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill, or laws forbidding the carrying of firearms in sensitive places such as schools and government buildings, or laws imposing conditions and qualifications on the commercial sale of arms.” (Heller at 626-627.)\n“It is important to keep in mind that Heller, while striking down a law that prohibited the possession of handguns in the home, recognized that the right to keep and bear arms is not ⅛ right to keep and carry any weapon whatsoever in any manner whatsoever and for whatever purpose.’ ” (McDonald at 786, quoting Heller at 626.)\nTwo years after Heller, the Supreme Court held in McDonald that the right to bear arms under the Second Amendment applied to the states through the Due Process Clause of the Fourteenth Amendment.\nCritically, “[w]hat we know from these decisions is that Second Amendment guarantees are at their zenith within the home. What we do not know is the scope of that right beyond the home and the standards for determining when and how the right can be regulated by a government.” (Kachalsky v County of Westchester, 701 F3d 81, 89 [2d Cir 2012] [citation omitted].)\nDefendant’s challenge to the constitutionality of the statute is premised solely upon his flawed reading of the per curiam opinion in Caetano. Defendant submits that because gravity knives are comparable to stun guns and the Supreme Court struck down a statute banning the possession of stun guns in Caetano, this court must also find that New York’s ban on the possession of gravity knives is unconstitutional.\nHowever, in Caetano, the Supreme Court did not hold, as defendant suggests, that a Massachusetts statute banning the possession of stun guns violated the Second Amendment. Rather, the Supreme Court held, that the reasons offered by the Supreme Judicial Court of Massachusetts in upholding the statute contradicted the Supreme Court’s opinion in Heller. The judgment of the Supreme Judicial Court of Massachusetts was then vacated and the case was remanded for further proceedings.\nIn light of the foregoing, this court finds that defendant has failed to meet his heavy burden of demonstrating beyond a reasonable doubt that Penal Law § 265.01 (1) is unconstitutional. Due to defendant’s failure to meet his heavy burden, this court need not determine whether Penal Law § 265.01 (1) violates the Second Amendment right to keep and bear arms.\nNonetheless, had defendant met his heavy burden, this court would adopt the legal analysis and holding in People v Lewis (Sup Ct, Bronx County, Nov. 16, 2010, Yearwood, J., docket No. 2010BX032439), where the court rejected a similar challenge to the constitutionality of Penal Law § 265.01 (1) for a defendant’s alleged possession of a gravity knife. Citing People v Perkins (62 AD3d 1160, 1161 [3d Dept 2009] ), the Honorable Alvin Yearwood held that\n“New York State allows for the possession of many types of knives. The New York State Legislature has decided that the type of knife the defendant is alleged to have possessed, i.e., a gravity knife, is a dangerous instrument and has decided that the possession of a gravity knife should be outlawed. Such statute in no way infringes upon defendant’s Second Amendment rights any more than the prohibition of possessing certain types of firearms does not infringe upon a person’s Second Amendment rights.” {Lewis, slip op at 4-5.)\nAccordingly, the motion by defendant for an order dismissing the accusatory instrument is denied.\n“Unlike the statute at issue in Heller, Penal Law article 265 does not effect a complete ban on handguns and is, therefore, not a ‘severe restriction’ improperly infringing upon defendant’s Second Amendment rights.”",
+        "type": "majority",
+        "author": "Armando Montano, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Law Office of Jeff Henle, P.C. (Jeff Henle of counsel) for defendant.",
+      "Darcel D. Clark, District Attorney (Veronica Przygocki of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[39 NYS3d 684]\nThe People of the State of New York, Plaintiff, v Michael Buchholz, Defendant.\nCriminal Court of the City of New York, Bronx County,\nAugust 12, 2016\nAPPEARANCES OF COUNSEL\nLaw Office of Jeff Henle, P.C. (Jeff Henle of counsel) for defendant.\nDarcel D. Clark, District Attorney (Veronica Przygocki of counsel), for plaintiff."
+  },
+  "file_name": "2425-01",
+  "first_page_order": 573,
+  "last_page_order": 577
+}

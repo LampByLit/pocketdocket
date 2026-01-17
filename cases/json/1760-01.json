@@ -1,0 +1,164 @@
+{
+  "id": 12279855,
+  "name": "LIR Investments LLC, Plaintiff, v. Steven Stokelbusch, Stokelbusch Insurance Agency, Inc. and Westport Insurance Corporation, Defendants-Third-Party Plaintiffs-Respondents, v. ABC Insurance Company, Defendant, Wisconsin Mutual Insurance Co., Third-PartyDefendant-Appellant",
+  "name_abbreviation": "LIR Investments LLC v. Stokelbusch",
+  "decision_date": "2017-08-15",
+  "docket_number": "No. 2016AP1386",
+  "first_page": "91",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "378 Wis. 2d 91"
+    },
+    {
+      "type": "parallel",
+      "cite": "902 N.W.2d 801"
+    },
+    {
+      "type": "parallel",
+      "cite": "2017 WI App 63"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis. Ct. App.",
+    "id": 15300,
+    "name": "Wisconsin Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "166 Wis. 2d 636",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667006
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/166/0636-01"
+      ]
+    },
+    {
+      "cite": "153 Wis. 2d 135",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667976
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "142",
+          "parenthetical": "addressing the purpose of nonrenewal notice requirements in § 631.36"
+        },
+        {
+          "parenthetical": "addressing the purpose of nonrenewal notice requirements in § 631.36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/153/0135-01"
+      ]
+    },
+    {
+      "cite": "2009 WI App 126",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        3988692
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/321/0138-01"
+      ]
+    },
+    {
+      "cite": "2012 WI 3",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4020384
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/338/0215-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 631.36",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 8,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "(2)(c)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 841,
+    "char_count": 20052,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24900100353341065
+    },
+    "sha256": "3e4afb2632dde97ffc11f693ad910f42ad66274bc87cca93552af7fab2bd85b4",
+    "simhash": "1:fb65d3b4e8d8bdf8",
+    "word_count": 3235
+  },
+  "last_updated": "2024-02-27T21:03:02.532561+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kessler, Brash and Dugan, JJ."
+    ],
+    "parties": [
+      "LIR Investments LLC, Plaintiff, v. Steven Stokelbusch, Stokelbusch Insurance Agency, Inc. and Westport Insurance Corporation, Defendants-Third-Party Plaintiffs-Respondents†, v. ABC Insurance Company, Defendant, Wisconsin Mutual Insurance Co., Third-PartyDefendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "f 1.\nKESSLER, J.\nWisconsin Mutual Insurance Company appeals an order granting declaratory judgment to Steven Stokelbusch, Stokelbusch Insurance Agency, Inc., and Westport Insurance Corporation (collectively, \"Stokelbusch\"). We affirm.\nBACKGROUND\n¶ 2. This action arises out of a fire loss that occurred in April 2014 at a rental property owned by LIR Investments, LLC. The sole issue on appeal is whether a policy issued by Wisconsin Mutual to LIR on October 23, 2013, and cancelled by Wisconsin Mutual on December 30, 2013, constituted a new policy or a renewed policy, thereby affecting the date at which Wisconsin Mutual could terminate coverage under Wis. Stat. § 631.36 (2015-16). Wisconsin Stat. § 631.36(2) prohibits an insurance company from can-celling a policy midterm absent specifically identified reasons; however, the statute permits an insurance company to cancel a new policy within the first sixty days of issuance. The following facts are taken from the record.\nf 3. On June 23, 2010, Wisconsin Mutual issued a Business Owners insurance policy to cover residential rental property owned by LIR. The policy—Policy BIZ 4343—was titled \"New Policy.\" The policy term was June 23, 2010, through June 23, 2011. On May 24, 2011, thirty days prior to the policy's expiration, Wisconsin Mutual sent LIR a \"Policy Renewal Premium Notice,\" indicating that a renewed policy would run from June 23, 2011, through June 23, 2012, and that a payment was due on June 23, 2011, in order to continue coverage. LIR did not make the requisite payment by June 23, 2011. On June 24, 2011, one day after the payment was due, Wisconsin Mutual issued a \"Cancellation Notice,\" stating that Wisconsin Mutual did not receive payment from LIR and that the policy would be terminated \"unless payment is received according to [the] non-payment clause as stated on the back of this form and on the back of your original renewal form.\" (Capitalization omitted.) LIR did not pay the requisite premium. Accordingly, the policy was cancelled.\nf 4. LIR and Wisconsin Mutual then engaged in a long series of policy cancellations and reinstate-ments. According to Wisconsin Mutual's records, LIR's policy was cancelled for nonpayment on June 23, 2011, April 13, 2012, July 30, 2012, November 16, 2012, June 3, 2013 and September 27, 2013. After each cancellation, Wisconsin Mutual reissued LIR's policy. The reissued policies contained the same policy number and a new declaration sheet listing forms and endorsements already in LIR's possession as being a part of the policy. Wisconsin Mutual issued its final policy to LIR—the policy at issue—on October 23, 2013. The Declaration Sheet states, in bold capital letters, \"POLICY RE-ISSUED.\" On December 18, 2013, Wisconsin Mutual sent LIR a notice indicating that coverage would terminate on December 30, 2013, due to LIR's history of nonpayment. LIR received a premium refund as a result of the cancellation.\n¶ 5. In April 2014, a fire occurred at an LIR-owned rental property in West Allis. LIR filed suit against its insurance agent, Stokelbusch Insurance Agency, alleging that Stokelbusch failed to honor LIR's request to secure insurance coverage on the property following the cancellation of the Wisconsin Mutual Policy. Stokelbusch filed a third-party complaint for declaratory judgment against LIR, alleging that Policy BIZ 4343, which was first issued on June 23, 2010, was improperly terminated midterm contrary to Wis. Stat. § 631.36. The complaint asked the circuit court to declare Wisconsin Mutual's cancellation of LIR's policy an unlawful midterm cancellation and to find that Wisconsin Mutual's policy was in effect at the time of the fire. Stokelbusch moved for declaratory judgment on October 15, 2015.\n¶ 6. At a hearing on the motion, Stokelbusch noted that LIR only submitted one application for insurance, resulting in the June 23, 2010 policy. Stokelbusch also stated that LIR's and Wisconsin Mutual's relationship, though tumultuous, had been in effect for over three years. During that period, the policy number remained the same and each document issued following the June 23, 2010 policy was labeled a \"reissued policy.\" Only the June 23, 2010 policy \"denominated itself as a 'new policy.' \" Thus, Stokelbusch argued, the October 23, 2013 policy was a renewed policy not subject to cancellation within sixty days of issuance. Stokelbusch also argued that Wisconsin Mutual \"did not do anything which put [LIR] on reasonable notice that. . . this off-and-on insurance relationship is meaningless and this is a brand new relationship . . . which would allow Wisconsin Mutual 60 days to cancel the policy, and then to cancel the policy within ten days after written notice.\" In short, Stokelbusch argued that Wisconsin Mutual engaged in \"an illegal midterm cancellation.\"\n¶ 7. Wisconsin Mutual argued that the policy at issue was a new policy, not a renewed policy. The heart of Wisconsin Mutual's argument was that each time it cancelled LIR's policy the subsequently issued policy was always a \"new\" policy. Wisconsin Mutual argued that it did not issue LIR new policy numbers or new documents in accordance with its own internal procedures for keeping track of the company's history with their insureds. Accordingly Wisconsin Mutual argued that the October 23, 2013 policy was new and in effect for less than sixty days when it was cancelled, thereby rendering the cancellation lawful under Wis. Stat. § 631.36.\nf 8. The circuit court granted Stokelbusch's motion, finding that Wisconsin Mutual's \"multiple reis-suances flow back to the original policy and . . . [are] the equivalent of renewals, not institutions of new policies.\" The circuit court found that in the context of Wis. Stat. § 631.36(2)(c), Wisconsin Mutual's use of the term \"reissued\" on the October 23, 2013 policy was ambiguous because the term could reasonably be interpreted as a \"renewed\" policy. Accordingly, the court found \"that the cancellation [of the October 23, 2013 policy] was not authorized because it wasn't a cancellation of a new policy. It was an improper cancellation of a policy that had been renewed. So I do find the most recently reissued policy provided coverage for October 23, 2013, to October 23, 2014, was not a new policy within the meaning of [Wis. Stat.] § 631.36(2)(c).\"\n¶ 9. This appeal follows. Additional facts will be discussed as relevant to the opinion.\nDISCUSSION\n¶ 10. The grant or denial of a declaratory judgment is addressed to the circuit court's sound discretion. Olson v. Farrar, 2012 WI 3, ¶ 24, 338 Wis. 2d 215, 809 N.W.2d 1. However, when the exercise of that discretion turns upon a question of law, we review the question independently. See id. Here, the circuit court's grant of declaratory judgment turned upon the interpretation of a statute, which presents a question of law that we review de novo. See id.; American Transmission Co., LLC v. Dane Cty., 2009 WI App 126, ¶ 8 n.5, 321 Wis. 2d 138, 772 N.W.2d 731.\n¶ 11. The issue on appeal is whether Wisconsin Mutual's cancellation of the October 23, 2013 policy in December 2013 was prohibited by Wis. Stat. § 631.36 as an unlawful midterm cancellation. Specifically, whether the October 23, 2013 policy was a new policy that had not been previously renewed pursuant to § 631.36(2)(c). The circuit court found that the policy was renewed and thus rendered Wisconsin Mutual's cancellation of the policy an unlawful midterm cancellation under the statute. Wisconsin Mutual contends that this finding was erroneous because: (1) the circuit court equated the term \"reissue\"—the term used on the October 23, 2013 policy—with the term \"renew\"; (2) the effect of this equation will have devastating effects on the insurance industry; and (3) the court's finding is contrary to the legislative intent behind § 631.36. We disagree.\nI. The October 23, 2013 Policy was a \"Renewed\" Policy\n¶ 12. Wisconsin Stat. § 631.36 governs the termination of an insurance policy by an insurer. The statute provides:\n(2) Midterm cancellation.\n(a) Permissible grounds. Except as provided by par. (c) and sub. (3) and s. 655.24(2)(b), no insurance policy may be canceled by the insurer prior to the expiration of the agreed term except for failure to pay a premium when due or on grounds stated in the policy, which must be comprehended within one of the following classes:\n1. Material misrepresentation;\n2. Substantial change in the risk assumed, except to the extent that the insurer should reasonably have foreseen the change or contemplated the risk in writing the contract;\n3. Substantial breaches of contractual duties, conditions or warranties; or\n4. Attainment of the age specified as the terminal age for coverage, in which case the insurer may cancel by notice under par. (b) accompanied by a tender of a proportional return of premium.\n(b) Notice. No cancellation under par. (a) is effective until at least 10 days after the 1st class mailing or delivery of a written notice to the policyholder.\n(c) New policies. Paragraphs (a) and (b) do not apply to any insurance policy that has not been previously renewed if the policy has been in effect less than 60 days at the time the notice of cancellation is mailed or delivered. No cancellation under this paragraph is effective until at least 10 days after the 1st class mailing or delivery of a written notice to the policyholder. Subsections (6) and (7) do not apply to such a policy.\n¶ 13. The heart of Wisconsin Mutual's argument on appeal is that the circuit court erred in determining that the October 23, 2013 policy issued to LIR was a renewed policy instead of a new policy. Wisconsin Mutual contends that the circuit court erroneously relied on the fact that the term \"reissued\" appeared on the October 23, 2013 policy and found the terms \"reissue\" and \"renew\" to be synonymous. It warns that the court's construction of these terms could \"have disastrous results for the insurance industry.\" (Bolding omitted.) Wisconsin Mutual is mistaken.\n¶ 14. It is undisputed that the October 23, 2013 policy's declaration sheet states in large, bold, capital letters: \"POLICY RE-ISSUED.\" It could have, but did not, state \"NEW POLICY.\" In determining whether this \"reissued\" policy was a new or a renewed policy, the circuit court noted that the statute did not define the term \"renew\" and looked to popular dictionaries for definitional guidance. In assessing the dictionary definition of \"renew,\" the court noted:\nIt seems to me that \"reissued\" means reissued the policy. I mean, \"issue\" is to do it in the first instance. \"Reissue\" implies doing it again, which I think implies a renewal.... [The policy] does not say \"new policy.\" It says \"note, new policy term.\"\nIn this case, when the policies were reissued, they were policies that were renewal policies. We know that the term \"renewal\" is not defined by statute. Black's Law Dictionary defines \"renewal\" as the act of restoring or reestablishing; a recreation of a legal relationship or the replacement of an old contract with a new one as opposed to the mere extension of a previous relationship or contract.\nMerriam-Webster's Collegiate Dictionary defines the term as, \"to make like new; to restore to freshness, vigor, perfection; to make new spiritually; to regenerate; to restore to existence; to revive; to make extensive changes; to rebuild; to do again; to repeat; to begin again; to resume; to replace; to replenish.\"\nIn my estimation and in my opinion, the term \"renew\" is ambiguous because it is susceptible to more than one meaning. On the one hand, it can suggest all restored contractual relationships regardless of when they were restored. That would make reissuances renewals. On the other hand, the term could be interpreted as to require continued or uninterrupted coverage ... .\nNow, in this particular case, I do believe that the court should construe a new policy as one that has never been previously renewed regardless of whether it has been reissued following cancellation. And as I indicated, if you've got an ambiguity with respect to coverage, it's construed in favor of the insured. Now, while the reissued policies were new contracts, it doesn't mean they were new policies. I really do think that first issuance is the best example of renewal.\n¶ 15. Contrary to Wisconsin Mutual's argument, the circuit court did not find \"renew\" and \"reissue\" to be synonymous. Rather, the court analyzed the facts of this particular case and found that under the circumstances, Wisconsin Mutual's conduct would lead a reasonable insured to believe that the October 23, 2013 policy was a renewed policy stemming all the way back to the initial policy issued on June 23, 2010. We agree that from the point of view of Wisconsin Mutual's insured, here, LIR, the term \"reissue\" as it appeared on LIR's policy, in conjunction with Wisconsin Mutual's conduct, would lead a reasonable insured to conclude that the policy at issue was a renewal policy not subject to a midterm cancellation. Policy BIZ 4343 was first issued on June 23, 2010. This document was titled \"New Policy.\" Between June 23, 2010, and December 18, 2013 (the date Wisconsin Mutual sent LIR notice that the October 23, 2013 policy would be cancelled), Wisconsin Mutual sent LIR numerous documents, including premium notices, billing reminders, cancellation notices, policy renewal premium notices, and policy reissued notices. All of the documents referenced the same policy number—BIZ 4343. The only document entitled \"new policy\" was the June 23, 2010 new policy notice. At no point was LIR required to submit a new application, nor was LIR ever notified that it was subject to new underwriting after the issuance of the June 23, 2010 policy. It is undisputed that after each cancellation and reissuance, the reissued policies contained new policy dates and new premiums; however, in this case, we cannot conclude that the reissued policies constituted new policies. As the circuit court noted, the multiple reissuances all \"flow[ed] back to the original policy[.]\"\n1 16. Wisconsin Mutual contends that a \"renewed\" policy is a continuation of a policy already in existence, while a \"reissued\" policy is the formation of a new contract after a break in coverage. Wisconsin Mutual cites no authority to support this distinction, but rather, contends that its internal company manual explains the difference between \"renew\" and \"reissue.\" We note first, that Wisconsin Mutual's company manual is not legal authority—it is a handbook that exists for internal company purposes. Moreover, there is no evidence in the record that LIR was ever provided with the manual or otherwise knew what it contained. Wisconsin Mutual failed to make clear to its insured that it issued a \"new policy\" on October 23, 2013, or any of the other dates when it reissued the policy.\n¶ 17. If Wisconsin Mutual wished to create a \"new\" contract, it easily could have made that clear on each new document. Wisconsin Mutual could have required LIR to submit a new application, could have issued a policy titled \"new policy,\" and could have provided a new policy number. Accordingly, we reject Wisconsin Mutual's contention that our holding will have \"disastrous\" effects on the entire insurance industry. Our holding is a result of Wisconsin Mutual's own internal procedures, which had a misleading effect on its insured. Nothing in the record supports the claim that Wisconsin Mutual's failure to provide clear notification explaining to its insured the difference between a \"new\" and a \"reissued\" or \"renewed\" policy will cause the collapse of the insurance industry.\nII. Legislative Intent\n¶ 18. Wisconsin Mutual contends that the legislative intent behind Wis. Stat. § 631.36 supports a finding that a policy \"reissuance\" is different from a policy \"renewal.\" Wisconsin Mutual's argument ignores the actual legislative intent behind the statute, which is intended to protect insureds from midterm cancellations absent specific circumstances. See Hoeft v. United States Fire Ins. Co., 153 Wis. 2d 135, 142, 450 N.W.2d 459 (Ct. App. 1989) (addressing the purpose of nonrenewal notice requirements in § 631.36).\n¶ 19. In Wisconsin Housing & Economic Development Authority v. Verex Assurance, Inc., 166 Wis. 2d 636, 480 N.W.2d 490 (1992), the Wisconsin Supreme Court analyzed the Preliminary Comment to Wis. Stat. § 631.36, which discussed the purpose of the statute:\nThe Preliminary Comment indicates that the legislature intended to draft a comprehensive statute regulating the methods of termination of all insurance contracts, to do away with the \"crazy-quilt\" of methods in use for termination of insurance contracts, and to provide \"peace of mind\" to purchasers of insurance by providing that all insurance policies could only be canceled midterm in compliance with the statute. If we would now interpret sec. 631.36 as not regulating rescission ab initio, we would severely undermine the above-stated purposes of the statute.\nWisconsin Housing, 166 Wis. 2d at 646. Indeed the legislature even acknowledged potential ambiguity in the term \"renewal\" and the varying insurance practices contributing to that ambiguity:\nThere is little disagreement about the objectives of this section, which seeks only to ensure for all policyholders the fair treatment in contract relationships that wise insurers give as a matter of course .... The problems of preparing an adequate statute dealing with termination of insurance contracts are many: they include the truly chaotic underlying common law on the subject of contract termination and renewal, the great variety of procedures now used or historically applied by the insurance business, which vary not only from line to line of insurance but even, within lines, from company to company, the ambiguity of terminology and especially the many senses in which the word 'renewal' is used, and the fact that a great variety of discrete problems exist. More and more keep surfacing as work proceeds on the subject. Of necessity, this section has dealt with only the most obvious problems, and will need to be supplemented later. It seems desirable, despite complexity and variety of practice, to deal with the subject as broadly as possible rather than attempt to build a crazy-quilt of laws to accommodate a crazy-quilt of practices.\nWisconsin Housing, 166 Wis. 2d at 645-46 (citing Section 24, ch. 144, Laws of 1969) (emphasis and ellipses in Wisconsin Housing).\n¶ 20. Clearly the legislature intended to prohibit midterm cancellations absent an unforeseeable change in risk. No such change in risk was present here. Wisconsin Mutual was aware of LIR's payment history when it elected to reissue LIR's policy on October 23, 2013. We therefore disagree that the legislative intent behind Wis. Stat. § 631.36 supports Wisconsin Mutual's position. Indeed, the evidence of legislative intent is the opposite of undisclosed internal procedures that are likely to mislead an insured. For the foregoing reasons, we affirm the circuit court.\nBy the Court—Order affirmed.\nAll references to the Wisconsin Statutes are to the 2015-16 version unless otherwise noted.",
+        "type": "majority",
+        "author": "KESSLER, J."
+      }
+    ],
+    "attorneys": [
+      "On behalf of the defendant-appellant, the cause was submitted on the brief of Daniel C. Conway of Conway and Josetti, LLC.",
+      "On behalf of the plaintiff-respondent, the cause was submitted on the brief of Melissa Blair Espin and John Domaszek of Sorrentino Burkert Risch, LLC. Third-party defendant",
+      "third-party brief was filed by Grace Marie Kulkoski and Michael P. Crooks of Peterson, Johnson and Murray, S.C."
+    ],
+    "corrections": "",
+    "head_matter": "LIR Investments LLC, Plaintiff, v. Steven Stokelbusch, Stokelbusch Insurance Agency, Inc. and Westport Insurance Corporation, Defendants-Third-Party Plaintiffs-Respondents†, v. ABC Insurance Company, Defendant, Wisconsin Mutual Insurance Co., Third-PartyDefendant-Appellant.\nCourt of Appeals\nNo. 2016AP1386.\nSubmitted on briefs May 2, 2017.\nDecided August 15, 2017.\n2017 WI App 63\n(Also reported in 902 N.W.2d 801.)\nOn behalf of the defendant-appellant, the cause was submitted on the brief of Daniel C. Conway of Conway and Josetti, LLC.\nOn behalf of the plaintiff-respondent, the cause was submitted on the brief of Melissa Blair Espin and John Domaszek of Sorrentino Burkert Risch, LLC. Third-party defendant\nthird-party brief was filed by Grace Marie Kulkoski and Michael P. Crooks of Peterson, Johnson and Murray, S.C.\nBefore Kessler, Brash and Dugan, JJ.\nPetition for review filed."
+  },
+  "file_name": "1760-01",
+  "first_page_order": 223,
+  "last_page_order": 236
+}

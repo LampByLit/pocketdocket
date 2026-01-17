@@ -1,0 +1,988 @@
+{
+  "id": 12298293,
+  "name": "Nationstar Mortgage, LLC, Plaintiff, v. Donald MacPherson et al., Defendants",
+  "name_abbreviation": "Nationstar Mortgage, LLC v. MacPherson",
+  "decision_date": "2017-04-03",
+  "docket_number": "",
+  "first_page": "339",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 339"
+    },
+    {
+      "type": "parallel",
+      "cite": "54 N.Y.S.3d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "47 AD3d 505",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3638369
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/47/0505-01"
+      ]
+    },
+    {
+      "cite": "44 AD3d 692",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3233064,
+        3207334,
+        3230751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/44/0692-01",
+        "/ad3d/44/0692-03",
+        "/ad3d/44/0692-02"
+      ]
+    },
+    {
+      "cite": "62 AD3d 662",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3928847
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/0662-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 832",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3952490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/0832-01"
+      ]
+    },
+    {
+      "cite": "71 AD3d 1006",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3982072,
+        3981926
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/71/1006-01",
+        "/ad3d/71/1006-02"
+      ]
+    },
+    {
+      "cite": "74 AD3d 1021",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5757636
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/1021-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 1044",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5678577,
+        5677549
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1044-02",
+        "/ad3d/94/1044-01"
+      ]
+    },
+    {
+      "cite": "148 AD3d 962",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12290488
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/148/0962-01"
+      ]
+    },
+    {
+      "cite": "56 AD3d 457",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 AD2d 476",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1247829
+      ],
+      "pin_cites": [
+        {
+          "page": "477"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/240/0476-01"
+      ]
+    },
+    {
+      "cite": "49 AD3d 592",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3761219
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/49/0592-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 753",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4003629
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "754"
+        },
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0753-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 646",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12151917
+      ],
+      "pin_cites": [
+        {
+          "page": "648"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/0646-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418755
+      ],
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0157-01"
+      ]
+    },
+    {
+      "cite": "45 AD3d 958",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3353784
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/45/0958-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 709",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4238192
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0709-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 891",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12158665
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/0891-01"
+      ]
+    },
+    {
+      "cite": "307 AD2d 982",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        185093,
+        185414
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/307/0982-02",
+        "/ad2d/307/0982-01"
+      ]
+    },
+    {
+      "cite": "258 NY 472",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1999683
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/258/0472-01"
+      ]
+    },
+    {
+      "cite": "34 AD3d 438",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5307485
+      ],
+      "pin_cites": [
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/34/0438-01"
+      ]
+    },
+    {
+      "cite": "208 AD2d 892",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1184430
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/0892-01"
+      ]
+    },
+    {
+      "cite": "279 AD2d 604",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1265848
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "605"
+        },
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/279/0604-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 980",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5684498,
+        5670428
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "982"
+        },
+        {
+          "page": "983"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/0980-01",
+        "/ad3d/94/0980-02"
+      ]
+    },
+    {
+      "cite": "148 AD3d 193",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12282509
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/148/0193-01"
+      ]
+    },
+    {
+      "cite": "134 AD3d 1071",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/134/1071-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1079",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4169524
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1079-01"
+      ]
+    },
+    {
+      "cite": "148 AD3d 687",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12286559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/148/0687-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1199",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4170966
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1199-01"
+      ]
+    },
+    {
+      "cite": "139 AD3d 898",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4291890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0898-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 402",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4237755
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0402-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 724",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3707790
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0724-01"
+      ]
+    },
+    {
+      "cite": "33 Misc 3d 528",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3777930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/33/0528-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 1073",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12161289
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1074"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/1073-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 1006",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12160444
+      ],
+      "pin_cites": [
+        {
+          "page": "1007"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/1006-01"
+      ]
+    },
+    {
+      "cite": "142 AD3d 683",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        6785337
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/142/0683-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1375",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4161166
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/1375-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4414644
+      ],
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0153-01"
+      ]
+    },
+    {
+      "cite": "125 AD3d 845",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4028431,
+        4035231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0845-01",
+        "/ad3d/125/0845-02"
+      ]
+    },
+    {
+      "cite": "125 AD3d 848",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4035647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0848-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 787",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4302988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0787-01"
+      ]
+    },
+    {
+      "cite": "134 AD3d 1099",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368544
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/134/1099-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 1054",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4035094
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/1054-01"
+      ]
+    },
+    {
+      "cite": "148 AD3d 965",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12290562
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/148/0965-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1151",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4160708
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/1151-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 841",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4171676,
+        4176007
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0841-01",
+        "/ad3d/137/0841-02"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1222",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4178802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1222-01"
+      ]
+    },
+    {
+      "cite": "140 AD3d 1622",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5774880,
+        5774640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/140/1622-02",
+        "/ad3d/140/1622-01"
+      ]
+    },
+    {
+      "cite": "141 AD3d 506",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        6789367,
+        6789343
+      ],
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/141/0506-02",
+        "/ad3d/141/0506-01"
+      ]
+    },
+    {
+      "cite": "142 AD3d 636",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        6783973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/142/0636-01"
+      ]
+    },
+    {
+      "cite": "143 AD3d 866",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12171959
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/143/0866-01"
+      ]
+    },
+    {
+      "cite": "145 AD3d 497",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12170898,
+        12170907
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/145/0497-01",
+        "/ad3d/145/0497-02"
+      ]
+    },
+    {
+      "cite": "146 AD3d 861",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12306525
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/146/0861-01"
+      ]
+    },
+    {
+      "cite": "146 AD3d 1010",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12307658
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/146/1010-01"
+      ]
+    },
+    {
+      "cite": "147 AD3d 725",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12305231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/147/0725-01"
+      ]
+    },
+    {
+      "cite": "148 AD3d 1269",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12294235
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/148/1269-01"
+      ]
+    },
+    {
+      "cite": "107 AD3d 931",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3720259
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/0931-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 904",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4271522
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0904-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 896",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4169879
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0896-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1260",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4178784
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1260-01"
+      ]
+    },
+    {
+      "cite": "140 AD3d 913",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5774292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/140/0913-01"
+      ]
+    },
+    {
+      "cite": "142 AD3d 643",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        6784077
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "645"
+        },
+        {
+          "page": "645"
+        },
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/142/0643-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 893",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12158689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/0893-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 355",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4319805
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0355-01"
+      ]
+    },
+    {
+      "cite": "32 AD3d 410",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        537891,
+        538275
+      ],
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/32/0410-02",
+        "/ad3d/32/0410-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 964",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3487972
+      ],
+      "pin_cites": [
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0964-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 923",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4268795
+      ],
+      "pin_cites": [
+        {
+          "page": "923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0923-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1131,
+    "char_count": 29870,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25019006899630053
+    },
+    "sha256": "0e0c1a0340a605fba31b34de073717482219a16fc6cf745f6b881db64322a6a3",
+    "simhash": "1:233e10a5247075d8",
+    "word_count": 5008
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nationstar Mortgage, LLC, Plaintiff, v Donald MacPherson et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nThomas F. Whelan, J.\nIt is ordered that this motion (No. 001) by the plaintiff for, among other things, summary judgment, caption amendment and the appointment of a referee to compute, is granted except that recovery is limited to only those unpaid installments which accrued after September 17, 2008, that is, the six-year period immediately preceding the commencement of this action; and it is further ordered that the proposed order submitted by the plaintiff, as modified, is signed simultaneously herewith; and it is further ordered that plaintiff is directed to file a notice of entry within five days of receipt of this order pursuant to 22 NYCRR 202.5-b (h) (3).\nThis foreclosure action was commenced by filing on September 17, 2014. The matter was reassigned to this Part pursuant to Administrative Order No. 27-17, dated February 28, 2017 and submitted for decision on March 3, 2017. In essence, on July 25, 2006, defendant, Donald MacPherson, borrowed $1,495,000 from the plaintiffs predecessor-in-interest and executed a promissory note and mortgage. Since July 1, 2007, the defendant has failed to pay the monthly installments due and owing. Only the defendants, Donald MacPherson and 1104 North Sea Co., a subsequent transferee of the premises, have answered this action. In their answer, defendants alleged three affirmative defenses. The court must address a procedural matter first.\nThis is an e-filed case. The summons and complaint were filed September 17, 2014 as New York State Courts Electronic Filing System (NYSCEF) Doc No. I. Pursuant to CPLR 2103 (b) (7), service of papers shall be made upon a party’s attorney “by transmitting the paper [s] to the attorney by electronic means where and in the manner authorized by the Chief Administrator of the Courts by rule and, unless such rule shall otherwise provide, such transmission shall be upon the party’s written consent.” The court system has created NYSCEF for the email filing of papers in authorized actions.\nEver since March 31, 2014, pursuant to Administrative Order of the Chief Administrative Judge of the Courts (see AO/64/14 [Mar. 25, 2014]) and every subsequent administrative order thereafter, Suffolk County has required the mandatory electronic filing of all papers in foreclosure actions. The mandatory electronic filing program in foreclosure actions in Suffolk County is governed by 22 NYCRR 202.5-bb. The filing and service of all documents in an action that has been commenced electronically shall be by electronic means (see 22 NYCRR 202.5-bb [a] [1]; [c] [1]). The parties filed a stipulation, as NYSCEF Doc No. 25, adjourning the motion to July 13, 2016, “and the Opposition papers shall be served and filed by July 6, 2016.” Here, the record reveals that the affirmation in opposition was not filed until July 10, 2016 as NYSCEF Doc No. 26. Such a filing is untimely pursuant to the filed stipulation between the parties. Same was rejected by counsel for the plaintiff by notice of return and rejection as NYSCEF Doc No. 28.\nEven if defendants seeks to argue that 22 NYCRR 202.5-b (f) (2) (ii) may be applicable, which it is not since that involves the consent program that does not exist in Suffolk County (see 22 NYCRR 202.5-b [b]), and that other CPLR service methods are available, that provision still requires that “proof of [that] service shall be filed electronically.” Moreover, pursuant to 22 NYCRR 202.5-b (d) (4), “[w]hen a document has been filed electronically pursuant to this section, the official record shall be the electronic recording of the document stored by the County Clerk.” Here, the affirmation in opposition was not timely filed and an affidavit of service has never been filed. These defects render the opposing papers by the answering defendants jurisdictionally defective since “[t]he failure to provide proper service of a motion deprives the court of jurisdiction to entertain the motion” (Lee v I-Sheng Li, 129 AD3d 923, 923 [2d Dept 2015]; see Crown Waterproofing, Inc. v Tadco Constr. Corp., 99 AD3d 964, 965 [2d Dept 2012]; Daulat v Helms Bros., Inc., 32 AD3d 410, 411 [2d Dept 2006]). Since the affirmation in opposition violated the filed stipulation and the mandatory e-filing rules established by the Chief Administrative Judge of the Courts, as authorized by the state legislature in CPLR 2103 (b) (7), the document is deemed untimely and a nullity.\nAs noted above, defendants’ answer alleged three affirmative defenses. The second affirmative defense challenges plaintiff’s standing to commence this action. In the moving papers, plaintiff addresses its burden of proof on this summary judgment motion and refutes the affirmative defenses of the answer. With regard to compliance with RPAPL 1304, plaintiff has established its prima facie burden with the submission of the affidavit of April Simmons, a document execution specialist employed by the plaintiff, the servicer of the mortgage loan in question. She explained Nationstar’s practices and procedures and its possession of the note on November 25, 2013.\nThe court rejects the second affirmative defense (standing). One of the various methods that standing may be established is by due proof that the plaintiff or its custodial agent was in possession of the note prior to the commencement of the action. The production of such proof is sufficient to establish, prima facie, the plaintiffs possession of the requisite standing to prosecute its claims for foreclosure and sale (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]; U.S. Bank N.A. v Ehrenfeld, 144 AD3d 893 [2d Dept 2016]; JPMorgan Chase Bank, N.A. v Weinberger, 142 AD3d 643 [2d Dept 2016]; Citimortgage, Inc. v Klein, 140 AD3d 913 [2d Dept 2016]; U.S. Bank N.A. v Godwin, 137 AD3d 1260 [2d Dept 2016]; Wells Fargo Bank, N.A. v Joseph, 137 AD3d 896 [2d Dept 2016]; Emigrant Bank v Larizza, 129 AD3d 904 [2d Dept 2015]; Deutsche Bank Natl. Trust Co. v Whalen, 107 AD3d 931 [2d Dept 2013]).\nAdditionally, the plaintiff’s attachment of a duly indorsed mortgage note to its complaint or to the certificate of merit required by CPLR 3012-b, coupled with an affidavit in which it alleges that it had possession of the note prior to commencement of the action, has been held to constitute due proof of the plaintiffs possession of the note prior to the commencement of the action and thus its standing to prosecute its claim for foreclosure and sale (see JPMorgan Chase Bank, N.A. v Venture, 148 AD3d 1269 [3d Dept 2017]; Deutsche Bank Trust Co. Ams. v Garrison, 147 AD3d 725 [2d Dept 2017]; U.S. Bank N.A. v Saravanan, 146 AD3d 1010 [2d Dept 2017]; Deutsche Bank Natl. Trust Co. v Logan, 146 AD3d 861 [2d Dept 2017]; Deutsche Bank Natl. Trust Co. v Umeh, 145 AD3d 497 [1st Dept 2016]; Nationstar Mtge., LLC v Weisblum, 143 AD3d 866, 868 [2d Dept 2016]; Deutsche Bank Natl. Trust Co. v Webster, 142 AD3d 636 [2d Dept 2016]; JPMorgan Chase Bank, N.A. v Weinberger, 142 AD3d 643 [2016], supra; Federal Natl. Mtge. Assn, v Yakaputz II, Inc., 141 AD3d 506, 507 [2d Dept 2016]; JPMorgan Chase Bank, N.A. v Kobee, 140 AD3d 1622 [4th Dept 2016]; JPMorgan Chase Bank, N.A. v Roseman, 137 AD3d 1222 [2d Dept 2016]; Deutsche Bank Natl. Trust Co. v Leigh, 137 AD3d 841 [2d Dept 2016]; Nationstar Mtge., LLC v Catizone, 127 AD3d 1151 [2015]).\nAppellate case authorities have repeatedly held that in determining the standing of a foreclosing plaintiff, it is the mortgage note that is the dispositive instrument, not the mortgage indenture (see Aurora Loans Servs., LLC v Mandel, 148 AD3d 965 [2d Dept 2017]; Everhome Mtge. Co. v Pettit, 135 AD3d 1054 [3d Dept 2016]). This result is mandated by the long-standing principal incident rule which provides that because a mortgage is merely the security for the debt, the obligations of the mortgage pass as an incident to the passage of the note (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015], supra; Wells Fargo Bank, N.A. v Charlaff, 134 AD3d 1099 [2d Dept 2015]; Emigrant Bank v Larizza, 129 AD3d 904 [2015], supra). A foreclosing plaintiff has standing if it is either the holder or the assignee of the underlying note at the time that the action is commenced (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015], supra; Loancare v Firshing, 130 AD3d 787 [2d Dept 2015]; Emigrant Bank v Larizza, 129 AD3d 904 [2015], supra). “Either a written assignment of the underlying note or the physical delivery of the note to the plaintiff, prior to the commencement of the action, is sufficient to transfer the obligation” (see Emigrant Bank v Larizza at 905; Wells Fargo Bank, N.A. v Parker, 125 AD3d 848 [2d Dept 2015]; U.S. Bank N.A. v Guy, 125 AD3d 845 [2015]).\nThe plaintiff may also establish its standing by demonstrating that it is the holder of the mortgage note within the contemplation of the Uniform Commercial Code. Holder status is established where the plaintiff possesses a note that, on its face or by allonge, contains an endorsement in blank or bears a special endorsement payable to the order of the plaintiff (see UCC 1-201, 3-202, 3-204; Hartford Acc. & Indem. Co. v American Express Co., 74 NY2d 153, 159 [1989]). A “holder” is “the person in possession of a negotiable instrument that is payable either to bearer or to an identified person that is the person in possession” (UCC 1-201 [b] [21]). Notably, “the holder of an instrument whether or not he is the owner may . . . enforce payment in his own name” (UCC 3-301; Wells Fargo Bank, NA v Ostiguy, 127 AD3d 1375 [3d Dept 2015]). “ ‘Bearer’ means a person in possession of a negotiable instrument” (UCC 1-201 [b] [5]), and where the note is indorsed in blank, it may be negotiated by delivery alone (see UCC 3-202 [1]; 3-204 [2]). “An indorsement in blank specifies no particular indorsee and may consist of a mere signature” and “[a]n instrument payable to order and indorsed in blank becomes payable to bearer and may be negotiated by delivery alone until specially indorsed (UCC 3-204 [2])” (JPMorgan Chase Bank, N.A. v Weinberger, 142 AD3d 643, 645 [2016], supra [internal quotation marks omitted]).\nUnder this statutory framework, it is clear that to establish its standing as the holder of a duly indorsed note in blank, a plaintiff is only required to demonstrate that it had physical possession of the note prior to commencement of the action (see Deutsche Bank Natl. Trust Co. v Brewton, 142 AD3d 683 [2d Dept 2016]; JPMorgan Chase Bank, N.A. v Weinberger, 142 AD3d 643, 645 [2016], supra). In such cases “ ‘it is unnecessary to give factual details of the delivery in order to establish that possession was obtained prior to a particular date’ ” since a plaintiff in possession of a note indorsed in blank is thus without obligation to establish how it came into possession of the instrument in order to be able to enforce it (PennyMac Corp. v Chavez, 144 AD3d 1006, 1007 [2d Dept 2016], quoting JPMorgan Chase Bank, N.A. v Weinberger, 142 AD3d at 645; see UCC 3-204 [2]). In addition, because “a signature on a negotiable instrument ‘is presumed to be genuine or authorized’ ” {see UCC 3-307 [1] [b]), “the plaintiff [is] not required to submit proof that the person who endorsed the subject note to the plaintiff on behalf of the original lender was authorized to do so” (CitiMortgage, Inc. v McKinney, 144 AD3d 1073, 1074 [2d Dept 2016]).\nMoreover, the apparent invalidity of any written assignments of mortgage are thereby rendered irrelevant to the issue of standing {see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015], supra). Defendants’ challenge to the assignment of the mortgage, as set forth in the second affirmative defense, is without merit since it is the note that is the controlling document for standing purposes {see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015], supra; see also Deutsche Bank Natl. Trust Co. v Pietranico, 33 Misc 3d 528 [Sup Ct, Suffolk County 2011], affd 102 AD3d 724 [2013]).\nIndeed, the establishment of the plaintiff’s actual possession of the mortgage note or its constructive possession through an agent on a date prior to the commencement of the action is so conclusive that it renders, unavailing, claims of content defects in allonges (see U.S. Bank N.A. v Askew, 138 AD3d 402 [1st Dept 2016]). It further renders unavailing, all claims of content defects in the chain of mortgage assignments (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015], supra; CitiMortgage, Inc. v McKinney, 144 AD3d 1073 [2016], supra; JPMorgan Chase Bank, N.A. v Weinberger, 142 AD3d 643 [2016], supra; Flagstar Bank, FSB v Mendoza, 139 AD3d 898 [2d Dept 2016]; Deutsche Bank Natl. Trust Co. v Naughton, 137 AD3d 1199 [2d Dept 2016]; Deutsche Bank Natl. Trust Co. v Whalen, 107 AD3d 931 [2013], supra).\nThe affidavit of April Simmons, unequivocally avers that, based upon her review of the records maintained by the ser-vicer, with which she is personally familiar, and kept and relied upon as a regular business practice and in the ordinary course of loan servicing business, the plaintiff came into possession of the original note indorsed in blank before the commencement of the action. Such proof was sufficient to establish the plaintiff’s standing due to it status as the holder of the mortgage note prior to the commencement of this action. In addition, the plaintiff’s attachment of the note indorsed in blank to the complaint filed at the commencement of this action together with the affidavit of merit and the allegations asserted in the complaint furnished further proof of the plaintiff’s possession of the note at the time of the commencement of this action. Here, plaintiff has demonstrated possession of the note prior to the commencement of the action (see Hudson City Sav. Bank v Genuth, 148 AD3d 687 [2d Dept 2017]; HSBC Bank USA, N.A. v Espinal, 137 AD3d 1079 [2016]; LNV Corp. v Francois, 134 AD3d 1071 [2d Dept 2015]). Therefore, the second affirmative defense is dismissed.\nThe court also rejects the first affirmative defense (statute of limitations). Defendants claim that by virtue of an action commenced on October 30, 2007, by plaintiff’s predecessor-in-interest, entitled Aurora Loan Servs., LLC v MacPherson (index No. 33781/07), that the entire debt was accelerated and the six-year statute of limitations has expired. However, the court agrees with the plaintiff that pursuant to the terms of the mortgage, the debt was not accelerated by the commencement of the 2007 action and, in any event, such action has been discontinued on a routine clearing of the docket and marked disposed in the court’s computer system. Such an action by court personnel does not constitute a neglect to prosecute and as such a plaintiff could be afforded additional time, beyond the statute of limitations, to recommence pursuant to CPLR 205 (a) (see Wells Fargo Bank, N.A. v Eitani, 148 AD3d 193 [2d Dept 2017]).\nAs a general matter, with respect to a mortgage payable in installments, separate causes of action accrue for each installment that is not paid, and the statute of limitations begins to run, on the date each installment becomes due (see Nationstar Mtge., LLC v Weisblum, 143 AD3d 866 [2d Dept 2016]; Wells Fargo Bank, N.A. v Burke, 94 AD3d 980, 982 [2d Dept 2012]). However, “even if a mortgage is payable in installments, once a mortgage debt is accelerated, the entire amount is due and the Statute of Limitations begins to run on the entire debt” (EMC Mtge. Corp. v Patella, 279 AD2d 604, 605 [2d Dept 2001]). Stated differently, “once a mortgage debt is accelerated, ‘the borrowers’ right and obligation to make monthly installments ceased and all sums [become] immediately due and payable,’ and the six-year Statute of Limitations begins to run on the entire mortgage debt” (EMC Mtge. Corp. v Patella, 279 AD2d at 605, citing Federal Natl. Mtge. Assn, v Mebane, 208 AD2d 892 [2d Dept 1994]). Notice to the borrower to accelerate the entire amount of the mortgage debt must be “clear and unequivocal” (Sarva v Chakravorty, 34 AD3d 438, 439 [2d Dept 2006]).\nThe rules stated above emanate from the seminal mortgage acceleration case of Albertina Realty Co. v Rosbro Realty Corp. (258 NY 472 [1932]). Therein, the lender filed a foreclosure action after the borrower failed to make a timely installment payment. The borrower tendered the late payment three days after the action was filed but prior to service of the pleadings. The lender refused payment arguing that the complaint had accelerated the entire debt. The mortgage contained a strict statutory acceleration clause found in Real Property Law § 258, schedule M {id. at 474). The Court of Appeals agreed and held that the lender had elected to exercise its right to accelerate. The Court described the acceleration clause as “a fair and legal contract which the parties to the mortgage had a right to enter into” {id. at 475). Importantly, the Court noted that “[t]he agreement does not provide what the holder of the mortgage must do to evidence its election to declare the whole amount due. Such a provision could have been embodied in the contract if the parties had so desired” {id. at 475-476). Since that time, numerous cases have relied upon the holding in Albertina, that the commencement of a prior foreclosure action starts the running of the statute of limitations (see Clayton Natl, v Guldi, 307 AD2d 982 [2d Dept 2003]; Federal Natl. Mtge. Assn, v Mebane, 208 AD2d 892 [1994], supra; see also U.S. Bank N.A. v Martin, 144 AD3d 891 [2d Dept 2016]; PSP-NC, LLC v Raudkivi, 138 AD3d 709 [2d Dept 2016]).\nHowever, as noted in Albertina, “ [t]he parties to the mortgage in question were not limited to the use of the form of acceleration clause contained in the mortgage in question” (Albertina at 476). In the instant case, the parties did not choose to use the statutory form of acceleration set forth in Real Property Law § 258, schedule M or N (compare Charter One Bank, FSB v Leone, 45 AD3d 958 [3d Dept 2007]). In the instant case, the relevant acceleration clauses, in pertinent part, are set forth below.\n“22. Lender’s Rights If Borrower Fails to Keep Promises and Agreements. Except as provided in Section 18 of this Security Instrument, if all of the conditions stated in subsections (a), (b) and (c) of this Section 22 are met, Lender may required that I pay immediately the entire amount then remaining unpaid under the Note and under this Security Instrument. Lender may do this without making any further demand for payment. This requirement is called ‘Immediate Payment in Full.’\n“If Lender requires Immediate Payment in Full, Lender may bring a lawsuit to take away all of my remaining rights in the Property and have the property sold. At this sale Lender or another Person may acquire the Property. This is known as ‘Foreclosure of Sale.’ In any lawsuit for Foreclosure and Sale, Lender will have the right to collect all costs and disbursements and additional allowances allowed by Applicable Law and will have the right to add all reasonable attorneys’ fees to the amount I owe Lender, which fees shall become part of the Sums Secured.\n“Lender may require immediate Payment in Full under this Section 22 only if all of the following conditions are met:\n“(a) I fail to keep any promise or agreement made in this Security Instrument or the Note, including, but not limited to, the promises to pay the Sums Secured when due, or if another default occurs under this Security Instrument;\n“(b) Lender sends to me, in the manner described in Section 15 of this Security Instrument, a notice that states:\n“(1) The promise or agreement that I failed to keep or the default that has occurred;\n“(2) The action that I must take to correct that default;\n“(3) The date by which I must correct the default.\nThat date will be at least 30 days from the date on which the notice was given;\n“(4) That if I do not correct the default by the date stated in the notice, Lender may require immediate Payment in Full and Lender or another Person may acquire the Property by the means of Foreclosure and Sale;\n“(5) That if I meet the conditions stated in Section 19 of this Security Instrument, I will have the right to have Lender’s enforcement of this Security Instrument stopped and to have the Note and this Security Instrument remain fully effective as if Immediate Payment in Full had, never been required', and\n“(6) That I have the right in any lawsuit for Foreclosure and Sale to argue that I did keep my promises and agreements under the Note and under this Security Instrument, and to present any other defenses that I may have; and\n“(c) I do not correct the default stated in the notice from lender by the date stated in that notice. . . .\n“19. Borrower’s Right to Have Lender’s Enforcement of this Security Instrument Discontinued. Even if Lender has required Immediate Payment in Full, I may have the right to have enforcement of this Security Instrument stopped. I will have this right at any time before the earliest of. (a) five days before sale of this property under any power of sale granted by this Security Instrument; (b) another period as Applicable law might specify for the termination of my right to have enforcement of the Loan stopped; or (c) a judgment has been entered enforcing this Security Instrument. In order to have this right, I will meet the following conditions:\n“(a) I pay to Lender the full amount that then would be due under this Security Instrument and the Note as if Immediate Payment in full had never been required;\n“(b) I correct my failure to keep any of my other promises or agreements made in this Security Instrument;\n“(c) I pay all of Lender’s reasonable expenses in enforcing this Security Instrument including, for example, reasonable attorneys’ fees, property inspection and valuation fees, and other fees incurred for the purpose of protecting lender’s interest in the Property and rights under this Security Instrument; and\n“(d) I do what Lender reasonably requires to assure that lender’s interest in the Property and rights under this Security Instrument and my obligations under the Note and under this Security Instrument continue unchanged.\n“Lender may require that I pay the sums and expenses mentioned in (a) through (d) in one or more of the following forms, as selected by Lender: (a) cash; (b) money order; (c) certified check, bank check, treasurer’s check or cashier’s check drawn upon an institution whose deposits are insured by a federal agency, instrumentality or entity; or (d) Electronic Funds Transfer.\n“If I fulfill all of the conditions in this Section 19, then this Security Instrument will remain in full effect as if Immediate Payment in Full had never been required. However, I will not have the right to have Lender’s enforcement of this Security Instrument discontinued if Lender has required Immediate Payment in Full under Section 18 of this Security Instrument.” (Emphasis added.)\nHere, the lender bargained away its right to demand payment in full simply upon a default in an installment payment or the commencement of an action and has afforded the borrower greater protections than that set forth in the statutory form of an acceleration clause under Real Property Law § 258 or under the holding in Albertina. As set forth by the Court of Appeals in W.W.W. Assoc. v Giancontieri (77 NY2d 157, 162 [1990]), “[a] familiar and eminently sensible proposition of law is that, when parties set down their agreement in a clear, complete document, their writing should as a rule be enforced according to its terms.” As with any other contractual option, the holder of an option may be required to exercise an option to accelerate the maturity of a loan in accordance with the terms of the mortgage (Wells Fargo Bank, N.A. v Burke, 94 AD3d at 983). “A party who executes a contract is presumed to know its contents and to assent to them” (Nerey v Greenpoint Mtge. Funding, Inc., 144 AD3d 646, 648 [2d Dept 2016] [internal quotation marks omitted]).\nUnder the express wording of the mortgage document, plaintiff has no right to reject the borrower’s payment of arrears in order to reinstate the mortgage, until a judgment is entered. Pursuant to paragraph 19 (c), set forth above, the lender cannot reject a payment that would reinstate the mortgage and accelerate the maturity of the debt by requiring payment in full until after “a judgment has been entered.” Under the contract terms at issue, plaintiff does not have a legal right to require payment in full with the simple filing of a foreclosure action. The borrower could pay the unpaid installments and the payment of same would destroy the option to accelerate, which clearly states that immediate payment in full could only be declared upon the entry of a judgment. Until the option to declare the entire debt due is effectively exercised, the borrower has the right to tender the payments then due and make good on his or her defaults. Here, it is a judgment that triggers the acceleration in full of the entire mortgage debt. The instant case is similar to the facts in Wells Fargo Bank, N.A. v Cohen (80 AD3d 753, 754 [2d Dept 2011]) where “the mortgage and note do not provide that the entire debt represented by the mortgage was to be automatically accelerated upon the borrower’s default in an installment payment.”\nIt is the terms of the mortgage and not the commencement of a foreclosure action that determines when the maturity of a loan is accelerated. Therefore, the general case law set forth above is not controlling, since pursuant to the contract that these parties entered into, the mortgage remains, in essence, an installment contract until a judgment is entered. Since the mortgage debt has not been accelerated, the borrower’s right and obligation to make monthly installments has not ceased. In fact, the October 30, 2013 default letter sent by plaintiff to defendants (see exhibit G of the motion) expressly states the defendants’ right to cure and reinstate the loan. All sums have not, as of yet, become immediately due and payable.\nContrary to the first affirmative defense, the instant foreclosure action is not time-barred (see CPLR 213 [4]). That affirmative defense does not demonstrate that the exercise of the option to accelerate caused the maturity of the loan in accordance with the terms of the mortgage, prior to the commencement of this action. However, the plaintiff’s recovery is limited to only those unpaid installments which accrued after September 17, 2008, that is, the six-year period immediately preceding the commencement of this action (see EMC Mtge. Corp. v Suarez, 49 AD3d 592 [2d Dept 2008]; see also Wells Fargo Bank, N.A. v Cohen, 80 AD3d at 754; Loiacono v Goldberg, 240 AD2d 476, 477 [2d Dept 1997]; See v Ach, 56 AD3d 457 [2d Dept 2008]).\nThe court also rejects the third affirmative defense since the plaintiff’s predecessor-in-interest was entitled to rely upon the power of attorney to George O. Guldi, executed by the defendant, Donald MacPherson, which was notarized and filed with the Suffolk County Clerk (see exhibit U to the motion). The claim of fraud is based “on mere surmise, suspicion, speculation, and conjecture” (Nerey v Greenpoint Mtge. Funding, Inc., 144 AD3d at 648). Therefore, the plaintiff satisfied its prima facie burden as to the third affirmative defense.\nIn the moving papers, plaintiff addresses its burden of proof on this summary judgment motion and refutes the affirmative defenses of the answer. Therefore, plaintiff has satisfied its prima facie burden on this summary judgment motion (see HSBC Bank USA, N.A. v Espinal, 137 AD3d 1079 [2d Dept 2016]; U.S. Bank N.A. v Cox, 148 AD3d 962 [2d Dept 2017]).\nIt was thus incumbent upon the answering defendants to submit proof sufficient to raise a genuine question of fact rebutting the plaintiff’s prima facie showing or in support of the affirmative defenses asserted in their answer or otherwise available to them (see Flagstar Bank v Bellafiore, 94 AD3d 1044 [2d Dept 2012]; Grogg v South Rd. Assoc., L.P., 74 AD3d 1021 [2d Dept 2010]; Wells Fargo Bank v Das Karla, 71 AD3d 1006 [2d Dept 2010]; Washington Mut. Bank, F.A. v O’Connor, 63 AD3d 832 [2d Dept 2009]; JP Morgan Chase Bank, N.A. v Agnello, 62 AD3d 662 [2d Dept 2009]; Aames Funding Corp. v Houston, 44 AD3d 692 [2d Dept 2007]).\nHowever, as set forth above, the opposition papers were untimely filed and have been stricken. Under these circumstances, defendants have failed to rebut the prima facie showing offered by the plaintiff.\nTherefore, the court grants plaintiff’s motion (No. 001) in its entirety, except that recovery is limited to only those unpaid installments which accrued after September 17, 2008, that is, the six-year period immediately preceding the commencement of this action, and simultaneously signs the proposed order, as modified.\n. The court may take judicial notice of the electronic court records of NYSCEF (see Perez v New York City Hous. Auth., 47 AD3d 505 [1st Dept 2008]).\n. Moreover, a subsequent action by plaintiff’s predecessor-in-interest was timely commenced in 2011 (see exhibit Q to the motion) and was also discontinued (see exhibit R to the motion). Although it is unnecessary in this case, the voluntary discontinuance of the action is an affirmative act revoking any claim of acceleration of the debt.\n. Section 18 of the mortgage, which requires immediate payment in full, only occurs when the mortgaged premises have been sold or transferred, which is not the reason offered for the default notice and is therefore, inapplicable to the facts as presented.",
+        "type": "majority",
+        "author": "Thomas F. Whelan, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Gross Polowy, LLC, Williamsville, for plaintiff.",
+      "Irwin Popkin, Melville, for Donald MacPherson and another, defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[54 NYS3d 825]\nNationstar Mortgage, LLC, Plaintiff, v Donald MacPherson et al., Defendants.\nSupreme Court, Suffolk County,\nApril 3, 2017\nAPPEARANCES OF COUNSEL\nGross Polowy, LLC, Williamsville, for plaintiff.\nIrwin Popkin, Melville, for Donald MacPherson and another, defendants."
+  },
+  "file_name": "2783-01",
+  "first_page_order": 339,
+  "last_page_order": 353
+}

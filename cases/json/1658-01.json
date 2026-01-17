@@ -1,0 +1,705 @@
+{
+  "id": 12166972,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. TOMMY SIMPSON, Defendant-Appellant",
+  "name_abbreviation": "State v. Simpson",
+  "decision_date": "2016-05-19",
+  "docket_number": "No. S-1-SC-35940; Docket No. 34,488",
+  "first_page": "314",
+  "last_page": "325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-070"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "342 S.W.3d 878",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7320046
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "885-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/342/0878-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-048",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4248957
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0644-01"
+      ]
+    },
+    {
+      "cite": "695 F.2d 1263",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1492043
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/695/1263-01"
+      ]
+    },
+    {
+      "cite": "112 N.M. 517",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720242
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/112/0517-01"
+      ]
+    },
+    {
+      "cite": "1991-NMCA-083",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010-NMSC-033",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4248043
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0708-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-027",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4247077
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0330-01"
+      ]
+    },
+    {
+      "cite": "1999-NMSC-025",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        257748
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/127/0282-01"
+      ]
+    },
+    {
+      "cite": "318 P.3d 180",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-021",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4078371
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0433-01"
+      ]
+    },
+    {
+      "cite": "2009-NMCA-002",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4243835
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0032-01"
+      ]
+    },
+    {
+      "cite": "2006-NMCA-098",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3671457
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 18"
+        },
+        {
+          "page": "¶ 18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0345-01"
+      ]
+    },
+    {
+      "cite": "103 N.M. 623",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        711271
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/103/0623-01"
+      ]
+    },
+    {
+      "cite": "1985-NMCA-105",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶¶ 21-25"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "357 P.3d 958",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4362278
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0707-01"
+      ]
+    },
+    {
+      "cite": "434 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180104
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "109",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0106-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4249607
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0435-01"
+      ]
+    },
+    {
+      "cite": "2003-NMCA-129",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        77134
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "¶ 5"
+        },
+        {
+          "page": "¶ 5"
+        },
+        {
+          "page": "¶¶ 2, 9"
+        },
+        {
+          "page": "¶¶ 10, 12"
+        },
+        {
+          "page": "¶¶ 13-21"
+        },
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶¶ 14, 15"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/134/0503-01"
+      ]
+    },
+    {
+      "cite": "339 P.3d 425",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCERT-010",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 P.3d 186",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-011",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4241639
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 18"
+        },
+        {
+          "page": "¶ 18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0239-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-026",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4003223
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0037-01"
+      ]
+    },
+    {
+      "cite": "1997-NMSC-006",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        322282
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0777-01"
+      ]
+    },
+    {
+      "cite": "2000-NMSC-018",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1217162
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/129/0119-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-046",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4245815
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0134-01"
+      ]
+    },
+    {
+      "cite": "99 N.M. 286",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1584622
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/99/0286-01"
+      ]
+    },
+    {
+      "cite": "1982-NMSC-085",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "2005-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        929147
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/137/0174-01"
+      ]
+    },
+    {
+      "cite": "2005-NMSC-017",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2549417
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 29"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/138/0001-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-041",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4002999
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 26, 31"
+        },
+        {
+          "page": "¶¶ 26, 31"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/144/0371-01"
+      ]
+    },
+    {
+      "cite": "329 P.3d 636",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "2014-NMSC-020",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4240654
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶¶ 13, 15-19"
+        },
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm-app/6/0283-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-023",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4250695
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 20-27"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/150/0137-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-033",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4248043
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/148/0708-01"
+      ]
+    },
+    {
+      "cite": "1997-NMSC-006",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        322282
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 36-40"
+        },
+        {
+          "page": "¶¶ 36-40"
+        },
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/122/0777-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1273,
+    "char_count": 37569,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2468118797659632
+    },
+    "sha256": "1cb3ccf1b1e65e8d9006caa99c37cf757b14ed3fd0028ce74ba95bfe93e4b160",
+    "simhash": "1:baaf3786e64205fe",
+    "word_count": 6048
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "William C. Birdsall, District Judge",
+      "LINDA M. VANZI, Judge",
+      "MICHAEL E. VIGIL, Chief Judge",
+      "TIMOTHY L. GARCIA, Judge (specially concurring)"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. TOMMY SIMPSON, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nVANZI, Judge.\n{1} In this driving while intoxicated (DWI) case, Defendant Tommy Simpson appeals from the denial of his motion to suppress. We understand Defendant’s argument to be that the district court erred in denying his motion to suppress because the arresting officer violated his constitutional rights by detaining and seizing him without reasonable suspicion and by opening the door to the car he occupied without first obtaining a warrant. We affirm.\nBACKGROUND\n{2} Defendant was charged with a single felony count of aggravated DWI (0.16 or above). NMSA 1978, § 66-8-102(D)(l) (2010). He subsequently filed a motion to suppress, claiming that evidence was obtained in violation of the Fourth Amendment to the United States Constitution and Article II, Section 10 of the New Mexico Constitution. The district court denied the motion after a hearing, and Defendant entered a conditional plea of guilty to felony DWI, reserving the right to appeal the denial of his motion. Farmington Police Department Officer Jonathan Jensen, who arrested Defendant, was the sole witness at the hearing. The following facts derive from his testimony.\n{3} Officer Jensen was on duty during the late afternoon of March 1, 2014, when he was dispatched to a Church’s Chicken restaurant on Main Street in Farmington, New Mexico. Dispatch told Officer Jensen that a caller had reported a “parked DWI in the parking lot” and described the subject vehicle as a “dark blue Plymouth” with a partial New Mexico license plate of “Y820.” Dispatch also told Officer Jensen that the caller reported the following: a male subject had entered the restaurant, he was passed out in the bathroom, and he smelled of an alcoholic beverage. The male got up, left the restaurant, got into the dark blue Plymouth, and moved the car from one parking space to another a few spots away, almost striking several other vehicles in the parking lot.\n{4} Officer Jensen arrived at Church’s Chicken within minutes of receiving the dispatch call and saw a dark blue vehicle with “very dark tinted windows” backed into a parking spot. He walked around the car and confirmed that the partial license plate number given to him by dispatch matched the vehicle’s license plate — “LKY 820.” Because of the dark tinted windows, Officer Jensen was initially unable to see inside the car and whether it was occupied. After verifying that this was the correct vehicle, he walked around to the driver’s side door, where the window was cracked “a couple of inches,” and saw a female in the passenger seat and a man later identified as Defendant in the back seat. There was nobody in the driver’s seat, so there was no one to open the driver’s side window, and because of the dark tinted windows, Officer Jensen could not see inside the vehicle to determine what the occupants were doing. Under the circumstances, Officer Jensen felt that the safest way to make contact with the occupants was to open the driver’s side door. That way, he could remain outside of the vehicle but able to see both occupants while he was conducting his investigation.\n{5} After he opened the door, Officer Jensen noted a strong odor of alcohol coming from the car. He observed that the man in the back seat did not appear to be comfortable and that the driver’s seat was “pretty far back,” suggesting that he had moved the front seat deliberately in order to slide into the back of the car.\n{6} After counsel completed direct and cross examination, the district court reviewed with Officer Jensen the information Jensen had received from dispatch. In addition, a video of the encounter was admitted into evidence without objection. Although stating “this seems righteous to me,” the judge said he would look at the video before issuing a ruling. The district court rejected Defendant’s argument that he had been subjected to a warrantless search or seizure that was presumed to be unreasonable and denied Defendant’s motion to suppress the evidence obtained after Officer Jensen “opened the vehicle door and seized” him. In a letter decision explaining its order, the court reasoned:\nThis is not a stop case. The officer approached a stopped vehicle containing [Djefendant. The vehicle was not blocked. The police unit did not have siren or lights engaged. The officer knocked on the car window, waited for a response (to no avail) and peered through the slightly opened window before opening the door. At the time the officer opened the door, he had reasonable suspicion to pursue the investigation. Due to the dark tint on the car windows, it was appropriate for him to open the door. At the time he asked [Djefendantto exit the vehicle, he had probable cause to arrest based on the earlier dispatch, what he observed, and statements made by [Djefendant.\n{7} Defendant subsequently entered a conditional plea of guilty to a DWI 5th offense, a fourth degree felony, Section 66-8-102(D)(1), (H), reserving the right to appeal the suppression issue and to withdraw his guilty plea, if successful.\nSTANDARD OF REVIEW\n{8} On appeal from the denial of a motion to suppress, we determine under de novo review whether the district court correctly applied the law to the facts, State v. Garcia, 2009-NMSC-046, ¶ 9, 147 N.M. 134, 217 P.3d 1032, viewing the facts “in a manner most favorable to the prevailing party” and deferring to the district court’s “findings of historical fact so long as they are supported by substantial evidence.” State v. Jason L., 2000-NMSC-018, ¶ 10, 129 N.M. 119, 2 P.3d 856 (internal quotation marks and citation omitted). Where there are no findings of fact, we “indulge in all reasonable presumptions in support of the district court’s ruling.” Id. ¶ 11 (internal quotation marks and citation omitted). Absent a contrary indication in the record, “we presume the court believed all uncontradicted evidence.” Id.\n{9} Although Defendant mentions Article II, Section 10 of the New Mexico Constitution, he does not explain how that provision affords more protection than the Fourth Amendment to the United States Constitution in the context of this appeal. We therefore assume without deciding that both constitutions afford equal protection in this context and analyze the constitutionality of the challenged conduct under one uniform standard. State v. Gomez, 1997-NMSC-006, ¶ 22, 122 N.M. 777, 932 P.2d 1.\nDISCUSSION\n{10} Defendant states the question presented as “whether opening the car door was a detention of the occupants and/or a search of the vehicle and, if so[,j whether the officer required a warrant to do either.” He contends that Officer’s Jensen’s conduct in opening the door “was both a seizure of the occupants and a search of the vehicle” requiring a warrant or at least “reasonable suspicion to believe that a crime had been committed.” The State does not disagree that there was an investigatory detention and seizure but argues that the challenged conduct was supported by a reasonable suspicion that, minutes before Officer Jensen arrived, Defendant had driven the car while intoxicated and that no warrant was required “[b]ecause of the exigent circumstances inherent to the crime of DWI, including both preservation of evidence and public safetyf.]” As in all cases in the search and seizure context, the ultimate question is whether Officer Jensen’s conduct was objectively reasonable under the totality of the circumstances confronting him. See State v. Funderberg, 2008-NMSC-026, ¶ 10, 144 N.M. 37, 183 P.3d 922. Applying the governing standards to the record before us, viewed in the light most favorable to the State as the prevailing party, we hold that it was.\n{11} A police officer may approach and detain a person to investigate possible criminal behavior, even if there is no probable cause to make an arrest, “if the officer is aware of specific articulable facts, together with rational inferences from those facts, that, when judged objectively, would lead a reasonable person to believe criminal activity occurred or was occurring.” State v. Lope, 2015-NMCA-011, ¶ 18, 343 P.3d 186 (internal quotation marks and citation omitted), cert. denied, 2014-NMCERT-010, 339 P.3d 425; see Funderberg, 2008-NMSC-026, ¶ 14 (“Reasonable suspicion develops when the officer becomes aware of specific articulable facts that, judged objectively, would lead a reasonable person to believe criminal activity occurred or was occurring.” (internal quotation marks and citation omitted)). Whether an investigatory detention is justified by reasonable suspicion depends on the totality of the circumstances, Jason L., 2000-NMSC-018, ¶ 20, including “the content of information possessed by the police and its degree of reliability.” State v. Contreras, 2003-NMCA-129, ¶ 5, 134 N.M. 503, 79 P.3d 1111; see Lope, 2015-NMCA-011, ¶ 18 (stating this standard). “Determinations of reasonable suspicion are reviewed de novo.” Garcia, 2009-NMSC-046, ¶ 9; see Funderberg, 2008-NMSC-026, ¶ 10 (“To determine whether the detention was justified, we review the totality of the circumstances as a matter of law.” (internal quotation marks and citation omitted)).\n{12} An investigatory detention is a seizure subject to the Fourth Amendment’s reasonableness requirement. Contreras, 2003-NMCA-129, ¶ 5; see U.S. Const, amend IV (stating the right to be secure “against unreasonable searches and seizures”). “ ‘Reasonableness . . . depends on a balance between the public interest and the individual’s right to personal security free from arbitrary interference by law officers.’ ” State v. Leyva, 2011-NMSC-009, ¶ 9, 149 N.M. 435, 250 P.3d 861 (quoting Pennsylvania v. Mimms, 434 U.S. 106, 109 (1977) (per curiam)); see State v. Paananen, 2015-NMSC-031, ¶ 13, 357 P.3d 958 (“To determine the constitutionality of a seizure we must balance the nature and quality of the intrusion on the individual’s Fourth Amendment interests against the importance of the governmental interests alleged to justify the intrusion.” (internal quotation marks and citation omitted)). The reasonableness of an investigatory detention is determined under an objective standard: “Would the facts available to the officer warrant the officer, as a person of reasonable caution, to believe the action taken was appropriately?]” State v. Cobbs, 1985-NMCA-105, ¶ 13, 103 N.M. 623, 711 P.2d 900 (internal quotation marks and citation omitted). In determining reasonableness, we “avoid bright-line, per se rules” and “consider the facts of each case.” State v. Granville, 2006-NMCA-098, ¶ 18, 140 N.M. 345, 142 P.3d 933; see State v. Ochoa, 2009-NMCA-002, ¶ 24, 146 N.M. 32, 206 P.3d 143 (“The myriad rules, exceptions, and exceptions to exceptions that flourish in the jurisprudence of search and seizure are often no more than factual manifestations of the constitutional requirement that searches and seizures be reasonable.” (internal quotation marks and citation omitted)).\n{13} Defendant contends that the “report of a ‘parked DWI in the parking lot’ ” provided “no articulable facts to support a reasonable suspicion that Defendant had driven or was planning to drive while intoxicated.” The State counters that the information provided by the caller, which Officer Jensen was sent to investigate, was not limited to a “parked DWI” but included facts that not only identified the subject parked car but also indicated that a man who had been found passed out in the Church’s Chicken bathroom and who smelled of alcohol had driven that car after getting up and leaving the restaurant, almost hitting several other vehicles in the process, and that the man was still in the car. We agree with the State that the information upon which Officer Jensen relied was sufficient to support a reasonable suspicion of a possible DWI involving the parked car and its occupants, and therefore the investigatory detention (seizure) of Defendant.\n{14} When Officer Jensen arrived in the Church’s Chicken parking lot minutes after receiving the dispatch call, he found a vehicle matching the caller’s description. Officer Jensen reasonably could infer that the car was the subject of the dispatch, and reasonably could suspect that the man described by the caller might be in the car and that he might have engaged in the criminal activity of driving while intoxicated minutes before. See Cobbs, 1985-NMCA-105, ¶ 15. An investigatory detention and seizure of the car and its occupants was justified because the information provided by dispatch and Officer Jensen’s own corroborating observation identifying the subject car would lead a person of reasonable caution to suspect criminal activity involving the car and its occupants. See id. ¶¶ 16-17; see also Contreras, 2003-NMCA-129, ¶¶ 2, 9 (holding that information provided by anonymous “concerned motorist” and passed on to deputies that identified vehicle involved in possible DWI was sufficient to justify investigatory stop).\n{15} Defendant’s argument that the requisite reasonable suspicion was lacking erroneously assumes, contrary to the record evidence just discussed, that the only fact available to Officer Jensen was the “report of a ‘parked DWI in the parking lot.’ ” Defendant also errs in relying on State v. Murry, 2014-NMCA-021, 318 P.3d 180, which held that evidence found after police officers approached a parked car and instructed the driver to open the door must be suppressed because the encounter was not consensual but a seizure, id. ¶¶ 11,28, and the seizure was not supported by reasonable suspicion. Id. ¶ 32. In Murry, there had been no reports or dispatches concerning criminal activity, and the officers observed only that the car was parked and occupied and two of the occupants had made abrupt movements, and the officers approached the car and instructed the driver to open the door. Id. ¶¶ 28, 30-31. In contrast, Officer Jensen acted upon information that (among other things) indicated that a man who had been passed out in a restaurant bathroom and who smelled of alcohol had, after getting up and leaving the restaurant, driven a car identified by make, color, and partial license plate, almost hitting several other vehicles in the process, and that the car was parked in the restaurant parking lot with the man still inside.\n{16} Although the totality of the circumstances considered in evaluating the reasonableness of an investigatory detention includes the reliability of the information available to the officer as well as its content, Contreras, 2003-NMCA-l 29, ¶ 5, Defendant’s brief in chief makes no reliability challenge. And while his reply brief asserts a hearsay-based reliability argument, it concedes that hearsay is admissible in suppression hearings. The argument comes too late. See Rule 12-213(C) NMRA; Mitchell-Carr v. McLendon, 1999-NMSC-025, ¶ 29, 127 N.M. 282, 980 P.2d 65 (stating that appellate courts ordinarily do not consider arguments made for the first time in a reply brief). In any event, the argument is not well taken on the facts of this case. Although the caller was anonymous, New Mexico law regards citizen informants as “more reliable than a police informant or a crime-stoppers informant},]” and there was no reason for Officer Jensen to “presume that the informant was not reliable or that the description given was not credible.” See Contreras, 2003-NMCA-129, ¶¶ 10, 12. Moreover, it appears that the caller was an eyewitness to the events described to dispatch, a factor that courts treat as indicative of reliability. See id.\n{17} Defendant appears to read Contreras to hold that an investigative detention based on an anonymous tip is justified only if there is an imminent threat of danger to the public and that an investigatory detention of a possible DWI is unreasonable unless the suspect is still driving. This reading is incorrect. As an initial matter, it contravenes the well-settled principle that, in determining reasonableness, we “avoid bright-line, per se rules” and “consider the facts of each case.” Granville, 2006-NMCA-098, ¶ 18. It also is not supported by the principles set forth in Contreras, 2003-NMCA-129, ¶¶ 13-21.\n{18} In Contreras we “balance[d] the possible threat of drunk driving to the safety of the public with [the defendant's right to be free from unreasonable seizure[,]” 2003-NMCA-129, ¶ 13, consistent with the law stating that, in determining the constitutionality of a seizure, we “balance the nature and quality of the intrusion on the individual’s Fourth Amendment interests against the importance of the governmental interests alleged to justify the intrusion.” Paananen, 2015-NMSC-031, ¶ 13 (internal quotation marks and citation omitted). In so doing, we stated that, “[i]n New Mexico, the elimination of [DWI] and its related offenses is a matter of grave concern to society in general, and to our courts and Legislature in particular[,j” and that “a moving car on a public roadway presents an exigent circumstance that a possessory crime does not.” Contreras, 2003-NMCA-129, ¶¶ 14, 15 (internal quotation marks and citation omitted). But we did so in the context of explaining that the minimal intrusion posed by an investigatory detention was justified by the need to protect the public from the threat posed by possible drunk driving and that an officer should not have to “expose the suspect and the public to the danger of a drunk driver[,]” as would result from a requirement that the officer first observe the drunk driving before initiating a detention to investigate a possible DWI. Id. ¶¶ 15-21; cf. State v. Sims, 2010-NMSC-027, ¶ 3, 148 N.M. 330, 236 P.3d 642 (“Had the police officer or other witnesses observed [the djefendant behind the steering wheel of a moving vehicle at or near the time of his apprehension, the [s]tate would not have to rely on ‘actual physical control’ to prove that [the djefendant was DWI. It is only when there are no witnesses to the vehicle’s motion that actual physical control is essential to prove DWI at the time an accused is apprehended.”). As our Supreme Court stated in City of Santa Fe v. Martinez, 2010-NMSC-033, ¶ 15, 148 N.M. 708, 242 P.3d 275,\nIf an officer was prohibited from making a warrantless arrest of a suspected drunk driver based on the fact that the officer did not actually observe the incident, the officer would be posed with two options — releasing the suspected drunk driver or obtaining a warrant. If the officer chose to pursue the investigation and obtain a warrant, the evidence needed for the subsequent prosecution could be diluted or lost entirely. In addition to the effect on the evidence, there is also a risk that during the time period in which the officer is obtaining a warrant, a suspect may get into his or her car and drive away, endangering both himself or herself and the public at large. Such a risk is untenable given the strong public interest in deterring the crime of DWI.\n{19} The investigatory detention in Contreras was reasonable under the totality of the circumstances because, in addition to the content and reliability of the facts provided by the anonymous concerned motorist, “the exigency of the possible threat to public safety that a drunk driver poses, New Mexico’s grave concern about the dangers of drunk drivers, and the minimal intrusion of a brief investigatory stop tip the balance in favor of the stop.” 2003-NMCA-129, ¶ 21. In this case, the balance of private and public interests tips in favor of the reasonableness of Officer Jensen’s investigatory detention, just as it did in Contreras. The record contains evidence that a man later identified as Defendant had been passed out in the Church’s Chicken bathroom and smelled of alcohol; that he had gotten up, left the restaurant, and driven the car identified by the caller (and confirmed by Officer Jensen) just minutes before Officer Jensen arrived; and that the man was still in the car, as Officer Jensen also subsequently confirmed. No evidence in the record supports Defendant’s assertion that the keys were neither in the ignition, nor in sight, and that Defendant was lying down. A person of reasonable caution could reasonably suspect from the information available to Officer Jensen that a man in the parked car had driven the car while intoxicated and might do so again.\n{20} In our view, Officer Jensen’s conduct in opening the door did not transform his lawful investigative detention into a search that required a warrant, as Defendant appears to contend. Our decision in State v. Lovato, 1991-NMCA-083, 112 N.M. 517, 817 P.2d 251, is instructive on the point. In Lovato, this Court concluded that police officers were justified in making an investigatory stop of a car to determine whether it was involved in a drive-by shooting reported minutes earlier. Id. ¶ 14. We rejected the defendants’ alternative argument that the investigatory stop was so intrusive as to constitute an arrest and that the police lacked probable cause to support the arrest, holding that “the intrusive nature of the encounter did not, as a matter of law, turn the investigative stop . . . into an arrest},]” id. ¶ 23, and that the officers’ actions in calling for assistance and taking precautionary measures to determine whether the car’s occupants were armed were “not inappropriate in view of the level of danger the officers reasonably could assume to exist.” Id. ¶ 27. “[T]he court’s true concern in any Fourth Amendment case [is] whether the police conduct, in light of all the circumstances, was reasonable.” Id. ¶ 31 (quoting United States v. Merritt, 695 F.2d 1263, 1274 (10th Cir. 1982)). And “[e]ven in routine traffic stops, police may adopt precautionary measures addressed to reasonable fears.” Id. ¶ 26.\n{21} We also rejected the Lovato defendants’ argument that “the officers exceeded the proper bounds of investigation by opening the car door and that this action effectively amounted to a search of the car.” Id. ¶33. One of the officers testified that, after the five occupants were out of the car, he and another officer approached with guns drawn because they were not sure if another occupant might be on the floor of the car. Id. The officers’ concerns were not unreasonable, we concluded, given testimony that three people were in the car’s front seat and five people got out of the car, and the facts that it was late at night and the officers’ visibility was limited. We further determined that the officers had a reasonable basis to believe a firearm had been discharged earlier and that either the car’s occupants were armed or weapons were in the car. Id. The defendants also argued that the officers should not have opened the car door because the windows were not tinted and the police could have looked in a window to determine whether someone might still be in the car. Id. ¶ 34. This argument, we explained, “overlooks the expressed concern of the officers that an armed person might have been hiding in the vehicle.” Id. We held that police in such circumstances “were not required to forego reasonably prudent steps necessary for their own safety” and that “[u]nder the facts . .. the officers were entitled to take reasonable precautions to insure their safety, including the opening of the car door[.]” Id.\n{22} Similar reasoning applies here, notwithstanding that this case involves a detention to investigate a suspected DWI and not a drive-by shooting. Officer Jensen testified that the car had “very dark tinted windows” and that, as a result, he could not see inside to determine what the occupants were doing. He believed that the safest way to make contact with the car’s occupants was to open the door, enabling him to see both occupants and remain outside while conducting his investigation. Under all the circumstances confronting Officer Jensen, this safety precaution was reasonable and permissible under the governing law. See id. ¶¶ 26-34. In sum, under Lovato, Officer Jensen’s conduct in opening the door did not transform a lawful investigatory detention into a search requiring a warrant. The record contains no other evidence of a more intrusive search that might require a warrant.\n{23} Defendant also appears to suggest that Officer Jensen was required to talk to Defendant through the window that was open “a couple of inches.” But officers may take reasonable safety precautions while conducting investigatory detentions, as discussed above. Id. ¶ 34. And the law does not require that an officer ask questions before doing so in all circumstances. Cobbs, 1985-NMCA-105, ¶¶ 21-25. As we said in Cobbs, even “when an officer is merely investigating a traffic offense, he faces an inordinate risk when he approaches a subject seated in an automobile.” Id. ¶ 25. We agree with the district court that, at the time he opened the door, Officer Jensen had reasonable suspicion to pursue the investigation and that “[d]ue to the dark tint on the car windows, it was appropriate for him to open the door.”\n{24} Although our application of the governing law to the record before us leads us to conclude that Officer Jensen’s conduct in opening the door required no more justification than the reasonable suspicion we have held was established by the facts available to him, we note the following additional points. First, although exigent circumstances are not required to establish reasonable suspicion for an investigatory detention, New Mexico courts have recognized the evanescent nature of alcohol and the need to preserve evidence as exigent circumstances justifying warrantless searches and seizures in the DWI context, see Martinez, 2010-NMSC-033, ¶ 15, and that where “sufficient exigent circumstances make it not reasonably practicable to get a warrant, one is not required.” Paananen, 2015-NMSC-031, ¶ 27. Second, Defendant’s assertion that Officer Jensen did not knock before opening the door is contradicted by the district court’s statement, presumably gleaned from his review of the video entered into evidence without objection (but not designated as part of the record on appeal) that “[t]he officer knocked on the car window, waited for a response (to no avail) and peered through the slightly opened window before opening the door.” Cf. State v. Nance, 2011-NMCA-048, ¶ 26, 149 N.M. 644, 253 P.3d 934 (concluding that intrusion was de minimis and well-tailored to the exigency that evidence material to the DWI case police were investigating was dissipating after balancing the “compelling public interest in eradicating DWI occurrences and their potentially deadly consequences” against the defendant’s interest, where police did not enter the defendant’s house, did not draw weapons, and did not search the premises incident to the arrest but merely waited outside for fifteen minutes (alteration, internal quotation marks, and citation omitted)). Finally, none of the cases cited by Defendant support his position. For example, in Mundy v. Commonwealth of Kentucky, 342 S.W.3d 878, 885-86 (Ky. Ct. App. 2011), unlike this case, the Kentucky court of appeals concluded that the officer’s opening of the car door was unreasonable because the car was legally parked on the side of the road and there was no reasonable belief that the driver needed assistance.\nCONCLUSION\n{25} The district court’s decision denying Defendant’s motion to suppress and the judgment of conviction are affirmed.\n{26} IT IS SO ORDERED.\nLINDA M. VANZI, Judge\nI CONCUR:\nMICHAEL E. VIGIL, Chief Judge\nTIMOTHY L. GARCIA, Judge (specially concurring)",
+        "type": "majority",
+        "author": "VANZI, Judge."
+      },
+      {
+        "text": "GARCIA, Judge\n(specially concurring).\n{27} I write to specially concur with the result reached by the majority but disagree with the determination that a constitutionally protected search was not initiated by Officer Jensen when he opened the driver’s side door to further his DWI investigation. See Majority Opinion ¶¶ 4,10,20-24. Because a search was initiated when Officer Jensen opened the driver’s side door of the vehicle to further his DWI investigation, this Court cannot rely solely upon the reasonable suspicion that justified Officer Jensen’s initial investigation and seizure of the vehicle. We must also address the search that occurred when the driver’s side door was opened by Officer Jensen. In doing so, the facts must also support a determination that probable cause existed for Officer Jensen to continue his search for the male driver of the vehicle that was reported to be very intoxicated and driving erratically in the restaurant parking lot minutes before he arrived. Exigent circumstances must also have existed to open the driver’s side door and determine whether the only male occupant, located in the back seat, was in fact the suspected DWI driver that had been reported to Officer Jensen by dispatch.\n{28} At the suppression hearing, Officer Jensen did not describe any aggressive actions by the occupants of the parked vehicle that might trigger serious officer safety concerns as he approached it and noticed the dark tinted windows, lack of an occupant in the driver’s seat, one male and one female occupant located elsewhere inside the vehicle, and the driver’s side window cracked open “a couple of inches.” Majority Opinion ¶ 4; See State v. Ketelson, 2011-NMSC-023, ¶¶ 20-27, 150 N.M. 137, 257 P.3d 957 (analyzing Article II, Section 10 and addressing the officer safety concerns involved in the temporary removal of a visible gun from a vehicle during a routine traffic stop and the reasonableness of such an action when the occupants are not otherwise acting aggressively to establish the type of officer safety concerns that create exigent circumstances to conducían immediate search or seizure). Because there was nobody in the driver’s seat to open the window any further, Officer Jensen simply decided to open the driver’s side door to continue his investigation and search for the driver. Majority Opinion ¶ 4. No evidence was presented to establish that the two occupants were unable to open the driver’s side window further or, alternatively, open any of the other windows or doors in the vehicle to talk to Officer Jensen if he had instructed them to do so. We recognize that the owner of a vehicle has a reasonable expectation of privacy to challenge whether a reasonable search or seizure of the vehicle has occurred. See Gomez, 1997-NMSC-006, ¶¶ 36-40 (requiring the state to establish both probable cause and exigent circumstances to initiate the search of a vehicle that has been seized by law enforcement). We must now address Defendant’s constitutional challenge that was raised because Officer Jensen did initiate a warrantless search within the suspect vehicle when he affirmatively acted to open the driver’s side door to continue his DWI investigation. See State v. Leticia T., 2014-NMSC-020, ¶ 12, 329 P.3d 636 (“A warrantless entry into a vehicle under the exigent circumstances exception requires probable cause plus exigent circumstances.”); State v. Rowell, 2008-NMSC-041, ¶¶ 26, 31, 144 N.M. 371, 188 P.3d 95 (recognizing that warrants are favored and a warrant is required to enter the vehicle unless a recognized exception to the warrant requirement can be proven); State v. Garcia, 2005-NMSC-017, ¶ 29, 138 N.M. 1, 116 P.3d 72 (“However, even with an object in plain view, an officer may not enter the car and seize the object, without either consent, a warrant, or exigent circumstances.”).\n{29} Before initiating a search inside Defendant’s vehicle, probable cause must be established and a search warrant must be issued, unless sufficient exigent circumstances also exist to justify an immediate search without a warrant. See Martinez, 2010-NMSC-033, ¶ 14 (clarifying that “law enforcement officers conducting DWI investigations . . . [would] be subjected to the constitutional probable cause inquiry of felony warrantless arrests”); Rowell, 2008-NMSC-041, ¶¶ 26, 31; Gomez, 1997-NMSC-006, ¶¶ 36-40. Ultimately, the legality of a search turns on the question of reasonableness and we review this determination de novo. State v. Ryon, 2005-NMSC-005, ¶ 11, 137 N.M. 174, 108 P.3d 1032. Here, the facts known to Officer Jensen were sufficiently reasonable to provide him with probable cause to continue his search. See State v. Snedeker, 1982-NMSC-085, ¶ 21, 99 N.M. 286, 657 P.2d 613 (“Probable cause . . . exists where the facts and circumstances within the knowledge of the officers, based on reasonably trustworthy information, is sufficient to warrant a man of reasonable caution to believe that an offense has been or is being committed.” (internal quotation marks and citation omitted)). The investigation centered around a male drunk driver who had been reported to be erratically driving this particular vehicle in the restaurant parking lot only minutes before the officer arrived, and only one male was located as an occupant inside the vehicle when he looked through the opening in the driver side window. Majority Opinion ¶¶ 3-4. After confirming that only one male occupant was located inside the vehicle and seeing that nobody was seated in the driver’s seat to open the door or respond to questioning, I agree with the majority that it was objectively reasonable for Officer Jensen to continue his search for the male driver by opening the driver’s side door to speak with the occupants. See Leticia T., 2014-NMSC-020, ¶¶ 13, 15-19 (recognizing that probable cause was established by the facts known to the officers and their reasonable belief “that someone in the vehicle was armed and had just assaulted individuals with a rifle”); see also Snedeker, 1982-NMSC-085, ¶ 22 (recognizing that when the court is determining whether probable cause exists, “(1) only a probability of criminal conduct need be shown; (2) there need be less vigorous proof than the rules of evidence require to determine guilt of an offense; (3) common sense should control; [and] (4) great deference should be shown by [the] courts[.]” (internal quotation marks and citations omitted)). Under this standard of reasonableness and common sense, Officer Jensen had probable cause to open the driver’s side door and investigate whether the one male occupant seated in the back seat was in fact the person who was reported driving this particular vehicle under the influence of alcohol minutes before he arrived.\n{30} Here, exigent circumstances also existed to justify a continuation of the search for the driver among the occupants inside without first obtaining a search warrant. See Leticia T., 2014-NMSC-020, ¶ 22 (cautioning lower courts in a warrantless vehicle search case to address the range of constitutional choices that an on-scene officer must make and be mindful that, “[fjirst, if reasonable people might differ about whether exigent circumstances existed, we defer to the officer’s good judgment . . . [and sjecond, we should not let our preference for warrants result in overriding an officer’s on-the-scene decision to act immediately where immediate action is one of the lawful options” (alteration, internal quotation marks, and citation omitted)); see also Martinez, 2010-NMSC-033, ¶ 15 (recognizing that an officer is not “prohibited from making a warrantless arrest of a suspected drunk driver based on the fact that the officer did not actually observe the incident [because i]f the officer chose to pursue the investigation and obtain a warrant, the evidence needed for the subsequent prosecution could be diluted or lost entirely . . . [and] there is also a risk that during the time period in which the officer is obtaining a warrant, a suspect may get into his or her car and drive away, endangering both himself or herself and the public at large”); Ryon, 2005-NMSC-005, ¶ 26 (recognizing that “[s]ince there is a lesser privacy expectation in a vehicle[,] . . . an involuntary search or seizure there is judged by a lower standard of reasonableness”). When analyzing the facts to determine whether exigent circumstances exist, “[t]he inquiry is an objective test, not a subjective one, into whether a reasonable, well-trained officer would have made the judgment this officer made.” Gomez, 1997-NMSC-006, ¶ 40.\n{31} Again, after confirming that only one male occupant was located inside the vehicle and seeing that nobody was seated in the driver’s seat to open the door or respond to questioning, an objectively reasonable exigency existed in this DWI investigation to justify Officer Jensen’s continuation of his search for the intoxicated male driver by opening the driver’s side door to speak with the male occupant in the back seat. Because Officer Jensen had sufficient facts to provide probable cause to continue his search for the driver of the suspect vehicle and exigent circumstances also existed to open the driver’s side door and contact the only male occupant that was seated in the back seat, his search was in compliance with both the Fourth Amendment of the United States Constitution and Article II, Section 10 of the New Mexico Constitution.\n{32} For the reasons stated herein, I specially concur with the majority’s decision to deny Defendant’s motion to suppress and affirm his DWI conviction.\nTIMOTHY L. GARCIA, Judge",
+        "type": "concurrence",
+        "author": "GARCIA, Judge"
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Laura E. Horton, Assistant Attorney General Santa Fe, NM for Appellee",
+      "Law Offices of Nancy L. Simmons, P.C. Nancy L. Simmons Albuquerque, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, August 8, 2016,\nNo. S-1-SC-35940\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-070\nFiling Date: May 19, 2016\nDocket No. 34,488\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. TOMMY SIMPSON, Defendant-Appellant.\nWilliam C. Birdsall, District Judge\nHector H. Balderas, Attorney General Laura E. Horton, Assistant Attorney General Santa Fe, NM for Appellee\nLaw Offices of Nancy L. Simmons, P.C. Nancy L. Simmons Albuquerque, NM for Appellant"
+  },
+  "file_name": "1658-01",
+  "first_page_order": 330,
+  "last_page_order": 341
+}

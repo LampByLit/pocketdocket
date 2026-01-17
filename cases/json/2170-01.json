@@ -1,0 +1,266 @@
+{
+  "id": 4235333,
+  "name": "In the Matter of Charles Gallogly, Petitioner, v. City of New York et al., Respondents",
+  "name_abbreviation": "Gallogly v. City of New York",
+  "decision_date": "2016-01-08",
+  "docket_number": "",
+  "first_page": "296",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "21 N.Y.S.3d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "128 AD3d 528",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4217098,
+        4221271
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/128/0528-01",
+        "/ad3d/128/0528-02"
+      ]
+    },
+    {
+      "cite": "50 AD3d 98",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3532528
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/0098-01"
+      ]
+    },
+    {
+      "cite": "259 AD2d 357",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        890504,
+        890386
+      ],
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/259/0357-01",
+        "/ad2d/259/0357-02"
+      ]
+    },
+    {
+      "cite": "66 AD3d 536",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 AD3d 436",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3821860
+      ],
+      "pin_cites": [
+        {
+          "page": "439-440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0436-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 145",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188415
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "159"
+        },
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0145-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 42",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5717492
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "46"
+        },
+        {
+          "page": "45-46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0042-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 718",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3733621,
+        3729966
+      ],
+      "pin_cites": [
+        {
+          "page": "719"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/0718-01",
+        "/ad3d/110/0718-02"
+      ]
+    },
+    {
+      "cite": "73 NY2d 26",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4411218
+      ],
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/0026-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 567",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4371434
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "571"
+        },
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0567-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 267",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320046
+      ],
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0267-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 718,
+    "char_count": 14509,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14049139544429037
+    },
+    "sha256": "75fedd62b412c5e122ab01654a5aa4da26210a57650d5b7db1fff8a041ac0e40",
+    "simhash": "1:7cdf944c16981e80",
+    "word_count": 2277
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Charles Gallogly, Petitioner, v City of New York et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJennifer G. Schecter, J.\nPetitioner Charles Gallogly (Sergeant Gallogly) seeks a judgment, among other things, directing respondents the City of New York and the New York City Police Department (NYPD) to produce his employment records pursuant to New York’s Freedom of Information Law (FOIL) (Public Officers Law art 6).\nThe petition is granted to the extent set forth.\nBackground\nPetitioner is a retired NYPD sergeant. On May 15, 2012, he requested that NYPD provide him with a copy of his Central Personnel Index (CPI), his “personnel folder as it pertains to any and all investigations that involved the Internal Affairs Division and any and all Inspections Unit investigations” as well as “a copy of any and all allegations of corruption and or serious misconduct [in which he was] a named subject” (verified petition, exhibit A).\nNYPD denied access to the records “on the basis of Public Officers Law (POL) section 87 (2) (e) & 87 (2) (g) as such records/information are investigative records and if disclosed would reveal criminal investigative techniques or procedures, and are intra-agency materials” (petition, exhibit F).\nSergeant Gallogly appealed (verified answer, exhibit 5). He urged that the denial was conclusory and failed to explain how all the requested materials were exempt from disclosure (id.). After two months passed without any response, Sergeant Gallogly commenced this proceeding, contending that NYPD constructively denied his appeal and “withheld the requested records . . . without a legal basis to do so” (petition ¶¶ 13-14).\nSubsequently, NYPD denied his appeal. Respondents then answered. They produced the CPI (answer, exhibit 7), rendering that portion of the petition moot. They explained that they located records of six cases involving allegations of serious misconduct or corruption where Sergeant Gallogly was the subject (answer ¶ 22). Three investigations related solely to Sergeant Gallogly and the other three involved other officers as well (id.). In their answer, respondents contend that records related to investigations where other police officers were subjects are exempt from disclosure based on “the broad rule of confidentiality set forth in NY Civil Rights Law § 50-a” (answer ¶¶ 33, 50).\nThey further assert that all of the materials are exempt from FOIL “due to the non-routine investigative techniques and information contained therein, as well as the personal privacy of those mentioned in the records” (answer ¶¶ 43, 52). Respondents urge that confidential sources are involved, that the “witnesses and complainants to the incident would expect that their names, addresses and contact information would . . . remain private and not disclosed to the public at large” and that therefore the records are exempt pursuant to Public Officers Law §§ 87 (2) (e) (iii) and (iv) and pursuant to 87 (2) (b) and 89 (2) (b) (answer ¶¶ 46, 53).\nAnalysis\nFOIL “imposes a broad duty on government to make its records available to the public” (Matter of Gould v New York City Police Dept., 89 NY2d 267, 274 [1996]). “All government records are thus presumptively open for public inspection and copying” unless they fall within an enumerated statutory exemption contained in Public Officers Law § 87 (2) {id. at 274-275). The burden rests on the agency to establish that requested material qualifies for any of the exemptions, which must be narrowly construed {id. at 275; Public Officers Law § 89 [4] [b]; Matter of Fink v Lefkowitz, 47 NY2d 567, 571 [1979]). An agency is required to articulate a “particularized and specific justification” for withholding information and “[o]nly where the material requested falls squarely within the ambit of one of the[ ] statutory exemptions may disclosure be withheld” (Matter of Fink, 47 NY2d at 571).\nIn denying access, NYPD relied on Public Officers Law § 87 (2) (e) (iv), which exempts records or portions thereof that “reveal criminal investigative techniques or procedures, except routine techniques and procedures” and on Public Officers Law § 87 (2) (g), which exempts certain inter or intra-agency records from production. In their answer, however, respondents abandoned the latter exemption and have not demonstrated its applicability in this proceeding.\nIn support of the non-routine criminal-investigative-technique exemption, respondents rely on an affidavit from the Administrative Lieutenant in NYPD’s office of the Chief of Internal Affairs Bureau (IAB) (answer, exhibit 9). He explains that the NYPD Patrol Guide guarantees that questions and answers resulting from an IAB investigation are confidential (answer, exhibit 9, ¶ 4; exhibit B at 3), that the NYPD has measures to ensure the confidentiality of cooperating employees (answer, exhibit 9, ¶ 5), that investigations can result in criminal and/or disciplinary charges and that such “investigations are hardly routine” (id. ¶ 10). He emphasizes that the “techniques used in these investigations should remain confidential [as their disclosure] could allow those individual officers, inclined to commit acts of misconduct or corruption, to evade detection and punishment” and impede “their successful use in future investigations” (id.).\nIt is clear that respondents have not met their burden of demonstrating the applicability of the exemption. They did not establish that there was any criminal investigation here or that criminal non-routine investigative techniques and procedures were employed. Nor have they shown that disclosure of the materials would “provide a step-by-step guide” to evade criminal detection (answer, exhibit 9, ¶ 10) as required. Respondents’ argument that IAB-investigation materials are exempt based on the Patrol Guide and the non-routine nature of the investigation of police misconduct is not based on statutory authority and the court will not create or recognize a new FOIL exception.\nIn their answer, respondents also rely on Public Officers Law § 87 (2) (a), which authorizes denial of access to “records or portions thereof” that are specifically exempted from disclosure by state statute. They contend that production of documents related to three IAB investigations that involve other officers as subjects would violate Civil Rights Law § 50-a (1) (answer, ¶ 23). Although this exemption was not raised prior to institution of the article 78 proceeding, because the confidentiality of the statute is designed to protect individual police officers and not the NYPD, the provision cannot be deemed to have been waived (Matter of Molloy, 50 AD3d at 100).\nCivil Rights Law § 50-a (1) provides that all police agency “personnel records used to evaluate performance toward continued employment or promotion . . . shall be considered confidential and not subject to inspection or review without the express written consent of such police officer.” It is clear that IAB records may be considered personnel records (see Matter of Molloy, 50 AD3d at 100; see also Matter of Prisoners’ Legal Servs. of N.Y. v New York State Dept. of Correctional Servs., 73 NY2d 26, 31 [1988]; Matter of Cook v Nassau County Police Dept., 110 AD3d 718, 719 [2d Dept 2013]). Here, however, Sergeant Gallogly only requested records related to himself. He does not seek information related to any other police officer. Therefore, NYPD must produce the materials and redact the name and any identifying information of all other officers (see Matter of Schenectady County Socy. for the Prevention of Cruelty to Animals, Inc. v Mills, 18 NY3d 42, 46 [2011] [Department could either produce existing record in full or remove the information that petitioner did not demand]; Matter of Daily Gazette Co. v City of Schenectady, 93 NY2d 145, 159 [1999] [“disclosure for uses that would not undermine the protective legislative objectives could be attained either by a restrictive formulation of the FOIL request itself, or through redaction by the agency having custody of the records, tailored in either case so as to preclude use in personal attacks against an officer which Civil Rights Law § 50-a was enacted to preclude”]).\nThe possibility that Sergeant Gallogly may figure out the identity of other officers that were subject to investigation does not justify denial of access as the agency has not shown “a substantial and realistic potential” that the requested material could be used abusively against the officers (Matter of Daily Gazette Co., 93 NY2d at 159).\nRespondents must likewise redact the names of any individuals whose records have been sealed pursuant to the Criminal Procedure Law (see Public Officers Law § 87 [2] [a]; CPL 160.50; respondents’ supplemental brief at 252-254) and, in accordance with Public Officers Law §§ 87 (2) (b) and 89 (2) (b), are to redact the names of any and all sources and complaining witnesses along with their identifying information including, for example, email addresses and phone numbers (Matter of Schenectady County Socy. for the Prevention of Cruelty to Animals, Inc., 18 NY3d at 45-46; Matter of Exoneration Initiative v New York City Police Dept., 114 AD3d 436, 439-440 [1st Dept 2014]; Matter of Rodriguez v Johnson, 66 AD3d 536 [1st Dept 2009]).\nFinally, Sergeant Gallogly is entitled to reasonable attorneys’ fees and costs. It is clear that NYPD failed to respond to his appeal within the statutory time (see Public Officers Law § 89 [4] [c] [ii]). In fact, it did not respond to his appeal until after this proceeding was commenced. Additionally, neither the denial nor the untimely appeal determination contained a reasonable basis for denying access. It was only in response to this article 78 proceeding that respondents for the first time asserted a legitimate basis for redaction of the records, all of which must ultimately be produced. Under the circumstances, an attorneys’ fees award is justified. Within 60 days of the date of this decision and judgment, petitioner’s counsel must submit a comprehensive affirmation setting forth her qualifications, billing rate, billing records and the attorneys’ fees sought. Within 90 days, respondents are to submit to the court any objections and petitioner’s counsel is to reply within 100 days. If warranted, a hearing on attorneys’ fees will be scheduled thereafter (see Red Apple Supermarkets v Malone & Hyde, 259 AD2d 357, 358 [1st Dept 1999]).\nAccordingly, it is ordered and adjudged that the petition is granted to the extent set forth in this decision and respondents must provide petitioner with redacted records within 45 days of the date of this decision and judgment; and it is further ordered and adjudged that petitioner is entitled to reasonable attorneys’ fees and litigation costs in accordance with this decision.\n. The appeal was belatedly denied based on Public Officers Law §§ 87 (2) (e) (iv) (disclosure would reveal non-routine criminal investigative techniques), 87 (2) (g) (documents contain non-final and intra-agency communications and preliminary information) and 87 (2) (e) (i) (disclosure would interfere with judicial proceedings) (answer, exhibit 6). NYPD further stated that other “exemptions under FOIL also may apply” {id.). To the extent that these grounds were not asserted prior to the commencement of this proceeding, they will not be considered except as discussed infra (see Matter of Molloy v New York City Police Dept., 50 AD3d 98, 100 [1st Dept 2008]).\n. After denying petitioner’s FOIL request and more than six months after answering, in a December 2014 submission, respondents for the first time asserted additional miscellaneous grounds for exemption {e.g. Public Officers Law § 87 [2] [i] [records that if disclosed would jeopardize the capacity of an agency to guarantee the security of its information technology assets]; Public Officers Law § 87 [2] [a]; CPLR 4503 [attorney-client privilege]). Respondents waived these arguments by failing to raise them both at the administrative level and in their answer. Respondents’ argument that this proceeding involves a writ of mandamus to compel pursuant to CPLR 7803 (1), and therefore, review is not limited to the grounds invoked at the administrative level or in the answer is rejected. The “appropriate standard of review [here] is whether the [FOIL] determination ‘was affected by an error of law’ ” pursuant to CPLR 7803 (3) (see Matter of Thomas v Condon, 128 AD3d 528, 529 [1st Dept 2015]). Respondents’ application to amend their verified answer (see respondents’ supplemental brief of Oct. 14, 2015 at 4 n)—made more than two years after this proceeding was commenced—is denied. Too much time has passed and amendment of the answer at this late stage would be highly prejudicial. Additionally, in many cases, respondents did not establish that the materials fall within the ambit of the cited exemption. For example, they did not explain how or why disclosure of http addresses would jeopardize the security of information-technology assets (respondents’ supplemental brief at 68-70, 82, 92, 107-117, 152, 153).\n. In their December 2014 submission, respondents maintain that certain documents (see e.g. pages 75, 223) are exempt as inter or intra-agency materials. Even assuming that the exemption can be considered despite its exclusion from the answer, respondents did not properly establish how or why the materials squarely qualify for that exemption.\n. The Patrol Guide provision authorizes release of information upon written approval of the Deputy Commissioner and sets forth that if a subpoena is received the Legal Bureau should immediately be contacted.\n. As the parties have fully briefed the applicability of the Civil Rights Law exemption, it would be unavailing to remand the matter to NYPD.\n. Redaction of the names and any identifying information of other officers obviates the need for affording them notice as there will not be any personnel records disclosed that can be linked to anyone other than Sergeant Gallogly, who has affirmatively requested that the materials be released.\n. In any event, after an in camera inspection of the records, the court is convinced that there is no potential for harassment, reprisals or damaging the reputation of any officer.",
+        "type": "majority",
+        "author": "Jennifer G. Schecter, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Gentile & Associates (Laura Gentile of counsel) for petitioner.",
+      "Legal Bureau of City of New York Police Department (Lesa Moore of counsel) for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[21 NYS3d 867]\nIn the Matter of Charles Gallogly, Petitioner, v City of New York et al., Respondents.\nSupreme Court, New York County,\nJanuary 8, 2016\nAPPEARANCES OF COUNSEL\nGentile & Associates (Laura Gentile of counsel) for petitioner.\nLegal Bureau of City of New York Police Department (Lesa Moore of counsel) for respondents."
+  },
+  "file_name": "2170-01",
+  "first_page_order": 308,
+  "last_page_order": 314
+}

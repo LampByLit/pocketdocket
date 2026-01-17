@@ -1,0 +1,948 @@
+{
+  "id": 12166457,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Petitioner, v. EDWARD ARMIJO, Defendant-Respondent",
+  "name_abbreviation": "State v. Armijo",
+  "decision_date": "2016-06-13",
+  "docket_number": "Docket No. S-1-SC-34400",
+  "first_page": "1",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMSC-021"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M.",
+    "id": 8835,
+    "name": "Supreme Court of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "86 N.M. 543",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2829265
+      ],
+      "weight": 7,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/86/0543-01"
+      ]
+    },
+    {
+      "cite": "1974-NMCA-072",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "355 P.3d 126",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 N.M. 308",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2714238
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/67/0308-01"
+      ]
+    },
+    {
+      "cite": "1960-NMSC-095",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 1, 9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 N.M. 82",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        723257
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/113/0082-01"
+      ]
+    },
+    {
+      "cite": "1991-NMCA-115",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2001-NMCA-016",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        352648
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 10-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0287-01"
+      ]
+    },
+    {
+      "cite": "117 N.M. 745",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1552607
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/117/0745-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-061",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 P. 125",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 N.M. 456",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4706202
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/19/0456-01"
+      ]
+    },
+    {
+      "cite": "1914-NMSC-079",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 N.M. 756",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1580238
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/102/0756-01"
+      ]
+    },
+    {
+      "cite": "1985-NMCA-049",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶¶ 7, 12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "267 P.3d 806",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-001",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4187263
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 17-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0085-01"
+      ]
+    },
+    {
+      "cite": "326 P.3d 447",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "defining criminal action as \"[a]n action instituted by the government to punish offenses against the public\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4078426
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "¶ 17",
+          "parenthetical": "defining criminal action as \"[a]n action instituted by the government to punish offenses against the public\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0721-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3670038
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0178-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-050",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4245434
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0182-01"
+      ]
+    },
+    {
+      "cite": "303 P.3d 830",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-024",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4334028
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0333-01"
+      ]
+    },
+    {
+      "cite": "320 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4077464
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0529-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-042",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3692358
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0243-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4250007
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0022-01"
+      ]
+    },
+    {
+      "cite": "2014-NMCERT-001",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCERT-001",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "nonprecedential"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 P.3d 372",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-033",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4241061
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 1, 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0501-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-069",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4250950
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0158-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-027",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4247077
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 2, 39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0330-01"
+      ]
+    },
+    {
+      "cite": "1999-NMCA-003",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        827416
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 2, 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0603-01"
+      ]
+    },
+    {
+      "cite": "2006-NMSC-037",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3670328
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 11, 16"
+        },
+        {
+          "page": "¶¶ 2-4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0218-01"
+      ]
+    },
+    {
+      "cite": "90 N.M. 806",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2874097
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/90/0806-01"
+      ]
+    },
+    {
+      "cite": "1977-NMCA-089",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶¶ 1, 40"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009-NMSC-014",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4244481
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 1, 36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0070-01"
+      ]
+    },
+    {
+      "cite": "86 N.M. 347",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2825734
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/86/0347-01"
+      ]
+    },
+    {
+      "cite": "1974-NMSC-052",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 N.M. 76",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5322683
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/78/0076-01"
+      ]
+    },
+    {
+      "cite": "1967-NMCA-004",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 N.M. 169",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8841535
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/49/0169-01"
+      ]
+    },
+    {
+      "cite": "1945-NMSC-017",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 N.M. 55",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8841272
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/40/0055-01"
+      ]
+    },
+    {
+      "cite": "1936-NMSC-003",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 P. 817",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 N.M. 508",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4732099
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/25/0508-01"
+      ]
+    },
+    {
+      "cite": "1919-NMSC-064",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 P. 597",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 N.M. 314",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4692908
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/18/0314-01"
+      ]
+    },
+    {
+      "cite": "1913-NMSC-082",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 P. 204",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 N.M. 426",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8512770
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/24/0426-01"
+      ]
+    },
+    {
+      "cite": "1918-NMSC-095",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 P. 295",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 N.M. 228",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4658449
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/7/0228-01"
+      ]
+    },
+    {
+      "cite": "113 P. 609",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 N.M. 185",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4684681
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/16/0185-01"
+      ]
+    },
+    {
+      "cite": "1911-NMSC-022",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 N.M. 247",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8300716
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/1/0247-01"
+      ]
+    },
+    {
+      "cite": "9 P. 348",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 N.M. 543",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 N.M. 308",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8300741
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/1/0308-01"
+      ]
+    },
+    {
+      "cite": "2 P. 73",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 N.M. 89",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 N.M. 269",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8300725
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/1/0269-01"
+      ]
+    },
+    {
+      "cite": "1 N.M. 190",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8300691
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/1/0190-01"
+      ]
+    },
+    {
+      "cite": "104 N.M. 176",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1594945
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/104/0176-01"
+      ]
+    },
+    {
+      "cite": "1986-NMSC-030",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "¶¶ 17-21"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 18"
+        },
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶¶ 20-21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "316 P.3d 902",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-013",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077542
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0360-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1208,
+    "char_count": 36630,
+    "ocr_confidence": 0.796,
+    "pagerank": {
+      "raw": 4.5046715916883656e-8,
+      "percentile": 0.2825967846001832
+    },
+    "sha256": "bd487ef39da1132cc108075789af8bb8bfb54eda584f5b74b3f4aae856f9391b",
+    "simhash": "1:997fe7a3fe792f4e",
+    "word_count": 5964
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Charles W. Brown, District Judge",
+      "CHARLES W. DANIELS, Chief Justice",
+      "PETRA JIMENEZ MAES, Justice",
+      "EDWARD L. CHÁVEZ, Justice",
+      "BARBARA J. VIGIL, Justice",
+      "JUDITH K. NAKAMURA, Justice (recused)"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Petitioner, v. EDWARD ARMIJO, Defendant-Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nDANIELS, Chief Justice.\n{1} Defendant Edward Armijo was convicted in the Bernalillo County Metropolitan Court of driving while intoxicated (DWI). His on-record appeals alleging trial error were decided by both the Second Judicial District Court, which affirmed his conviction, and the Court of Appeals, which reversed. State v. Armijo, 2014-NMCA-013, ¶ 1, 316 P.3d 902. We granted certiorari to consider the State’s arguments that the Court of Appeals has no appellate jurisdiction over a district court’s decision in an on-record appeal from metropolitan court and that a defendant has no right to that secondary record review. Addressing only these two issues and declining to conduct a third appellate review of the underlying merits of this case, we hold that the Legislature has vested the Court of Appeals with appellate jurisdiction over a district court’s on-record appellate review of a metropolitan court proceeding and has provided an aggrieved party the right to such an appeal.\nI. BACKGROUND\n{2} The appellate process inNew Mexico has evolved in tandem with our court system, and an overview of the historical development of our courts provides helpful background for understanding the issues in this case. The structure ofNewMexico’sjudicial system can be traced back to prestatehood laws. See State v. Ball, 1986-NMSC-030, ¶¶ 17-21, 104 N.M. 176, 718 P.2d 686 (describing the right of appeal prior to the adoption of the New Mexico Constitution).\nA. Appellate Review Under the Preterritorial Kearny Code\n{3} Following his 1846 conquest during the Mexican-American war of the area that was to be officially organized in 1850 as the United States Territory of New Mexico, General Stephen W. Kearny promulgated the Kearny Code of Laws, Laws for the Government of the Territory of New Mexico (Kearny Code). The Kearny Code created a provisional government and established a temporary judicial system that combined features of judicial structures in other states with those of the preexisting Spanish and Mexican systems. See Kearny Code of Laws, Letter of General Kearny to the Adjutant General (Sept. 22, 1846); Robert J. Torrez, Myth of the Hanging Tree 2 (2008).\n{4} The judicial structure consisted of one superior court to serve as a supreme court, see Kearny Code, Courts and Judicial Powers, §§ 1, 8, three circuit courts to exercise general criminal and civil jurisdiction, see id. §§ 2, 18(A)-(B), one prefect in each county to handle small probate matters, see id. §§ 19, 21, and as many as four alcaldes in each county to exercise limited jurisdiction in small civil and criminal cases, see id. §§ 23-24. The roles of the prefects and alcaldes were analogous to those of our courts of limited jurisdiction today. See id. § 21 (setting forth the exclusive original jurisdiction of the prefects over probate actions and in suits against executors or administrators with a demand of one hundred dollars or less and establishing the appellate jurisdiction of the prefects from the judgments of alcaldes where the amount in controversy was less than fifty dollars); § 24 (setting forth the jurisdiction of alcaldes over small claims in certain types of civil cases); Kearny Code, Crimes and Punishments, art. Ill, § 11 (setting forth the jurisdiction of alcaldes over certain minor criminal offenses); see also Jaremillo v. Romero, 1857-NMSC-007, ¶ 13, 1 N.M. 190 (observing that the alcaldes of the Kearny Code had been “substantially justices of the peace”).\n{5} The general jurisdiction circuit courts had “appellate jurisdiction from the judgments and orders of the prefects and alcaldes in all cases not prohibited by law” and original jurisdiction in all criminal and civil cases that were “not. . . cognizable before the prefects and alcaldes.” Kearny Code, Courts and Judicial Powers, § 18(B)-(C). The only exception to the right to appeal to the circuit court was a provision that an appellate judgment of a prefect on review of an alcalde’s decision in a civil case where the amount in controversy was less than fifty dollars was “final and conclusive.” Id. § 21. The court of last resort, the superior court, had “appellate jurisdiction in all cases, both civil and criminal, which may be determined in the circuit court.” Id. § 8. It decided those appeals on review of the record. See id. § 14 (requiring the superior court on review of the circuit court record to “award a new trial, reverse or affirm the judgment of the circuit court or give such other judgment . . . agreeable to the law”).\n{6} There was no statutory provision or judicial precedent indicating that decisions of circuit courts on appeal from actions of the inferior courts were final or otherwise exempted from superior court review. Cf. id. § 9 (“Every person aggrieved by any judgment or decision of any circuit court in any civil case may . . . appeal to the superior court.”); Kearny Code, Practice of Law in Criminal Cases, § 23 (“In all cases of final judgment rendered upon any indictment an appeal to the superior court shall be allowed . . . .”).\nB. Appellate Review Under Territorial Statutes\n{7} The Organic Act of 1850 that officially established the Territory of New Mexico largely retained the judicial structure of the Kearny Code but renamed the courts, creating a supreme court to replace the superior court, three district courts to replace the circuit courts, justices of the peace to replace the alcaldes, and probate courts to replace the prefects. See Organic Act Establishing the Territory ofNew Mexico, Act of September 9, 1850, 9 Statutes at Large 446, ch. 49 (Organic Act); id. § 10, 9 Statutes at Large at 449; Arellano v. Chacon, 1859-NMSC-002, ¶¶ 7-8, 1 N.M. 269 (stating that the offices of prefect and alcalde described in the Kearny Code were succeeded by the probate judges and the justices of the peace upon the organization of the territorial government under the Organic Act). The jurisdiction of the courts was to be set forth by law, with certain limitations applicable to justices of the peace, and appeals were guaranteed from the final decisions of the district courts to the Supreme Court. Organic Act § 10, 9 Statutes at Large at 449-50.\n{8} The right to an appeal from the justice of the peace courts was granted first by territorial statute, which “gave the right to appeal to ‘[a]ny person aggrieved by any judgment rendered by any justice.’” Ball, 1986-NMSC-030, ¶ 17 (alteration in original) (quoting Law of January 9, 1852, codified at 1856 N.M. Rev. Stat., ch. 12, art. 4, § 101) (citing the Kearny Code). These appeals were to be taken to the district court for trial de novo. Id. ¶¶ 17-18 (citing Act of January 12, 1853, codified at 1865 N.M. Rev. Stat., ch. 29, § 14, codified at NMSA 1897, § 2897; Act of January 13, 1876, codified at 1875-76 N.M. Laws, ch. 27, § 74, codified at NMSA 1897, § 3305).\n{9} The territorial statutes never limited the right to appeal to the Supreme Court from decisions of the general jurisdiction courts on appeal from courts of limited jurisdiction. In fact, reported opinions throughout the territorial period reflect that such appeals frequently were entertained and decided by the Supreme Court without any party ever questioning the right to such an appeal. Examples include appeals of district court reviews of civil cases originating in the probate courts, see Chaves v. Perea, 1884-NMSC-006, ¶ 1, 3 N.M. 89, 2 P. 73; Spiegelberg v. Mink, 1859-NMSC-007, ¶ 1, 1 N.M. 308, appeals of district court reviews of civil cases originating in justice of the peace courts, see Rodey v. Travelers’ Ins. Co., 1886-NMSC-006, ¶ 1, 3 N.M. 543, 9 P. 348; Ruhe v. Abren, 1857-NMSC-013, ¶ 1, 1 N.M. 247, and appeals of district court reviews of criminal cases originating in justice of the peace courts, see Perkins v. City of Roswell, 1911-NMSC-022, ¶ 1, 16 N.M. 185, 113 P. 609; Guyse v. Territory, 1893-NMSC-022, ¶ 1, 7 N.M. 228, 34 P. 295, superseded by statute on other grounds as recognized in State v. Jordi, 1918-NMSC-095, ¶ 4, 24 N.M. 426, 174 P. 204.\nC. Appellate Review of Cases Originating in Early-Statehood Justice Courts\n{10} When the New Mexico Constitution was adopted in conjunction with our admission to the Union in 1912 as the forty-seventh state, it continued the practice of the territorial court system by providing that “[ajppeals shall be allowed in all cases from the final judgments and decisions of the probate courts and justices of the peace to the district courts, and in all such appeals trial shall be had de novo unless otherwise provided by law.” N.M. Const, art. VI, § 27 (1911, amended 1966). By that time, “the justice of the peace statutes had been on the books, virtually unaltered, for thirty-five years, and had existed in some form throughout the Territory’s history.” Ball, 1986-NMSC-030, ¶ 20. The adoption of the New Mexico Constitution did not change previously existing law providing the right to de novo appeal in the district court. The justice of the peace statutes codified at “NMSA 1897, Sections 3305 [and] 2897,. . . reappeared unaltered in NMSA 1915, Sections 3220 [and] 4529 . . . respectively” and similarly “appeared in the 1929, 1941, and 1953 compilations.” Ball, 1986-NMSC-030, ¶ 21 & n.2; see NMSA 1953, § 36-18-15 (1876); NMSA 1941, § 38-1815 (1876); NMSA 1929, § 79-516 (1876); see also 1875-76 N.M. Laws, ch. 27, § 117 (“In all cases before a justice of the peace, in which judgment shall be rendered against any party, either party may take his appeal to the district court.”), § 120 (“All causes removed into the district court, in pursuance of the [appeal,] shall be tried de novo.”).\n{11} The Constitution further provided that “[t]he appellate jurisdiction of the supreme court shall be coextensive with the state, and shall extend to all final judgments and decisions of the district courts, and said court shall have such appellate jurisdiction of interlocutory orders and decisions of the district courts as may be conferred by law.” N.M. Const, art. VI, § 2 (1911, amended 1965). As with the territorial statutes, no constitutional provision or statute excepted a district court’s decision on review of a lower court decision from review by the appellate court. The consistent and unquestioned practice after statehood continued to allow a further appeal to the Supreme Court or, after its creation in 1966 and gradual expansion of appellate jurisdiction, to the Court of Appeals. See, e.g., State v. Coats, 1913-NMSC-082, ¶ 1, 18 N.M. 314, 137 P. 597 (reviewing a criminal action originating in a justice of the peace court); Miera v. Akers, 1919-NMSC-064, ¶¶ 1-2, 25 N.M. 508, 184 P. 817 (reviewing a civil action originating in a probate court); Anthony Doll & Co. v. Hogan, 1936-NMSC-003, ¶ 1, 40 N.M. 55, 53 P.2d 649 (reviewing a civil action originating in a justice of the peace court); Levers v. Houston, 1945-NMSC-017, ¶¶ 1-2, 49 N.M. 169, 159 P.2d 761 (reviewing a civil action originating in a probate court); State v. Booher, 1967-NMCA-004, ¶ 1, 78 N.M. 76, 428 P.2d 478 (reviewing a criminal action originating in a justice of the peace court); Ransom v. Little (In re Will of Reinhard), 1974-NMSC-052, ¶¶ 1-2, 86 N.M. 347, 524 P.2d 519 (reviewing a civil action originating in a probate court).\nD. Replacement of Justices of the Peace with Magistrate Courts\n{12} In 1966, Article VI, Section 27 of the New Mexico Constitution was amended to replace “justices of the peace” with “other inferior courts.” Shortly thereafter the Legislature statutorily abolished justice of the peace offices and replaced them with magistrate courts. NMSA 1978, § 35-1-1 (1968) (establishing the magistrate court and specifying that it is not a court of record); NMSA 1978, § 35-1-38 (1968) (abolishingthe office of justice of the peace and transferring all jurisdiction, powers, and duties conferred upon justices of the peace to the magistrate court).\n{13} The statutory provisions for appeal from the magistrate courts have continued to provide for a de novo appeal to the district court without any language limiting the right to further appellate review of the district court’s decision. See NMSA 1978, § 35-13-1 (1975) (providing the right to appeal any judgment or final order of the magistrate court to the district court); NMSA 1978, § 35-13-2(A) (1996) (providing that the appealed case shall be tried de novo in the district court). And as before, appeals routinely have been taken to the Court of Appeals after de novo appeal in district court. See, e.g., State v. Hubble, 2009-NMSC-014, ¶¶ 1, 36, 146 N.M. 70, 206 P.3d 579 (affirming on certiorari a DWI conviction in magistrate court affirmed by trial de novo in district court and affirmed on appeal to the Court of Appeals); State v. DeBaca, 1977-NMCA-089, ¶¶ 1, 40, 90 N.M. 806, 568 P.2d 1252 (reversing on appeal a DWI conviction in magistrate court affirmed by trial de novo in district court).\nE. Creation of Metropolitan Court as a Specialized Magistrate Court\n{14} The Legislature partially altered the magistrate court system in 1979 when it created the metropolitan court as a specialized magistrate court to perform the functions of magistrate, municipal, and small claims courts for New Mexico’s most populous counties. See NMSA 1978, § 34-8A-1 (1979, amended 2010) (establishing a metropolitan court in counties with a population greater than two hundred thousand persons and, in 2010, raising the population threshold to two hundred fifty thousand, making Bernalillo County the only county to qualify); NMSA 1978, § 34-8A-3(A) (1979, as amended 2001) (specifying metropolitan court jurisdiction and venue).\n{15} The metropolitan court is still a court of limited jurisdiction inferior to the district courts, see NMSA 1978, § 34-8A-2 (1980), but unlike other magistrate courts it is a court of record in certain instances, see NMSA 1978, § 34-8A-6(B)-(C) (1993) (specifying the metropolitan court as a court of record in civil actions and in criminal actions involving DWI or domestic violence). While the New Mexico Constitution provides that district courts have “appellate jurisdiction of all cases originating in inferior courts and tribitnals in their respective districts,” N.M. Const, art. VI, § 13, an appeal from the metropolitan court must be tried de novo in the district court only when the judgment appealed from is not one for which the metropolitan court is a court of record. See § 34-8A-6(B)-(D); State v. Wilson, 2006-NMSC-037, ¶¶ 11, 16, 140 N.M. 218, 141 P.3d 1272 (holding that a defendant was entitled to trial de novo in the district court because his metropolitan court conviction did not involve domestic violence). When the metropolitan court judgment is rendered in an action for which the court is of record, “the district court acts as a typical appellate court, with the district judge simply reviewing the record of the metropolitan court trial for legal error.” State v. Trujillo, 1999-NMCA-003, ¶¶ 2, 4, 126 N.M. 603, 973 P.2d 855 (conducting appellate review of a criminal case that had been tried in the metropolitan court and affirmed on appeal to the district court).\n{16} In spite of these changes and in the absence of statutes or court rules to the contrary, metropolitan court judgments reviewed on appeal in the district court, whether reviewed on-record or de novo, have continued to be further appealed both by defendants and by the State from the district court to the Court of Appeals. See, e.g., State v. Sims, 2010-NMSC-027, ¶¶ 2, 39, 148 N.M. 330, 236 P.3d 642 (reviewing a Court of Appeals decision affirming a district court affirmance of the metropolitan court DWI conviction); Wilson, 2006-NMSC-037, ¶¶ 2-4 (reviewing a Court of Appeals decision reversing a district court on-record affirmance of metropolitan court convictions for criminal trespass and harassment); State v. Trevizo, 2011-NMCA-069, ¶¶ 1-4, 150 N.M. 158, 257 P.3d 978 (reviewing a district court reversal of the metropolitan court DWI conviction).\n{17} The jurisdiction of the Court of Appeals to review cases such as those apparently had never been questioned until the recent series of challenges by the New Mexico Attorney General. See, e.g., State v. Carroll, 2015-NMCA-033, ¶¶ 1, 12, 346 P.3d 372 (denying the State’s motion to dismiss the defendant’s appeal for lack of Court of Appeals jurisdiction to review district court on-record reviews of metropolitan court DWI convictions and for lack of the right to appeal such cases), cert. granted, 2015-NMCERT-001; State v. Cahall, No. 32,969, mem. op. ¶ 1 (N.M. Ct. App. Nov. 12, 2013) (nonprecedential) (same), cert. denied, 2014-NMCERT-001.\n{18} We granted the New Mexico Attorney General’s petitions for writ of certiorari in this case and several others to address the important issues of appellate jurisdiction and the right to appeal. After considering the briefs and oral arguments and researching the issues further, we entered a dispositional order concluding that the Court of Appeals has secondary appellate jurisdiction to review a district court’s rulings on review of criminal actions originating in the metropolitan court. See State v. Armijo, No. 34,400, dispositional order (N.M. Sup. Ct. Aug. 14, 2015). We further concluded that a party aggrieved by a district court order in an on-record appeal of a metropolitan court conviction has a right to review in the Court of Appeals. Id. We now issue this precedential opinion to set forth our analysis of the issues.\nII. DISCUSSION\nA. Standard of Review\n{19} “A court’s jurisdiction derives from a statute or constitutional provision.” State v. Rudy B., 2010-NMSC-045, ¶ 14, 149 N.M. 22, 243 P.3d 726. The right to appeal is also a matter of substantive law created by constitutional or statutory provision. See City of Las Cruces v. Sanchez, 2007-NMSC-042, ¶ 10, 142 N.M. 243, 164 P.3d 942. “We review issues of statutory and constitutional interpretation de novo.” Bank of New York v. Romero, 2014-NMSC-007, ¶ 52, 320 P.3d 1 (internal quotation marks and citation omitted).\n{20} “[T]he rules of statutory construction apply equally to constitutional construction.” State v. Boyse, 2013-NMSC-024, ¶ 8, 303 P.3d 830 (internal quotation marks and citation omitted). “[W]e examine the plain language of the statute as well as the context in which it was promulgated, including the history of the statute and the object and purpose the Legislature sought to accomplish.” State v. Nick R., 2009-NMSC-050, ¶ 11, 147 N.M. 182, 218 P.3d 868 (internal quotation marks and citation omitted). “The plain meaning rule requires that [we give statutes] effect as written without room for construction unless the language is doubtful[ or] ambiguous}] or an adherence to the literal use of the words would lead to injustice, absurdity or contradiction, in which case” we construe “the statute ... according to its obvious spirit or reason.” Boyse, 2013-NMSC-024, ¶ 9 (internal quotation marks and citation omitted).\nB. Appellate Jurisdiction of the Court of Appeals to Review District Court Decisions from Both On-Record and De Novo Reviews of Criminal Actions Originating in Metropolitan Court\n{21} The New Mexico Constitution grants appellate jurisdiction to the Court of Appeals “as may be provided by law.” N.M. Const, art. VI, § 29. When not specified in the Constitution, jurisdiction “as may be provided by law” must be granted by statute. See State v. Smallwood, 2007-NMSC-005, ¶ 6, 141 N.M. 178, 152 P.3d 821 (“Thephrase‘asmay be provided by law’ means that our Constitution or Legislature must vest us with appellate jurisdiction_” (citation omitted)). In NMSA 1978, Section 34-5-8(A)(3) (1983), the Legislature granted the Court of Appeals jurisdiction to review on appeal “criminal actions, except those in which a judgment of the district court imposes a sentence of death or life imprisonment.”\n{22} This Court has recognized that the broad language of Section 34-5-8(A)(3) provides the Court of Appeals with “subject matter jurisdiction over all criminal appeals, except those that result in a life or death sentence.” State v. Vasquez, 2014-NMSC-010, ¶ 17, 326 P.3d 447. The plain language of the statute supports this reading. See Black’s Law Dictionary 37 (10th ed. 2014) (defining criminal action as “[a]n action instituted by the government to punish offenses against the public”). Criminal trials in metropolitan court are criminal actions prosecuted by the government. An on-record appeal in district court is a continuation of the same “criminal action” begun in metropolitan court. See Allen v. LeMaster, 2012-NMSC-001, ¶¶ 17-18, 267 P.3d 806 (holding that habeas corpus proceedings “are in every real sense a continuation of a defendant’s criminal case”). This interpretation is in accordance with the history ofNew Mexico’s appellate procedure, in which cases originating in the limited-jurisdiction courts have consistently been given further appellate review after an initial appeal to the district court.\n{23} The specific constitutional grant of appellate jurisdiction to the district court from judgments of limited-jurisdiction courts prevents direct appeals from metropolitan court and other lower tribunals to the Court of Appeals. See N.M. Const, art. VI, § 13 (“The district court shall have . . . appellate jurisdiction of all cases originating in inferior courts and tribunals in their respective districts, and supervisory control over the same.”); United Nuclear Corp. v. Fort, 1985-NMCA-049, ¶¶ 7, 12, 102 N.M. 756, 700 P.2d 1005 (holding that the Court of Appeals did not have jurisdiction to directly review a licensing action under the Section 34-5-8(A)(6) general grant of jurisdiction to review decisions of administrative agencies because the district court had been specifically granted jurisdiction to review such actions). But Section 34-5-8 does grant successive appellate jurisdiction to the Court of Appeals because it contemplates review of cases originating in the limited-jurisdiction courts or otherwise first reviewed by a district court. See § 34-5-8(A)(5) (granting the Court of Appeals jurisdiction to review “actions for violation of municipal or county ordinances where a fine or imprisonment is imposed,” with such actions commonly originating in limited-jurisdiction courts); § 34-5-8(A)(6) (granting the Court of Appeals jurisdiction to review, on certiorari, decisions of administrative agencies first reviewed in the district court under NMSA 1978, Section 39-3-1.1(E) (1999)). In the absence of any constitutional or statutory language carving out an exception for on-record appeals, we hold that this successive jurisdiction includes review of both on-record and de novo appeals decided by the district court.\nC. Right of a Party to Appeal from a District Court’s On-Record and De Novo Reviews of Criminal Actions Originating in Metropolitan Court\n{24} To invoke the jurisdiction of the Court of Appeals, the right to take an appeal must be granted by the Constitution or by statute. See State v. Chacon, 1914-NMSC-079, ¶ 7, 19 N.M. 456, 145 P. 125 (“Appeals are creatures of statute, and, when not guaranteed by constitutional provisions, or specifically provided for by statute, no power of review is afforded to a litigant in a cause determined by an inferior court.”), superseded on other grounds by constitutional amendment, N.M. Const, art. VI, § 2, as recognized by State v. Griffin, 1994-NMSC-061, ¶ 3 n.2, 117 N.M. 745, 877 P.2d 551.\n{25} The New Mexico Constitution expressly establishes the right to appeal a decision of the metropolitan court. See N.M. Const, art. VI, § 27 (“Appeals shall be allowed in all cases from the final judgments and decisions of the probate courts and other inferior courts to the district courts, and in all such appeals, tidal shall be had de novo unless otherwise provided by law.”). This provision confers a right to appeal that may not be limited by either the Legislature or this Court, see Sanchez, 2007-NMSC-042, ¶ 16, but constitutionally guarantees only an appeal to the district court without addressing a right to further appeal from the district court’s appellate decision. Neither does the “absolute right to one appeal” found in Article VI, Section 2 of the New Mexico Constitution provide that right. See Sanchez, 2007-NMSC-042, ¶ 9 (“Article VI, Section 2 only applies to cases originating in district court, not to cases originating in courts of limited jurisdiction.”); VanderVossen v. City of Espanola, 2001-NMCA-016, ¶¶ 10-12, 130 N.M. 287, 24 P.3d 319 (“It is from the district court’s exercise of original jurisdiction, therefore, that an aggrieved party is guaranteed ‘the absolute right to one appeal’ in the manner prescribed by law, whether to the Supreme Court or the Court of Appeals. Nothing in [A]rticle VI, [Sjection 2 indicates that an aggrieved party is guaranteed an appeal from the district court acting in its appellate jurisdiction, or an appeal from an appeal.” (quoting N.M. Const, art. VI, §2)).\n{26} Instead, the right to appeal a district court’s disposition of an on-record appeal from metropolitan court is statutory. “In any criminal proceeding in district court an appeal may be taken by the defendant to the supreme court or court of appeals, as appellate jurisdiction may be vested by law in these courts [,] . . . from the entry of any final judgment.” NMSA 1978, § 39-3-3(A)(1) (1972). “Section 39-3-3 recognizes the constitutional right... to appeal” but does not merely codify that right. State v. Alvarez, 1991-NMCA-115, ¶ 6, 113 N.M. 82, 823 P.2d 324. In addition, it grants a statutory right to appeal under certain circumstances where no constitutional right to appeal exists. See id. ¶ 10 (holding that the State’s right to an interlocutory appeal from a suppression order is a statutory right granted by Section 39-3-3(B)(2), not a constitutional right, and that while appellate review is mandatory it may be conditioned on compliance with statutory time limits). Our history demonstrates that these certain circumstances include the district court’s entry of final judgment on an appeal from an inferior court.\n{27} Historically, because New Mexico’s courts of limited jurisdiction were not courts of record, appeals taken from these courts were necessarily heard as trials de novo. See Ball, 1986-NMSC-030, ¶ 18 (describing prestatehood justice of the peace statutes that provided the right of appeal to any person aggrieved by a judgment and required all appeals to be tried de novo). This is still the case with New Mexico’s municipal and traditional magistrate courts today. See § 35-1-1 (“The magistrate court is not a court of record.”); § 35-13-2(A) (“Appeals from the magistrate courts shall be tried de novo in the district court.”); NMSA 1978, § 35-15-10 (1959) (“All trials upon appeals by a defendant from the municipal court to the district court for violations of municipal ordinances shall be de novo . . . .”).\n{28} A de novo appeal is not an ordinary appeal, where the decision of the lower court is reviewed by a superior court, but is more accurately described as “the removal of a cause from the inferior to a superior court.” Ball, 1986-NMSC-030, ¶ 15. De novo appeals are “tried anew ... on their merits, as if no trial had been had below . . . .’’NMSA 1978, § 39-3-1 (1955). Article VI, Section 27 of the New Mexico Constitution restated the existing right of appeal from the territorial inferior courts. See Ball, 1986-NMSC-030, ¶¶ 20-21 (emphasizing that the framers of the Constitution did not intend to change the existing right of appeal). This provision mandated that these appeals go “to the district courts,” as the appropriate courts for new trials, rather than to the Supreme Court for appellate review. See N.M. Const, art. VI, § 27 (1911). After trial de novo, the decision of the district court could be appealed to this Court or, upon its creation, to the Court of Appeals on the district court record. See, e.g., City of Portales v. Shiplett, 1960-NMSC-095, ¶¶ 1, 9, 67 N.M. 308,355 P.3d 126 (affirming a district court judgment on de novo appeal from the justice of the peace court); State v. Silva, 1974-NMCA-072, ¶ 1, 86 N.M. 543, 525 P.2d 903 (affirming a district court judgment on de novo appeal from the magistrate court). Although technically a second exercise of appellate jurisdiction, this record review is still included within the statutory right of appeal granted by Section 39-3-3 because the district court’s decision on the de novo appeal results in a final judgment after trial, from which further appeal on the record is necessary to guard against trial error.\n{29} The limited-jurisdiction court system that required de novo trials on appeal to the district court began to change with the 1979 creation of the metropolitan court. See 1979 N.M. Laws, ch. 346, §§ 1-3 (establishing and describing the metropolitan court); see also § 34-8A-6 (1979). In addition to expanded jurisdiction, metropolitan courts were distinct from other inferior courts in that metropolitan court judges were required to be members of the bar licensed to practice law in New Mexico, 1979 N.M. Laws, ch. 346, § 4(B), and in that the metropolitan court was designated as a court of record in civil actions “to the extent specified by supreme court rule,” id. § 6(B). The Legislature charged this Court with adopting “simple procedures for the just, speedy and inexpensive determination of any metropolitan court action.” Id. § 6(A). Appeals from the metropolitan court, both criminal and civil, were to be heard de novo in the district court “unless otherwise specified by supreme court rule.” Id. § 6(C).\n{30} In the next year, the Legislature amended Section 34-8A-6 to mandate that the metropolitan court was a court of record with respect to civil actions, rather than leaving that status to be specified by rule. See 1980 N.M. Laws, ch. 142, § 4(B). It provided that while criminal appeals to the district court would still “be de novo unless otherwise specified by supreme court rule,” for civil actions tried on the record in the metropolitan court, “the manner and method for such appeal shall be set forth by rules of the supreme court.” Id. § 4(C)-(D). The Legislature also required that “[a]ppeals from the district court shall be allowed as in other civil actions.” Id. § 4(D).\n{31} The 1993 amendments to Section 34-8A-6 resulted in our current statute in which the Legislature expanded the metropolitan court’s authorization as a court of record to include two criminal actions, those involving DWI and those involving domestic violence. See 1993 N.M. Laws, ch. 67, § 1(C)-(D); § 34-8A-6(C). Our Constitution still mandates that these appeals be taken to the district court. See N.M. Const, art. VI, § 27 (“Appeals shall be allowed in all cases from the final judgments and decisions of the probate courts and other inferior courts to the district courts . ...”). Accordingly, the Legislature provided that both on-record and de novo appeals would continue to be taken to the district court. See § 34-8A-6(C) (providing that a person appealing “a judgment rendered by the metropolitan court in a criminal action involving [DWI or] domestic violence may appeal to the district court”); § 34-8A-6(D) (providing that a person appealing “a judgment rendered by the metropolitan court in a criminal action, other than [a DWI] or domestic violence action, may appeal to the district court” where “[t]he appeal shall be de novo”).\n{32} Significantly, the Legislature made no changes to the statutes governing appeals from decisions of the district court reviewing metropolitan court on-record criminal cases. Section 39-3-3(A) continues to provide that “[i]n any criminal proceeding in district court an appeal may be taken by the defendant to the supreme court or court of appeals, as appellate jurisdiction may be vested by law in these courts.” This statute does not distinguish the appeal of a judgment in a criminal case originating in the district court from one originating in the metropolitan court, nor does it distinguish the appeal of a district court’s on-record review from the appeal of a district court’s de novo trial.\nD. Legislative Policy Considerations\n{33} Opinions will differ on whether the current process of taking on-record appeals to the district court, which is a trial court rather than an appellate court, makes the best use of the two different kinds of courts. And one may question why misdemeanor cases could receive up to three levels of record review, from the district court to the Court of Appeals to the Supreme Court, while felony convictions resulting in sentences of death or life imprisonment merit only one record review, see N.M. Const, art. VI, § 2 (giving this Court exclusive appellate jurisdiction over an appeal from a final district court judgment “imposing a sentence of death or life imprisonment”). This anomaly raises questions about judicial economy and fairness.\n{34} In prescribing statutory appellate jurisdiction, the Legislature has the prerogative to take into account these factors and others. Appeals from the metropolitan court decided on the record in the district court do not present the same concerns as de novo appeals to the district court because the first court to exercise appellate jurisdiction in a case also reviews for reversible error the full record that was the basis for the conviction or other operative judgment. In a de novo appeal to the district court, the record is newly created in the district court and, in the absence of further review by an appellate court, a party would be denied any review for trial-level error. But even in an on-record appeal a single district judge accustomed to presiding over trials de novo may not provide protection equivalent to that of a full appellate panel composed of several judicial minds focused on the issues. And an appellate decision by the district court does not result in a published precedential opinion that will contribute to the development of New Mexico law. While these and other jurisprudential policy issues may give rise to varying views on an effective scheme for appellate review, the fact remains that the Legislature chose notto amend Section 39-3-3 in conjunction with the creation and evolution of the metropolitan court under Section 34-8A-6. The history of New Mexico’s judicial system demonstrates that the right to appeal from a decision of the district court has not been limited to judgments of the district court rendered through an exercise of original jurisdiction. We conclude that New Mexico law still grants the right to an appeal from district court decisions reviewing on-record proceedings originating in the metropolitan court.\n{35} We note that for on-record appeals to the district court from metropolitan court judgments in criminal actions involving DWI and domestic violence, Section 34-8A-6(C) provides that “[tjhe manner and method of appeal shall be set forth by supreme court rule.” We have never addressed whether the Legislature intended this section to delegate authority that would permit this Court to promulgate rules prescribing a certiorari process for further review in the Court of Appeals, see N.M. Const, art. VI, § 29 (“The court of appeals . . . may be authorized by rules of the supreme court to issue all writs necessary or appropriate in aid of its appellate jurisdiction.”), and this question is not before us at this time. For this case, we necessarily apply the law as it now exists.\nIII. CONCLUSION\n{36} C onfirming our previous order in this case, we affirm the Court of Appeals and hold that it has appellate jurisdiction to review decisions made in on-record appeals to the district court from the metropolitan court and that Section 39-3-3 provides the right to such an appeal. We quash certiorari on all other issues.\n{37} IT IS SO ORDERED.\nCHARLES W. DANIELS, Chief Justice\nWE CONCUR:\nPETRA JIMENEZ MAES, Justice\nEDWARD L. CHÁVEZ, Justice\nBARBARA J. VIGIL, Justice\nJUDITH K. NAKAMURA, Justice (recused)",
+        "type": "majority",
+        "author": "DANIELS, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Margaret E. McLean, Assistant Attorney General James W. Grayson, Assistant Attorney General Corinna Laszlo-Henry, Assistant Attorney General Santa Fe, NM for Petitioner",
+      "Bennett J. Banr, Chief Public Defender Vicki W. Zelle, Assistant Appellate Defender Albuquerque, NM for Respondent"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE SUPREME COURT OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMSC-021\nFiling Date: June 13, 2016\nDocket No. S-1-SC-34400\nSTATE OF NEW MEXICO, Plaintiff-Petitioner, v. EDWARD ARMIJO, Defendant-Respondent.\nCharles W. Brown, District Judge\nHector H. Balderas, Attorney General Margaret E. McLean, Assistant Attorney General James W. Grayson, Assistant Attorney General Corinna Laszlo-Henry, Assistant Attorney General Santa Fe, NM for Petitioner\nBennett J. Banr, Chief Public Defender Vicki W. Zelle, Assistant Appellate Defender Albuquerque, NM for Respondent"
+  },
+  "file_name": "1609-01",
+  "first_page_order": 17,
+  "last_page_order": 27
+}

@@ -1,0 +1,962 @@
+{
+  "id": 6789953,
+  "name": "Wells Fargo Bank, N.A., Plaintiff, v. Brian Burke et al., Defendants",
+  "name_abbreviation": "Wells Fargo Bank, N.A. v. Burke",
+  "decision_date": "2016-05-25",
+  "docket_number": "",
+  "first_page": "944",
+  "last_page": "955",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 944"
+    },
+    {
+      "type": "parallel",
+      "cite": "34 N.Y.S.3d 865"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "100 AD3d 970",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3495751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/100/0970-01"
+      ]
+    },
+    {
+      "cite": "31 Misc 3d 627",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3773433
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/31/0627-01"
+      ]
+    },
+    {
+      "cite": "226 AD2d 1034",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        700489
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/226/1034-01"
+      ]
+    },
+    {
+      "cite": "201 AD2d 522",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1161605
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/201/0522-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 739",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4239226
+      ],
+      "pin_cites": [
+        {
+          "page": "740"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0739-01"
+      ]
+    },
+    {
+      "cite": "124 AD3d 838",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4348863
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/0838-01"
+      ]
+    },
+    {
+      "cite": "107 AD3d 931",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3720259
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/0931-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 1126",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3758263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/1126-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 918",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4319683,
+        4305811
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0918-02",
+        "/ad3d/122/0918-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 983",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4299592
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0983-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 737",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4336177
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/0737-01"
+      ]
+    },
+    {
+      "cite": "134 AD3d 1099",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368544
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/134/1099-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1199",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4170966
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1199-01"
+      ]
+    },
+    {
+      "cite": "125 AD3d 541",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4030256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0541-01"
+      ]
+    },
+    {
+      "cite": "95 AD3d 695",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5673195
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/95/0695-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 523",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4247144,
+        4242181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0523-01",
+        "/ad3d/138/0523-02"
+      ]
+    },
+    {
+      "cite": "63 NY 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527308
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/63/0268-01"
+      ]
+    },
+    {
+      "cite": "169 NY 421",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2301929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/169/0421-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 52",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4326072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/0052-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 1000",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4311567
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/1000-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 1009",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4038153
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/1009-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 898",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4165133
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0898-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 402",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4237755
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0402-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1375",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4161166
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/1375-01"
+      ]
+    },
+    {
+      "cite": "106 AD3d 1076",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3719045
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/106/1076-01"
+      ]
+    },
+    {
+      "cite": "108 AD3d 756",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724883
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/108/0756-01"
+      ]
+    },
+    {
+      "cite": "79 AD3d 1079",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4009418
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/1079-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 606",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3701896
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0606-01"
+      ]
+    },
+    {
+      "cite": "36 NY2d 539",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2317188
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/36/0539-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 1044",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5678577,
+        5677549
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1044-02",
+        "/ad3d/94/1044-01"
+      ]
+    },
+    {
+      "cite": "64 AD3d 672",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5730396,
+        5730142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/64/0672-01",
+        "/ad3d/64/0672-02"
+      ]
+    },
+    {
+      "cite": "126 AD3d 841",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4101823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0841-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 833",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4354383
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/0833-01"
+      ]
+    },
+    {
+      "cite": "139 AD3d 898",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4291890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0898-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1079",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4169524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1079-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 725",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4035227
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/0725-01"
+      ]
+    },
+    {
+      "cite": "113 AD3d 840",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3910111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/113/0840-01"
+      ]
+    },
+    {
+      "cite": "116 AD3d 998",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4018880
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/116/0998-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 908",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4310929
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0908-01"
+      ]
+    },
+    {
+      "cite": "116 AD3d 993",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4018861,
+        4005495
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/116/0993-02",
+        "/ad3d/116/0993-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4062160
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0688-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 566",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4310820
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0566-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1151",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4160708
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/1151-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 841",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4171676,
+        4176007
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0841-01",
+        "/ad3d/137/0841-02"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1222",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4178802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1222-01"
+      ]
+    },
+    {
+      "cite": "133 AD3d 704",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4367775
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/133/0704-01"
+      ]
+    },
+    {
+      "cite": "90 AD3d 1216",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4047377
+      ],
+      "pin_cites": [
+        {
+          "page": "1217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/90/1216-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 1307",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3705090
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/1307-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 539",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4139783
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0539-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 904",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4271522
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0904-01"
+      ]
+    },
+    {
+      "cite": "136 AD3d 887",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4116920,
+        4107569
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/0887-01",
+        "/ad3d/136/0887-02"
+      ]
+    },
+    {
+      "cite": "137 AD3d 896",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4169879
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0896-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1260",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4178784
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1260-01"
+      ]
+    },
+    {
+      "cite": "125 AD3d 845",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4028431,
+        4035231
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0845-01",
+        "/ad3d/125/0845-02"
+      ]
+    },
+    {
+      "cite": "125 AD3d 848",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4035647
+      ],
+      "pin_cites": [
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0848-01"
+      ]
+    },
+    {
+      "cite": "139 AD3d 663",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4281180
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0663-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 703",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4304886
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0703-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 1186",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4339088
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/1186-01"
+      ]
+    },
+    {
+      "cite": "134 AD3d 876",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/134/0876-01"
+      ]
+    },
+    {
+      "cite": "136 AD3d 855",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4112756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/0855-01"
+      ]
+    },
+    {
+      "cite": "136 AD3d 895",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4098857
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/0895-01"
+      ]
+    },
+    {
+      "cite": "128 AD3d 773",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4210373
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/128/0773-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 787",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4302988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0787-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 355",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4319805
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "361-362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0355-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 726",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4306776
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0726-01"
+      ]
+    },
+    {
+      "cite": "124 AD3d 735",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4353107
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/0735-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 965",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4096865,
+        4117458
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0965-01",
+        "/ad3d/126/0965-02"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1176",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4158856,
+        4158753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/1176-01",
+        "/ad3d/127/1176-02"
+      ]
+    },
+    {
+      "cite": "125 AD3d 765",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4030236
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0765-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1020,
+    "char_count": 26354,
+    "ocr_confidence": 0.768,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18253400101704773
+    },
+    "sha256": "cf0c53795e3ac8f4043368cd1f2c17f68014df2de62467bb4bd17d86fea90b24",
+    "simhash": "1:251ba0a59c5cb79c",
+    "word_count": 4478
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells Fargo Bank, N.A., Plaintiff, v Brian Burke et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nThomas F. Whelan, J.\nIt is ordered that this motion (No. 004) by the plaintiff for summary judgment dismissing the affirmative defenses asserted in the answer of the Burke defendants and an award of summary judgment in favor of the plaintiff on its complaint, default judgments against the remaining defendants served with process, the identification of the true name of a person served as unknown defendant and the deletion of the remaining unknown defendants, a caption amendment to reflect these changes and the appointment of a referee to compute is considered under CPLR 3212, 3215, 1024, 1003 and RPAPL 1321 and is granted.\nThe plaintiff commenced this action on April 6, 2011 to foreclose a mortgage given by defendants, Brian Burke and Lisa Burke, to secure a mortgage note executed by them on February 8, 2008 in the amount of $332,000. The Burkes defaulted in their payment obligations by failing to make the payment due on January 1, 2010. Issue was joined by service of a joint answer by the Burke defendants. It contained six affirmative defenses, one of which challenged the plaintiff’s standing. No other parties served with the summons and complaint have appeared herein by answer.\nIn May of 2013, the plaintiff moved (No. 001) for the relief sought on this motion. By order dated June 5, 2013, this court granted the plaintiff’s motion and a separate order appointing referee to compute issued on that date. The Burke defendants, who opposed the plaintiff’s motion, successfully prosecuted an appeal of the June 5, 2013 orders, which culminated in the reversal thereof by order dated February 11, 2015 (see Wells Fargo Bank, NA v Burke, 125 AD3d 765 [2d Dept 2015]). Therein, the Appellate Division, Second Department found that the plaintiff failed to establish, prima facie, its standing to prosecute this action and likewise failed to establish compliance with the notice requirements of RPAPL 1304. This statutory defense, though not raised in the answer served, was advanced in the opposing papers submitted by the Burke defendants. After engaging in discovery proceedings, the parties were granted leave to file new dispositive motions in conferences before the court.\nIn support of the instant motion for accelerated judgments (No. 004), the plaintiff submits, among other things, an affidavit of the plaintiff’s vice-president of loan documentation, Jack Whitmarsh, who attests, based upon his personal knowledge and review of the business records kept by the plaintiff in the ordinary course of its business of servicing loans, to the execution of the loan documents by the Burke defendants, the default in payment that occurred on January 1, 2010 and the amounts due and owing under the terms of the loan document. He further attests to the plaintiff’s possession of the mortgage note on September 21, 2009 and on the date of the commencement of this action in April of 2011. Mr. Whit-marsh also states that the contractual notice of default was mailed to the Burke defendants and that the plaintiff filed proof of the mailing of such notices to each Burke defendant with the State Superintendent of Banks on July 7, 2010, as then required by RPAPL 1306 (see aff of Jack Whitmarsh attached as exhibit J to the moving papers and exhibit O).\nThe plaintiff also submits the affidavit of a second vice-president of loan documentation, Jeremiah Herberg, who attests, based upon his personal knowledge and review of the business records kept by the plaintiff in the ordinary course of its business of servicing loans, that the RPAPL 1304 notice was mailed by certified and first-class mail to each Burke defendant at the mortgaged premises on or about July 5, 2010. Attached thereto are copies of the notices sent to each Burke defendant, a copy of the tracking record of the mailings and a copy of the return receipt executed by Brian Burke (see aff of Jeremiah Herberg attached as exhibit L to moving papers; copy of transactional detail reports with respect to mailings generated by plaintiff).\nThe plaintiff further submits an “affidavit of original note possession” executed by James Green, who is also a vice-president of loan documentation for the plaintiff. He avers, based upon his personal knowledge and review of the business records kept by the plaintiff in the ordinary course of its business of servicing loans, that Wells Fargo had possession of the original note on September 21, 2009, some 18 months prior to the commencement of the action.\nIn their opposing papers, which consist of an affirmation of their counsel, a copy of portions of the transcripted deposition testimony of the plaintiff held on January 20, 2016 and various documentary exhibits, the Burke defendants do not reassert their previously asserted claim of noncompliance with the notice requirements of RPAPL 1304. Instead, the opposition is singularly focused upon the plaintiff’s purported failure to establish its standing by the due evidentiary proof sufficient to eliminate all questions of fact on that issue. In particular, defense counsel contends that the plaintiff’s deposition witness, Torrie Scott, testified that “the loan was purchased by Freddie Mac on April 8, 2008” and that the “loan was still owned by Freddie Mac” at the time of her deposition (see defense counsel’s affirmation in opposition ¶ 2). Counsel further contends that Ms. Scott’s statement that “[w]e service the loan and we’re the holder of the note” is incorrect absent “further proof of its authority to foreclose the loan on behalf of the true owner” (id,.). Counsel goes on to contend that without an ownership interest in both the note and the mortgage at the time of the commencement of the action, the plaintiff has no right to foreclose the mortgage (see id. ¶ 3). Defense counsel goes on to assert that the plaintiff has not established its right to pursue its foreclosure claim as the holder of the note, or as assignee of the note and mortgage, or as the loan servicer for the true owner of the loan, namely, Freddie Mac (id. ¶¶ 4, 5).\nFor the reasons stated below, the court rejects these contentions of the defendants and thus grants the instant motion (No. 004) by the plaintiff for the relief outlined above.\nIn a mortgage foreclosure action, a plaintiff establishes its prima facie entitlement to judgment as a matter of law by producing the mortgage and the unpaid note, and evidence of the default (see Wells Fargo Bank, N.A. v Erobobo, 127 AD3d 1176 [2d Dept 2015]; Wells Fargo Bank, N.A. v DeSouza, 126 AD3d 965 [2d Dept 2015]; One W. Bank, FSB v DiPilato, 124 AD3d 735 [2d Dept 2015]; Wells Fargo Bank, N.A. v Ali, 122 AD3d 726 [2d Dept 2014]). Where the plaintiff’s standing has been placed in issue by the defendant’s answer, the plaintiff also must establish its standing as part of its prima facie showing (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]; Loancare v Firshing, 130 AD3d 787 [2d Dept 2015]; HSBC Bank USA, N.A. v Baptiste, 128 AD3d 773 [2d Dept 2015]). Where the plaintiff has pleaded compliance with the notice requirements of RPAPL 1304 or a defendant has properly asserted noncompliance therewith as a defense, the plaintiff must adduce due proof that the pre-action foreclosure 90-day notice requirements have been satisfied (see Zarabi v Movahedian, 136 AD3d 895 [2d Dept 2016]; Cenlar, FSB v Weisz, 136 AD3d 855 [2d Dept 2016]; Citimortgage, Inc. v Espinal, 134 AD3d 876 [2d Dept 2015]; Bank of N.Y. Mellon v Aquino, 131 AD3d 1186 [2d Dept 2015]; cf. PHH Mtge. Corp. v Celestin, 130 AD3d 703 [2d Dept 2015]; see also Flushing Sav. Bank v Latham, 139 AD3d 663 [2d Dept 2016]).\nA foreclosing plaintiff has standing if it is either the holder or the assignee of the underlying note at the time that the action is commenced (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]). “Either a written assignment of the underlying note or the physical delivery of the note prior to the commencement of the foreclosure action is sufficient to transfer the obligation” (Wells Fargo Bank, N.A. v Parker, 125 AD3d 848, 850 [2d Dept 2015]; see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]; U.S. Bank N.A. v Guy, 125 AD3d 845 [2d Dept 2015]).\nProof that the plaintiff was in possession of the note on a day certain prior to the commencement of the action is sufficient to establish, prima facie, the plaintiff’s possession of the requisite standing to prosecute its claims for foreclosure and sale (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]; U.S. Bank N.A. v Godwin, 137 AD3d 1260 [2d Dept 2016]; Wells Fargo Bank, N.A. v Joseph, 137 AD3d 896 [2d Dept 2016]). Alternatively, the plaintiff may establish its standing by proof that it is the assignee of the subject note and mortgage under a written assignment of the note by the owner thereof at the time of the execution of said assignment (see U.S. Bank N.A. v Akande, 136 AD3d 887 [2d Dept 2016]; Emigrant Bank v Larizza, 129 AD3d 904 [2015]; Peak Fin. Partners, Inc. v Brook, 119 AD3d 539 [2d Dept 2014]; Chase Home Fin., LLC v Miciotta, 101 AD3d 1307 [3d Dept 2012]; Wells Fargo Bank, N.A. v Wine, 90 AD3d 1216, 1217 [3d Dept 2011]).\nIn addition, standing may be established by due proof of the particulars of the note delivery to the plaintiff prior to the commencement of the action (see Deutsche Bank Natl. Trust Co. v Weiss, 133 AD3d 704 [2d Dept 2015]; HSBC Bank USA, N.A. v Baptiste, 128 AD3d 773 [2d Dept 2015]). Finally, the plaintiff’s attachment of a copy of the mortgage note to its complaint or to the certificate of merit required by CPLR 3012-b, coupled with an affidavit in which it alleges that it had possession of the note prior to commencement of the action, has been held to constitute due proof of the plaintiff’s standing to prosecute its claim for foreclosure and sale (see JPMorgan Chase Bank, N.A. v Roseman, 137 AD3d 1222 [2d Dept 2016]; Deutsche Bank Natl. Trust Co. v Leigh, 137 AD3d 841 [2d Dept 2016]; Nationstar Mtge., LLC v Catizone, 127 AD3d 1151 [2d Dept 2015]; U.S. Bank N.A. v Guy, 125 AD3d 845 [2d Dept 2015]).\nHere, the moving papers established the plaintiff’s prima facie entitlement to summary judgment on its claim to foreclose its mortgage lien as such papers included copies of the mortgage, the unpaid note and due evidence of a default under the terms thereof (see CPLR 3212; RPAPL 1321; One W. Bank, FSB v DiPilato, 124 AD3d 735 [2d Dept 2015]; Deutsche Bank Natl. Trust Co. v Islar, 122 AD3d 566 [2d Dept 2014]; Plaza Equities, LLC v Lamherti, 118 AD3d 688 [2d Dept 2014]; Bank of N.Y. Mellon Trust Co. v McCall, 116 AD3d 993 [2d Dept 2014]; Jessabell Realty Corp. v Gonzales, 117 AD3d 908 [2d Dept 2014]; Fairmont Capital, LLC v Laniado, 116 AD3d 998 [2d Dept 2014]; W & H Equities LLC v Odums, 113 AD3d 840 [2d Dept 2014]). The plaintiffs demonstration of these basic elements of its claim for foreclosure and sale were not controverted in the opposing papers submitted by the answering defendants.\nIn addition, the plaintiffs moving papers established, prima facie, through the affidavits of its employees, that the plaintiff was sufficiently possessed of the requisite standing to prosecute its claims for foreclosure and sale in this action due to the plaintiffs possession of the mortgage note on or before September 21, 2009 (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]; U.S. Bank N.A. v Godwin, 137 AD3d 1260 [2016]; Wells Fargo Bank, N.A. v Joseph, 137 AD3d 896 [2016]).\nFurther evidence of the plaintiffs pre-commencement possession of the note is discernible from the deposition testimony of the plaintiffs witness, Torrie Scott. Reading from a custodian log maintained by the plaintiff in the ordinary course of its loan servicing business, Ms. Scott testified that the original note, which was specially indorsed by the original lender in favor of the plaintiff, was received by the plaintiff in its South Carolina office on March 19, 2008. It was then indorsed in blank and scanned into their document system and housed in its spot vault in South Carolina until March 20, 2008, when it was transported to the plaintiffs vault in Minnesota (see tran-scripted deposition testimony of Torrie Scott at 8, 30, 40, attached to defendants’ opposing papers). Ms. Scott further testified that the custodian log indicated that on April 2, 2008, the note was transferred out and then returned to the Minnesota vault because “the loan was being purchased by Freddie Mac” {id. at 8-9, 39-40). Continuing, Ms. Scott testified that “the note was not transferred out to Freddie Mac. We housed the original note from the day we acquired it up until today and we still have it in our vault” {see id. at 9, lines 11-12).\nIn further testimony, Ms. Scott agreed with defense counsel’s statement that \"the plaintiff housed the note” but “the owner of the note on April 2, 2008 was Freddie Mac” (id., lines 14-15) and that the notations in the custodian log of “transfer out and transfer in” on April 2, 2008 showed that the note was removed from the vault in order to re-scan it to reflect its status on that date and that it was placed back in the vault when the scan was complete (see id. at 10). Similar activity was evidenced by a transfer out on September 21, 2009, the possession date of the note as testified to by the plaintiff’s employee affiants and a transfer in two days later (see id.). Ms. Scott also testified that the plaintiff was the loan servicer and it was the holder of the note which had a special indorsement in its favor by the original lender and an indorsement in blank which the plaintiff affixed upon its receipt of the loan documents back in 2008 (see id. at 29-31).\nThe plaintiff’s moving papers also established, prima facie, through the affidavit of two of its employee affiants, that the plaintiff duly complied with the pre-action, 90-day notice requirements imposed by RPAPL 1304. The factual allegations set forth therein, which were neither challenged by defense counsel nor controverted by the defendants, sufficiently established the plaintiff’s compliance with the notice requirements of RPAPL 1304 (see PHH Mtge. Corp. v Muricy, 135 AD3d 725 [2d Dept 2016]; see also HSBC Bank USA, N.A. v Espinal, 137 AD3d 1079 [2d Dept 2016]). Indeed, the tran-scripted deposition testimony of the plaintiff’s witness, Torrie Scott, which the defendants submitted in their opposing papers, reflects Ms. Scott’s testimony as to the plaintiff’s usual and customary practices regarding the mailing and tracking of RPAPL 1304 notices issued by it as loan servicer and the particulars of the procedures employed by the plaintiff with respect to the RPAPL 1304 notices it mailed to the Burke defendants (see transcripted deposition testimony of Torrie Scott at 36-39). The court thus finds that the record contains sufficient, unrebutted evidence of the plaintiff’s compliance with the 90-day notice provisions of RPAPL 1304 (see Flagstar Bank, FSB v Mendoza, 139 AD3d 898 [2d Dept 2016]).\nThe plaintiff’s moving papers further established, prima facie, that none of the other affirmative defenses set forth in the answer of the Burke defendants have merit (see Prompt Mtge. Providers of N. Am., LLC v Singh, 132 AD3d 833 [2d Dept 2015]; Citimortgage, Inc. v Chow Ming Tung, 126 AD3d 841 [2d Dept 2015]; Bank of N.Y. Mellon Trust Co. v McCall, 116 AD3d 993 [2d Dept 2014]; Fairmont Capital, LLC v Laniado, 116 AD3d 998 [2d Dept 2014]; Becher v Feller, 64 AD3d 672 [2d Dept 2009]).\nIt was thus incumbent upon the answering defendants to submit proof sufficient to raise a genuine question of fact rebutting the plaintiffs prima facie showing or in support of the affirmative defenses asserted in their answer or otherwise available to them (see Jessabell Realty Corp. v Gonzales, 117 AD3d 908 [2014]; Flagstar Bank v Bellafiore, 94 AD3d 1044 [2d Dept 2012]). Where a defendant fails to oppose some or all matters advanced on a motion for summary judgment, the facts as alleged in the movant’s papers may be deemed admitted as there is, in effect, a concession that no question of fact exists (see Kuehne & Nagel v Baiden, 36 NY2d 539 [1975]; see also Madeline D’Anthony Enters., Inc. v Sokolowsky, 101 AD3d 606 [1st Dept 2012]; Argent Mtge. Co., LLC v Mentesana, 79 AD3d 1079 [2d Dept 2010]). In addition, the failure to raise pleaded affirmative defenses in opposition to a motion for summary judgment renders those defenses abandoned and waived thus subject to dismissal (see New York Commercial Bank v J. Realty F Rockaway, Ltd., 108 AD3d 756 [2d Dept 2013]; Starkman v City of Long Beach, 106 AD3d 1076 [2d Dept 2013]).\nHere, the only pleaded affirmative defenses raised by the Burke defendants in opposition to the instant motion was their standing defense. Under the appellate cases cited directly above, all of the remaining affirmative defenses except the pleaded standing defense are subject to dismissal due to waiver by abandonment (see New York Commercial Bank v J. Realty F Rockaway, Ltd., 108 AD3d 756 [2013]; Starkman v City of Long Beach, 106 AD3d 1076 [2013]). The Burke defendants’ failure to reassert their RPAPL 1304 defense, which was not asserted in their answer but was asserted on the prior motion summary judgment, renders the proof of compliance with the statute put before the court on this motion, unrebutted and thus conclusive.\nThe standing challenge lodged by defense counsel is premised, principally, upon his claim that the sale of the loan to Freddie Mac in March of 2008, to which the plaintiff’s deposition witness testified, defeats the plaintiff’s claim that it is the lawful holder of the note and mortgage at the time of the commencement of the action. However, a recent appellate case authority emanating from the Appellate Division, Third Department eschewed this very argument. In Wells Fargo Bank, NA v Ostiguy (127 AD3d 1375 [3d Dept 2015]), the Court rejected the claim that the plaintiff was not the holder of the note because of a sale of the loan to Freddie Mac, and, in so doing, stated as follows:\n“Holder status is established where the plaintiff possesses a note that, on its face or by allonge, contains an indorsement in blank or bears a special indorsement payable to the order of the plaintiff. Notably, ‘[tjhe holder of an instrument whether or not he [or she] is the owner may transfer or negotiate it [and] discharge it or enforce payment in his [or her] own nameHere, the note was originated by plaintiff and a copy submitted on the motion, alleged to be in plaintiffs possession at the time it commenced this action, is endorsed in blank. Thus, notwithstanding the sale of the beneficial interests of the note to Freddie Mac, plaintiff has the right to enforce the note as its lawful holder so long as it can prove that it physically possessed the note at the time the action was commenced” (citations omitted and emphasis added).\nIn this case, the subject mortgage note, while not originated by the plaintiff, was specially indorsed to it by the original lender and transferred to the plaintiff within 45 days of the consummation of the loan. Upon receipt of such note, the plaintiff indorsed it in blank and secured it in a vault in its offices in South Carolina and on the following day, shipped it to its vault in Minnesota. The unrefuted testimony of the plaintiffs deposition witness established that note, which the plaintiff indorsed in blank upon its receipt thereof, remained in its custody since 2008 and that its possession of the note continued through the commencement date of this action and beyond.\nUpon application of the legal precepts set forth in the appellate case authority cited above to these facts, this court rejects the defendants’ claim that the plaintiff lacks standing to prosecute its foreclosure claim due to the plaintiffs admitted sale of the loan to Freddie Mac in April of 2008 which followed the plaintiffs receipt of the specially indorsed note in its favor on March 19, 2008. The plaintiff was indeed the holder of the note upon its March 19, 2008 receipt of the note containing the special indorsement in its favor, and by virtue of its indorsement thereof in blank, and it remained the holder thereof through its continued possession of the note. The court thus finds that the sale of a beneficial interest in the loan to Freddie Mac in April of 2008 did not divest the plaintiff of its holder status as it never gave up its possession of the duly indorsed note to Freddie Mac or to any other entity (see Wells Fargo Bank, NA v Ostiguy, 127 AD3d 1375 [2015]).\nThe remaining contentions of the defendants’ counsel asserted in an attempt to raise a question of fact sufficient to warrant a denial of the plaintiff’s motion are equally unavailing. The law is now clear that it is the note, not the mortgage, which is the dispositive instrument in measuring the standing of a foreclosing plaintiff (see Aurora Loan Servs., LLC v Taylor, 25 NY3d at 361-362; U.S. Bank N.A. v Askew, 138 AD3d 402 [1st Dept 2016]; Wells Fargo Bank, N.A. v Gallagher, 137 AD3d 898 [2d Dept 2016]; BAC Home Loans Servicing, LP v Bixby, 135 AD3d 1009 [3d Dept 2016]). This result is mandated by the principal incident rule which provides that upon a transfer of the note the mortgage passes as incident thereto (see Ruiz v Mortgage Elec. Registration Sys., Inc., 130 AD3d 1000 [2d Dept 2015]; Deutsche Bank Trust Co. Ams. v Vitellas, 131 AD3d 52 [2d Dept 2015]). Accordingly, it is the note, not the mortgage, that is the controlling document and a foreclosing plaintiff’s possession of the mortgage note alone prior to the commencement of the action confers upon it the right to sue to foreclose the lien (see Aurora Loan Servs., LLC v Taylor, 25 NY3d 355 [2015]).\nIn addition, it is well established that an assignment of an instrument, such as a note, may be accomplished by its mere transfer and the assignee, who is not necessarily holder of the note, acquires all of the title of the assignor (see Wangner v Grimm, 169 NY 421 [1902]; Fryer v Rockefeller, 63 NY 268, 276 [1875]; U.S. Bank N.A. v Askew, 138 AD3d 402 [2016]; Bank of Am., N.A. v Thomas, 138 AD3d 523 [1st Dept 2016]; Bank of N.Y. Mellon Trust Co. NA v Sachar, 95 AD3d 695 [1st Dept 2012]). In contrast, the negotiation of a note under the UCC is a special type of transfer that results in holder status and it occurs when a note containing all necessary indorse-ments or one made payable to bearer, by indorsement or otherwise, is delivered to the transferee (see UCC 3-202 [1], Comment 1; U.S. Bank, N.A. v Bernabel, 125 AD3d 541 [1st Dept 2015]).\nIndeed, it is now apparent that due proof of a foreclosing plaintiffs pre-action possession of the subject note trumps challenges to undated indorsements or the placement of allonges, including those that give rise to questions of fact that exist with respect to the efficacy of these writings to transfer the note (see U.S. Bank N.A. v Askew, 138 AD3d 402 [2016]; Deutsche Bank Natl. Trust Co. v Naughton, 137 AD3d 1199 [2d Dept 2016]; Wells Fargo Bank, N.A. v Charlaff, 134 AD3d 1099 [2015]; Deutsche Bank Natl. Trust Co. v Monica, 131 AD3d 737 [3d Dept 2015]; cf. HSBC Bank USA, N.A. v Roumiantseva, 130 AD3d 983 [2d Dept 2015]). This result appears to be mandated by the fact that the presence of an indorsement or allonge is required only to accomplish negotiation, not an assignment of a note by its mere delivery.\nA plaintiff’s possession of the mortgage note prior to the commencement of a foreclosure action also renders written assignments of the mortgage that are ineffective at assigning the mortgage note, irrevelant (see Deutsche Bank Natl. Trust Co. v Naughton, 137 AD3d 1199 [2d Dept 2016]; Wells Fargo Bank, N.A. v Charlaff, 134 AD3d 1099 [2d Dept 2015]; BAC Home Loans Servicing, LP v Bixby, 135 AD3d 1009 [2016]; Deutsche Bank Natl. Trust Co. v Monica, 131 AD3d 737 [3d Dept 2015]; Finance v Abundant Life Church, U.P.C., Inc., 122 AD3d 918 [2d Dept 2014]; HSBC Bank USA, N.A. v Sage, 112 AD3d 1126 [3d Dept 2013]; Deutsche Bank Natl. Trust Co. v Whalen, 107 AD3d 931 [2d Dept 2013]). Defense counsel’s challenges to the 2011 written assignment of mortgage by the nominee of the original lender and as the mortgagee of record designated in the mortgage indenture are thus rejected as unmeritorious. The other contentions advanced in the opposing are inapposite with the recent controlling case authorities cited above and are thus rejected as lacking in merit.\nThose portions of the instant motion wherein the plaintiff seeks summary judgment dismissing the affirmative defenses set forth in the answer served by the Burke defendants are thus granted as are the plaintiff’s demands for summary judgment on its complaint against these defendants (see CPLR 3212).\nThe court further grants those portions of the instant motion wherein the plaintiff seeks default judgments against the remaining defendants served with process including one sued herein as an unknown defendant and the incidental party changes together with a caption amendment to reflect such changes. The moving papers established the default in answering on the part of these defendants, none whom served answers to the plaintiff’s complaint (see HSBC Bank USA, N.A. v Alexander, 124 AD3d 838 [2d Dept 2015]; U.S. Bank, N.A. v Razon, 115 AD3d 739, 740 [2d Dept 2014]). Accordingly, the defaults of all such defendants are hereby fixed and determined.\nSince the plaintiff has been awarded summary judgment against the answering defendants and has established a default in answering by the remaining defendants joined herein by service of process, the plaintiff is entitled to an order appointing a referee to compute amounts due under the subject note and mortgage (see RPAPL 1321; Bank of E. Asia v Smith, 201 AD2d 522 [2d Dept 1994]; Vermont Fed. Bank v Chase, 226 AD2d 1034 [3d Dept 1996]; LaSalle Bank, N.A. v Pace, 31 Misc 3d 627 [Sup Ct, Suffolk County 2011], affd 100 AD3d 970 [2d Dept 2012]). Those portions of the instant motion wherein the plaintiff seeks such relief are thus granted.",
+        "type": "majority",
+        "author": "Thomas F. Whelan, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Woods Oviatt Gilman LLP, Rochester, for plaintiff.",
+      "Richard Sullivan, Port Jefferson, for Brian Burke and another, defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[34 NYS3d 865]\nWells Fargo Bank, N.A., Plaintiff, v Brian Burke et al., Defendants.\nSupreme Court, Suffolk County,\nMay 25, 2016\nAPPEARANCES OF COUNSEL\nWoods Oviatt Gilman LLP, Rochester, for plaintiff.\nRichard Sullivan, Port Jefferson, for Brian Burke and another, defendants."
+  },
+  "file_name": "2367-01",
+  "first_page_order": 936,
+  "last_page_order": 947
+}

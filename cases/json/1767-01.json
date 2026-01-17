@@ -1,0 +1,864 @@
+{
+  "id": 12279994,
+  "name": "International Association of Machinists District 10 and its Local Lodge 1061, United Steelworkers District 2 and Wisconsin State AFL-CIO, Plaintiffs-Respondents, v. State of Wisconsin, Scott Walker, Brad Schimel, James R. Scott and Rodney G. Pasch, Defendants-Appellants",
+  "name_abbreviation": "International Ass'n of Machinists District 10 v. State",
+  "decision_date": "2017-09-19",
+  "docket_number": "No. 2016AP820",
+  "first_page": "243",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "378 Wis. 2d 243"
+    },
+    {
+      "type": "parallel",
+      "cite": "903 N.W.2d 141"
+    },
+    {
+      "type": "parallel",
+      "cite": "2017 WI App 66"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis. Ct. App.",
+    "id": 15300,
+    "name": "Wisconsin Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S. Ct. 1933",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12605065
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1943"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1933-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122537
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0188-01"
+      ]
+    },
+    {
+      "cite": "271 F.3d 1327",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9468360
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/271/1327-01"
+      ]
+    },
+    {
+      "cite": "15 F. Supp. 3d 712",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4222739
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/15/0712-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1774712
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0735-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 734",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11720095
+      ],
+      "weight": 2,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "742"
+        },
+        {
+          "page": "742-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0734-01"
+      ]
+    },
+    {
+      "cite": "346 So. 2d 551",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9687672
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/346/0551-01"
+      ]
+    },
+    {
+      "cite": "287 N.W. 167",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1939,
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 Wis. 371",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8687948
+      ],
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/232/0371-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. § 411",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 N.W. 65",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "year": 1906,
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wis. 249",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8700996
+      ],
+      "weight": 2,
+      "year": 1906,
+      "pin_cites": [
+        {
+          "page": "265"
+        },
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/129/0249-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11531
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "645-46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0602-01"
+      ]
+    },
+    {
+      "cite": "424 F.3d 1206",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8927988,
+        702885
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/424/1206-01",
+        "/fed-cl/67/1206-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 211",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200102
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0211-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. § 102.60",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Wis. 2d 565",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673847
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "574"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/92/0565-01"
+      ]
+    },
+    {
+      "cite": "99 N.W.2d 132",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Wis. 2d 264",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8677136
+      ],
+      "weight": 2,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/8/0264-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 111.02",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(2)"
+        },
+        {
+          "page": "(11)"
+        },
+        {
+          "page": "(9g)"
+        },
+        {
+          "page": "(7)(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "524 U.S. 498",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11182709
+      ],
+      "weight": 7,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "538"
+        },
+        {
+          "page": "539-42"
+        },
+        {
+          "page": "540"
+        },
+        {
+          "page": "554"
+        },
+        {
+          "page": "540"
+        },
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/524/0498-01"
+      ]
+    },
+    {
+      "cite": "2011 WI 30",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        5752475
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/333/0273-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 68",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        3996142
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/326/0444-01"
+      ]
+    },
+    {
+      "cite": "2017 WI 67",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        12279440
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 28-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/376/0147-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 470",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131074
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0470-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769262
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0104-01"
+      ]
+    },
+    {
+      "cite": "558 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3639027
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/558/0310-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 17",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        5748101
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/323/0321-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 947.20",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "386 U.S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169888
+      ],
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "177"
+        },
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0171-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 175",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167953
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0175-01"
+      ]
+    },
+    {
+      "cite": "323 U.S. 192",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1230173
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "202"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/323/0192-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 111.05",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(10)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. § 152",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(4)"
+        },
+        {
+          "page": "(5)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 111.04",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(3)(a)"
+        },
+        {
+          "page": "(3)(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. § 157",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. § 159",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "375 U.S. 96",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11717780
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/375/0096-01"
+      ]
+    },
+    {
+      "cite": "218 F.2d 226",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        522786
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/218/0226-01"
+      ]
+    },
+    {
+      "cite": "210 F. Supp. 3d 1088",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12272342
+      ],
+      "weight": 4,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1093"
+        },
+        {
+          "page": "1093"
+        },
+        {
+          "page": "1094"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/210/1088-01"
+      ]
+    },
+    {
+      "cite": "767 F.3d 654",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4203970
+      ],
+      "weight": 11,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "681",
+          "parenthetical": "Wood, C.J., dissenting"
+        },
+        {
+          "page": "681"
+        },
+        {
+          "page": "661"
+        },
+        {
+          "page": "672"
+        },
+        {
+          "page": "662"
+        },
+        {
+          "page": "666"
+        },
+        {
+          "page": "666"
+        },
+        {
+          "page": "666"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/767/0654-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 802.08",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wis. 2d 304",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8668739
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "315-17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/136/0304-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 94",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4000190
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 38"
+        },
+        {
+          "page": "¶ 38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/328/0469-01"
+      ]
+    },
+    {
+      "cite": "2014 WI 99",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4091203
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/358/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1391,
+    "char_count": 31809,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24900235496355194
+    },
+    "sha256": "dbb98601f6e9749041ced3b9d32033219abfe1561f1333521c1e7e641aea94e8",
+    "simhash": "1:b75b2dc165eb47a9",
+    "word_count": 5096
+  },
+  "last_updated": "2024-02-27T21:03:02.532561+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stark, P.J., Hruz and Seidl, JJ."
+    ],
+    "parties": [
+      "International Association of Machinists District 10 and its Local Lodge 1061, United Steelworkers District 2 and Wisconsin State AFL-CIO, Plaintiffs-Respondents, v. State of Wisconsin, Scott Walker, Brad Schimel, James R. Scott and Rodney G. Pasch, Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "¶ 1.\nSEIDL, J.\nThe issue in this appeal involves whether Wisconsin's \"right-to-work law,\" 2015 Wisconsin Act 1 (Act 1), effectuates an unconstitutional taking of the property of labor organizations in violation of the Wisconsin Constitution. We conclude the parties challenging Act 1 have not met their burden of proving the law is unconstitutional beyond a reasonable doubt.\n¶ 2. Employees are permitted to unionize and elect exclusive representation. A benefit to unions of exclusive representation is that employers are com pelled to bargain with that exclusive representative. But the benefits of exclusive representation correspond to a duty to represent all employees in the bargaining unit fairly, including non-members of the union who will pay nothing for representative services. Act 1 does not deprive compensation for those mandated services. The law merely prohibits anyone from conditioning a person's employment on the payment of monies designed to cover the costs of performing that duty of fair representation. Accordingly, Act 1 does not take property within the meaning of the Wisconsin Constitution. We therefore reverse the judgment and remand to the circuit court with directions to dismiss the complaint.\nBACKGROUND\nf 3. Prior to Act 1 becoming effective on March 11, 2015, the International Association of Machinists District 10 and its Local Lodge 1061, United Steelworkers District 2, and the Wisconsin State AFL-CIO (collectively, the Unions) commenced this declaratory action challenging the constitutionality of Act 1, naming as defendants the State of Wisconsin, Governor Scott Walker, Attorney General Brad D. Schimel, Wisconsin Employment Relations Commission (WERC) Chairman James R. Scott, and WERC Commissioner Rodney G. Pasch, all in their official capacities (collectively, the State).\nf 4. The Unions alleged they collectively represent the interests of every Wisconsin worker in the bargaining units for which they have been elected the exclusive representative. The Unions' services are available equally to all members of the bargaining unit regardless of an individual's union membership status. The Unions historically negotiated \"union shop\" clauses, or other union security clauses, in collective bargaining agreements to require both members and non-members to pay their \"fair share\" for the union's representation as a condition of employment. These clauses required all employees who enjoyed the benefits of that agreement to either pay dues as members or a discounted fee for non-member employees who were charged only the cost of services germane to collective bargaining, contract administration, and grievance adjustment.\nf 5. The Unions alleged Act 1 imposed a costly and ongoing duty to represent non-member employees in collective bargaining and grievance adjustments, while depriving the Unions of their right to negotiate contracts that would allow them to compel those nonmember employees to pay the cost of the services the Unions were obligated to provide for that representation. According to the Unions, Act 1 thus violated the Wisconsin Constitution's Takings Clause, which states \"[t]he property of no person shall be taken for public use without just compensation therefor.\" See Wis. Const., art. I, § 13.\nf 6. Following the denial of the State's motion to dismiss, the circuit court granted the Unions' motion for summary judgment. The court determined the Unions had a legally protectable property interest in the money and services expended to fulfill their duty of fair representation to non-members. The court held that Act 1 constituted a taking because the Unions were required to represent all persons in the bargaining unit fairly and equally, including employees who chose not to pay dues or representative fees. Requiring the Unions to represent those non-members without compensation from the non-members created a \"free rider problem\" that was facially unconstitutional. The court further found the Unions sustained revenue losses that were \"not isolated,\" and the impact of Act 1 over time \"is threatening to the unions' very economic viability.\"\n¶ 7. The circuit court therefore declared the challenged provisions of Act 1 \"null and void.\" The court also noted Act 1 \"makes it a crime for the union to require someone to pay for the services he or she receives from the union,\" and it determined that \"[e]n-joining the Attorney General and the State from pursuing criminal prosecution is appropriate relief.\" The court also enjoined the WERC defendants, on the basis that \"Act 1 renders an employer's collection of dues or assessments without an employee's individual order an unfair labor practice.\" The State now appeals.\nSTANDARDS OF REVIEW\nf 8. The constitutionality of a statute is a question of law that we review de novo. Madison Teachers, Inc. v. Walker, 2014 WI 99, ¶ 13, 358 Wis. 2d 1, 851 N.W.2d 337. We presume statutes enacted by the legislature are constitutional—and we indulge every presumption to sustain a challenged law. Wisconsin Med. Soc'y, Inc. v. Morgan, 2010 WI 94, ¶ 38, 328 Wis. 2d 469, 787 N.W.2d 22. A party bringing a constitutional challenge bears a heavy burden, and it is not sufficient for a party to demonstrate that the statute's constitutionality is doubtful or probably unconstitutional. Rather, the presumption of constitutionality can only be overcome if the party establishes the statute's unconstitutionality beyond a reasonable doubt. Id. Therefore, any doubt that exists regarding the constitutionality of Act 1 must be resolved in favor of its constitutionality. Id.\nf 9. We also review summary judgments independently. Green Spring Farms v. Kersten, 136 Wis. 2d 304, 315-17, 401 N.W.2d 816 (1987). The standard methodology is well-established. A party is entitled to summary judgment if the pleadings, depositions, answers to interrogatories, admissions, and affidavits, if any, show no genuine issue exists as to any material fact and the party is entitled to judgment as a matter of law. Wis. Stat. § 802.08(2).\nDISCUSSION\nI. Statutory Background\n¶ 10. In order to interpret Act 1, an understanding of its legislative background is helpful.\nA. The National Labor Relations Act\n¶ 11. Modern labor law in America began in 1935, with the passage of the National Labor Relations Act (NRLA), also known as the Wagner Act. See Sweeney v. Pence, 767 F.3d 654, 681 (7th Cir. 2014) (Wood, C.J., dissenting). The federal government had intervened to regulate a tumultuous relationship involving significant violence between workers and employers at the beginning of the twentieth century. See International Union of Operating Eng'rs Local 139 v. Schimel, 210 F. Supp. 3d 1088, 1093 (E.D. Wis. 2016). In general, the NLRA established the right of workers to unionize and bargain collectively through a democratic system of exclusive representation. Id.\n¶ 12. After World War II, however, \"there was a feeling by some in Congress that the pendulum had swung too far in the direction of unionization.\" Sweeney, 767 F.3d at 681. In particular, \"closed-shop\" agreements, under which employers agreed to hire union members only, \"were thought by some members of Congress to be a powerful tool that union leaders were abusing.\" Id. On the other hand, Congress was also sympathetic toward other union security agreements. Id. In response, Congress amended the NLRA in 1947 by enacting the Taft-Hartley Act. See Schimel, 210 F. Supp. 3d at 1093.\n¶ 13. The NLRA—as amended by Taft-Hartley— outlawed closed-shop agreements. See, e.g., NLRB v. Local Union No. 55, 218 F.2d 226, 232 (10th Cir. 1954). However, union-shop agreements, in which new employees are required to join a labor union after being hired, remained legal under the NLRA. See Schimel, 210 F. Supp. 3d at 1094. Nonetheless, the freedom reserved to the states was extensive, and courts historically have interpreted Section 14(b) of the NLRA—which Taft-Hartley created—as allowing individual states to ban union-shop agreements. See, e.g., Retail Clerks Int'l Ass'n 1625 v. Schermerhorn, 375 U.S. 96, 102 (1963). Courts have also held \"Section 14(b)'s express allowance of state laws prohibiting agreements requiring membership in a labor organization as a condition of employment necessarily permits state laws prohibiting agreements that require employees to pay [Representative [flees.\" See Sweeney, 767 F.3d at 661.\nB. The Duty of Fair Representation\nf 14. The NRLA relies upon a system of exclusive representation of bargaining-unit employees. See 29 U.S.C. § 159(a). Under both federal and Wisconsin law, employees have the right to choose representatives \"for the purpose of collective bargaining.\" 29 U.S.C. § 157; Wis. Stat. § 111.04(1). Representatives may be any person or group of persons, including a labor organization. 29 U.S.C. § 152(4); Wis. Stat. § 111.05(10)-(11). Representatives are selected by a majority of employees in a bargaining unit. 29 U.S.C. 159(a), (c); Wis. Stat. § 111.05(1), (3). The chosen representatives become the exclusive representatives of all employees in the bargaining unit when engaging in collective bargaining. 29 U.S.C. § 159(a); Wis. Stat. § 111.05(1).\n¶ 15. Exclusive representatives are statutorily granted a set of powers and benefits that are \"comparable to those possessed by a legislative body both to create and restrict the rights of those whom it represents.\" Steele v. Louisville & N.R. Co., 323 U.S. 192, 202 (1944). As a result of these powers, \"only the union may contract the employee's terms and conditions of employment, and provisions for processing [the employee's] grievances.\" NLRB v. Allis-Chalmers Mfg. Co., 388 U.S. 175, 180 (1967).\n¶ 16. Other consequences flow from the Unions' status as the exclusive representative of all members of the bargaining unit. The most significant consequence is what is known as the duty of fair representation. See Sweeney, 767 F.3d at 672. The duty of fair representation requires the exclusive bargaining representative to serve all of the employees in a bargaining unit fairly and even-handedly, without regard to any differentiating characteristics, such as race, ethnicity, gender, or union membership. See Vaca v. Sipes, 386 U.S. 171, 177 (1967).\nC. Right-to-Work Laws and Act 1\nf 17. Right-to-work laws are not a new phenomenon, and twelve states had right-to-work laws in effect when Taft-Hartley was enacted in 1947. Sweeney, 767 F.3d at 662. These laws generally fell into two categories: (1) laws banning compulsory union membership; and (2) laws banning compulsory payment of dues or fees to labor unions. Id. At the time Wisconsin enacted Act 1, half of the states had enacted right-to-work laws, as had the federal government.\n¶ 18. Act 1 provides as follows, in relevant part:\nNo person may require, as a condition of obtaining or continuing employment, an individual to do any of the following:\n1. Refrain or resign from membership in, voluntary affiliation with, or voluntary financial support of a labor organization.\n2. Become or remain a member of a labor organization.\n3. Pay any dues, fees, assessments, or other charges or expenses of any kind or amount, or provide anything of value, to a labor organization.\n4. Pay to any 3rd party an amount that is in place of, equivalent to, or any portion of dues, fees, assessments, or other charges or expenses required of members of, or employees represented by, a labor organization.\nWis. Stat. § 111.04(3)(a).\n¶ 19. Act 1 also provides that if a provision of a contract violates the above subsection, \"that provision is void.\" Wis. Stat. § 111.04(3)(b). Furthermore, Act 1 imposes a specific crime against public peace and order, stating any person violating these prohibitions \"is guilty of a Class A misdemeanor.\" Wis. Stat. § 947.20.\nII. As-Applied Challenge\nf 20. At the outset, it is necessary to ascertain the scope of the Unions' constitutional challenge to Act 1. Facial challenges seek to invalidate challenged statutory provisions in all of their applications. See State v. Wood, 2010 WI 17, ¶ 13, 323 Wis. 2d 321, 780 N.W.2d 63. As-applied challenges seek to invalidate a challenged statutory provision only with regard to that specific party. Id.\n¶ 21. The Unions alleged in their complaint that Act 1 \"upon its face takes the property of Plaintiffs without just compensation . . . .\" Moreover, they argue on appeal that the circuit court \"correctly enjoined the enforcement of Act 1 statewide, not only for the Unions below, but for all affected labor organizations.\" The Unions further assert there are \"no circumstances where the government can constitutionally impose such a taking of private property to benefit other private actors, without just compensation.\"\nf 22. However, the label attached to a constitutional challenge is not determinative of whether it is a facial or as-applied challenge. See Citizens United v. FEC, 558 U.S. 310, 331 (2010). The Unions' constitutional challenge in this action was arguably an as-applied one in the sense it did not seek to strike Act 1 in all its applications. Rather, their constitutional arguments focused primarily on Act 1 to the extent it involves the compulsory provision of services to nonmembers while allegedly depriving the Unions of just compensation for that required representation. The Unions also specifically alleged a regulatory taking under Penn Central Transportation Co. v. City of New York, 438 U.S. 104 (1978), which traditionally implicates an as-applied challenge. See Keystone Bituminous Coal Ass'n v. DeBenedictis, 480 U.S. 470, 494 (1987). Moreover, the Unions' evidentiary materials supporting summary judgment dealt principally with how Act 1 affected them in particular, and the circuit court relied on that evidence in its decision. Accordingly, the challenge to Act 1 has the characteristics of the \"hybrid\" challenge discussed in Gabler v. Crime Victims Rights Bd., 2017 WI 67, ¶¶ 28-29, 376 Wis. 2d 147, 897 N.W.2d 384.\n¶ 23. We therefore first address whether Act 1 is unconstitutional as applied, since a facial challenge should generally not be entertained when an as-applied challenge could resolve the case. See Society Ins. v. LIRC, 2010 WI 68, ¶ 27 n.8, 326 Wis. 2d 444, 786 N.W.2d 385. As-applied challenges assess the merits of the challenge by considering the facts of the particular case in front of us, not hypothetical facts in other situations. State v. Wood, 2010 WI 17, ¶ 13, 323 Wis. 2d 321, 780 N.W.2d 63. If we determine Act 1 is constitutional as applied to the Unions, then their facial challenge necessarily fails. See Tammy W-G v. Jacob T., 2011 WI 30, ¶ 48 n.16, 333 Wis. 2d 273, 797 N.W.2d 854.\nA. Act 1 Does Not Take the Unions' Money or Services\n¶ 24. The Unions contend the combined effect of Act 1 and the duty of fair representation compels labor organizations to spend monies in their treasuries to provide services for non-member employees in bargaining units when those non-members do not pay representative fees or dues to the labor organization. According to the Unions, the State has thereby taken such unions' services and money without just compensation, in violation of the Wisconsin Constitution.\n¶ 25. An unconstitutional taking occurs under the Wisconsin Constitution when: (1) a property interest exists; (2) the property interest has been taken; (3) the taking was for public use; and (4) the taking was without just compensation. See Morgan, 328 Wis. 2d 469, ¶ 38. We do not discern a dispute concerning whether the money contained in the Unions' treasuries, and the services expended by the Unions to provide representation to non-members, are legally protected property interests. Regardless, Act 1 does not take these alleged property interests. Because we conclude no property interest has been taken, we do not address whether any such purported taking was for a public use or was without just compensation.\n¶ 26. In Eastern Enterprises v. Apfel, 524 U.S. 498 (1998), the Supreme Court confronted a constitutional challenge to the retroactive liability provisions of the Coal Industry Retiree Health Benefit Act of 1992 (Coal Act), which required coal operators such as Eastern Enterprises to fund future health benefits of current and former coal mine employees. There was no majority opinion of the Court, but Justice O'Connor, joined by three other justices, concluded the retroactive impact of the Coal Act as applied to Eastern Enterprises resulted in an unconstitutional taking of property because it placed a \"severe, disproportionate and extremely retroactive burden on Eastern.\" Id. at 538. Justice Kennedy, in a concurrence, disagreed with the plurality's conclusion that the Coal Act resulted in an unconstitutional taking of property. See id. at 539-42. Rather, Justice Kennedy concluded the law did not effectuate a taking:\nThe Coal Act imposes a staggering financial burden on the petitioner, Eastern Enterprises, but it regulates the former mine owner without regard to property. It does not operate upon or alter an identified property interest, and it is not applicable to or measured by a property interest. The Coal Act does not appropriate, transfer, or encumber an estate in land (e.g., a lien on a particular piece of property), a valuable interest in an intangible (e.g., intellectual property), or even a bank account or accrued interest. The law simply imposes an obligation to perform an act, the payment of benefits. The statute is indifferent as to how the regulated entity elects to comply or the property it uses to do so.\nId. at 540. The four dissenters in Eastern Enterprises agreed that the Takings Clause was not implicated because \"the 'private property' upon which the [Takings] Clause traditionally has focused is a specific interest in physical or intellectual property .... This case involves not an interest in physical or intellectual property, but an ordinary liability to pay money, and not to the Government, but to third parties.\" Id. at 554.\n¶ 27. We find the above reasoning persuasive in the context of the Unions' present challenge. Act 1 does not \"appropriate, transfer, or encumber\" money contained in the Unions' treasuries. Id. at 540. Similarly, Act 1 does not require labor organizations to provide services to anyone. Act 1 merely prohibits employers from requiring union membership or the payment of fees as a condition of employment. See Sweeney, 767 F.3d at 666. The Unions have no constitutional entitlement to the fees of non-member employees. See Madison Teachers, Inc., 358 Wis. 2d 1, ¶ 58. The Unions may be required to expend resources to represent employees in a bargaining unit who do not pay fees or dues to the unions, but this result does not constitute a taking. Rather, Act 1 merely precludes the unions from requiring non-member employees to pay fees designed to cover the costs of performing the duty of fair representation. See Sweeney, 767 F.3d at 666.\n¶ 28. The Unions insist this is a distinction without a difference because Wisconsin's duty of fair representation also originates from Act 1 itself. The Unions contend \"[o]ur state clearly and deliberately imposed the duty of fair representation in Act 1 when it defined unions to be exclusive majority collective representatives in [Wis. Stat.] § 111.02(9g).\" The Unions further contend this duty of fair representation is imposed because the statute added a definition of \"labor organization\" to Act 1. According to the Unions, the legislature enacted this definition \"knowing that it would require exclusive representation, including representation of non-members.\" We reject these contentions.\n¶ 29. Wisconsin's duty of fair representation requires the Unions to provide services—but it does so only when the union is acting as the exclusive bargaining representative for employees in a bargaining unit. Labor law imposes the fair-representation duty not on \"labor organizations\" per se, but on employees' \"representatives.\" Wis. Stat. § 111.02(2). This latter category includes \"any person chosen by the employee to represent the employee.\" Wis. Stat. § 111.02(11). Such \"representatives\" have been subject to Wisconsin’s duty of fair representation for many decades. See, e.g., Clark v. Hein-Warner Corp., 8 Wis. 2d 264, 99 N.W.2d 132 (1959). The Supreme Court also left no doubt in Vaca that exclusive representatives owe their members a duty of fair representation under sec. 8(b) of the NLRA. See Coleman v. Outboard Marine Corp., 92 Wis. 2d 565, 574, 285 N.W.2d 631 (1979). Act 1 does not create the duty of fair representation.\n¶ 30. Furthermore, the duty of fair representation is optional, carrying with it attendant benefits and costs. To become the exclusive representative of employees in a bargaining unit, the prospective exclusive representative generally must voluntarily file or authorize a petition, and then stand for election. See 29 C.F.R. § 102.60 (2016); Wis. Admin. Code § ERC 3.02 (June 2010). The benefits received by the exclusive representative include being the sole seat at the bargaining table with the employer, as well as the power to negotiate collective bargaining agreements on behalf of all employees in the bargaining unit. See Sweeney, 767 F.3d at 666. These benefits correspond, however, to the duty to fairly represent all employees in the bargaining unit. See Vaca, 386 U.S. at 177; Clark, 8 Wis. 2d at 272. Unions must now consider the foregoing costs and benefits in light of the additional requirements imposed by Act 1, and then determine how best to lawfully acquire the funds they believe they need to perform their duties as an exclusive bargaining representative. Such a context in no manner accomplishes an unconstitutional taking of private property, including either the Unions' money or its services.\nB. Act 1 Does Not Impose a Regulatory Taking\n| 31. The Unions insist their property has been taken under the regulatory takings theory of Penn Central Transportation Co. v. City of New York, 438 U.S. 104 (1978). The general rule is that while property may be regulated to a certain extent, if regulation goes too far it will be recognized as a taking. See Eastern Enters., 524 U.S. at 540. A regulatory takings analysis involves three principal factors: (1) the economic impact of the regulation on the claimant; (2) the extent to which the regulation interferes with the claimant's reasonable investment-based expectations, and; (3) the nature of the governmental action. See Connolly v. Pension Ben. Guar. Corp., 475 U.S. 211, 225 (1986); see also Murr v. Wisconsin, 137 S. Ct. 1933, 1943 (2017).\n¶ 32. The Unions claim the economic impact of Act 1 is severe. However, the question under a regulatory takings analysis is not what \"the owner has lost,\" but rather what the government \"actually takes.\" See Air Pegasus of D.C., Inc. v. United States, 424 F.3d 1206, 1215 (Fed. Cir. 2005). The Unions fail in this regard to show that they would not have incurred the economic impact of which they complain in the absence of the legal obligation to do so under the preexisting duty of fair representation.\nf 33. The Unions also argue Act 1 interferes with their reasonable investment-backed expectations in property—i.e., the money contained in their respective union treasuries—by requiring the Unions to spend their treasuries to represent employees in a bargaining unit who do not pay fees or dues to the Unions. However, labor organizations have long been subject to federal and state regulation, and they had no \"reasonable basis to expect\" that those regulations would remain static. See Concrete Pipe & Prod. of Cal., Inc. v. Construction Laborers Pension Trust for S. Cal., 508 U.S. 602, 645-46 (1993). As mentioned, right-to-work laws have existed since before the passage of Taft-Hartley, and it was foreseeable that Wisconsin might at some point exercise its federally-recognized authority to enact a right-to-work law, as twenty-five other states had done.\nf 34. Nevertheless, the Unions analogize themselves to regulated utilities, arguing that Act 1 imposes an unconstitutional confiscatory rate. The Unions note that utility rates change over time, and if a particular rate is deemed confiscatory and unconstitutional, the utility has a right to challenge it under art. 1, § 13. This right endures even though the requirement that the services be provided for customers may have existed for decades. The Unions' analogy to regulated utilities is inapt.\n¶ 35. Regulated utilities operate under a legislative grant. As a condition of being permitted to provide utility services under the legislative grant, a utility must charge its customers reasonable rates. Madison v. Madison Gas & Elec. Co., 129 Wis. 249, 265, 108 N.W. 65 (1906). Although the legislative grant itself— without more—requires the utility to charge its customers rates, the legislature has the power to formally set the rates charged by a utility. Id. However, if the legislature chooses to exercise this power, the rates it sets for the utility must nonetheless be reasonable; if the rates are set too low, the utility's property has been taken without just compensation. Id. at 267.\n¶ 36. By contrast, labor organizations have broad discretion to set the dues they charge members. See 29 U.S.C. § 411(a)(3). Regulated utilities lack such discretion and must always charge their customers reasonable rates. See Madison Gas & Elec. Co., 129 Wis. at 265. In addition, utilities do not wield anything remotely like the agency power of exclusive representation over their customers; in fact, utilities have no agency power at all. See Wisconsin Tel. Co. v. Public Serv. Comm'n, 232 Wis. 371, 379, 287 N.W. 167 (1939). In fact, non-member employees are not the Unions' customers in the sense that consumers are customers of a power company, as the function of labor unions is not to serve the interests of individuals but the collective good of the bargaining unit. In this regard, even the Unions' provisions of services to non-members necessarily may inure to the benefit of the Unions' members and bargaining unit as a whole.\n¶ 37. Regarding the third Penn Central factor— the character of the government action—the Unions assert they \"cannot exit the 'representation' market without ceasing to exist. The regulation is therefore severe, and has the character of a physical occupation by the State.\" However, this factor looks to whether the claimed \"interference arises from some public program adjusting the benefits and burdens of economic life to promote the common good.\" Penn Cent, 438 U.S. at 124. At the end of the day, Act 1 may represent such an \"adjustment.\" But Congress specifically reserved to the individual states the right to prohibit agreements that require employees to pay representative fees as a condition of employment. Passage of the right-to-work law in Wisconsin was within the province of the legislature. This court's ambit is properly to determine whether Act 1 violates art. 1, § 13 of the Wisconsin Constitution. For the reasons stated, we conclude Act 1 does not effectuate an unconstitutional taking of private property without just compensation.\nBy the Court.—Judgment reversed and cause remanded with directions.\nThe term \"labor organization\" has a specific statutory definition under federal and Wisconsin law. See 29 U.S.C. § 152(5) (2012); Wis. Stat. § 111.02(9g) (2015-16). All references to the United States Code are to the 2012 version unless noted. All references to the Wisconsin Statutes are to the 2015-16 version unless otherwise noted.\nUnlike the other parties challenging the constitutionality of Act 1, the Wisconsin State AFL-CIO is not itself a labor organization. Rather, it is a federation of labor organizations.\nIn contrast to a \"union-shop\" agreement, employees are not required to formally become members of a labor union after being hired under an \"agency-shop\" agreement. See Florida Educ. Ass'n v. Public Emp. Relations Comm'n, 346 So. 2d 551, 553 (Fla. Ct. App. 1977). Nonetheless, under an agency-shop agreement, employees are required to pay \"the union an amount equal to union dues and fees as a condition of employment.\" Id.\nHowever, the United States Supreme Court has held that even under a union-shop agreement, an employee's membership in a labor union may \"be conditioned only upon payment of fees and dues.\" NLRB v. GMC, 373 U.S. 734, 742 (1963). Additionally, the Court has concluded that an employee in a bargaining unit may not be compelled to fund a labor union's activities that are unrelated to collective bargaining, contract administration, and grievance adjustment. See Communications Workers of Am. v. Beck, 487 U.S. 735, 745 (1988). Because \" 'membership' as a condition of employment is whittled down to its financial core,\" the distinction between a \"union-shop\" agreement and an \"agency-shop\" agreement is now largely a formal one, see GMC, 373 U.S. at 742-44; Michigan State AFL-CIO v. Callaghan, 15 F. Supp. 3d 712, 716 n.3 (E.D. Mich. 2014).\nSee National Conference of State Legislatures, Right-To-Work Resources, http://www.ncsl.org/research/labor-and-employment/right-to-work-laws-and-bills.aspx (last visited Sept. 13, 2017) (compiling twenty-eight states with right-to-work laws).\nSee Commonwealth Edison Co. v. United States, 271 F.3d 1327, 1339 & n.10 (Fed. Cir. 2001) (en banc) (collecting cases). When a fragmented Court decides a case and no single rationale explaining the result enjoys the assent of five Justices, the holding of the Court may be viewed as that position taken by those Members who concurred in the judgments on the narrowest grounds. Marks v. United States, 430 U.S. 188, 193 (1977). Here, five justices agreed the Takings Clause was not implicated. We consider this prevailing view the holding of the Court as regards the Takings issue.\nOn the face of Act 1, there is no \"State\" demand for services. Act 1 also defines \"employer\" to exclude \"the state or any political subdivision.\" Wis. Stat. § 111.02(7)(b)l.\nThe most recent revision to this particular regulatory provision occurred on December 15, 2014. Therefore, all references to the Code of Federal Regulations are to the 2016 version—which is the most recent.\nAll references to Wis. Admin. Code § ERC ch. 3 are to the June 2010 version—which is the most recent.\nThe Unions' argument in this regard fails to account for the fact that they are not prohibited from attempting to raise revenue by other lawful means.",
+        "type": "majority",
+        "author": "SEIDL, J."
+      }
+    ],
+    "attorneys": [
+      "On behalf of the defendants-appellants, the cause was submitted on the briefs of Brad D. Schimel, attorney general, Misha Tseytlin, solicitor general, Ryan J. Walsh, chief deputy solicitor general and Daniel P. Lennington and Luke N. Berg, deputy solicitors general. There was oral argument by Ryan J. Walsh.",
+      "On behalf of the plaintiffs-respondents, the cause was submitted on the brief of and oral argument by Frederick Perillo and Erin F. Medeiros of The Previant Law Firm, S.C., Milwaukee.",
+      "A nonparty brief was filed by Richard M. Esenberg and Brian W. McGrath of Wisconsin Institute for Law & Liberty, Milwaukee, and Milton L. Chappell and Nathan J. McGrath of National Right to Work Legal Defense Foundation, Inc., Springfield, Virginia.",
+      "A nonparty brief was filed by Timothy G. Costello, David J.B. Froiland, Joseph P. Campbell and Darius T. Love of Ogletree, Deakins, Nash, Smoak & Stewart, PC., Milwaukee."
+    ],
+    "corrections": "",
+    "head_matter": "International Association of Machinists District 10 and its Local Lodge 1061, United Steelworkers District 2 and Wisconsin State AFL-CIO, Plaintiffs-Respondents, v. State of Wisconsin, Scott Walker, Brad Schimel, James R. Scott and Rodney G. Pasch, Defendants-Appellants.\nCourt of Appeals\nNo. 2016AP820.\nOral argument May 3, 2017.\nDecided September 19, 2017.\n2017 WI App 66\n(Also reported in 903 N.W.2d 141.)\nOn behalf of the defendants-appellants, the cause was submitted on the briefs of Brad D. Schimel, attorney general, Misha Tseytlin, solicitor general, Ryan J. Walsh, chief deputy solicitor general and Daniel P. Lennington and Luke N. Berg, deputy solicitors general. There was oral argument by Ryan J. Walsh.\nOn behalf of the plaintiffs-respondents, the cause was submitted on the brief of and oral argument by Frederick Perillo and Erin F. Medeiros of The Previant Law Firm, S.C., Milwaukee.\nA nonparty brief was filed by Richard M. Esenberg and Brian W. McGrath of Wisconsin Institute for Law & Liberty, Milwaukee, and Milton L. Chappell and Nathan J. McGrath of National Right to Work Legal Defense Foundation, Inc., Springfield, Virginia.\nA nonparty brief was filed by Timothy G. Costello, David J.B. Froiland, Joseph P. Campbell and Darius T. Love of Ogletree, Deakins, Nash, Smoak & Stewart, PC., Milwaukee.\nBefore Stark, P.J., Hruz and Seidl, JJ."
+  },
+  "file_name": "1767-01",
+  "first_page_order": 375,
+  "last_page_order": 398
+}

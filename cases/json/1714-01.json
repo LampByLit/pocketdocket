@@ -1,0 +1,574 @@
+{
+  "id": 12167711,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. VERONICA GRANILLO, Defendant-Appellant",
+  "name_abbreviation": "State v. Granillo",
+  "decision_date": "2016-08-22",
+  "docket_number": "No. S-1-SC-36095; Docket No. 33,637",
+  "first_page": "615",
+  "last_page": "623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-094"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "444 U.S. 394",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306594
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "403",
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0394-01"
+      ]
+    },
+    {
+      "cite": "2006-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2541635
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/139/0152-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 624",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108013
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "632",
+          "parenthetical": "stating that the state can construct statutes allowing juries to convict despite disagreeing about the means/theory of the commission of a crime, including the mens rea, but that power is limited by the due process clause"
+        },
+        {
+          "page": "649",
+          "parenthetical": "Scalia, J., concurring in part and concurring in the judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0624-01"
+      ]
+    },
+    {
+      "cite": "2005-NMCA-012",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224630
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 25-26"
+        },
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0749-01"
+      ]
+    },
+    {
+      "cite": "N.Y. Penal Law § 15.05",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "(1)",
+          "parenthetical": "McKinney 1965"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ariz. Rev. Stat. Ann. § 13-105",
+      "category": "laws:leg_statute",
+      "reporter": "Ariz. Rev. Stat. Ann.",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "(10)(a)",
+          "parenthetical": "defining \" intentionally \" to mean \"with respect to a result or to conduct described by a statute defining an offense, that a person's objective is to cause that result or to engage in that conduct\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Tex. Penal Code Ann. § 6.03",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Colo. Rev. Stat. Ann. § 18-1-501",
+      "category": "laws:leg_statute",
+      "reporter": "Colo. Rev. Stat. Ann.",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "(5)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "308 P.3d 160",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-082",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4334714
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0510-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 422",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769246
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "444",
+          "parenthetical": "referring to the Model Penal Code as a source of guidance on the \"requisite but elusive mental element of criminal offenses\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0422-01"
+      ]
+    },
+    {
+      "cite": "1997-NMSC-047",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        18717
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 8, 17-18, 36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/124/0064-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-073",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        322297
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        },
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0724-01"
+      ]
+    },
+    {
+      "cite": "150 N.M. 654",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4250792
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0654-01"
+      ]
+    },
+    {
+      "cite": "345 P.3d 1056",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4240587
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        },
+        {
+          "page": "¶ 40"
+        },
+        {
+          "page": "¶ 41"
+        },
+        {
+          "page": "¶¶ 32-33"
+        },
+        {
+          "page": "¶ 40"
+        },
+        {
+          "page": "¶ 33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0445-01"
+      ]
+    },
+    {
+      "cite": "301 P.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-016",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4334758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0091-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-081",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4249841
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0494-01"
+      ]
+    },
+    {
+      "cite": "332 P.3d 850",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-030",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4239919
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        },
+        {
+          "page": "¶ 37"
+        },
+        {
+          "page": "¶ 38"
+        },
+        {
+          "page": "¶ 37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0532-01"
+      ]
+    },
+    {
+      "cite": "316 P.3d 183",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-001",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4078296
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0265-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4244712
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0434-01"
+      ]
+    },
+    {
+      "cite": "343 P.3d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4241288
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0276-01"
+      ]
+    },
+    {
+      "cite": "107 N.M. 126",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1597058
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/107/0126-01"
+      ]
+    },
+    {
+      "cite": "1988-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008-NMSC-006",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3784682
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0310-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3784610
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 48"
+        },
+        {
+          "page": "¶¶ 1, 54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0373-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-003",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4245771
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0537-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1036,
+    "char_count": 26673,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24683060672649254
+    },
+    "sha256": "4487657ca7830de0de599191561b220475a636173124e42c8c63f18bdf5c5300",
+    "simhash": "1:f531f491a50a0b6b",
+    "word_count": 4229
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Daniel Viramontes, District Judge",
+      "STEPHEN G. FRENCH, Judge",
+      "TIMOTHY L. GARCIA, Judge",
+      "J. MILES HANISEE, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. VERONICA GRANILLO, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nFRENCH, Judge.\n{1} This appeal requires us to construe the mens rea for intentional child abuse by endangerment. NMSA 1978, § 30-6-1 (D)(1) (2009). Veronica Granillo (Defendant) appeals her conviction for intentional child abuse by endangerment, arguing that (1) the evidence was insufficient; (2) the jury was improperly instructed as to the elements of the crime; and (3) the district court improperly limited her closing argument. Defendant’s insufficiency of the evidence argument raises the main issue in this case — the requisite mens rea for intentional child abuse by endangerment. We hold that intentional child abuse by endangerment requires a conscious objective to endanger the child. Because we agree with Defendant that the evidence was insufficient to prove the requisite mens rea, we reverse her conviction for intentional child abuse by endangerment. We do not reach Defendant’s remaining arguments.\nBACKGROUND\n{2} A witness testified at trial that a car veered onto the wrong side of the road, continued driving that way for approximately five or six blocks, and in so doing forced “quite a few cars off the road.” The witness noted the license plate number, called the police, and kept the car within eyesight.\n{3} Upon arrival, Lieutenant Conrad Jacquez of the City of Deming Police Department observed the car stop in the center of the road, then start and stop twice more, eventually coming to rest on the wrong side of the road. Lieutenant Jacquez initiated a traffic stop.\n{4} Lieutenant Jacquez knocked on the driver’s side window, received no response, and knocked again. When Defendant rolled down the window, she had a strong odor of alcohol, bloodshot and watery eyes, slurred speech, and did not focus her eyesight on Lieutenant Jacquez while they spoke. There was an open, half-empty bottle of whiskey on the passenger seat and a full bottle of whiskey on the floor of the front passenger seat.\n{5} A three-year-old child was in the back of the car. Officer Robert Ramirez, who had arrived to assist, observed the child unbuckle himself from his child seat, stand up, and turn around.\n{6} Lieutenant Jacquez made two attempts to administer field sobriety tests to Defendant, but abandoned both because Defendant was unable to stand. Lieutenant Jacquez placed Defendant under arrest.\n{7} Once arrested, Defendant became verbally and physically belligerent. Lieutenant Jacquez read Defendant the New Mexico Implied Consent Act and she agreed to a blood test. At the hospital, Defendant — still verbally abusive and physically uncooperative — refused to exit the police car. Defendant was not tested for the presence of alcohol or drugs.\n{8} Defendant was charged and tried not only for intentional child abuse, of which she was convicted, but also for: aggravated driving under the influence of intoxicating liquor or drugs under NMSA 1978, § 66-8-102(D) (2010, amended 2016), on which the jury was unable to reach a verdict; driving with a suspended or revoked license under NMSA 1978 § 66-5-39 (2013), on which the jury acquitted; and failure to maintain a lane on a laned road under NMSA 1978, § 66-7-317 (1978), on which the district court directed a verdict in favor of the Defendant.\nSUFFICIENCY OF THE EVIDENCE\n{9} Defendant argues that her conviction for intentional child abuse by endangerment must be reversed because the State failed to present sufficient evidence that the child was endangered, and even if Defendant endangered the child, she did not do so with the requisite state of mind. Essentially, Defendant argues that evidence was lacking of both the actus reus and the mens rea. Either insufficiency requires this Court to reverse. See State v. Vigil, 2010-NMSC-003, ¶ 15, 147 N.M. 537, 226 P.3d 636 (“[Ojbserving that [A] conviction of child abuse cannot be sustained in the absence of sufficient evidence of both [the actus reus and the mens rea.]”), (citing State v. Schoonmaker, 2008-NMSC-010, ¶ 48, 143 N.M. 373, 176 P.3d 1105 (Schoonmaker II)); State v. Padilla, 2008-NMSC-006, ¶ 12, 143 N.M. 310, 176 P.3d 299 (“Typically, criminal liability is premised upon a defendant’s culpable conduct, the actus reus, coupled with a defendant’s culpable mental state, the mens rea.”).\nStandard of Review\n{10} We review a challenge to the sufficiency of the evidence to determine “whether substantial evidence of either a direct or circumstantial nature exists to support a verdict of guilt beyond a reasonable doubt with respect to every element essential to a conviction.” State v. Sutphin, 1988-NMSC-031, ¶ 21, 107 N.M. 126, 753 P.2d 1314. “[Appellate courts] view the evidence in the light most favorable to the guilty verdict, indulging all reasonable inferences and resolving all conflicts in the evidence in favor of the verdict.” State v. Astorga, 2015-NMSC-007, ¶ 57, 343 P.3d 1245 (internal quotation marks and citation omitted). The ultimate question is “whether a rational jury could have found beyond a reasonable doubt the essential facts required for a conviction.” Id. (internal quotation marks and citation omitted).\n{11} We review any question of statutory interpretation raised by Defendant’s argument de novo as a question of law. State v. Chavez, 2009-NMSC-035, ¶ 10, 146 N.M. 434, 211 P.3d 891.When we interpret a statute, “[the appellate court’s] main goal ... is to give effect to the Legislature’s intent.” State v. Almanzar, 2014-NMSC-001, ¶ 14, 316 P.3d 183 (alteration in original) (internal quotation marks and citation omitted). Textual ambiguity is resolved in favor of the defendant, in accordance with the rule of lenity. State v. Consaul, 2014-NMSC-030, ¶ 40, 332 P.3d 850.\nChild Abuse by Endangerment\n{12} Child abuse by endangerment “consists of a person knowingly, intentionally or [recklessly], and without justifiable cause, causing or permitting a child to be . . . placed in a situation that may endanger the child’s life or health[.]” Section 30-6-1 (D)(1). Abuse by endangerment is a special class of child abuse designed to punish conduct that “exposes a child to a significant risk of harm, even though the child does not suffer a physical injury.” Chavez, 2009-NMSC-035, ¶ 15 (internal quotation marks and citation omitted); see also State v. Gonzales, 2011-NMCA-081, ¶ 20, 150 N.M. 494, 263 P.3d 271 (“[E]ndangerment is something that exists as an antecedent to any harm that might befall a child.”), aff’d on other grounds by 2013-NMSC-016, 301 P.3d 380. Our Supreme Court concluded that “by classifying child [abuse by] endangerment as a third-degree felony, our Legislature anticipated that criminal prosecution would be reserved for the most serious occurrences, and not for minor or theoretical dangers.” Chavez, 2009-NMSC-035, ¶ 16. In accordance with the purpose of the child abuse by endangerment statute to “punish conduct that creates a truly significant risk of serious harm to children],]” id. ¶ 22, a child is considered endangered only when placed at “a substantial and foreseeable risk of harm.” Id. (internal quotation marks and citation omitted).\nMens Rea for Intentional Child Abuse by Endangerment\n{13} We analyze first whether any rational jury could have concluded beyond a reasonable doubt that Defendant acted with the requisite mental state. The Legislature established three specific mental states by which a person may commit child abuse by endangerment: intentionally, knowingly, and recklessly. See State v. Montoya, 2015-NMSC-010, ¶ 40, 345 P.3d 1056. In this case, Defendant was charged only with intentional child abuse by endangerment. She was not charged with knowing or reckless child abuse by endangerment, nor was the jury presented with a step-down instruction for endangerment committed knowingly or recklessly. Thus, Defendant’s conviction required sufficient evidence that she committed the actus reus intentionally. Cf. Gonzales, 2011-NMCA-081, ¶ 30 (stating that a conviction for child abuse by endangerment requires proof that the defendant’s “culpable mental state coincided with the act”). Before analyzing whether there was sufficient evidence that Defendant acted intentionally, we must first define the mens rea applicable to the crime of intentional child abuse by endangerment. This is a question of law that we examine de novo. See Chavez, 2009-NMSC-035, ¶ 10.\n{14} The Legislature does not define the mental state “intentionally” in Section 30-6-1. State v. Cabezuela, 201 l-NMSC-041, ¶ 23, 150 N.M. 654, 265 P.3d 705. Nor have our appellate courts interpreted the mens rea requirement for intentional child abuse by endangerment. The State argues that because child abuse is not a specific intent crime but instead a general intent crime, the mental state required for intentional child abuse by endangerment is “only a ‘conscious wrongdoing,’ or ‘the purposeful doing of an act that the law declares to be a crime. ’ ” State v. Brown, 1996-NMSC-073, ¶ 22, 122 N.M. 724, 931 P.2d 69. Therefore, argues the State, an intentional mens rea in this context requires that a person intend the underlying conduct that might support a finding that a child was endangered — e.g., that Defendant intended to drive her vehicle while intoxicated, with a child in the car — but not that a person intended to endanger the child. We disagree and explain below.\n{15} The common-law classification of crimes as requiring either “specific intenf’or “general intent” has been the cause of considerable confusion. As a consequence, there is a movement away from the determination of mens rea by reference to the “venerable” specific intent/general intent dichotomy. Bailey, 444 U.S. at 403. As an alternative to the traditional dichotomy, the Model Penal Code defines four specific culpable states of mind: purposely, knowingly, recklessly, and negligently. See Model Penal Code § 2.02 (2015). Our child abuse statute refers to multiple specific culpable states of mind: intentionally, knowingly, and as clarified by our Supreme Court, recklessly. Montoya, 2015-NMSC-010, ¶ 40. The tiered mens rea structure of our child abuse statute is akin to that of the Model Penal Code. Structurally, our child abuse statute leans away from the common law approach, and instead, is more consistent with the approach of the Model Penal Code.\n{16} Because of the mens rea structure of Section 30-6-1 (D), and following our appellate courts and the United States Supreme Court that have relied on the Model Penal Code, we look to the Model Penal Code to inform our definition of an intentional mens rea. See, e.g., Consaul, 2014-NMSC-030, ¶ 37 (citing the Model Penal Code in establishing another mens rea standard for the child abuse statute); State v. Carrasco, 1997-NMSC-047, ¶¶ 8, 17-18, 36, 124 N.M. 64, 946 P.2d 1075 (referring to provisions of the Model Penal Code discussing accomplice liability and conspiracy); see also United States v. United States Gypsum Co., 438 U.S. 422, 444 (1978) (referring to the Model Penal Code as a source of guidance on the “requisite but elusive mental element of criminal offenses”) (internal quotation marks and citation omitted). As used in the Model Penal Code, an intentional state of mind corresponds to purpose. See Model Penal Code § 1.13(12) (2015) (“ ‘intentionally’ or ‘with intent’ means purposely”); see also 1 Wayne R. LaFave, Substantive Criminal Law, § 5.1(c) at 337 (2d ed. 2003) (stating that “intention (orpurpose) to do the forbidden act (omission) or cause the forbidden result” is one of the four types of mens rea). A person acts purposely (intentionally) under the Model Penal Code if it is the person’s “conscious object to engage in conduct of that nature or to cause such a result.” Model Penal Code § 2.02(2)(a)(i). In order to determine whether in the context of Section 30-6-1(D)(1) a person’s conscious object must be directed toward the result of endangering a child or, as the State argues, the underlying conduct, we examine the intent of the Legislature in enacting Section 30-6-1(D)(1). In essence, we must determine what sort of social harm has been proscribed by the Legislature — conduct or a result. See Joshua Dressler, Understanding Criminal Law, § 9.10(D) (5th ed. 2009) (stating that the social harm proscribed by a criminal statute may consist of wrongful conduct, wrongful results, or both).\n{17} We conclude the social harm proscribed by the Legislature with Section 30-6-1 (D)(1) is a result, not conduct. The legislative purpose of the statute is to address the social harm caused when children are put at “truly significant risk of serious harm.” State v. Schaaf 2013-NMCA-082, ¶ 8, 308 P.3d 160 (internal quotation marks and citation omitted). This purpose is achieved by proscribing the result of endangering a child. See § 30-6-l(D)(l) (prohibiting a person from “causing or permitting a child to be . . . placed in a situation that may endanger the child’s life or health” without justifiable cause). That is unlike criminal statutes that proscribe harmful conduct. See Understanding Criminal Law, § 9.10(D) at 114-15 (explaining that a criminal statute that proscribes harmful conduct without regard to a prohibited result establishes a “conduct crime” and, by contrast, a criminal statute that prohibits a harmful result without reference to how the result occurs establishes a “result crime”); compare § 66-8-102(C)(l) (2010) (defining driving under the influence of alcohol as, in relevant part, “driv[ing] a vehicle ... if the person has an alcohol concentration of eight one hundredths or more in the person’s blood[,]” thereby proscribing conduct without regard to a result of the conduct) with NMSA 1978, § 30-2-1(A) (1994) (defining murder as, in relevant part, “the killing of one human being by another without lawful justification or excuse, by any of the means with which death may be caused[,]” thereby proscribing a harmful result without regard to the conduct leading to the result). A criminal conviction requires that the proscribed social harm (the actus reus), whether a result or conduct, be performed with the requisite mental state. See Padilla, 2008-NMSC-006, ¶ 12 (“Typically, criminal liability is premised upon a defendant’s culpable conduct, the actus reus, coupled with a defendant’s culpable mental state, the mens rea.”). Because the social harm proscribed by Section 30-6-1 (D)(1) is a result — endangering a child — we hold that the mens rea for intentional child abuse by endangerment requires a conscious objective to achieve a result — endanger the child. The State’s proffered definition of the mens rea for intentional child abuse by endangerment, requiring no more than volitional conduct, is not directed at the proscribed social harm and does not require the level of culpability intended by the Legislature under the proper Model Penal Code analysis.\n{18} Our interpretation of an intentional mens rea requirement in the context of Section 30-6-1 (D)(1) is in accord with the statutory definition of an intentional mens rea requirement used by numerous other states. For example, by Colorado statute, a person acts intentionally “when [that person’s] conscious objective is to cause the specific result proscribed by the statute defining the offense.” Colo. Rev. Stat. Ann. § 18-1-501(5) (1977). And in Texas, a person acts intentionally “with respect to the nature of his conduct or to a result of his conduct when it is [that person’s] conscious objective or desire to engage in the conduct or cause the result.” Tex. Penal Code Ann. § 6.03(a) (1994); see also, e.g., Ariz. Rev. Stat. Ann. § 13-105(10)(a) (1994) (defining “ intentionally ” to mean “with respect to a result or to conduct described by a statute defining an offense, that a person’s objective is to cause that result or to engage in that conduct”); N.Y. Penal Law § 15.05(1) (McKinney 1965) (“A person acts intentionally with respect to a result or to conduct described by a statute defining an offense when [that person’s] conscious objective is to cause such result or to engage in such conduct.”). Those definitions are not compatible with the State’s understanding of an intentional mens rea that requires no more than proof that the person had an awareness of what he was doing.\n{19} Our related case law does not dissuade us from our interpretation of Section 30-6-l(D)(l). This Court’s interpretation in State v. Schoonmaker of the mens rea for intentional child abuse resulting in great bodily harm is consonant with our interpretation of the mens rea for intentional child abuse by endangerment. 2005-NMCA-012, ¶¶ 25-26, 136 N.M. 749, 105 P.3d 302 {Schoonmaker I), reasoning disavowed on other grounds by Montoy a, 2015-NMSC-010, ¶ 41, rev ’d on other grounds by Schoonmaker II, 2008-NMSC-010, ¶¶ 1, 54, overruled by Consaul, 2014-NMSC-030, ¶ 38. In Schoonmaker I, this Court stated that intentional child abuse resulting in great bodily harm requires “a voluntary act... such as violently shaking a baby, when it is his or her intent, purpose, or conscious object to engage in a harmful act (shake the baby) or to cause the harmful consequence.” 2005-NMCA-012, ¶ 26. Our analysis in Schoonmaker I emphasized the conscious object or intention to act harmfully or cause harm, and the voluntary nature of the underlying actions that cause the harm was de-emphasized. The Schoonmaker I Court’s construction of the mens rea for intentional child abuse resulting in great bodily harm is in harmony with our interpretation of the mens rea for intentional child abuse by endangerment.\n{20} Although both Defendant and the State rely on Montoya, that case does not guide our interpretation of the mens rea for intentional child abuse. 2015-NMSC-010. In Montoya, our Supreme Court stated that intentional and reckless child abuse by endangerment generally do not require separate jury instructions. Id. ¶ 33. That conclusion was grounded in the fact that our Legislature elected equal punishment for child abuse by endangerment committed with any of the three statutorily delineated mental states. Id. Nonetheless, intentional, knowing, and reckless are distinct mental states. Cf. id. ¶ 38 (stating that child abuse resulting in the death of a child under twelve committed recklessly is a lesser-included offense of that act committed intentionally); see also Bailey, 444 U.S. at 404 (noting that recklessness, knowledge, and purpose ascend in level of culpability). The relevant question contemplated by the Montoya Court was not the substance of the mens rea for, specifically, intentional child abuse by endangerment, but whether the Constitution would allow a jury verdict for child abuse by endangerment when committed intentionally, knowingly, or recklessly if the jury was instructed on the requirements of each in a single instruction. 2015-NMSC-010, ¶¶ 32-33. In response to that question, the Montoya Court provided the following guidance:\nin most cases when the abuse does not result in the death of a child under twelve, it is not necessary to specify the defendant's mental state or to provide separate jury instructions for reckless or intentional conduct; evidence that the defendant acted knowingly, intentionally or recklessly will suffice to support a conviction.\n(alteration, emphasis, internal quotation marks, and citation omitted). Id. ¶ 33; cf. Schad v. Ariz., 501 U.S. 624, 632 (1991) (stating that the state can construct statutes allowing juries to convict despite disagreeing about the means/theory of the commission of a crime, including the mens rea, but that power is limited by the due process clause); id. at 649 (Scalia, J., concurring in part and concurring in the judgment) (stating that “it has long been the general rule that when a single crime can be committed in various ways, jurors need not agree upon the mode of commission”). That guidance does not impact this case, where Defendant was charged under one specific mens rea theory and the jury instructed only under that theory. Defendant’s jury did not decide that she was guilty of child abuse by endangerment knowingly, intentionally, or recklessly but, instead, rendered a verdict that Defendant committed intentional child abuse. Thus, Montoya does not speak to the question we face — the mens rea of intentional child abuse, specifically. Neither Montoya nor Schoonmaker I dissuades us from our interpretation of the mens rea for intentional child abuse by endangerment.\n{21} In sum, we conclude that the State’s proposed definition of intentional is moored to the inapplicable common-law general intent/specific intent dichotomy. The Legislature specifically heightened the different mens reas for commission of child abuse by endangerment. See Montoya, 2015-NMSC-010, ¶ 40 (stating that child abuse by endangerment can be committed intentionally, knowingly, or recklessly). Because “[t]he specific-general intent common-law approach does not take into consideration the existence of a heightened mens rea aside from specific intent[,]” Brown, 1996-NMSC-073, ¶ 27 (internal quotation marks omitted), we reject the State’s approach to Section 30-6-l(D)(l). Instead, because the Legislature has provided heightened mens reas in a tiered structure, the definitions of an intentional mental state from the Model Penal Code and other jurisdictions require a conscious objective to cause the proscribed social harm, and the social harm proscribed by the Legislature is the result of endangering a child, we hold that the mens rea for intentional child abuse by endangerment requires a conscious objective to endanger a child.\n{22} Having concluded that the mens rea for intentional child abuse by endangerment requires a conscious objective to endanger the child, we analyze whether there was sufficient evidence to meet that standard.\nSufficiency of the Evidence of the Mens Rea\n{23} In the absence of direct evidence of intent, we look to the circumstantial evidence to determine whether any rational jury could have found beyond a reasonable doubt that Defendant had a conscious objective to endanger the child. See State v. Martinez, 2006-NMSC-007, ¶ 16, 139 N.M. 152 , 130 P.3d 731 (stating that intent may be proven by circumstantial evidence and is often inferred from facts of the case).\n{24} Importantly, the child was strapped into a child seat. That is inconsistent with the conscious creation of a substantial and foreseeable risk to the child. Evidence was presented that Defendant drove poorly, but not in a way that suggested that she was purposely courting danger. Rather, she drove haltingly. No testimony was offered that she swerved at another car or any other target. Nor did the car hitanything. Defendant’s evident intoxication, like her driving, created risk for the child that was well beyond ordinary but that, without more, does not indicate a conscious objective to endanger the child. Nor do we find that the evidence when viewed in combination — Defendant’s poor but not aggressive driving while intoxicated, with a child strapped in a car seat — allows a reasonable inference that Defendant had a conscious objective to endanger the child.\n{25} Perhaps substantial evidence was present to support a mens rea based on recklessness, but such a theory was not charged by the State; thus, the jury was not instructed regarding recklessness nor may we consider it on review. We hold that the evidence was insufficient to support the jury’s verdict that Defendant committed child abuse by endangerment intentionally, because no evidence was presented that it was Defendant’s conscious objective to endanger the child. Accordingly, we reverse Defendant’s conviction. We do not reach Defendant’s argument that she did not endanger the child or Defendant’s other contentions of error.\nCONCLUSION\n{26} We hold that the mens rea for intentional child abuse by endangerment, Section 30-6-(D)(l), requires a conscious objective to endanger a child. There was insufficient evidence that Defendant met that standard. Accordingly, we reverse and remand to the district court with instructions to vacate Defendant’s conviction.\n{27} IT IS SO ORDERED.\nSTEPHEN G. FRENCH, Judge\nWE CONCUR:\nTIMOTHY L. GARCIA, Judge\nJ. MILES HANISEE, Judge\nIn Consaul, our Supreme Court stated that, in the criminal context, “negligent child abuse” should thereafter be labeled “reckless child abuse” without future reference to negligence. 2014-NMSC-030, ¶ 37. We comply with that instruction in this opinion, while acknowledging that the statutory text reads “negligently.”\nGiven that the Legislature chose identical punishment for reckless, knowing, and intentional child abuse by endangerment, the reason that the State chose to exclusively pursue an intentional theory is unclear. See Montoya, 2015-NMSC-010, ¶ 33 (stating that “the Legislature has chosen to punish all types of child abuse the same with respect to the defendant’s mental state”).\nThe United States Supreme Court has pointed out in detail some of the confusion caused by reliance on common law terminology:\nSometimes ‘general intent’ is used in the same way as ‘criminal intent’ to mean the general notion of mens rea, while ‘specific intent’ is taken to mean the mental state required for a particular crime. Or, ‘general intent’ may be used to encompass all forms of the mental state requirement, while ‘specific intent’ is limited to the one mental state of intent. Another possibility is that ‘general intent’ will be used to characterize an intent to do something on an undetermined occasion, and ‘specific intent’ to denote an intent to do that thing at a particular time and place.\nUnited States v. Bailey, 444 U.S. 394, 403 (1980) (internal quotation marks and citation omitted). Our Supreme Court also cautions: “[the] specific-general intent approach has been criticized because it is not always clear whether a particular offense is a specific-intent crime or a general-intent crime[,]” Brown, 1996-NMSC-073, ¶ 23, and importantly, “[t]he specific-general intent common-law approach does not take into consideration the existence of a heightened mens rea aside from specific intent.” Id. ¶ 27 (internal quotation marks and citation omitted).",
+        "type": "majority",
+        "author": "FRENCH, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM Charles J. Gutierrez, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Bennett J. Baur, Chief Public Defender Mary Barket, Assistant Appellate Defender Santa Fe, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, November 15, 2016,\nNo. S-1-SC-36095\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-094\nFiling Date: August 22, 2016\nDocket No. 33,637\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. VERONICA GRANILLO, Defendant-Appellant.\nDaniel Viramontes, District Judge\nHector H. Balderas, Attorney General Santa Fe, NM Charles J. Gutierrez, Assistant Attorney General Albuquerque, NM for Appellee\nBennett J. Baur, Chief Public Defender Mary Barket, Assistant Appellate Defender Santa Fe, NM for Appellant"
+  },
+  "file_name": "1714-01",
+  "first_page_order": 631,
+  "last_page_order": 639
+}

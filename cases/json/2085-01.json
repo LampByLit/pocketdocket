@@ -1,0 +1,1233 @@
+{
+  "id": 4067635,
+  "name": "M.M., Plaintiff, v. T.M., Defendant",
+  "name_abbreviation": "M.M. v. T.M.",
+  "decision_date": "2015-08-10",
+  "docket_number": "",
+  "first_page": "565",
+  "last_page": "596",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 565"
+    },
+    {
+      "type": "parallel",
+      "cite": "17 N.Y.S.3d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "129 AD3d 1154",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4275476
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/1154-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 609",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3967720
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/0609-01"
+      ]
+    },
+    {
+      "cite": "520 US 833",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11653102
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0833-01"
+      ]
+    },
+    {
+      "cite": "118 AD2d 626",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3470009,
+        3475751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/118/0626-02",
+        "/ad2d/118/0626-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 4",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3818643
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0004-01"
+      ]
+    },
+    {
+      "cite": "73 AD3d 1134",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3969995,
+        3973647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/73/1134-02",
+        "/ad3d/73/1134-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 742",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5773729
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/0742-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 1030",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5665091
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1031"
+        },
+        {
+          "page": "1031"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1030-01"
+      ]
+    },
+    {
+      "cite": "525 NE2d 1008",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Ill App 3d 822",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3619120
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/171/0822-01"
+      ]
+    },
+    {
+      "cite": "278 Ga 881",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        3760590
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "882-883"
+        },
+        {
+          "page": "214-215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/278/0881-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. § 407",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "276 Mont 403",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4533822
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "406"
+        },
+        {
+          "page": "742"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/276/0403-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 407",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "592 F.2d 118",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        52979
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "garnishment order may be used to satisfy court ordered family support payments out of pension benefits because such an order is impliedly excepted from the anti-alienation and preemption clauses of ERISA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/0118-01"
+      ]
+    },
+    {
+      "cite": "594 F.2d 314",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512689
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "garnishment of pension fund benefits under plan subject to ERISA due to arrearages in wife and child support obligations was not in conflict with anti-alienation clause of ERISA"
+        },
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/594/0314-01"
+      ]
+    },
+    {
+      "cite": "698 F.2d 688",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1506182
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "employee's interest in benefit plan is subject to garnishment where debt is support obligation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/698/0688-01"
+      ]
+    },
+    {
+      "cite": "434 SE2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "859"
+        },
+        {
+          "page": "860-861"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 NC App 792",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8524049
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "796-797"
+        },
+        {
+          "page": "798-799"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/111/0792-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 300",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355112
+      ],
+      "pin_cites": [
+        {
+          "page": "307-308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0300-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. §§ 662",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b) and (c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "499 F Supp 1109",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        1447328
+      ],
+      "pin_cites": [
+        {
+          "page": "1111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/499/1109-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 659",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        },
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 USC § 8437",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "e"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 USC § 8467",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Va Cir 65",
+      "category": "reporters:state",
+      "reporter": "Va. Cir.",
+      "case_ids": [
+        4187887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-cir/88/0065-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. § 8467",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "462 BR 324",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        4194627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/462/0324-01"
+      ]
+    },
+    {
+      "cite": "31 Misc 3d 945",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3774125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/31/0945-01"
+      ]
+    },
+    {
+      "cite": "224 AD2d 282",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        676623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/224/0282-01"
+      ]
+    },
+    {
+      "cite": "141 Misc 2d 25",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        876155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/141/0025-01"
+      ]
+    },
+    {
+      "cite": "146 Misc 2d 250",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        886780
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/146/0250-01"
+      ]
+    },
+    {
+      "cite": "164 AD2d 975",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1009479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/164/0975-01"
+      ]
+    },
+    {
+      "cite": "208 AD2d 885",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1185280,
+        1184931
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/0885-01",
+        "/ad2d/208/0885-02"
+      ]
+    },
+    {
+      "cite": "223 AD2d 917",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        673589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/223/0917-01"
+      ]
+    },
+    {
+      "cite": "221 AD2d 39",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        663415
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/221/0039-01"
+      ]
+    },
+    {
+      "cite": "230 AD2d 759",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        315941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/230/0759-01"
+      ]
+    },
+    {
+      "cite": "120 AD3d 1395",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4228951
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/1395-01"
+      ]
+    },
+    {
+      "cite": "99 NY2d 395",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        295109
+      ],
+      "pin_cites": [
+        {
+          "page": "401-402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/99/0395-01"
+      ]
+    },
+    {
+      "cite": "2001 US Dist LEXIS 3641",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*33"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2001 WL 310626",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "555 US 285",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679152
+      ],
+      "pin_cites": [
+        {
+          "page": "290-291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/555/0285-01"
+      ]
+    },
+    {
+      "cite": "29 USC § 1056",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 9,
+      "pin_cites": [
+        {
+          "parenthetical": "d"
+        },
+        {
+          "parenthetical": "d"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 NY2d 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418755
+      ],
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0157-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 1255",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4296755
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/1255-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 1286",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4322089,
+        4321427
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/1286-02",
+        "/ad3d/122/1286-01"
+      ]
+    },
+    {
+      "cite": "125 AD3d 527",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4028629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0527-01"
+      ]
+    },
+    {
+      "cite": "2013 US Dist LEXIS 55201",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*5-6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 1681772",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "491 US 617",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217840
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0617-01"
+      ]
+    },
+    {
+      "cite": "36 NY2d 433",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2316975
+      ],
+      "pin_cites": [
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/36/0433-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 365",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3677696
+      ],
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/11/0365-01"
+      ]
+    },
+    {
+      "cite": "2004 NY Slip Op 51150",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 AD3d 737",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/108/0737-01"
+      ]
+    },
+    {
+      "cite": "47 AD3d 931",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3639919
+      ],
+      "pin_cites": [
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/47/0931-01"
+      ]
+    },
+    {
+      "cite": "47 AD3d 293",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3633634
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/47/0293-01"
+      ]
+    },
+    {
+      "cite": "79 AD3d 1046",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3996855
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/1046-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 495",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4234970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0495-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 1253",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4050720,
+        4052930,
+        4056710,
+        4058344,
+        4051320,
+        4054778
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1256"
+        },
+        {
+          "page": "1256"
+        },
+        {
+          "page": "1256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/1253-01",
+        "/ad3d/93/1253-03",
+        "/ad3d/93/1253-06",
+        "/ad3d/93/1253-02",
+        "/ad3d/93/1253-05",
+        "/ad3d/93/1253-04"
+      ]
+    },
+    {
+      "cite": "47 NY2d 515",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4372795
+      ],
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0515-01"
+      ]
+    },
+    {
+      "cite": "996 NE2d 642",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 BR 48",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        168203
+      ],
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/217/0048-01"
+      ]
+    },
+    {
+      "cite": "405 BR 293",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        4088256
+      ],
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/405/0293-01"
+      ]
+    },
+    {
+      "cite": "959 NE2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1283"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 US Dist LEXIS 164917",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*6-7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 5868972",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 F3d 13",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        633584,
+        12147462
+      ],
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/197/0013-01",
+        "/br/242/0013-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 52170",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Misc 3d 1236",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "493 BR 421",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        4179578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/493/0421-01"
+      ]
+    },
+    {
+      "cite": "114 BR 989",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6118303
+      ],
+      "pin_cites": [
+        {
+          "page": "994"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/114/0989-01"
+      ]
+    },
+    {
+      "cite": "875 NE2d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1018"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Ill 2d 277",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        3610449
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/226/0277-01"
+      ]
+    },
+    {
+      "cite": "45 Misc 3d 41",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4268194
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/45/0041-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 465",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355588
+      ],
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0465-01"
+      ]
+    },
+    {
+      "cite": "258 AD2d 165",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 NY Slip Op 51848",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Misc 3d 1129",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 AD2d 845",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3193727
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/74/0845-01"
+      ]
+    },
+    {
+      "cite": "180 AD2d 595",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1073400
+      ],
+      "pin_cites": [
+        {
+          "page": "595-596"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/180/0595-01"
+      ]
+    },
+    {
+      "cite": "2007 US Dist LEXIS 63248",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "970 F Supp 212",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        239108
+      ],
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/970/0212-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50120",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 1219",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 AD3d 686",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3983798
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/75/0686-01"
+      ]
+    },
+    {
+      "cite": "2012 NY Slip Op 50962",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Misc 3d 1231",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 2170,
+    "char_count": 73800,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 6.770845263994211e-8,
+      "percentile": 0.4127545659997938
+    },
+    "sha256": "7ca969583d702be8490dd3fa987b20d170e63044ad67ab3528bc18efa92ff926",
+    "simhash": "1:9cbd248a3e0cb55c",
+    "word_count": 12058
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M.M., Plaintiff, v T.M., Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRichard A. Dollinger, J.\nIn a seemingly interminable battle, a former spouse seeks to collect monies owed by her former husband for maintenance and attorneys fees from two sources: the retainer deposited by her ex-husband with his counsel and certain retirement accounts. The field of combat in this decade-old matter shifts from the well-traveled road of the domestic relations laws and requires a voyage down a road not taken into a hitherto infrequently explored landscape—the rights of former spouses seeking to enforce support judgments under federal and state laws designed to balance the rights of spouses, the sanctity of pensions and the importance of adequate legal counsel.\nThe former wife moves for a garnishment of her former spouse’s Thrift Savings Plan (TSP) and federal employees retirement and to restrain the former spouse from shifting the TSP to payout status. She also seeks a qualified domestic relations order (QDRO) against the husband’s bank pension and federally-sponsored 401(k) plan to recover unpaid maintenance, an order to enforce both the prior and now-requested judgment, a finding of contempt, entry of additional money judgments, compliance with other provisions of the separation agreement, prior court orders and the judgment of divorce and a wage deduction order against any income received by the former spouse. When these matters were brought to the court under an order to show cause, this court temporarily restrained the payments to the husband from the certain federal retirement accounts and savings plans in the husband’s name. In response, the husband initiated a cross motion to deny the requested relief and sought to modify his continuing maintenance obligation on the basis of an “extreme hardship” and further sought to modify the couple’s separation agreement because of alleged ambiguities in several provisions of the agreement.\nIt is undisputed that the wife has two money judgments for unpaid maintenance against the husband in this matter. The judgments total in excess of $80,000. In addition this court awarded the wife $47,351.33 in attorneys fees and costs in December 2012. (M.M. v T.M., 35 Misc 3d 1231[A], 2012 NY Slip Op 50962[U] [Sup Ct, Monroe County 2012].) The total amount owed by the husband to the wife is $118,075.35. According to the wife and in an assertion apparently accepted by the husband without objection, the husband has made no voluntary payments on these arrears. At one point, he filed bankruptcy, a move that the wife contends was designed to avoid a turnover proceeding that the wife commenced against him. All of the money previously collected by the wife for unpaid maintenance derived from an income execution and a qualified domestic relations order issued against the judgment debtor’s share of a pension.\n1. The Restraining Notice against the Retainer Funds\nInitially, the wife, seeking to enforce a judgment for unpaid maintenance, sought out an unusual cache of funds: the retainer deposited by her husband with his attorney to cover his legal fees in this proceeding. The facts are undisputed: the husband retained a local law firm to represent him in response to the order to show cause brought by his wife to collect the unpaid maintenance. As part of the representation, the husband signed a retainer agreement with the law firm and deposited funds with his counsel. The wife’s counsel, upon receipt of a notice of appearance from the husband’s counsel, served a restraining notice on husband’s attorney, restraining any removal of funds from the attorney’s retainer account and seeking its turnover to the wife’s counsel.\nThe arguments from each side are comparatively simple although dissected in detail through more than 40 pages on contentious submissions. The wife, seeking to enforce the restraining notice, argues that CPLR 5222 and 5241 permit the use of this enforcement device. The husband’s counsel argues his client, facing the potential penalties of contempt in response to the wife’s application (among other relief), is entitled to counsel and he seeks the shelter of CPLR 5240 which permits this court to exercise discretion to deny the restraint on the retainer funds because to permit the turnover would cause the husband “extreme hardship.”\nIn considering the wife’s request, the important terms in CPLR 5222 are “person” and “interest.” The statute expressly allows a restraining notice to be issued against any person who holds property in which the debtor has “an interest”:\n“All property in which the judgment debtor or obligor is known or believed to have an interest then in and thereafter coming into the possession or custody of such a person, including any specified in the notice, and all debts of such a person, including any specified in the notice, then due and thereafter coming due to the judgment debtor or obligor, shall be subject to the notice.” (CPLR 5222 [b].)\nAn attorney is a “person” under the statute and the husband’s counsel cannot point to any exception to this broad language which sweeps attorneys out of the general class of “persons” impacted by CPLR 5222. The next obstacle facing the wife is whether the husband has an “interest” in the retainer funds held by his counsel. In support of her claim that the husband still holds an interest in the deposited funds, the wife relies on Potter v MacLean (75 AD3d 686 [3d Dept 2010]). In that case, the husband owed more than $20,000 in arrears under a child support and maintenance order. He paid $15,000 as a retainer to a law firm. To enforce the support obligation, a county support collection unit served a restraining notice on the husband’s attorney regarding the deposited funds. When the law firm moved to quash the restraint, it argued that the funds were necessary to defend the collection action. The Appellate Division, Third Department held that the husband, who had advanced the funds, retained an interest in the funds under CPLR 5222. The court declined to quash the restraining order:\n“funds held by an attorney as a retainer for legal services to be rendered have been found to be subject to a preattachment restraining order . . . Such funds, even if deposited in an escrow account, may be attached as long as they are subject to the judgment debtor’s ‘present or future control,’ or are required to be returned to the judgment debtor if not used to pay for services rendered.” (75 AD3d at 687 [citations omitted].)\nIn this instance, the language of the Third Department in Potter v MacLean—“funds . . . required to be returned to the judgment debtor if not used to pay for services rendered”—directs that if any of the funds, advanced by the husband, are “required to be returned” to the husband from his attorney at the time of the service of the restraining notice, then those “must-be-returned” funds are subject to the restraining notice. Another New York decision echoes the same refrain. In Anderson Kill P.C. v Anderson Kill P.C. (46 Misc 3d 1219[A], 2015 NY Slip Op 50120[U] [Sup Ct, NY County 2015]), the court acknowledged that escrow funds in an attorney’s trust account can be used to satisfy a judgment and cited Potter v MacLean for that proposition. Funds in an attorney’s escrow account or an IOLA account are subject to attachments. (Gala Enters., Inc. v Hewlett Packard Co., 970 F Supp 212, 217 [SD NY 1997]; Securities & Exch. Commn. v Dawson, 2007 US Dist LEXIS 63248, *4 [ED NY, Aug. 27, 2007, No. 06-CV-6360 (JFB)(WDW)] [where a client transfers assets to an attorney in trust, it is beyond doubt that the assets continue to be the property of the client, and that the attorney merely serves as a “custodian” thereof].) Funds deposited as a retainer or used to pay for services after a retainer has been expended are similarly subject to attachment. (Pahlavi v Laidlaw Holdings, 180 AD2d 595, 595-596 [1st Dept 1992] [judgment debtor deposited $50,000 with his attorney after receipt of a restraining order and the Court ordered his law firm to return it].) An even more persuasive precedent is found in Ray v Jama Prods. (74 AD2d 845 [2d Dept 1980]). The Court in that case concluded that the debtor had an interest in property even though the money was not paid to him, but simply paid on his behalf. If the debtor “directly benefitted” from the payment of the restrained money and if the money was utilized to “satisfy his debts and expenses,” he derived a benefit therefrom and his “interest” was sufficient to justify the restraining notice. (Id. at 845-846.) It is only in the case of a party who “retain[s] no interest in the escrowed funds,” that an escrow account is not subject to a creditor’s claims. (Burrell Color, LLC v Burrell, 9 Misc 3d 1129[A], 2005 NY Slip Op 51848[U], *2 [Sup Ct, Monroe County 2005], citing Lang v State of New York, 258 AD2d 165, 171 [1st Dept 1999].)\nThe husband here argues at length that Potter v MacLean does not directly resolve this question: he argues, with some force, that Potter v MacLean simply allows the restraining notice to impact funds intended to pay child support and that the same policy imperatives are not implicated when a judgment for maintenance arrears alone is the object of the restraining notice. The husband cites no authority for this distinction and this court, after diligent search, comes up empty-handed. The Third Department in Potter v MacLean dealt with a meld of child support and maintenance and made no attempt to suggest that either form of support was treated differently when a restraining notice was issued against an attorney’s funds held on behalf of the husband. In this court’s view, the Third Department in Potter v MacLean was addressing the broad issue of court-ordered family support and the ability of a family member—transformed by the former family member’s failure to pay court-ordered support into a judgment creditor—to collect the family’s previously-ordered support. This court declines to find a distinction between the powerful public policy underlying child support collections and the equally powerful policy involved in enforcing maintenance claims. Potter v MacLean never hints at such a distinction and no New York court has ever suggested one. With no other precedents in sight, this court declines to create one. Judgments for child support or maintenance should be accorded the same enforcement rights: no family member, owed funds by a former spouse, should be denied the opportunity to collect those obligations through CPLR 5222 even if the funds are tucked in the delinquent spouse’s attorney’s bank account.\nSecond, the husband argues that the funds deposited with his counsel are his attorney’s and the husband no longer has any interest in the funds. In this respect, the attorney for the husband seeks to apply the seldom-cited holding in Lang v State of New York (258 AD2d 165 [1st Dept 1999]) which concludes that if the debtor has no interest in escrowed funds, any attachment is unenforceable. The holding in Lang v State of New York is distinguishable from this proceeding. In that case, the Court held the debtor had no interest in the escrowed funds, a finding that was fatal to the judgment creditor’s claims. Second, the creditor’s claim against the debtor’s alleged “interest,” even if cognizable, was, the Court concluded, inferior to the interest of the State of the New York, which was holding the funds. (Id. at 170.) In short, Lang v State of New York holds that if the judgment debtor has no interest in the funds or if another creditor has a superior interest, then the subordinate judgment creditor—even if seeking to enforce a support judgment—cannot invade the escrowed funds. This court does not quarrel with that decision, but the facts are different here, as there is no superior interest to defeat the wife’s claim.\nThe next hurdle for the unpaid wife to overcome is the husband’s argument that the attorney holding the funds, by virtue of representation of the husband either before or after the restraining notice is served, has acquired a superior interest in the deposited funds. To resolve this question requires a detailed examination of the nature of the attorney’s retainer agreement. The husband’s attorney acknowledges that his client has a right to a refund of any unearned portion of the deposited fee, if the client terminates the attorney’s representation. The Court of Appeals in Matter of Cooperman (83 NY2d 465, 472 [1994]) noted that the Code of Professional Responsibility reflects this central tenet of an attorney’s fiduciary duty by specifically mandating, without exception, that an attorney “shall not enter into an agreement for, charge or collect an illegal or excessive fee” (DR 2-106 [A] [22 NYCRR 1200.11 (a)]), and upon withdrawal from employment “shall refund promptly any part of a fee paid in advance that has not been earned” (DR 2-110 [A] [3] [22 NYCRR 1200.15 (a) (3)]). In the face of this ethical command to return unearned funds, the husband argues that his payment to his counsel constitutes an “advance payment retainer,” which the New York State Bar Association (State Bar or Bar Association) defines as “a sum provided by the client to the lawyer to cover payment of legal fees expected to be earned during the representation.” (NY St Bar Assn Comm on Prof Ethics Op 816 [2007] [if the payment is intended to cover payment of the legal fees expected to be earned during the representation, it need not have been placed in a client trust account]; Filler v Motta, 45 Misc 3d 41 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2014].) The Bar Association, relying on an earlier opinion, determined that DR 2-110 (A) (3) did not require that any advanced fee be deposited in a client trust account until earned. The Bar Association added that “[although the advance payment retainer is not client property, the client retains an interest in that portion of the retainer that is not yet earned by the lawyer.” (NY St Bar Assn Comm on Prof Ethics Op 816 at 2.) The State Bar, apparently searching for authority for this proposition and finding none in New York, cited to Dowling v Chicago Options Assoc., Inc. (226 Ill 2d 277, 875 NE2d 1012 [2007]) in which the Illinois Supreme Court discussed the differences between a “classic retainer” and a “security retainer,” and the “advance payment retainer.” The Illinois Supreme Court described the latter as a present payment to the lawyer in exchange for the commitment to provide legal services in the future and added that ownership of this retainer passes to the lawyer immediately upon payment. (Dowling v Chicago Options Assoc., Inc., 226 Ill 2d at 287, 875 NE2d at 1018.) The Illinois court in Dowling v Chicago Options Assoc., Inc. relied on an opinion from a bankruptcy court in Illinois, In re McDonald Bros. Constr., Inc. (114 BR 989, 994 [ND Ill 1990]), which held that a debtor had no interest in an advance payment retainer and hence, it was not part of the debtor’s estate. New York bankruptcy courts, applying New York law, have reached the same conclusion. (In re Dewey & Leboeuf LLP, 493 BR 421 [SD NY 2013] [an advance payment retainer could lawfully be commingled with the funds in Dewey’s general operating account and once in that account, Dewey could use the funds in the account for any lawful purpose].) Under New York law, in the absence of “security retainer” being specifically created by agreement, New York treats all such legal fees as an “advance payment retainer.” (Ruberto v DeFilippo, 29 Misc 3d 1236[A], 2010 NY Slip Op 52170[U], *3-4 [Civ Ct, Richmond County 2010].) If the retainer agreement provides that “any balance of the retainer to be refunded to the client,” then the rule that the entire sum in the advance payment retainer is the property of the attorney does not apply. (In re Independent Eng’g Co., Inc., 197 F3d 13, 16 [1st Cir 1999] [internal quotation marks omitted].)\nIn reviewing the retainer agreement between the husband and his counsel in this instance, the agreement provides that\n“the monies given as a retainer will be deposited into a trust account and used for the purpose of providing a fund against which billings will be credited with respect to legal services rendered and disbursements incurred on your behalf. In the event that our services are terminated prior to the use of the monies in said trust account, the balance will be refunded to you.”\nThe agreement adds:\n“In the event that you discontinue our services prior to the disposition of your matter by agreement or judgment of the court, or if this Firm is relieved as your attorneys by court order, any unearned portion of the retainer fee you advanced to this firm, or any unused disbursement fees, shall be refunded to you.”\nIn another portion of the agreement, the same message is conveyed a third time: if the client cancels the agreement, “the balance of the retainer fee, if any, will be promptly refunded to you.” Under these circumstances, the funds deposited by the husband with his attorney are unmistakably a “security retainer.” The agreement provides that the attorney will deposit the funds in his trust account and not immediately place them into his general account. As another court noted after reviewing a similar retainer agreement:\n“the . . . retainer agreement does not describe an earned upon receipt retainer. Instead, the retainer agreement specifies that [the law firm] would draw on the retainer only as the time and services were expended and that any unearned portion of the retainer would be refunded. The agreement also provides that [the law firm] would seek additional advances ‘for future work to be undertaken.’ These undisputed facts support the bankruptcy courts’ conclusion that the [the law firm] Retainer was not earned on receipt, and thus the firm’s property, but rather, an advance against future fees, which remained Debtor’s property.” (In re Glimcher, 2012 WL 5868972, *2, 2012 US Dist LEXIS 164917, *6-7 [D Ariz, Nov. 19, 2012, No. CV-12-01692-PHX-FJM] [citations omitted].)\nBased on these precedents, albeit borrowed from other jurisdictions, the funds deposited by the husband in this case are, at the time of the deposit, owned by the client and not the property of the attorney. (See Hannafan & Hannafan, Ltd. v Bloom, 959 NE2d 1280 [Ill App Ct, 1st Dist 2011] [a security retainer remains the property of the client until the attorney applies it to charges for services actually rendered and since the money belongs to the client, a security retainer must be deposited in a separate client trust account]; In re Mortakis, 405 BR 293, 298 [ND Ill 2009] [pursuant to a security retainer agreement, the funds paid to a lawyer are not present payment for future services as the retainer is applied to pay for services that an attorney exhausts during representation and unlike the general retainer, the funds tendered to the attorney remain the client’s property].) The court in Hannafan & Hannafan, Ltd. v Bloom recognized the potential and otherwise obvious consequence of using a security retainer where the client wishes to hire counsel to represent him or her against judgment creditors.\n“Paying the lawyer a security retainer means the funds remain the property of the client and may therefore be subject to the claims of the client’s creditors. This could make it difficult for the client to hire legal counsel.” (Hannafan & Hannafan, Ltd. v Bloom, 959 NE2d at 1283, citing Dowling v Chicago Options Assoc., Inc.) The court in Hannafan & Hannafan, Ltd. v Bloom added that to qualify as an advance payment retainer, the retainer agreement had to contain specific language:\n“an advance payment retainer agreement. . . must be in writing, refer to an advance payment retainer by name, and disclose ‘where [the retainer] will be deposited, and how the lawyer or law firm will handle withdrawals from the retainer in payment for services rendered.’ Furthermore, the agreement ‘must contain language advising the client of the option to place his or her money into a security retainer’ and ‘advise the client that the choice of the type of retainer to be used is the client’s alone.’ If an attorney will only accept an advance payment retainer before representing a client, ‘the agreement must so state, including the attorney’s reasons therefor.’ It must also ‘set forth the special purpose behind the retainer and explain why an advance payment retainer is advantageous to the client.’ If the agreement does not clearly indicate the parties’ intent, it ‘must be construed as providing for a security retainer.’ ” (Id. at 1283-1284 [citations omitted].)\nIn this case, the funds deposited by the husband into his attorney’s accounts pursuant to the signed retainer agreement in this instance do not meet this test. There is no reference in the retainer agreement to an “advance payment retainer.” The remaining cautions regarding the nature of the funds held by the attorney and relayed to the client regarding the use of the advance payment retainer, cited in Hannafan & Hannafan, Ltd. v Bloom, are not referenced in the agreement. Because the agreement specifically mentions depositing the retainer in trust and makes no reference to an advance payment retainer, this court cannot reach any other conclusion: the payments from the husband to his attorney in this instance are a security retainer, the husband retains an “interest” in those funds and the “interest” is subject to the wife’s judgment for unpaid support. The client and the attorney, by virtue of the terms of their agreement, provided that the funds would remain the property of the client. (In re Gray’s Run Techs., Inc., 217 BR 48, 54 [MD Pa 1997] [counsel and client can agree that a fund transferred to the lawyer represents a prepayment for future legal services, or they can agree that such payment represents security for services to be rendered in the future].) Importantly, even if this court were to construe the retainer agreement in this instance as an advance payment retainer, the Illinois courts, in precedents that would seem to command compliance in family-friendly-support-the-spouse New York, have permitted spouses, having judgments for family-support-related claims, to invade funds held in advance payment retainers. (In re Marriage of Early wine, 996 NE2d 642 [Ill 2013] [advance payment retainer invaded to pay interim counsel fees]; In re Marriage of Blastenbrei, 2013 Ill App [5th] 130034-U [2013] [even advance payment retainers in dissolution cases were subject to disgorgement]; In re Marriage of Tso, 2013 Ill App [2d] 120791-U [2013] [disgorgement from advance payment retainer to pay interim counsel fees].) Under these circumstances, the husband has an interest in the funds held in the attorney’s security retainer and those funds are available to satisfy the wife’s judgment.\nThe next question arises immediately: the husband’s attorney argues that the “earned portion” of deposited fees are the attorney’s property and, hence, only the unearned portion of the deposit, at the time of the service of the restraining notice, are subject to the wife’s claims. The husband’s attorney also suggests that his lien for services provided attaches to the funds as he provides services to the husband and, therefore, the amounts necessary to discharge the attorney’s bills, accumulated on the date the restraining notice is served, are subject to his lien even if the attorney has yet to bill against those funds. However, in this respect, the difference between the security retainer and the advance payment retainer may be crucial. The funds deposited in the security retainer are the client’s funds, subject to the attorney’s earning and charging fees against the account. The funds in the advance payment retainer are the attorney’s property, subject merely to the client’s right to a refund of the unearned portion of the fees. If the deposit sums are the client’s, then the fees do not become the attorney’s property until the attorney, after having invoiced the client, transfers the fees into general account. Even if the attorney is performing services with an expectation that the funds held in a security retainer will be used to pay for those services, title to the deposited funds does not pass to the attorney until after billing for those services. Therefore, even though the attorney has provided services in anticipation of billing against the security retainer, the funds remain the client’s property until such time as the funds are transferred, after billing, into the attorney’s account. If the restraining notice is served in advance of any billing by the attorney against those funds, the entire sum of deposited funds is subject to the restraining notice. In this instance, the husband has an “interest” in any portion of unbilled funds held at the time of the receipt of the restraining notice and those funds, even if earned, are subject to the restraining notice.\nThird, the husband’s attorney argues that his lien interest in the escrowed funds is superior to the wife’s claim for unpaid maintenance. The husband, in this instance, argues that the retainer funds, which are billed against, but not yet transferred into the attorney’s accounts, are subject to the attorney’s lien for services and that the wife, as a judgment creditor, does not have a superior claim to those funds. To say husband’s argument is somewhat untested in New York is an understatement. This court can find no prior precedents to support this novel theory. In the absence of any precedents and the strong policy preference in New York statutory and case law to allow collection of family support funds, this court is unwilling to recognize that the husband’s counsel’s retaining lien holds a superior position when compared to the wife’s claims against the retainer funds on deposit with counsel.\nFor these reasons, the wife’s restraining notice against the husband’s attorney’s accounts is valid and enforceable.\n2. The Request for a Protective Order under CPLR 5240\nDeclaring the deposited fees to be available for the wife, as a judgment creditor, does not complete the analysis, as the husband’s counsel avers. CPLR 5240 permits a court at any time, on its own initiative or the motion of any interested person, to issue “an order denying, limiting, conditioning, regulating, extending or modifying the use of any enforcement procedure” and therefore grants the court substantial authority to restrict the use of the restraining notice in this matter. (CPLR 5240.) This court has broad discretion to regulate the enforcement of a money judgment to prevent unreasonable annoyance, expense, embarrassment, disadvantage, or other prejudice to any person or the courts. (Guardian Loan Co. v Early, 47 NY2d 515, 519 [1979].) In adopting this language as a gloss on the terms of CPLR 5240, the Court in Guardian Loan Co. v Early incorporated into CPLR 5240 the provisions of CPLR 3103 (a), which recites the “unreasonable annoyance, expense, embarrassment, disadvantage, or other prejudice” language operable when a court considers a protective order during discovery. (CPLR 3103 [a].) The Fourth Department has described the intertwined CPLR provisions as “an equitable safety valve” which allows a court to restrain execution or enforcement if unwarranted hardship would otherwise result. (Colonial Sur. Co. v Lakeview Advisors, LLC, 93 AD3d 1253, 1256 [4th Dept 2012] [the decisional process invoked is the balancing of harm likely to result from execution, against the necessity of using that immediate means of attempted satisfaction]; see also Ayyash v Koleilat, 115 AD3d 495 [1st Dept 2014] [describing when great annoyance existed]; Matter of Stern v Hirsch, 79 AD3d 1046 [2d Dept 2010] [unreasonable annoyance or disadvantage]; JPMorgan Chase Bank, N.A. v Motorola, Inc., 47 AD3d 293 [1st Dept 2007] [risk of double-payment as invoking CPLR 5240]; Matter of Jones, 47 AD3d 931, 933 [2d Dept 2008] [no protective order required because applicant failed to demonstrate prejudice to a substantial right]; Barrette v Barrette, 108 AD3d 737 [2d Dept 2013] [CPLR 5240 relief granted because the income execution sought to garnish certain money which did not constitute income as defined by CPLR 5241 (a)].)\n“CPLR 5240 authorizes the Court, ‘in the interest of justice, and in its discretion, to reduce [an] income execution where there would be extreme hardship, taking into consideration the debtor’s requirements, his or her dependents, take-home pay and other relevant factors’ (54 NYJur2d Enforcement and Execution of Judgments § [167]). Each case turns on its own particular facts. To obtain modification of an income execution, the debtor must show substantial hardship and an unfair burden in meeting obligations.” (Nord v Berman, 5 Mise 3d 1002[A], 2004 NY Slip Op 51150[U], *1, *2 [Nassau Dist Ct 2004] [application for protective order under CPLR 5240 denied when movant simply asserts that there “isn’t enough income” and has not established what his financial requirements are, what his take-home pay is, or other relevant factors].)\nIn order to issue a protective order under CPLR 5240, the Fourth Department has required compelling evidence that such prejudice exists. (Colonial Sur. Co. v Lakeview Advisors, LLC, 93 AD3d at 1256.)\nThe evidence in this case, based on the affidavit from the debtor, is insufficient to meet this test. There is no demonstrated evidence of any “extreme hardship” and no evidence of severe financial impact on the debtor husband if the funds are subject to the wife’s restraining notice. The husband baldly asserts that there is such harm, but when push comes to shove, has no extrinsic proof to back up his assertions. There is no evidence of other unpaid creditors or financial hardship to the husband. In the absence of such factual assertions, the court is not inclined to grant any protective order based on an inherent financial harm to the husband.\nIn considering whether to exercise its discretion to issue a protective order, this court may also consider whether the husband has unclean hands. One of the factors that the court is required to consider when considering a protective order under CPLR 5240 is whether “the record supports the . . . contention that [respondents are] attempting to frustrate . . . attempts to collect the money owed to petitioner” by the judgment debtor. (Colonial Sur. Co. v Lakeview Advisors, LLC, 93 AD3d 1253, 1256 [4th Dept 2012].) The wife, in this instance, has previously sought to collect unpaid maintenance and attorneys fees from the debtor husband. This court, in a prior opinion involving this couple, described the husband’s delinquency in his payment obligations. (M.M. v T.M., 35 Misc 3d 1231 [A], 2012 NY Slip Op 50962[U] [Sup Ct, Monroe County 2012].) There is no evidence that the husband has made any voluntary payments on his expanding support arrears. When the husband has self-induced smudges on his hands and the order would even partially insulate him from the long-standing maintenance obligations to which he agreed a decade ago, the court has little inclination to exercise its discretion to grant a protective order under CPLR 5240.\nA final practical consideration influences the court’s exercise of discretion. The husband’s counsel argues that if the wife, owed maintenance, can use the restraining notice to obtain the deposited funds, the husband will be effectively stripped of his right to obtain counsel and contest the underlying judgment or seek to modify it. The husband’s counsel argues that the practical impact of enforcing the restraining order in this case is that any debtor, facing contested claims, may be unable to procure counsel because the creditor can, upon determining that the debtor has retained counsel, restrain turnover of funds deposited with the attorney representing the debtor. If the attorney knows that the retainer funds may end up in litigation or be diverted to the creditor, the attorney will be unlikely to even entertain representing the debtor. Even if a former spouse has a valid basis to modify a support judgment, he or she may be foreclosed from proving their claim if the unpaid or—as this husband claims—overpaid spouse, upon learning of the payor spouse’s retention of counsel, serves a restraining notice on the payor spouse’s counsel. This argument makes abundant practical real-life sense, but the husband’s counsel cannot point this court to any legal justification to deny the use of the restraining notice in the family-support context in which this matter arises.\nThe husband adds that his need for a protective order is amplified because he has a right to counsel as a result of a potential finding of contempt for failure to pay according to the judgment and prior court orders. (Matter of Jung [State Commn. on Jud. Conduct], 11 NY3d 365, 373 [2008].) The seizure of his retainer funds from his attorney defeats that right, he argues. In response, the wife suggests that there is no statutory or decisional authority supporting this claim. Both sides acknowledge that there is no constitutional right to counsel in a matrimonial action in New York. (Matter of Smiley, 36 NY2d 433, 439 [1975].) This court can find no direct precedents on the exact question posed in this matter, but instead, it borrows the logic and persuasiveness of federal court decisions in which defendants have argued that the government seizure of forfeited funds defeats their right to counsel. The United States Supreme Court has held otherwise. (Caplin & Drysdale, Chartered v United States, 491 US 617 [1989], cited in United States v Schwab, 2013 WL 1681772, *2, 2013 US Dist LEXIS 55201, *5-6 [WD NY, Apr. 17, 2013, Nos. 05-CR-6161L, 12-CV-6537L, Larimer, J.] [“(i)n essence, these (Supreme Court) cases stand for the proposition that a defendant does not have the right to use illegally obtained funds to finance his defense. . . . (T)he Government has an important and legitimate right to obtain recovery of all forfeitable assets from a defendant who is guilty of crimes that resulted in ill-gotten gains”].) This court acknowledges that the forfeiture of funds under federal criminal laws and the attachment of retainer funds deposited with the husband’s counsel in this matter are not equivalent transactions. But, the logic underlying the federal decisions on forfeiture and the right to counsel— that the failure to make the client’s funds available for the client’s defense because the funds are subject to the rights of another—is applicable here. The fact that the wife can intercept these funds does not defeat the husband’s right to counsel. Furthermore, the fact that the husband would divert funds, otherwise available to satisfy his wife’s support judgment, to his attorney allows the husband to decide, unilaterally, who gets paid first—his attorney or his ex-wife. Faced with a strong statutory and common-law obligation to enforce a support judgment, this court is not inclined to give the husband the choice on who to pay first by granting a protective order against the wife’s retraining notice.\nFinally, this court is also cognizant, as the husband’s counsel eloquently predicts, that denial of a protective order in this matter may result in future defendants in support enforcement proceedings being bombarded with restraining notices, leaving most defendants in such circumstances without access to counsel and discouraging attorneys from taking such cases. This prediction has merit: what is predicted as “may-come-to-pass” may be made “much-more-likely-to-come-to-pass” as a result of this court’s decision. But, the remedy—a limitation of restraining notices based on support judgments against advance fees paid to attorneys to defend the payor from such claims—involves a balancing of substantial rights of creditors and obligations of debtors that are spelled out in detail in article 52 of the CPLR. Any re-balancing of those rights and obligations in the context of family support obligations and attorneys fees, in this court’s view, is best left to the legislature. For these reasons, a protective order is denied.\n3. Modification of Maintenance\nThe husband also moves to modify the maintenance obligations in the separation agreement, arguing that he faces extreme hardship. His former wife argues that he failed to timely submit a statement of net worth, an omission that precludes this court even considering his request. (Karg v Kern, 125 AD3d 527 [1st Dept 2015] [court correctly denied the part of defendant’s motion seeking a downward modification of the support award since defendant failed to attach a statement of net worth]; Rech v Rech, 122 AD3d 1286 [4th Dept 2014].) While the lack of the statement of net worth would justify denial on a procedural basis and perhaps permit a later refiling of this claim, this court denies the modification outright, based on the papers before the court. While the husband alleges that his income may be impacted in the future, that he has substantial health issues that have prevented him from working, that he was, at the time of the application, on “sick leave” from his federal employment, that he faces retirement in the near future and that the consequence of the continuing maintenance obligation is impacting his finances, there is none of the telltale evidence that this court would expect if such a circumstance existed. There is no evidence of increased debts, unpaid obligations or even a suggestion of a substantial rollback of his lifestyle. There are no sworn statements from physicians or other healthcare practitioners, nothing from the employer confirming the details substantiating his condition. In short, there is insufficient evidence of extreme hardship to justify a modification of maintenance or even for that matter a hearing on that question. The request for a modification is denied.\n4. Modification of the Separation Agreement\nThe former husband also asserts an argument to rescind the separation agreement, under which the former husband’s maintenance obligation arises. The agreement, he contends, is ambiguous because two articles in the agreement contain, in his estimation, “contradictory” language regarding the maintenance requirement. The rule of construction to be applied to this agreement is simply stated: to interpret a contract, this court must confine itself to the four corners of the document and only consider extrinsic proof if the contract is ambiguous. If the contract is not ambiguous, it must be enforced according to the plain meaning of its terms. (Mid-State Indus., Ltd. v State of New York, 117 AD3d 1255 [3d Dept 2014].) It is a question of law whether a contract is unambiguous. (W.W.W. Assoc. v Giancontieri, 77 NY2d 157, 162 [1990].)\nIn this case, the husband sees several potential complications. First, he argues that maintenance language contains a contradiction between what happens during the husband’s lifetime and thereafter. One provision in the agreement states that if the husband or wife dies, the maintenance shall terminate. The second provision states that if the husband dies first, he “shall make provision” for his wife to receive an amount either from life insurance or his estate so that the total paid to the wife from his pension plans, social security, life insurance or his estate shall equal $800 per week. The provisions cover different factual circumstances. They are not contradictory. The first provides that the maintenance obligation ceases upon the husband’s death. The second article creates a new obligation that extends beyond his life: the obligation to make a “provision” in either his life insurance or his estate to ensure that the wife receives $800 per week after his death. While the different articles refer to different circumstances—the first is the husband’s obligation during life and the second is his continuing obligation through insurance or his estate after his death—those facts, alone, do not make the two provisions “contradictory” or “ambiguous.” Each provision, standing alone, has a distinct meaning, depending on whether the husband is alive or dead. This court declines to read them as “contradictory” and does not find any ambiguity in the use of different offsets for the wife’s maintenance depending on the husband’s life. Similarly, the court finds no legal basis to rescind any portion of this agreement. While the husband argues that its provisions may be unfair or onerous, there is no suggestion—or even any shred of evidence—that this decade-old agreement was procured by fraud or undue influence.\n5. QDRO against the Husband’s Federal Pension and 401(k) Plan\nIn this court’s view, a QDRO against the husband’s federal pension and 401(k) plans is clearly warranted. The hand-in-glove approach of parallel federal and state statutes leads to that conclusion. Federal law provides that pensions cannot be assigned or otherwise alienated. (29 USC § 1056 [d] [1].) However, the federal statute—the hand—dictates that this ban on assignment does not apply “if the order is determined to be a qualified domestic relations order.” (29 USC § 1056 [d] [3] [A]; see also Kennedy v Plan Administrator for DuPont Sav. and Investment Plan, 555 US 285, 290-291 [2009] [under 29 USC § 1056 (d) (3), a court order that satisfies certain statutory requirements is known as a QDRO, which is exempt from the bar on assignment or alienation]; Devlin Graphic Indus., Inc. v Lewis, 2001 WL 310626, 2001 US Dist LEXIS 3641 [SD NY, Mar. 30, 2001, No. 00Civ.6665LTSMHD] [if the state court order is indeed a QDRO, it can be enforced against the plan].) The New York Court of Appeals acknowledged this change in the traditional rules that pension funds could not be alienated.\n“[Retirement Equity Act of 1984] largely settled the debate by providing an exception to the anti-alienation provisions of ERISA through the use of a qualified domestic relations order that meets the requirements of 29 USC § 1056 (d) (3) (B)-(E) (see 29 USC § 1056 [d] [3] [A]). In part, a QDRO is defined as a domestic relations order ‘which creates or recognizes the existence of an alternate payee’s right to, or assigns to an alternate payee the right to, receive all or a portion of the benefits payable with respect to a participant under a plan’ (29 USC § 1056 [d] [3] [B] [i] [I]). A QDRO is exempted from ERISA’s preemption provisions and may be used to make dispositions of plan benefits to alternate payees.” (Silber v Silber, 99 NY2d 395, 401-402 [2003] [citations omitted].)\nOther New York courts have followed this lead and expressly held that defaults in child support and maintenance obligations may be enforced by QDROs against pension and retirement plans. (Lundon v Lundon, 120 AD3d 1395 [2d Dept 2014]; Bumstead v Raisbeck, 230 AD2d 759 [2d Dept 1996].) ERISA even goes a step further and permits a QDRO to require payments to an alternate payee to commence before a participant has separated from service, such payments can only be required to commence on or after “the date on which the participant attains . . . the earliest retirement age.” (Devlin Graphic Indus., Inc. v Lewis, 2001 WL 310626, *10, 2001 US Dist LEXIS 3641, *33.)\nIn response, the husband argues initially that the wife’s use of an income execution is outside the scope of CPLR 5241 and cannot be harnessed to collect a judgment for maintenance arrears. The New York courts suggest otherwise. (Matter of Commissioner of Social Servs. of City of N.Y. v Gomez, 221 AD2d 39 [1st Dept 1996]; McKiernan v McKiernan, 223 AD2d 917 [3d Dept 1996] [notwithstanding an order directing the payment of temporary maintenance and child support to plaintiff, defendant made only one payment and thus, pursuant to CPLR 5241 (a) (7), defendant became a debtor in default upon whom an income execution may be served (see CPLR 5241 [b])]; Cohn v Cohn, 208 AD2d 885 [2d Dept 1994] [income executions utilized to collect pendente lite maintenance payments]; Wikso v Wikso, 164 AD2d 975 [4th Dept 1990] [use of CPLR 5241 to collect maintenance]; Matter of Delores C. v Donald T.C., 146 Misc 2d 250 [Fam Ct, Broome County 1989] [income execution order authorized to collect unpaid maintenance]; Mitchell v Mitchell, 141 Misc 2d 25 [Sup Ct, Nassau County 1988] [failure to pay maintenance warrants issuance of an income execution].)\nImportantly, while New York authorizes the use of these enforcement tools, the federal law similarly draws no distinction between arrears and future support. Federal law defines a qualified domestic relations order as including any “judgment . . . which . . . relates to . . . alimony payments.” (29 USC § 1056 [d] [3] [B] [ii] [I].) There is nothing in ERISA which distinguishes between a QDRO for arrears in maintenance—as the judgment in this case represents—and a QDRO for ongoing maintenance payments. Because the federal statute does not differentiate between these two types of QDROs, this court declines to do so. In addition, any differentiation between a QDRO for unpaid arrears and QDRO to assure future payments would be contrary to the federal scheme, which is designed to allow spouses and families to have a privileged status under the law to collect state-mandated support payments from assets that other creditors of the truant spouse cannot access. There is no suggestion that a spouse, who converts the unpaid spousal support to judgment, should be left without access to pension funds, but a spouse, who seeks to assure future payments, is granted such access. For a spouse, the unpaid past obligations—which may leave past expenses unpaid and lead to accumulated debt—are at least as important as the security for the future payments. In this court’s view, the federal statutory scheme was designed to permit families, seeking support from scofflaw spouses through their pension assets, to both obtain recovery of past obligations and secure future payments. In that respect, the federal hand—the QDRO exception to the ERISA anti-alienation rules—fits neatly into the many fingers of the state glove, starting with CPLR 5205 (c) (1). The later provision specifies that trust property—the pension in this instance—is exempt from money judgments except as provided in paragraph (4) of that section. Subdivision (c) (4) of that section expressly provides that the exemption does not bar collection through a “qualified domestic relations order” or any order of maintenance “whether or not such arrears/past due support have been reduced to a money judgment.” In this instance, the money judgment, which the wife seeks to enforce, is indisputably maintenance arrears. A second finger in the state’s glove of remedies further supports the wife’s claim: CPLR 5241 envisions that a judgment for maintenance arrears can be collected from income from a “private pension or retirement program.” (CPLR 5241 [6].)\nThis court notes that the wife does not currently seek to collect the attorneys fees paid for the collection of maintenance through a QDRO at this stage, but in her brief to this court, she suggests such a QDRO is permissible. This court concurs. In Adler v Adler (224 AD2d 282 [1st Dept 1996]), the Court held that the trial court had properly entered a QDRO to aid in enforcement of money judgments for attorneys fees related to compliance with support orders. The fees “relate[d] to the provision of child support” under ERISA and thus a QDRO to collect unpaid legal fees was properly enforceable against retirement assets. (Id. at 283; see also AB v GH, 31 Misc 3d 945 [Sup Ct, NY County 2011].) For these reasons, the wife can utilize a QDRO against the husband’s retirement assets to collect support arrears, ongoing support and attorneys fees.\n6. Collection of the Unpaid Maintenance Judgment from the TSP\nThe wife now seeks execution and turnover of the husband’s entire TSP account which the husband has as a result of his federal employment. The husband argues that his TSP is subject to the anti-alienation provisions of ERISA and the specific statutes creating the TSP. He argues that an attempt to invade these funds—through QDRO, garnishment or other “legal process”—is impermissible because the wife has converted her entitlement into a judgment and that the judgment, even though unmistakably derived from the husband’s failure to pay maintenance, shifts the wife from her more privileged status as a family support creditor into the pool of other judgment creditors, who are barred by federal law from access to the TSP.\nIn most circumstances, funds held in a federal TSP are statutorily protected against assignment or attachment. (In re O’Neal, 462 BR 324 [D Mass 2011].) However, as one court acknowledged, there is an exception to the anti-attachment provisions:\n“The second exception, found in Section 8467, allows TSP to make payments to ‘another person if and to the extent expressly provided for in the terms of . . . any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation . . . ’ 5 U.S.C. § 8467(a). This exception applies only after TSP receives written notice of the decree, order, or other agreement that documents this exception. 5 U.S.C. § 8467(b).” (Van Den Broek v Tang, 88 Va Cir 65, 79 n 6 [Cir Ct, Fairfax County 2014]; see 5 USC § 8467 [a] [1] [any payment to a member “shall be paid (in whole or in part) by the Office or the Executive Director, as the case may be, to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation”].)\n5 USC § 8437 (e) permits enforcement of the individual’s legal obligations to provide child support or make alimony payments as provided in section 459 of the Social Security Act. (See 42 USC § 659.) Importantly, the federal courts have held that an action to enforce a legal obligation through garnishment of an otherwise-federally-protected retirement fund cannot be brought until after that obligation is established by a judgment, order or decree of court. (Lamerand v Lamerand, 499 F Supp 1109, 1111 [CD Cal 1980].) The court noted:\n“This interpretation is strengthened by the definitions of ‘child support’ and ‘alimony’ as used in § 659. 42 U.S.C. §§ 662(b) and (c). Both definitions allow attorney’s fees, interest, and court costs to be satisfied by way of a garnishment action against the United States under § 659 ‘when and to the extent that the same are expressly made recoverable as such pursuant to a decree, order, or judgment issued in accordance with applicable State law by a court of competent jurisdiction.’ (emphasis added). This indicates a congressional intent to waive immunity under § 659 only after a ‘decree, order, or judgment’ has been entered.” (Id. at 1111 n 3.)\nThe court in Lamerand described this inter-working of federal and state law to protect family support payments as Congress’ intent: Congress made provision for a blanket exception to all federal anti-alienation statutes for purposes of child support and alimony payments. (See 42 USC § 659 [a] [“Notwithstanding any other provision of law . . . moneys (the entitlement to which is based upon remuneration for employment) due from, or payable by, the United States ... to any individual . . . shall be subject ... to legal process brought for the enforcement ... of his legal obligations to provide child support or make alimony payments”].) The New York Court of Appeals has long recognized that family support awards are exempt from anti-assignment and anti-alienation statutes. (Kaplan v Kaplan, 82 NY2d 300, 307-308 [1993] [privileged status for access to pension benefits for family support obligations comports with the trend in an increasing number of jurisdictions of recognizing such exemptions from anti-assignment statutes].) The court acknowledged that Congress in 1984 amended the anti-alienation provision of the Employee Retirement Income Security Act (ERISA) by expressly excepting from its application qualified domestic relations orders (29 USC § 1056 [d] [3] [A]). The stated intention of this 1984 amendment was “to remove ERISA as a barrier to recovery of alimony, child support and property settlements.” (Evans v Evans, 111 NC App 792, 796-797, 434 SE2d 856, 859 [1993] [“The majority of jurisdictions confronting this issue concluded that an implied exemption to the anti-assignment provision existed for domestic relation decrees authorizing the transfer of retirement benefits in satisfaction of support obligations. See Tenneco Inc. v. First Virginia Bank of Tidewater, 698 F.2d 688 (4th Cir. 1983) (employee’s interest in benefit plan is subject to garnishment where debt is support obligation); Cody v. Riecker, 594 F.2d 314 (2d Cir. 1979) (garnishment of pension fund benefits under plan subject to ERISA due to arrearages in wife and child support obligations was not in conflict with anti-alienation clause of ERISA); American Tel. & Tel. Co. v. Merry, 592 F.2d 118 (2d Cir. 1979) (garnishment order may be used to satisfy court ordered family support payments out of pension benefits because such an order is impliedly excepted from the anti-alienation and preemption clauses of ERISA)].) For example, in Cody v Riecker (594 F2d 314 [1979]), the Second Circuit Court relied on American Tel. & Tel. Co. v Merry (592 F2d 118 [1979]), which upheld a garnishment of an ERISA regulated pension plan to enforce a post-divorce judgment for alimony and child support payments. The Cody court stated that “it may not be necessary to distinguish, in the ERISA context, between garnishments to enforce family support orders and spousal property settlements.” (Cody v Riecker, 594 F2d at 316.) Other state courts have reached the same conclusions as their federal cousins. (See In re Marriage of Triggs, 2011 Wash App LEXIS 1997, *37-38 [Aug. 25, 2011, No. 28489-1-III] [other states reviewing the issue have relied upon 42 USC § 659 (a)—an exception to the anti-assignment clause of the Social Security Act (42 USC § 407 [a])] which allows benefits to be garnished for the payment of child support or maintenance obligations—as permitting maintenance awards from federal benefit payments, including Social Security benefits]; Evans v Evans, 111 NC App 792, 798-799, 434 SE2d 856, 860-861 [1993] [concluding that 42 USC § 407 (a) does not bar a maintenance award of Social Security benefits because of the exception provided in section 659 (a)]; In re Marriage of Mikesell, 276 Mont 403, 406, 916 P2d 740, 742 [1996] [recognizing that “legal process brought for the enforcement of a party’s legal obligations to provide child support or make maintenance payments is a specific exception to the broad exemption from garnishment provided to social security benefits by 42 U.S.C. § 407”]; cf. Lanier v Lanier, 278 Ga 881, 882-883, 608 SE2d 213, 214-215 [2005] [holding that Railroad Retirement Act benefits may constitute the source of alimony payments under federal law]; In re Marriage of Flory, 171 Ill App 3d 822, 525 NE2d 1008 [1988] [recognizing that 42 USC § 659 (a) contains an exception to the Railroad Retirement Act’s anti-assignability clause with regard to a legal obligation to make alimony payments].)\nIn rejecting these exceptions to the anti-alienation rules, the husband argues that the wife’s judgment has lost its character as alimony or maintenance, as the judgment does not provide for periodic payments. The judgment requires payment of a lump sum: not the periodic payments that characterize alimony or maintenance. However, to this court, this argument misses the premise of the congressional decision to protect payments to spouses and children. The federal statute and regulations can only be read to allow enforcement of a state court judgment for arrears in maintenance. In essence, Congress said that it would only allow judgments, confirmed and approved by the state courts after any objections by the participant to their amount or legal justification, to be used to collect sums from TSP accounts. In this fashion, an important principle of federalism is preserved: Congress allowed federal benefit funds to be subject to involuntary transfer to a nonparticipant in the fund, but only if state courts had determined, after due process (service, notice and the opportunity for a hearing), that the fund’s participant was liable for these specific family support obligations.\nIn addition to these judicial pronouncements indicating that the TSP is subject to both qualified retirement benefits order and garnishment for enforcement of family support obligations, the Code of Federal Regulations expressly anticipates such enforcement tools against the TSP. (5 CFR part 1653, subpart B [“Legal Process for the Enforcement of a Participant’s Legal Obligations to Pay Child Support or Alimony Currently”].) “Legal process” is defined as “process in the nature of a garnishment, which is brought to enforce a participant’s legal obligations to pay child support or alimony.” (5 CFR 1653.11 [b].) The judgment in this case, which seeks unpaid maintenance, is “legal process” within the definition of this section and the regulations permit the judgment to be utilized to garnish the assets in the TSP account.\nWhile these sources strongly suggest that the garnishment or attachment for unpaid maintenance applies against the TSP, the final straw that breaks this camel’s back is a publication of the federal TSP, available online. The publication entitled “Court Orders and Powers of Attorney” is available online (https://www.tsp.gov/PDF/formspubs/tspbkll.pdf). The booklet opens with the following: “This booklet explains how a TSP account can be divided in an action for divorce, annulment, or legal separation, or garnished to satisfy a participant’s past-due alimony or child support obligations.” (Court Orders and Powers of Attorney at 1, available at https://www.tsp.gov/PDF/ formspubs/tspbkll.pdf.) The booklet adds: “A TSP account can be garnished with a writ, order, summons, or other similar document in the nature of a garnishment that is brought to enforce a participant’s child support or alimony obligation.” (Id. at 8.) In short, the abundance of case law, statutory directions and federal regulations merely solidify what the TSP’s own booklet states in clear and certain terms. The TSP is subject to garnishment and other “legal process” to pay “past-due alimony”—or maintenance obligations.\nIn conclusion, even if converted to a judgment, the unpaid alimony—or maintenance in New York—can be the basis for a garnishment of the former husband’s TSP account. It is inconceivable that the distinction pressed by the husband’s counsel—however empathically—in this case warrants distinguishing this judgment for unpaid maintenance from the congressional policy favoring the rights of family members, who rely on a TSP participant for support, to recover unpaid sums. To hold otherwise would leave the TSP as a form of federal retirement benefit immune from the claims of family creditors. The participant would be entitled to favor his own retirement needs over the court-ordered support of his family. The court declines to support such an outcome, one that Congress never intended and no court, reviewing the federal statutes, rules and advisory materials, could justify. Recognizing the husband’s ability to store funds—otherwise available to pay his wife court-ordered maintenance—in a TSP account would circumvent the entire congressional goal of upholding support obligations and reduce the wife to a role of a run-of-the-mill creditor that ill-befits her privileged-under-law status as the husband’s ex-wife. The husband’s TSP is subject to the wife’s enforcement of her maintenance judgment and she can use the enforcement tools of the CPLR against it.\n7. The Contempt Request\nThe wife also seeks an order for contempt and a fine or incarceration of the husband for failure to pay the maintenance as required by the divorce decree. This court has previously denied the wife’s request for a finding of contempt for the husband’s failure to provide a life insurance requirement under the agreement. (M.M. v T.M., 35 Misc 3d 1231[A], 2012 NY Slip Op 50962[U] [Sup Ct, Monroe County 2012].) To hold the husband in civil contempt, the wife is required to prove by clear and convincing evidence “(1) that a lawful order of the court, clearly expressing an unequivocal mandate, was in effect, (2) that the order was disobeyed and the party disobeying ' the order had knowledge of its terms, and (3) that the movant was prejudiced by the offending conduct.” (Bernard-Cadet v Gobin, 94 AD3d 1030, 1031 [2d Dept 2012].) The New York courts have carefully considered the use of the words “willful” and “willfully” in cases involving civil contempt. (McGrath v McGrath, 85 AD3d 742 [2d Dept 2011]; Katz v Katz, 73 AD3d 1134 [2d Dept 2010].) The Second Department has held that these cases should not be construed to import the element of willfulness into a civil contempt motion made pursuant to Judiciary Law § 753 (A) (3). (Bernard-Cadet v Gobin, 94 AD3d at 1031.) “It is not necessary that the disobedience be deliberate or willful; rather, the mere act of disobedience, regardless of its motive, is sufficient if such disobedience defeats, impairs, impedes, or prejudices the rights or remedies of a party.” (El-Dehdan v El-Dehdan, 114 AD3d 4, 17 [2d Dept 2013].) This court, in considering a finding of contempt, can only conclude that the husband has willfully failed to pay the judgments against him. There is no evidence that he has made any payments on the outstanding judgments. There is undeniable evidence that husband paid a considerable sum to his counsel rather than pay his wife on the judgments. For these reasons, a finding of contempt is required against the husband. As to the penalty, this court declines to order his incarceration, as that step will simply remove him from the work force. The order instead fines him $5,000, a fine that must be paid to the wife within 30 days after entry of the order in this matter. If unpaid, that sum may be added to the maintenance judgment and its recovery sought in the same fashion as those funds and this court will convene an immediate hearing to determine whether additional penalties, up to an including incarceration are necessary in this matter.\n8. The Remaining Claims before the Court\nThe remainder of the wife’s and husband’s claims are more easily analyzed. The husband questions whether the proposed Citibank QDRO is actually a QDRO under Citibank’s rules. Unlike most other decisions that crop up before this court, the answer to that question does rest with this court. Citibank can decide whether the order is a QDRO that operates as a lien against the pension plan. The evidence indicates the Citibank has already pre-approved the QDRO. That determination by the plan administrator, ends the argument, as far as this court is concerned.\nThe wife also argues that the husband has violated the agreement and the terms of a QDRO previously issued by the court. The wife claims the husband has wrongfully deducted payments from the QDRO from his maintenance payments to his wife. The QDRO, referenced by the wife, was written to collect the maintenance arrears, not the ongoing maintenance payments and there is no authorization in the QDRO—or any other agreement—that permits the husband to deduct the payments on the balance of arrears from the wife’s future maintenance payments. The court finds that any offset by the husband from this QDRO is unjustified and the husband is restrained from making any future offsets based on these facts.\nThe wife also argues that the husband has failed to comply with the life insurance provisions in his separation agreement. The agreement requires the husband to either make a bequest in his estate or provide life insurance to make up for any shortfalls between his after-death benefits payable to his wife and the $800 per week that constitutes her maintenance while he is still alive. The husband has never produced evidence that his estate has made such a provision for his wife. When pressed for this information to demonstrate compliance with the insurance requirements as an alternative to the estate bequest, the husband produced a life insurance beneficiary designation which provides that 50% of his life insurance benefits goes to his current domestic partner and the rest goes to his daughter’s supplemental needs trust “and [his wife] as her interest may appear.” This declaration falls far short of the obligation the husband set forth in his separation agreement. It potentially pits the interest of his daughter, the trust beneficiary, and his sons, the trustees of the daughter’s trust, against those of his wife. The court finds that the husband has breached his obligations under the agreement and violated the terms of the judgment of divorce. In regard to this aspect of the application, the husband’s failure to comply is wilful and he is held in contempt. He may purge the contempt by producing evidence of an irrevocable insurance designation for the benefit of the wife or a similar irrevocable estate bequest to fulfill the requirements of the agreement and judgment within 14 days from the issuance of an order incorporating this decision or thereafter, the court will order an immediate hearing on what further penalties should accompany the finding of contempt.\nThe wife is also granted an additional judgment for $3,363 in unpaid maintenance, plus interest at nine percent, a wage deduction order consistent with the request in the wife’s papers. The court declines to require the husband to post an undertaking: the available enforcement devices, granted by this decision, will permit the wife to recoup the unpaid maintenance and obviate the need for an undertaking. The wife is entitled to an order for attorneys fees under Domestic Relations Law § 237 (a) and the court will require her counsel to forward a fee affidavit within 10 days of the receipt of this decision and will award fees after review and comment by opposing counsel.\n9. Conclusion\nThe wife is granted the following relief:\nA. a court order against the TSP and any federal pension held by the husband for recovery of any sums in any current or future judgment for unpaid maintenance;\nB. a further restraining order against the husband moving his TSP into payout or any other status prior to the issuance and effectiveness of the wife’s court order as specified in A. above;\nC. issuance of a QDRO against the husband’s Citigroup pension;\nD. issuance of a domestic relations order against the husband’s FDIC 401(k) plan;\nE. the request for a finding of contempt for failure to pay the arrears in maintenance is granted and the husband is fined $5,000 for failing to comply with the terms of the judgment of divorce;\nF. the request for an order of incarceration is denied without prejudice to a further hearing before this court;\nG. a judgment in the amount of $3,363 in unpaid maintenance with interest from the date of application;\nH. the request for a finding of contempt for failure to comply with the life insurance/estate bequest provisions in the agreement is granted but the finding of contempt may be purged if the husband provides to the wife a sworn statement of compliance with the insurance/estate provisions in the agreement and judgment of divorce;\nI. a wage deduction order for any wages, bonuses, commissions or other remuneration received by the husband hereafter, authorizing a deduction up to 65% of such amounts; and\nJ. an award of attorneys fees to be determined after review of a fee affidavit to be submitted to this court within 10 days after the issuance of this decision and after opposing counsel provides comment thereon within five days after receipt of such affidavit.\nWith respect to the husband:\nA. his request for a modification of the maintenance as set forth in the agreement and judgment of divorce is denied and his application dismissed; and,\nB. his request for modification or partial vacatur of the parties’ separation agreement is dismissed.\n. See Robert Frost, The Road Not Taken, Mountain Interval (1920).\n. As a distraction from the major legal arguments, the parties exchanged arguments that the other side was late in supplying papers or legal briefs to the court. The court declines to give credence to either side in this aspect of the debate: the court has, as a matter of its discretion, considered all the papers on all sides.\n. An IOLA is an account established under the Judiciary Law. (Judiciary Law § 497.)\n. This court acknowledges that Pahlavi v Laidlaw Holdings is not directly on point: the case involved a temporary restraining order that prohibited the judgment debtor from transferring funds to anyone, including his attorneys. However, the court decision holds that the funds, held in the attorney’s retainer account, were the judgment debtor’s funds and not the attorney’s, a conclusion that has relevance to the current dispute.\n. As the wife argues, there is no contention by this debtor that the monies on deposit with his attorney are exempt pursuant to CPLR 5222 and therefore they are subject to the restraining notice and can be used to satisfy the debt. The lack of an exception is evidence, the wife argues, that the legislature intended to make these funds subject to the retraining notice.\n. In his argument, the husband cites Katz v Katz (118 AD2d 626 [2d Dept 1986]) for the proposition that directly contradictory provisions of an agreement may give rise to an ambiguity. This court declines to credit this 29-year-old seldom-cited case, especially as the wife’s counsel notes, there are insufficient facts in the opinion to trace the exact source of the supposed contradictory portions of the agreement.\n. The husband also argues that another provision, which allows the wife’s Social Security benefits to offset her payments from her husband after his death, but does not offset those federal payments during his life, is contradictory. The use of the Social Security offset after the husband’s death is not contradictory: it simply introduces a new offset to the calculation of what the husband’s estate would owe the wife after his death. There is no suggestion that the husband, in agreeing to this provision, regarded the use of a new post-death offset which reduced his estate or life insurance contributions to the wife at that time, as unfair or unjust.\n. In this court’s view, the federal pension and 401(k) are analyzed under the same legal theory and the court’s conclusions regarding the use of a QDRO apply to both retirement options.\n. In seeking to differentiate the statutory rule from the facts in this case, the husband relies on the Supreme Court in Boggs v Boggs (520 US 833 [1997]) in which the Court analyzed testamentary transfers under the anti-alienation rules in community property states. This court declines to read Boggs as defeating the wife’s claim to a QDRO against the pension in this instance.\n. In support of this proposition the wife cites to Matter of Sarfaty v Recine (37 AD3d 609 [2d Dept 2007]). In that decision, the trial court assessed child support arrears and the appeals court held that it properly “docketed a money judgment enforceable through income execution” and cited CPLR 5241. (Id. at 610.) While that case involved child support, the other cases cited above extend the right to the holder of a money judgment for maintenance arrears.\n. Known as the Retirement Equity Act of 1984 (Pub L 98-397, 98 US Stat 1426), Congress created an exception for certain domestic relations orders. In short, section 1056 (d) (3) (A) excepted from anti-alienation domestic relations orders which were determined to be qualified domestic relations orders. (29 USC § 1056 [d] [3] [A].) The House Education and Labor Committee’s intent was to remove the confusion then existing in this area and to remove ERISA as a barrier to recovery of alimony, child support and property settlements.\n. Alimony means “the payment of funds” and includes maintenance and attorneys fees, interest and court costs if “recoverable by qualifying legal process.” (5 CFR 1653.11 [b].)\n. As a further argument to challenge the garnishment against the TSP, the husband argues that if the wife’s garnishment succeeds against the TSP, the husband will be socked with tax consequences. The husband’s argument is based on the legal theory that the wife is only a judgment creditor and hence, when the funds are withdrawn, they will fall into the husband’s annual income. In this court’s view, the wife is not a judgment creditor, but a family support creditor. In addition, this court will not pause to resolve the potential income tax question. Presumably, the individual contributions to the TSP are not subject to tax when made and are taxable when withdrawn. If the husband had timely paid his maintenance, the maintenance payments would have been tax deductible. (Orioli v Orioli, 129 AD3d 1154 [3d Dept 2015].) Having elected to fund his TSP with tax-deferred dollars and not use those dollars to pay his tax deductible maintenance, this court will not change its view on the wife’s access to the TSP solely because of the husband’s potential tax complications. It is a bed he made himself.",
+        "type": "majority",
+        "author": "Richard A. Dollinger, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Francis C. Affronti, Rochester, for plaintiff.",
+      "Charles Inclima, Rochester, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[17 NYS3d 588]\nM.M., Plaintiff, v T.M., Defendant.\nSupreme Court, Monroe County,\nAugust 10, 2015\nAPPEARANCES OF COUNSEL\nFrancis C. Affronti, Rochester, for plaintiff.\nCharles Inclima, Rochester, for defendant."
+  },
+  "file_name": "2085-01",
+  "first_page_order": 589,
+  "last_page_order": 620
+}

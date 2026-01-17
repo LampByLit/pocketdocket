@@ -1,0 +1,536 @@
+{
+  "id": 12298682,
+  "name": "The People of the State of New York, Plaintiff, v. Ian Woods, Defendant",
+  "name_abbreviation": "People v. Woods",
+  "decision_date": "2016-10-14",
+  "docket_number": "",
+  "first_page": "453",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 453"
+    },
+    {
+      "type": "parallel",
+      "cite": "43 N.Y.S.3d 695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2009 NY Slip Op 50336",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Misc 3d 137",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Misc 3d 729",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3784495
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/36/0729-01"
+      ]
+    },
+    {
+      "cite": "136 Misc 2d 1057",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        862496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/136/1057-01"
+      ]
+    },
+    {
+      "cite": "183 Misc 2d 630",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0630-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 1108",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4361089
+      ],
+      "pin_cites": [
+        {
+          "page": "1109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/1108-01"
+      ]
+    },
+    {
+      "cite": "625 F Supp 2d 131",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        5911620
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/625/0131-01"
+      ]
+    },
+    {
+      "cite": "100 Misc 2d 267",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1932534
+      ],
+      "pin_cites": [
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/100/0267-01"
+      ]
+    },
+    {
+      "cite": "1 NY3d 506",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "308 AD2d 402",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        275025,
+        275330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/308/0402-02",
+        "/ad2d/308/0402-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 857",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Misc 3d 8",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1187423
+      ],
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/7/0008-01"
+      ]
+    },
+    {
+      "cite": "40 AD3d 292",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3006120,
+        3009362
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/40/0292-02",
+        "/ad3d/40/0292-01"
+      ]
+    },
+    {
+      "cite": "49 AD3d 642",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3764560
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/49/0642-01"
+      ]
+    },
+    {
+      "cite": "77 AD3d 523",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5745143
+      ],
+      "pin_cites": [
+        {
+          "page": "524"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0523-01"
+      ]
+    },
+    {
+      "cite": "109 AD2d 882",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5651962
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "883"
+        },
+        {
+          "page": "882"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/109/0882-01"
+      ]
+    },
+    {
+      "cite": "270 AD2d 123",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        283349,
+        283923,
+        283365
+      ],
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/270/0123-01",
+        "/ad2d/270/0123-03",
+        "/ad2d/270/0123-02"
+      ]
+    },
+    {
+      "cite": "33 Misc 3d 595",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3777338
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "598"
+        },
+        {
+          "page": "597-598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/33/0595-01"
+      ]
+    },
+    {
+      "cite": "33 AD3d 809",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3764084
+      ],
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/33/0809-01"
+      ]
+    },
+    {
+      "cite": "37 AD3d 1101",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3969254,
+        3969662
+      ],
+      "pin_cites": [
+        {
+          "page": "1102-1103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/37/1101-02",
+        "/ad3d/37/1101-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 1142",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4293092
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/1142-01"
+      ]
+    },
+    {
+      "cite": "36 NY2d 1002",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2317197
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/36/1002-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0523-01"
+      ]
+    },
+    {
+      "cite": "1 NY3d 269",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        1249201
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/1/0269-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 729",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2349737,
+        2348315,
+        2348155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0729-03",
+        "/ny-2d/68/0729-02",
+        "/ny-2d/68/0729-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "2008 NY Slip Op 50814",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Misc 3d 1122",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 NY2d 620",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393163
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0620-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 925",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4433972
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0925-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "230"
+        },
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 259",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557182
+      ],
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0259-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725125
+      ],
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0677-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 810,
+    "char_count": 16127,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2502167114762289
+    },
+    "sha256": "de4c4c8669b8bab137b731dd40ce90ff2fc342ba0981661ff0ce0b52835f9453",
+    "simhash": "1:9304f226e462a8f4",
+    "word_count": 2607
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Ian Woods, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDavid J. Kirschner, J.\nI. Background and Procedural History\nBy an accusatory instrument filed April 28, 2016, the defendant is charged with aggravated harassment in the second degree (Penal Law § 240.30 [4]), criminal mischief (Penal Law § 145.00 [1]), and menacing in the third degree (Penal Law § 120.15).\nThese charges stem from an incident on April 21, 2016, at approximately 5:30 p.m., where the defendant is alleged to have parked his motor vehicle in front of the complainant’s, attempted to open the complainant’s front driver’s side door, and slammed both of his hands against the windows while shouting “open the door.”\nDefendant is further alleged to have then walked to the rear of complainant’s vehicle, where he was observed moving his hands in an upward and downward motion. As he walked away, the complainant observed the defendant holding a sharp object. Immediately after, the complainant noticed that her rear driver’s side tire had been slashed, and the side panel had been scratched.\nIn connection with these alleged events, defendant was arrested on April 29, 2016, and arraigned on this accusatory instrument, at which time he entered a plea of not guilty. Upon the People’s statement of readiness, a motion schedule was set, and the matter was adjourned until May 26, 2016.\nOn May 26, counsel requested additional time to file motions, which was granted. By motion filed June 20, 2016, defendant moved for omnibus relief, and for dismissal of counts one (aggravated harassment in the second degree) and three (menacing in the third degree) as facially insufficient pursuant to Criminal Procedure Law §§ 100.15, 100.40, 170.30 (1) (a), and 170.35 (1) (a).\nOn July 6, 2016, the People, in their opposition to defendant’s motion, conceded that the information was defective as to count one, and moved to dismiss the charge of aggravated harassment in the second degree. Defendant did not move to dismiss the charge of criminal mischief. Additionally, it should be noted that while the People opposed defendant’s motion to suppress physical evidence, defendant did not move for such relief. On July 14, 2016, the matter was adjourned for decision.\nBy decision and order dated September 26, 2016, this court denied defendant’s motion to dismiss the charged offense of menacing in the third degree, and ordered other omnibus relief. This expands that decision.\nII. Facial Sufficiency\nDefendant’s motion to dismiss the charged offense of menacing in the third degree is denied. To be facially sufficient, an accusatory instrument must specify the offense(s) charged, and contain factual allegations of an evidentiary nature that tend to support them (see CPL 100.15 [2], [3]). Such factual allegations, together with any supporting depositions or other accompanying documents, must consist of nonhearsay allegations that provide reasonable cause to believe that the defendant committed the offense(s) charged, which if true, establish each and every element of those charges (see CPL 100.40 [1]; People v Henderson, 92 NY2d 677, 679 [1999]). Sufficiency of an accusatory instrument is a non-waivable jurisdictional defect that requires dismissal if not satisfied (see People v Alejandro, 70 NY2d 133 [1987]).\nEssentially, a facially sufficient accusatory instrument, or information, must provide reasonable cause that the defendant committed the charged offenses, and establish a prima facie case against him. Not surprisingly, it is the People who bear the burden of satisfying these requirements by doing so in the text of the information (see People v Jones, 9 NY3d 259, 261 [2007]). To be sure, this requirement is neither synonymous with the People’s burden at trial, which requires proof beyond a reasonable doubt, nor rises to the level of evidence sufficient to survive a motion for a trial order of dismissal (People v Kalin, 12 NY3d 225, 230 [2009]).\nIn reviewing and evaluating whether the pleaded allegations establish reasonable cause to believe that a person has committed an offense, the court must do so in the light most favorable to the People (see People v Williams, 84 NY2d 925 [1994]; People v Contes, 60 NY2d 620 [1983]; see People v Barona, 19 Misc 3d 1122[A], 2008 NY Slip Op 50814[U], *1 [Crim Ct, NY County 2008]). Moreover, the information “should be given a fair and not overly restrictive or technical reading” (People v Casey, 95 NY2d 354, 360 [2000]). Reasonable cause exists when “evidence or information which appears reliable discloses facts or circumstances ... of such weight and persuasiveness as to convince a person of ordinary intelligence . . . that it is reasonably likely that such offense was committed and that such person committed it” (CPL 70.10 [2]).\nFinally, while mere conclusory allegations are insufficient (People v Dumas, 68 NY2d 729 [1986]), an information sufficient on its face need not articulate every fact necessary to prove the charged allegations (see People v Mills, 1 NY3d 269 [2003]; People v Bello, 92 NY2d 523 [1998]; People v Mayo, 36 NY2d 1002 [1975]). Rather, they need only provide an accused with adequately detailed factual allegations of an evidentiary nature sufficient for a defendant to prepare a defense, and prevent him from being tried twice for the same offense (People v Kasse, 22 NY3d 1142 [2014]; Kalin, 12 NY3d at 230).\nIII. The Accusatory Instrument\nDefendant moves to dismiss the charge of menacing in the third degree (Penal Law § 120.15). A person is guilty of menacing in the third degree when he or she “by physical menace . . . intentionally places or attempts to place another person in fear of death, imminent serious physical injury or physical injury.” (Id.) As such, it is axiomatic that the commission of a physical act, by itself, must be the source of placing a person in fear of imminent injury (see Matter of Daniel M., 37 AD3d 1101, 1102-1103 [4th Dept 2007] [menacing in the third degree supported by grabbing the officer’s flashlight and raising it over his head as if to strike the officer resulting in the officer stepping back while effecting the arrest of another individual]; Matter of Monay W., 33 AD3d 809, 810 [2d Dept 2006] [menacing established by brandishing a knife several feet from the complainant while challenging her to a fight demonstrated an intent to place another person in fear of imminent injury]; People v Morales, 33 Misc 3d 595, 598 [Crim Ct, Richmond County 2011] [throwing ice at the complainant satisfied the element of physical menace]). To be clear, though, physical menace need not involve the use of a weapon (Yvette H. v Michael G., 270 AD2d 123, 123 [1st Dept 2000] [menacing in the third degree supported merely “by the threat and the fright caused by respondent’s unexpected presence, resulting in petitioner’s need to run away”]; Matter of Ramon M., 109 AD2d 882, 883 [2d Dept 1985] [leaping down a flight of stairs with leg extended toward complainant in a karate kick position constitutes physical menace]).\nClearly, then, an accusatory instrument’s factual allegations that consist solely of verbal threats or other offensive comments is jurisdictionally defective, and must be dismissed (Matter of Jaccob S., 77 AD3d 523, 524 [1st Dept 2010] [physical menace was not established by defendant’s offensive and obnoxious comment to “swim back to (his) country”]; Matter of Tanasia Elanie E., 49 AD3d 642 [2008]; Matter of Niazia F, 40 AD3d 292 [1st Dept 2007]; People v Sylla, 7 Misc 3d 8, 10 [App Term, 2d Dept, 2d & 11th Jud Dists 2005], lv denied 4 NY3d 857 [2005] [standing outside complainant’s vehicle, yelling, cursing and threatening to have “people in the neighborhood who would finish the job for him” was insufficient to establish physical menace]; Matter of Akheem B., 308 AD2d 402 [1st Dept 2003], lv denied 1 NY3d 506 [2004]; Matter of Ramon M., 109 AD2d 882, 882 [2d Dept 1985] [waving hand in complainant’s face shouting “(d)on’t disrespect me” failed to sufficiently establish fear of imminent physical injury]; People v Stephens, 100 Misc 2d 267, 268 [Suffolk Dist Ct 1979] [merely stating to complainant that he had a gun, and was going to blow complainant’s head off did not establish physical menace]). But while physical menace requires more than verbal threats or statements, there is no requirement it include them.\nIn their accusatory instrument, the People allege that “the defendant parked and exited his vehicle in front of deponent’s vehicle, a 2015 Infinity QX60, while shouting ‘open the door.’ ” Defendant argues that such allegations fail to constitute physical menace. With this, the court agrees. Indeed, it may not even qualify as threatening or harassing. It is, however, of no consequence; in the menacing context, mere words, threatening or otherwise, serve only to exacerbate, not generate, physical menace.\nThus, the fundamental question remains whether the alleged physical conduct constitutes a physical menace. As Justice William Donnino observes in his practice commentary, “[t]he classical illustration of menacing in the third degree ‘is posed by a person who, with intent to frighten another, points a gun at him which is in fact unloaded though not known by the victim to be so’ ” (William C. Donnino, Practice Commentary, McKinney’s Cons Laws of NY, Book 39, Penal Law § 120.15 at 25 [2009], quoting Denzer and McQuillan, Practice Commentary, McKinney’s Cons Laws of NY, Book 39, Penal Law § 120.15 [1967]). More specifically, Justice Donnino notes that menacing in the third degree is a form of attempted assault. “In a pure menacing situation, there is no injury and thus no assault; nor is there an intent to cause injury and thus no attempted assault.” (Id.) In essence, the intent is to frighten, not necessarily injure. In this context, the consequence to the victim is the fear of injury, which parallels the consequence of an attempted assault and thus subjects the actor to criminal liability for menacing (William C. Donnino, Practice Commentary, McKinney’s Cons Laws of NY, Book 39, Penal Law § 120.15 at 25 [2009]).\nRegarding physical menace, the accusatory instrument alleges that\n“the defendant approached deponent’s vehicle and began to slam both of his hands on deponent’s windows. Deponent further states that defendant pulled deponent’s front driver’s-side door handle and attempted to enter deponent’s vehicle.\n“Deponent further states that defendant walked behind deponent’s vehicle and moved his hands in an upward and downward motion at her vehicle. Deponent further states that when defendant walked away from her vehicle she observed defendant holding what appeared to be a sharp object in his hand. Deponent further states that she then noticed that her rear driver’s side tire had been slashed and was now deflated and that her rear driver’s side panel had been scratched.”\nArguing for dismissal, defendant emphasizes that the allegations he “moved his hands in an upward and downward motion at her vehicle” and “when defendant walked away from her vehicle she observed defendant holding what appeared to be a sharp object in his hand” fail to establish a physical menace. Regardless of whether this court were to accept this argument, counsel conspicuously fails to acknowledge or explain the allegation that before doing so, he approached the driver’s side of complainant’s vehicle (with her seated behind the wheel), slammed both of his hands on the windows, and pulled the front driver’s side door handle. Defendant nevertheless maintains that the conduct ascribed to him in the accusatory instrument neither constituted a “physical menace” nor reasonably placed the complainant in fear of imminent physical injury. This court disagrees.\nAs noted, the crime of menacing requires a reasonable fear of an imminent danger; that is, the perceived danger must be immediate (Holley v County of Orange, NY, 625 F Supp 2d 131 [SD NY 2009]). Assessing whether the defendant’s conduct constitutes a physical menacing such that it results in imminent fear of injury necessitates an objective evaluation (see Morales, 33 Misc 3d at 597-598). Thus, throwing items at the complainant, shoving her, and threatening to “kick [her] ass” constituted a physical menace (Matter of Arita v Goodman, 132 AD3d 1108, 1109 [3d Dept 2015]), while spitting and using racial epithets did not because spitting could not result in physical, let alone serious physical, injury (People v Carlson, 183 Misc 2d 630 [Crim Ct, NY County 1999]). And, whether the physical conduct may itself be, or at the least incorporate, offensive physical contact is irrevelant to the analysis. Rather, the physical act must cause the complainant to reasonably fear imminent serious physical injury—the operative word being “imminent.” So, exposing the handle of a holstered gun without removing it as a way of demonstrating an intent to use it in the future was insufficient because the fear of harm was not imminent (People v Vazquez, 136 Misc 2d 1057 [Crim Ct, NY County 1987]). Similarly, pushing the complainant before threatening to shoot her in the head failed to constitute an act of physical menace because even though the gun and ammunition were recovered from the defendant’s residence, they were not with the defendant when he pushed her. Thus, any fear of injury could not have been imminent (People v Martini, 36 Misc 3d 729 [Crim Ct, NY County 2012]).\nIn a less conventional case, physical menacing was established where defendants cornered the complainants inside their vehicle by parking in front of it, exiting, and pulling on the door handle while demanding that they get out (People v Martucci, 22 Misc 3d 137[A], 2009 NY Slip Op 50336[U] [App Term, 2d Dept, 9th & 10th Jud Dists 2009]). Similarly, the accusatory instrument here alleges defendant parked his motor vehicle in front of the complainant’s, pulled on the front driver’s side door handle, and shouted “open the door.” Virtually identical to Martucci, these factual allegations sufficiently establish both a physical act and the threat of imminent harm. Being barricaded in her vehicle with nowhere to go and no place to hide while defendant attempted to gain entry could reasonably have placed the complainant in fear of imminent harm. Although such allegations sufficiently establish physical menace, defendant is further alleged to have slammed both of his hands against the windows. Had there been any doubt as to sufficiency, this surely removed it.\nConsequently, defendant’s claim that the allegation he moved his hands in an upward and downward motion at the rear of complainant’s vehicle with what was subsequently observed to be a sharp object (resulting in a slashed tire and rear panel scratched) fails to establish a physical menace is unpersuasive. That said, it is inconceivable that such conduct did not contribute to the fear of imminent physical injury he is alleged to have previously instilled in the complainant. And, as noted, menacing requires neither an injury nor an intent to cause injury—only an intent to frighten. And here, the information sufficiently alleges that the defendant did.\nIV. Conclusion\nThe People need not allege every conceivable fact, the precise extent of the complainant’s fear of physical injury, or the manner in which they intend to prove such fear at trial. All they must do is allege facts that establish the defendant engaged in physical conduct reasonably understood to have instilled fear of imminent harm to the complainant. Viewing the accusatory instrument in the light most favorable to the People, this court finds that the allegations contained in the information, if proved at trial, sufficiently establish the charge of menacing in the third degree. Defendant’s motion to dismiss the accusatory instrument as facially insufficient is therefore denied.",
+        "type": "majority",
+        "author": "David J. Kirschner, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Legal Aid Society (.Felicia Leak of counsel) for defendant.",
+      "Darcel D. Clark, District Attorney (Cadesby Cooper of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[43 NYS3d 695]\nThe People of the State of New York, Plaintiff, v Ian Woods, Defendant.\nCriminal Court of the City of New York, Bronx County,\nOctober 14, 2016\nAPPEARANCES OF COUNSEL\nLegal Aid Society (.Felicia Leak of counsel) for defendant.\nDarcel D. Clark, District Attorney (Cadesby Cooper of counsel), for plaintiff."
+  },
+  "file_name": "2539-01",
+  "first_page_order": 441,
+  "last_page_order": 448
+}

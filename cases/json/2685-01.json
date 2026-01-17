@@ -1,0 +1,253 @@
+{
+  "id": 12434310,
+  "name": "In the Matter of Raquan W., a Person Alleged to be a Juvenile Delinquent, Respondent",
+  "name_abbreviation": "In re Raquan W.",
+  "decision_date": "2017-02-10",
+  "docket_number": "",
+  "first_page": "636",
+  "last_page": "641",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 636"
+    },
+    {
+      "type": "parallel",
+      "cite": "47 N.Y.S.3d 659"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "711 P2d 1156",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10425887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/711/1156-01"
+      ]
+    },
+    {
+      "cite": "518 NW2d 587",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10621488
+      ],
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/518/0587-01"
+      ]
+    },
+    {
+      "cite": "283 Wis 2d 145",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8893836
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/283/0145-01"
+      ]
+    },
+    {
+      "cite": "42 Misc 3d 595",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4055630
+      ],
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/42/0595-01"
+      ]
+    },
+    {
+      "cite": "16 AD3d 246",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        804941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/16/0246-01"
+      ]
+    },
+    {
+      "cite": "35 AD3d 740",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3729522,
+        3733836,
+        3735674
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/35/0740-03",
+        "/ad3d/35/0740-02",
+        "/ad3d/35/0740-01"
+      ]
+    },
+    {
+      "cite": "5 AD3d 694",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        86097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/5/0694-01"
+      ]
+    },
+    {
+      "cite": "112 AD2d 86",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3427930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/112/0086-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319108
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0173-01"
+      ]
+    },
+    {
+      "cite": "87 Misc 2d 644",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1895150
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/87/0644-01"
+      ]
+    },
+    {
+      "cite": "72 AD2d 699",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3164877
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/72/0699-01"
+      ]
+    },
+    {
+      "cite": "89 AD2d 589",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3299915,
+        3289253
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/89/0589-02",
+        "/ad2d/89/0589-01"
+      ]
+    },
+    {
+      "cite": "15 NY2d 72",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0072-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 685,
+    "char_count": 11868,
+    "ocr_confidence": 0.735,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25628694954802383
+    },
+    "sha256": "38d33d1fcb0d673a96f5a8741e4500f7867a970ce88b97d88e4ae824a301e8d3",
+    "simhash": "1:155a512af2e986bf",
+    "word_count": 1934
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Raquan W., a Person Alleged to be a Juvenile Delinquent, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nErik S. Pitchal, J.\nBy petition dated December 5, 2016, the respondent Raquan W., age 14, is charged with juvenile delinquency, in that on or about July 9, 2016, he is alleged to have committed acts which, if committed by an adult, would have constituted petit larceny and criminal possession of stolen property in the fifth degree. The presentment agency gave notice to respondent of its intention to introduce a statement he made to law enforcement on or about July 19, 2016, in its case-in-chief against him at fact-finding. Respondent moved to suppress this statement pursuant to People v Huntley (15 NY2d 72 [1965]), and on February 3, 2017, the matter was referred to the undersigned for a Huntley hearing.\nThe record at the Huntley hearing consisted of the credible testimony of Detective Omar Medina; presentment agency (P.A.) exhibit 1 (a DVD recording); P.A. exhibit 2 (a certified transcript of the DVD recording); and P.A. exhibit 3 (signed juvenile Miranda warnings form). Based on the record, the court finds beyond a reasonable doubt that the statement Raquan gave to law enforcement on the evening of July 19, 2016, was made knowingly, voluntarily, and intelligently, and is thus admissible at fact-finding.\nRaquan was brought into an interview room at the 81st Precinct at approximately 11:20 p.m. by Detectives Medina and Paray. The room was an empty space, containing a table and chairs. It was well lit and had an observation window. Additionally, it contained a videotaping system, with three working cameras recording the entire interaction. There was no one in the room until the Detectives brought Raquan and his stepfather Joseph B. into the room. No one else came into the room during the questioning. There were no loud noises or distractions evident on the recording; it was just four people sitting around a table, talking.\nUnquestionably, the respondent was subject to custodial interrogation. By Detective Medina’s own testimony, the respondent was “in custody,” and from exhibit 1 it is quite evident that the Detectives were asking him questions, not only about the incident that is the subject of this case, but about another incident as well. However, according to the credible testimony of Detective Medina, questioning did not begin until Mr. B. arrived and gave his consent. The first thing Detective Medina did once the parties were settled in the interview room was to read, word for word, the juvenile Miranda warnings. For each of the six warnings, Raquan verbalized his understanding, and wrote “yes” in the relevant spot on the form (RA. exhibit 3). Both Raquan and Mr. B. signed the Miranda form at 11:24 p.m., which is consistent with the time stamp on the recording.\nPrior to the interrogation, Raquan had been held in the 81st Precinct’s juvenile room. Once Mr. B. arrived and gave his consent for Raquan to be questioned, Detective Medina escorted Raquan from the juvenile room to the above-described interview room. The reason for this was that the interview room had a videotaping system, whereas the juvenile room did not.\nBased on the recording and the accompanying transcript, as well as the credible testimony of Detective Medina, the court finds that the interrogation was free of coercion, force, threat, or bribery. Raquan was aided by the presence of Mr. B., whom he referred to as “Dad” and who identified himself as Raquan’s father, despite the lack of an actual blood relationship. Mr. B. offered the child counsel and advice during the questioning. Though it was late at night, and Raquan began the questioning appearing tired, he perked up and remained alert and cooperative throughout the interaction with the Detectives. Nothing about the interrogation suggests that the statement it produced by Raquan was anything other than voluntary.\nNotwithstanding the objective voluntariness of the statement, the attorney for the child raises two arguments for why, as a matter of law, the statement must be deemed involuntary and thus suppressed at trial. First, he argues that Detective Medina misread Miranda warning number five in a material way, thus rendering it defective and the ensuing statement involuntary. The wording of the fifth warning on the juvenile Miranda form is:\n“If you do not have an attorney available, you have the right to remain silent until you have had the opportunity to consult with one. That means if you want a lawyer but a lawyer is not here right now, we will wait to speak with you until a lawyer can get here. Do you understand?” (P.A. exhibit 3 [emphasis added].)\nHowever, according to the certified transcript, what Detective Medina said was:\n“If you do not have an attorney available, you have the right to remain silent until you have had the opportunity to consult with one. That means if you want a lawyer but a lawyer is not here right now, we will speak with you until a lawyer can get here. Do you understand?” (P.A. exhibit 2 at 3.)\nTo resolve this discrepancy, the court reviewed the recording (P.A. exhibit 1) again carefully. It was clear to the court that Detective Medina did in fact read the juvenile Miranda form word for word, including the critical words “wait to,” and that the transcript is incorrect. Because Detective Medina read the juvenile Miranda warning properly, the court rejects the Attorney for the Child’s first argument, and need not address what legal import, if any, an incorrect reading of the warning would have had in this case.\nThe Attorney for the Child’s second argument is that Raquan’s statement was involuntary as a matter of law because he was interrogated in a room at the 81st Precinct other than the designated juvenile room. Family Court Act § 305.2 provides, in relevant part, that after notifying a parent or other person legally responsible for the child’s care, a police officer shall:\n“forthwith and with all reasonable speed take the child directly, and without his first being taken to the police station house, to the family court located in the county in which the act occasioning the taking into custody allegedly was committed, unless the officer determines that it is necessary to question the child, in which case he may take the child to a facility designated by the chief administrator of the courts as a suitable place for the questioning of children or, upon the consent of a parent or other person legally responsible for the care of the child, to the child’s residence and there question him for a reasonable period of time.” (Family Ct Act § 305.2 [4] [b] [emphasis added].)\nRules of court provide the standards by which the Chief Administrator designates areas to be suitable for the questioning of juveniles. (See Uniform Rules for Fam Ct [22 NYCRR] §205.20 [c], [d].)\nMoreover, Family Court Act § 344.2 expands the definition of a statement that is taken “involuntarily,” and that cannot be introduced at trial, to include any statement that is taken “in violation of” section 305.2. (Family Ct Act § 344.2 [2] [b] [iii].) In support of his contention that a per se violation of these statutory provisions renders a statement involuntary, the Attorney for the Child cites Matter of Alvin H. (89 AD2d 589 [2d Dept 1982]) and Matter of Anthony E. (72 AD2d 699 [1st Dept 1979]); while the holdings in these cases are not directly on point, the implication of each is that absent strict compliance with the relevant statutes, a juvenile’s inculpatory statement should be suppressed. (See also Matter of Matthew F., 87 Misc 2d 644 [Fam Ct, Monroe County 1976]; cf. Matter of Emilio M., 37 NY2d 173 [1975] [forgiving lack of strict compliance only because judicial officials had not designated any juvenile facility].)\nHowever, since 1985, courts have altered the analysis of violations of sections 305.2 and 344.2 to take a more pragmatic and less dogmatic view. (Matter of Luis N., 112 AD2d 86 [1st Dept 1985].) Recognizing that the prophylactic intent of the statutes was to incentivize law enforcement to treat juveniles fairly based on their age, and to question them under conditions less likely to intimidate and scare children than an ordinary police house environment, the current governing standard in the law is now whether or not the police “substantially complied” with the statutory mandates. Thus, for example, if the designated juvenile room is unavailable due to fumigation from a lice infection, and if the alternative space used does not affect the voluntariness of the child’s statement, then suppression will be denied. (People v Ellis, 5 AD3d 694 [2004]; see also Matter of Donta J., 35 AD3d 740 [2d Dept 2006]; Matter of Rafael S., 16 AD3d 246 [1st Dept 2005]; Matter of Edwin S., 42 Misc 3d 595, 601 [Fam Ct, Queens County 2013].)\nHere, the interview room where Raquan was interrogated and gave his statement met the key requirements of a designated juvenile room. It was separate and apart from areas used, at that time, by adults; it was an office-like and not jail-like setting; and it was clean, well-lit, and well maintained. (Uniform Rules for Fam Ct [22 NYCRR] § 205.20 [c], [d].) In using it that evening, the Detectives brought Raquan directly from the juvenile room to the interview room, avoiding any mingling with adults. Its one defect was that it had not been officially designated by the Chief Administrator of the Courts as the juvenile room.\" Under the “substantial compliance” test, this defect cannot render Raquan’s statement involuntary under the statute.\nMoreover, the interview room in question here had one benefit that the juvenile room did not: a video recording system. The court had the benefit of reviewing the actual interrogation to assess the overall voluntariness of the child’s statement, as well as to test the credibility of the testifying Detective. Indeed, recording interrogations is the favored, modern practice. (See In re Jerrell C.J., 283 Wis 2d 145, 172, 699 NW2d 110, 123 [2005] [requiring recording of all juvenile interrogations occurring in a law enforcement facility]; 705 Ill Comp Stat 405/5-401.5 [making unrecorded statements of juveniles taken in a police facility presumptively inadmissible]; Chicago Police Dept., Digital Recording of Interrogations, Special Order S04-03-01 [Dec. 30, 2016], available at http://directives. chicagopolice.org/directives/data/a7a57be2-12b3f6c9-62812-b3f8-46f236f41571bdb3.html [requiring recording of all statements made by juveniles under age 15]; State v Scales, 518 NW2d 587, 592 [Minn 1994] [requiring recording of all interrogations occurring in a law enforcement facility]; Stephan v State, 711 P2d 1156 [Alaska 1985] [adopting state constitutional rule of suppression for any statement taken without recording]; Tex Code Crim Proc Ann art 38.22 [3] [requiring recording of all custodial interrogations]; NM Stat Ann § 29-1-16 [same, subject to good cause exception].) Several other states require recording of confessions by all arrestees, adult or juvenile, suspected of violent crimes. (See e.g. Cal Penal Code § 859.5; NJ Rules Crim Prac rule 3:17.) To suppress Raquan’s statement here would risk undermining the practice of recording juvenile interrogations (at least in the 81st Precinct house or any other location where the juvenile room does not have a video system), and would elevate form over substance.\nThe motion to suppress the child’s statement is denied.\nThere is no evidence concerning access to toilet facilities; however, there is no indication that Raquan needed to use the bathroom during the brief time he was interrogated.",
+        "type": "majority",
+        "author": "Erik S. Pitchal, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Robert J. Epstein, Brooklyn, Attorney for the Child.",
+      "Zachary W. Carter, Corporation Counsel, Brooklyn (Bryan Spiro of counsel), for presentment agency."
+    ],
+    "corrections": "",
+    "head_matter": "[47 NYS3d 659]\nIn the Matter of Raquan W., a Person Alleged to be a Juvenile Delinquent, Respondent.\nFamily Court, Kings County,\nFebruary 10, 2017\nAPPEARANCES OF COUNSEL\nRobert J. Epstein, Brooklyn, Attorney for the Child.\nZachary W. Carter, Corporation Counsel, Brooklyn (Bryan Spiro of counsel), for presentment agency."
+  },
+  "file_name": "2685-01",
+  "first_page_order": 660,
+  "last_page_order": 665
+}

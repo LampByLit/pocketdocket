@@ -1,0 +1,843 @@
+{
+  "id": 6787416,
+  "name": "Vincent Jackson, Plaintiff, v. Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP, Defendant",
+  "name_abbreviation": "Jackson v. Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP",
+  "decision_date": "2016-01-12",
+  "docket_number": "",
+  "first_page": "183",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 183"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 N.Y.S.3d 91"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "242 F3d 78",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11124382
+      ],
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/242/0078-01"
+      ]
+    },
+    {
+      "cite": "109 F3d 130",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        833946
+      ],
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/109/0130-01"
+      ]
+    },
+    {
+      "cite": "477 US 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "pin_cites": [
+        {
+          "page": "322-324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "2004 US Dist LEXIS 18685",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*8"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*11"
+        },
+        {
+          "page": "*12"
+        },
+        {
+          "page": "*12"
+        },
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 2075179",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 US Dist LEXIS 92",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*3-4"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 WL 23185",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "735 F2d 8",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        580977
+      ],
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/735/0008-01"
+      ]
+    },
+    {
+      "cite": "2006 US Dist LEXIS 12964",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 F3d 132",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11623124
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/172/0132-01"
+      ]
+    },
+    {
+      "cite": "414 US 190",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715488
+      ],
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/0190-01"
+      ]
+    },
+    {
+      "cite": "503 US 318",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6227709
+      ],
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0318-01"
+      ]
+    },
+    {
+      "cite": "103 F Supp 3d 325",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4360802
+      ],
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/103/0325-01"
+      ]
+    },
+    {
+      "cite": "934 F Supp 625",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3453591
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "628-629"
+        },
+        {
+          "page": "628"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/934/0625-01"
+      ]
+    },
+    {
+      "cite": "93 F Supp 3d 13",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4335335
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "16-17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/93/0013-01"
+      ]
+    },
+    {
+      "cite": "355 F3d 61",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9057766
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/355/0061-01"
+      ]
+    },
+    {
+      "cite": "29 USC §§ 201-219",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 USC § 2611",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "911 F Supp 2d 223",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4290405
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "242"
+        },
+        {
+          "page": "242"
+        },
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/911/0223-01"
+      ]
+    },
+    {
+      "cite": "6 F Supp 3d 294",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4204976
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "315"
+        },
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/6/0294-01"
+      ]
+    },
+    {
+      "cite": "2015 US Dist LEXIS 94620",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 4460968",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 USC § 2615",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 US Dist LEXIS 17655",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 WL 1037868",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "823 F Supp 2d 77",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3962951
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "97"
+        },
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/823/0077-01"
+      ]
+    },
+    {
+      "cite": "72 F Supp 3d 442",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4222912
+      ],
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/72/0442-01"
+      ]
+    },
+    {
+      "cite": "158 FRD 239",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        7849518
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "246"
+        },
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/158/0239-01"
+      ]
+    },
+    {
+      "cite": "976 F Supp 2d 527",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4238732
+      ],
+      "pin_cites": [
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/976/0527-01"
+      ]
+    },
+    {
+      "cite": "2000 US Dist LEXIS 15075",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2000 WL 1528212",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "923 F Supp 460",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7780721
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "470"
+        },
+        {
+          "page": "471"
+        },
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/923/0460-01"
+      ]
+    },
+    {
+      "cite": "952 F Supp 977",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7795254
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "983"
+        },
+        {
+          "page": "983"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/952/0977-01"
+      ]
+    },
+    {
+      "cite": "991 F Supp 105",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        243171
+      ],
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/991/0105-01"
+      ]
+    },
+    {
+      "cite": "109 AD2d 1082",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5651308,
+        5654356,
+        5664694
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1083"
+        },
+        {
+          "page": "1083"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/109/1082-03",
+        "/ad2d/109/1082-01",
+        "/ad2d/109/1082-02"
+      ]
+    },
+    {
+      "cite": "44 AD3d 830",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3220342
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/44/0830-01"
+      ]
+    },
+    {
+      "cite": "72 AD3d 1025",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3964793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/1025-01"
+      ]
+    },
+    {
+      "cite": "82 AD3d 930",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4011877,
+        4012351
+      ],
+      "pin_cites": [
+        {
+          "page": "932"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/82/0930-02",
+        "/ad3d/82/0930-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 494",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4429291
+      ],
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0494-01"
+      ]
+    },
+    {
+      "cite": "30 Misc 3d 497",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3772020
+      ],
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/30/0497-01"
+      ]
+    },
+    {
+      "cite": "45 AD3d 360",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3355274,
+        3364370,
+        3375981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/45/0360-01",
+        "/ad3d/45/0360-02",
+        "/ad3d/45/0360-03"
+      ]
+    },
+    {
+      "cite": "249 AD2d 999",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        709951
+      ],
+      "pin_cites": [
+        {
+          "page": "1000"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/249/0999-01"
+      ]
+    },
+    {
+      "cite": "2005 US Dist LEXIS 42466",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 WL 2647929",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 NY Slip Op 50285",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 1230",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 USC § 2601",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        },
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1185,
+    "char_count": 25007,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 4.89950402824256e-8,
+      "percentile": 0.30841798112554053
+    },
+    "sha256": "0a399a23f77b25fc7cef599936b5ee69d1ebdb68dc97e1bcb4dea20f0befc207",
+    "simhash": "1:b2bd9ac4cd1f26c3",
+    "word_count": 4215
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vincent Jackson, Plaintiff, v Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nKatherine A. Levine, J.\nPlaintiff Vincent Jackson brings this action seeking damages against defendant law firm Abrams, Fensterman, et al. on the grounds that the law firm improperly terminated him as a chauffeur/driver, after he was hospitalized to insert a stent, in violation of the Family and Medical Leave Act (FMLA) (29 USC § 2601 et seq.), the New York State Human Rights Law (State HRL) (Executive Law § 290 et seq.), and the New York City Human Rights Law (City HRL) (Administrative Code of City of NY § 8-101 et seq.). In its amended answer, the law firm denied liability on the grounds that it was not plaintiff’s employer.\nBy decision dated February 26, 2014, this court denied defendant’s original motion for summary judgment as premature on the grounds that plaintiff should have an opportunity to take the deposition of Howard Fensterman so as to resolve the issue of the identity of plaintiff’s employer. (Jackson v Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP, 42 Misc 3d 1230[A], 2014 NY Slip Op 50285[U] [Civ Ct, Kings County 2014].I This court first noted that were it to rely solely on the admissions plaintiff made in his deposition that he was employed by Howard Fensterman (Fensterman) as his personal chauffeur and was not employed by the law firm, summary judgment would be warranted since Fensterman, as an individual, did not employ the requisite number of employees to be covered under any of the anti-discrimination statutes cited by plaintiff. (See Executive Law § 292 [5] [employer must employ minimum of four persons]; Goodwin v Orange & Rockland Util., Inc., 2005 WL 2647929, 2005 US Dist LEXIS 42466 [SD NY, Oct. 14, 2005, No. 04 Civ. 0207 (WCC)].) Furthermore, pursuant to Executive Law § 292 (6), the term “employee” under the State HRL does not include any individual “employed ... in the domestic service of any person.” Although the term “domestic service” is not defined in the State HRL, the legislature never intended to “extend its reach into private homes and to subject private employment relationships of the most personal kind to governmental control.” (Matter of Thomas v Dosberg, 249 AD2d 999, 1000 [4th Dept 1998]; see Matter of Annex Hotel v New York State Div. of Human Rights, 45 AD3d 360 [1st Dept 2007].)\nHowever, this court then ordered a continuance of the motion pursuant to CPLR 3212 (f), as there was a basis in the record for finding that evidence sufficient to defeat the motion might exist and that said facts appeared to lie within the knowledge of the opposing party (i.e., Fensterman). (See Westchester Med. Ctr. v New York Cent. Mut. Fire Ins. Co., 30 Misc 3d 497, 499 [Sup Ct, Nassau County 2010]; Ross v Curtis-Palmer Hydro-Elec. Co., 81 NY2d 494, 506 [1993]; Gardner v Cason, Inc., 82 AD3d 930, 932 [2d Dept 2011]; Gruenfeld v City of New Rochelle, 72 AD3d 1025 [2d Dept 2010]; Martinez v Ashley Apts. Co., LLC, 44 AD3d 830 [2d Dept 2007].) The court directed that plaintiff take the deposition of Fensterman to ascertain the extent of the firm’s involvement with plaintiff.\nSpecifically, this court found that the documents annexed to plaintiff’s attorney’s affirmation raised, “at the bare minimum,” a question as to the firm’s involvement with plaintiff so as to warrant the deposition of its principal Fensterman. Plaintiff annexed his W-2 wage and tax statement listing Abrams, Fen-sterman as his employer, and a “New Member Enrollment Form” from Abrams, Fensterman to Jackson. After Jackson was terminated, the firm covered him under COBRA for 2V2 months until December 31, 2009, and filled out a loss of benefits coverage form. Finally, plaintiff attached a letter dated August 27, 2007 stating that as of October 1, 2007 Fensterman personally would be hiring Jackson and that the law firm would pay him $375 per week plus medical benefits, while Fensterman would pay him $200 a week. The letter further stated that when not working for Fensterman or his family, Jackson would be working for the firm at Lorraine Takesky’s direction.\nDefendant renewed its motion after the deposition of Fen-sterman was taken.\nThe State Human Rights Law\nWhile the State HRL does not define the term “employer” (State Div. of Human Rights v GTE Corp., 109 AD2d 1082, 1083 [4th Dept 1985]), the courts use a four-prong test to determine whether a defendant falls within the ambit of the act. The courts must consider whether the proposed employer (1) had the power of selection and engagement of the employee; (2) paid the salary or wages to the employee; (3) had the power to dismiss the employee; and (4) had the power to control the employee’s conduct (Gryga v Ganzman, 991 F Supp 105, 111 [ED NY 1998]; Bayard v Riccitelli, 952 F Supp 977 [ED NY 1997]; State Div. of Human Rights v GTE Corp., 109 AD2d 1082 [4th Dept 1985]; cf. Robins v Max Mara, U.S.A., Inc., 923 F Supp 460, 470 [SD NY 1996] [in determining whether a defendant is a joint employer under the State and City HRLs, a court must consider whether the defendant: (1) had the power of selection and engagement over the employee; (2) made the payment of salary or wages to the employee; and (3) had the power of dismissal over the employee and the power to control the employee’s conduct]).\nCourts generally treat the State and City HRLs as comparable and apply the same four-prong analysis as to what constitutes an employer under both statutes. (See Gaugaix v Laboratoires Esthederm USA, Inc., 2000 WL 1528212, 2000 US Dist LEXIS 15075 [SD NY, Oct. 13, 2000, No. 98 Civ. 4465 (LMM)] [State and City HRLs are to be analyzed in accord with title VII]; Wang v Phoenix Satellite Tel. US, Inc., 976 F Supp 2d 527, 534 [SD NY 2013]; Max Mara, 923 F Supp at 471; Alie v NYNEX Corp., 158 FRD 239, 246 [ED NY 1994]; State Div. of Human Rights v GTE Corp., 109 AD2d 1082, 1083 [4th Dept 1985]; see Echevarria v Insight Med., PC., 72 F Supp 3d 442, 456 [SD NY 2014] [the City HRL does not so much define what a qualifying employer is as what it is not: it excludes from the term’s reach “any employer with fewer than four persons in his or her employ” (Administrative Code of City ofNY§ 8-102 [5])].)\nWhile none of the factors are dispositive, courts have focused on the central importance of the fourth factor, control over the employee’s conduct and the incidents of his employment (Voltaire v Home Servs. Sys., Inc., 823 F Supp 2d 77, 97 [ED NY 2011]; Bayard v Riccitelli, 952 F Supp 977, 983 [ED NY 1997]; Robins v Max Mara, U.S.A., Inc., 923 F Supp at 470; Alie, 158 FRD at 246; see State Div. of Human Rights v GTE Corp., 109 AD2d 1082 [4th Dept 1985] [while the fact that GTE carried petitioner on payroll and paid her wages and benefits was probative, the most important factor was that GTE possessed and exercised the power of control and reserved the power of dismissal]).\nThis court previously noted that plaintiff admitted in his deposition that he was hired and employed by Abrams, Fensterman, that his working hours and conditions of employment were dictated by Fensterman, and that he was responsible only to Fensterman. Fensterman’s deposition clearly confirmed that Fensterman sought Jackson out to be his personal chauffeur after Jackson had driven Fensterman on a number of occasions as a driver in a car service. Fensterman interviewed Jackson at his home and hired and negotiated Jackson’s hours, wages and terms of employment. While plaintiff correctly points out that the firm did pay part of Jackson’s salary (Fensterman paid $200 in cash weekly and the law firm paid $375 in check weekly) and that the firm also provided medical benefits to Jackson, these factors are not dispositive.\nAs to the third prong of the test — the power of dismissal— Fensterman stated that towards the end of his employment, plaintiff informed him that he was having health problems and that he no longer had the stamina or energy to work long hours (until sometimes 10 p.m.), and that he expressed a desire to resign. Fensterman and his wife began to search for a replacement driver soon after the aforementioned statements. (Fen-sterman deposition at 56, lines 8-17.) Furthermore, Fenster-man stated that although as managing partner of the firm, he had the theoretical power to terminate an employee, he had never actually terminated a firm employee; this task rested with his brother Robert. Given the above, there is no evidence that the law firm played any role in Jackson’s termination.\nAs to the fourth prong — control over the employee’s conduct and the incidents of his employment — it is clear that Jackson’s primary duties were to drive Fensterman back and forth from work and take him to appointments during the work day. At times, Jackson also drove Fensterman’s wife and family to appointments. Fensterman also stated that whenever he went on vacation, Jackson did not have to drive him. Fensterman confirmed that Lorraine Takesky, who is the comptroller of the firm (and also Fensterman’s personal comptroller), merely conveyed instructions or directions to Jackson that emanated from Fensterman. On one occasion, Jackson expressed interest in doing work for the firm as he was bored sitting in the car “[s]o Lorraine gave him documents to photocopy. He didn’t like doing it. And that was the last day he ever worked inside the office.” (Deposition at 41.) As stated previously, courts put greater emphasis on the means of hiring and control rather than the distribution of wages. (Bayard, 952 F Supp at 983; Polidori v Societe Generate Group, NYLJ 113960/05, 2006 NY Misc LEXIS 3787 [Sup Ct, NY County 2006].)\nAs will be discussed infra, Fensterman testified that at times Jackson collected money owed to the firm. However, under the State HRL, the mere fact that an individual performed tasks for the benefit of the corporate entity, without more, is insufficient to support a finding that Jackson worked for the corporate entity (cf. Eaton v Goodstein Mgmt., Inc., 1999 WL 1037868, *8, 1999 US Dist LEXIS 17655, *21 [SD NY, Nov. 10, 1999, No. 97 Civ. 6582 (TPG)] [mere fact that Eaton performed tasks for the benefit of Frost Equities, without more, is insufficient to support a finding of joint employer status]).\nIt is therefore clear that Fensterman, rather than the firm, was plaintiff’s actual employer under the State and City HRLs. This court also finds that as a personal chauffeur to Fenster-man, petitioner performed the type of domestic service excluded from the definition of employee pursuant to Executive Law § 292 (6). Therefore, this court grants defendant partial summary judgment dismissing plaintiff’s claims under both the State and City HRLs.\nFMLA\nPlaintiff also claims that the firm violated the FMLA. (29 USC § 2601 et seq.) The novel question presented by this claim is whether Fensterman was acting as a principal or agent of the firm while employing Jackson. Since plaintiff did not sue Fensterman as an individual, this court must determine whether the firm nonetheless can be deemed to be Jackson’s employer based upon the work that Jackson did for Fenster-man who admittedly was a principal of the firm.\nUnder the FMLA, an employee is entitled, upon return from medical or family leave, to be restored by the employer to the position that was previously held by the employee, or to be restored to an equivalent position. (Voltaire v Home Servs. Sys., Inc., 823 F Supp 2d 77 [ED NY 2011].) The FMLA also protects an employee from unlawful retaliation for exercising his rights under the FMLA. (See 29 USC § 2615 [a] [l].) These entitlements remain in effect even if the employer has replaced the employee or the position has been restructured to accommodate an equivalent position. (Voltaire, 823 F Supp 2d at 90.)\nA person or entity must fall under the definition of an employer in order for it to be liable under the FMLA. (See Tiffany v New York State Veteran’s Home, 2015 WL 4460968, *10, 2015 US Dist LEXIS 94620, *14 [ND NY, Apr. 10, 2015, No. 3:15-cv-0108 (MAD/DEP)]; see also Housel v Rochester Inst. of Tech., 6 F Supp 3d 294, 315 [WD NY 2014]; Singh v New York State Dept. of Taxation & Fin., 911 F Supp 2d 223, 242 [WD NY 2012].) An “employer” is defined under the FMLA as “any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year”; this definition also includes “any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer.” (See 29 USC § 2611 [4] [A] [i]-[ii].)\nThe regulations issued by the Department of Labor interpreting the FMLA note the equivalent definitions of employer under both the FMLA and the Fair Labor Standards Act (FLSA) and that the courts should look to the FLSA (29 USC §§ 201-219) for guidance in construing the term “employer” under the FMLA (29 CFR 825.104 [d]; cf. Zheng v Liberty Apparel Co. Inc., 355 F3d 61, 77 n 15 [2d Cir 2003] [given this identical language, the courts, in determining whether a joint employment relationship exists under FMLA, borrow directly from the FLSA’s joint employment case law]). The regulations also state that “[a]s under the FLSA, individuals such as corporate officers ‘acting in the interest of an employer’ are individually liable for any violations of the requirements of FMLA.” (29 CFR 825.104 [d]; see Noia v Orthopedic Assoc. of Long Is., 93 F Supp 3d 13, 16-17 [ED NY 2015]; Johnson v A.P. Prods., Ltd., 934 F Supp 625, 628-629 [SD NY 1996].)\nCourts have adopted an expansive interpretation of employer with “striking breadth” under the FLSA. (Guobadia v Irowa, 103 F Supp 3d 325, 337 [ED NY 2015], citing Nationwide Mut. Ins. Co. v Darden, 503 US 318, 326 [1992]; Falk v Brennan, 414 US 190, 195 [1973]; see also Herman v RSR Sec. Servs. Ltd., 172 F3d 132, 139 [2d Cir 1999]; Johnson v A.P. Prods., Ltd., 934 F Supp at 628.) The “amorphous definitions” of both employer and employee under the FLSA were intentional, as this is a “remedial” statute, “written in the broadest possible terms” (Hallissey v America Online, Inc., 2006 US Dist LEXIS 12964, *13 [SD NY, Mar. 10, 2006, 99-CIV-3785 (KTD)], citing Carter v Dutchess Community Coll., 735 F2d 8, 12 [2d Cir 1984]). Exemptions from FLSA coverage are “to be narrowly construed against the employers seeking to assert them.” (Hal-lissey at *13-14.)\nThe Second Circuit employs an “economic realities” test under which a number of factors are considered in determining whether an entity is an employer, including whether the alleged employer: (1) had the power to hire and terminate the employee; (2) supervised and controlled the employee’s work schedule or conditions of employment; (3) set the rate and method of payment; and (4) maintained employment records. (See Herman v RSR Sec. Servs. Ltd., 172 F3d at 139; Housel, 6 F Supp 3d at 315; Noia v Orthopedic Assoc. of Long Is., 93 F Supp 3d 13 [ED NY 2015]; Singh, 911 F Supp 2d at 242.) Under the economic realities test, the totality of the circumstances must be considered to “avoid having the test confined to a narrow legalistic definition.” (Herman, 172 F3d at 139; see Astudillo v U.S. News & World Report, 2005 WL 23185, *1, 2005 US Dist LEXIS 92, *3-4 [SD NY, Jan. 6, 2005, No. 02 Civ. 7902 (WHP)].)\nWhile no single factor is controlling (Zheng v Liberty Apparel Co. Inc., 355 F3d 61, 72 [2d Cir 2003]), the overarching consideration is whether the entity “possessed the power to control the worker in question.” (Herman v RSR Sec. Servs. Ltd., 172 F3d 132, 139 [2d Cir 1999]; see Astudillo v U.S. News & World Report, 2004 WL 2075179, 2004 US Dist LEXIS 18685 [SD NY, Sept. 17, 2004, No. 02 Civ. 7902 (WHP)].) This does not require “continuous monitoring of employees, looking over their shoulders at all times, or any sort of absolute control of one’s employees” since control may be restricted, “or exercised only occasionally, without removing the employment relationship.” (Herman v RSR Sec. Servs. Ltd,., 172 F3d at 139.) Day-to-day personnel decisions and the authority to make determinations related to leave under an employer’s own policies or the FMLA are also relevant (Singh v New York State Dept. of Taxation & Fin., 911 F Supp 2d 223, 232 [WD NY 2012]).\nIn the closest case on point to the instant matter, Astudillo v U.S. News & World Report (2004 WL 2075179, 2004 US Dist LEXIS 18685 [SD NY 2004]), the court considered whether a corporate defendant was an “employer” under the FMLA even though the employee was hired to perform domestic services for an individual who owned many corporate entities. Zucker-man, through his executive assistant Osborne, hired plaintiff (Astudillo) to work as his personal assistant and house manager in his private residence. Osborne was both a personal and professional assistant to Zuckerman and received two checks — one from Zuckerman and the other from U.S. News for his work in two capacities. Astudillo admitted that she performed many domestic functions at the private home including “ordering Zuckerman’s medications, fixing fruit bowls, walking his dog, making beds.” (2004 WL 2075179, *1, 2004 US Dist LEXIS 18685, *3.) However, she also maintained that she acted as Zuckerman’s “receptionist by answering his phones, recording messages for him, keeping files of those messages and confirming his schedule.” (2004 WL 2075179, *3, 2004 US Dist LEXIS 18685, *8.) Similar to the instant case, Zuckerman initially paid plaintiff with a personal check but then plaintiff began to receive her paychecks from U.S. News. (2004 WL 2075179, *1, 2004 US Dist LEXIS 18685, *4.) Zuck-erman also asserted that it was “an administrative decision” to pay his household staff from corporate accounts and that he personally reimbursed two of his corporations for his residence staff salaries. (2004 WL 2075179, *1, 2004 US Dist LEXIS 18685, *4.)\nThe court first noted that Zuckerman, and not the corporation, hired and supervised plaintiff. Without ruling on U.S. News’ argument that plaintiff’s maintenance on the corporate payroll was purely ministerial, the court focused on whether U.S. News did, in fact, exercise a degree of control over plaintiff’s employment since plaintiff requested and was granted maternity leave from U.S. News under its family leave policy. (2004 WL 2075179, *3, 2004 US Dist LEXIS 18685, *11.) Furthermore, plaintiff received some of her instructions from Osborne who worked for and was paid by U.S. News. (2004 WL 2075179, *3, 2004 US Dist LEXIS 18685, *12.) These factors led the court to conclude that there were material issues of fact concerning whether U.S. News was her employer under the FMLA. (2004 WL 2075179, *4, 2004 US Dist LEXIS 18685, *12.)\nOn reconsideration, the court again did not pass upon U.S. News’ argument that it played a “purely ministerial role in administering plaintiffs benefits” and thus had no control over the terms and conditions of her employment. (2005 WL 23185, *2, 2005 US Dist LEXIS 92, *4.) Noting that under the “economic realities” test no single factor was determinative (2005 WL 23185, *2, 2005 US Dist LEXIS 92, *5, citing Herman, 172 F3d at 139), the court again accorded weight to the fact that U.S. News had some control over plaintiff’s employment due to its granting plaintiff’s request for maternity leave pursuant to its family leave policy.\nCourts can grant a motion for summary judgment only if “there is no genuine issue as to any material fact.” (2004 WL 2075179, *2, 2004 US Dist LEXIS 18685, *6.) The movant bears the burden of establishing that no genuine issues of material facts exist. (2004 WL 2075179, *2, 2004 US Dist LEXIS 18685, *6, citing Celotex Corp. v Catrett, 477 US 317, 322-324 [1986]; McLee v Chrysler Corp., 109 F3d 130, 134 [2d Cir 1997].) The burden then switches to the nonmoving side to make a sufficient showing that an issue of material fact does exist. (2004 WL 2075179, *2, 2004 US Dist LEXIS 18685, *6.) “The court is required to resolve any ambiguities and to make all reasonable inferences in favor of the nonmoving party.” (2004 WL 2075179, *2, 2004 US Dist LEXIS 18685, *6, citing Flanigan v General Elec. Co., 242 F3d 78, 83 [2d Cir 2001].)\nUnder the economics realities test, a genuine issue of fact still exists as to whether the firm is Jackson’s employer under the FMLA. The record developed to date is not clear as to whether Fensterman always exercised control over Jackson in his capacity as a private entity as opposed to as the principal of the firm. It appears that at least one of the activities that Fensterman had plaintiff perform on the job could be construed as directly accruing to the interest of defendant firm. Fensterman’s primary responsibilities are “running the business affairs of the law firm” and some litigation. Furthermore, Fen-sterman explicitly stated in his deposition that one of his responsibilities as managing partner is to ensure that the firm is paid. He would call clients and if the clients were not paying him he would “literally personally . . . go in my car and pick up a check. So instead of me going to pick up the check. I would tell Lloyd [what he called plaintiff] to go pick up the check for me.” (Deposition at 40-41.) Fensterman then seemed to modify this declaration by stating that “he never ultimately [did this] — there was some contemplation — because he was sitting in his car all day while he was working for me out in front of the building.” (Id.) Additionally, similar to Astudillo case, Fen-sterman transmitted instructions to Jackson at times through Lorraine Takesky who had a dual role at the firm, as both the firm and his personal comptroller.\nAs managing partner, Fensterman apparently did not have to obtain permission from the firm to give Jackson health insurance. Nor did he ever discuss with the partners the financial arrangements he made with Jackson prior to employing him, including that the firm pay part of Jackson’s salary and his health insurance. The court takes at face value Fensterman’s generosity in deciding to have the firm pay part of Jackson’s salary so that Jackson could also be covered by the firm’s medical insurance policy, and also his decision to have Jackson’s health insurance extended under COBRA for 2V2 months. These factors, standing alone, would not make the firm Jackson’s employer. Finally, Fensterman made it clear during his deposition that he has no knowledge as to whether the firm even received a two-page document from the State Department of Labor Unemployment Insurance Division which listed the firm as plaintiff’s employer, much less whether the firm refuted this assertion. Nor did he know who at the firm might have informed the Department of Labor that Jackson had “quit his job.”\nHowever, until the record is clarified as to whether Jackson performed some work for Fensterman in his capacity as managing partner, and whether this work directly benefitted the firm, this court cannot rule on the summary judgment motion seeking dismissal on the ground that the firm is not an employer under the FMLA. As such, this court directs that this matter proceed to a hearing on this narrowly framed issue. At this hearing, the parties shall also clarify who, if anyone, at the firm filled out the Department of Labor Unemployment Insurance Division forms.\n. The court did not address coverage under the FMLA in this decision.\n. Nor could Fensterman be found liable if Jackson solely performed work for him as a personal chauffeur since Fensterman as an individual did not employ 50 or more workers.\n. Section 2615 (a) (1) provides that “[i]t shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.” (Emphasis added.) Section 2615 (a) (2) similarly provides that “[i]t shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.” (Emphasis added.)\n. This court notes that neither party has moved for summary judgment on the ultimate issue of whether defendant violated any of the statutes cited in the complaint. Since this court has already dismissed the State and City HRL claims, only the FMLA claims survive. Only if the court rules, after the hearing, that the firm is an employer under the FMLA will there be a need for either further summary judgment motions and/or a jury trial.",
+        "type": "majority",
+        "author": "Katherine A. Levine, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eis-man, LLP, Brooklyn {Frank Seddio of counsel), and Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP, Rochester {Sharon Stiller of counsel), for defendant.",
+      "Law Office of David Wims, Brooklyn {David C. Wims of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[29 NYS3d 91]\nVincent Jackson, Plaintiff, v Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP, Defendant.\nCivil Court of the City of New York, Kings County,\nJanuary 12, 2016\nAPPEARANCES OF COUNSEL\nAbrams, Fensterman, Fensterman, Flowers, Greenberg & Eis-man, LLP, Brooklyn {Frank Seddio of counsel), and Abrams, Fensterman, Fensterman, Flowers, Greenberg & Eisman, LLP, Rochester {Sharon Stiller of counsel), for defendant.\nLaw Office of David Wims, Brooklyn {David C. Wims of counsel), for plaintiff."
+  },
+  "file_name": "2279-01",
+  "first_page_order": 175,
+  "last_page_order": 186
+}

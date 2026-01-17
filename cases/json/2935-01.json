@@ -1,0 +1,485 @@
+{
+  "id": 12282480,
+  "name": "Jane Doe, Plaintiff, v. Turnmill LLC et al., Defendants",
+  "name_abbreviation": "Doe v. Turnmill LLC",
+  "decision_date": "2017-08-01",
+  "docket_number": "",
+  "first_page": "620",
+  "last_page": "630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 620"
+    },
+    {
+      "type": "parallel",
+      "cite": "63 N.Y.S.3d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "111 AD3d 777",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3746882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/0777-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 485",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3990490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/0485-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 194",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3735701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0194-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3753167
+      ],
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0175-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 492",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4071640,
+        4061773
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0492-02",
+        "/ad3d/118/0492-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 186",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "199-200"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 AD3d 557",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4305768,
+        4298155,
+        4303008
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0557-02",
+        "/ad3d/117/0557-03",
+        "/ad3d/117/0557-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 790",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188571
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0790-01"
+      ]
+    },
+    {
+      "cite": "28 NY3d 469",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        12281519
+      ],
+      "pin_cites": [
+        {
+          "page": "477-478"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/28/0469-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 781",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326415
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "782, 784"
+        },
+        {
+          "page": "785"
+        },
+        {
+          "page": "785-786"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0781-01"
+      ]
+    },
+    {
+      "cite": "97 AD2d 372",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3346757,
+        3359622,
+        3348455,
+        3363562,
+        3344118
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/97/0372-03",
+        "/ad2d/97/0372-01",
+        "/ad2d/97/0372-04",
+        "/ad2d/97/0372-02",
+        "/ad2d/97/0372-05"
+      ]
+    },
+    {
+      "cite": "238 AD2d 257",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1257281,
+        1256899,
+        1256428
+      ],
+      "pin_cites": [
+        {
+          "page": "257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/238/0257-02",
+        "/ad2d/238/0257-03",
+        "/ad2d/238/0257-01"
+      ]
+    },
+    {
+      "cite": "260 AD2d 586",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        893338
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/260/0586-01"
+      ]
+    },
+    {
+      "cite": "191 F Supp 2d 412",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9448321
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "423"
+        },
+        {
+          "page": "425"
+        },
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/191/0412-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 211",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4041931
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/0211-01"
+      ]
+    },
+    {
+      "cite": "74 AD3d 76",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5744847
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/0076-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 69",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5716677
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "75"
+        },
+        {
+          "page": "74-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0069-01"
+      ]
+    },
+    {
+      "cite": "258 AD2d 92",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 NY2d 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189205
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0095-01"
+      ]
+    },
+    {
+      "cite": "131 Misc 2d 414",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        848853
+      ],
+      "pin_cites": [
+        {
+          "page": "414-415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/131/0414-01"
+      ]
+    },
+    {
+      "cite": "248 NY 339",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1905144
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/248/0339-01"
+      ]
+    },
+    {
+      "cite": "58 NY2d 1053",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4388893
+      ],
+      "pin_cites": [
+        {
+          "page": "1055"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/58/1053-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407338
+      ],
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0175-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "pin_cites": [
+        {
+          "page": "87-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "88 AD3d 131",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4029287
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "135"
+        },
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/88/0131-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1022,
+    "char_count": 22656,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24909753425778877
+    },
+    "sha256": "536b21b1c8ff40247ef622fe1df61a419511a1df8bf5f382688f4a8ba14533de",
+    "simhash": "1:8ced862e3eabb808",
+    "word_count": 3699
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jane Doe, Plaintiff, v Turnmill LLC et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nW. Franc Perry, J.\nThis is an action to recover damages for personal injuries allegedly sustained on April 11, 2015 at approximately 7:45 p.m. when plaintiff, a patron of the Turnmill Bar, located at 119 East 27th Street in New York City, was assaulted and raped by Rodney Stover. Defendants Bellevue Men’s Shelter, City of New York, New York City Health & Hospitals Corp. (HHC), New York City Department of Homeless Services and New York City Department of Health and Mental Hygiene (hereinafter municipal defendants) seek an order pursuant to CPLR 3211 (a) (7) dismissing the complaint and cross claims. Defendant Turnmill LLC (hereinafter Turnmill) and. plaintiff oppose the motion.\nIn her notice of claim and complaint, plaintiff alleges that she sustained damages as a result of defendant Turnmill’s breach of its duty to take precautions to protect its lawful patrons from dangerous intruders; plaintiff further alleges that the municipal defendants failed to protect her from a level three violent, predicate sex offender who was residing at the Bellevue Men’s Shelter at the time of this incident. Plaintiff alleges that the municipal defendants knew or should have known that Stover had violent and dangerous propensities and posed a clear threat to others and that municipal defendants’ failure to take reasonable steps to protect plaintiff led to the sexual assault, battery and rape of plaintiff inside the women’s restroom at the Turnmill Bar during prime business hours.\nMunicipal defendants contend that plaintiff fails to state a cause of action; they argue that they were not the owners of the property where plaintiff was assaulted and raped and, therefore, do not owe plaintiff a duty in a proprietary capacity. Municipal defendants contend further that they cannot be liable to plaintiff for failing to protect her from the assault committed by Stover because plaintiff has not alleged facts sufficient to plead a special duty owed to plaintiff. Municipal defendants argue that because they did not have a special relationship with plaintiff, they are not liable to her for the alleged negligent performance of a governmental function and the complaint and any cross claims against them must be dismissed.\nIn opposing the motion, plaintiff contends that she has sufficiently pleaded the necessary allegations to support her negligence claims against the municipal defendants. Plaintiff argues that in allowing known violent sex offenders to reside in a homeless shelter, located in a residential community, without proper monitoring or screening, municipal defendants violated 18 NYCRR 491.4 (b) (1) which provides that an “operator shall not accept, except on an emergency basis, nor retain any person who: (1) causes danger to himself or others or interferes with the care and comfort of other residents.” Plaintiff contends that determination of the issue of whether municipal defendants owed plaintiff a duty of care must await discovery related to whether defendants had actual or constructive notice of Stover’s propensity to harm others while a resident at the Bellevue Men’s Shelter.\nStandard of Review/Analysis\nIn determining a motion to dismiss the complaint for failure to state a cause of action, the court must “accept the facts as alleged in the complaint as true, accord plaintiffs the benefit of every possible favorable inference, and determine only whether the facts as alleged fit within any cognizable legal theory.” (Fox v Marshall, 88 AD3d 131, 135 [2d Dept 2011], citing Leon v Martinez, 84 NY2d 83, 87-88 [1994].)\n“Here, the facts alleged in the complaint clearly elicit a visceral response, and ‘[t]he human desire that there should be some recovery for this tragedy is understandable’ (Eiseman v State of New York, 70 NY2d 175, 185 [1987]). Nevertheless, we cannot allow emotion to govern the determination of legal liability.” (Fox v Marshall, 88 AD3d at 135.)\nNot all injuries are compensable through the tort system and the extent to which liability will be imposed involves a continuing balancing process between\n“the competing policy considerations of providing a remedy to everyone who is injured and of extending exposure to tort liability almost without limit (De Angelis v Lutheran Med. Ctr., 58 NY2d 1053, 1055). The lead case is still the opinion of Judge Cardozo in Palsgraf v Long Is. R. R. Co. (248 NY 339, 341) where he quoted from an earlier decision that, ‘Proof of negligence in the air, so to speak, will not do.’ ” (Knier v Albany Med. Ctr. Hosp., 131 Misc 2d 414, 414-415 [Sup Ct, Albany County 1986] [internal quotation marks omitted].)\nTherefore, before an alleged wrongdoer can be held liable for injury, it must be shown that the alleged wrongdoer breached a duty owed specifically to the injured party, as opposed to the public at large.\nThere is no shortage of cases where jurists have analyzed and grappled with the often-murky issues of “duty of care” and “special relationship” involving a municipal defendant’s liability for violent, criminal acts committed against a third party. In fact, some of the cases analyzing these issues have elicited strong dissenting opinions in both the Court of Appeals and the Appellate Divisions. (See e.g. Lauer v City of New York, 95 NY2d 95 [2000]; Lauer v City of New York, 258 AD2d 92 [2d Dept 1999]; Valdez v City of New York, 18 NY3d 69 [2011]; Valdez v City of New York, 74 AD3d 76 [1st Dept 2010]; Oddo v Queens Vil. Comm. for Mental Health for Jamaica Community Adolescent Program, Inc., 135 AD3d 211 [1st Dept 2015].)\nWhile there are many cases discussing the imposition of liability upon defendants for the violent acts of others, there are few cases that address the liability of homeless shelters or similar facilities for injuries caused by residents to third parties. (See Rivera v New York City Health & Hosps. Corp., 191 F Supp 2d 412 [SD NY 2002] [holding that the complaint failed to allege any facts that would give rise to a duty of care by the homeless shelter, where resident shoved plaintiff, a stranger and nonresident, onto a subway track]; see also Akinwande v City of New York, 260 AD2d 586 [2d Dept 1999] [workers at city-owned homeless shelter could not recover for injuries sustained when attacked by unknown assailants at shelter on theory City failed to provide adequate security because “no special relationship” existed as required where governmental function was implicated].)\nMunicipal defendants contend that plaintiff fails to state a cause of action and the complaint must be dismissed. The court must determine whether municipal defendants owed plaintiff a duty to use reasonable care to ensure that Stover, “a Level-3, sexually violent offender and predicate sex offender,” would not again “commit a violent and/or sexually violent crime.” (Lesser aff in opp, exhibit B, f ¶ 57, 58.)\nAs an initial matter, the claims against New York City Health & Hospitals Corp. are dismissed, as it is a separate and legally distinct entity from the City of New York and may not be considered a City agency. (Matter of Haynes v Guiliani, 238 AD2d 257, 257 [1st Dept 1997] [“(HHC) is an entity separate and distinct from the City of New York with complete autonomy respecting its personnel” (internal quotation marks omitted)]; Williams v City of New York, 97 AD2d 372 [1st Dept 1983].) Additionally, New York City Health & Hospitals Corp. does not own, operate, control, or maintain City shelters or supervise residents in City shelters and, as such, it is not a proper party to this action. (McKinney’s Uncons Laws of NY §§ 7384 [1]; 7385 [5]; 7401 [4] [New York City Health and Hospitals Corporation Act §§ 4 (1); 5 (5); 20 (4) (L 1969, ch 1016, § 1, as amended)].)\nIn order to sustain a cause of action for negligence against the remaining municipal defendants, “it must be shown that the [municipal] defendant [s] owe[d] a duty to the plaintiff”; “[a] duty to prevent such negligence should not be imposed on one who does not control the tort-feasor.” (Pulka v Edelman, 40 NY2d 781, 782, 784 [1976] [citations omitted].) The question of whether someone owes a duty of care to reasonably avoid injury to another is a question of law for the court. (Oddo v Queens Vil. Comm. for Mental Health for Jamaica Community Adolescent Program, Inc., 135 AD3d 211, 214 [1st Dept 2015].)\nPlaintiff’s claims against the municipal defendants implicate a governmental function. “[A] municipality will be deemed to have been engaged in a governmental function when its acts are ‘undertaken for the protection and safety of the public pursuant to the general police powers’ ” (Turturro v City of New York, 28 NY3d 469, 477-478 [2016], quoting Sebastian v State of New York, 93 NY2d 790, 793 [1999]; Stora v City of New York, 117 AD3d 557 [1st Dept 2014]).\nHere, plaintiff claims that her injuries were caused by municipal defendants’ failure to supervise and control Stover and their failure to protect plaintiff from Stover’s criminal acts. (Lesser aff in opp, exhibits A, B.) As such, plaintiff must plead and prove the existence of a special relationship. In other words, “[t]o sustain liability against a municipality, the duty breached must be more than that owed the public generally” (Lauer v City of New York, 95 NY2d 95, 100 [2000]). The Court of Appeals has reasoned that “it [is] necessary to restrict the scope of duty in this manner because the government is not an insurer against harm suffered by its citizenry at the hands of third parties.” (Valdez v City of New York, 18 NY3d at 75.)\nPlaintiff claims that she has sufficiently alleged a special relationship; she claims that defendants were required to monitor, supervise and control Stover, after his admission to Belle-vue Men’s Shelter, thereby creating a special relationship. (Lesser aff in opp, exhibits A, B.) Specifically, she argues that a special duty is owed to her pursuant to the regulatory duties set forth under 18 NYCRR part 491, which governs the operation of adult homeless shelters, and the responsibilities of the shelter operators to protect shelter residents and “others” from harm resulting from the conduct and behavior of dangerous residents, such as Stover.\nA special relationship giving rise to a duty of care can be created in three ways:\n“(1) when the municipality violates a statutory duty enacted for the benefit of a particular class of persons; (2) when it voluntarily assumes a duty that generates justifiable reliance by the person who benefits from the duty; or (3) when the municipality assumes positive direction and control in the face of a known, blatant and dangerous safety violation.” (Pelaez v Seide, 2 NY3d 186, 199-200 [2004]; Valdez v City of New York, 18 NY3d at 74-75.)\nPlaintiff has simply failed to allege any facts sufficient to demonstrate that she had a special relationship with municipal defendants, such that they owed her a special duty.\nAs noted in Rivera v New York City Health & Hosps. Corp., courts that have addressed the liability of homeless shelters for injuries caused by residents to third parties for the most part have found “no liability, holding that shelters and halfway facilities lack the requisite control over residents to warrant the imposition of a duty of care to others.” (191 F Supp 2d at 423 [citations omitted].) The court went on to note that New York courts have not developed a “bright-line rule” which “protects homeless shelters from liability for negligence in failing to control residents who present a substantial threat to others” (id. at 423-424). Rather, the existence of a duty turns on the facts—there must be facts alleged to demonstrate that the shelter exercised control over the residents. (Id.)\nCareful review of the notice of claim and complaint here demonstrates that plaintiff’s allegations are devoid of facts that indicate that municipal defendants exercised control over Stover. Just as the plaintiff in Rivera, here, plaintiff does not allege that the Bellevue Men’s Shelter provided Stover with psychiatric care. Nor does plaintiff allege any facts that would give rise to a duty of care beyond that owed to the general public. (Rivera, 191 F Supp 2d at 425.) The complaint merely alleges that Stover was a resident of the shelter and, as such, municipal defendants had a duty to monitor him to identify abrupt changes in behavior and to supervise or control his conduct to prevent him from harming members of the general public. (Lesser aff in opp, exhibit B, ¶¶ 63, 186-188.) The complaint does not indicate whether the shelter merely provided Stover with a bed and a place to sleep or whether it did more; and whether Stover had any conditions placed upon his residency, which municipal defendants allegedly failed to monitor and/or enforce.\nRather, plaintiff alleges, in conclusory fashion, that\n“Bellevue had the ability to control its residents, including the Assailant, through security staff, its curfew policy, and its individualized approach to programming which included case management, employment training, mental health rehabilitation, specialized services for veterans, and substance abuse treatment, as well as social workers, employment specialists, housing vocational counselors and health coordinators working closely with residents.” (Lesser aff in opp, exhibit B, ¶ 67.)\nThese allegations, even under the most liberal construction and according plaintiff the most favorable inference, are insufficient to demonstrate that municipal defendants owed plaintiff a special duty. The complaint simply fails to allege facts that would suggest that municipal defendants exercised any control over Stover.\nPlaintiff refers to several news articles reporting on other instances of crimes and violent acts committed by shelter residents throughout the City, both inside and out of the shelter facilities, as well as a letter purportedly written by Stover warning his family that he “can’t seem to get this hate out of [his] heart for people.” (Lesser aff in opp, exhibits E, F, G, H, I.) Arguably, plaintiff provides these documents in an attempt to bolster her claim that discovery is necessary to determine the scope of the municipal defendants’ duty and to demonstrate that defendants had actual or constructive notice of Stover’s criminal tendencies. As the Court cautioned in Pulka v Edelman (40 NY2d 781, 785 [1976]), however,\n“[fjoreseeability should not be confused with duty. The principle [of foreseeability] expressed in Palsgraf v Long Is. R. R. Co. (248 NY 339, supra) ... is applicable to determine the scope of duty— only after it has been determined that there is a duty. Since there is no duty here, that principle is inapplicable.” (Emphasis added.)\nThe complaint does not allege facts that would trigger a special duty owed to plaintiff under these circumstances. The complaint simply does not indicate whether Stover was receiving any counseling or psychiatric care; and it does not indicate whether the shelter had standing to seek to involuntarily commit Stover pursuant to the Mental Hygiene Law and, if so, whether it was negligent in failing to do so. (Rivera, 191 F Supp 2d at 425.) There are simply no facts alleged to demonstrate that municipal defendants had any control, whatsoever, over Stover. As such, the complaint does not allege facts sufficient to establish that the municipal defendants owed plaintiff a special duty. (See Lauer v City of New York, 95 NY2d 95 [2000]; Valdez v City of New York, 18 NY3d 69 [2011]; Puello v City of New York, 118 AD3d 492 [1st Dept 2014].)\nNor does plaintiff’s claim that municipal defendants violated regulatory obligations under 18 NYCRR 491.4 (b) (1); 491.8 (f) (1) (iii) and (5) satisfy the pleading requirements sufficient to allege a special relationship through the alleged breach of a regulatory duty.\nPlaintiff claims that 18 NYCRR part 491 mandates a shelter “not accept . . . nor retain any person who causes danger to himself or others,” and that in order to comply with this alleged regulatory mandate, municipal defendants were required to prohibit the retention of a resident that poses a “danger to himself and others.” (Plaintiff’s mem of law at 10-11.) The regulation, however, does not mandate that defendants prevent residents from leaving the shelter, nor does it mandate that the municipal defendants control or monitor a resident’s conduct while he or she is away from the shelter. Accordingly, plaintiff cannot establish a special relationship through the breach of a regulatory duty, when the very provisions she is relying on do not impose a duty upon municipal defendants under these circumstances.\nMoreover, the regulation cited by plaintiff does not authorize a private right of action, nor has plaintiff demonstrated that the regulation was enacted to protect plaintiff’s personal interest. As such, the regulation does not provide an express or implied right of action and is therefore insufficient to establish a special relationship through the breach of a regulatory duty. (Pelaez v Seide, 2 NY3d 186 [2004]; Lauer v City of New York, 95 NY2d 95 [2000].) Our courts have generally declined to imply a private right of action where the governing statute broadly provides for the protection of members of the public at large. (Metz v State of New York, 20 NY3d 175, 180 [2012]; McLean v City of New York, 12 NY3d 194 [2009]; Albino v New York City Hous. Auth., 78 AD3d 485 [1st Dept 2010]; Ferreira v Cellco Partnership, 111 AD3d 777 [2d Dept 2013].)\nPlaintiff attempts to expand the plain regulatory language to encompass an implied right of action that municipal defendants owed her a special duty of care to protect her from the violent, criminal acts of Stover. While she concedes that the court is constrained by the rules of statutory interpretation to ascertain and give effect to the intention of the legislature, she then advances an argument that is plainly inconsistent with the unambiguous language, attempting to amend the regulation by expanding its mandate and proposing an interpretation that creates a duty that simply is not there. Even accepting plaintiff’s argument that she falls within the class of “others” that the regulation refers to, the regulation cannot be read as intending to protect plaintiff specifically, rather than the public at large. (Lauer v City of New York, 95 NY2d 95 [2000].)\nThe regulation cited does not create a mechanism to impose tort liability upon the municipal defendants. Rather, as municipal defendants argue, 18 NYCRR 486.4 imposes administrative penalties on adult care facilities that do not comply with state or local laws or regulations regarding the operation of the facilities. It follows that the Department of Social Services could have provided for a private right of action “against erring government agencies if it found it wise to do so” (.McLean at 201), but it did not. Accordingly, plaintiff has not established that the regulation cited, either explicitly or implicitly, provides for the particular benefit of plaintiff under the facts presented by this case. As such, municipal defendants, as a matter of law, may not be held liable for plaintiff’s alleged injuries as there was no special relationship created vis-a-vis the breach of a regulatory duty.\n“In holding that there is no duty here, it must be stressed that not all relationships give rise to a duty. One should not be held legally responsible for the conduct of others merely because they are within our sight or environs. Neither should one be answerable merely because there are others whose activities are such as to cause one to envision damages or injuries as a consequence of those activities. In this respect, a moral duty should also be distinguished from a legal duty. The former is defined by the limits of conscience; the latter by the limits of law. A person may have a moral duty to prevent injury to another, but no legal duty. While a court might impose a legal duty where none existed before (see, generally, 1A Warren’s Negligence, § 3.13, subd [2], pp 166-167), such an imposition must be exercised with extreme care, for legal duty imposes legal liability.” (Pulka v Edelman, 40 NY2d at 785-786.)\nPlaintiff has alleged that she was an innocent victim of a violent, criminal act that has altered her life and caused her to sustain physical and emotional injuries. Notwithstanding the tragic and devastating circumstances that gave rise to her injuries, this court must adhere to the well-established body of law that limits the liability of the municipal defendants. Unless there existed a “special relationship” with the injured person, giving rise to a specific duty, in contrast to a duty owed to the general public, municipal defendants cannot be liable for the negligent performance of a government function.\nConclusion\nAccordingly, it is hereby ordered that defendants’, Bellevue Men’s Shelter, City of New York, New York City Health & Hospitals Corp., New York City Department of Homeless Services and New York City Department of Health and Mental Hygiene, motion seeking an order pursuant to CPLR 3211 (a) (7) dismissing the complaint and cross claims is granted in its entirety, and the Clerk is directed to enter judgment, without costs, in favor of said defendants; and it is further ordered that the caption is amended accordingly and the remainder of the action shall continue.\nAny requested relief not expressly addressed by the court has nonetheless been considered and is hereby denied.\n. “Jane Doe” is a pseudonym used pursuant to Civil Rights Law § 50-b to protect the confidentiality of plaintiff due to the sexual nature of the assault involved.\n. In October 2016 Rodney Stover was sentenced to 20 years to life in prison for the assault and rape that gave rise to the claims herein. (Lesser aff in opp, exhibit H.) The parties have stipulated and agreed that Rodney Stover and Harvard Agency Co., Inc. will be joined as party defendants, whereupon a supplemental summons and complaint will be served upon all parties and the caption of the action will be amended to reflect such joinder. To date, plaintiff has not served or filed an amended summons and complaint.",
+        "type": "majority",
+        "author": "W. Franc Perry, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Zachary W. Carter, Corporation Counsel, New York City (Kenisha C. Calliste of counsel), for Bellevue Men’s Shelter and others, defendants.",
+      "Goldberg & Carlton, PLLC, New York City (Robert H. Goldberg of counsel), for Turnmill LLC, defendant.",
+      "Simon Lesser PC, New York City (Leonard F. Lesser and Renee Simon Lesser of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[63 NYS3d 200]\nJane Doe, Plaintiff, v Turnmill LLC et al., Defendants.\nSupreme Court, New York County,\nAugust 1, 2017\nAPPEARANCES OF COUNSEL\nZachary W. Carter, Corporation Counsel, New York City (Kenisha C. Calliste of counsel), for Bellevue Men’s Shelter and others, defendants.\nGoldberg & Carlton, PLLC, New York City (Robert H. Goldberg of counsel), for Turnmill LLC, defendant.\nSimon Lesser PC, New York City (Leonard F. Lesser and Renee Simon Lesser of counsel), for plaintiff."
+  },
+  "file_name": "2935-01",
+  "first_page_order": 620,
+  "last_page_order": 630
+}

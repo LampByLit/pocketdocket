@@ -1,0 +1,252 @@
+{
+  "id": 12301764,
+  "name": "JPMorgan Chase Bank, National Association, Plaintiff, v. Silvia Diaz et al., Defendants",
+  "name_abbreviation": "JPMorgan Chase Bank, National Ass'n v. Diaz",
+  "decision_date": "2017-06-02",
+  "docket_number": "",
+  "first_page": "1136",
+  "last_page": "1140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 1136"
+    },
+    {
+      "type": "parallel",
+      "cite": "57 N.Y.S.3d 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "65 NYS2d 731",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 App Div 377",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4626237
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/197/0377-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 327",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320039
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0327-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 714",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320083
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0714-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 323",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3744755
+      ],
+      "pin_cites": [
+        {
+          "page": "327-328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0323-01"
+      ]
+    },
+    {
+      "cite": "216 AD2d 839",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1219087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/216/0839-01"
+      ]
+    },
+    {
+      "cite": "128 AD3d 455",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4207111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/128/0455-01"
+      ]
+    },
+    {
+      "cite": "279 App Div 671",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5378529,
+        5378497,
+        5377027,
+        5378549,
+        5379064
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/279/0671-03",
+        "/ad/279/0671-01",
+        "/ad/279/0671-02",
+        "/ad/279/0671-04",
+        "/ad/279/0671-05"
+      ]
+    },
+    {
+      "cite": "38 AD3d 522",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3896497,
+        3890910
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/38/0522-01",
+        "/ad3d/38/0522-02"
+      ]
+    },
+    {
+      "cite": "69 AD3d 545",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5732699
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/69/0545-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 746",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5671117
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/0746-01"
+      ]
+    },
+    {
+      "cite": "121 AD3d 343",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4292269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/121/0343-01"
+      ]
+    },
+    {
+      "cite": "144 AD2d 90",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3561673
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/144/0090-01"
+      ]
+    },
+    {
+      "cite": "54 AD3d 917",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3785316
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/54/0917-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 505,
+    "char_count": 8953,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25038177901491554
+    },
+    "sha256": "231e4d226f1a3d7ecea3f597fc85988e65d4854b1b7da2f4bcfa2e21ba1c6df7",
+    "simhash": "1:af9e64f4ec6d9a59",
+    "word_count": 1465
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JPMorgan Chase Bank, National Association, Plaintiff, v Silvia Diaz et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPeter H. Mayer, J.\nUpon the reading and filing of the following papers in this matter: notice of motion by the plaintiff, dated November 13, 2015, and supporting papers; and now upon due deliberation and consideration by the court of the foregoing papers, the motion is decided as follows: it is ordered that plaintiff’s renewed application (sequence No. 002) for an order of reference in this foreclosure action is again denied for the reasons set forth herein; and it is further ordered that the plaintiff shall promptly serve a copy of this order upon the defendant homeowner(s) at all known addresses and upon all other answering defendants, via first-class mail, and shall promptly file the affidavit(s) of such service with the County Clerk and annex a copy of this order and the affidavit(s) of service as exhibits to any motion resubmitted pursuant to this order; and it is further ordered that plaintiff is afforded one final opportunity to establish proper jurisdiction and compliance with the requirements of CPLR 2309 (c) regarding plaintiff’s out-of-state alleged affidavit of service, as set forth herein and in this court’s prior order of June 18, 2015, and the failure of plaintiff to so comply shall result in dismissal of plaintiff’s complaint.\nBy order, dated June 18, 2015, this court denied plaintiff’s first application for an order of reference on the grounds that plaintiff: (1) failed to seek judgment within one year of the alleged default and failed to otherwise show why the complaint should not be dismissed, as required by CPLR 3215 (c); and (2) failed to submit a certificate of conformity with the out-of-state affidavit of service of the summons and complaint, as required by CPLR 2309 (c). Initially, the court finds that plaintiff has now satisfied the requirements of CPLR 3215 (c), in that plaintiff has provided an explanation for its failure to seek judgment within one year of defendants’ alleged default; however, plaintiff has once again failed to satisfy the requirements of CPLR 2309 (c).\nAs set forth in the court’s June 18, 2015 order, CPLR 2309 (c) states that\n“[a]n oath or affirmation taken without the state shall be treated as if taken within the state if it is accompanied by such certificate or certificates as would be required to entitle a deed acknowledged without the state to be recorded within the state if such deed had been acknowledged before the officer who administered the oath or affirmation.”\nSimply stated, pursuant to CPLR 2309 (c), for an out-of-state affidavit to be admissible it must be accompanied by a certificate of conformity (see Real Property Law § 299-a [1]; PRA III, LLC v Gonzalez, 54 AD3d 917 [2d Dept 2008]).\nRather than comply (or even attempt to comply) with the statute, plaintiff argues that “it was inappropriate for the Court to, sua sponte, [raise the CPLR 2309 (c) issue] on the Defendants’ behalf,” and that, pursuant to the provisions of CPLR 2001, a certificate of conformity is not required with an out-of-state affidavit of service. CPLR 2001 provides that\n“[a]t any stage of an action . . . the court may permit a mistake, omission, defect or irregularity, including the failure to purchase or acquire an index number or other mistake in the filing process, to be corrected, upon such terms as may be just, or, if a substantial right of a party is not prejudiced, the mistake, omission, defect or irregularity shall be disregarded, provided that any applicable fees shall be paid” (emphases added).\nFor the reasons set forth herein, plaintiff’s contention is without merit, since the forgiving nature of CPLR 2001 is inapplicable where the affidavit is an out-of-state affidavit of purported service.\nPlaintiff correctly states that, typically, the absence of a certificate of conformity is not, in and of itself, a fatal defect; however, contrary to the arguments presented and cases cited by plaintiff regarding CPLR 2309 (c), the issues presented here do not concern a mere “defect or irregularity ... or other mistake in the filing process . . . [where] a substantial right of a party is not prejudiced,” as contemplated by CPLR 2001. Rather, the issues in this case involve jurisdiction over the defendant in the first instance. Surely, lack of proper proof of jurisdiction is not a mere “defect or irregularity,” and were the court to proceed without such proof, a substantial right of the defendant would, indeed, be prejudiced. In fact, the court’s ability to apply CPLR 2001 presupposes that the court has already acquired jurisdiction over the defendant (see e.g. Matter of Common Council of City of Gloversville v Town Bd. of Town of Johnstown, 144 AD2d 90 [3d Dept 1989]). Thus, even though CPLR 2001 is available at any stage of an action, many jurisdictional mistakes can occur in connection with commencement procedures that are non-correctable, especially those related to service of the summons (id.).\nGenerally, although a defective out-of-state affidavit, which is defective because it is not accompanied by a certificate of conformity, may be waived or cured under CPLR 2001, such defect waiver or cure may occur only after jurisdiction has been established (see CPLR 2001; Midfirst Bank v Agho, 121 AD3d 343 [2d Dept 2014]; U.S. Bank N.A. v Dellarmo, 94 AD3d 746 [2d Dept 2012]; Betz v Daniel Conti, Inc., 69 AD3d 545 [2d Dept 2010]; Smith v Allstate Ins. Co., 38 AD3d 522 [2d Dept 2007]; Raynor v Raynor, 279 App Div 671 [2d Dept 1951]). Indeed, personal jurisdiction over a defendant is not obtained until service is properly effected, and while correction of mistakes, omissions, defects or irregularities is generally permitted under CPLR 2001, irregularities or defects related to personal jurisdiction are not among those that are correctable (see CPLR 304, 306-b; Gerschel v Christensen, 128 AD3d 455 [1st Dept 2015]; Matter of Vetrone v Mackin, 216 AD2d 839 [3d Dept 1995]; Matter of Common Council of City of Gloversville v Town Bd. of Town of Johnstown, 144 AD2d 90 [3d Dept 1989]).\nThe Court of Appeals has established that jurisdictional errors are beyond the court’s power to correct under CPLR 2001. In this regard, the Court in Goldenberg v Westchester County Health Care Corp. (16 NY3d 323, 327-328 [2011]) explained:\n“The [2007] bill that amended CPLR 2001 was introduced ... to allow trial courts to fix or, where nonprejudicial, overlook defects in the filing process, including the failure to acquire or purchase an index number, so long as the applicable fees were eventually paid (see L 2007, ch 529). The introducer’s memorandum states that the bill was offered in response to our decisions in Matter of Fry v Village of Tarrytown (89 NY2d 714 [1997]) and Matter of Gershel v Porr (89 NY2d 327 [1996]) (see Senate Introducer’s Mem in Support, Bill Jacket, L 2007, ch 529, at 5). Gershel and Harris both involved failure to pay the proper filing fee; in Fry, the petitioner did not file a signed copy of an order to show cause along with his petition. In each of these cases the correct initiatory papers were filed. As the introducer’s memorandum emphasizes, the amendments to section 2001 were not meant to “ ‘excuse a complete failure to . . . properly commence an action’ ” (footnote omitted).\nAccordingly, the legislative intent of CPLR 2001 was to excuse non-prejudicial defects in court filings, not defects pertaining to jurisdiction. Here, the affidavit at issue is plaintiff’s affidavit of purported service. Therefore, contrary to plaintiff’s contentions, CPLR 2001 is not curative of plaintiff’s failure to comply with CPLR 2309 (c). If an out-of-state affidavit of service is defective for failure to comply with the certificate of conformity requirements of CPLR 2309 (c), such defect may be waived or cured only by a subsequent affidavit that corrects such defect (see Raynor v Raynor, 279 App Div 671 [2d Dept 1951]; Kelly v Schramm, 197 App Div 377 [2d Dept 1921]; Gullette v Parisher, 65 NYS2d 731 [Sup Ct, NY County 1946]). Since the plaintiff has again failed to submit a certificate of compliance with the out-of-state affidavit of service as required by CPLR 2309 (c), and has failed to submit an affidavit curing such defect, jurisdiction over the defendant has not been properly established.\nBased upon the foregoing, the plaintiff’s motion for a default order of reference is denied. Plaintiff is afforded one final opportunity to establish proper jurisdiction and compliance with the requirements of CPLR 2309 (c) regarding plaintiff’s out-of-state affidavit of purported service. Failure to do so shall result in dismissal of plaintiff’s complaint.",
+        "type": "majority",
+        "author": "Peter H. Mayer, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Stiene & Associates, PC., Huntington, for plaintiff.",
+      "Silvia Diaz, defendant pro se.",
+      "Jose L. Rosado, also known as Jose Rosado, defendant pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[57 NYS3d 358]\nJPMorgan Chase Bank, National Association, Plaintiff, v Silvia Diaz et al., Defendants.\nSupreme Court, Suffolk County,\nJune 2, 2017\nAPPEARANCES OF COUNSEL\nStiene & Associates, PC., Huntington, for plaintiff.\nSilvia Diaz, defendant pro se.\nJose L. Rosado, also known as Jose Rosado, defendant pro se."
+  },
+  "file_name": "2865-01",
+  "first_page_order": 1136,
+  "last_page_order": 1140
+}

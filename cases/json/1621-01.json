@@ -1,0 +1,838 @@
+{
+  "id": 12166463,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. FERLIN BEN, Defendant-Appellant",
+  "name_abbreviation": "State v. Ben",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 35,550; Docket No. 33,921",
+  "first_page": "81",
+  "last_page": "87",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2015-NMCA-118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "113 N.M. 25",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        723213
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/113/0025-01"
+      ]
+    },
+    {
+      "cite": "2005-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2550981
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/138/0441-01"
+      ]
+    },
+    {
+      "cite": "2004-NMCA-110",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224621
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0295-01"
+      ]
+    },
+    {
+      "cite": "971 N.E.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        3751341
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "344-45",
+          "parenthetical": "holding that a conviction for depraved indifference murder necessarily precluded a subsequent finding that the defendant committed intentional murder because those alternative theories are inconsistent counts under New York law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/0390-01"
+      ]
+    },
+    {
+      "cite": "510 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        232397
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "236",
+          "parenthetical": "distinguishing Green because \"[t]he failure to return a verdict does not have collateral estoppel effect... unless the record establishes that the issue was actually and necessarily decided in the defendant's favor\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0222-01"
+      ]
+    },
+    {
+      "cite": "986 F.2d 1129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        662137
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/986/1129-01"
+      ]
+    },
+    {
+      "cite": "989 P.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1256-57",
+          "parenthetical": "applying Terry"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 F.3d 454",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11912563
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "458"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/111/0454-01"
+      ]
+    },
+    {
+      "cite": "104 A.3d 638",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "651-52",
+          "parenthetical": "refusing to imply an acquittal where a general verdict form made it impossible to know which theory supported the defendant's conviction"
+        },
+        {
+          "page": "667-68",
+          "parenthetical": "Roger, C.J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "678 S.E.2d 26",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        3836967
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "30-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/223/0520-01"
+      ]
+    },
+    {
+      "cite": "203 P.3d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1035",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1035"
+        },
+        {
+          "page": "1035"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 N.E.2d 722",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "728-30"
+        },
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "865 N.E.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 8,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "774-75"
+        },
+        {
+          "page": "775",
+          "parenthetical": "recognizing that the appellate court \"[could not] discern the jury's intention from their silence.\""
+        },
+        {
+          "page": "769"
+        },
+        {
+          "page": "770"
+        },
+        {
+          "page": "772-73"
+        },
+        {
+          "page": "775",
+          "parenthetical": "alteration, internal quotation marks, and citation omitted"
+        },
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 P.3d 704",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        4254442
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/284/0527-01"
+      ]
+    },
+    {
+      "cite": "574 N.W.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        11865713
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "347",
+          "parenthetical": "\"A failure to consider an alternative definition of the offense charged does not constitute an acquittal of that offense for double jeopardy purposes.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/574/0344-01"
+      ]
+    },
+    {
+      "cite": "533 N.E.2d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10959362
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1207-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/533/1201-01"
+      ]
+    },
+    {
+      "cite": "37 F. Supp. 2d 1304",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11592039
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1308"
+        },
+        {
+          "page": "1307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/37/1304-01"
+      ]
+    },
+    {
+      "cite": "462 F.2d 1041",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1338874
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "1047, 1049-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/462/1041-01"
+      ]
+    },
+    {
+      "cite": "958 F.2d 963",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521955
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "971-72"
+        },
+        {
+          "page": "972",
+          "parenthetical": "holding that, where the jury was instructed on one offense, and the defendant was convicted of that offense, retrial was not barred"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/958/0963-01"
+      ]
+    },
+    {
+      "cite": "58 F.3d 78",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7408330
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "84-86"
+        },
+        {
+          "page": "85",
+          "parenthetical": "\"A jury's failure to decide an issue will be treated as an implied acquittal only where the jury's verdict necessarily resolves an issue in the defendant's favor.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/58/0078-01"
+      ]
+    },
+    {
+      "cite": "377 U.S. 463",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170590
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that Green \"holds only that when one is convicted of a lesser offense included in that charged in the original indictment, he can be retried only for the offense of which he was convicted rather than that with which he was originally charged\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/377/0595-01"
+      ]
+    },
+    {
+      "cite": "1991-NMCA-049",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 P.3d 944",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-034",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4334996
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶¶ 10-14"
+        },
+        {
+          "page": "¶¶ 12-14"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0457-01"
+      ]
+    },
+    {
+      "cite": "398 U.S. 323",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170963
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/398/0323-01"
+      ]
+    },
+    {
+      "cite": "355 U.S. 184",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164126
+      ],
+      "weight": 3,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "190-91"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/355/0184-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 294",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6198207
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "308",
+          "parenthetical": "\"Interests supporting the continuing jeopardy principle involve fairness to society, lack of finality, and limited waiver.\""
+        },
+        {
+          "page": "309"
+        },
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0294-01"
+      ]
+    },
+    {
+      "cite": "199 U.S. 521",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3643826
+      ],
+      "year": 1905,
+      "pin_cites": [
+        {
+          "page": "530-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/199/0521-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-024",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3669608
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 13-14"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0705-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1636
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "16",
+          "parenthetical": "noting that the United States Supreme Court necessarily affords \"finality to a jury's verdict of acquittal-no matter how erroneous its decision\" (emphasis omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0001-01"
+      ]
+    },
+    {
+      "cite": "99 N.M. 180",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1584630
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that the United States Supreme Court necessarily affords \"finality to a jury's verdict of acquittal-no matter how erroneous its decision\" (emphasis omitted)"
+        },
+        {
+          "parenthetical": "noting that the United States Supreme Court necessarily affords \"finality to a jury's verdict of acquittal-no matter how erroneous its decision\" (emphasis omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/99/0180-01"
+      ]
+    },
+    {
+      "cite": "1982-NMCA-181",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "¶ 11",
+          "parenthetical": "noting that the United States Supreme Court necessarily affords \"finality to a jury's verdict of acquittal-no matter how erroneous its decision\" (emphasis omitted)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 P.3d 637",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4190097
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0468-01"
+      ]
+    },
+    {
+      "cite": "109 N.M. 736",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1590318
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/109/0736-01"
+      ]
+    },
+    {
+      "cite": "1990-NMSC-038",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "352 P.3d 1151",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-021",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4363389
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 2, 21, 46"
+        },
+        {
+          "page": "¶ 46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0215-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 618",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180144
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "631"
+        },
+        {
+          "page": "631-32"
+        },
+        {
+          "page": "631",
+          "parenthetical": "\"A defendant who elects to be tried [d]e novo . . . is in no different position than is a convicted defendant who successfully appeals on the basis of the trial record and gains a reversal of his conviction and a remand of his case for a new trial.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0618-01"
+      ]
+    },
+    {
+      "cite": "2003-NMCA-146",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        77155
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/134/0710-01"
+      ]
+    },
+    {
+      "cite": "316 P.3d 213",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-012",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077351
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0299-01"
+      ]
+    },
+    {
+      "cite": "2008-NMCA-070",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4003202
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0156-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 958,
+    "char_count": 20303,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 4.561358913799773e-8,
+      "percentile": 0.28560313748021604
+    },
+    "sha256": "1ef949fd102f9aa241e249166adbd9396f3849f5bf65a99f725dca57729994de",
+    "simhash": "1:934c6c008b0a314c",
+    "word_count": 3280
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LINDA M. VANZI, Judge",
+      "JONATHAN B. SUTIN, Judge",
+      "TIMOTHY L. GARCIA, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. FERLIN BEN, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nVANZI, Judge.\n{1} At issue in this appeal is a unique application of the constitutional bar against retrial after acquittal. Defendant Ferlin Ben was charged and convicted in a nonjury trial in magistrate court for driving while intoxicated (DWI), contrary to NMSA 1978, Section 66-8-102 (2010). Defendant’s conviction was expressly based on the “per se” provision of Subsection (C)(1), which is one of two statutory alternative means of committing the single offense of DWI. See State v. Lewis, 2008-NMCA-070, ¶ 27, 144 N.M. 156, 184 P.3d 1050.\n{2} After a de novo appeal to the district court, Defendant was subsequently acquitted of the per se violation and convicted of the alternative provision in Subsection (A), which requires a finding of impairment to the slightest degree. Defendant now contends that double jeopardy and jurisdictional principles prevented the State from arguing impaired DWI to the jury after the magistrate court failed to convict him on that theory in the first trial. Unpersuaded, we affirm.\nBACKGROUND\n{3} The scant record from the magistrate court sets forth the following facts and allegations, which, for our purposes, are not in dispute. On September 19, 2013, state police stopped Defendant after observing multiple traffic violations. Defendant admitted to drinking “two beers,” performed poorly on field sobriety tests, and later registered a breath alcohol concentration (BAC) of .08. The State charged Defendant in the McKinley County Magistrate Court with several traffic offenses, including misdemeanor DWI. That offense is committed when a person drives a vehicle with a BAC of .08 or higher (a per se violation), see § 66-8-102(C)(l), or, in the alternative, when a person drives while “under the influence” of intoxicating liquor or drugs (an impaired to the slightest degree violation), see § 66-8-102(A).\n{4} After a nonjury trial, the court found Defendant guilty of DWI. Although the criminal complaint asserted violations of both subsections of the DWI statute, the court specified in its judgment and sentence that Defendant violated Subsection (C)(1), which is the per se violation. The judgment and sentence did not refer to the impaired DWI provision of Subsection (A).\n{5} Defendant sought de novo review in the district court, where, over Defendant’s objection, the State alleged both theories of DWI. A jury convicted Defendant of impaired DWI under Subsection (A) but found no violation of per se DWI under Subsection (C)(1). On appeal, Defendant now contends that (1) the magistrate court’s silence as to Subsection (A) impliedly acquitted him of impaired DWI, precluding the district court’s retrial on that theory according to principles of double jeopardy, and (2) the district court lacked jurisdiction to consider the theory. W e review these related contentions de novo. See Victor v. N.M. Dep't of Health, 2014-NMCA-012, ¶ 22, 316 P.3d 213; State v. Andazola, 2003-NMCA-146, ¶ 14, 134 N.M. 710, 82 P.3d 77.\nDISCUSSION\nDouble Jeopardy\n{6} “All appeals from inferior tribunals to the district courts shall be tried anew in said courts on their merits, as if no trial had been had below, except as otherwise provided by law.” NMSA 1978, § 39-3-1 (1955). By its own terms, this statute is necessarily subject to the Constitutions of the United States andNew Mexico, which guarantee that no person shall be “twice put in jeopardy” for the same offense. U.S. Const. amend. V; N.M. Const. art. II, § 15; NMSA 1978, § 30-1-10 (1963); Ludwig v. Massachusetts, 427 U.S. 618, 631 (1976); State v. Baca, 2015-NMSC-021, ¶¶ 2, 21, 46, 352 P.3d 1151 (applying double jeopardy retrial principles to a de novo appeal from magistrate court). In this case, jeopardy attached to the nonjury trial in the magistrate court “when the trial judge first start[ed] hearing evidence.” Baca, 2015-NMSC-021, ¶ 46.\n{7} The Double Jeopardy Clause operates to protect an individual from repeated attempts by the state, “with all its resources and power[,j” to secure a conviction, with the consequent anxiety, embarrassment, and undue expense to a defendant that results from retrial. Cnty. of Los Alamos v. Tapia, 1990-NMSC-038, ¶ 16, 109 N.M. 736, 790 P.2d 1017 (internal quotation marks and citation omitted), overruled on other grounds by City of Santa Fe v. Marquez, 2012-NMSC-031, ¶ 25, 285 P.3d 637. In common parlance, the state, upon failing to convict a defendant after a full and fair opportunity to do so “is barred from a second bite of the apple.” State v. Orosco, 1982-NMCA-181, ¶ 11, 99 N.M. 180, 655 P.2d 1024; see also Burks v. United States, 431 U.S. 1, 16 (1978) (noting that the United States Supreme Court necessarily affords “finality to a jury’s verdict of acquittal—no matter how erroneous its decision” (emphasis omitted)).\n{8} On the other hand, there is no constitutional prohibition against retrial after a conviction is set aside, except where the conviction is vacated for insufficient evidence. State v. Lizzol, 2007-NMSC-024, ¶¶ 13-14, 141 N.M. 705, 160 P.3d 886. The distinction between retrial after an acquittal and retrial after a conviction reversed for trial error has historically been justified on various rationales, including the legal fiction of waiver—that a defendant who successfully appeals his conviction for trial error “waives” any objection to a second prosecution, see Trono v. United States, 199 U.S. 521, 530-31 (1905), and the doctrine of continuing jeopardy—that jeopardy terminates upon an acquittal but continues through an appeal and into the subsequent retrial. Justices of Bos. Mun. Ct. v. Lydon, 466 U.S. 294, 308 (1984) (“Interests supporting the continuing jeopardy principle involve fairness to society, lack of finality, and limited waiver.”).\n{9} However justified, these principles unquestionably govern our state’s two-tier system of de novo appeals from off-record inferior courts, including, of course, the McKinley County Magistrate Court.\nA defendant who elects to be tried [d]e novo ... is in no different position than is a convicted defendant who successfully appeals on the basis of the trial record and gains a reversal of his conviction and a remand of his case for a new trial. Under these circumstances, it long has been clear that the [sjtate may reprosecute.\nLudwig, 427 U.S. at 631-32; see also Lydon, 466 U.S. at 309 (“While technically the defendant is tried again, the second stage proceeding can be regarded as but an enlarged, fact-sensitive part of a single, continuous course of judicial proceedings during which, sooner or later, a defendant receives more—rather than less-—of the process normally extended to criminal defendants in this nation.” (alteration, internal quotation marks, and citation omitted)). Thus, having been convicted—and not acquitted—of DWI in the magistrate court, Defendant was in the same position as any individual who successfully appeals his conviction for trial error. “Under these circumstances, it has long been clear that the [sjtate may reprosecute.” Lydon, 466 U.S. at 305. To escape this conclusion, Defendant divides the single offense of DWI into its alternative theories, contending that his conviction in the first trial on one theory of DWI (the per se theory) necessarily constitutes an implied acquittal on the alternative theory on which no conviction was entered (the impaired DWI theory).\n{10} The genesis of the modern implied acquittal doctrine is Green v. United States, 355 U.S. 184 (1957). In Green, the United States Supreme Court held that a verdict convicting a defendant of a lesser included offense of second degree murder, but silent as to the greater offense of first degree murder, constituted an implied acquittal of the greater offense, prohibiting retrial. Id. at 190-91. In brief, the Court believed the case was no different, for double jeopardy purposes, “than if the jury had returned a verdict which expressly read: ‘We find the defendant not guilty of murder in the first degree but guilty of murder in the second degree.’ ” Id. at 191; see also Price v. Georgia, 398 U.S. 323, 329 (1970) (“[Tjhis Court has consistently refused to rule that jeopardy for an offense continues after an acquittal, whether that acquittal is express or implied by a conviction on a lesser included offense when the jury was given a full opportunity to return a verdict on the greater charge.” (footnote omitted)).\n{11} Our cases have neitherread Green as broadly as Defendant suggests nor applied Green outside the context of lesser included offenses. See State v. Torrez, 2013-NMSC-034, ¶ 13, 305 P.3d 944 (citing with approval the observation that “courts have refused to imply an acquittal unless a conviction of one crime logically excludes guilt of another crime” (alteration, internal quotation marks, and citation omitted)); O’Kelley, 1991-NMCA-049, ¶ 14 (“An implied acquittal generally occurs when the jury is instructed to choose between a greater and a lesser offense, and chooses the lesser.”). “Only where the jury is given the full opportunity to return a verdict either on the greater or alternatively on the lesser offense does the doctrine of implied acquittal obtain.” O’Kelley, 1991-NMCA-049, ¶ 16. In fact, the United States Supreme Court itself has long since disclaimed a broad reading of Green. See United States v. Tateo, 377 U.S. 463, 465 n.1 (1964) (stating that Green “holds only that when one is convicted of a lesser offense included in that charged in the original indictment, he can be retried only for the offense of which he was convicted rather than that with which he was originally charged”).\n{12} When a defendant is convicted based on one of two alternative means of committing a single crime, which is the situation presented in this case, the near uniform majority of jurisdictions that have considered the issue have refused to imply an acquittal on the other alternative. See United States v. Ham, 58 F.3d 78, 84-86 (4th Cir. 1995); United States v. Wood, 958 F.2d 963, 971-72 (10th Cir. 1992); United States ex rel. Jackson v. Follette, 462 F.2d 1041, 1047, 1049-50 (2d Cir. 1972); Beebe v. Nelson, 37 F. Supp. 2d 1304, 1308 (D. Kan. 1999); Schiro v. State, 533 N.E.2d 1201, 1207-08 (Ind. 1989); State v. Pexa, 574 N.W.2d 344, 347 (Iowa 1998) (“A failure to consider an alternative definition of the offense charged does not constitute an acquittal of that offense for double jeopardy purposes.”); State v. Wade, 161 P.3d 704, 715 (Kan. 2007); Commonwealth v. Carlino, 865 N.E.2d 767, 774-75 (Mass. 2007); People v. Jackson, 231 N.E.2d 722, 728-30 (N.Y. 1967); State v. Wright, 203 P.3d 1027, 1035 (Wash. 2009) (en banc); State v. Kent, 678 S.E.2d 26, 30-33 (W. Va. 2009); cf. State v. Terwilliger, 104 A.3d 638, 651-52 (Conn. 2014) (refusing to imply an acquittal where a general verdict form made it impossible to know which theory supported the defendant’s conviction); Torrez, 2013-NMSC-034, ¶¶ 10-14 (same). But see Terry v. Potter, 111 F.3d 454, 458 (6th Cir. 1997); State v. Hescock, 989 P.2d 1251, 1256-57 (Wash. Ct.App. 1999) (applying Terry).\n{13} In Wright, for instance, the Washington Supreme Court recognized that the logic of Green does not follow when a defendant is prosecuted for a single offense that can be committed in multiple ways because “jeopardy attaches to the offense as a whole rather than to the particular form in which it is tried, so that if an individual succeeds in getting a conviction set aside, the defendant’s ‘continuing jeopardy’ applies to any alternative way of committing the same offense.” Wright, 203 P.3d at 1035. Several other courts have taken this approach. See, e.g., Wood, 958 F.2d at 972 (holding that, where the jury was instructed on one offense, and the defendant was convicted of that offense, retrial was not barred); Terwilliger, 104 A.3d at 667-68 (Roger, C.J., concurring); Beebe, 37 F. Supp. 2d at 1307. Their reasoning is persuasive because “[a] defendant charged and tried under multiple statutory alternatives experiences the same jeopardy as one charged and tried on a single theory.” Wright, 203 P.3d at 1035. That defendant “is in jeopardy of a single conviction and subject to a single punishment, whether the [sjtate charges a single alternative or several.” Id.\n{14} In another example, the Court of Appeals of New York came to the same result by applying the waiver theory of double jeopardy (discussed briefly above) as opposed to the continuing jeopardy doctrine.\nThe defendant’s argument stands or falls on his contention that felony murder and premeditated murder are separate offenses and that the jury was given the opportunity to return a verdict on the felony murder offense but failed to do so. If felony murder and premeditated murder constitute one and the same offense—viz., murder in the first degree— [the defendant] was not put in double jeopardy at his second trial when he was tried for felony murder as well as premeditated murder; for if a defendant is convicted of a single offense and takes a successful appeal from his judgment of conviction, he waives his constitutional protection against double jeopardy for that offense[.]\nJackson, 231 N.E.2d at 729. In sum, these cases stand for the sound proposition that a conviction on only one theory of an offense is no less a conviction, and typical double jeopardy retrial principles apply to the offense as a whole.\n{15} However, there is a limited exception to this general rule, evident in decisions that read Green as simply applying collateral estoppel (issue preclusion) notions in a double jeopardy case. According to this analysis, the defendant’s conviction of second degree murder in Green “established the existence of a fact (the state of mind required for that offense) that was inconsistent with his being guilty of first}] degree murder, so his subsequent conviction of that offense was barred.” Kennedy v. Washington, 986 F.2d 1129, 1134 (7th Cir. 1993). “That is all that ‘implied acquittal’ means.” Id.\n{16} These issue-preclusion cases essentially state the following rule: A conviction based on one of several statutory means of committing a single offense may imply an acquittal only when the conviction necessarily involves a factual finding inconsistent with guilt on the other theory. See, e.g., Schiro v. Farley, 510 U.S. 222, 236 (1994) (distinguishing Green because “[t]he failure to return a verdict does not have collateral estoppel effect... unless the record establishes that the issue was actually and necessarily decided in the defendant’s favor”); Ham, 58 F.3d at 85 (“A jury’s failure to decide an issue will be treated as an implied acquittal only where the jury’s verdict necessarily resolves an issue in the defendant’s favor.”); Carlino, 865 N.E.2d at 775 (recognizing that the appellate court “[could not] discern the jury’s intention from their silence.”); State v. Gause, 971 N.E.2d 341, 344-45 (N.Y. 2012) (holding that a conviction for depraved indifference murder necessarily precluded a subsequent finding that the defendant committed intentional murder because those alternative theories are inconsistent counts under New York law).\n{17} This approach was taken by the highest court in Massachusetts in an opinion that has been discussed favorably by our own Supreme Court. See Torrez, 2013-NMSC-034, ¶¶ 12-14 (discussing Carlino for double jeopardy purposes). In Carlino, the defendant was tried and convicted on two alternative theories of first degree murder. 865 N.E.2d at 769. However, the defendant was also charged with a third alternative theory (felony murder), but the verdict slip did not indicate whether he was acquitted or convicted on that theory. Id. The murder conviction was later reversed, and the defendant was tried again and found guilty under all three theories, including felony murder. Id. at 770. He appealed and made the same argument that Defendant makes in this case: that the fact finder’s failure to mark one of several alternative theories on a verdict slip is tantamount to an acquittal on that theory, prohibiting retrial. Id. at 772-73. The Carlino court rejected that argument because “a true acquittal requires a verdict on the facts and merits.” Id. at 775 (alteration, internal quotation marks, and citation omitted). Nothing in the defendant’s convictions for two theories of first degree murder “logically require[d] the conclusion that the jury must have acquitted the defendant of felony-murder.” Id. at 774.\n{18} We can think of no reason that the principles discussed at length in this Opinion do not apply in the present context, involving a de novo appeal from a nonjury trial in magistrate court. See Ludwig, 427 U.S. at 631 (“A defendant who elects to be tried [d]e novo . . . is in no different position than is a convicted defendant who successfully appeals on the basis of the trial record and gains a reversal of his conviction and a remand of his case for a new trial.”). Defendant has not made any factual argument about what occurred in the off-record proceedings below. He has limited his argument to the doctrine of implied acquittal, while citing to cases that are inapposite to that doctrine.\n{19} We hold that there is no implied acquittal when a fact finder convicts an individual for violation of one of multiple alternative means of committing a single offense, unless the conviction necessarily resolves a fact in the defendant’s favor. This holding is consistent with the analysis of implied acquittal and collateral estoppel applied in the majority of jurisdictions and discussed with approval by our own Supreme Court in Torrez, 2013-NMSC-034, ¶ 13 (“[CJourts have refused to imply an acquittal unless a conviction of one crime logically excludes guilt of another crime.” (internal quotation marks and citation omitted)). It is also supported by society’s interest in a decision on the merits in a criminal case and by our state’s general understanding “that what constitutes an acquittal ... is whether the ruling of the judge . . . actually represents a resolution, correct or not, of some or all of the factual elements of the offense charged.” Lizzol, 2007-NMSC-024, ¶ 9 (internal quotation marks and citations omitted). Since Defendant was convicted in magistrate court based on the per se theory of DWI, and since that conviction is not logically inconsistent with a finding of impaired DWI, Defendant’s double jeopardy rights were not violated when he was retried de novo on the impaired theory in the district court.\nJurisdiction\n{20} Defendant also makes a cursory argument that the district court lacked jurisdiction to consider the impaired DWI theory since the magistrate court never ruled on it. “All appeals from inferior tribunals to the district courts shall be tried anew in said courts on their merits, as if no trial had been had below, except as otherwise provided by law.” Section 39-3-1. In this case, the district court had appellate jurisdiction to “conductf] a new trial, as if the trial in the lower court had not occurred.” State v. Heinsen, 2004-NMCA-110, ¶ 11, 136 N.M. 295, 97 P.3d 627 (alteration, internal quotation marks, and citation omitted), aff’d, 2005-NMSC-035, 138 N.M. 441, 121 P.3d 1040. The only potential limitation on its authority to retry Defendant de novo was the Double Jeopardy Clause, and we have already held that double jeopardy was not violated.\nCONCLUSION\n{21} • Defendant’s conviction is affirmed.\n{22} IT IS SO ORDERED.\nLINDA M. VANZI, Judge\nWE CONCUR:\nJONATHAN B. SUTIN, Judge\nTIMOTHY L. GARCIA, Judge\nNeither party has argued that there is any difference in the application of the state and federal constitutional provisions to this case. We therefore “assume the two clauses require the same analysis and result.” State v. O’Kelley, 1991-NMCA-049, ¶ 5, 113 N.M. 25, 822 P.2d 122.",
+        "type": "majority",
+        "author": "VANZI, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM Kenneth H. Stalter, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Jorge A. Alvarado, Chief Public Defender Karl Erich Martell, General Counsel Santa Fe, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, November 5, 2015,\nNo. 35,550\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2015-NMCA-118\nFiling Date: October 5, 2015\nDocket No. 33,921\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. FERLIN BEN, Defendant-Appellant.\nHector H. Balderas, Attorney General Santa Fe, NM Kenneth H. Stalter, Assistant Attorney General Albuquerque, NM for Appellee\nJorge A. Alvarado, Chief Public Defender Karl Erich Martell, General Counsel Santa Fe, NM for Appellant"
+  },
+  "file_name": "1621-01",
+  "first_page_order": 97,
+  "last_page_order": 103
+}

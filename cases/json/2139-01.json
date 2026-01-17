@@ -1,0 +1,85 @@
+{
+  "id": 4235517,
+  "name": "620 Dahill, LLC, Appellant, v. Jerry Berger et al., Respondents",
+  "name_abbreviation": "620 Dahill, LLC v. Berger",
+  "decision_date": "2016-02-05",
+  "docket_number": "",
+  "first_page": "4",
+  "last_page": "5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 4"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 N.Y.S.3d 315"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "127 NY 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2239473
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/127/0175-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 158,
+    "char_count": 1818,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1405018207625232
+    },
+    "sha256": "4b2c4f10f1007e2d7f279e01f9a8b09c2027d003fa14b5556a4aeb99f7ced8a2",
+    "simhash": "1:1ae907b510eefff6",
+    "word_count": 286
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Pesce, P.J., Weston and Solomon, JJ., concur."
+    ],
+    "parties": [
+      "620 Dahill, LLC, Appellant, v Jerry Berger et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is reversed, without costs, and tenants’ motion to dismiss the petition is denied.\nIn this holdover summary proceeding, the petition alleges that tenants entered into possession of the property in question pursuant to a rental agreement; that the parties had submitted their dispute to arbitration; that the arbitrators had determined that the term of the tenancy would expire on January 31, 2014; and that tenants had held over thereafter without landlord’s permission. Contrary to the contentions raised by tenants in their motion to dismiss the petition, landlord is not seeking to confirm the arbitration award in this proceeding, and tenants did not demonstrate that the Civil Court lacked subject matter jurisdiction to adjudicate this holdover proceeding or that the petition failed to state a cause of action. Inasmuch as the parties had stipulated to abide by the arbitrators’ determination, and the arbitrators determined that the term of the tenancy would end on January 31, 2014, a holdover proceeding could properly be maintained after January 31, 2014, as no notice is required to terminate a tenancy of fixed duration (see Adams v City of Cohoes, 127 NY 175 [1891]; 2 Robert F. Dolan, Rasch’s Landlord and Tenant—Summary Proceedings § 30:15 [4th ed 1998]). Thus, the Civil Court improperly granted tenants’ motion to dismiss the petition pursuant to CPLR 3211.\nAccordingly, the order is reversed and tenants’ motion to dismiss the petition is denied.\nPesce, P.J., Weston and Solomon, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eliezer B. Kraus, Brooklyn, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[27 NYS3d 315]\n620 Dahill, LLC, Appellant, v Jerry Berger et al., Respondents.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nFebruary 5, 2016\nAPPEARANCES OF COUNSEL\nEliezer B. Kraus, Brooklyn, for appellant."
+  },
+  "file_name": "2139-01",
+  "first_page_order": 60,
+  "last_page_order": 61
+}

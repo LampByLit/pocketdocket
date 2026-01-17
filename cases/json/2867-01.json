@@ -1,0 +1,266 @@
+{
+  "id": 12301810,
+  "name": "Richard J. Herrmann, Jr., Plaintiff, v. Christin Coletti et al., Defendants, and Guardian Preservation LLC, Intervenor-Defendant",
+  "name_abbreviation": "Herrmann v. Coletti",
+  "decision_date": "2017-06-29",
+  "docket_number": "",
+  "first_page": "1148",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 1148"
+    },
+    {
+      "type": "parallel",
+      "cite": "59 N.Y.S.3d 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cohoes City Ct.",
+    "id": 11922,
+    "name": "Cohoes City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "421 US 240",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541055
+      ],
+      "pin_cites": [
+        {
+          "page": "258-259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0240-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 80",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282454
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0080-01"
+      ]
+    },
+    {
+      "cite": "3 US 306",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11736425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/3/0306-01"
+      ]
+    },
+    {
+      "cite": "189 BR 583",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6471107
+      ],
+      "pin_cites": [
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/189/0583-01"
+      ]
+    },
+    {
+      "cite": "68 AD3d 1695",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3966954,
+        3968293,
+        3968807
+      ],
+      "pin_cites": [
+        {
+          "page": "1696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/68/1695-02",
+        "/ad3d/68/1695-03",
+        "/ad3d/68/1695-01"
+      ]
+    },
+    {
+      "cite": "474 BR 391",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        4143380
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "403"
+        },
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/474/0391-01"
+      ]
+    },
+    {
+      "cite": "440 US 48",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179364
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0048-01"
+      ]
+    },
+    {
+      "cite": "59 F3d 423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6469642,
+        179351
+      ],
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/184/0423-01",
+        "/f3d/59/0423-01"
+      ]
+    },
+    {
+      "cite": "501 US 78",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107779
+      ],
+      "pin_cites": [
+        {
+          "page": "82-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0078-01"
+      ]
+    },
+    {
+      "cite": "11 USC § 727",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "193 Misc 2d 72",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1048077
+      ],
+      "pin_cites": [
+        {
+          "page": "74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/193/0072-01"
+      ]
+    },
+    {
+      "cite": "156 AD2d 356",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3608794
+      ],
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/156/0356-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 774,
+    "char_count": 14550,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25038448187519813
+    },
+    "sha256": "148464ef5d7c20791b807a7aaa885fba8e1b8da446f792ff9e4c69d14c300192",
+    "simhash": "1:7f0bd5c7f0dd0a8a",
+    "word_count": 2400
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard J. Herrmann, Jr., Plaintiff, v Christin Coletti et al., Defendants, and Guardian Preservation LLC, Intervenor-Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nThomas Marcelle, J.\nThis is a small claims action for payment of rent, but it is really much more; it’s a case involving winding facts, complex law and some clever lawyering.\nDefendants Christin Colétti and Jack Valente (tenants) rented 8 Avalon Court in Loudonville, NY from Lisa Waters of York, Maine. Tenants just wanted to pay their rent, enjoy their home and live peacefully. Things were fine for about six months until plaintiff Richard Herrmann notified the tenants that they should pay him the rent and not Waters. Herrmann told the tenants that Waters had signed a debt instrument (a collateral balloon mortgage) and had defaulted on the mortgage, and because Waters had defaulted, Herrmann was now entitled to the rent. This message was conveyed with all the legal trimmings—a letter from an attorney and official documents bearing the imprimatur of the county clerk.\nThe tenants were now stuck in the middle—should they pay Waters or Herrmann? The tenants engaged counsel who had them place the money in an escrow account. Having not been paid the rent that he believed was due him, Herrmann sued. He commenced a small claims action against the tenants for not paying rent. The court ultimately transferred the case to its regular civil part (UCCA 202).\nWhen the case came before the court, not only did Herrmann and the tenants appear, but another entity asked to be heard— Guardian Preservation LLC. Guardian explained that Waters had assigned Guardian the rent from 8 Avalon Court (the tenants’ rental home). In other words, Guardian stepped into Waters’ shoes; their interests are identical. The court allowed Guardian to intervene in this action with the consent of all parties. With Guardian in the case, Waters’ interests (to the extent she has any left) were adequately protected by Guardian. Although Guardian claims to be Waters’ legal successor, the court will, for the sake of clarity, refer to Waters, the tenants and Herrmann as the parties.\nInitially, the court must decide whether it has subject matter jurisdiction. City Court is a court of limited jurisdiction. That is, the subject of the case must be the type which the legislature specifically permitted the court to hear (UCCA 201). Without subject matter jurisdiction, the court cannot exercise its judicial power.\nDefendants say that this is a declaratory judgment case disguised as a small claims case. That is, despite Herrmann’s claim sounding in contract, this case is about the court declaring who has the legal right to collect the rent generated from 8 Avalon Court. Guardian argues since any declaratory judgment action must be brought in Supreme Court, this court lacks jurisdiction over the case. (Suarez v El Daro Realty, 156 AD2d 356, 358 [2d Dept 1989].)\nHerrmann disagrees. He wants to try his case in City Court because litigating a declaratory judgment action in Supreme Court is more expensive, more complex and riskier. So he cast his case as a small claims breach of contract which City Court has jurisdiction over. Moreover, he impeccably timed his claim to stay within the monetary limits of the City Court’s civil jurisdiction (UCCA 202).\nHerrmann has a case for damages and the court will decide it. It may well be that the decision in this case has the effect of determining whether Herrmann or Waters gets the rent. Deciding cases causes collateral effects—it is the nature of adjudication. The collateral effect of a decision in this case does not transform it from damages into a declaratory judgment action (see Celestin v American Tr. Ins. Co., 193 Misc 2d 72, 74 [Civ Ct, Queens County 2002]).\nHaving resolved the jurisdictional issue, the court makes its factual findings. This case involves a labyrinth of corporate transactions. However, the facts, when distilled to their most simple essence, are as follows. Herrmann loaned Waters $356,000. The loan was secured by a piece of commercial property and by Waters’ personal guarantee. Further, to support her personal guarantee, she pledged her property (8 Avalon Court), via a collateral balloon mortgage, as security to make good her debt in case she did not or could not honor her personal guarantee—which happened. Not only did she fail to honor her guarantee, but she also defaulted on the Avalon Court mortgage.\nWaters filed for bankruptcy. The Bankruptcy Court granted her a discharge under chapter 7 of the Bankruptcy Code (11 USC § 727) (Bankr D Me, case No. 12-21309). This discharge erased her personal liability for the $356,000 debt. Thus, the personal guarantee made by Waters was extinguished; she no longer owes Herrmann any debt of any kind.\nThe property—8 Avalon Court—is a different matter. Ancient legal doctrine distinguishes between suing a person and suing a thing, like a piece of property (which in Latin is called a rem). The bankruptcy discharge extinguished only claims against Waters personally; it does not prevent a mortgagee to sue her property in a foreclosure proceeding, an in rem action.\nThe United States Supreme Court has explained:\n“A mortgage is an interest in real property that secures a creditor’s right to repayment. But unless the debtor and creditor have provided otherwise, the creditor ordinarily is not limited to foreclosure on the mortgaged property should the debtor default on his obligation; rather, the creditor may in addition sue to establish the debtor’s in personam liability for any deficiency on the debt and may enforce any judgment against the debtor’s assets generally. A defaulting debtor can protect himself from personal liability by obtaining a discharge in a Chapter 7 liquidation. However, such a discharge extinguishes only the personal liability of the debtor. . . . [T]he Code provides that a creditor’s right to foreclose on the mortgage [an in rem proceeding] survives or passes through the bankruptcy” (Johnson v Home State Bank, 501 US 78, 82-83 [1991] [citations and internal quotation marks omitted]).\nSignificantly, although Herrmann had the right to bring a foreclosure proceeding under Johnson, he did not do that. Instead he exercised the assignment of rents provisions under the mortgage agreement and demanded the rent from the tenants.\nAt this point, the case circles back to the basic question of the lawsuit: Do the tenants owe rent to Herrmann? The answer to that question depends on whether an assignment of rents created an in rem right possessed by Herrmann (not covered by the bankruptcy discharge) or whether the debtor Waters’ collection of rent prior to a foreclosure action is personal income which would be protected under the discharge. In simple terms, the issue is whether the rental income is part of the property or personal income.\nGenerally speaking, an assignment clause may be a source of additional security for a mortgage loan, or, alternatively, it may create an absolute and unconditional assignment. When an assignment is for additional security, the lender has a lien on the rents, but title to the rents remains with the borrower. When an assignment is absolute, title to the rents vests as a property right with the mortgagee upon default of the mortgage (see In re Jason Realty, L.P., 59 F3d 423, 427 [3d Cir 1995]).\nOf course as with any general rule of law, the rule varies according to jurisdiction. The court first looks to the federal bankruptcy law to supply the answer because the discharge was a product of that court. The federal courts have decided that the question is to be answered by state law. Specifically, the mortgagee’s right to rents collected during a mortgagor’s bankruptcy is determined by the law of the state where the property was located (Butner v United States, 440 US 48 [1979]).\nSince the property is in New York, New York law applies. The law of this State is split between a title theory for the rent and a lien theory. While some courts have found rent assignments to be absolute under New York law (title theory), “the majority of New York state cases are of the view that an absolute assignment is not permitted, regardless of the language in the agreement. This majority view is based on New York’s lien theory of mortgages” (In re South Side House, LLC, 474 BR 391, 403 [Bankr ED NY 2012] [citation and internal quotation marks omitted]). Without a case from the Third Department on point, the court accepts the majority position—the lien theory of mortgages (LT Propco, LLC v Carousel Ctr. Co., L.P., 68 AD3d 1695, 1696 [4th Dept 2009]).\nUnder the lien theory, a mortgage creates a lien but does not transfer title to the mortgagee. Consequently, a rent assignment clause under New York law acts “merely as a pledge of rents, not as a direct conveyance” (In re South Side House, LLC, 474 BR at 403). Moreover, and of particular relevance here, an assignment of rents provision does not create an automatic conveyance of the rents, even “if the assignment is made as further security for the mortgage debt” (641 Ave. of Ams. L.P. v 641 Assoc., Ltd., 189 BR 583, 590 [Bankr SD NY 1995]).\nThis means that assignment of rents becomes effective only upon foreclosure or upon the appointment of a receiver of the rents of the mortgaged property. That is, a mortgage is merely a lien, which gives the mortgagee security and no more, and cannot, regardless of its form or of the intention of the parties to the mortgage, transfer title to the mortgagee. Since Herr-mann neither sought a receiver nor foreclosed on 8 Avalon Court, Waters, not Herrmann, is entitled to the rents collected by her prior to foreclosure.\nConsequently, the court holds that Herrmann has not proved his case. Herrmann has no claim for rent because his right to receive rent is not ripe. Therefore, the tenants owe Herrmann nothing.\nThe only remaining issue is the counterclaim the tenants bring against Herrmann for their attorney’s fees. The American Rule for awarding the prevailing attorney is as old as it is simple: attorney’s fees are incidents of litigation and a prevailing party may not collect them from the loser (see Arcambel v Wiseman, 3 US 306 [1796]). New York strictly follows this rule (Baker v Health Mgt. Sys., 98 NY2d 80, 88 [2002]). Federal courts allowed an exception and may award the prevailing party attorney’s fees when a defeated party has acted in bad faith, vexatiously, wantonly, or for oppressive reasons (Alyeska Pipeline Service Co. v Wilderness Society, 421 US 240, 258-259 [1975]).\nThe case was not brought in bad faith. Herrmann employed good lawyering that ultimately failed. Under our adversarial system, each party must bear the cost of litigation even if they win. The court has no power to help the tenants under these circumstances.\nTherefore, it is ordered that plaintiff’s claim is dismissed with prejudice; and it is further ordered that defendants’ counterclaim is dismissed with prejudice.\n. Herrmann challenges legality of the assignment to Guardian—that matter is not before the court. The court expresses no opinion as to the assignment’s validity. The court must decide if the tenants owe Herrmann rent. The court need go no further and will go no further than that, since the validity of the assignment by Waters to Guardian bears not on the dispositive question in this case.\n. The facts were somewhat more complex. The complete details of the corporate maneuvers are as follows: In 2006, 1056 TSR Realty LLC executed a promissory note and mortgage for $356,000 to Herrmann in exchange for property—1056 Troy Schenectady Road (1056 mortgage or 1056 property). Waters was the principal of TSR. Waters also personally guaranteed the debt. Waters defaulted (and from what the court can glean from the papers, she defaulted rather quickly). In 2008, Herrmann assigned the 1056 mortgage to Keehfus Capital which the court understands is a corporation wholly owned by Herrmann.\nHere is where the tenants’ property comes into play. Waters owned a house (8 Avalon Court). Waters used Avalon Court as security for her personal guarantee for the loan on the 1056 property. In 2008, Waters signed a collateral balloon mortgage on her property at 8 Avalon Court with Herrmann as the lender. The Avalon Court mortgage was entered into after Herrmann had already assigned his 1056 mortgage interest to Keehfus Capital.\nThe transactional part of the story is not quite concluded—in 2009, Herr-mann obtained a deed to the 1056 property. He transferred that deed to Elm Lansing Realty Corp. for $0. Herrmann is the president of Elm Lansing Realty Corp. In 2010, Elm Lansing sold the 1056 property for $220,000 to a third party that is not part of the case and as part of that transaction Keeh-fus Capital released its mortgage on the 1056 property. Unsatisfied with the $220,000 proceeds that he received from the sale, in 2012, Herrmann sued Waters to collect the deficit. Later that year, Herrmann obtained a $430,000 default judgment against Waters on the original loan on the 1056 property in Saratoga County Supreme Court. The judgment was recorded with the Sara-toga County Clerk. Waters filed for bankruptcy in 2012. In 2013 the United States Bankruptcy Court granted her a discharge under chapter 7 of the Bankruptcy Code (Bankr D Me, case No. 12-21309). The discharge canceled the $430,000 default judgment that Herrmann obtained from Saratoga County\nAt some point, Waters assigned the rents and transferred the title of 8 Avalon Court to Guardian. Guardian argues that these corporate shenanigans raise the specter of fraud. The evidence before the court is limited and the court, without more, finds no fraud involved. Rather this case falls under what then professor (now vice provost) John Siliciano of the Cornell Law School denoted as the Starship Doctrine: “Someone’s always playing corporation games; who really cares they’re always changing corporation names” (Starship, We Built This City, on Knee Deep in the Hoopla [LP] [Los Angeles, CA, RCA 1985]).\n. The assignment provision provides: “I assign to the lender [Herrmann] the rents ... of the premises as further security for the payment of the obligations secured . . . and to apply any moneys received ... to the obligation secured by this mortgage” (assignment ¶ 21).",
+        "type": "majority",
+        "author": "Thomas Marcelle, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Richard J. Herrmann, Jr., Clifton Park, plaintiff pro se.",
+      "Donald M. Matusik, Loudonville, for defendants.",
+      "Kenneth W. Gibbons, Scotia, for intervenor-defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[59 NYS3d 284]\nRichard J. Herrmann, Jr., Plaintiff, v Christin Coletti et al., Defendants, and Guardian Preservation LLC, Intervenor-Defendant.\nCity Court of Cohoes,\nJune 29, 2017\nAPPEARANCES OF COUNSEL\nRichard J. Herrmann, Jr., Clifton Park, plaintiff pro se.\nDonald M. Matusik, Loudonville, for defendants.\nKenneth W. Gibbons, Scotia, for intervenor-defendant."
+  },
+  "file_name": "2867-01",
+  "first_page_order": 1148,
+  "last_page_order": 1154
+}

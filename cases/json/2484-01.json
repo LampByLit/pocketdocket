@@ -1,0 +1,210 @@
+{
+  "id": 12171364,
+  "name": "The People of the State of New York, Plaintiff, v. David Cutlip, Defendant",
+  "name_abbreviation": "People v. Cutlip",
+  "decision_date": "2016-09-22",
+  "docket_number": "",
+  "first_page": "1164",
+  "last_page": "1172",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 1164"
+    },
+    {
+      "type": "parallel",
+      "cite": "38 N.Y.S.3d 750"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "367 US 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785580
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0643-01"
+      ]
+    },
+    {
+      "cite": "15 NY2d 72",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271474
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0072-01"
+      ]
+    },
+    {
+      "cite": "378 US 368",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0368-01"
+      ]
+    },
+    {
+      "cite": "135 Misc 2d 701",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        859757
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "707"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/135/0701-01"
+      ]
+    },
+    {
+      "cite": "56 AD3d 328",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 AD3d 472",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4325939
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0472-01"
+      ]
+    },
+    {
+      "cite": "89 AD3d 582",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4032833
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/89/0582-01"
+      ]
+    },
+    {
+      "cite": "76 AD3d 891",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "892-893"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 NY3d 596",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3745855
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0596-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 210",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326325
+      ],
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0210-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 719,
+    "char_count": 16881,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24698196690231747
+    },
+    "sha256": "cec67d5ecd77b0f28fdd549c78a0b4ae369fc4bd0c84130ac91e519a49297f89",
+    "simhash": "1:93a02bf07022f341",
+    "word_count": 2854
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v David Cutlip, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMelissa A. Crane, J.\nOn May 27, 2016, this court held a Mapp hearing on defendant’s motion to suppress evidence of a gravity knife. The court also held a Dunaway hearing to suppress statements made by defendant at the scene of the incident. Upon consideration of all testimony, and the arguments of counsel and the People, the court will not suppress the knife or defendant’s statement for the following reasons:\nFindings of Fact\nPolice Officer Chester Chung testified for the People. Having observed his testimony and overall demeanor, the court finds Officer Chung’s testimony credible in all respects. Officer Chung has been a police officer with the New York City Police Department for six years. Out of his approximately 180 arrests, about 80 were for weapon-related offenses. Seventy-five out of those 80 arrests were for gravity knife offenses.\nOn June 24, 2015, Officer Chung was dressed in plain clothes on foot patrol. He was working in the 5th Precinct, anti-crime, from 12:00 p.m. to 8:35 p.m. Around 3:20 p.m. of that day, Officer Chung observed defendant, his wife, and his daughter walking eastbound on Canal Street (tr at 13). Officer Chung stood leaning against a TD Bank building when defendant and his family walked past. He was about two feet away from defendant when he first noticed that defendant had a knife (tr at 13-14).\nOfficer Chung testified that he observed a long metal clip and the top circular part of the knife sticking out of defendant’s pants pocket. The remainder of the knife was inside the pocket. He further testified that he was 80 to 85% certain that, based on the type of clip and the roundness of the knife head, in addition to his experience with gravity knife arrests, the knife was a gravity knife (tr at 15).\n“Q: So you know for sure it was a knife?\n“A: Yes.\n“Q: And the knife you thought it most likely to be was a gravity knife?\n“A: Yes, 80 percent.\n“Q: How do you know that most of the time that type of knife is a gravity knife?\n“A: The top of the head is round and the clip.” (Tr at 15-16.)\nUpon seeing the clip and top of the knife blade, Officer Chung showed defendant his badge and asked defendant to hand him the knife. Defendant complied (tr at 13). Officer Chung noted in his testimony that the knife appeared old and dark (tr at 16). The Officer then tested the knife several times and was able to lock the knife in place by flicking his wrist. He further testified that, at this point, defendant was not under arrest. While defendant stood on the sidewalk with his family, Officer Chung tested the knife and determined it was a gravity knife.\nAfter testing the knife, Officer Chung asked defendant several questions. He asked defendant what he used the knife for. Defendant stated that he is a “tattoo artist somewhere around there” (tr at 17). Officer Chung then asked if defendant was working at the time and defendant replied “no” (id.). Defendant answered Officer Chung’s questions while standing at the southwest comer of Lafayette Street and Canal Street. He was not under arrest or handcuffed at that point. Officer Chung testified that he did not make any promises to defendant in return for answering his questions, did not threaten defendant, did not use force, and did not have his gun drawn (tr at 17-18). Officer Chung further testified that he asked defendant questions “for my safety and other people’s safety” (tr at 18).\nAfter defendant answered Officer Chung’s questions, Officer Chung told defendant he was going to do a warrant check. According to Officer Chung, defendant was “okay with that” (tr at 13). Officer Chung then contacted his sergeant to tell the sergeant he had recovered a gravity knife. At that point, Officer Chung told defendant that he was going to bring him back to the Precinct for further investigation. The Officer then placed him under arrest and transported him to the 5th Precinct.\nConclusions of Law\nI. Knife Suppression\nA. Officer Had Reasonable Suspicion That Defendant Possessed a Gravity Knife under Penal Law § 265.01 (1)\nThe first issue is whether Officer Chung had reasonable suspicion to believe that defendant possessed a gravity knife based on the appearance of the knife, and the Officer’s experience with gravity knife offenses. To perform a De Bour level-three stop and frisk, a police officer must have a reasonable suspicion that a particular person has committed, or is about to commit, a felony or misdemeanor (People v De Bour, 40 NY2d 210, 223 [1976]). Under the Penal Law, it is a per se offense to possess a gravity knife (see Penal Law § 265.01 [1]). The Penal Law does not consider intent. However, police officers may not detain a person in mere possession of something that looks similar to a gravity knife, but is a lawful object like a pocketknife. The officer must have reason to believe the instrument is a gravity knife based on his experience, training, and characteristics that would lead one to believe the object is a gravity knife (see People v Brannon, 16 NY3d 596 [2011]; see also People v Herrera, 76 AD3d 891 [1st Dept 2010]).\nThe court must determine at what point a police officer has reasonable suspicion to believe a person possesses a gravity knife, as opposed to a pocketknife, and, therefore, is authorized to conduct a stop and frisk when that person is not in the process of committing another crime. In People v Brannon (16 NY3d 596 [2011]), defendant was walking down a Manhattan street. As he passed by the police, an officer saw the hinged top of a knife in defendant’s back pants pocket. That officer later testified that the knife defendant possessed looked like a “typical pocket knife” (Brannon, 16 NY3d at 600). The Court of Appeals held that, in order to have reasonable suspicion to believe that an individual possesses a gravity knife, the detaining officer must have reason to believe that the object is indeed a gravity knife based on: (1) his or her training and experience; or (2) discernable aspects of the knife itself. In Brannon, the officer never testified that he suspected the knife was a gravity knife. Hence, suppression was appropriate (see also People v Vargas, 89 AD3d 582, 583 [1st Dept 2011] [suppression warranted where officer did not articulate any facts from which he could have inferred the knife was a gravity knife]).\nBy contrast, in People v Fernandez (16 NY3d 596 [2011]), decided with Brannon, the Court of Appeals held that the police officer had reasonable suspicion to believe that the knife was an illegal gravity knife. The officer had testified in Fernandez that he saw in plain view the “head” of a knife sticking out, clipped to defendant’s front pants pocket and, based on his experience, people typically carry gravity knives in their pocket with a clip and the “head” protruding (id. at 601).\nA year prior to Fernandez, the Appellate Division, First Department held in People v Herrera (76 AD3d 891 [1st Dept 2010]) that the police officer had reasonable suspicion of criminal activity justifying a level-three forcible stop of defendant and removal of a knife from his pocket where, based on the officer’s training and experience, the clip observed was more likely than not part of a gravity knife. Police officers were in an unmarked vehicle when defendant walked in front of the car. Street lamps illuminated a shiny, silver object clipped to defendant’s back pants pocket. The object had a curved clip and the head of it visibly protruded above the top of defendant’s pocket. Although the officer could not absolutely exclude the possibility that the clipped object was lawful until he removed it from defendant’s pocket, he testified that he was “90 percent sure that it was either a knife or some other weapon . . . the way the clip is designed and curved was typical of clips that are . . . part of knives” (People v Herrera, 76 AD3d at 892-893 [internal quotation marks omitted]). On defense counsel’s cross-examination, the officer rejected counsel’s suggestion that there was a likelihood that the object was something like a money clip, a cellphone, or a tape measure (id. at 893).\nThe Supreme Court granted defendant’s motion to suppress, finding that the officer could not be absolutely certain that the object was a gravity knife without removing the clipped object from defendant’s pocket. The Appellate Division, First Department reversed, stating that “absolute certainty” that the object was a gravity knife was not required for the officer to have reasonable suspicion based on his training and experience with identifying gravity knives (see also People v Cameron, 122 AD3d 472 [1st Dept 2014] [suppression of gravity knife denied where officer saw clip outside of defendant’s pocket that he thought was a gravity knife based on how the top of the knife looked and the way defendant wore the clip]; People v Snovitch, 56 AD3d 328 [1st Dept 2008] [suppression of gravity knife denied where the officer believed that defendant possessed a gravity knife based on the appearance of the clip, its curved top, and part of its blade]).\nThe People, relying on People v Fernandez (16 NY3d 596 [2011]) and Appellate Division, First Department cases discussed supra, draw comparisons to this case. The officer in Fernandez testified that, based on his training and experience, the type of clip and head of the knife he saw, indicated the knife was a gravity knife. That officer was 10 to 15 feet away from defendant when he saw the knife. He had four years of experience and 300 gravity knife arrests. Similarly, Officer Chung testified that, based on his experience, with the kind of clip and top circular blade observed, he was 80-85% certain defendant possessed a gravity knife (tr at 15; see also People v Herrera). Officer Chung was two feet away from defendant when he saw that defendant had a knife. He has six years of police experience and 75 gravity knife arrests.\nDefendant distinguished Fernandez from this case for three reasons: (1) Officer Chung initially stated in his testimony that he knew defendant had a pocketknife rather than a gravity knife; (2) Officer Chung could not have seen the top circular knife top because defendant’s shirt went below his waist; and (3) Officer Chung admitted that the gravity knife could have been a legal object like an expensive pen.\nContrary to defendant’s assertion that Officer Chung conceded that the object in defendant’s pocket could have been a pen, Officer Chung rejected that suggestion in his testimony on cross-examination.\n“Q: The clip was pretty small?\n“A: The clip was long, but it was thin.\n“Q: And it was made of metal?\n“A: Yeah.\n“Q: Pens sometimes have clips?\n“A: Yes, not the top of the round shape of it . . .\n“Q: And money clips are also pretty small, right?\n“A: No, money clips are big, thick ones.” (Tr at 25.)\nThus, Officer Chung dismissed defendant’s insinuation that the object in defendant’s pocket was a pen, or even a money clip, during his testimony. He had reason to believe defendant possessed a gravity knife based on the round shape of the blade (see People v Cameron, 122 AD3d 472 [1st Dept 2014] [police officer had reason to believe the object observed was a gravity knife based on the knife’s specific characteristics]). Finally, after removing the knife from defendant, testing the knife and determining that it was a gravity knife, the officer had probable cause to arrest defendant.\nB. Defendant’s Knife was Not Outside of Clothing or in Open View under Administrative Code of City of New York § 10-133 (c)\nHowever, the exposed clip and top circular part of the knife does not constitute a knife “in open view” or worn “outside of clothing” in violation of Administrative Code of City of NY § 10-133 (c). Subdivision (c) reads:\n“It shall be unlawful for any person in a public place, street or park, to wear outside of his or her clothing or carry in open view any knife with an exposed or unexposed blade unless such person is actually using such knife for a lawful purpose as set forth in subdivision d of this section.”\nCase law addressing subdivision (c) is scant. In People v Singh (135 Misc 2d 701 [Crim Ct, Queens County 1987]), the defendant carried a kirpan in open view and outside his clothing. The police issued a summons to defendant. Defendant argued that the knife is a symbol of his religion, and the First Amendment of the US Constitution afforded defendant protection to wear the knife. Although the court ultimately dismissed the complaint in the interests of justice, the court first suggested that if defendant encased the knife in a “solid protective element such as plastic or lucite,” this would remove it from the “knife and weapons category” under Administrative Code § 10-133 (People v Singh, 135 Misc 2d at 707).\nThe court’s interpretation in Singh, that if plastic or lucite concealed the knife, defendant could then wear the knife in open view, outside his clothing, without violating the statute, is telling. In this case, defendant’s pants pocket covered the majority of the knife. Only the clip and top circular part of the knife showed. This is not enough to constitute “open view” and “worn outside the clothes” as prescribed by the statute. The court need not consider whether defendant’s work as a tattoo artist, or as a commercial diver that does underwater maintenance, falls within the exception of Administrative Code § 10-133 (d) (6) (a). The court grants defendant’s motion to dismiss the charge of possession of a knife worn outside the clothing (Administrative Code § 10-133 [c]) for lack of probable cause. However, the court denies suppression of the knife because the stop of defendant and seizure of the gravity knife were lawful under Penal Law § 265.01 (1).\nII. Statement Suppression\nDefendant also argues for suppression of his statements at the scene of the incident: “It’s for work,” “Tattoos,” and “No, I’m not working right now.” A defendant may challenge the volun-tariness of a statement (see CPL 60.45, 710.20; see also Jackson v Denno, 378 US 368 [1964]; People v Huntley, 15 NY2d 72 [1965] [requiring a court, prior to the issue reaching the jury, to determine independently the voluntariness of a confession and make express findings of facts and conclusions of law]). At a Huntley hearing, the People must prove the voluntariness of defendant’s statement made beyond a reasonable doubt (People v Huntley, 15 NY2d 72 [1965]).\nHere, the People have met their burden to establish that defendant’s statements were voluntary. Defendant was not under arrest or handcuffed when he made the statement. Officer Chung testified that he did not make any promises to defendant in return for answering his questions, did not threaten defendant, did not use force, and did not have his gun drawn (tr at 17-18). Officer Chung further testified that he asked defendant questions “for my safety and other people’s safety.” Further, the People noticed the statements at arraignment. Therefore, the court will not suppress the statements defendant made.\nAccordingly, it is ordered that the court denies defendant’s motion to dismiss the charge of criminal possession of a weapon in the fourth degree (Penal Law § 265.01 [1]) against defendant; and it is further ordered that the court grants defendant’s motion to dismiss the charge of possession of a knife worn outside the clothing (Administrative Code § 10-133 [c]). Ordered that the court denies defendant’s motion to suppress the recovered gravity knife pursuant to Mapp v Ohio (367 US 643 [1961]); and it is further ordered that the court denies defendant’s motion to suppress defendant’s statements pursuant to People v Huntley (15 NY2d 72 [1965]).\n. Many are unaware that simply possessing a gravity knife, a knife that opens with the force of gravity or the application of centrifugal force, is a strict liability criminal offense (see Editorial Board, New York’s Outdated Knife Law, NY Times, May 31, 2016, § A at 22). In June of 2016, the State Legislature passed an amendment to the statute that would alter the definitions for “switchblade knife” and “gravity knife” under Penal Law § 265.00 (4) and (5). This would allow the police to charge a person in possession of a gravity knife under Penal Law § 265.01 (2), rather than Penal Law § 265.01 (1), if that person had intent to use the weapon unlawfully against another (see 2016 NY Senate-Assembly Bill S6483A, A9042A). Governor Cuomo has yet to approve the bill.\n. Kirpan is a sword associated with the Sikh religion.",
+        "type": "majority",
+        "author": "Melissa A. Crane, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Seymour W. James, Jr., The Legal Aid Society, New York City (.Beverly Vu of counsel), for defendant.",
+      "Cyrus R. Vance, Jr., District Attorney (.Adam Birnbaum of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[38 NYS3d 750]\nThe People of the State of New York, Plaintiff, v David Cutlip, Defendant.\nCriminal Court of the City of New York, New York County,\nSeptember 22, 2016\nAPPEARANCES OF COUNSEL\nSeymour W. James, Jr., The Legal Aid Society, New York City (.Beverly Vu of counsel), for defendant.\nCyrus R. Vance, Jr., District Attorney (.Adam Birnbaum of counsel), for plaintiff."
+  },
+  "file_name": "2484-01",
+  "first_page_order": 1174,
+  "last_page_order": 1182
+}

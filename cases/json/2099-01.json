@@ -1,0 +1,171 @@
+{
+  "id": 4068788,
+  "name": "In the Matter of Korean American Nail Salon Association of New York, Inc. et al., Petitioners, v. Andrew M. Cuomo, Governor of the State of New York, et al., Respondents",
+  "name_abbreviation": "Korean American Nail Salon Ass'n of New York, Inc. v. Cuomo",
+  "decision_date": "2015-12-01",
+  "docket_number": "",
+  "first_page": "731",
+  "last_page": "736",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 731"
+    },
+    {
+      "type": "parallel",
+      "cite": "26 N.Y.S.3d 826"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "427 US 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176316
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0307-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 713",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189007
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0713-01"
+      ]
+    },
+    {
+      "cite": "443 US 55",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179983
+      ],
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0055-01"
+      ]
+    },
+    {
+      "cite": "895 F2d 66",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/895/0066-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 152",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338178
+      ],
+      "pin_cites": [
+        {
+          "page": "163-164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0152-01"
+      ]
+    },
+    {
+      "cite": "39 AD3d 1119",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5525364
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/39/1119-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525208
+      ],
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0133-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 633,
+    "char_count": 11520,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.12901234782413956
+    },
+    "sha256": "4f59bf93b4c32a1dd7165654f561ea7998f499b02fa954f3e16e03e61e97de27",
+    "simhash": "1:50aab021ad566643",
+    "word_count": 1770
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Korean American Nail Salon Association of New York, Inc. et al., Petitioners, v Andrew M. Cuomo, Governor of the State of New York, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMichael H. Melkonian, J.\nIn this hybrid CPLR article 78 proceeding and declaratory judgment action, petitioners, two trade groups representing Korean and Chinese owned nail salons in New York State, seek an order and judgment vacating, voiding, and annulling the September 4, 2015 emergency rule adopted by respondent New York State Department of State (DOS) authorizing the State to enforce a wage bond mandate. Petitioners also seek a declaration that respondent Anthony J. Albanese, Acting Superintendent of the Department of Financial Services (DFS), acted arbitrarily and capriciously and exceeded his authority in issuing an August 7, 2015 certification that the required wage coverage is “readily available” in the marketplace. Respondents oppose and move pursuant to CPLR 3212 for summary judgment dismissing the petition and a denial of all injunctive relief. Petitioners cross-move pursuant to CPLR 3212 for summary judgment prohibiting respondents from enforcing the September 4, 2015 emergency rule and from relying on the August 7, 2015 certification. Petitioners also seek leave to conduct discovery.\nAfter the New York State Department of Labor conducted an investigation of nail salons that resulted in the finding of 116 wage violations at 29 nail salons across New York State, on May 11, 2015 respondent Governor Andrew M. Cuomo launched a multi-agency enforcement task force to investigate unlawful practices and unsafe working conditions in New York nail salons. Thereafter, on May 18, 2015 Governor Cuomo announced a package of legislation and new emergency regulations to protect workers in the nail salon industry. On that same date, the DOS filed emergency regulation DOS-22-15-00010-E, which repealed and added 19 NYCRR 160.9. This regulation required, inter alia, all “appearance enhancement businesses” to purchase wage bonds as security for any unpaid wages. This legislation was signed into law on July 16, 2015 as chapter 80 of the Laws of 2015. The legislation also authorized respondent New York State Secretary of State to fine or order such an appearance enhancement business to cease activity if it is found to be operating without the requisite wage coverage. Under this statute, these provisions do not become enforceable until 60 days after the DFS certifies in writing to the Secretary of State that the required wage coverage is “readily available” in the marketplace. On June 10, 2015, the DOS filed emergency regulation DOS-26-15-0002-E, which superceded the May 18, 2015 emergency regulation. The June 10, 2015 regulation required all appearance enhancement businesses that employ two or more individuals on a full-time basis to provide nail specialty services to purchase wage bonds as security for any unpaid wages. On August 7, 2015, respondent Anthony J. Albanese certified that wage coverage is “readily available.” As a result of this certification, the new wage coverage provisions became enforceable on October 6, 2015. On September 4, 2015, prior to the expiration of the June 10, 2015 emergency regulation, the DOS filed a notice of emergency adoption and a notice of proposed rulemaking affirmatively imposing the wage bond requirements on appearance enhancement businesses that employ two or more individuals on a full-time basis to provide nail specialty services (the September 4, 2015 emergency regulation).\nTo the extent that petitioners argue that Mr. Albanese acted in an arbitrary or capricious fashion or exceeded his authority by certifying that “the bonds and liability insurance necessary to meet the financial guarantee requirements established by DOS are readily available for purchase in New York State,” the court rejects such an argument (see Matter of Board of Educ. of Monticello Cent. School Dist. v Commissioner of Educ., 91 NY2d 133, 139 [1997]; Matter of Viglietta v Mills, 39 AD3d 1119 [3d Dept 2007]). The affidavit of Troy Oechsner, Acting Executive Deputy Superintendent of DFS’s Insurance Division, demonstrates that as of August 7, 2015, the DFS had determined that nine insurers and 12 producers in the existing surety industry intended to issue and sell wage bonds to nail salon owners when they applied for them. Based on the record, it cannot be said to be irrational or unreasonable for Mr. Albanese to ascertain that wage bonds were indeed “readily available” in the marketplace. The court also rejects petitioners’ argument that the DFS lacked the statutory authority to certify that wage coverage is readily available to nail salons. Chapter 80 expressly grants the DFS sole authority to render such a determination. The court also rejects petitioners’ argument that the DOS violated the State Administrative Procedure Act’s requirements in implementing the September 4, 2015 emergency regulation without first identifying the circumstances necessitating such. State Administrative Procedure Act § 202 (6) (d) (iv) requires that an agency seeking an emergency rule adoption to fully articulate in writing\n“the specific reasons for such findings and the facts and circumstances on which such findings are based. Such statement shall include, at a minimum, a description of the nature and, if applicable, location of the public health, safety or general welfare need requiring adoption of the rule on an emergency basis; a description of the cause, consequences, and expected duration of such need; an explanation of why compliance with the requirements of subdivision one of this section would be contrary to the public interest; and an explanation of why the current circumstance necessitates that the public and interested parties be given less than the minimum period for notice and comment provided for in subdivision one of this section.”\nIn response to this requirement of the State Administrative Procedure Act, the DOS prepared a regulatory impact statement, regulatory flexibility analysis, rural area flexibility analysis and job impact statement. The DOS explained the reasons for adopting the September 4, 2015 emergency regulation on an emergency basis by stating the following in the New York State Register:\n“a number of businesses have taken unfair advantage of a significant number of licensed workers who contribute to the community and economy. The ease with which some establishments have been able to deprive workers of fair wages and other rights is due in part to the inadequate protections. On July 15, 2015 Governor Cuomo signed into law new legislation (S.5966) which among other things established new penalties for operating an appearance enhancement business without appropriate wage coverage. This rulemaking is re-adopted on an emergency basis to further the legislative intent of provide [sic] adequate protections to workers.\n“To help ensure that workers receive wages that are legally due, new bonding and insurance requirements are needed. The enhancement of public safety, health and general welfare necessitates the promulgation of this regulation on an emergency basis. [DOS] finds that by imposing new bonding and insurance provisions potential abuses by unscrupulous business owners will be reduced and hardworking employees will be protected” (NY Reg, Sept. 23, 2015 at 12).\nThis court finds that respondents have sufficiently demonstrated that nail salon workers are being deprived of legally due wages and that immediate adoption of the September 4, 2015 emergency regulation was necessary for the preservation of the public health, safety or general welfare of nail salon workers.\nThe court also rejects petitioners’ argument that the DFS certification is violative of their constitutional rights to due process and equal protection. The basic requirements for procedural due process are notice and an opportunity to be heard (Sharrock v Dell Buick-Cadillac, 45 NY2d 152, 163-164 [1978]). Petitioners’ allegations, however, are not based upon an alleged lack of notice and opportunity to be heard. Rather, the amended petition alleges that “respondents’ false certification that wage bonds are ‘readily available for purchase in New York State’ lacks any rational basis and will result in the arbitrary bankruptcies of thousands of small businesses in the State of New York.” Petitioners’ due process claim, therefore, is rejected.\nPetitioners allege that the DFS certification and September 4, 2015 emergency regulation target only those appearance enhancement salons employing individuals who provide nail specialty services—the vast majority they claim are owned by Asian Americans. Because it cannot be disputed, however, that the DFS certification and September 4, 2015 emergency regulation are facially neutral, the test for determining whether the emergency regulation (and the DFS certification) violates equal protection rights is whether there is a rational relationship between the legislation and a legitimate state interest (Cecos Intl., Inc. v Jorling, 895 F2d 66 [2d Cir 1990]). In general, a statutory classification should not be disturbed “ ‘unless the varying treatment of different groups or persons is so unrelated to the achievement of . . . [a] legitimate purpose! ]’ ” that the legislator’s actions must be deemed to have been irrational (see Barry v Barchi, 443 US 55, 67 [1979]; see also Affronti v Crosson, 95 NY2d 713 [2001]). In addition, where a claimed classification is not based on a suspect category (nor affects a fundamental right), it is presumed to be valid, and the burden rests with the challenging party to show its invalidity (see Massachusetts Bd. of Retirement v Murgia, 427 US 307 [1976]).\nTo the extent, if any, that respondents can be deemed to have established separate “classifications” of appearance enhancement establishments, such classification is presumptively valid, and petitioners have offered no evidence that respondents’ conduct was irrational or arbitrary. Respondents’ reasons for imposing the wage bond requirement specifically on businesses that provide nail specialty services was laid out in depth in the legislative history. The legislature explained that it has found abuses in the nail salon industry in particular and determined that the legislation was needed to protect nail salon workers in particular. The State of New York has a legitimate interest in protecting workers in the nail salon industry from unsafe working conditions and unfair labor practices, including wage theft and payment of below-minimum wages. As such, the legislation is related to a legitimate purpose and there has been no violation of equal protection.\nThe parties’ remaining contentions have been considered and are either without merit or not necessary to resolve in light of the foregoing. To the extent petitioners’ move for leave to conduct discovery in order to pursue their claims of constitutional violations, their motion is denied.\nAccordingly, based on the foregoing it is ordered and adjudged and declared that the petition is dismissed; and it is further ordered and adjudged and declared that the request for injunctive relief is denied.",
+        "type": "majority",
+        "author": "Michael H. Melkonian, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eric T Schneiderman, Attorney General, Albany (Justin L. Engel of counsel), for respondents.",
+      "Consovoy McCarthy Park, PLLC, New York City (.Michael H. Park and J. Michael Connolly of counsel), for petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "[26 NYS3d 826]\nIn the Matter of Korean American Nail Salon Association of New York, Inc. et al., Petitioners, v Andrew M. Cuomo, Governor of the State of New York, et al., Respondents.\nSupreme Court, Albany County,\nDecember 1, 2015\nAPPEARANCES OF COUNSEL\nEric T Schneiderman, Attorney General, Albany (Justin L. Engel of counsel), for respondents.\nConsovoy McCarthy Park, PLLC, New York City (.Michael H. Park and J. Michael Connolly of counsel), for petitioners."
+  },
+  "file_name": "2099-01",
+  "first_page_order": 755,
+  "last_page_order": 760
+}

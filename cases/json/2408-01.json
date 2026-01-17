@@ -1,0 +1,114 @@
+{
+  "id": 12170412,
+  "name": "B.W., Plaintiff, v. R.F., Defendant",
+  "name_abbreviation": "B.W. v. R.F.",
+  "decision_date": "2016-06-01",
+  "docket_number": "",
+  "first_page": "366",
+  "last_page": "371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 366"
+    },
+    {
+      "type": "parallel",
+      "cite": "35 N.Y.S.3d 853"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "90 NY2d 127",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        165703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/90/0127-01"
+      ]
+    },
+    {
+      "cite": "36 AD3d 797",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3830130
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/36/0797-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 186",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3753449
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0186-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 450,
+    "char_count": 10801,
+    "ocr_confidence": 0.735,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2469329292943334
+    },
+    "sha256": "c77dc3953ef0e4cf3100ab4426848ff98cdf3b161e3c7c0fbcf0c73893b235b0",
+    "simhash": "1:af734edf3d054c2f",
+    "word_count": 1748
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "B.W., Plaintiff, v R.F., Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLinda Christopher, J.\nIn this matrimonial action the defendant moves for an order granting defendant partial summary judgment setting aside and invalidating the premarital agreement dated October 14, 2004.\nThe parties entered into a premarital agreement on October 14, 2004 and were married in 2004. There are no children of the marriage. Plaintiff commenced this action for divorce on December 18, 2015 by e-filing a summons with notice.\nPursuant to Domestic Relations Law § 236 (B) (3), “[a]n agreement by the parties, made before or during the marriage, shall be valid and enforceable in a matrimonial action if such agreement is in writing, subscribed by the parties, and acknowledged or proven in the manner required to entitle a deed to be recorded.” Real Property Law § 291 provides that “on being duly acknowledged by the person executing the [deed], or proved as required by this chapter,” a deed may be recorded in the county clerk’s office where the real property is situated.\nIn Galetta v Galetta (21 NY3d 186 [2013]), the Court of Appeals was charged with determining whether a prenuptial agreement was valid based on whether the acknowledgment therein was valid. In its analysis the Galetta Court noted that the acknowledgment requirement fulfills the following two purposes: (1) to prove the identity of the person whose name appears on the instrument and to authenticate his or her signature; and (2) to impose a measure of deliberation on the signer in the act of executing the document. (Id. at 191-192.)\nThe Court of Appeals further expounded upon the requirements for a proper acknowledgment in Galetta and wrote,\n“[t]hree provisions of the Real Property Law must be read together to discern the requisites of a proper acknowledgment. Real Property Law § 292 requires that the party signing the document orally acknowledge to the notary public or other officer that he or she in fact signed the document. Real Property Law § 303 precludes an acknowledgment from being taken by a notary or other officer ‘unless he [or she] knows or has satisfactory evidence [ ] that the person making it is the person described in and who executed such instrument.’ And Real Property Law § 306 compels the notary or other officer to execute ‘a certificate . . . stating all the matters required to be done, known, or proved’ and to endorse or attach that certificate to the document. The purpose of the certificate of acknowledgment is to establish that these requirements have been satisfied: (1) that the signer made the oral declaration compelled by Real Property Law § 292; and (2) that the notary or other official either actually knew the identity of the signer or secured ‘satisfactory evidence’ of identity ensuring that the signer was the person described in the document.” {Id. at 192.)\nThe acknowledgment in the prenuptial agreement in Galetta was found to be defective as it did not contain the language required by Real Property Law § 303 indicating that the notary knew the husband or that he or she had ascertained satisfactory evidence that the husband was the person described in the prenuptial agreement. The Court differentiated this type of fatal omission of a core requirement from a certificate that renders the acknowledgment invalid, from an acknowledgment, such as the one at issue in Weinstein v Weinstein (36 AD3d 797 [2d Dept 2007]), that merely utilizes different verbiage than that set forth in the uniform form of certificate of acknowledgment found in Real Property Law § 309-a, but contains all the required substantive elements of a valid acknowledgment. The Court of Appeals described the acknowledgment in Weinstein, that had been found to be valid by the Second Department, as one that “[deviated] in form (in light of Real Property Law § 309-a) but not substance.” (Galetta, 21 NY3d at 194.)\nPursuant to Real Property Law § 309-a, the certificate of acknowledgment, within this state, of a conveyance by a person, must conform substantially with the form set forth therein. The form reads,\n“On the . . . day of. . . in the year . . . before me, the undersigned, personally appeared . . . , personally known to me or proved to me on the basis of satisfactory evidence to be the individual(s) whose name(s) is (are) subscribed to the within instrument and acknowledged to me that he/she/they executed the same in his/her/their capacity(ies), and that by his/her/their signature(s) on the instrument, the individual(s), or the person upon behalf of which the individual(s) acted, executed the instrument.” (Real Property Law § 309-a [1].)\nThe acknowledgment in the prenuptial agreement in the instant matter states,\n“I, _, a Notary Public in and for said County, in the State aforesaid, do hereby certify that [NAME OF PARTY], personally known to me to be one of the persons whose names are subscribed to the foregoing Premarital Agreement, appeared before me this day in person and acknowledged that he has signed, sealed and delivered the foregoing Premarital Agreement as his free and voluntary act, for the uses and purposes therein set forth. Given under my hand and notarial seal this 14th day of October, 2004.”\nDefendant argues that in the instant matter the acknowledgment is defective and therefore, the prenuptial agreement is invalid. Defendant asserts that the acknowledgment does not satisfy the requirement of Real Property Law § 292, and he therefore claims that just as in Galetta, a necessary statutory element is missing from the acknowledgment. It is his contention that Real Property Law § 292 requires that the notary witness the signature and say so in the written certificate. The parties’ acknowledgment states in the past tense that the party “acknowledged that he has signed . . . the . . . Premarital Agreement” (emphasis added). Defendant claims that because of the use of the past tense “has signed” in the acknowledgment, the requirements of Real Property Law § 292, that the notary witness the agreement’s execution and certify this fact in writing, have not been satisfied. Defendant contends that the past tense (“has signed”) found in the parties’ prenuptial acknowledgment improperly eliminates the requirement that the notary witness the signature. He argues that the term “executed the same in his/her/their capacity(ies)” found in the uniform form does not eliminate the requirement that the notary witness the signature. Rather this only relates to the obligation of the signer to state that they signed in their capacity, as an individual, an officer, a partner, etc. Although not determinative, the court notes defendant has not alleged that either party failed to be present before the notary. In fact, plaintiff states in her affidavit in opposition that both parties were present before the notary at their local bank branch when they signed and defendant does not refute her claim in his reply.\nIn resolving this issue, the court looks to Real Property Law § 292, entitled “By whom conveyance must be acknowledged or proved.” Real Property Law § 292 differentiates between conveyances that are acknowledged and conveyances that are proved by use of a subscribing witness. In pertinent part, this section of the Real Property Law reads “such acknowledgment can be made only by the person who executed the conveyance, and such proof can be made only by some other person, who was a witness of its execution, and at the same time subscribed his name to the conveyance as a witness.” Real Property Law § 292 does not state that the notary must say in the acknowledgment that he witnessed the signature. (See Matisoff v Dobi, 90 NY2d 127 [1997].)\nThe court finds that the acknowledgment at issue complies with the requirements of Real Property Law § 292. As set forth in Galetta, Real Property Law § 292 requires that the party signing the document orally acknowledge to the notary public or other officer that he or she in fact signed the document. Here, the certificate of acknowledgment establishes that requirement has been satisfied as it is stated therein that “[NAME OF PARTY], personally known to me to be one of the persons whose names are subscribed to the foregoing Premarital Agreement, appeared before me this day in person and acknowledged that he has signed, sealed and delivered the foregoing Premarital Agreement.”\nContrary to defendant’s argument, the language in the instant acknowledgment conforms substantially with the uniform form certificate of acknowledgment provided in Real Property Law § 309-a. The uniform form provides in pertinent part,\n“On the . . . day of. . .in the year . . . before me, the undersigned, personally appeared . . . , personally known to me or proved to me on the basis of satisfactory evidence to be the individual(s) whose name(s) is (are) subscribed to the within instrument and acknowledged to me that helshelthey executed the same in his/her/their capacity(ies)” (emphasis added).\nThe parties’ acknowledgment provides in pertinent part, “[NAME OF PARTY], personally known to me to be one of the persons whose names are subscribed to the foregoing Premarital Agreement, appeared before me this day in person and acknowledged that he has signed, sealed and delivered the foregoing Premarital Agreement” (emphasis added). Both acknowledgments use the past tense regarding the signing of the document. Contrary to defendant’s contention, the court does not find that the use of the past tense regarding the signing in the parties’ acknowledgment has any different meaning than the use of the past tense in the uniform form.\nIn conclusion, the court finds that the parties’ acknowledgment is valid and is in compliance with the necessary requisites set forth in the Real Property Law. As set forth in the certificate of acknowledgment: (1) the parties made the oral declaration compelled by Real Property Law § 292 that they in fact signed the prenuptial agreement; and (2) the notary actually knew the parties’ identities or secured satisfactory evidence that the signer was the person described in the document.\nAccordingly, defendant’s request for an order granting defendant partial summary judgment setting aside and invalidating the premarital agreement dated October 14, 2004 is denied.\nThe parties and counsel shall appear for a status conference June 9, 2016 at 9:30 a.m. before Court Attorney Referee Laurie Sullivan.\nTo the extent any relief requested in motion sequence No. 1 was not addressed by the court it is hereby denied.",
+        "type": "majority",
+        "author": "Linda Christopher, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Berkman Bottger Newman & Rodd, LLP, New York City Walter F. Bottger of counsel), for defendant.",
+      "The Kitson Law Firm, PLLC, White Plains (Ellen Werfel-Martineau of counsel), for .plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[35 NYS3d 853]\nB.W., Plaintiff, v R.F., Defendant.\nSupreme Court, Westchester County,\nJune 1, 2016\nAPPEARANCES OF COUNSEL\nBerkman Bottger Newman & Rodd, LLP, New York City Walter F. Bottger of counsel), for defendant.\nThe Kitson Law Firm, PLLC, White Plains (Ellen Werfel-Martineau of counsel), for .plaintiff."
+  },
+  "file_name": "2408-01",
+  "first_page_order": 376,
+  "last_page_order": 381
+}

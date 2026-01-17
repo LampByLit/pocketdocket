@@ -1,0 +1,557 @@
+{
+  "id": 4316629,
+  "name": "The People of the State of New York, Respondent, v. Robert A. Bradley, Appellant",
+  "name_abbreviation": "People v. Bradley",
+  "decision_date": "2015-04-20",
+  "docket_number": "",
+  "first_page": "46",
+  "last_page": "51",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 46"
+    },
+    {
+      "type": "parallel",
+      "cite": "14 N.Y.S.3d 612"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "466 US 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "pin_cites": [
+        {
+          "page": "694"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "132 AD2d 682",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3527074
+      ],
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/132/0682-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 708",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525149
+      ],
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0708-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1577801,
+        2342716
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "146"
+        },
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0137-01"
+      ]
+    },
+    {
+      "cite": "290 AD2d 363",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        98115,
+        97284
+      ],
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/290/0363-02",
+        "/ad2d/290/0363-01"
+      ]
+    },
+    {
+      "cite": "3 AD3d 590",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1239784
+      ],
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/3/0590-01"
+      ]
+    },
+    {
+      "cite": "2 AD3d 234",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1243907,
+        1243589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/2/0234-02",
+        "/ad3d/2/0234-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 990",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4017247
+      ],
+      "pin_cites": [
+        {
+          "page": "991"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0990-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 476",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984114
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "481"
+        },
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0476-01"
+      ]
+    },
+    {
+      "cite": "116 AD3d 519",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4015107
+      ],
+      "pin_cites": [
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/116/0519-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 881",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3821660,
+        3808757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0881-01",
+        "/ad3d/114/0881-02"
+      ]
+    },
+    {
+      "cite": "45 NY2d 852",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338247
+      ],
+      "pin_cites": [
+        {
+          "page": "853-854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0852-01"
+      ]
+    },
+    {
+      "cite": "37 Misc 3d 83",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3781480
+      ],
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/37/0083-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436909
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0010-01"
+      ]
+    },
+    {
+      "cite": "11 NY3d 484",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3678542
+      ],
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/11/0484-01"
+      ]
+    },
+    {
+      "cite": "13 NY3d 460",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3687067,
+        3739342
+      ],
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/13/0460-01"
+      ]
+    },
+    {
+      "cite": "107 AD3d 730",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3721467
+      ],
+      "pin_cites": [
+        {
+          "page": "731"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/0730-01"
+      ]
+    },
+    {
+      "cite": "36 NY2d 230",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2317079
+      ],
+      "pin_cites": [
+        {
+          "page": "240-242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/36/0230-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 222",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5716022
+      ],
+      "pin_cites": [
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0222-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 823",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3737063
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0823-01"
+      ]
+    },
+    {
+      "cite": "82 AD3d 1007",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4015229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/82/1007-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 847",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4296186
+      ],
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0847-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 835",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8596789
+      ],
+      "pin_cites": [
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0835-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 16",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3735185
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "19"
+        },
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0016-01"
+      ]
+    },
+    {
+      "cite": "41 Misc 3d 48",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3791723
+      ],
+      "pin_cites": [
+        {
+          "page": "50-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/41/0048-01"
+      ]
+    },
+    {
+      "cite": "20 Misc 3d 76",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3159120
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/20/0076-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3711560,
+        3712788
+      ],
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0688-01",
+        "/ad3d/57/0688-02"
+      ]
+    },
+    {
+      "cite": "8 NY3d 535",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5694698
+      ],
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0535-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 638,
+    "char_count": 9891,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 5.298132930532853e-8,
+      "percentile": 0.3335489829715941
+    },
+    "sha256": "60c78fa9e35faae9923c91631dda71e42e1e1638ff669f427f17d50134589ec4",
+    "simhash": "1:33d29b65c3c8c2f0",
+    "word_count": 1592
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Tolbert, J.P., Maraño and Garguilo, JJ., concur."
+    ],
+    "parties": [
+      "The People of the State of New York, Respondent, v Robert A. Bradley, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that so much of the appeal as is from the judgment convicting defendant of aggravated harassment in the second degree is dismissed; and it is further ordered that the judgment convicting defendant of stalking in the fourth degree is affirmed.\nOn September 1, 2010, the People charged defendant in an information with aggravated harassment in the second degree (Penal Law § 240.30 [1] [a]). On April 26, 2011, the People charged defendant, in separate informations, with stalking in the third degree (Penal Law § 120.50 [3]) and stalking in the fourth degree (Penal Law § 120.45 [1]), respectively. The informations alleged, in essence, that between February 14, 2010 and August 28, 2010, defendant, although warned that his conduct was unwelcomed, engaged in a course of conduct that harassed the victim, a female more than 30 years his junior, and that he stalked her, causing her to fear for her personal safety and that of her family. Following motion practice and the People’s disclosure, a Molineux hearing was held to determine the admissibility of evidence of defendant’s conduct, from October 2004 through December 2009, which, the People contended, was necessary to provide a frame of reference to enable the jury to evaluate the proof pertaining to the period charged, including defendant’s intent and the victim’s reaction to that conduct. The District Court admitted the proof, to give “context” to the conduct alleged in the accusatory instruments.\nAt a jury trial, the victim testified to her initial contact with defendant, in 2004, when, employed as a bank teller, she had assisted defendant, a customer with whom she had no prior acquaintance, with a banking issue. There immediately ensued a pattern of conduct towards the victim, which included a long series of letters, cards and notes, increasingly of a personal and ultimately sexual nature, and which evidenced defendant having surreptitiously observed the victim at her home and with friends, in a manner that caused the victim to fear for her safety. This conduct persisted notwithstanding a statement from the victim to defendant, in the presence of her employer and the police, that his attentions were not wanted, a similar warning from the police to defendant at defendant’s home, and the victim’s refusal to accept gifts or to initiate any communication with defendant. The jury acquitted defendant of the charge of stalking in the third degree and convicted him of aggravated harassment in the second degree and of stalking in the fourth degree. On appeal, defendant alleges error with respect to the time frame alleged in the instrument charging him with stalking in the fourth degree, the trial court’s Molineux ruling, the sufficiency of the evidence, and the representation of trial counsel.\nDefendant’s appeal from the judgment convicting him of aggravated harassment in the second degree is dismissed as academic, as, on or about June 20, 2014, the District Court vacated that judgment of conviction and dismissed the accusatory instrument charging that offense.\nOn the facts and circumstances presented, the time frame alleged in the instrument accusing defendant of stalking in the fourth degree was not per se unconstitutional (People v Sedlock, 8 NY3d 535, 538 [2007]; People v Bennett, 57 AD3d 688, 690 [2008]; People v Rozarlo, 20 Misc 3d 76, 81 [App Term, 2d Dept, 9th & 10th Jud Dists 2008]; cf. People v Boyette, 41 Misc 3d 48, 50-51 [App Term, 2d Dept, 9th & 10th Jud Dists 2013]) and, absent timely objection, we decline to reach the issue (CPL 470.05 [2]).\nWe find that the Molineux ruling was appropriate given the “nonpropensity purpose [s]” for which the evidence had probative value (People v Dorm, 12 NY3d 16, 19 [2009]; People v Till, 87 NY2d 835, 837 [1995]; People v Harris, 117 AD3d 847, 854 [2014]; People v Holden, 82 AD3d 1007 [2011] [collecting cases]). The uncharged acts “involved the very same victim as the charged acts” (People v Leeson, 12 NY3d 823, 827 [2009]) and “provided necessary background information on the nature of the relationship and placed the charged conduct in context” (Dorm, 12 NY3d at 19), particularly where, as here, the defense, virtually by necessity, rested on the argument that the proof failed to establish that defendant’s intent was other than to communicate his infatuation with the victim, and the belief, however mistaken, that with persistence, he could encourage her to reciprocate his affections. The Molineux evidence established, among other things, that, in the period prior to February 2010, defendant had twice been advised — once by the victim at a workplace meeting where her employer and the police were also present, and, on another occasion, by the police — that his attentions were not wanted, and that defendant had knowledge of the victim’s activities that could only have been acquired by personal observation, implying that he had surreptitiously observed her home and social life. Defendant’s actual presence at or near the victim’s home was established by his leaving letters, cards and newspaper clippings at her door and on her car while it was parked at her home, cleaning her car, and observing the habits of members of the victim’s family and social connections. His communications became increasingly intimate in nature, involving, among other things, a crescendo of comments on her physical qualities and his sexual longings, and references to his becoming out of control and intending to invade her domestic life. The proof of these matters was highly probative of the criminal nature of the conduct alleged in the period of February through August 2010, that is, of his intent to stalk the victim.\nEven if it could be said that the Molineux ruling was over-broad, given the overwhelming evidence of defendant’s guilt there is “no reasonable possibility or significant probability” that the error “affected the jury’s verdict, or that the absence of such error[ ] would have led to an acquittal” (People v Rivers, 18 NY3d 222, 227 [2011], citing People v Crimmins, 36 NY2d 230, 240-242 [1975]; e.g. People v Addison, 107 AD3d 730, 731 [2013] [“as there was overwhelming evidence of the defendant’s guilt and no significant probability that this error contributed to (the) conviction . . . the prejudicial effect of the evidence . . . ‘could not have added much to the effect of the evidence properly admitted’ ” (citations omitted)], quoting People v Arafet, 13 NY3d 460, 468 [2009]). Defendant’s only preserved claim of legal insufficiency is with respect to the element of intent (cf. CPL 470.05 [2]; People v Hawkins, 11 NY3d 484, 492 [2008]; People v Gray, 86 NY2d 10, 19 [1995]), and, for the reasons noted above, we find that the proof of the acts constituting the offense amply evidenced defendant’s intent, given the highly credible testimony of the victim and others as to the victim’s reactions to defendant’s egregiously inappropriate behavior during the period charged (see People v Carboy, 37 Misc 3d 83, 85 [App Term, 2d Dept, 9th & 10th Jud Dists 2012]).\nFinally, we do not agree that defendant was ineffectively represented by trial counsel. First, defendant failed to move pursuant to CPL 440.10 to obtain a review of counsel’s trial strategy and other matters that are dehors the record (People v Brown, 45 NY2d 852, 853-854 [1978]; People v McNair, 114 AD3d 881 [2014]), and, as this case does not represent one of those “rare instances where the full record is sufficient to resolve the issue of counsel’s effectiveness without a 440.10 motion” (People v Medina-Gonzalez, 116 AD3d 519, 520 [2014]; cf. People v Turner, 5 NY3d 476, 481 [2005]), we are limited to the narrow scope of review permitted by the existing record (People v Troche, 81 AD3d 990, 991 [2011]; People v Lopez, 2 AD3d 234 [2003]). The record reveals that trial counsel made the requisite pretrial motions and demands, and argued against the People’s application to admit Molineux evidence on appropriate grounds. Counsel’s opening and closing statements emphasized the People’s burden of proof and set forth an entirely logical defense in light of the anticipated and actual overwhelming proof of defendant’s conduct, that is, the absence of defendant’s intent to commit the offenses (see e.g. People v Dorsey, 3 AD3d 590, 592 [2004]; People v Benitez, 290 AD2d 363, 364 [2002]). Trial counsel appeared prepared for trial as to the facts and law, and his cross-examination of the victim elicited testimony that favored the defense and required the prosecutor to elicit additional testimony to ameliorate the damaging impact of certain of the victim’s answers. “[T]rial tactics which terminate unsuccessfully do not automatically indicate ineffectiveness” (People v Baldi, 54 NY2d 137, 146 [1981]), and it has been held that, as a general rule, “ ‘counsel’s efforts should not be second-guessed with the clarity of hindsight’ ” (People v Turner, 5 NY3d at 480, quoting People v Benevento, 91 NY2d 708, 712 [1998]; e.g. People v Rodriguez, 132 AD2d 682, 682 [1987]). On the record before us, “viewed in totality,” we find that defendant received “meaningful representation” (People v Baldi, 54 NY2d at 147), and that there is no “reasonable probability” that but for trial counsel’s alleged shortcomings the result would have been different (Strickland v Washington, 466 US 668, 694 [1984]).\nAccordingly, the judgment convicting defendant of stalking in the fourth degree is affirmed.\nTolbert, J.P., Maraño and Garguilo, JJ., concur.",
+        "type": "majority",
+        "author": "Memorandum."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Glenn Gucciardo, Northport, for appellant.",
+      "Thomas J. Spota III, District Attorney, Riverhead (Lauren Tan of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[14 NYS3d 612]\nThe People of the State of New York, Respondent, v Robert A. Bradley, Appellant.\nSupreme Court, Appellate Term, Second Department, 9th and 10th Judicial Districts,\nApril 20, 2015\nAPPEARANCES OF COUNSEL\nGlenn Gucciardo, Northport, for appellant.\nThomas J. Spota III, District Attorney, Riverhead (Lauren Tan of counsel), for respondent."
+  },
+  "file_name": "1800-01",
+  "first_page_order": 98,
+  "last_page_order": 103
+}

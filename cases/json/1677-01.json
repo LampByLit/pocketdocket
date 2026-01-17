@@ -1,0 +1,904 @@
+{
+  "id": 12167132,
+  "name": "SAFEWAY, INC., Defendant/Cross-Claimant-Respondent, v. ROOTER 2000 PLUMBING AND DRAIN SSS, Defendant/Cross-Defendant-Petitioner",
+  "name_abbreviation": "Safeway, Inc. v. Rooter 2000 Plumbing & Drain SSS",
+  "decision_date": "2016-02-18",
+  "docket_number": "Docket No. S-1-SC-33969",
+  "first_page": "420",
+  "last_page": "435",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMSC-009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M.",
+    "id": 8835,
+    "name": "Supreme Court of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "458 S.E.2d 457",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "838 So.2d 803",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9371327
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "806-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/838/0803-01"
+      ]
+    },
+    {
+      "cite": "61 P.3d 86",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        1363736
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan-app-2d/31/0089-01"
+      ]
+    },
+    {
+      "cite": "784 N.E.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        9360678
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "575-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/784/0566-01"
+      ]
+    },
+    {
+      "cite": "855 So.2d 169",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9083802
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/855/0169-01"
+      ]
+    },
+    {
+      "cite": "609 S.E.2d 895",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        8931278
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/216/0634-01"
+      ]
+    },
+    {
+      "cite": "780 N.Y.S.2d 159",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        2230740
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/9/0341-02"
+      ]
+    },
+    {
+      "cite": "9 A.D.3d 341",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2230713,
+        2230740
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "342"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/9/0341-01",
+        "/ad3d/9/0341-02"
+      ]
+    },
+    {
+      "cite": "229 F. Supp. 2d 4",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9318773
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "applying Massachusetts law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/229/0004-01"
+      ]
+    },
+    {
+      "cite": "364 F. Supp. 2d 1330",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9012283
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1339-40",
+          "parenthetical": "applying Alabama law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/364/1330-01"
+      ]
+    },
+    {
+      "cite": "341 F.3d 644",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9099841
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "652-653",
+          "parenthetical": "applying Illinois law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/341/0644-01"
+      ]
+    },
+    {
+      "cite": "2009-NMCA-081",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4244385
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0717-01"
+      ]
+    },
+    {
+      "cite": "106 N.M. 573",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        707842
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/106/0573-01"
+      ]
+    },
+    {
+      "cite": "1987-NMSC-116",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 N.M. 588",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1575595
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/95/0588-01"
+      ]
+    },
+    {
+      "cite": "1981-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 P.3d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-004",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4240950
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0222-01"
+      ]
+    },
+    {
+      "cite": "285 P.3d 622",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-029",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4188995
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0433-01"
+      ]
+    },
+    {
+      "cite": "2010-NMCA-068",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4246669
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        },
+        {
+          "parenthetical": "internal quotation marks and citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0477-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-067",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4242436
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0316-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-027",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        834225
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0643-01"
+      ]
+    },
+    {
+      "cite": "117 N.M. 628",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1552638
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/117/0628-01"
+      ]
+    },
+    {
+      "cite": "2006-NMSC-029",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2542587
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/139/0659-01"
+      ]
+    },
+    {
+      "cite": "98 N.M. 152",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1582523
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/98/0152-01"
+      ]
+    },
+    {
+      "cite": "1982-NMCA-048",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 33"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004-NMCA-114",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224594
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0394-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-015",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4251393
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0097-01"
+      ]
+    },
+    {
+      "cite": "96 N.M. 682",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1577286
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/96/0682-01"
+      ]
+    },
+    {
+      "cite": "1981-NMSC-021",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 30"
+        },
+        {
+          "page": "¶ 29"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "771 A.2d 683",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1259864
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/339/0296-01"
+      ]
+    },
+    {
+      "cite": "74 N.M. 238",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2799106
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/74/0238-01"
+      ]
+    },
+    {
+      "cite": "1964-NMSC-099",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 N.M. 542",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1561223
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/119/0542-01"
+      ]
+    },
+    {
+      "cite": "1995-NMSC-020",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 36"
+        },
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶¶ 12-13"
+        },
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 N.M. 86",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        708610
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/106/0086-01"
+      ]
+    },
+    {
+      "cite": "1987-NMCA-072",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 N.M. 473",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566950
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/44/0473-01"
+      ]
+    },
+    {
+      "cite": "1940-NMSC-049",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 43, 50"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 N.E.3d 993",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "case_ids": [
+        4291679
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "998",
+          "parenthetical": "discussing origins of distinction between active and passive tortfeasors and role played by common-law lack of contribution"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0501-01"
+      ]
+    },
+    {
+      "cite": "282 N.E.2d 288",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "292-95"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "578 P.2d 899",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "908",
+          "parenthetical": "\"[T]he equitable indemnity doctrine originated in the common sense proposition that when two individuals are responsible for a loss, but one of the two is more culpable than the other, it is only fair that the more culpable party should bear a greater share of the loss.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 N.M. 187",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        322351
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0187-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-047",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "843 P.2d 561",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10358725
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "573",
+          "parenthetical": "\"[Traditional] indemnity's growth may be directly traced to a reaction to the common law prohibition of contribution.\" (citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/843/0561-01"
+      ]
+    },
+    {
+      "cite": "21 Cornell L. Rev. 552",
+      "category": "journals:journal",
+      "reporter": "Cornell L. Rev.",
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "557-59",
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 N.M. 432",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5358958
+      ],
+      "weight": 2,
+      "year": 1799,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/80/0432-01"
+      ]
+    },
+    {
+      "cite": "1969-NMSC-089",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "year": 1799,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        },
+        {
+          "page": "¶ 6"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008-NMCA-037",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3784392
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0574-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-046",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        827320
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0396-01"
+      ]
+    },
+    {
+      "cite": "2013-NMCERT-001",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "297 P.3d 347",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-021",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4190848
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶¶ 1, 26-27"
+        },
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "¶¶ 26-27, 29"
+        },
+        {
+          "page": "¶ 28"
+        },
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/3/0352-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1552,
+    "char_count": 47592,
+    "ocr_confidence": 0.783,
+    "pagerank": {
+      "raw": 4.436057418262789e-8,
+      "percentile": 0.2783220180018217
+    },
+    "sha256": "a667e9ce0fc18fccc3955f8baa45fc0b776ce6dc81d1cdd9f1ea50acfb00fd5e",
+    "simhash": "1:b521f132aaf417a8",
+    "word_count": 7381
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "PETRA JIMENEZ MAES, Justice",
+      "BARBARA J. VIGIL, Chief Justice",
+      "EDWARD L. CHÁVEZ, Justice",
+      "CHARLES W. DANIELS, Justice",
+      "JUDITH NAKAMURA, Justice, not participating"
+    ],
+    "parties": [
+      "SAFEWAY, INC., Defendant/Cross-Claimant-Respondent, v. ROOTER 2000 PLUMBING AND DRAIN SSS, Defendant/Cross-Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nMAES, Justice.\n{1} This appeal arises out of a cross-claim for contractual and traditional indemnification. The complaint alleged that Plaintiffs, Briana Fierro and Jason Fierro, suffered injuries when a baby changing table collapsed in a Safeway store, and that the collapse was the result of negligence on the part of Safeway, Inc. (Safeway) and Rooter 2000 Plumbing and Drain SSS (Rooter). The central issue is whether the right to traditional indemnification is available notwithstanding New Mexico’s adoption of comparative fault where the jury compared and apportioned fault among concurrent tortfeasors. After reviewing the genesis of traditional indemnification and the adoption of contribution and comparative negligence, we hold that traditional indemnity does not apply when the jury finds a tortfeasor actively at fault and apportions liability using comparative fault principles. The second issue on appeal is whether the duty to insure and defend provision of the Standard Service Provider Terms and Conditions Agreement (Agreement) between Rooter and Safeway is void and unenforceable under NMSA 1978, Section 56-7-1 (1971, amended 2005). We hold that it is. Therefore, we reverse the Court of Appeals and affirm the district court’s grant of summary judgment in favor of Plaintiffs.\nI. FACTS AND PROCEDURAL HISTORY\n{2} Safeway owns and operates a grocery store in Gallup, New Mexico. Thirteen months after Rooter installed a diaper changing table in Safeway’s Gallup store bathroom, Briana Fierro and her baby, Jaye Fierro (Plaintiffs), suffered personal injuries when the changing table became dislodged and fell from the wall because the butterfly bolts were apparently installed backwards. Plaintiffs’ initial complaint against Safeway alleged negligence and personal injuries resulting from the faulty changing table. Plaintiffs filed a second amended complaint naming Rooter as a defendant and alleging that Rooter was negligent in its installation of the baby changing station. Plaintiffs further alleged negligence per se, strict liability, breach of implied warranty, and claims under the doctrine of respondeat superior against all defendants. Safeway filed a cross-claim against Rooter seeking defense, indemnification, contribution, and damages pursuant to both New Mexico common law and the Agreement signed by both parties. The relevant provision of the Agreement provides that:\n[Rooter] shall indemnify, defend and hold [Safeway] harmless from and “against;” any and all claims, losses, damages, liabilities, and expenses (including the costs of investigation and attorney’s fees) in connection with any claim or cause of action arising from any act or omission of [Rooter;], its employees, agents, and representatives, in the performance of its obligations under this Agreement, except where the claim, loss or damage is caused by the sole negligence of [Safeway],\nThe Agreement also stated that Rooter was to name Safeway as an additional insured under its insurance policy. Both Rooter and its insurance carrier refused to defend or indemnify Safeway. Rooter took the position that New Mexico’s anti-indemnification statute, Section 56-7-1, voided any obligation it had to Safeway, and Rooter’s insurance company denied coverage because it had not been named as an insured on the Rooter policy; thus the policy did not cover Safeway.\n{3} Rooter then filed a motion for summary judgment on Safeway’s cross-claim, asserting that Safeway had no right to indemnification. The district court found as a matter of law that there is no dispute that Safeway will not have to pay for any negligence that is found to have been committed by Rooter. Safeway did not object to or dispute the district court’s finding. The district court granted Rooter’s motion for summary judgment, finding that the Agreement’s contractual indemnification requirements were void and unenforceable as a matter of New Mexico law, foreclosing Safeway’s rights to indemnity, defense, and insurance. In granting Rooter’s motion for summary judgment, the district court thereby dismissed Safeway’s claim for contractual indemnification.” The district court did not indicate whether it applied the original 1971 of the anti-indemnification statute, or the version as amended in 2003 that specifically invalidates agreements to insure and defend against an indemnitee’s negligence, when it concluded that the contractual indemnification was void. See NMSA 1978, Section 56-7-1 (A) (2003, as amended in 2005). The district court further found that Plaintiffs were not seeking liability or damages from Safeway for Rooter’s acts or omissions and thus similarly dismissed Safeway’s claim for common law indemnification. The district court determined that Safeway could request that Rooter be included on a special verdict form for the purpose of allocating fault.\n{4} Plaintiffs ultimately settled all of their claims against Rooter, so those two parties filed a joint motion to dismiss all claims against Rooter, which the district court granted. The case then proceeded to trial on Plaintiffs claims against Safeway. At the close of evidence, the jury returned a comparative fault special verdict form.\n{5} The special verdict form submitted to the jury asked four questions. The first asked, “[w]as [Safeway] negligent?” The jirry answered yes. The second question asked, “[w]as any negligence of [Safeway] a cause of Plaintiffs injuries and damages?” Again, the jury answered yes. The third question and answer established the total damages suffered by Plaintiff to be $450,000. The fourth question asked the jury to do the following:\nQuestion No. 4: Compare the negligence of the following persons or entities and find a percentage for each. The total of the percentages must equal 100%, but the percentage for any one or more of the persons or entities named may be zero [if] you find that such person or entity was not negligent or that any negligence on the part of such person or entity was not a cause of damage.\nSafeway _%\nRooter 2000 _%\n100% TOTAL\nThe jury entered “40” for Safeway’s negligence because as alleged in Plaintiffs Uniform Jury Instruction 13-302 NMRA, Safeway either failed to exercise ordinary care to (1) provide proper hardware to Rooter, (2) supervise the installation of the baby changing table, or (3) conduct reasonable inspection of the table during the ensuing thirteen months. The jury entered “60” for Rooter’s negligence.\n{6} Safeway appealed to the Court of Appeals for review of the district court’s order granting summary judgment in favor of Rooter, thus denying Safeway’s cross-claim againstRooter for common law indemnification, as well as Safeway’s cross-claims alleging Rooter had a contractual duty to indemnify, defend, and insure Safeway. The Court of Appeals, considering New Mexico’s common law of indemnity, and the importance of the instant jury’s apportionment of fault amongst Safeway and Rooter, determined that “[t]he fact that the jury apportioned fault between the parties at trial does not strip away Safeway’s common law right of indemnification to obtain full recovery for damages assessed against it from Rooter, assuming that Safeway is found by the jury to be a passive tortfeasor.” Safeway, Inc. v. Rooter 2000 Plumbing & Drain SSS, 2013-NMCA-021, ¶ 23, 297 P.3d 347 (citations omitted). Because the Court of Appeals determined that there were still genuine issues of material fact regarding whether Rooter owed Safeway a common law right of indemnification, and whether Rooter’s duty to insure Safeway was breached, it reversed the district court’s grant of summary judgment. See Id. ¶¶ 24, 30-31.The Court of Appeals also held that the 1971 version of Section 56-7-1 applied to the parties’ contract and that the statute voided Rooter’s “agreement to indemnify but not its agreement to defend and insure.” Safeway, 2013-NMCA-021, ¶¶ 1, 26-27.\n{7} Rooter appealed the following two issues to this Court pursuant to Rule 12-502 NMRA: (1) whether the Court of Appeals erred in holding that there are genuine issues of material fact regarding whether Safeway has any common law right to indemnification against Rooter where Rooter had settled and satisfied its proportionate share of liability with the Plaintiffs; and (2) whether the Court of Appeals erred in holding that Rooter owes Safeway its defense fees and costs even though the contractual indemnification provision between Safeway and Rooter is void and unenforceable as a matter of law. We granted certiorari. Safeway, Inc. v. Rooter 2000 Plumbing & Drain SSS, 2013-NMCERT-001 (No. 33,969, Jan. 28, 2013).\nII. STANDARD OF REVIEW\n{8} This appeal requires this Court to review a lower court’s grant of summary judgment. “Summary judgment is appropriate where there are no genuine issues of material fact and the movant is entitled to judgment as a matter of law.” Self v. United Parcel Serv., Inc., 1998-NMSC-046, ¶ 6, 126 N.M. 396, 970 P.2d 582 (citation omitted). A lower court’s grant or denial of summary judgment is reviewed de novo. See id. “The validity of an indemnification agreement and interpretation of statutes raises issues of law, which we review de novo.” J.R. Hale Contracting Co., Inc. v. Union Pac. R.R., 2008-NMCA-037, ¶ 62, 143 N.M. 574, 179 P.3d 579 (citation omitted). All issues raised in this appeal are legal issues, which we review de novo.\nIII. DISCUSSION\n{9} Rooter argues that because it satisfied its proportionate share of negligence with the Plaintiffs, and because Safeway was never held liable for Rooter’s negligence, Safeway does not have a right to traditional indemnification against Rooter. Rooter further asserts that traditional indemnification is inapplicable where fault can be apportioned under comparative negligence principles to the party seeking indemnification. Rooter, therefore, concludes that because each party was held liable for their proportionate share of the fault, there is no basis for traditional indemnification and the district court’s grant of summary judgment was proper.\n{10} Safeway responds that it is entitled to traditional indemnification from Rooter because a jury’s apportionment of fault does not preclude Safeway’s right to common law indemnification against Rooter. Safeway argues that “[njotwithstanding the doctrine of comparative negligence, New Mexico still adheres to traditional and proportional indemnity principles in some circumstances.” Such circumstances include vicarious liability cases, to which Safeway analogizes to the nondelegable duty doctrine that also being the theory under which Plaintiffs had originally sought damages.\n{11} The doctrines of indemnity are perplexing as a result of their often misunderstood relationship to contribution. Indeed, the parties in this case often confuse or incorrectly interchange traditional and proportional indemnity in their arguments. In addition, our shift from contributory negligence to comparative negligence and several liability has further confused the doctrines. We take this opportunity to clarify the relationships between traditional indemnification, proportional indemnification, contribution, and comparative negligence. We refer to common law indemnification, sometimes called equitable indemnification, as traditional indemnification for the sake of clarity and consistency.\nA. The origins of traditional indemnity sought to mitigate the common law rule against contribution among tortfeasors\n{12} The common law did not permit contribution or any form of pro rata contribution among tortfeasors. See Rio Grande Gas Co. v. Stahmann Farms, Inc., 1969-NMSC-089, ¶ 6, 80 N.M. 432, 457 P.2d 364; Merryweatherv. Nixan, 8 Term R. 186, 101 Eng. Rep. 1337 (K.B. 1799). The basic theoretical bar at common law to any apportionment among those who committed torts, whether by indemnity or by contribution, was the unwillingness of the law as a matter of policy to make relative value judgments of degrees of culpability. See 42 C.J.S. Indemnity, § 27 (2015). Additionally, tort law was considered punitive, thus distribution among tortfeasors diluted its impact. See Francis H. Bohlen, Contribution and Indemnity Between Tortfeasors, 21 Cornell L. Rev. 552, 557-59 (1936)(footnotes omitted). Commentators and scholars criticized the doctrine’s all-or-nothing philosophy terming it a “chronic invalid who will not die.” W. Page Keeton, et al., Prosser & Keeton on the Law of Torts § 65, at 453 (5th ed. 1984).\n{13} As a result of the common law rule against contribution, courts resorted to the doctrine ofindemnity to mitigate the harshness of the no-contribution rule. See Schneider Nat., Inc. v. Holland Hitch Co., 843 P.2d 561, 573 (Wyo. 1992) (“[Traditional] indemnity’s growth may be directly traced to a reaction to the common law prohibition of contribution.” (citation omitted)). This Court likewise “realized that the bar against contribution often worked inequities,” which “led to the recognition of actions for indemnification which provided for a complete shifting of liability from one party to another in cases where a party was held only vicariously liable.” Otero v. Jordan Rest. Enters., 1996-NMSC-047, ¶ 9, 122 N.M. 187, 922 P.2d 569 (emphasis, internal quotation marks, and citation omitted).\n{14} Courts began to discover, however, that the bar to contribution among fault-bearing tortfeasors worked injustice in certain other cases in which the indemnitee, while to some degree personally at fault, was much less culpable than the indemnitor. Some courts thus expanded indemnity to include cases where the difference in relative degrees of fault was so great that the negligence of one tortfeasor could be judged “active” in relation to the “passive” negligence of the other. See Am. Motorcycle Ass‘n v. Super. Ct., 578 P.2d 899, 908 (Cal. 1978) (“[T]he equitable indemnity doctrine originated in the common sense proposition that when two individuals are responsible for a loss, but one of the two is more culpable than the other, it is only fair that the more culpable party should bear a greater share of the loss.”); Dole v. Dow Chem. Co., 282 N.E.2d 288, 292-95 (N.Y. 1972) superseded by statute as stated in N.Y. Hosp. Medical Ctr. Of Queens v. Microtech Contracting Corp., 5 N.E.3d 993, 998 (N.Y. 2014) (discussing origins of distinction between active and passive tortfeasors and role played by common-law lack of contribution).\n{15} New Mexico first adopted the active/passive and in pari delicto tests in the 1940s and continues to follow these doctrines today. See Krametbauer v. McDonald, 1940-NMSC-049, ¶¶ 43, 50, 44 N.M. 473, 104 P.2d 900 (holding that indemnity was not allowed because negligence of both parties was “active”). Acting in pari delicto simply refers to the parties being “negligent in an equal degree.” Trujillo v. Berry, 1987-NMCA-072, ¶ 7, 106 N.M. 86, 738 P.2d 1331 (internal quotation marks and citation omitted). The right to traditional indemnification “involves whether the conduct of the party seeking indemnification was passive and not active or in pari delicto with the indemnitor.” Amrep Southwest, Inc. v. Shollenbarger Wood Treating, Inc. (In re Consol. Vista Hills Retaining Wall Litig.), 1995-NMSC-020, ¶ 10, 119 N.M. 542, 893 P.2d 438 (Amrep).\nActive conduct ‘is found if an indemnitee has personally participated in an affirmative act of negligence, was. connected with negligent acts or omissions by knowledge or acquiescence, or has failed to perform a precise duty which the indemnitee had [a duty to perform]’. Passive conduct occurs when the party seeking indemnification fails to discover and remedy a dangerous situation created by the negligence or wrongdoing of another.\nId. ¶ 12 (citations omitted). “In essence, traditional indemnification is a judicially created common-law right that grants to one who is held liable an all-or-nothing right of recovery from a third party . ...” Id. ¶ 7.\n{16} New Mexico also enacted the Uniform Contribution Among Tortfeasors Act (UCATA) in 1947 as another method to avoid the harshness of the rule against contribution without changing the underlying law of joint and several liability. See NMSA 1978, §§ 41-3-1 to -8 (1947, as amended through 1987). The purpose of this Act was “to provide for a proportionate allocation of the burden among tortfeasors who are liable”, Rio Grande Gas Co., 1969-NMSC-089, ¶ 6 (citations omitted), and “to prevent [the injured person] from relieving one joint tortfeasor of the obligation of contribution except where the injured person has also released the other tortfeasors from [their] pro rata share of the common liability”. See Garrison v. Navajo Freight Lines, Inc., 1964-NMSC-099, ¶ 6, 74 N.M. 238, 392 P.2d 580 (omission in original) (citation omitted); see also Burt v. W. Jersey Health Sys., 771 A.2d 683, 687 (N.J. Super. Ct. App. Div. 2001) (“The Joint Tortfeasors Contribution Law is also designed to ‘alleviate the evident harshness and inequity of the common-law rule . . . pursuant to which there was no right of joint tortfeasors to seek allocation among themselves of the burden of their fault.’” (citation omitted)). The UCATA expressly reserved the right to indemnity in New Mexico. See Section 41-3-6 (providing that this Act “does not impair any right of indemnity under existing law”).\n{17} In conclusion, both traditional indemnity and the UCATA sought to soften the all-or-nothing rule of common law contributory negligence. Traditional indemnification and the active/passive test evolved as a restitutionary device designed to ensure that the most culpable party, as between the two wrongdoers, bore the ultimate loss. In contrast, whereas traditional indemnification implies shifting 100% of the loss to the passive tortfeasor, contribution contemplates a shift of only part of the loss to the other tortfeasor. See Rio Grande Gas Co., 1969-NMSC-089, ¶ 13 (“[T]he difference between indemnity and contribution in cases between persons liable for an injury to another is that, with indemnity, the right to recover springs from a contract, express or implied, and enforces a duty on the primary wrongdoer to respond for all damages; with contribution, an obligation is imposed by law upon one joint tortfeasor to contribute his share to the discharge of the common liability.”).\nB. New Mexico adopts comparative fault and several liability but retains the rights to indemnity and contribution\n{18} The move to comparative negligence began with this Court’s ruling in Scott v. Rizzo, 1981-NMSC-021, ¶ 30, 96 N.M. 682, 634 P.2d 1234, superseded by statute as stated in Delfino v. Griffo, 2011-NMSC-015, ¶ 23, 150 N.M. 97, 257 P.3d 917. This Court established a system of comparative fault which, rather than barring a plaintiffs recovery completely if the plaintiff was at fault, allows liability for damages to be split amongst negligent actors who contribute to a harm suffered.\nThe thrust of the comparative negligence doctrine is to accomplish (1) apportionment of fault between or among negligent parties whose negligence proximately causes any part of [a] loss or injury, and (2) apportionment of the total damages resulting from such loss or injury in proportion to the fault of each party.\nId. ¶ 20.\n{19} Comparative negligence limits a party’s liability in such a way that joint and several liability does not: “[A]ll parties [are] fully responsible for their own respective acts to the degree that those acts have caused harm,” and a “jury must ascertain the percentage of negligence of all participants to an occurrence,” so that no party is held liable under comparative negligence for the harm that party did not inflict. Garcia v. Gordon, 2004-NMCA-114, ¶ 8, 136 N.M. 394, 98 P.3d 1044 (internal quotation marks and citation omitted). The Scott court noted that the pure form of comparative negligence has three benefits: (1) it denies recovery for one’s own fault; (2) it permits recovery to the extent of another’s fault; and (3) it holds parties responsible to the degree that they have caused harm. See 1981-NMSC-021, ¶ 29.\n{20} Not long after Scott, the Court of Appeals held that “[j]omt and several liability is not to be retained in our pure comparative negligence system on a theory of one indivisible wrong. The concept of one indivisible wrong, based on common law technicalities, is obsolete, and is not to be applied in comparative negligence cases in New Mexico.” Bartlett v. N.M. Welding Supply, Inc., 1982-NMCA-048, ¶ 33, 98 N.M. 152, 646 P.2d 579 (citation omitted), superseded by statute as stated in Payne v. Hall, 2006-NMSC-029, ¶ 11, 139 N.M. 659, 137 P.3d 599 (citation omitted).\n{21} The New Mexico Legislature codified the principles of Scott and Bartlett in 1987. See NMSA 1978, §§ 41-3A-1 to -2 (1987); Reichert v. Atler, 1992-NMCA-1 34, ¶ 34, 117 N.M. 628, 875 P.2d 384 (“Following our Supreme Court’s decision in Scott and this Court’s decision in Bartlett, our [Legislature enacted legislation continuing the doctrine of joint and several liability in certain situations.” (Footnote and citation omitted)). The statute provides that:\nIn any cause of action to which the doctrine of comparative fault applies, the doctrine imposing joint and several liability upon two or more wrongdoers whose conduct proximately caused an injury to any plaintiff is abolished except as otherwise provided hereafter. The liability of any such defendants shall be several.\nSection 41-3 A-l (A). The same section further provides that a defendant who is severally liable shall be liable only for the amount of harm that the defendant’s damage caused, and not jointly liable for any harm another party caused:\nIn causes of action to which several liability applies, any defendant who establishes that the fault of another is a proximate cause of a plaintiffs injury shall be liable only for that portion of the total dollar amount awarded as damages to the plaintiff that is equal to the ratio of such defendant’s fault to the total fault attributed to all persons, including plaintiffs, defendants and persons not party to the action.\nSection 41-3A-1(B).\n{22} The Legislature reserved the application of joint-and-several liability to the following specific situations:\n(1) to anyperson or persons who acted with the intention of inflicting injury or damage;\n(2) to any persons whose relationship to each other would make one person vicariously liable for the acts of the other, but only to that portion of the total liability attributed to those persons;\n(3) to any persons strictly liable for the manufacture and sale of a defective product, but only to that portion of the total liability attributed to those persons; or\n(4) to situations not covered by any of the foregoing and having a sound basis in public policy.\nSection 41-3A-l(C).\n{23} This Court has applied Section 41-3A-1 to mean that, “[ujnder our comparative negligence system, each negligent party is charged an amount representing its percentage of fault.” Gutierrez v. City of Albuquerque, 1998-NMSC-027, ¶ 11, 125 N.M. 643, 964 P.2d 807 (citing Section 41-3A-1(B)). Tortfeasors must now accept responsibility for damages commensurate with their own relative culpability unless one of the specified exceptions to joint and several liability apply. See Otero, 1996-NMSC-047, ¶ 11 (“New Mexico tort law is premised on the notion that each concurrent tortfeasor should bear responsibility for an accident in accordance with his or her fault.”).\n{24} Several liability incorporates the Scott/Bartlett approach of limiting several liability to particular causes of action. Section 41-3 A-l (A) states that the doctrine of several liability applies to “any cause of action to which the doctrine of comparative fault applies,” unless the statute provides an exception. In this context, comparative fault is the affirmative defense that reduces the defendant’s liability by the percentage of fault attributable to the plaintiff—the doctrine created in Scott. Unless a provision of the statute provides otherwise, several liability applies to any cause of action to which the partial affirmative defense of comparative negligence applies to plaintiffs cause of action.\n{25} In addition, this Court modified traditional indemnification in 1995 by adopting proportional indemnity, “under which a defendant who is otherwise denied apportionment of fault may seek partial recovery from another at fault.” Amrep, 1995-NMSC-020, ¶ 36. Amrep reasoned proportional indemnification goes hand-in-hand with New Mexico’s adoption of comparative fault.\n[T]o establish an equitable system in which a defendant who cannot raise the fault of a concurrent tortfeasor as a defense because of the plaintiffs choice of remedy, we adopt the doctrine of proportional indemnification ... [to fill] a void in the overall picture that contemplates proration of liability among all those at fault. ... By embracing proportional indemnification, this Court takes comparative fault and several liability another logical step.\nId. ¶¶ 36, 40-41. Proportional indemnification applies when the one seeking indemnification “has been adjudged liable for full damages on a third-party claim that is not susceptible under law to proration of fault among joint tortfeasors.” Id. ¶ 38. “[PJroportional indemnification applies only when contribution or some other form of proration of fault among tortfeasors is not available.” Id. ¶ 39. “[Proportional indemnification does not apply when [the UCATA] provides for proration of damages among joint tortfeasors.” Id. ¶ 37 (citation omitted). For example, actions for negligence are governed by comparative fault, which apportions fault among tortfeasors, so traditional indemnity principles apply because each tortfeasor is liable only for his or her share of the fault and will never pay more damages than his or her share. On the other hand, when a plaintiff chooses to sue under breach of contract, a defendant “should be able to seek proportional indemnification for that percentage of fault attributable to” another. Id. ¶ 41.\n{26} Therefore, indemnification now takes several forms in New Mexico. “[Traditional indemnification is a judicially created common-law right that grants to one who is held liable an all-or-nothing right of recovery from a third party ....” Id. New Mexico also recognizes proportional indemnification, which allows defendants to recover from a third-party for the portion of a plaintiffs loss which the third-party’s conduct caused, even when the law does not apportion fault amongst tortfeasors under a theory of comparative fault. “When applicable, proportional indemnification allows a defendant to seek partial recovery from another for his or her fault.”N.M. Pub. Schs. Ins.Auth. v. Gallagher & Co., 2008-NMSC-067, ¶ 23, 145 N.M. 316, 198 P.3d 342. And, althoughjoint-and-several liability was for the most part abolished when New Mexico adopted a comparative fault regime, joint-and-several liability has been retained in certain matters by statute, which allows a tortfeasor to seek contribution or indemnification from a fellow tortfeasor. See § 41-3A-1.\nC. Traditional indemnity does not apply when the jury finds a tortfeasor actively at fault and apportions liability using comparative fault principles\n{27} The parties differ as to the effect Amrep has on a party’s right to traditional indemnification. Safeway asserts that this Court made it clear that traditional indemnification was to survive the adoption of comparative fault and proportional indemnification. Rooter, however, argues that Amrep specifically indicated that traditional indemnification is not applicable where fault for negligence is to be apportioned under New Mexico’s system of comparative fault.\n{28} Because recovery under traditional indemnification requires at least one active tortfeasor and one passive concurrent tortfeasor, the remedy only applies in a limited number of tort cases premised on vicarious or derivative liability. For example, the Restatement (Third) of Torts: Apportionment of Liability § 22 (Am. Law Inst. 2000) provides:\n(a) When two or more persons are or may be liable for the same harm and one of them discharges the liability of another in whole or in part by settlement or discharge of judgment, the person discharging the liability is entitled to recover indemnity in the amount paid to the plaintiff, plus reasonable legal expenses, if:\n(1) the indemnitor has agreed by contract to indemnify the indemnitee, or\n(2) the indemnitee\n(I) was not liable except vicariously for the tort of the indemnitor, or\n(ii) was not liable except as a seller of a product supplied to the indemnitee by the indemnitor and the indemnitee was not independently culpable.\n(b) A person who is otherwise entitled to recover indemnity pursuant to contract may do so even if the party against whom indemnity is sought would not be liable to the plaintiff.\nThe Restatement (Third) of Torts is consistent with our past observations in Amrep that:\n[t]he right to indemnification may arise through vicarious or derivative liability, as when an employer must pay for the negligent conduct of its employee under the doctrine of respondeat superior or when a person is directed by another to do something that appears innocent but is in fact wrongful. Further, traditional indemnification principles apply in both negligence and strict liability cases involving persons in the chain of supply of a product, and in breach of warranty cases.\n1995-NMSC-020, ¶ 9 (citations omitted); see also Otero, 1996-NMSC-047, ¶¶ 3 n.2, 14 (affirming the district court’s finding that a restaurant “would be entitled to indemnification from the contractor and architect for whose negligence [the restaurant] is liable” because “[t]his reasoning accords with the general rule that one held vicariously liable has an action for traditional indemnification against the person whose act or omission gave rise to the vicarious liability.” (citations omitted)).\n{29} In each one of these factual scenarios, traditional indemnification would allow a party who has been found liable without active fault to seek restitution from someone who was actively at fault. Importantly, a finding of negligence does not necessarily mean a finding of active conduct. For example, if a claim alleges that a contractor failed to discover and remedy a dangerous condition, that is passive conduct'—-if the contractor in the exercise of ordinary care could not have discovered the dangerous condition—and traditional indemnification would be available from the active concurrent tortfeasor who created the dangerous condition. See Amrep, 1995-NMSC-020, ¶¶ 12-13 (defining passive conduct and providing an example to distinguish passive conduct from active conduct in failing to discover and remedy a dangerous situation). Alternatively, if the contractor discovered, or should have discovered, the dangerous condition and did not remedy the dangerous condition, that is active conduct, and traditional indemnification is not available. See id. ¶ 19. In strict liability cases, only if the retailer was blameless—passive conduct—is the retailer entitled to full indemnification from the manufacturer. See id. ¶ 24.\n{30} Retaining traditional indemnification is consistent with the equitable goals of our comparative fault regime. Id. ¶ 36. Comparative fault ensures that all actively negligent parties pay for their respective faults. See id. ¶ 37. Traditional indemnification ensures that a party who is not actively at fault can force the actively at fault party to pay. See id. ¶ 10.\n{31} Comparative fault is inapplicable under true vicarious and derivative liability scenarios because the “ ‘vicariously liable party has not committed any breach of duty to the plaintiff but is held liable simply as a matter of legal imputation of responsibility for another’s tortious acts.’ ” Valdez v. R-Way, LLC, 2010-NMCA-068, ¶ 7, 148 N.M. 477, 237 P.3d 1289 (quoting Restatement (Third) of Torts: Apportionment of Liab. § 13 cmts. b, c). The Legislature therefore excluded true vicarious and derivative liability from several liability because those whose liability is only vicarious are only liable because “someone else’s fault is imputed to them by operation of law.” Id. (internal quotation marks and citations omitted). Our Legislature left traditional indemnification as the only scheme for a passive joint tortfeasor to recover from the active joint tortfeasor under the four categories of vicarious and derivative liability listed above. See id. ¶ 6.\n{32} Preserving traditional indemnification by limiting its application to situations of vicarious and derivative liability situations where the indemnitee is not actively negligent, is consistent with the approach adopted by a majority of jurisdictions that have adopted comparative fault; these jurisdictions follow the indemnification principles summarized in the Restatement (Third) of Torts: Apportionment of Liability. Previously, under the Restatement (Second) of Torts, an actively negligent concurrent tortfeasor could recover from a more actively negligent concurrent tortfeasor in traditional indemnification. See Restatement (Second) of Torts: Apportionment of Liab. § 886B (Am. Law Inst. 1979). For example, an indemnitee would have a right to indemnity when the “indemnitor supplied a defective chattel or performed defective work upon land or buildings as a result of which both were liable to the third person, and the indemnitee innocently or negligently failed to discover the defect.” Restatement (Second) of Torts: §886B(2)(d) (emphasis added).\n{33} Therefore, we reiterate that traditional indemnity survives and co-exists with comparative negligence, several liability, and proportional indemnification in New Mexico because it “addresses other considerations of contractual right or of restitution to which a passive wrongdoer is entitled.\" Amrep, 1995-NMSC-020, ¶ 40. We also adopt the Section 22, Restatement (Third) of Torts, in place of Section 886B, Restatement (Second) of Torts, because it correctly limits the application of traditional indemnity to cases truly premised on vicarious or derivative liability.\n{34} Accordingly, traditional indemnity is not applicable in this case because Plaintiffs clearly advanced, and the jury found, theories of liability that alleged Safeway to be an active tortfeasor. The parties agreed at a summary judgment motion hearing that Safeway would not have to pay for any negligence that is found to have been committed by Rooter and that is exactly what occurred. The district court therefore instructed the jury on the following four active negligence theories: (1) failure to provide proper instructions and hardware for the baby changing station installation, (2) failure to supervise the station installation, (3) failure to inspect the station after installation, and (4) failure to periodically inspect the station between the time of installation and the time of Plaintiff s injury. Safeway acknowledges as much in its docketing statement, and concedes that in the comparative negligence context, it has no right to indemnification from Rooter for its own active negligence.\n{35} Further, this is not a true vicarious or derivative liability case that would entitle Safeway to traditional indemnity because the jury found Safeway actively at fault. Safeway and Rooter were adjudged liable for their proportion of fault-40% Safeway, 60% Rooter. To hold either party liable for more or less of their fault would be inequitable and contrary to the goals of both comparative negligence and traditional indemnity. Therefore, we reverse the Court of Appeals and affirm the district court’s dismissal of Safeway’s cross-claim for traditional indemnification.\nD. Rooter does not have a duty to defend under the Agreement because the whole indemnification clause is void and unenforceable under the 1971 version of Section 56-7-1 and is against public policy\n{36} As mentioned above, the Agreement between Rooter and Safeway provided that:\n[Rooter] shall indemnify, defend and hold [Safeway] harmless from and against; any and all claims, losses, damages, liabilities, and expenses (including the costs of investigation and attorney’s fees) in connection with any claim or cause of action arising from any act or omission of [Rooter,] its employees, agents, and representatives, in the performance of its obligations under this Agreement, except where the claim, loss or damage is caused by the sole negligence of [Safeway],\n{37} This Court must determine whether the contractual provision requiring Rooter to defend and maintain liability insurance and name Safeway as an additional insured is enforceable under Section 56-7-1.\n{38} “Our primary goal is to ascertain and give effect to the intent of the Legislature. In doing so, we examine the plain language of the statute as well as the context in which it was promulgated ....” State v. Office of Pub. Def. ex rel. Muqqddin, 2012-NMSC-029, ¶ 13, 285 P.3d 622 (internal quotation marks and citation omitted). “Under the rules of statutory construction, [w]hen a statute contains language which is clear and unambiguous, we must give effect to that language and refrain from further statutory interpretation.” First Baptist Church of Roswell v. Yates Petroleum Corp., 2015-NMSC-004, ¶ 9, 345 P.3d 310 (alteration in original) (internal quotation marks and citation omitted). We also “look at the overall structure and function of the statute, as well as the public policy embodied in the statute.” Delfino, 2011-NMSC-015, ¶ 12 (citations omitted) ; see also State Bd. of Educ. v. Bd. of Educ. of Alamogordo Pub. Sch. Dist. No. 1, 1981-NMSC-031, ¶ 14, 95 N.M. 588, 624 P.2d 530 (“In ascertaining the legislative intent, we look not only to the language used in [a] statute, but also to the object sought to be accomplished and the wrong to be remedied.” (citation omitted)).\n{39} The 1971 version of Section 56-7-1 provides:\nAny provision, contained in any agreement relating to the construction, installation, alteration, modification, repair, maintenance ... of any real property ... by which any party to the agreement agrees to indemnify the indemnitee, or the agents and employees of the indemnitee, against liability, claims, damages, losses or expenses, including attorney fees, arising out of bodily injury to persons or damage to property caused by, or resulting from, in whole or in part, the negligence, act or omission of the indemnitee, or the agents or employees of the indemnitee, or any legal entity for whose negligence, acts or omissions any of them may be liable, is against public policy and is void and unenforceable . . .\nIn 2003, Section 56-7-1 was amended to specifically include agreements to insure and defend against the indemnitee’s negligence, stating: “A provision in a construction contract that requires one party to indemnify, hold harmless, insure or defend the other party to the contract” against liability for the negligence, act or omission of the indemnitee “is void, unenforceable and against the public policy of the state.” NMSA 1978, Section 56-7-1 (A) (2003, amended 2005). The Court of Appeals held that the 1971 version of Section 56-7-1 applies in this case and that issue is not disputed. See Safeway, 2013-NMCA-021, ¶ 27. Because the agreement was signed by the parties on November 26, 2002, we agree.\n{40} The Court of Appeals concluded, though, that while the indemnification provision under the contract was void and unenforceable under NMSA 1978, Section 56-7-1 (1971, amended 2005), Rooter still had a duty to defend Safeway. Safeway, 2013-NMCA-021, ¶¶ 26-27, 29. The Court of Appeals reasoned that the duty to defend is “distinct and separate from an agreement to indemnify” and that the 1971 version of Section 56-7-1 did not prohibit such agreements. Safeway, 2013-NMCA-021, ¶ 28 (citation omitted). The Court of Appeals further noted that Section 56-7-1 (1971) does not preclude defend and insure provisions in construction contracts, unlike the 2003 version of Section 56-7-1. Safeway, 2013-NMCA-021, ¶ 26.\n{41} Rooter cites Sierra v. Garcia, 1987-NMSC-116, 106 N.M. 573, 746 P.2d 1105 to support its assertion that Section 56-7-1 voids the entire contractual agreement, and not merely part of it. In contrast, Safeway argues that pursuant to City of Albuquerque v. BPLW Architects & Eng’rs, Inc., 2009-NMCA-081, 146 N.M. 717, 213 P.3d 1146, (BPLW) the indemnity provision can be read out of the agreement leaving the defense provision intact because Rooter’s duty to defend and insure is separate and distinct from Rooter’s duty to indemnify Safeway.\n{42} In Sierra, a general contractor was sued for the wrongful death of a subcontractor’s employee and filed a third-party complaint against the subcontractor asserting that the subcontractor had agreed to indemnify the general contractor. 1987-NMSC-l 16, ¶ 1. The agreementbetween the contractor and general contractor provided that “Subcontractor shall defend at its own cost and indemnify and hold harmless Contractor and Owner, their agents and employees from any and all liability, damages, losses, claims and expenses, however caused resulting directly or indirectly from or connected with the performance of this subcontract.” Sierra, 1987-NMSC-116, ¶ 4. This Court rejected the notion that portions of the agreement could be read out in order to render any part of the provision enforceable, Id. ¶¶ 6, 10. Instead, Sierra held “that the contract is voided in its entirety by . . . [Section 56-7-1 (1971, amended 2005)].” Id. ¶ 10.\n{43} BPLW involved a “dispute over an indemnification clause in a contract between the City of Albuquerque and BPLW Architects & Engineers, Inc.” after a pedestrian was injured at the facility. BPLW, 2009-NMCA-081, ¶ 1. The City requested that BPLW provide its defense pursuant to the agreement, which BPLW denied. Id. In examining whether BPLW was contractually obligated to defend the City, the Court of Appeals examined the language of the defend and indemnify clause, which provided that BPLW agreed “to defend, indemnify, and hold harmless the City . . . against all suits . . . brought against the City because of any injury or damage received or sustained by any person ... arising out of or resulting from any negligent act, error, or omission of [BPLW]., . arising out of the performance of this Agreement.” Id. ¶ 14 (alteration and omissions in original). The Court of Appeals concluded that “there [was] no language in the contract that limitfed] BPLW’s duty to defend the City” and that “the plain language of [the] clause indicate[d] that the duty to defend applies to all suits against the City arising out of a negligent act, error, or omission of BPLW arising out of the performance of the agreement.” Id. Thus, the Court of Appeals held that “BPLW ha[d] a duty to defend the City, even if only the City [was] alleged to be negligent, as long as the cause of action [arose] from the alleged negligent act, error, or omission of BPLW.” Id. ¶ 15. The Court noted that this interpretation of the contract furthered the policy behind both versions of Section 56-7-1, which is to promote “safety in construction projects by holding each party to the contract accountable for injuries caused by its own negligence.” Id. ¶ 19 (citation omitted).\n{44} The Agreement in this case does not require Rooter to defend Safeway only for claims arising out of Rooter’s negligence in performance of the contract. Instead, the Agreement also requires a defense of Safeway for Safeway’s own negligence, “except where the claim, loss or damage is caused by the sole negligence of [Safeway].” Sierra made clear that the anti-indemnity statute voids the entire contractual agreement, not merely part of it, when the clause requires the indemnitor to indemnify the indemnitee for the indemnitee’s own negligence. This case and Sierra are distinct from BPLW because BPLW only had to indemnify the city against suits “arising out of or resulting from any negligent act, error, or omission of [BPLW].” BPLW, 2009-NMCA-081, ¶ 14.\n{45} The indemnification provision in this case is statutorily void and unenforceable because it requires Rooter to indemnify Safeway for Safeway’s own negligence. Similarly, as a matter of both law and policy, Rooter should not have to pay for Safeway’s legal defense caused by Safeway’s own fault where Rooter settled with Plaintiffs for its share of fault. As noted by BPLW,\nBoth the current version and the version in effect at the time the contract was executed, however, have the same effect because both ensure that an indemnitor only has to indemnify for causes of action that arise from the indemnitor’s own negligent conduct. In addition, both versions of the statute are based on a public policy promoting safety in construction projects by holding each party to the contract accountable for injuries caused by its own negligence.\n2009-NMCA-081, ¶ 19 (citation omitted). This public policy is frustrated if we order Rooter to pay Safeway’s defense costs for Safeway’s own negligence that the jury clearly found and appropriately apportioned using comparative fault. Accordingly, we reverse the Court of Appeals on the issue of the contractual duty to defend and affirm the district court’s grant of summary judgment.\nIV. CONCLUSION\n{46} We hold that traditional indemnity is not applicable in this case because the jury apportioned fault under comparative negligence principles. And because we hold that Rooter’s contractual duty to indemnify, defend, and insure Safeway under the Agreement is unenforceable, we reverse the Court of Appeals’ holding that Section 56-7-1 (1971, as amended through 2005) did not render the defense and insurance requirements of the Agreement void and unenforceable. Therefore, we reverse the Court of Appeals and affirm the district court’s grant of summary judgment finding that Rooter owed no common law or contractual duties to Safeway. This case is remanded to the district court for proceedings consistent with this opinion.\n{47} IT IS SO ORDERED.\nPETRA JIMENEZ MAES, Justice\nWE CONCUR:\nBARBARA J. VIGIL, Chief Justice\nEDWARD L. CHÁVEZ, Justice\nCHARLES W. DANIELS, Justice\nJUDITH NAKAMURA, Justice, not participating\nSee, e.g., Mizuho Corp. Bank (USA) v. Cory & Assocs., Inc., 341 F.3d 644, 652-653 (7th Cir. 2003) (applying Illinois law); Nichols v. CitiCroup Global Mkts., Inc., 364 F. Supp. 2d 1330, 1339-40 (N.D. Ala. 2004) (applying Alabama law); Orient Overseas Container Line v. John T. Clark & Sons of Boston, Inc., 229 F. Supp. 2d 4, 15 (D. Mass. 2002) (applying Massachusetts law); Barry v. Hildreth, 9 A.D.3d 341, 342, 780 N.Y.S.2d 159, 161 (N.Y.App. Div. 2004); Bowyer v. Hi-Lad, Inc., 609 S.E.2d 895, 914 (W.Va. 2004); Horowitz v. Laske, 855 So.2d 169, 174 (Fla. Dist. Ct. App. 2003); INS Investigations Bureau, Inc. v. Lee, 784 N.E.2d 566, 575-76 (Ind. Ct. App. 2003); Med James, Inc. v. Barnes, 61 P.3d 86 (Kan. Ct. App. 2003); Hamway v. Braud, 838 So.2d 803, 806-07 (La. Ct. App. 2002); Carr v. Home Ins. Co., 463, 458 S.E.2d 457 (Va. 1995).",
+        "type": "majority",
+        "author": "MAES, Justice."
+      }
+    ],
+    "attorneys": [
+      "Butt Thornton & Baehr PC Emily A. Franke Jane Laflin Albuquerque, NM for Petitioner",
+      "Madison & Mroz, P.A. Gregory D. Steinman Minal P. Unruh Albuquerque, NM for Respondent"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE SUPREME COURT OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMSC-009\nFiling Date: February 18, 2016\nDocket No. S-1-SC-33969\nSAFEWAY, INC., Defendant/Cross-Claimant-Respondent, v. ROOTER 2000 PLUMBING AND DRAIN SSS, Defendant/Cross-Defendant-Petitioner.\nButt Thornton & Baehr PC Emily A. Franke Jane Laflin Albuquerque, NM for Petitioner\nMadison & Mroz, P.A. Gregory D. Steinman Minal P. Unruh Albuquerque, NM for Respondent"
+  },
+  "file_name": "1677-01",
+  "first_page_order": 436,
+  "last_page_order": 451
+}

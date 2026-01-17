@@ -1,0 +1,796 @@
+{
+  "id": 12168476,
+  "name": "VINCENT R. GARCIA, ROBERTO BORBON, MARK MORAN, and KENNETH A. ZIEGLER, on behalf of themselves and all others similarly situated, Plaintiffs-Appellants, v. THE BOARD OF REGENTS OF THE UNIVERSITY OF NEW MEXICO, SANDIA FOUNDATION, and ENTERPRISE BUILDERS, INC., Defendants-Appellees",
+  "name_abbreviation": "Garcia v. Board of Regents",
+  "decision_date": "2016-03-29",
+  "docket_number": "No. S-1-SC-35865; Docket No. 34,167",
+  "first_page": "736",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-052"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "33 N.M. 136",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1554488
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/33/0136-01"
+      ]
+    },
+    {
+      "cite": "1926-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 N.M. 114",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5370222
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/81/0114-01"
+      ]
+    },
+    {
+      "cite": "1970-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 N.M. 296",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1586409
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/101/0296-01"
+      ]
+    },
+    {
+      "cite": "1984-NMSC-057",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 N.M. 487",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2769450
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/85/0487-01"
+      ]
+    },
+    {
+      "cite": "1973-NMCA-111",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 N.M. 452",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1560799
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/48/0452-01"
+      ]
+    },
+    {
+      "cite": "1944-NMSC-053",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 N.M. 161",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5363052
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/81/0161-01"
+      ]
+    },
+    {
+      "cite": "1970-NMSC-018",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 N.M. 373",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1573082
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/94/0373-01"
+      ]
+    },
+    {
+      "cite": "1980-NMSC-058",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 23-24"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 N.M. 443",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1569732
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/42/0443-01"
+      ]
+    },
+    {
+      "cite": "1938-NMSC-044",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "370 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164669
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/370/0001-01"
+      ]
+    },
+    {
+      "cite": "94 N.M. 311",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1573096
+      ],
+      "weight": 2,
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/94/0311-01"
+      ]
+    },
+    {
+      "cite": "1980-NMCA-006",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "752 F.2d 433",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        297050
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/752/0433-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 766",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531156
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "770"
+        },
+        {
+          "page": "770"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/0766-01"
+      ]
+    },
+    {
+      "cite": "2008-NMCA-159",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4242970
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶¶ 8-9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0372-01"
+      ]
+    },
+    {
+      "cite": "607 F.2d 1237",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1431731,
+        6543255
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/607/1237-01",
+        "/br/1/1237-01"
+      ]
+    },
+    {
+      "cite": "426 F.2d 1053",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2246847
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/426/1053-01"
+      ]
+    },
+    {
+      "cite": "Treas. Reg. § 31.3401",
+      "category": "laws:admin_compilation",
+      "reporter": "Treas. Reg.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Treas. Reg. § 31.3121",
+      "category": "laws:admin_compilation",
+      "reporter": "Treas. Reg.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "913 F.2d 1486",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540238
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1490",
+          "parenthetical": "\"In characterizing the settlement payment for tax purposes,\" the question is, \"[i]n lieu of what were the damages awarded?\"(internal quotation marks and citation omitted)"
+        },
+        {
+          "page": "1490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/913/1486-01"
+      ]
+    },
+    {
+      "cite": "486 F.2d 302",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        222850,
+        222957
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/486/0302-02",
+        "/f2d/486/0302-01"
+      ]
+    },
+    {
+      "cite": "Treas. Reg. § 1.6045-5",
+      "category": "laws:admin_compilation",
+      "reporter": "Treas. Reg.",
+      "pin_cites": [
+        {
+          "parenthetical": "providing that the reporting requirement of Section 1.6041 is not vitiated by paying lump sum settlement to a plaintiffs attorney"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Treas. Reg. § 1.6041-2",
+      "category": "laws:admin_compilation",
+      "reporter": "Treas. Reg.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)",
+          "parenthetical": "\"Wages . . . paid to an employee are required to be reported on Form W-2.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "419 U.S. 43",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172955
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "52",
+          "parenthetical": "stating that reporting obligations follow the obligation to withhold"
+        },
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0043-01"
+      ]
+    },
+    {
+      "cite": "780 F.3d 1018",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073297
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1024"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/780/1018-01"
+      ]
+    },
+    {
+      "cite": "731 F.2d 1473",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1943907
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Back pay is taxable . . . and subject to income tax and social security withholding.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/731/1473-01"
+      ]
+    },
+    {
+      "cite": "164 F.3d 1015",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1381306
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1026",
+          "parenthetical": "discussing the Employee Retirement Income Security Act"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/164/1015-01"
+      ]
+    },
+    {
+      "cite": "697 F.3d 209",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3622858
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "213-14",
+          "parenthetical": "applying Title VII"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/697/0209-01"
+      ]
+    },
+    {
+      "cite": "327 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        413798
+      ],
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "364-65",
+          "parenthetical": "applying the National Labor Relations Act"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/327/0358-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11303738
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "77",
+          "parenthetical": "\"[I]llegal promises will not be enforced in cases controlled by the federal law.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0072-01"
+      ]
+    },
+    {
+      "cite": "112 N.M. 48",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720175
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/112/0048-01"
+      ]
+    },
+    {
+      "cite": "1991-NMSC-046",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 N.M. 471",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566648
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/121/0471-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 5-6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006-NMCA-117",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3670872
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0374-01"
+      ]
+    },
+    {
+      "cite": "2009-NMCA-131",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4245739
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 33"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0397-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-046",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        827320
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0396-01"
+      ]
+    },
+    {
+      "cite": "104 N.M. 754",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1594950
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/104/0754-01"
+      ]
+    },
+    {
+      "cite": "1986-NMSC-076",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 P.3d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-083",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4239979
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 6, 16"
+        },
+        {
+          "page": "¶ 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1185,
+    "char_count": 24112,
+    "ocr_confidence": 0.795,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24685242267020202
+    },
+    "sha256": "4bb249380d4250c672c1cf541d957145bd282c7c0cf522f49f9262f055d9007a",
+    "simhash": "1:eb68251439e71649",
+    "word_count": 3894
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LINDA M. VANZI, Judge",
+      "MICHAEL E. VIGIL, Chief Judge",
+      "RODERICK T. KENNEDY, Judge"
+    ],
+    "parties": [
+      "VINCENT R. GARCIA, ROBERTO BORBON, MARK MORAN, and KENNETH A. ZIEGLER, on behalf of themselves and all others similarly situated, Plaintiffs-Appellants, v. THE BOARD OF REGENTS OF THE UNIVERSITY OF NEW MEXICO, SANDIA FOUNDATION, and ENTERPRISE BUILDERS, INC., Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nVANZI, Judge.\n{1} Plaintiffs are a class of workers who provided various electrical services on a construction project in which the Board of Regents of the University of New Mexico, Sandia Foundation, and Enterprise Builders (collectively, Defendants) were involved. They sued Defendants for statutory minimum wage violations, including violation of the Public Works Minimum Wage Act (PWMWA), NMSA 1978, §§ 13-4-10 to -17 (1937, as amended through 2011). They also asserted their rights as alleged third-party beneficiaries to a settlement agreement (the Agreement) between Defendants and the Department of Workforce Solutions (the Department). The Department has since (sua sponte, we are told) reversed the determination that led to the Agreement in the first place, and Plaintiffs’ appeal of that decision was dismissed as untimely by the relevant agency, ultimately resulting in the dismissal of all statutory claims. See Garcia v. Bd. of Regents of Univ. of N. M., 2014-NMCA-083, ¶¶ 6, 16, 331 P.3d 1003.\n{2} In the present case, we are asked to consider a narrow issue: whether the district court properly granted summary judgment on the only remaining claim, which alleged breach of the Agreement. The sole ground for granting summary judgment was that the underlying Agreement was “void” for violation of federal tax law. We reverse. We hold that the Agreement indeed contains an unenforceable term, but the term can be properly severed. Accordingly, we reverse the district court’s grant of summary judgment.\nBACKGROUND\n{3} The PWMWA serves “to ensure that employees of contractors working on state . . . projects are protected from substandard earnings.” Universal Commc’ns Sys., Inc. v. Smith, 1986-NMSC-076, ¶ 4, 104 N.M. 754, 726 P.2d 1384. “Under the PWMWA, every contract for construction or alteration of public buildings or public works in excess of sixty thousand dollars that involves mechanics or laborers or both must comply with minimum wage standards set by the Director of the Labor Relations Division” of the Department of Workforce Solutions (the Director). Garcia, 2014-NMCA-083, ¶ 2.\n{4} In April 2009, the Director certified that a joint project undertaken by Defendants constituted a public works project, subject to the PWMWA. Defendants appealed that determination but then settled with the Department, which withdrew its certification and agreed to take no further action against them. In exchange, Defendants agreed to (1) pay a designated amount of back wages and fringe benefits due each worker under the PWMWA, totaling $779,357.12; and (2) make separate “delay payments” to each worker, totaling $158,150.27.\n{5} The Agreement distinguished between the two types of payments, presumably for tax purposes. The delay payments purported to represent “payment to settle a disputed claim for liquidated damages under the PWMWA and not wages.” They were to be issued separately from the payments for back wages and fringe benefits. The Agreement contained no instructions to withhold any payroll taxes from the delay payments.\n{6} In contrast, the payments for back wages and fringe benefits were divided into two groups. Enterprise agreed to issue wage/benefit checks to its own employees “subject to payroll withholding in the normal course.” All other workers worked for various subcontractors who were not parties to the settlement negotiations. Wage/benefit checks made out to those workers, “i.e., those workers not employed by any [Defendant],” were to be issued “without such withholding.” The present appeal centers entirely on this no-withholding clause—a single provision that applies only to one type of payment made to one group of workers.\n{7} Defendants agreed to make all checks to all workers payable to each worker individually. They would issue the checks to the Department by deadlines specified in the Agreement, and the Department would then “distribute said checks to each worker” who signed a document releasing Defendants from liability for future wage-related claims arising out of the project. Characterized broadly, the terms of the Agreement indicate that Defendants hoped to pay a total of $937,507.39 (the sum of wages and benefits owed plus delay compensation owed) over to the Department in exchange for a complete release of liability to the Department and to all workers identified to have worked on the project.\n{8} But Defendants never made any of the agreed payments, which would have been due in full by the end of 2010. When they had not issued a single check by May 2011, Plaintiffs fried suit for breach of the Agreement and for other claims that have since been dismissed.\n{9} Defendants moved for summary judgment, arguing, in relevant part, that the no-withholding provision called for a performance that violated the Internal Revenue Code, making the entire Agreement void as against public policy. Plaintiffs responded that there remained issues of disputed facts—mostly related to Defendants’ efforts to comply with the Agreement, that there were alternatives to “straight payroll withholding” that would make the Agreement entirely consistent with the law, and that, in any event, the clause could be severed or reformed as a nonessential part of an otherwise valid wage claim settlement. The district court ultimately concluded that the term could not be enforced and that it was “central to the Agreement,” meaning that it could not be severed. The court also concluded that reformation was inappropriate. Summary judgment was granted to Defendants. Plaintiffs appealed, and we now reverse the district court.\nDISCUSSION\nStandard of Review\n{10} All issues raised in this appeal are subject to a de novo standard of review. “Summary judgment is appropriate where there are no genuine issues of material fact and the movant is entitled to judgment as a matter of law. ... We review these legal questions de novo.” Self v. United Parcel Serv., Inc., 1998-NMSC-046, ¶ 6, 126 N.M. 396, 970 P.2d 582. This case involves a settlement agreement, which “is a species of contract.” Branch v. Chamisa Dev. Corp., 2009-NMCA-131, ¶ 33, 147 N.M. 397, 223 P.3d 942 (internal quotation marks and citation omitted). “New Mexico adheres to the contextual approach to contract interpretation, in recognition of the difficulty of ascribing meaning and content to terms and expressions in the absence of contextual understanding.” Id. (internal quotation marks and citation omitted). “Whether a contract is against public policy is a question of law for the court to determine from all the circumstances of each case.” K.R. Swerdfeger Constr. Inc. v. Bd. of Regents of Univ. of N.M., 2006-NMCA-117, ¶ 23, 140 N.M. 374, 142 P.3d 962 (internal quotation marks and citation omitted). Our analysis also requires us to construe several statutes. We do so to give effect to the intent of the Legislature, and our review is de novo. Romero Excavation & Trucking, Inc. v. Bradley Constr. Inc., 1996-NMSC-010, ¶¶ 5-6, 121 N.M. 471, 913 P.2d 659.\nThe No-Withholding Provision Is Not Enforceable\n{11} Plaintiffs, who are not parties to the Agreement, have alleged that they are third-party beneficiaries entitled to enforce it. See Fleet Mortg. Corp. v. Schuster, 1991-NMSC-046, ¶ 4, 112 N.M. 48, 811 P.2d 81 (“A third party may be a beneficiary of [a] contract, and as a beneficiary may have an enforceable right against a party to a contract.”). While that may be true, our courts cannot enforce a provision—for anyone’s benefit—that requires performance in violation of federal law. Kaiser Steel Corp. v. Mullins, 455 U.S. 72, 77 (1982) (“[I]llegal promises will not be enforced in cases controlled by the federal law.”).\n{12} There is no dispute that back pay paid to employees in a settlement agreement is subject to social security and income taxes. The Internal Revenue Code defines “wages” for income tax purposes to mean “all remuneration ... for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other than cash[.]” I.R.C. § 3401(a) (2012). There are a few exceptions to this definition, but they are not applicable here. See id. The definition of “wages” under I.R.C. § 3121(a) (2012) for social security and medicare (FICA) purposes contains similar language. The United States Supreme Court and the federal circuit courts of appeals have consistently concluded that back pay awarded pursuant to various employment, labor, and civil rights legislation constitutes “remuneration” —and therefore “wages” subject to income tax and FICA withholding. Soc. Sec. Bd. v. Nierotko, 327 U.S. 358, 364-65 (1946) (applying the National Labor Relations Act); Noel v. N.Y. State Office of Mental Health Cent. N.Y. Psychiatric Ctr., 697 F.3d 209, 213-14 (2d Cir. 2012) (applying Title VII); Gerbec v. United States, 164 F.3d 1015, 1026 (6th Cir. 1999) (discussing the Employee Retirement Income Security Act); see Blim v. W. Elec. Co., 731 F.2d 1473, 1480 n.2 (10th Cir. 1984) (“Back pay is taxable . . . and subject to income tax and social security withholding.”), superceded by statute on other grounds as stated in E.E.O.C. v. Beverage Distrib. Co., 780 F.3d 1018, 1024 (10th Cir. 2015). The point has been admitted by the parties in their briefing here.\n{13} Nor is there any question that it is the employer who is obligated to deduct and withhold the required taxes and to file the corresponding reports and returns. I.R.C. § 3402(a)(1) (2012) (“[Ejvery employer making payment of wages shall deduct and withhold upon such wages a tax[.]”); Otte v. United States, 419 U.S. 43, 52 (1974) (stating that reporting obligations follow the obligation to withhold); see also Treas. Reg. § 1.6041-2(a)(1) (“Wages . . . paid to an employee are required to be reported on Form W-2.”); Treas. Reg. § 1.6045-5 (providing that the reporting requirement of Section 1.6041 is not vitiated by paying lump sum settlement to a plaintiffs attorney). An employer that willfully fails to meet these obligations is liable to pay a penalty apart from the tax. I.R.C. § 6672(a) (2012); see Burden v. United States, 486 F.2d 302, 304 (10th Cir. 1973).\n{14} Plaintiffs make no serious allegation that they were independent contractors. The complaint flatly alleged that the underlying claims involved “employees who are or were employed by Defendants,” and the taxing authority looks only to the nature of the underlying claim when determining tax ramifications of a settlement payment. Getty v. Comm’r of Internal Revenue, 913 F.2d 1486, 1490 (9th Cir. 1990) (“In characterizing the settlement payment for tax purposes,” the question is, “[i]n lieu of what were the damages awarded?”(internal quotation marks and citation omitted)); see also Treas. Reg. § 31.3121(a)-l(c) (“The name by which the remuneration for employment is designated is immaterial.”); Treas. Reg. § 31.3401(a)-1 (a)(2) (“The name by which the remuneration for services is designated is immaterial.”).\n{15} As we view it, the difficult question is whether—for purposes of the deduction and withholding requirements—any Defendant is actually the “employer” of the employees who worked for the various nonparty subcontractors to whom Defendants agreed to issue checks “without such withholding.” The Internal Revenue Code defines “employer” as\nthe person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—\n(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term ‘employer’ . . . means the person having control of the payment of such wages}.]\nI.R.C. § 3401(d). The exception in paragraph (1) applies in unusual cases where the person with legal control over the payment of wages is not the common law employer of the recipient. In those cases, the purpose of the exception is to ensure “that the person actually paying the wages ... is obligated to withhold the taxes.” Educ. Fund of Elec. Indus. v. United States, 426 F.2d 1053, 1057 (2d Cir. 1970). As the Ninth Circuit Court of Appeals has stated,\nIt matters little who hired the wage earner or what his duties were or how responsible he may have been to his common law employer. Neither is it important who fixed the rate of compensation. When it finally comes to the point of deducting from the wages earned thatpartwhich belongs to the United States and matching it with the employer’s share . . . , the only person who can do that is the person who is in ‘control of the payment of such wages.’\nEvans v. Internal Revenue Serv., 607 F.2d 1237, 1240 (9th Cir. 1979).\n{16} Defendants agreed to issue checks from their own accounts to the workers covered by the Agreement; the Department would serve only to “distribute said checks to each worker.” This indicates that Defendants, rather than the Department or any subcontractor, were in sole control of the payment of wages for all workers covered by the Agreement, including those not employed (in the traditional sense) by Enterprise. As the statutory employer of the workers, Defendants were obligated to withhold and pay over to the United States the taxes associated with all wage payments. See I.R.C. § 3402(a)(1).\n{17} It is therefore difficult to envision any scenario in which the no-withholding clause could be enforced by Plaintiffs. Landess v. Gardner Turf Grass, Inc., 2008-NMCA-159, ¶ 8, 145 N.M. 372, 198 P.3d 871 (“[EJmployees have no cause of action against employers to recover wages withheld and paid over to the government in satisfaction of federal income tax liability.” (internal quotation marks and citation omitted)). Acts of Congress directly prohibit any suit to enjoin “the assessment or collection of any tax ... in any court by any person,” I.R.C. § 7421(a) (2012), and expressly immunize every employer from liability for withholding federal taxes from wages, I.R.C. § 3403 (2012), even in cases involving breach of an agreement not to withhold, Bright v. Bechtel Petroleum, Inc., 780 F.2d 766, 770 (9th Cir. 1986), and even when an employee asserts a claim for money damages in a state court in New Mexico, Landess, 2008-NMCA-159, ¶¶ 8-9. These protections are “strictly enforced.” Maxfield v. United States Postal Serv., 752 F.2d 433, 434 (9th Cir. 1984).\n{18} “In ascertaining public policy we look to the language of the statute, its subject matter and the purpose to be accomplished.” City of Artesia v. Carter, 1980-NMCA-006, ¶ 12, 94 N.M. 311, 610 P.2d 198. It is evident that Congress intends to compel employers to withhold payroll taxes without judicial intervention, with the legal right to disputed sums determined only in a suit for refund. Enochs v. Williams Packaging & Navigation Co., 370 U.S. 1, 7 (1962). State tax law is to the same effect. NMSA 1978, § 7-3-4 (1996) (“No employee shall have a right of action against the employer for any amount deducted and withheld from the employee’s wages.”). Consistent with the state and federal interest in ensuring the undisturbed collection of lawful revenue, we conclude that the no-withholding provision is contrary to law and unenforceable.\n{19} But this is not a suit for declaratory judgment; and Defendants are not asserting tax law as a defense to the no-withholding clause, which nobody really intends to enforce, and which Plaintiffs argue should be severed or reformed. In essence, Defendants argue that, since they negotiated for the illegal clause, they would lose the benefit of their bargain if they had to make the settlement payments in compliance with the law. They argue that enforcement of the Agreement without the illegal clause would require them to pay the employer share of FICA and other taxes and would subject them to various administrative burdens associated with meeting their statutory obligations. According to Defendants, the illegality of the no-withholding clause brings the entire Agreement down with it. Plaintiffs counter that the clause is “a technicality [that] does not strike at the heart of the . . . Agreement” and that Defendants should not be entitled to disown a document they drafted because they inserted a collateral clause that misconstrues tax law. We consider the parties’ arguments through the lens of severability.\nThe Unenforceable Clause Can Be Severed\n{20} “The paramount public policy is that freedom to contract is not to be interfered with lightly. It is the court’s duty to sustain the legality of a contract in whole or in part whenever it can do so.” Tharp v. Allis-Chalmers Mfg. Co., 1938-NMSC-044, ¶ 13, 42 N.M. 443, 81 P.2d 703 (internal quotation marks and citation omitted). Where the purpose and subject matter of a contract are legal, but the contract contains an illegal provision, the general rule is that a court may enforce the valid portions of the contract in favor of a party who has not engaged in serious misconduct if the illegal term is not an essential part of the agreed exchange. Restatement (Second) of Contracts § 184(1) (1981). The requirement that the term to be severed is not essential exists to prevent courts from selectively enforcing parts of a contract in a manner that nullifies the contract’s essential purpose. See id. cmt. a. Along these lines, our own courts have enforced contracts that are partially illegal when “the illegal part can be eliminated without destroying the symmetry of the contract as a wholef.]” Capo v. Century Life Ins. Co., 1980-NMSC-058, ¶¶ 23-24, 94 N.M. 373, 610 P.2d 1202; Forrest Currell Lumber Co. v. Thomas, 1970-NMSC-018, ¶ 16, 81 N.M. 161, 464 P.2d 891; Ritchey v. Gerard, 1944-NMSC-053, ¶ 14, 48 N.M. 452, 152 P.2d 394.\n{21} This was a contract to settle a wage claim. Its manifest purpose, which was to “avoid[] the nuisance, costs, and inherent risks of litigation” in exchange for payments to affected workers, was entirely legal—and in fact desirable. See Esquibel v. Brown Constr. Co., 1973-NMCA-111, ¶ 17, 85 N.M. 487, 513 P.2d 1269 (“It is the policy of the law to favor compromise and settlement.”). The no-withholding provision was nothing more than an ancillary attempt to designate tax ramifications of some of the payments to some of the workers. Such a term is not essential. As mentioned above, the labels that parties to settlement agreements put on their payments are of no real import; they are, in fact, “immaterial” to the taxing authority, which looks instead to the nature of the underlying claim. Treas. Reg. §§ 31.3121(a)-l(c), 31.3401(a)-1(a)(2); Getty, 913 F.2d at 1490. The interests of the United States are adequately protected by statutory penalties, I.R.C. § 6672(a), and by the immunity granted to all employers that withhold payroll taxes in accordance with the law notwithstanding a contract purporting to require otherwise, Bright, 780 F.2d at 770. There is no benefit to the public to be gained by imposing an additional penalty (the avoidance of an otherwise valid settlement agreement) on litigants who mistakenly settle on a tax arrangement that is inconsistent with Section 3402(a)(1).\n{22} While the no-withholding provision may be inconsequential to the taxing authority and the public, Defendants—via statements of counsel—have maintained that it is important to them. They argue that severing the no-withholding clause would alter the cost of the Agreement. One cannot normally set aside a settlement agreement on the basis that he was ignorant of the law when the claim was settled, see Esquibel, 1973-NMCA-1 11, ¶ 19; or on the ground that the agreement turned out to be unwise, see Harkins v. Harkins, 1984-NMSC-057, ¶ 3, 101 N.M. 296, 681 P.2d 722. For our purposes, the relevant standard is not whether performance in compliance with the law might be more expensive than Defendants expected, but whether the illegal term was “an essential part of the agreed exchange.” Restatement (Second) of Contracts § 184(1). The district court granted summary judgment without hearing any evidence that it was.\n{23} There is no evidence in the record, for instance, that the agreed rates for non-Enterprise employees were any different than those for Enterprise employees, which were “subject to payroll withholding in the normal course.” The contract says that payments to all “known workers who performed construction work on the site” were based “upon amounts of back pay and fringe benefits [the workers] would have been due under the PWMWA (less wages and benefits already paid).” Without any evidence to the contrary, this language is clear enough. The price of the bargain was not determined by the no-withholding provision; it was tied directly to the prevailing wage and benefit rates set by the Director of the Department for classes of laborers and mechanics employed on a public works project. See § 13-4-11(B).\n{24} The terms of the Agreement indicate only that Defendants sought to comply with the law. They mistakenly believed, according to the contract, that the non-Enterprise workers were “not employed by any [Defendants].” They made, as the attorney for Sandia Foundation later admitted, “a very fundamental” and “somewhat embarrassing” mistake. In other words, the only way to effectuate their intent is to bring the Agreement into compliance with state and federal law by severing the illegal term. Under the circumstances, we think it best not to permit sophisticated parties to evade the spirit of their agreement by leaning on their own inexplicable misreading of tax provisions that are directed at them. Cf. Forrest Currell Lumber Co., 1970-NMSC-018, ¶ 16; S. States Life Ins. Co. v. McCauley, 1970-NMSC-010, ¶ 7, 81 N.M. 114, 464 P.2d 404 (“The party at fault under the statute cannot gain an advantage by his own act.”); Elephant Butte Alfalfa Ass’n v. Rouault, 1926-NMSC-009, ¶ 17, 33 N.M. 136, 262 P. 185 (“Public policy safeguards society from oppression; it is not an instrument of oppression.”). While partial enforcement of the Agreement may make performance more expensive than D efendants intended, they (and not Plaintiffs, who took no part in negotiations for the illegal term) should bear the cost of their mistake.\n{25} We conclude that the appropriate remedy is to strike the single occurrence of the words “without such withholding” from Paragraph 2 of the Agreement. The Agreement then requires Defendants to make their wage/benefit payments to all workers in the manner already contemplated for the Enterprise employees. Therefore, consistent with state and federal law, all payments are naturally “subj ect to payroll withholding in the normal course.”\nCONCLUSION\n{26} We reverse the district court’s grant of summary judgment.\n{27} IT IS SO ORDERED.\nLINDA M. VANZI, Judge\nWE CONCUR:\nMICHAEL E. VIGIL, Chief Judge\nRODERICK T. KENNEDY, Judge\nRelevant provisions of state law are not meaningfully different. &eNMSA 1978, § 7-3-2(C), (J) (2010) (defining “employer” and “wages”); see also NMSA 1978, § 7-3-3(A) (1996) (requiring employer to withhold income taxes).\nWhile I.R.C. § 3401(d)(1) strictly applies only to income tax withholding, its meaning has been extended to FICA as well. See Otte, 419 U.S. at 51.",
+        "type": "majority",
+        "author": "VANZI, Judge."
+      }
+    ],
+    "attorneys": [
+      "Shane C. Youtz Stephen Curtice James A. Montalbano Albuquerque, NM for Appellants",
+      "Rodey, Dickason, Sloan, Akin & Robb, P.A. Thomas L. Stahl Edward Ricco Albuquerque, NM for Appellee Board of Regents of the University of New Mexico",
+      "Modrall, Sperling, Roehl, Harris & Sisk, P.A. George R. McFall Sarah M. Stevenson Albuquerque, NM for Appellee Sandia Foundation",
+      "Bingham, Hurst & Apodaca, P.C. Wayne E. Bingham Albuquerque, NM for Appellee Enterprise Builders Corporation"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, May 19, 2016,\nNo. S-1-SC-35865\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-052\nFiling Date: March 29, 2016\nDocket No. 34,167\nVINCENT R. GARCIA, ROBERTO BORBON, MARK MORAN, and KENNETH A. ZIEGLER, on behalf of themselves and all others similarly situated, Plaintiffs-Appellants, v. THE BOARD OF REGENTS OF THE UNIVERSITY OF NEW MEXICO, SANDIA FOUNDATION, and ENTERPRISE BUILDERS, INC., Defendants-Appellees.\nShane C. Youtz Stephen Curtice James A. Montalbano Albuquerque, NM for Appellants\nRodey, Dickason, Sloan, Akin & Robb, P.A. Thomas L. Stahl Edward Ricco Albuquerque, NM for Appellee Board of Regents of the University of New Mexico\nModrall, Sperling, Roehl, Harris & Sisk, P.A. George R. McFall Sarah M. Stevenson Albuquerque, NM for Appellee Sandia Foundation\nBingham, Hurst & Apodaca, P.C. Wayne E. Bingham Albuquerque, NM for Appellee Enterprise Builders Corporation"
+  },
+  "file_name": "1737-01",
+  "first_page_order": 752,
+  "last_page_order": 759
+}

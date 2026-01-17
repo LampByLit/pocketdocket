@@ -1,0 +1,816 @@
+{
+  "id": 4352179,
+  "name": "Emmet & Co., Inc., et al., Individually and on Behalf of a Class of Similarly Situated Persons, Plaintiffs, v. Catholic Health East, Defendant",
+  "name_abbreviation": "Emmet & Co. v. Catholic Health East",
+  "decision_date": "2015-08-28",
+  "docket_number": "",
+  "first_page": "1058",
+  "last_page": "1075",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 1058"
+    },
+    {
+      "type": "parallel",
+      "cite": "16 N.Y.S.3d 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "32 So 3d 5",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7040394
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/32/0005-01"
+      ]
+    },
+    {
+      "cite": "716 So 2d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "pin_cites": [
+        {
+          "page": "1177"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 4293781",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*38"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 US Dist LEXIS 9730",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 358270",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 NY 592",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        41581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/156/0592-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 90",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4429418
+      ],
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0090-01"
+      ]
+    },
+    {
+      "cite": "654 F3d 276",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3824569
+      ],
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/654/0276-01"
+      ]
+    },
+    {
+      "cite": "995 F Supp 2d 291",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4068721
+      ],
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/995/0291-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 571",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3821457
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0571-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 466",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356495
+      ],
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0466-01"
+      ]
+    },
+    {
+      "cite": "309 AD2d 249",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        581971
+      ],
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/309/0249-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 457",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5754993
+      ],
+      "pin_cites": [
+        {
+          "page": "458"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/0457-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 478",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5689844
+      ],
+      "pin_cites": [
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0478-01"
+      ]
+    },
+    {
+      "cite": "10 NY2d 401",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2260472
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "404"
+        },
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/10/0401-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 440",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3946484
+      ],
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/0440-01"
+      ]
+    },
+    {
+      "cite": "212 AD2d 452",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1201778,
+        1201853
+      ],
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/212/0452-01",
+        "/ad2d/212/0452-02"
+      ]
+    },
+    {
+      "cite": "7 AD3d 320",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        554158
+      ],
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/7/0320-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 62",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339239
+      ],
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0062-01"
+      ]
+    },
+    {
+      "cite": "58 NY2d 293",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4388018
+      ],
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/58/0293-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 384",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8594537
+      ],
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0384-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 144",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282506
+      ],
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0144-01"
+      ]
+    },
+    {
+      "cite": "73 AD3d 448",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3973004
+      ],
+      "pin_cites": [
+        {
+          "page": "451"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/73/0448-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 352",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579638
+      ],
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0352-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 318",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5694343
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "324-325"
+        },
+        {
+          "page": "324-325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0318-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 351",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339088
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0351-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282577
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "569"
+        },
+        {
+          "page": "569-570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0562-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 223",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339376
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0223-01"
+      ]
+    },
+    {
+      "cite": "235 AD2d 192",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1227412
+      ],
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/235/0192-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 1062",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4430115
+      ],
+      "pin_cites": [
+        {
+          "page": "1063"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/1062-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 1065",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2340122
+      ],
+      "pin_cites": [
+        {
+          "page": "1067"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/1065-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "562"
+        },
+        {
+          "page": "562"
+        },
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "325"
+        },
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 314",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282472
+      ],
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0314-01"
+      ]
+    },
+    {
+      "cite": "204 AD2d 233",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1168593,
+        1168222
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/204/0233-02",
+        "/ad2d/204/0233-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333065
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0268-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 362",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525081
+      ],
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0362-01"
+      ]
+    },
+    {
+      "cite": "179 AD2d 98",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069333
+      ],
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0098-01"
+      ]
+    },
+    {
+      "cite": "1 AD3d 247",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1233584,
+        1234122
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "250"
+        },
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/1/0247-02",
+        "/ad3d/1/0247-01"
+      ]
+    },
+    {
+      "cite": "60 AD3d 491",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5729090
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/60/0491-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 605",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3819801,
+        3818558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0605-01",
+        "/ad3d/114/0605-02"
+      ]
+    },
+    {
+      "cite": "37 Misc 3d 854",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3781411
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "855"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/37/0854-01"
+      ]
+    },
+    {
+      "cite": "2011 US Dist LEXIS 54935",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*1-9"
+        },
+        {
+          "page": "*10-11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 WL 2015533",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*1-3"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1699,
+    "char_count": 45398,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 4.400479698708787e-8,
+      "percentile": 0.27613907220073447
+    },
+    "sha256": "e13b0cae21934f375128272c8ca3b02fe313812ea31dde7997288e15b5b3cb3d",
+    "simhash": "1:8d8561310879da5d",
+    "word_count": 7518
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emmet & Co., Inc., et al., Individually and on Behalf of a Class of Similarly Situated Persons, Plaintiffs, v Catholic Health East, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nShirley Werner Kornreich, J.\nDefendant Catholic Health East (CHE) moves, pursuant to CPLR 3211, to dismiss the complaint. Plaintiffs Emmet & Co., Inc. (Emmet) and First Manhattan Co. (FMC) oppose and cross-move, pursuant to CPLR 3212, for partial summary judgment on liability. The motion and cross motion are granted in part and denied in part for the reasons that follow.\nI. Procedural History and Factual Background\nUnless otherwise indicated, the facts recited are taken from the complaint, the documentary evidence submitted by the parties, and the parties’joint statement of material facts (document No. 27).\nThis action concerns municipal bonds issued in 1994 (the bonds by the Fulco Hospital Authority in Fulton County, Georgia in conjunction with a refinancing of Saint Joseph’s Hospital of Atlanta Inc.’s (the Hospital) debt. CHE is a Pennsylvania not-for-profit corporation that owns health care facilities in 11 states, including the Hospital. Emmet, a bond dealer located in New Jersey, and FMC, an investment advisory firm located in New York, collectively own more than 25% of the bonds.\nThe bonds are governed by a trust indenture dated January 1, 1994 (the indenture) (see document No. 12) and are governed by Georgia law. The bonds have maturity dates ranging from 1997 through 2018 and carry interest rates ranging from 4.1%-5.5%. (See document No. 12 at 25.) The current trustee is nonparty The Bank of New York Mellon Trust Company, N.A. (the trustee).\nOn February 19, 1998, CHE defeased the bonds. “To ‘defease’ the Bonds, CHE purchased U.S. Treasury securities sufficient to pay all expected cash flows of the Bonds, and, pursuant to an escrow agreement . . . , irrevocably deposited them into an escrow account for the benefit of Bondholders.” {See document No. 26 at 10.) As a result of the defeasement, CHE no longer had any payment obligations on the bonds, and the bonds no longer were on CHE’s balance sheet.\nNonetheless, the bonds remained callable, meaning that CHE had the right to compel the bondholders to sell their bonds to CHE at a price set forth in the indenture. The process by which the bonds may be called is set forth in article III and referred to as “redemption.” (See document No. 12 at 42.) Section 301 of the indenture provides:\n“The [Bonds] maturing prior to October 1, 2005 are not subject to redemption prior to maturity except as provided in Section 302. The [Bonds] maturing on and after October 1, 2005 may be redeemed at the option of [CHE], in whole or in part at any time, not earlier than October 1, 2004, from any moneys which may be made available for such purpose upon payment of the respective redemption prices (expressed as percentages of the principal amount of the [Bonds] to be redeemed) set forth below, together with accrued interest to the redemption date.” (See document No. 12 at 42.)\nThe redemption price for redemptions after October 1, 2006 is 100% of the bonds’ principal amount (i.e., par). (See id.)\nSection 304, titled “Selection of Certificates to be Redeemed,” provides:\n“If less than all of the [Bonds] of a particular series are to be redeemed (except pursuant to Section 303), the particular [Bonds] to be redeemed shall be selected in such order of maturities as may be specified by [CHE], or if no order is specified, in inverse order of maturities. If less than all of the [Bonds] of a single maturity of a series are to be redeemed, any [Bond] of such maturity and series outstanding in a denomination of greater than $5,000 may be called for partial redemption in the principal amount of $5,000 or any integral multiple thereof, and for the purpose of determining the [Bonds] of each series to be redeemed or the amount of any such certificate in a principal amount in excess of $5,000 to be partially redeemed, the Trustee shall treat the entire principal amount of the [Bonds] of such maturity then outstanding as if the same were separate [Bonds] of $5,000 each and shall assign separate numbers to each for the purpose of determining the particular [Bonds] or the principal amount of any such certificate in a denomination greater than $5,000 to be redeemed by lot. [CHE] may redeem all or a portion of any Additional Certificates [defined in Section 210] before or at the same time it redeems the [Bonds], or [CHE] may redeem all or a portion of the [Bonds] before it redeems any Additional Certificates.” (See id. at 44 [emphasis added].)\nIn other words, if CHE redeems less than 100% of the bonds, CHE may redeem any percentage of the “outstanding” bonds it wishes, but CHE may not decide which bonds to redeem. Rather, they must be randomly selected. While the word “outstanding” is not capitalized in section 304, “Outstanding” is a term defined in article I to mean,\n“all [Bonds] which have been authenticated and delivered hereunder, except:\n“(a) [Bonds] theretofore cancelled or required to be cancelled pursuant to Article II hereof;\n“(b) [Bonds] deemed to have been paid in accordance with Article XI hereof; and\n“(c) [Bonds] in substitution for which other [Bonds] have been authenticated and delivered pursuant to Article II hereof.” (See document No. 12 at 18-19.)\nPrior to a redemption, notice must be provided to the bondholders in accordance with section 306. Section 307, titled “Effect of Redemption Call,” explains:\n“Notice having been given in the manner and under the conditions hereinabove provided, and moneys for the payment of the redemption price being held by the Trustee, all as provided in this Indenture, the [Bonds] so called for redemption shall, on the redemption date designated in such notice, become and be due and payable at the redemption price provided for the redemption of such [Bonds] on such date, interest on the [Bonds] so called for redemption shall cease to accrue, such [Bonds] shall cease to be entitled to any lien, benefit or security under this Indenture, and the owners of such [Bonds] shall have no rights in respect thereof except to receive payment of the redemption price thereof.” (See id. at 45.)\nAnd, section 308 specifies: “All [Bonds] paid, redeemed or pur chased, either at or before maturity, when such payment, redemption or purchase is made, shall thereupon be cancelled by the Trustee and shall not be reissued but shall thereupon be destroyed by the Trustee and a record thereof furnished periodically to [CHE].” {See id. [emphasis added].) Accordingly, if CHE purchases or redeems any of the bonds from the bondholders prior to maturity, CHE is not permitted to resell the bonds. They have to be canceled.\nBy letter dated March 29, 2011 (the letter), CHE notified bondholders that it “has directed the Bond Trustee to call all of the Bonds for redemption at 100% on May 18, 2011, except for those Bonds tendered to us and purchased during our tender offer, which is described in this letter and in the enclosed materials.” (See document No. 15 at 2.) The letter explained that “the call for redemption is irrevocable” and that “[a] 11 un-tendered Bonds will be redeemed at par, and this redemption is not contingent upon the success of our tender offer.” {See id. [italics removed].) The letter then sets forth CHE’s tender offer, stating that all bondholders who tendered their bonds by April 26, 2011 would be paid 101% of the principal amount. Payment would .be made on May 18, 2011. All bonds not tendered would be redeemed at the price set forth in section 301 of the indenture: 100% of the principal amount. The redemption would also occur on May 18, 2011, immediately after the tender offer was consummated. Thus, the bondholders could either tender their bonds at 101% or see them redeemed at 100%. In the notice of redemption attached to the letter, the trustee made clear that\n“any Bonds tendered to [CHE] for purchase at a purchase price of 101% of their principal amount pursuant to the Tender Offer shall not be subject to redemption at par on the Redemption Date, shall be excluded from such redemption, shall be purchased by [CHE] at a purchase price of 1019^ and shall remain outstanding under the Prior Bonds Instrument and shall continue to be defeased pursuant to, and secured solely by, the Escrow Agreement.” {See document No. 15 at 13-14 [emphasis added].)\nOne month after the letter was issued (and four days before the deadline to tender), by letter dated April 29, 2011, Emmet wrote to the trustee objecting that coupling a tender offer with a redemption is violative of the indenture. (See document No. 35.) On May 3, 2011, FMC also sent a letter of objection to the trustee. (See document No. 40.) On May 4, 2011, CHE distributed an acceptance notice, indicating that it had accepted the tender of 54.52% of the bonds’ par amount outstanding. (See document No. 36.)\nOn May 13, 2011, Emmet commenced an action in this court and moved by order to show cause for an injunction enjoining the tender offer and redemption. (See Emmet & Co., Inc. v Catholic Health E., Sup Ct, NY County, index No. 651290/2011 [the prior action].) CHE removed the prior action to federal court on May 16, 2011. By order dated May 18, 2011, the federal court denied the motion. (See Emmet & Co., Inc. v Catholic Health E., 2011 WL 2015533, 2011 US Dist LEXIS 54935 [SD NY, May 18, 2011, No. 11 Civ. 3272 [RMB], Berman, J.].) Judge Berman denied the motion, inter alia, because Em-met failed to establish that it would suffer irreparable harm since, if Emmet ultimately prevailed on liability, it could recover damages. (See 2011 WL 2015533, *1-3, 2011 US Dist LEXIS 54935, *1-9.) Judge Berman further held that “[p]lain-tiffs lengthy delay in requesting injunctive relief — i.e., waiting 45 days to file its complaint such that only 3 work days remained before the scheduled closing — impose [d] unnecessary hardship on Defendants and preclude [d] a grant of equitable relief in Plaintiff’s favor.” (See 2011 WL 2015533, *4, 2011 US Dist LEXIS 54935, *10-11 [emphasis added].) On May 18, 2011, after the injunction motion was denied, the tender offer and redemption were consummated.\nOn July 27, 2011, Emmet filed an amended complaint in federal court, adding FMC as a plaintiff and Merrill Lynch & Co., Inc. as a defendant. On September 27, 2011, plaintiffs filed a second amended complaint to substitute Merrill Lynch, Pierce, Fenner & Smith Inc. (Merrill) as the proper Merrill defendant. The prior action was then remanded to this court since the addition of Merrill destroyed diversity jurisdiction.\nPlaintiffs alleged that Merrill tortiously interfered with the indenture because it induced CHE to couple the tender offer with a redemption (the transaction). Plaintiffs claimed (and it appears undisputed) that Merrill was the impetus for the transaction. As discussed further below, since the bonds were defeased, a tender offer or redemption, on their own, had no value to CHE and, actually, cost money to effectuate. However, in light of the significant decline in interest rates between 1994, when the bonds were issued, and 2011, when the transaction occurred, the market value of the bonds had risen. CHE, allegedly acting on the advice of Merrill, sought to induce bondholders to tender their bonds by offering them 1% more than the amount they would receive in a redemption. After the transaction closed, CHE synthetically sold the bonds to Merrill through a “total return swap.”\nThe transaction allowed CHE and Merrill to capture a portion of the spread between the redemption price and the market price of the bonds. The market price, inter alia, would have factored in redemption risk as well as the scarcity of (similarly risky) bonds bearing 1994-level interest rates. Plaintiffs wanted to retain the market value of the bonds rather than have CHE compel their redemption. That being said, plaintiffs concede that CHE was fully entitled to redeem the bonds, but only so long as the redemption complied with section 304. Plaintiffs claim that CHE breached section 304 because the transaction involved a redemption of less than 100% of the bonds that was not carried out by lot (i.e., randomly). Plaintiffs contend that the bonds tendered to CHE had to have been included in the redemption. CHE disagrees. The parties’ arguments are discussed in greater detail further below.\nThis court did not rule on these issues in the prior action because, by order dated September 25, 2012, the court granted defendants’ motion to dismiss for lack of standing due to noncompliance with the indenture’s no-action clause. (See Emmet & Co., Inc. v Catholic Health E., 37 Misc 3d 854 [Sup Ct, NY County 2012], affd 114 AD3d 605 [1st Dept 2014].) Plaintiffs allege they subsequently obtained standing by collectively acquiring more than 25% of the bonds, and they commenced the instant putative class action on May 30, 2014. They now assert causes of action for breach of contract and breach of the duty of good faith and fair dealing on behalf of themselves and all similarly situated investors. On January 29, 2015, CHE filed the instant motion to dismiss. On March 5, 2015, plaintiffs cross-moved for partial summary judgment on liability. The court reserved on the motion after oral argument and further submission of papers. (See document No. 43, July 28, 2015 tr.)\nII. Legal Standard\nOn a motion to dismiss, the court must accept as true the facts alleged in the complaint as well as all reasonable inferences that may be gleaned from those facts. (Amaro v Gani Realty Corp., 60 AD3d 491 [1st Dept 2009]; Skillgames, LLC v Brody, 1 AD3d 247, 250 [1st Dept 2003], citing McGill v Parker, 179 AD2d 98, 105 [1992]; see also Cron v Hargro Fabrics, 91 NY2d 362, 366 [1998].) The court is not permitted to assess the merits of the complaint or any of its factual allegations, but may only determine if, assuming the truth of the facts alleged and the inferences that can be drawn from them, the complaint states the elements of a legally cognizable cause of action. (Skillgames at 250, citing Guggenheimer v Ginzburg, 43 NY2d 268, 275 [1977].) Deficiencies in the complaint may be remedied by affidavits submitted by the plaintiff. (Amaro, 60 AD3d at 491.) “However, factual allegations that do not state a viable cause of action, that consist of bare legal conclusions, or that are inherently incredible or clearly contradicted by documentary evidence are not entitled to such consideration.” (Skill-games, 1 AD3d at 250, citing Caniglia v Chicago Tribune-N.Y. News Syndicate, 204 AD2d 233 [1st Dept 1994].) Further, where the defendant seeks to dismiss the complaint based upon documentary evidence, the motion will succeed only if “the documentary evidence utterly refutes plaintiffs factual allegations, conclusively establishing a defense as a matter of law.” (Goshen v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 326 [2002] [citation omitted]; Leon v Martinez, 84 NY2d 83, 88 [1994].)\nSummary judgment may be granted only when it is clear that no triable issue of fact exists. (Alvarez v Prospect Hosp., 68 NY2d 320, 325 [1986].) The burden is upon the moving party to make a prima facie showing of entitlement to summary judgment as a matter of law. (Zuckerman v City of New York, 49 NY2d 557, 562 [1980]; Friends of Animals v Associated Fur Mfrs., 46 NY2d 1065, 1067 [1979].) A failure to make such a prima facie showing requires a denial of the motion, regardless of the sufficiency of the opposing papers. )Ayotte v Gervasio, 81 NY2d 1062, 1063 [1993].) If a prima facie showing has been made, the burden shifts to the opposing party to produce evidence sufficient to establish the existence of material issues of fact. (Alvarez, 68 NY2d at 324; Zuckerman, 49 NY2d at 562.) The papers submitted in support of and in opposition to a summary judgment motion are examined in the light most favorable to the party opposing the motion. (Martin v Briggs, 235 AD2d 192, 196 [1st Dept 1997].) Mere conclusions, unsubstantiated allegations, or expressions of hope are insufficient to defeat a summary judgment motion. (Zuckerman, 49 NY2d at 562.) Upon the completion of the court’s examination of all the documents submitted in connection with a summary judgment motion, the motion must be denied if there is any doubt as to the existence of a triable issue of fact. (Rotuba Extruders v Ceppos, 46 NY2d 223, 231 [1978].)\nIII. Discussion\nThe parties agree that a redemption occurred, and they also agree that a redemption of less than 100% of the bonds must be conducted by lot. They disagree, however, about whether the redemption that occurred here, whereby approximately 45% of the bonds were redeemed after the other approximately 55% were tendered, constitutes a redemption of less than 100% of the bonds requiring selection by lot pursuant to section 304 of the indenture.\nThis dispute, as set forth below, turns on interpretation of the indenture. The indenture is a contract and must be “construed in accord with the parties’ intent.” (Greenfield v Philles Records, 98 NY2d 562, 569 [2002].) “The best evidence of what parties to a written agreement intend is what they say in their writing. Thus, a written agreement that is complete, clear and unambiguous on its face must be enforced according to the plain meaning of its terms.” {Id. [citations omitted].) “A contract is unambiguous if the language it uses has ‘a definite and precise meaning, unattended by danger of misconception in the purport of the [agreement] itself, and concerning which there is no reasonable basis for a difference of opinion.’ ” (Id., quoting Breed v Insurance Co. of N. Am., 46 NY2d 351, 355 [1978].) “Thus, if the agreement on its face is reasonably susceptible of only one meaning, a court is not free to alter the contract to reflect its personal notions of fairness and equity.” (Greenfield, 98 NY2d at 569-570.) Moreover, “a contract should be ‘read as a whole, and every part will be interpreted with reference to the whole; and if possible it will be so interpreted as to give effect to its general purpose.’ ” (Beal Sav. Bank v Sommer, 8 NY3d 318, 324-325 [2007], quoting Matter of Westmoreland Coal Co. v Entech, Inc., 100 NY2d 352, 358 [2003]; see Whitebox Convertible Arbitrage Partners, L.P. v Fairfax Fin. Holdings, Ltd., 73 AD3d 448, 451 [1st Dept 2010] [indentures must be interpreted as a whole].)\nAs noted earlier, plaintiffs contend that CHE redeemed less than 100% of the bonds. They rely on the letter’s description of the transaction, which had two steps: (1) CHE first purchasing bonds voluntarily tendered, which would remain outstanding; and then (2) redeeming the rest of the bonds. Since approximately 45% of the bonds were not tendered, they argue, CHE effectuated a redemption of less than 100% of the bonds. Therefore, plaintiffs contend, CHE did not follow the indenture which required random redemption if less than 100% of the bonds were redeemed. Stated another way, plaintiffs argue that if CHE wanted to redeem plaintiffs’ bonds, which comprised less than all of the outstanding bonds, CHE was required to put its own bonds, acquired in the tender offer, up for selection by lot with the non-tendered bonds.\nCHE, on the other hand, maintains that it did indeed redeem 100% of bonds. CHE takes the position that since it notified all bondholders that all of their bonds would be redeemed unless tendered, the transaction should be considered a redemption of 100% of the bonds. CHE claims it did nothing wrong by offering bondholders the option of receiving an extra 1% if they voluntarily tendered. CHE bases its argument on its offer to redeem all of the bonds.\nCHE is wrong. CHE conflates the concept of notifying bondholders of the redemption pursuant to section 306 and actually redeeming 100% of the bonds pursuant to section 304. While tender offers are not specifically addressed by the indenture, as discussed below, a tender offer is a common way in which companies repurchase stocks and bonds from investors. Indeed, prior to the transaction, CHE itself did not believe a tender offer to be the equivalent of a redemption. CHE was relying on there being a difference between tender and redemption, and made this quite clear in the redemption notice, which stated that “Bonds that are tendered to [CHE] for purchase pursuant to the Tender Offer will be excluded from the redemption of the Bonds.” (See document No. 15 at 13.) Also, in the very next sentence, CHE concedes that it did not redeem 100% of the bonds since “any Bonds tendered to [CHE] for purchase . . . shall not be subject to redemption at par on the Redemption Date, shall be excluded from such redemption, shall be purchased by [CHE] at a purchase price of 101%, and shall remain outstanding.” (See id. at 13-14.) Hence, CHE’s claim that it actually redeemed 100% of the bonds directly contradicts its statements in the redemption notice. Furthermore, as discussed below, CHE actually treated the tendered bonds differently than the redeemed bonds.\nIn fact, the redemption notice accurately portrays CHE’s intentions. It is undisputed that CHE did not want to redeem 100% of the bonds. If it did, it would simply have exercised its unconditional right to call all of the bonds. A tender was more expensive for CHE, since the tender price was 1% more than the redemption price. CHE was willing to pay more by coupling a tender offer with a redemption because it thought it could resell the bonds tendered to Merrill (albeit synthetically via a total return swap), while bonds redeemed had to be canceled pursuant to section 308 of the indenture and paid out with funds from the treasury escrow account. The transaction, therefore, was premised on CHE’s ability to further transact with the tendered bonds.\nThis premise is erroneous. Section 308 provides that “[a]ll Bonds paid, redeemed or purchased, either at or before maturity, when such payment, redemption or purchase is made, shall thereupon be cancelled by the Trustee and shall not be reissued but shall thereupon be destroyed by the Trustee.” (See document No. 12 at 45 [emphasis added].) Consequently, it does not matter if CHE redeemed the bonds or purchased them in a tender offer. In either event, the bonds, once acquired by CHE, had to be canceled by the trustee and could not be resold. CHE’s total return swap transaction with Merrill therefore violated section 308. It also does not matter that CHE technically did not sell or reissue the bonds, as opposed to retaining title while synthetically selling to Merrill via a total return swap. The indenture is clear that the bonds, once acquired by CHE, “shall thereupon be destroyed by the Trustee,” making the Merrill transaction impossible without violating the indenture.\nWith this in mind, the court now turns to the issue of the transaction’s compliance with section 304. Since the indenture must be read as a whole and interpreted to give effect to its general purpose (see Beal, 8 NY3d at 324-325), the parties’ interpretation of section 304 must be evaluated in light of section 308. Simply put, the question as argued by counsel is whether “100% of the Bonds” means “Outstanding Bonds” or “all Bonds that have not been canceled.” The latter appears broader, but in the context of the indenture, they are one and the same. The indenture defines the term “Outstanding” to exclude bonds “cancelled or required to be cancelled.” {See document No. 12 at 18-19.) Nothing in the indenture technically excludes bonds held by CHE after tender, but prior to cancellation, to be considered eligible for redemption if CHE seeks to redeem the non-tendered bonds. However, a redemption of the tendered bonds seems academic since nothing would happen to the bonds, if redeemed, which should not happen anyway if section 308 is adhered to. The fate of the tendered bonds should be the same as the redeemed bonds — all of them should be canceled and paid out from the treasury escrow account. Stated another way, a redemption of 100% of the non-tendered bonds should be functionally equivalent to a redemption of “100% of the Bonds” if, and only if, the tendered bonds are canceled pursuant to section 308.\nBut section 308 was not adhered to, and as a result, the tendered bonds were not canceled. In a world where CHE intended to cancel the tendered bonds, no one would care if tendered bonds were not considered as part of a redemption. Of course, if CHE intended to cancel tendered bonds, it would not have been willing to do a tender at all since it had nothing to gain by paying an extra 1%. Indeed, if the transaction would not have resulted in any outstanding bonds that CHE could resell, CHE would never have considered entering into the transaction. The transaction would be, at best, a zero sum transaction, and, in reality, would have cost CHE money to effectuate. The only rational reason for CHE to repurchase bonds is if they could be repurchased below market value and resold to another buyer at a price between the repurchase price and the market price.\nThat is exactly what CHE tried to do. CHE wanted to get as many of the bonds tendered as possible since it (mistakenly) thought it was entitled to resell those bonds for a higher price. CHE noticed a redemption and offered bondholders an extra 1% for a tender, hoping bondholders would view losing their bonds as inevitable. While it may have cost CHE $30,000 to redeem all bonds not tendered, it was well worth it because CHE profited in a far greater amount in the Merrill deal.\nBut this all falls apart because the transaction is not permissible under the indenture. Nor should it be in a rational market. The market price of callable bonds accounts for the risk of redemption. Bonds, however, would not trade at a price well in excess of the redemption price if investors know that the transaction is a possibility. That knowledge would suppress the market price. If the market did indeed function in this (perhaps overly optimistically rational) manner, the transaction would not be profitable since the spread between the redemption price and market price would narrow significantly.\nRegardless, plaintiffs have a valid claim that their bonds were redeemed in violation of section 304 because, by excluding its own bonds from the redemption, CHE effectuated a nonrandom redemption of less than 100% of the bonds. At bottom, CHE cannot simultaneously claim that tendered bonds remain outstanding but that tendered bonds do not exist for the purpose of determining whether 100% as opposed to 45% of the bonds were redeemed. That being said, plaintiffs’ grievance concerns far more than this claim. The problem here is not so much that the tendered bonds held by CHE were not redeemed — which, as a marginal problem, is not really what caused plaintiffs to suffer a loss — but that any redemption occurred at all. The reason plaintiffs were aggrieved is that the transaction should never have occurred in the first place, since the goal of the transaction — the swap deal with Merrill — was impossible to carry out without violating the indenture. This is true regardless if the bonds were tendered or redeemed.\nNonetheless, CHE also argues that its breach of section 304 did not result in proximately caused damages. Whether this is true is beside the point since CHE also breached section 308, a breach that resulted in the loss of plaintiffs’ bonds. Had CHE acted lawfully under the indenture, plaintiffs would not have lost their bonds because — and this is true without a shadow of a doubt (i.e., it is not speculative) — CHE would not have repurchased any bonds since they had nothing to gain by doing so. Plaintiffs, therefore, should be awarded damages commensurate with the harm suffered when they had to sell their bonds to CHE below market value. That being said, determining the proper measure of damages is beyond the scope of this motion and will likely require expert discovery. A preliminary conference is directed below so this issue, as well as setting a schedule for class discovery, notice, and application for class certification, may be addressed.\nIn sum, CHE’s motion to dismiss the cause of action for breach of contract is denied, and plaintiffs are granted partial summary judgment on liability for the reasons set forth herein. Nonetheless, CHE’s motion to dismiss plaintiffs’ claim for breach of the duty of good faith and fair dealing is granted.\nThe covenant of good faith and fair dealing is implied in every contract. (511 W. 232nd Owners Corp. v Jennifer Realty Co., 98 NY2d 144, 153 [2002].) “This covenant embraces a pledge that ‘neither party shall do anything which will have the effect of destroying or injuring the right of the other party to receive the fruits of the contract.’ ” (Id., quoting Dalton v Educational Testing Serv., 87 NY2d 384, 389 [1995].) “While the duties of good faith and fair dealing do not imply obligations ‘inconsistent with other terms of the contractual relationship,’ they do encompass ‘any promises which a reasonable person in the position of the promisee would be justified in understanding were included.’” (Id., quoting Murphy v American Home Prods. Corp., 58 NY2d 293, 304 [1983], and Rowe v Great Atl. & Pac. Tea Co., 46 NY2d 62, 69 [1978].) However, “[a] cause of action for breach of the implied duty of good faith and fair dealing cannot be maintained where the alleged breach is ‘intrinsically tied to the damages allegedly resulting from a breach of the contract.’ ” (Hawthorne Group v RRE Ventures, 7 AD3d 320, 323 [1st Dept 2004], quoting Canstar v Jones Constr. Co., 212 AD2d 452, 453 [1st Dept 1995]; see Logan Advisors, LLC v Patriarch Partners, LLC, 63 AD3d 440, 443 [1st Dept 2009] [good faith claim “duplicative of the breach of contract claim because both claims arise from the same facts”].) Plaintiffs correctly aver that they were deprived of their right to receive the fruits of the indenture. After all, they lost their bonds. However, since plaintiffs have prevailed on their express breach of contract claim, a good faith claim is duplicative. Nor would a good faith claim entitle plaintiffs to additional damages since the only harm plaintiffs suffered— the loss of their bonds — is fully compensable.\nMoreover, plaintiffs’ punitive damages demand is stricken. Punitive damages are only permitted “in cases where the wrong complained of is morally culpable, or is actuated by evil and reprehensible motives.” (Walker v Sheldon, 10 NY2d 401, 404 [1961].) It is not enough for the wrongdoing to be intentional; defendant must “evince [ ] a high degree of moral turpitude and demónstrate! ] such wanton dishonesty as to imply a criminal indifference to civil obligations.” (Ross v Louise Wise Servs., Inc., 8 NY3d 478, 489 [2007], quoting Walker, 10 NY2d at 405 [alterations omitted].) “Mere commission of a tort, even an intentional tort requiring proof of common-law malice, is insufficient; there must be circumstances of aggravation or outrage, or a fraudulent or evil motive on the part of the defendant.” (Hoeffner v Orrick, Herrington & Sutcliffe LLP, 85 AD3d 457, 458 [1st Dept 2011].) Thus, “in order for punitive damages to be awarded, the plaintiff must demonstrate that the defendant’s conduct is intentional and deliberate, has fraudulent or evil motive, and has the character of outrage frequently associated with crime.” (Morsette v “The Final Call”, 309 AD2d 249, 254 [1st Dept 2003], citing Prozeralik v Capital Cities Communications, 82 NY2d 466, 479 [1993].)\nThese criteria are not satisfied here. While the court finds that CHE breached the indenture, this conclusion is not reached without extensive analysis of the indenture and the transaction. The grounds relied on herein go well beyond the objections plaintiffs initially raised in their demand letters and in the prior action. Moreover, it does not appear that CHE believed it violated the indenture in deciding to enter into the transaction. And, even if CHE actually believed it was in the wrong, this is a controversy between highly sophisticated financial professionals who appear to have had a disagreement about complex issues without clear precedent to guide them. Punitive damages are not appropriate. Accordingly, it is ordered that the motion to dismiss by Catholic Health East is granted in part as follows: (1) the second cause of action for breach of the duty of good faith and fair dealing is dismissed; (2) plaintiffs’ punitive damages demand is stricken; and (3) the motion to dismiss is otherwise denied; and it is further ordered that the cross motion by plaintiffs Emmet & Co., Inc. and First Manhattan Co. for partial summary judgment on liability is granted on the first cause of action for breach of contract to the extent set forth herein.\n. The bonds, also referred to as the “Series 1994 Certificates,” bear Committee on Uniform Securities Identification Procedures numbers 359597DZ1 and 359597EA5.\n. The parties do not contend that there is, nor does there appear to be, any difference between the applicable Georgia and New York law. The parties primarily rely on New York law, although they cite a few Georgia cases. The court, therefore, applies New York law. (See TBA Global, LLC v Proscenium Events, LLC, 114 AD3d 571, 572 [1st Dept 2014].)\n. The defeasement was carried out pursuant to an escrow deposit agreement dated January 1, 1998. (See document No. 14.)\n. Article III provides for various forms of redemption applicable under different circumstances and dependent on the maturity date. For instance, pursuant to section 303, certain of the bonds are subject to a mandatory sinking fund redemption. (See document No. 12 at 43.) The court limits its discussion to the type of redemption at issue in this case.\n. The deadline was extended to May 3, 2011. (See document No. 34.)\n. $7,550,000 out of $14,735,000 of the bonds maturing in 2014 were tendered, and $10,435,000 of the $18,255,000 of the bonds maturing in 2018 were tendered.\n. Total return swaps “are synthetic instruments designed to mimic all aspects (i.e., the ‘total return’) of a [security] as though the [security] had been purchased itself.” (In re Bear Stearns Cos., Inc. Sec., Derivative, & ERISA Litig., 995 F Supp 2d 291, 297 [SD NY 2014]; see CSX Corp. v Children’s Inv. Fund Mgt. [UK] LLP, 654 F3d 276, 279 [2d Cir 2011] [“Total-return swaps are contracts in which parties agree to exchange sums equivalent to the income streams produced by specified assets. Total-return equity swaps involve an exchange of the income stream from: (1) a specified number of shares in a designated company’s stock, and (2) a specified interest rate on a specified principal amount. The party that receives the stock-based return is styled the ‘long’ party. The party that receives the interest-based return is styled the ‘short’ party. These contracts do not transfer title to the underlying assets or require that either party actually own them. Rather, in a total-return equity swap, the long party periodically pays the short party a sum calculated by applying an agreed-upon interest rate to an agreed-upon notional amount of principal, as if the long party had borrowed that amount of money from the short party. Meanwhile, the short party periodically pays the long party a sum equivalent to the return to a shareholder in a specified company — the increased value of the shares, if any, plus income from the shares — as if the long party owned actual shares in that company”].) A total return swap can be used as a regulatory arbitrage mechanism for the purpose of synthetically mirroring the sale of a security without actually transferring title to the purchaser. (See e.g. Matt Levine, BloombergView, Bank of America Mixed Serious Banking and Fun Swaps, http://www.bloombergview.com/articles/2015-02-ll/bank-of-america-mixedserious-banking-and-fun-swaps [Feb. 11, 2015].)\n. The prior action involved three sets of bonds. (See 37 Misc 3d at 855.) The only bonds at issue in this action are the Georgia bonds issued to finance the Hospital. Plaintiffs do not assert claims relating to the Florida and Pennsylvania bonds at issue in the prior action.\n. Plaintiffs purport to represent a class “consisting of all individuals and entities that held [the bonds] prior to the consummation of [the transaction] on May 18, 2011. Excluded from the Class are CHE, [Merrill] and [the Trustee].” (See complaint f 41.) Determination of the proper scope of a potential class (i.e., all bondholders or only those that did not voluntarily tender their bonds) is beyond the scope of this motion.\n. See document No. 43 (July 28, 2015 tr at 10 [“And if you look at the redemption notice, which I think is the right point in time to look at this, and say functionally what is happening” (emphasis added)]).\n. The word “purchased” in section 308 is not defined. However, it is not ambiguous. When CHE acquired bonds in the tender offer, it purchased them from bondholders. That a tender offer itself is not specifically discussed in the indenture is of no moment. A tender offer is simply an offer to purchase bonds at a specific price and, therefore, falls within the purview of section 308. Indeed, the legal opinion letter on which CHE relies described the tender offer as a purchase. (See document No. 17 at 35 [“the proposed implementation of the Tender Offer whereby CHE purchases the Tendered Defeased Bonds” (emphasis added)].)\n. If the bonds were canceled, the economics of the total return swap would not have been possible. Merrill’s “total return” on the tendered bonds is effectively funded by the interest payments CHE receives from the treasury escrow account by virtue of CHE holding title to the tendered bonds. If the bonds were canceled, there would be no cash flow to fund the total return swap, nor, by virtue of the cancellation, would there be any bonds to transact with.\n. It is of no moment that in the letter and attached redemption notice, CHE and the trustee took the position that tendered bonds would remain outstanding. That was an erroneous legal position. The indenture mandates that all bonds purchased are required to be canceled, meaning that bonds purchased by CHE in a tender offer are not outstanding. That CHE and its bond counsel said otherwise in their pre-transaction written correspondence does not make it so.\n. The court recognizes that CHE’s incentives are premised on the bonds being defeased. If they were not, CHE’s incentives would have been different since CHE would then have to consider the benefits of refinancing its debt in an environment of lower interest rates. Absent defeasance, the viability of a bond repurchase might be dependent on CHE having sufficient cash to effectuate a repurchase, since there would be no treasury escrow account to be used to pay for the redeemed bonds.\n. This is essentially the converse of the question posed by CHE’s counsel during oral argument (see document No. 43, July 28, 2015 tr at 16-18) — namely, if redemption was a right that CHE had, how could one take the position that redemption, regardless if coupled with a tender offer, would be worthless for CHE? The answer, in this case, is defeasance. Prior to defeasance, a redemption right is the issuer’s hedge against interest rates decreasing. The issuer pays callable bondholders a higher interest rate to compensate them for the risk of redemption. However, after defeasement, there is nothing for the issuer to effectively refinance and a redemption serves no purpose. This, if anything, suggests that defeased callable bonds should trade at an even higher premium (though whether this is empirically true is not a question the court has probed). While redemption is not a right the issuer forgoes by defeasing the bonds, it becomes a right not worth exercising. That is, perhaps, why there was so much of a spread between the bonds’ redemption price and the market rate for CHE to try to capture with the transaction. Nonetheless, for CHE to take the position that the transaction was a manifestation of the redemption risk plaintiffs bargained for is simply inaccurate. Prior to defeasement, the bondholders certainly accepted the risk of redemption. Defeasement was a decision made by CHE for its own benefit, but it happened to effectively devalue CHE’s call option. CHE cannot evade that reality and seek to justify its breach of section 308 by claiming that but for the transaction being permissible, it was not capable of availing itself of the value of its call option.\n. CHE claims (and plaintiffs dispute) that the transaction is quite common and has occurred approximately 50 times without controversy. It should be noted that CHE has not cited a single example of another such transaction despite repeatedly making this representation in both this action and the prior action. The court’s independent research, however, reveals that coupling a tender offer with the threat of redemption is not a new concept, although the issuer’s reasons for doing so are often different than CHE’s motivations in this case. (See e.g. Upinder S. Dhillon et al., Bond Calls, Credible Commitment, and Equity Dilution: A Theoretical and Clinical Analysis of Simultaneous Tender and Call [STAC] Offers, Journal of Financial Economics, Vol. 60 [2-3], 573-611 [Feb. 2001], available at http:// www.researchgate.net/publication/4978548.) Moreover, even if this type of transaction has occurred up to now without challenge, it does not mean the transaction is permissible under the terms of the specific indenture at issue here.\n. It, therefore, should be noted that whether the transaction was (as plaintiffs allege) improperly coercive is beside the point. The problem here is not the level of coercion. It is that the transaction should not have occurred since it could not be effectuated without violating section 308. In this regard, it should be noted that the redemption notice stated, “All holders that elect to tender their Bonds pursuant to such Tender Offer . . . shall agree [to] waive any and all inconsistent provisions of the [indenture].” (See document No. 15 at 13.) Plaintiffs, who did not tender their bonds, did not agree to such a waiver.\n. This, too, is essentially the converse of a question posed by CHE’s counsel during oral argument. («See document No. 43, July 28, 2015 tr at 20 [“The point is, what would (plaintiffs) have done if (CHE) followed the letter of the contract”].) The answer, of course, is not lose their bonds since CHE would not have done the transaction if it thought the tendered bonds were unavailable to be used to transact with Merrill. CHE’s arguments that the marginal act of redeeming plaintiffs’ bonds was legal or that CHE was planning on redeeming those bonds regardless of the outcome of the tender offer are, therefore, unavailing. Had CHE not contravened the indenture, they would never have tendered or called any bonds. This renders plaintiffs’ damages claim to not be speculative. In any event, as plaintiffs correctly argue, “[n]ominal damages are always available in breach of contract actions.” (Kronos, Inc. v AVX Corp., 81 NY2d 90, 95 [1993].)\n. The precedent relied on by the parties is not controlling. Those cases involve different types of transactions, where liability was predicated on clear cut instances of the issuer engaging in classic forms of disparate treatment. (See e.g. Missouri, Kan. & Tex. Ry. Co. v Union Trust Co. of N.Y., 156 NY 592 [1898] [issuer without call right repurchased certain bonds making others statistically more likely to be redeemed pursuant to mandatory sinking fund]; see also Whitebox Convertible Arbitrage Partners, L.P. v World Airways, Inc., 2006 WL 358270, 2006 US Dist LEXIS 9730 [ND Ga 2006] [issuer made private exchange offer only to certain bondholders]; but see In re Loral Space & Communications Inc., 2008 WL 4293781, *38, 2008 Del Ch LEXIS 136, *148-149 [2008, Strine, V.C.] [rejecting notion that Whitebox should be interpreted to require equal treatment as matter of equity and noting that indenture in Whitebox involved “an equal treatment covenant that directly required pro-rata treatment in a partial redemption”].) The harm here is less about disparate treatment per se and far more about engaging in a transaction that would make no economic sense absent CHE’s erroneous interpretation of a provision of the indenture other than the nonrandom redemption clause. The wrong here did not arise from different bondholders being treated differently, but from CHE’s decision to repurchase all of the bonds under the misguided assumption that it could resell some of them to Merrill. This type of scenario appears to lack legal precedent, at least none cited by the parties. That being said, some out-of-state case law cited by the parties reinforces this court’s holdings. For instance, courts have held tender offers to be distinct from redemptions and that coupling the two is not, on its own, unduly coercive. (See Mutual Sav. Life Ins. Co. v James Riv. Corp. of Va., 716 So 2d 1172, 1177 [Ala 1998], overruled on other grounds by White Sands Group, L.L.C. v PRS II, LLC, 32 So 3d 5 [Ala 2009].)",
+        "type": "majority",
+        "author": "Shirley Werner Kornreich, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Shearman & Sterling LLP for defendant.",
+      "Kasowitz, Benson, Torres & Friedman LLP for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[16 NYS3d 154]\nEmmet & Co., Inc., et al., Individually and on Behalf of a Class of Similarly Situated Persons, Plaintiffs, v Catholic Health East, Defendant.\nSupreme Court, New York County,\nAugust 28, 2015\nAPPEARANCES OF COUNSEL\nShearman & Sterling LLP for defendant.\nKasowitz, Benson, Torres & Friedman LLP for plaintiffs."
+  },
+  "file_name": "2010-01",
+  "first_page_order": 1040,
+  "last_page_order": 1057
+}

@@ -1,0 +1,294 @@
+{
+  "id": 12170759,
+  "name": "In the Matter of Letitia James, in Her Official Capacity as the Public Advocate for the City of New York, Petitioner, v. Carmen Farina, Chancellor of the New York City Department of Education, et al., Respondents",
+  "name_abbreviation": "James v. Farina",
+  "decision_date": "2016-08-11",
+  "docket_number": "",
+  "first_page": "704",
+  "last_page": "718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 704"
+    },
+    {
+      "type": "parallel",
+      "cite": "39 N.Y.S.3d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "247 NY 401",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1983659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/247/0401-01"
+      ]
+    },
+    {
+      "cite": "123 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4340623
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0001-01"
+      ]
+    },
+    {
+      "cite": "177 App Div 663",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2897773
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/177/0663-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 138",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1233002
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/187/0138-01"
+      ]
+    },
+    {
+      "cite": "58 Misc 2d 206",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1200037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/58/0206-01"
+      ]
+    },
+    {
+      "cite": "2008 NY Slip Op 32030",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 AD2d 542",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3243312,
+        3222505,
+        3224027
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/33/0542-03",
+        "/ad2d/33/0542-01",
+        "/ad2d/33/0542-02"
+      ]
+    },
+    {
+      "cite": "85 NY2d 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0382-01"
+      ]
+    },
+    {
+      "cite": "3 NY3d 71",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        456507
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/3/0071-01"
+      ]
+    },
+    {
+      "cite": "255 AD2d 107",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        38000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/255/0107-01"
+      ]
+    },
+    {
+      "cite": "174 Misc 2d 400",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        175836
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/174/0400-01"
+      ]
+    },
+    {
+      "cite": "20 USC § 1414",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 USC § 1412",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "725 F3d 131",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071311
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/725/0131-01"
+      ]
+    },
+    {
+      "cite": "56 F Supp 3d 147",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4066274
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/56/0147-01"
+      ]
+    },
+    {
+      "cite": "20 USC § 1400",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 AD3d 33",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3984563
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "38"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "page": "38"
+        },
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/75/0033-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1276,
+    "char_count": 31750,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24694779502588762
+    },
+    "sha256": "a7c2b36ebd75c9dadba920da690cd3e975f27a01b2744489c5a6d18ea812e907",
+    "simhash": "1:14d476136dfc8686",
+    "word_count": 5084
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Letitia James, in Her Official Capacity as the Public Advocate for the City of New York, Petitioner, v Carmen Farina, Chancellor of the New York City Department of Education, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLynn R. Kotler, J.\nBy order to show cause, petitioner Letitia James, as Public Advocate for the City of New York, requests that this court conduct a summary judicial inquiry pursuant to the rarely invoked section 1109 of the New York City Charter (motion sequence No. 001). Such relief is so rare that according to the First Department in Matter of Riches v New York City Council (75 AD3d 33, 38 [2010]), the last time a section 1109 inquiry was conducted was in 1900.\nPetitioner seeks to obtain information regarding various acts by respondents Chancellor Carmen Farina and the New York City Department of Education (DOE). The City of New York is also named a respondent in this application. Petitioner claims that the Chancellor and DOE have neglected and/or violated their duty to provide legally-mandated services to children with disabilities and to protect the City from wasteful contracts.\nIn motion sequence number 002, respondents move to dismiss the application pursuant to CPLR 3211. Respondents argue primarily that petitioner’s application pursuant to section 1109 is an “inappropriate attempt! ] ... to further purposes for which [section 1109] was not intended.” Both motion sequences are hereby consolidated for the court’s consideration and disposition in this single decision/order. The court’s decision follows.\nThe decision whether to conduct a section 1109 summary inquiry is a matter within the court’s discretion, and “the decision should not be reviewed except in a case where there is a clear abuse of discretion” (Riches at 39). Section 1109 of the New York City Charter provides as follows:\n“A summary inquiry into any alleged violation or neglect of duty in relation to the property, government or affairs of the city may be conducted under an order to be made by any justice of the supreme court in the first, second or eleventh judicial district on application of the mayor, the comptroller, the public advocate, any five council members, the commissioner of investigation or any five citizens who are taxpayers, supported by affidavit to the effect that one or more officers, employees or other persons therein named have knowledge or information concerning such alleged violation or neglect of duty. Such inquiry shall be conducted before and shall be controlled by the justice making the order or any other justice of the supreme court in the same district. Such justice may require any officer or employee or any other person to attend and be examined in relation to the subject of the inquiry. Any answers given by a witness in such inquiry shall not be used against such witness in any criminal proceeding, except that for all false answers on material points such witness shall be subject to prosecution for perjury. The examination shall be reduced to writing and shall be filed in the office of the clerk of such county within the first, second or eleventh judicial district as the justice may direct, and shall be a public record.”\nBy way of background, pursuant to the Individuals with Disabilities Education Act (the IDEA) (20 USC § 1400 et seq.), New York State is required to provide disabled children with a free and appropriate public education. (P.L. v New York State Dept. of Educ., 56 F Supp 3d 147 [ED NY 2014], citing M.W. ex rel. S.W. v New York City Dept. of Educ., 725 F3d 131 [2d Cir 2013].)\n“To the maximum extent appropriate, children with disabilities, including children in public or private institutions or other care facilities, are [to be] educated with children who are not disabled, and special classes, separate schooling, or other removal of children with disabilities from the regular educational environment occurs only when the nature or severity of the disability of a child is such that education in regular classes with the use of supplementary aids and services cannot be achieved satisfactorily” (20 USC § 1412 [a] [5] [A]).\nTo ensure that disabled children receive a free and appropriate education, a school district must create an individualized education program (IEP) for each disabled child upon request (20 USC § 1414 [a]). An IEP is a written statement setting forth, inter alia, (1) the child’s present academic status; (2) measurable annual goals, including how progress towards those goals will be measured and reported; (3) what special education, supplementary aids and services will be provided to the child or on the child’s behalf; (4) the program modifications and support for school personnel that will be provided to the child; (5) the extent, if any, the child will participate with non-disabled children; and (6) what accommodations, if any, are necessary to measure the child’s academic performance (20 USC § 1414 [d] [1] [A]). The IEP “describes the specially designed instruction and services that will enable the child to meet stated educational objectives and is reasonably calculated to give educational benefits to the child” (M.W. ex rel. S.W., 725 F3d at 135 [citations omitted]). The IDEA requires local education authorities to monitor and maintain data about the educational achievement of children with disabilities and the children’s needs for special education and related services (20 USC § 1414 [c] [2]). Further, local education agencies must review the IEP no less than annually to ensure that the goals for each child are being met (20 USC § 1414 [d] [4]).\nPetitioner is a citywide elected official charged with “monitor-ting], investigating] and reviewing] the actions of City agencies” pursuant to New York City Charter § 24. Petitioner also has the capacity to sue (Matter of Green v Safir, 174 Misc 2d 400 [Sup Ct, NY County 1997], affd 255 AD2d 107 [1st Dept 1998]). Petitioner claims in her affidavit that her office has conducted a “lengthy and thorough investigation” and has found “that [the Chancellor] and DOE have failed to meet their obligations under city, state and federal law to ensure that children with disabilities in New York City are receiving their IEP-mandated services.” Petitioner claims that a $130 million system that DOE has implemented called the Special Education Student Information System (SESIS) “is incapable of providing citywide data.” As a result, “DOE cannot monitor its own city-wide compliance with city, state and federal law.”\nThere are over 200,000 children in New York City who have IEPs. Petitioner maintains that children with disabilities “fall between the cracks” (internal quotation marks omitted) because SESIS “often fails to record information entered into the system by service providers, which means that individual records within the system are often incomplete and inaccurate.” Petitioner claims that her office has received numerous complaints from parents of children with disabilities that their children have not received IEP-mandated services or experience significant delays in receiving those services.\nSESIS\nIn 2008, the DOE issued a Request for Proposal No. R0587 “related to software IT solutions and implementation and change management services to support its [SESIS] Initiative.” The objectives for SESIS included simplifying data entry, improving the quality of IEPs and data integrity, and reducing the cost of managing paper-based records. Maximus Inc. was awarded the contract. The cost of implementing SESIS is estimated to be between $79 and $130 million. A report issued by the New York City Comptroller dated July 22, 2013 based upon an audit conducted by the Comptroller provides in pertinent part that “SESIS is not meeting its overall goal, which is to provide its users with an efficient and reliable system that meets court-mandated State and Federal reporting requirements” and that “users are not satisfied with SESIS” because of problems with “data integrity and system availability as well as timely resolution of technical problems associated with pre-identified bugs and basic user functions in SESIS.”\nPetitioner claims that problems with SESIS “persist today” based upon her “understanding” and maintains that these problems “mean that the City has no way of effectively tracking its own performance in providing legally-mandated services to children with disabilities.” Petitioner further claims that the Independent Budget Office of the City of New York has requested from DOE citywide data demonstrating rates of compliance with IEPs and that DOE has been unable to provide same. Petitioner claims that “advocates, parents and teachers” all tell her that SESIS is “difficult to use and is subject to malfunctions.” Petitioner provides examples of such problems: “[e]xternal service providers report that they often cannot access SESIS, with the result that sessions with external service providers are not recorded” and “information inputted into SESIS disappears even when saved” and “the help desk often provides no assistance.” Petitioner claims that student transfers also pose a problem for SESIS because the child’s new school does not implement the IEP for several months after the transfer occurs.\nPetitioner has provided the affidavit of Ellen McHugh, a member of the New York Citywide Council on Special Education (NYCCSE), which she describes as “a body of volunteer parent members that advocates on behalf of all New York City students who have [IEPs] and advises the [DOE] on instructional policies and school issues involving students with disabilities.” Ms. McHugh states that she has received numerous complaints about SESIS causing “long waits and a lack of access to . . . information.” Ms. McHugh provides an example of this problem: “the parent of a child who is supposed to be receiving three sessions per week of speech therapy with a licensed speech therapist does not receive confirmation that their child is receiving these services.” Ms. McHugh claims that NYCCSE has not received citywide data about the provision of IEP services from DOE despite requests for same. Ms. McHugh also corroborates petitioner’s claim that SESIS is not accessible to external service providers and therefore SESIS cannot track whether children are receiving services if the services are not provided in the school.\nPetitioner has provided to the court a copy of the 2014-2015 annual report from the NYCCSE. According to the NYCCSE report, 28% of surveyed parents of children with IEPs stated that “more than six weeks into the school year, their children were not getting the services to which they were entitled” and another 31% said “their child was receiving some services but that at least one or more of the services called for was not being provided.” Petitioner has provided the affidavit of Modisha Moses, the parent of A.N., a six-year-old boy. A.N. is autistic and nonverbal with sensory issues. For the past two years, A.N. has attended the Helen Keller School, PS 153, program 176X. According to A.N.’s IEP, he should receive occupational therapy, physical therapy, speech therapy and assisted technology. Nonetheless, A.N. has not been assigned an occupational therapist or physical therapist within the first three weeks of the school year. In 2014 and 2015, A.N. was without assisted technology for eight weeks. During these delays, Ms. Moses “called the school weekly, and was given several excuses, including: (1) the school had not been assigned any therapists yet, or (2) the school had a new computer program and lacked the staff to physically enter the names of the students to fill the assignments.”\nBy mid-October in both 2014 and 2015, Ms. Moses contacted district offices to inquire why her child did not have occupational therapy. The only responses she claims to have received were “notices in [her child’s] bookbag notifying parents of the delay and offering related services off-site at the [DOE]’s expense.”\nMs. Moses describes the results of these delays on A.N. as “detrimental.” She claims that due' to the delay in not receiving occupational therapy, “A.N. regressed to grinding his teeth, not socializing, being unresponsive, poor eye-contact, being unable to sleep at night, not wanting to eat, jumping around, and shaking his hands repeatedly.” Ms. Moses also states that because A.N. did not receive assisted technology for eight weeks, “he had to relearn everything” and “could not communicate with those around him.”\nFinally, petitioner alleges that the DOE “appears to have lost millions of dollars in Medicaid revenue, in part because SESIS is unable to properly bill for Medicaid services.” Petitioner theorizes that this drop in Medicaid revenue is largely due to a 2009 change in the New York Medicaid State Plan, which requires that each time services are received, the encounter must be documented and “SESIS is apparently unable to provide documentation that would meet New York Medicaid requirements.” Petitioner points to testimony by Michael Mulgrew, president of the United Federation of Teachers, who testified before the City Council’s Committees on Education and Finance in 2012 that “[w]hile the vast majority of the City’s 168,000 students with special needs reportedly qualify for Medicaid, the City hasn’t been filing for reimbursement in a' systematic or organized way.” Petitioner has also provided to the court a copy of the City Comptroller’s Budget and Policy Brief: Money Left on the Table — A Review of Federal Medicaid Reimbursement to the New York City Department of Education dated August 2014. According to the Comptroller’s brief, DOE is estimated to have “failed to recoup a cumulative $356 million in federal Medicaid dollars for eligible special education services between Fiscal Years 2012 and 2014.”\nPetitioner has also provided, in its reply, a DOE report concerning SESIS issued subsequent to the commencement of this case. That report, entitled Local Law 27 of 2016 Annual Report on Special Education, School Year 2014-2015, and dated February 29, 2016, provides in pertinent part as follows:\n“DOE has identified significant design and performance issues with SESIS. Although progress has been made in ensuring the functionality of its core transactions — such as the entry of a student’s Individualized Education Program (IEP) — major deficiencies in SESIS’s design for capturing, processing, and storing information, continue to affect DOE’s ability to reliably report specific compliance metrics (e.g., timeliness of evaluations).\n“The DOE’s capacity to report special education data reliably is also negatively affected by a lack of integration of certain key systems. Most notably, there is no direct linkage between SESIS, where a student’s IEP is entered and stored, and the Student Tracking and Registration System (STARS), where a student’s course enrollment information is entered and stored.”\nPetitioner argues that the 2016 DOE report is “vague [ ]” and “raises more questions than it answers and does not address the questions that are at the core of the requested summary inquiry.”\nParties’ Arguments\nPetitioner argues that the Chancellor and DOE have neglected and violated their duties under the IDEA to ensure that children with disabilities are receiving a free and appropriate education “[b]y failing to monitor the provision of services and by employing a system that is difficult to use . . . and that results in children going without IEP services.” Petitioner also contends that the Chancellor and DOE have violated their duty to comply with court-mandated reporting requirements imposed by the settlement and stipulations in Jose P. v Mills (96 Civ 1832). Petitioner has provided a copy of the 2003 stipulation in that case.\nPetitioner argues that a section 1109 inquiry is appropriate here because the Chancellor’s and DOE’s provision of IEP-mandated services and the failure to recoup Medicaid reimbursements are matters that affect city “property, government, or affairs.” Petitioner seeks to address two issues in the proposed inquiry: (1) whether the Chancellor and DOE have failed to take the steps needed to oversee a large and complex school system and to ensure that children with IEPs are receiving the services to which they are entitled; and (2) whether the Chancellor and DOE have allowed waste of city funds. Petitioner contends that this inquiry is necessary because the Chancellor and DOE “have not acknowledge [d] that SESIS has failed at meeting its core objectives, nor has there been any indication that any entity is investigating this matter.”\nPetitioner requests that whether this court issues a subpoena duces tecum or prefers live testimony, the following questions be posed to respondents:\n1. Does SESIS have any capacity to produce citywide data about DOE’s compliance with students’ IEPs?\n2. In the absence of such citywide data, how does DOE measure its own performance in providing services to children with special needs?\n3. In the absence of such citywide data, how does DOE measure whether it is meeting the requirements of students’ IEPs?\n4. What mechanisms does DOE have in place to ensure that IEPs are provided to a child’s new school upon transfer?\n5. What mechanisms does DOE have in place to ensure that required services are provided to a child immediately or soon after transfer to a new school?\n6. What problems exist for service providers who are not based in schools who attempt to use SESIS?\n7. What explains the significant drop in Medicaid revenue for services to students with special needs?\n8. Did the Chancellor or DOE take any steps to enforce the contract with Maximus, including correspondence with the company, arbitration, or litigation?\nRespondents move to dismiss this case, arguing that: (1) the court lacks subject matter jurisdiction because petitioner failed to file a petition; (2) section 1109 does not apply to the DOE or its employees; (3) the City is not a proper respondent; (4) petitioner has failed to provide affidavits based upon personal knowledge of the alleged neglect and/or violations; (5) section 1109 is unconstitutional on its face and as applied; (6) section 1109 does not apply here because there are no allegations concerning municipal corruption; and (7) a summary judicial inquiry is not warranted since this is a political dispute and the underlying allegations have already been investigated and reported on.\nDiscussion\nAt the outset, the court will address respondents’ procedural arguments in support of their motion to dismiss. First, respondents contend that this case must be dismissed because petitioner failed to file a petition. The court disagrees. Section 1109 expressly provides that a summary judicial inquiry may be ordered “on application of . . . the public advocate . . . , supported by affidavit.” When interpreting a statute, the court must give effect to the plain meaning of the language itself (American Tr. Ins. Co. v Sartor, 3 NY3d 71 [2004]). “A court cannot amend a statute by adding words that are not there” (id. at 76, citing Matter of Chemical Specialties Mfrs. Assn, v Jorling, 85 NY2d 382 [1995]). Further, the First Department stated in dicta that section 1109 “appears to contemplate an ex parte application rather than a special proceeding with notice to [the] alleged wrongdoing officials” (Matter of Larkin v Booth, 33 AD2d 542, 542 [1st Dept 1969]). Since section 1109 does not explicitly state that relief sought pursuant to it must be brought by notice of petition and/or in a special proceeding, respondents’ argument on this point is rejected.\nRespondents also argue that the City is not a proper party to this application. On this point, the court agrees. While petitioner claims that since the DOE is an agency of the City and a significant portion of the DOE’s funds come from the City itself, this tangential connection does not render the City a necessary party to this application. Nor does the fact that the DOE contract with Maximus was filed with the City Comptroller warrant a different result. The matters into which the proposed inquiry would delve relate to a contract entered into between the DOE and Maximus, the DOE’s monitoring, tracking and recording of IEPs and the DOE’s application for Medicaid reimbursement. Indeed, the questions which petitioner seeks to ask respondents would be directed at city witnesses or target the City’s books and records. Accordingly, petitioner has failed to show why the City is a necessary party to the instant application and therefore the motion to dismiss is granted to the extent of dismissing this matter as to the City only.\nThe court, however, rejects respondents’ contention that section 1109 is inapplicable to the DOE. Respondents maintain that the proposed inquiry touches upon “pedagogical matters [that] are beyond the scope of the home rule provision of the New York State Constitution.” The Home Rule provision of the New York State Constitution (art IX, § 2 [b] [2]) grants the City constitutional protection against intrusion by the state legislature concerning the property, affairs or government of the City. The court does not find that the Home Rule shields the DOE from a section 1109 inquiry. Section 1109 is part of the City’s Charter, and as such, provides a tool to those enumerated in that statute to bring to light violations and/or neglect of duties in relation to the City’s property, government or affairs. Section 1109 cannot violate the Home Rule provision because the inquiry is requested by a city official seeking information about city affairs. To the extent that respondents argue that this court’s role in a summary inquiry would violate the Home Rule, that argument fails because the court would merely oversee the inquiry and no judicial determination would actually be made. Therefore, the court does not find that section 1109 violates the Home Rule provision.\nFurther, respondents acknowledge that the DOE has “full control of the public schools and public school system of the city, subject, only to the general statutes of the state upon education.” Since the proposed inquiry targets facts and information concerning the City’s public school system, DOE can be subjected to a section 1109 inquiry on these facts.\nOtherwise, the court finds that petitioner has established that a summary judicial inquiry is warranted for the reasons that follow. Petitioner, the Public Advocate, is expressly authorized to bring an application for a summary judicial inquiry pursuant to section 1109 into “any alleged violation or neglect of duty in relation to the property, government or affairs of the city.” The court finds that petitioner has alleged that the Chancellor and DOE have violated their duties under federal law to provide IEP-mandated services and have failed to recoup Medicaid reimbursements. Further, the court finds that a summary inquiry into these issues is warranted since they are not presently being investigated by any other agency or department and the underlying facts have not yet been fully disclosed to the public and/or are otherwise not undisputed.\nIn Matter of Riches v New York City Council (75 AD3d 33 [2010]), the First Department had occasion to review a trial court’s denial of a section 1109 application. In that case, eight taxpayers sought a summary inquiry into the City Council’s then-discontinued practice of allocating funds to nonexistent entities to be “held in reserve” during its initial budgeting process. At the trial court level, Hon. Joan B. Lobis denied the section 1109 application because the matter at issue had “already received substantial publicity and press coverage!,] [t]he practice ha[d] allegedly stopped and investigations by governmental agencies [were] underway to further safeguard the public and presumably punish any wrongdoers” (Matter of Riches v New York City Council, 2008 NY Slip Op 32030[U], *8 [Sup Ct, NY County 2008]). Therefore, Justice Lobis held that “[t]he primary purpose of the summary inquiry” was not met in Riches (id.). The First Department affirmed the trial court’s decision, finding the absence of a clear abuse of discretion. While the First Department’s decision was a 3-2 decision, the majority opinion written by Hon. Helen E. Freedman reasoned that the citizen-taxpayers failed to show “what purpose would be served at this time in requiring sworn testimony from a host of past city officials about prior allocations of a small percentage of funds to legitimate community organizations” (Riches, 75 AD3d at 40).\nRiches is distinguishable from the instant case on a number of points. Most importantly, the underlying facts concerning SESIS and Medicaid reimbursement are wholly undeveloped on this record. Further, the underlying facts are largely unknown to the public at large. Therefore, there can be no dispute that an inquiry would serve some purpose (cf. Matter of Larkin, 58 Misc 2d 206 [Sup Ct, NY County 1968], affd Matter of Larkin v Booth, 33 AD2d 542 [1st Dept 1969]). As the court has already noted, petitioner has alleged that the Chancellor and DOE have violated and/or neglected duties in relation to the property, government and affairs of the City as compared to the petitioners in Riches. While there have been reports highlighting problems with SESIS or insufficient Medicaid reimbursement, it is undisputed that there are no investigations by independent third parties into the alleged acts and/or inaction concerning SESIS or the failure to obtain otherwise available Medicaid funds to which DOE is entitled. Based on the foregoing, the court finds, in an exercise of its discretion, that petitioner’s application for a summary inquiry pursuant to section 1109 should be granted.\nRespondents’ remaining arguments are all unavailing. Respondents argue that section 1109 is unconstitutional because it creates a public trust in that the court would be thrust into a political role or serve a role that belongs to another branch of the government. However, these same arguments have been raised numerous times before and rejected each time (Matter of Green v Giuliani, 187 Misc 2d 138 [Sup Ct, NY County 2000]; Matter of Mitchel v Cropsey, 177 App Div 663 [2d Dept 1917]). Not only does this court adopt the well-reasoned rationale set forth by Hon. Louise Gruner Gans in Matter of Green v Guiliani, but Matter of Mitchel v Cropsey is controlling since the First Department has declined to address the constitutionality of section 1109 (see Riches, 75 AD3d at 38; see generally D Alessandro v Carro, 123 AD3d 1, 6 [1st Dept 2014] [“It is axiomatic that Supreme Court is bound ... by the doctrine of stare decisis to apply precedent established in another Department, either until a contrary rule is established by the Appellate Division in its own Department or by the Court of Appeals”]). Nor does the court find that section 1109 violates the separation of powers or justiciability doctrines. The court will not serve the role of investigator, as in Matter of Richardson (247 NY 401 [1928]). Rather, a section 1109 inquiry is a public hearing conducted and controlled by this court, transcribed by a court reporter and said transcript is filed as a public record. As for justiciability, it is of no moment that the court will not render a decision in this matter. A final judicial determination is not a requirement for a section 1109 inquiry by the plain language of the statute itself.\nRespondents contend that a section 1109 inquiry is inappropriate here because there '’are no allegations of corruption. The court finds that respondents misinterpret the legislative history of section 1109. The plain language of section 1109 does not limit itself to cases involving corruption. Further, upon examination of the statute’s legislative history, the court finds that section 1109 was intended to be broader than its predecessor statute. Section 1109’s predecessor was enacted as part of the 1873 “Reform Charter,” which as a whole was designed to address “corruption of city officials and the looting of the city treasury by the so-called Tweed ring” (Matter of Mitchel v Cropsey at 670). Section 1109's predecessor statute authorized a summary inquiry into\n“any alleged wrongful diversion or misapplication of any moneys or fund, or any violation of the provisions of law, or any want of mechanical qualification for any inspectorship of public work, or any neglect of duty in acting as such inspector, or any delinquency charged in said affidavit touching the office or the discharge or neglect of duty” (NY City Charter former § 109, added by L 1873, ch 335).\nSection 1109 was enacted in 1936 and the references to misuse of money and corruption were removed. The result is that section 1109 is broader than its predecessor statute, since it now authorizes an inquiry into any alleged violation or neglect of duty. Petitioner has provided to the court a reproduction of the relevant portion of a book written by Laurence Arnold Tanzer, who served as associate counsel to the Charter Revision Commission in 1936, about the 1936 Charter (The New York City Charter Adopted November 3, 1936 with Source Notes, a History of the Charter and an Analysis and Summary of its Provisions at 133 [1937]). With respect to section 1109, Mr. Tanzer wrote:\n“The former provisions for [the] summary investigation are broadened by the new charter. Under the old charter, any one of an-enumerated list of officials or persons might be examined with respect to subjects specified in the charter on an order made by a justice of the Supreme Court on application of the mayor, the comptroller, any five members of the board of alderman, any commissioner of accounts, or any five citizen taxpayers. The new charter adds to the persons who may make the application, the president of the council; permits an inquiry into any alleged violation or neglect of duty in relation to the property, government or affairs of the city, and provides for the examination of any officer or employee or any other person on allegations that he has knowledge or information concerning such alleged violation or neglect of duty” (id.).\nThe First Department in Matter of Riches declined to address whether section 1109 was limited to inquiries which would expose corruption (75 AD3d at 37). However, this court finds that based upon the legislative history of section 1109, the legislature intended to broaden the category of acts into which a summary inquiry thereunder may be made. As such, the court rejects respondents’ characterization of the enactment of section 1109 in 1936 as simply “shortening] and streamlining]” the predecessor statute since this claim is not based upon facts but mere conjecture by respondents’ counsel.\nAccordingly, petitioner’s application is granted. The parties are directed to appear on September 20, 2016 at 10 a.m. for a conference so that the hearing can be scheduled.\nConclusion\nIn accordance herewith, it is hereby ordered that petitioner’s section 1109 application is granted; and it is further ordered that respondents’ motion to dismiss is granted only to the extent that the City of New York is dismissed from this matter;, and it is further ordered that respondents’ motion to dismiss is otherwise denied. Any requested relief not expressly addressed herein has nonetheless been' considered and is hereby expressly rejected.",
+        "type": "majority",
+        "author": "Lynn R. Kotler, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Zachary W. Carter, Corporation Counsel, New York City 0Stephen Edward Kitzinger of counsel), for respondents.",
+      "Jennifer Levy, General Counsel, Office of the New York City Public Advocate, New York City (Molly Thomas-Jensen of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[39 NYS3d 871]\nIn the Matter of Letitia James, in Her Official Capacity as the Public Advocate for the City of New York, Petitioner, v Carmen Farina, Chancellor of the New York City Department of Education, et al., Respondents.\nSupreme Court, New York County,\nAugust 11, 2016\nAPPEARANCES OF COUNSEL\nZachary W. Carter, Corporation Counsel, New York City 0Stephen Edward Kitzinger of counsel), for respondents.\nJennifer Levy, General Counsel, Office of the New York City Public Advocate, New York City (Molly Thomas-Jensen of counsel), for petitioner."
+  },
+  "file_name": "2438-01",
+  "first_page_order": 714,
+  "last_page_order": 728
+}

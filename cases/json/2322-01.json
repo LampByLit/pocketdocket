@@ -1,0 +1,185 @@
+{
+  "id": 6788677,
+  "name": "Kathryn Gilbert, as Limited Administrator of the Estate of Cynthia P. Gilbert, Deceased, Plaintiff, v. Highland Hospital, Defendant",
+  "name_abbreviation": "Gilbert v. Highland Hospital",
+  "decision_date": "2016-03-24",
+  "docket_number": "",
+  "first_page": "555",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 555"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 N.Y.S.3d 397"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "255 FRD 350",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        3393994
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "354"
+        },
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/255/0350-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 31048",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 NY2d 170",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4390163
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0170-01"
+      ]
+    },
+    {
+      "cite": "74 AD2d 22",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3183611
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/74/0022-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 769",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407334
+      ],
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0769-01"
+      ]
+    },
+    {
+      "cite": "84 AD3d 1737",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026979
+      ],
+      "pin_cites": [
+        {
+          "page": "1738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/1737-01"
+      ]
+    },
+    {
+      "cite": "72 AD3d 314",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3967442
+      ],
+      "pin_cites": [
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/0314-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 560,
+    "char_count": 9507,
+    "ocr_confidence": 0.759,
+    "pagerank": {
+      "raw": 4.7817273071113374e-8,
+      "percentile": 0.3006961023596356
+    },
+    "sha256": "4d4753044d41744856a33b50519212fdcade68c046ae6e08324b4acfe49d3cc7",
+    "simhash": "1:68eec0aab094f82d",
+    "word_count": 1512
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kathryn Gilbert, as Limited Administrator of the Estate of Cynthia P. Gilbert, Deceased, Plaintiff, v Highland Hospital, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDaniel J. Doyle, J.\nIn this medical malpractice action, the plaintiff has brought this application to compel discovery of the audit trails of the decedent’s medical records. For the reasons set forth below, the plaintiff’s motion to compel is granted.\nIntroduction\nThe plaintiff commenced this medical malpractice action on behalf of the decedent alleging that the defendant hospital was negligent in failing to properly diagnose Cynthia Gilbert and that medical condition subsequently resulted in her death. As alleged in the complaint, on November 26, 2013, the decedent presented at the hospital with severe abdominal pain, nausea, and vomiting, and articulated a prior history of bowel obstructions. The decedent was at the hospital for approximately five to six hours before being discharged with a diagnosis of constipation and without being seen or evaluated by a medical doctor. The next day, the plaintiff collapsed and died, and a subsequent autopsy determined the cause of death was “an intestinal volvulus, which led to a small bowel infarction and perforation of her small intestine” (complaint ¶ 11), and that this intestinal volvulus was undiagnosed by the defendant’s agents and employees. As part of the plaintiff’s allegations of negligence, it is alleged that “Defendant was negligent in failing to have protocols and procedures in place to mandate that a patient presenting to the Emergency Department in the condition that the decedent was in be evaluated by a medical doctor before being discharged” (complaint ¶ 14).\nThe Plaintiff’s Motion to Compel\nThe plaintiff’s motion to compel seeks the production of the audit trail of the decedent’s medical records; an audit trail is a form of metadata created as a function of the medical provider’s computerization of medical records. Metadata is “ ‘secondary information,’ not apparent on the face of the document, ‘that describes an electronic document’s characteristics, origins, and usage’ ” (Matter of Irwin v Onondaga County Resource Recovery Agency, 72 AD3d 314, 320 [4th Dept 2010]), or, to put it more succinctly, metadata is, “data about data.” In discussing the audit trail for computerized medical records, one commentator described it as follows:\n“The audit trail is a document that shows the sequence of events related to the use of and access to an individual patient’s EHR [electronic health records]. For instance, the audit trail will reveal who accessed a particular patient’s records, when, and where the health care provider accessed the record. It also shows what the provider did with the records — e.g., simply reviewed them, prepared a note, or edited a note. The audit trail may also show how long the records were opened by a particular provider. Each time a patient’s EHR is opened, regardless of the reason, the audit trail documents this detail. The audit trail cannot be erased and all events related to the access of a patient’s EHR are permanently documented in the audit trail. Providers cannot hide anything they do with the medical record. No one can escape the audit trail.” (Alice G. Gosfield, Health Law Handbook § 10:9 [2011 ed] [“The positive effect of EHRs on reducing health care provider liability — The audit trail”].)\nBoth federal and New York law require that any medical provider who maintains electronic records must also maintain an audit trail (see 45 CFR 164.312; 10 NYCRR 405.10).\nThe plaintiff has sought discovery of the audit trail because the medical records produced thus far do not indicate whether an emergency department attending physician ever reviewed the plaintiff’s medical records and plan of care prior to her discharge. The defendant opposed the motion, arguing that (1) the audit trail was not relevant; (2) the audit trail is not “material and necessary”; (3) the request was a “fishing expedition”; and (4) because the plaintiff is not arguing that the medical records that have been produced are not authentic, the plaintiff is not entitled to the audit trail.\nThe court heard oral argument and the defendant tendered the audit trail for an in camera inspection.\nAnalysis\nPursuant to CPLR 3101 (a), “[t]here shall be full disclosure of all matter material and necessary in the prosecution or defense of an action.” The Fourth Department has held that CPLR 3101 (a) (1) must be “liberally construed to permit discovery of any facts bearing on the controversy [that] will assist preparation for trial by sharpening the issues and reducing delay and prolixity” (Riordan v Cellino & Barnes, P.C., 84 AD3d 1737, 1738 [4th Dept 2011] [internal quotation marks omitted]).\nThe defendant argues that the audit trail is not relevant and, therefore, the court should deny its disclosure. The Court of Appeals has held that evidence “is relevant if it has any tendency in reason to prove the existence of any material fact, i.e., it makes determination of the action more probable or less probable than it would be without the evidence” (People v Scarola, 71 NY2d 769, 777 [1988] [emphasis added]). Here, the plaintiffs request is relevant to the allegations made in the complaint; specifically, the allegation that the decedent was not seen or evaluated by a medical doctor prior to her discharge.\nThe defendant argues that the audit trail is not “material and necessary” because it would not demonstrate all of the efforts of the emergency department attending physician, only those efforts that bore a relation on accessing the decedent’s electronic records. While it is true that the audit trail will not account for the attending physician’s actions which did not relate to accessing and viewing the decedent’s electronic records, the audit trail will account for the attending physician’s accessing and viewing the decedent’s electronic records, a topic the plaintiff may wish to explore further during a deposition or on cross-examination. The Fourth Department has held that if “there is any possibility that the information is sought in good faith for possible use as evidence-in-chief or in rebuttal or for cross-examination,” it should be considered evidence material and necessary (Matter of Schneier, 74 AD2d 22, 28 [4th Dept 1980]).\nThe defendant argues that the plaintiff’s request for the audit trail is a “fishing expedition.” To the contrary, the plaintiff has not offered “a litany of theoretical questions followed by hypothetical speculations calculated to justify a fishing expedition” (Minister, Elders & Deacons of Ref. Prot. Dutch Church of City of N.Y. v 198 Broadway, 59 NY2d 170, 175 [1983]). Rather, the plaintiff requested the decedent’s audit trail, a document the plaintiff knows must exist because it is mandated by federal and New York law, for the specific reason of quantifying the level of involvement of the emergency department attending physician with the decedent’s care while she was in the emergency department.\nFinally, the defendant argues, relying upon Vargas v Lee (2015 NY Slip Op 31048[U] [Sup Ct, Kings County 2015]), that the plaintiff was required to make a showing that the medical records already produced were not authentic before being entitled to receive the audit trail.\nVargas specifically addressed the production of an audit trail for the plaintiff’s medical records. The court, applying The Se-dona Principles: Best Practices Recommendations and Principles for Addressing Electronic Document Production (Sedona Conference Working Group Series [2d ed June 2007]) and Aguilar v Immigration & Customs Enforcement Div. of U.S. Dept. of Homeland Sec. (255 FRD 350, 354 [SD NY 2008]), held that the audit trail was “system metadata,” that system metadata is not typically disclosed, and that the plaintiff did not make an adequate showing challenging the sufficiency and authenticity of the medical records already produced (Vargas v Lee, 2015 NY Slip Op 31048[U], *4 [Sup Ct, Kings County 2015]).\nIn discussing system metadata, the Aguilar court noted system metadata is typically not relevant and, therefore, not disclosed, but noted that “[s]ystem metadata is relevant, however, if the authenticity of a document is questioned or if establishing who received what information and when is important to the claims or defenses of a party” (255 FRD at 354 [emphasis added and internal quotation marks omitted]). While the Vargas court concerned itself with the former consideration of relevance, it is the latter consideration which is at issue here.\nAs the plaintiff has made a proper request for the audit trail, the court hereby concludes that the plaintiff’s motion to compel production of the audit trail should be granted.\nOrder\nBased upon all the papers submitted in support and in opposition to this motion and in accordance with the above decision, and after due deliberation, it is hereby ordered that the plaintiff’s motion for an order compelling the defendant to produce the audit trail of the decedent, which was requested in the plaintiff’s third notice for discovery and inspection is granted; and it is further ordered that the defendant produce the audit trail within 30 days of this decision and order.",
+        "type": "majority",
+        "author": "Daniel J. Doyle, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Farad Lange, LLP, Rochester (Stephen G. Schwarz of counsel), for plaintiff.",
+      "Martin Clearwater & Bell, LLP, New York City (Brian Oster-man of counsel), for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[31 NYS3d 397]\nKathryn Gilbert, as Limited Administrator of the Estate of Cynthia P. Gilbert, Deceased, Plaintiff, v Highland Hospital, Defendant.\nSupreme Court, Monroe County,\nMarch 24, 2016\nAPPEARANCES OF COUNSEL\nFarad Lange, LLP, Rochester (Stephen G. Schwarz of counsel), for plaintiff.\nMartin Clearwater & Bell, LLP, New York City (Brian Oster-man of counsel), for defendant."
+  },
+  "file_name": "2322-01",
+  "first_page_order": 547,
+  "last_page_order": 552
+}

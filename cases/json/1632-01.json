@@ -1,0 +1,598 @@
+{
+  "id": 12166667,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. JOHN RADOSEVICH, Defendant-Appellant",
+  "name_abbreviation": "State v. Radosevich",
+  "decision_date": "2016-03-01",
+  "docket_number": "No. S-1-SC-35864; Docket No. 33,282",
+  "first_page": "150",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "289 P.3d 1215",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-037",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4191345
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/3/0001-01"
+      ]
+    },
+    {
+      "cite": "343 P.3d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4241288
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0276-01"
+      ]
+    },
+    {
+      "cite": "2013-NMSC-089",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002-NMCA-084",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        260677
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/132/0631-01"
+      ]
+    },
+    {
+      "cite": "118 N.M. 8",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1563522
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/118/0008-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-071",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMCA-089",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4189115
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶¶ 14, 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0417-01"
+      ]
+    },
+    {
+      "cite": "315 P.3d 343",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-007",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077792
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 4-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0248-01"
+      ]
+    },
+    {
+      "cite": "2015-NMCERT-006",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "355 P.3d 51",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-077",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4362946
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 20-25"
+        },
+        {
+          "page": "¶¶ 20-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0307-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-032",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246955
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶¶ 1, 21, 27-28"
+        },
+        {
+          "page": "¶¶ 21, 27-28"
+        },
+        {
+          "page": "¶ 28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0452-01"
+      ]
+    },
+    {
+      "cite": "150 P.3d 494",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011-NMCA-081",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4249841
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 31-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0494-01"
+      ]
+    },
+    {
+      "cite": "1998-NMCA-132",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        834341
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0688-01"
+      ]
+    },
+    {
+      "cite": "90 N.M. 735",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2872917
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/90/0735-01"
+      ]
+    },
+    {
+      "cite": "1977-NMCA-084",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 P.3d 1056",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4240587
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0445-01"
+      ]
+    },
+    {
+      "cite": "121 N.M. 38",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566569
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/121/0038-01"
+      ]
+    },
+    {
+      "cite": "1995-NMSC-073",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 12-13, 17, 22"
+        },
+        {
+          "page": "¶ 18"
+        },
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999-NMCA-105",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        257710
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 25-30"
+        },
+        {
+          "page": "¶¶ 25-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/127/0769-01"
+      ]
+    },
+    {
+      "cite": "301 P.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-016",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4334758
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶¶ 25-33"
+        },
+        {
+          "page": "¶¶ 12, 24"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0091-01"
+      ]
+    },
+    {
+      "cite": "350 P.3d 92",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCERT-001",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 P.3d 930",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-088",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4239960
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 38-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0503-01"
+      ]
+    },
+    {
+      "cite": "2001-NMSC-022",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        352435
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 22-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0618-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-050",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4245434
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 37"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0182-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3691801
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0191-01"
+      ]
+    },
+    {
+      "cite": "2008-NMCA-049",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3784375
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0792-01"
+      ]
+    },
+    {
+      "cite": "284 P.3d 1076",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-027",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4190278
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0408-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1238,
+    "char_count": 41075,
+    "ocr_confidence": 0.787,
+    "pagerank": {
+      "raw": 4.7492960360752035e-8,
+      "percentile": 0.2989214815226679
+    },
+    "sha256": "617901f7de71402d9f58f6c80ee025c5ee3dd0365ccdde38bf56c72359139dce",
+    "simhash": "1:da24ab340ca01e24",
+    "word_count": 6580
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Louis E. DePauli Jr., District Judge",
+      "TIMOTHY L. GARCIA, Judge",
+      "JONATHAN B. SUTIN, Judge",
+      "LINDA M. VANZI, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. JOHN RADOSEVICH, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nGARCIA, Judge.\n{1} Defendant appeals from his convictions for aggravated assault with a deadly weapon and tampering with evidence. Defendantraises several challenges on appeal related to his criminal charges: the district court’s refusal to instruct the jury on the lesser included offense of simple assault; the district court’s decision to direct a verdict on the charged offense of assault with the intent to commit murder and then sua sponte instruct the jury on the new and different charge of aggravated assault with a deadly weapon after the close of evidence; and the district court’s failure to properly instruct the jury concerning whether the weapon was a deadly weapon for the additional new charge of aggravated assault with a deadly weapon. Next, Defendant argues that if this Court holds there was error in the district court’s decision to sua sponte instruct the jury on aggravated assault with a deadly weapon as a lesser included offense of the previously charged offense, then the prohibition against double jeopardy prevents the State from retrying Defendant on that newly added charge. Defendant also asks for a retrial or resentencing on the tampering with evidence charge in the event that this Court holds there was error requiring a retrial on the aggravated assault with a deadly weapon charge, given that the convictions are inextricably linked. Lastly, Defendant argues that the district court erred by admitting bad act evidence introduced through a statement Defendant allegedly made about robbing the neighborhood.\n{2} In its answer brief, the State concedes without analysis that the jury should have been instructed to find that Defendant’s weapon was a deadly weapon and that, under the circumstances, it was fundamental error not to have done so. The State also concedes without analysis that Defendant’s conviction for tampering with evidence should be remanded for a new trial. The State opposes Defendant’s argument that double jeopardy bars retrial on the charge of aggravated assault with a deadly weapon, noting that reversal is not sought for lack of evidence nor is it appropriate on a lack of evidence basis. Defendant did not address either of the State’s concessions. Irrespective, we address all the issues presented for review in this appeal.\nDISCUSSION\n{3} Defendant and his neighbor (Victim) got into an argument, and Defendant started yelling obscenities about Victim and Victim’s dogs. After threatening to shoot Victim and his dogs, Defendant went into his house and came back out with a knife. Defendant approached Victim who feared that he was going to be attacked. The police arrived and Defendant threw the knife away. The police later found the knife in Defendant’s yard. We discuss additional facts as they become necessary in the context of our analysis.\nANALYSIS\n{4} Our independent review of this case has identified compounding errors, beginning with the State’s charging documents and its trial decisions, followed by the district court’s sua sponte decision during trial that ended with improper instructions to the jury. Further, the State’s concession of fundamental error in the jury instruction for aggravated assault inadequately addressed the resolution of these errors. See State v. Guerra, 2012-NMSC-027, ¶ 9, 284 P.3d 1076 (noting that the appellate courts are not bound by the state’s concession).\n{5} We begin our analysis by addressing the State’s concession of fundamental error in the jury instruction for aggravated assault with a deadly weapon. See State v. Caldwell, 2008-NMCA-049, ¶ 8, 143 N.M.792, 182 P.3d 775 (observing that we conduct our own analysis of a conceded issue by the state). As we explain below, we accept the State’s concession of fundamental error, then address the district court’s improper decision to sua sponte instruct the jury on a different offense after the close of evidence because it is crucial to the State’s ability to retry Defendant for the assault-based conduct that was at issue. We conclude that the compulsory rule of joinder bars further prosecution of Defendant for aggravated assault with a deadly weapon. We further conclude that Defendant’s conviction for tampering with evidence is relative to an indeterminate crime and should be amended accordingly, not retried, as the State conceded.\nFundamental Error in the Jury Instructions\n{6} “The rule of fundamental error applies only if there has been a miscarriage of justice, if the question of guilt is so doubtful that it would shock the conscience to permit the conviction to stand, or if substantial justice has not been done.” State v. Sutphin, 2007-NMSC-045, ¶ 16, 142 N.M. 191, 164 P.3d 72 (internal quotation marks and citation omitted). “The general rule is that fundamental error occurs when the trial court fails to instruct the jury on an essential element.” Id. Likening a missing element to “a partial directed verdict,” our Supreme Court stated that such an action is impermissible on the basis that “it is the fundamental right of a criminal defendant to have the jury determine whether each element of the charged offense has been proved by the state beyond a reasonable doubt.” State v. Nick R., 2009-NMSC-050, ¶ 37, 147 N.M. 182, 218 P.3d 868 (internal quotation marks and citation omitted). Fundamental error does not occur, however, where the jury was not instructed on an element that was not at issue in the case or where “there can be no dispute that the omitted element was established[.]” Sutphin, 2007-NMSC-045, ¶ 16.\n{7} In the current case, the jury was instructed that it could find Defendant guilty of aggravated assault with a deadly weapon where the State proved the following elements beyond a reasonable doubt:\n1. [Djefendant approached and threatened to stab [Victim];\n2. [D]efendant’s conduct caused [Victim] to believe [D]efendant was about to intrude on [Victim’s] bodily integrity or personal safety by touching or applying force to [Victim] in a rude, insolentf,] or angry manner;\n3. A reasonable person in the same circumstances as [Victim] would have had the same belief;\n4. [D]efendant used a knife;\n5. This happened in New Mexico on or about the 8th day of September, 2012.\nThe use notes for the Uniform Jury Instruction applicable to aggravated assault with a deadly weapon state that, unless the object used is specifically listed as a deadly weapon in NMSA 1978, Section 30-l-12(B) (1963), the jury should be instructed that the object used is a deadly weapon if it could cause death or great bodily harm when used as a weapon. UJI 14-305 NMRA, use note 5.\n{8} The weapon at issue in this case is a three-and-one-half-inch kitchen knife. At trial, the Defendant characterized the weapon as “this little kitchen knife.” The State does not dispute Defendant’s description of the kitchen knife as small and concedes that it is not among the described knives specifically included within the definition of deadly weapons in Section 30-l-12(B): “daggers . . . switchblade knives, bowie knives, poniards, butcher knives, dirk knives . . . swordcanes, and any kind of sharp pointed canes[.]” We accept the State’s concession that the knife at issue does not fall within the per se statutory definition for “deadly weapons,” because it is not specifically designated as the type of knife considered to be a deadly weapon, see Nick R., 2009-NMSC-050, ¶ 16, and because the small kitchen knife is not contemplated “in the catchall phrases” referring to “inherently dangerous items that either are carried for use or are actually used to inflict injuries on [or kill] people.” Id. ¶ 21.\n{9} We also agree with the State that this failure to properly instruct the jury amounted to fundamental error. There was no evidence at trial about this particular kitchen knife that might suggest it was inherently threatening or deadly. In addition, there was no evidence about Defendant’s skill with knives or his behavior that made his possession of it inherently dangerous or deadly. Thus, nothing in the record suggests that this is a situation where the missing element was undisputedly established. See Sutphin, 2007-NMSC-045, ¶ 16 (stating that fundamental error is not demonstrated where there is a missing element in the instructions where “there can be no dispute that the omitted element was established”). Finally, the jury instructions gave no suggestion that the jury was required to consider whether any deadly weapon was used or whether the knife was used as a deadly we apon. Cf. State v. Traeger, 2001-NMSC-022, ¶¶ 22-25, 130 N.M. 618, 29 P.3d 518 (holding that there was no fundamental error in the awkward, noncompliant phraseology of a “deadly weapon” instruction, where, (1) the jury was instructed to find that the baseball bat was used as a deadly weapon; (2) the Supreme Court was persuaded that the jury considered this essential element; and (3) the evidence clearly showed that the defendant used the baseball bat as a weapon to inflict great bodily harm in an effort to threaten the victim to undress and have forced sexual intercourse).\n{10} We further observe that the character of the weapon was not an issue in this case because Defendant was neither charged nor tried by the State for a crime that specifically included a “deadly weapon” as an element. See NMSA 1978, § 30-3-3 (1977) (“Assault with intent to commit a violent felony consists of any person assaulting another with intent to kill or commit any murder, mayhem, criminal sexual penetration in the first, second},] or third degree, robbery or burglary.”); cf Sutphin, 2007-NMSC-045, ¶ 16 (stating that fundamental error does not occur where the jury was not instructed on an element that is not at issue in the case). It was only after the close of evidence that the district court acted sua sponte to change the charge from assault with the intent to commit murder to aggravated assault with a deadly weapon. Thus, the State did not prosecute and Defendant did not defend against a charge that included a “deadly weapon” as an element of the crime. These facts, combined with the complete omission of the “deadly weapon” element from the instructions, constitute a miscarriage of justice that deprived Defendant of his “fundamental right... to have the jury determine whether each element of the charged offense has been proved by the state beyond a reasonable doubt.” Nick R., 2009-NMSC-050, ¶ 37 (internal quotation marks and citation omitted). For these reasons, we accept the State’s concession of fundamental error and reverse Defendant’s conviction for aggravated assault with a deadly weapon.\nDouble Jeopardy\n{11} Defendant argues that he should not be retried for aggravated assault with a deadly weapon in the event that we determine that it is a lesser included offense of assault with the intent to commit murder, referring us to State v. Slade, 2014-NMCA-088, ¶¶ 38-41, 331 P.3d 930 (holding that a successive prosecution on an uncharged lesser included offense is barred by the Double Jeopardy Clause, where a conviction for the greater offense is reversed on appeal for insufficient evidence), cert. quashed, 2015-NMCERT-001, 350 P.3d 92. Defendant’s alternative arguments emphasize that aggravated assault with a deadly weapon is not a lesser included offense of the originally charged offense and we agree. Because we agree that aggravated assault with a deadly weapon is not a lesser included offense of the originally charged offense, we are persuaded that Slade does not apply to this case.\n{12} We are persuaded by Defendant’s alternative theory of error, that (1) aggravated assault with a deadly weapon is a new and different offense and (2) the district court improperly amended the charges sua sponte after the close of evidence and then instructed the jury on this new offense. This new charge resulted in a violation of Defendant’s constitutional right to proper notice of the charges against him. The district court’s improper instruction on the uncharged offense did not operate to properly amend the original underlying charges. As such, the State may not successively prosecute Defendant on the uncharged aggravated assault offense, because the rule of compulsory joinder, Rule 5-203(A) NMRA, required the State to properly join the two offenses if it wanted to pursue both charges. See State v. Gonzales (Gonzales II), 2013-NMSC-016, ¶ 25, 301 P.3d 380. We explain in more detail below.\n1. Instructing on a New Offense After the Close of Evidence\n{13} After the close of evidence, the district court directed a verdict on the charged offense of assault with the intent to commit murder. However, the court determined sua sponte that the State could proceed against Defendant on the uncharged offense of aggravated assault with a deadly weapon and approved the instruction to be submitted to the jury as a lesser included offense. We must determine the adequacy of Defendant’s notice of the charges against him under these circumstances by applying the cognate approach. See State v. Hernandez, 1999-NMCA-105, ¶¶ 25-30, 127 N.M. 769, 987 P.2d 1156 (applying the cognate approach to the district court’s conviction of the defendant for the uncharged offense of breaking and entering, where the district court sua sponte considered the charge to be a lesser included offense of aggravated burglary); see also State v. Meadors, 1995-NMSC-073, ¶¶ 12-13, 17, 22, 121 N.M. 38, 908 P.2d 731 (clarifying that New Mexico applies a cognate approach to determining whether a state-requested instruction on a lesser included offense of the charged offense is appropriately granted, such that the defendant was on sufficient notice of the need to defend against the argued lesser included offense). The cognate approach first incorporates' a strict elements test that considers whether the statutory elements of the lesser crime are subsumed within the statutory elements of the charged crime. See id. ¶ 12. Then the cognate approach “focuses on the pleadings, the evidence adduced at trial, and the defendant’s constitutional right to notice.” Id. ¶ 22. In relevant part, the second part of the inquiry identifies a lesser included offense by determining if “the defendant cannot commit the greater offense in the manner described in the charging document without also committing the lesser offense.” Id. ¶ 17; see also State v. Montoya, 2015-NMSC-010, ¶ 43, 345 P.3d 1056 (“When one offense is a lesser included offense of a crime named in a charging document, the defendant is put on notice that he [or she] must defend not only against the greater offense as charged but also against any lesser included offense.” (alteration in original) (internal quotation marks and citation omitted)). In addition, the district court is required to “conduct an independent analysis of the notice issue” to determine if for any reason presented by the case the defendant did not receive constitutionally adequate notice of the lesser offense. Meadors, 1995-NMSC-073, ¶ 18. By this measure, “the defendant should be fully aware of the possible offenses for which he or she may face prosecution and should have ample opportunity to prepare a defense.” Id. ¶ 17.\n{14} Under the strict elements test, aggravated assault with a deadly weapon is not subsumed within assault with the intent to commit murder because the latter does not require the use of a deadly weapon. See, e.g., State v. Patterson, 1977-NMCA-084, ¶ 7, 90 N.M. 735, 568 P.2d 261 (“Assault with intent to kill can be committed without use of a deadly weapon; thus, aggravated assault with a deadly weapon was not a lesser included offense}, under the strict elements test.]”); compare § 30-3-3 (“Assault with intent to commit a violent felony consists of any person assaulting another with intent to kill or commit any murder[.]”), with NMSA 1978, § 30-3-2(A) (1963) (“Aggravated assault consists of ... unlawfully assaulting or striking at another with a deadly weapon[.]”).\n{15} Turning to the second part of the cognate approach, examining the charging document, this action was initiated in magistrate court by criminal complaint that originally charged Defendant with aggravated assault with a deadly weapon. The criminal complaint was amended to replace that charge with assault with the intent to commit murder. The magistrate court held a preliminary hearing on the amended charge of assault with the intent to commit murder and tampering with evidence, and Defendant was bound over to district court on this amended charge by criminal information. The criminal information and amended criminal complaint alleged that for the purposes of assault with the intent to commit murder, Defendant “did unlawfully assault or strike at [Victim], with a knife, with the intent [to] kill [Victim] in the first or second degrees of [m]urder, contrary to Section 30-3-3,... a third degree felony.” The jury instruction for aggravated assault with a deadly weapon, as we discussed above, was required to have a finding that the knife used was a deadly weapon. Neither the statute for assault with the intent to commit murder nor the relevant charging document requires the use of a deadly weapon; and the relevant charging document did not describe the knife as a deadly weapon nor identify its significance as a deadly weapon in any way. As stated in our fundamental error analysis, the evidence was not directed at proving that the knife was a deadly weapon, consistent with the State’s charging decision. Additionally, the State does not dispute that, during a pretrial hearing, defense counsel stated that aggravated assault with a deadly weapon was a more applicable charge but the State did not amend the charges. These facts suggest that Defendant was on notice that the State would not pursue the specific offense on which the district court sua sponte proceeded to instruct the jury. Under the circumstances, we hold that Defendant was not on notice or made fully aware of the possibility that he would need to defend against the “deadly weapon” element of the new offense, even if it were properly presented to the jury. See Hernandez, 1999-NMCA-105, ¶¶ 25-30 (reversing the defendant’s conviction under the cognate approach on the ground that the defendant had no notice of the “breaking” element of breaking and entering when charged with aggravated burglary); see also Meadors, 1995-NMSC-073, ¶ 17 (requiring full awareness of the possible additional offense with ample opportunity to prepare a defense).\n2. Compulsory Joinder Bars Subsequent Prosecution on Aggravated Assault With a Deadly Weapon\n{16} We now address whether the State can retry Defendant for aggravated assault with a deadly weapon charge that was erroneously instructed at the first trial. The State did not ¡address the potential joinder problem with the district court’s sua sponte instruction to the jury on aggravated assault and simply presumes that it can proceed with a retrial for the aggravated assault charge. The State’s concession and double jeopardy analysis treat this case as one where Defendant may be retried based on fundamental error occurring in the jury instruction for a charged offense. We are not persuaded.\n{17} We have held that “Rule 5-204(A) [NMRA] allows a court to amend an information prior to sentencing but does not allow the court to amend if there is an additional or different offense charged.” State v. Roman, 1998-NMCA-132, ¶ 9, 125 N.M. 688, 964 P.2d 852. In Roman, we did not permit an amendment to the charging document where it was “used to impose an entirely new charge against a defendant after the close of testimony” because it prejudiced the defendant by denying him notice of, and the opportunity to defend, the charge. Id. ¶¶ 9, 14. The current case warrants the same result because, at trial, Defendant was not charged or tried by the State for the offense of aggravated assault with a deadly weapon. The critical question is whether a subsequent prosecution of that different offense would be permitted.\n{18} In Roman, where the amendment to the charge was prohibited, this Court articulated no opinion on the state’s ability to pursue the uncharged offense and simply reversed the conviction on that uncharged offense and remanded to the trial court for resentencing and entry of an amended judgment consistent with the Court’s opinion. See id. ¶ 16. Recently, however, our New Mexico Supreme Court has directly addressed successive prosecutions of different charges for the same conductunder Rule 5-203(A), the rule regarding compulsory joinder. See Gonzales II, 2013-NMSC-016, ¶¶ 25-33. Thus, we now examine the State’s ability to proceed under the rule of compulsory joinder and its application to the double jeopardy issue in this case.\n{19} In Gonzales II, the Supreme Court raised the issue of joinder sua sponte, as we do here, on the basis that the defendant’s double jeopardy concerns, like the ones Defendant raises here, “necessarily implicated” the Court’s joinder rule. Id. ¶ 26. We also note that raising this issue sua sponte causes even less “unfair surprise” to the State in this case than it did in Gonzales II. Id. ¶¶ 27-28 (precluding a claim of unfair surprise by the state based on a case from six years earlier applying the rule of joinder in a different context based on the existing joinder rule and based on the Court’s history of “distaste for piecemeal prosecutions” (internal quotation marks and citation omitted)). Here, we have the benefit of Gonzales II, a recent case that conveys a clear warning that our compulsory joinder rule will be enforced, even sua sponte, to bar sequential prosecutions of charges not joined in the original trial that stem from the same conduct, where the prosecution pursued an all-or-nothing trial strategy. See id. ¶¶ 26-33. In its answer brief, the State had an opportunity to address the application of Gonzales II to the facts of this case. Instead, the State simply chose to concede the fundamental error in the jury instructions and summarily assert that double jeopardy would not bar retrial, because reversal was not based on insufficient evidence. We note that the State’s double jeopardy analysis relied specifically on statements made by this Court in State v. Gonzales (Gonzales I), 2011-NMCA-081, 150 P.3d 494, 263 P.3d 271, aff'd 2013-NMSC-016, rather than the alternative joinder grounds that our Supreme Court relied upon in Gonzales II. Because “[jjomder is designed to protect a defendant’s doubleQjeopardy interests” in this context, there is ample existing authority for us to address this issue sua sponte without the need for further briefing. See Gonzales II, 2013-NMS C-016, ¶ 26 (internal quotation marks and citation omitted).\n{20} In Gonzales I, the defendant was charged with, and convicted of, negligent child abuse, which this Court reversed for insufficient evidence on appeal. Gonzales I, 2011-NMCA-081, ¶¶ 31-32. The defendant argued on appeal that double jeopardy would preclude a new charge of vehicular homicide, and this Court agreed because under the cognate approach it was a lesser included offense and, given that the state chose an all- or-nothing strategy, it must suffer the consequence of being unable to bring that lesser offense in a subsequent trial. Id. ¶¶ 33, 35-36, 38. The Supreme Court granted certiorari on the issue of subsequent prosecution and found it unnecessary to determine whether vehicular homicide was a lesser included offense of negligent child abuse for purposes of double jeopardy. See Gonzales II, 2013-NMSC-016, ¶¶ 12, 24. Rather, it concluded that the state could not pursue a subsequent charge of vehicular homicide based on the principle of joinder. See id. ¶ 24.\n{21} The compulsory joinder rule states:\nTwo or more offenses shall be j oined in one complaint, indictment or information with each offense stated in a separate count, if the offenses, whether felonies or misdemeanors or both:\n(1) are of the same or similar character, even if not part of a single scheme or plan; or\n(2) are based on the same conduct or on a series of acts either connected together or constituting parts of a single scheme or plan.\nRule 5-203(A). Our Supreme Court construed this rule to mean that the criteria for the mandatory joinder of offenses are satisfied where under the facts of the case there are “two crimes based on the same conduct.” See Gonzales II, 2013-NMSC-016, ¶ 25 (internal quotation marks and citation omitted). In that situation, “[t]he [sjtate had no choice but to join these two offenses in one complaint, indictment or information, if it wanted to pursue them both.” Id. (internal quotation marks and citation omitted). Our Supreme Court explained that the purpose of the compulsory joinder rule,\nviewed as a whole, is twofold: (1) to protect a defendant from the governmental harassment of being subjected to successive trials for offenses stemming from the same criminal episode; and (2) to ensure finality without unduly burdening the judicial process by repetitious litigation.\nId. ¶ 26 (internal quotation marks and citation omitted). The Supreme Court also focused on tempering the “coercive effect” of “all-or-nothing prosecution strategies,” by acknowledging that, while such a trial tactic is within the state’s discretion, if such a tactic had no consequences, then “the [sjtate would have all of the benefits and none of the risks . .., while the accused would have all the risks and none of the protections.” Id. ¶ 33 (internal quotation marks and citations omitted). Our Supreme Court concluded that to achieve all the goals of compulsory joinder, the remedy is to bar subsequent prosecution of an offense the state failed to join in the initial trial. See id. ¶ 31.\n{22} In an effort to limit unfairness to the state in the application of the joinder rule, it appears our Supreme Court would be inclined to excuse the state’s failure to bring all joinable offenses in one charging document where (1) a charge was unknown to the state when the defendant was indicted, and (2) the state requests an instruction on a lesser included offense that satisfies the Meadors cognate approach. See Gonzales II,2013NMSC-016, ¶ 32 (noting that the state had at least three opportunities to join the offenses, it did not ask for a vehicular homicide instruction under Meadors, and the state was fully aware the vehicular homicide charge was available and decided on this particular, risky trial strategy).\n{23} We do not discern any material factual distinction in the current case that would shield it from the consequences imposed by Gonzales II. Here, the charged offense failed for insufficient evidence when the district court directed a verdict on assault with the intent to commit murder after the close of evidence. The charging document was not amended to add aggravated assault with a deadly weapon, consistent with Rule 5-204(A), as stated above. The State was fully aware of the factual basis to pursue an aggravated assault with a deadly weapon charge and amended the original charging document to exclude such a prosecution. The State remained consistent with its all-or-nothing prosecution strategy throughout the proceedings and at trial, despite clear opportunities to amend the charges. Although the jury was ultimately instructed on the uncharged offense because of the sua sponte actions of the district court, the instructed offense did not satisfy the Meadors cognate approach. Thus, the new charge should never have been added by the district court and should never have gone to the jury.\n{24} For these reasons, we hold that the State may not retry Defendant on the charge of aggravated assault with a deadly weapon. Such a charge arises from the same conduct it unsuccessfully prosecuted during the first trial and is barred under the rule of compulsory joinder. Next, we must decide the consequences upon Defendant’s remaining conviction of tampering with evidence and whether to accept the State’s further concession that retrial is warranted.\nTampering With Evidence Is Not Subject to Retrial\n{25} The offense of tampering with evidence is linked to the crime to which the tampering is related, in its degree of crime and punishment.\nWhoever commits tampering with evidence shall be punished as follows:\n(1) if the highest crime for which tampering with evidence is committed is a capital or first[-]degree felony or a second[-]degree felony, the person committing tampering with evidence is guilty of a third[-]degree felony;\n(2) if the highest crime for which tampering with evidence is committed is a third[-] degree felony or a fourth[-]degree felony, the person committing tampering with evidence is guilty of a fourth[-]degree felony;\n(3) if the highest crime for which tampering with evidence is committed is a misdemeanor or a petty misdemeanor, the person committing tampering with evidence is guilty of a petty misdemeanor; and\n(4) if the highest crime for which tampering with evidence is committed is indeterminate, the person committing tampering with evidence is guilty of a fourth[-]degree felony.\nNMSA 1978, § 30-22-5(B) (2003). On the other hand, tampering with evidence can be a stand-alone crime that is not tied to a separate crime. See State v. Jackson, 2010-NMSC-032, ¶¶ 1, 21, 27-28, 148 N.M. 452, 237 P.3d 754. Where there is no separate, identified crime, the tampering offense is linked to an indeterminate crime under Section 30-22-5(B)(4), and is punished as a fourth-degree felony. See Jackson, 2010-NMSC-032, ¶¶ 21, 27-28. In the current case, the record indicates that Defendant was convicted of fourth-degree felony tampering with evidence under Subsection (B)(2), relating the tampering offense to a crime that is either a third or fourth-degree felony.\n{26} Defendant asserts without elaboration that, insofar as the degree of his tampering with evidence conviction is tied to his conviction for aggravated assault with a deadly weapon, he should be retried for tampering or permitted to challenge the degree of his conviction. In support of his assertion, Defendant cites to only Subsection (B)(3) of the tampering statute, stating that tampering may be a petty misdemeanor. The State concedes without elaboration that Defendant may be retried for tampering with evidence along with the charge of aggravated assault with a deadly weapon. We are not persuaded that a retrial on tampering is warranted on any theories raised by the parties on appeal.\n{27} Reading between the lines of Defendant’s sparse argument, we understand him to argue that (1) because his tampering conviction was tied to his erroneous conviction for aggravated assault with a deadly weapon, and (2) because his requested instruction on simple assault was wrongfully denied, he should be given the opportunity on retrial to establish that the highest crime with which he tampered was a misdemeanor assault, making his tampering conviction a misdemeanor under Subsection (B)(3). We are not persuaded by Defendant’s premise that his tampering conviction was tied to the crime of aggravated assault with a deadly weapon.\n{28} Recent decisions from this Court indicate that the degree and identification of the underlying crime to which the tampering offense relates, if any, are elements of tampering that should be decided by a jury. See State v. Sanchez, 2015-NMCA-077, ¶¶ 20-25, 355 P.3d 51 (reviewing the failure to instruct the jury on the crime to which tampering related for fundamental error), cert. denied, 2015-NMCERT-006, _ P.3d __ (No. 35,283 June 11, 2015); State v. Herrera, 2014-NMCA-007, ¶¶ 4-18, 315 P.3d 343 (same); State v. Alvarado, 2012-NMCA-089, ¶ 14, _ P.3d _(deciding for the first time that the Sixth Amendment requires the jury to find facts related to a specific crime that would increase a defendant’s sentence for tampering). As such, the underlying crime to which tampering relates, if any, should be identified in the tampering instruction and found by the jury. See. Sanchez, 2015-NMCA-077, ¶¶ 20-25.\n{29} In the current case, the jury instruction for tampering with evidence did not tie tampering to any identified crime. The instruction asked only whether Defendant hid or placed a knife with the intent to prevent his own apprehension, prosecution or conviction. Defendant did not object to this instruction in the district court, nor does he challenge it on appeal. This unchallenged instruction serves as the governing law of the case. See State v. Danek, 1994-NMSC-071, ¶ 13, 118 N.M. 8, 878 P.2d 326 (observing that unchallenged jury instructions become law of the case against the party who has not objected); Coach v. Astec Indus., Inc., 2002-NMCA-084, ¶ 40, 132 N.M. 631, 53 P.3d 398 (“Jury instructions not objected to become the law of the case.”).\n{30} In Alvarado, we held that where “[t]he jury was not asked to indicate the crime, if any, to which the tampering related},] . . . the court is limited to sentencing a defendant under the ‘indeterminate crime’ provision [of the statute].” 2012-NMCA-089, ¶ 14. In that case, the defendant was acquitted of the crime to which the tampering conviction was related, and the jury was not instructed to find whether the tampering conviction related to any particular crime. Id. ¶¶ 1, 4, 10. Under these facts, we held that the district court properly sentenced the defendant for tampering with evidence of an indeterminate crime under Section 30-22-5(B)(4). Alvarado, 2012-NMCA-089, ¶¶ 14, 16.\n{31} Similarly, in the current case, the offense to which Defendant’s tampering was related failed for insufficient evidence, and on appeal we reverse its replacement by another offense and bar retrial on that new replacement offense. Thus, the underlying offense for which Defendant might have tampered is effectively rendered to be an unidentified, indeterminate crime. Furthermore, because the jury instructions did not require the jury to find that Defendant tampered with any particular crime or degree of crime, tampering was instructed as a stand-alone crime. See id. ¶ 14; cf. Jackson, 2010-NMSC-032, ¶ 28 (stating where an underlying crime is not identifiable, tampering is punished under the “indeterminate crime” provision in Subsection (B)(4), as a “catch-all”). Based on our opinion in Alvarado, Defendant would be properly sentenced for tampering with an indeterminate crime under Section 3 0-22-5(B)(4), punishable as a fourth-degree felony. See Alvarado, 2013-NMSC-089, ¶ 14.\n{32} Forpurposes of determining whether retrial is appropriate, we hold that, because the jury instruction did not tie Defendant’s tampering conviction to his conviction for aggravated assault with a deadly weapon, retrial is not warranted on that basis. Similarly, retrial is not appropriate on the ground that Defendant was wrongfully denied an instruction on misdemeanor assault because tampering with evidence was instructed without challenge as a stand-alone crime. Consistent with Alvarado, we hold that the district court wrongfully convicted Defendant of having tampered with evidence of a third- or fourth-degree felony in the absence of such a finding by the jury. Rather than order retrial, we order the district court to amend the judgment and sentence to reflect that Defendant was convicted for tampering with evidence of an indeterminate crime under Section 30-22-5(B)(4). Because both the indeterminate provision and the provision under which Defendant was convicted make tampering a fourth-degree felony, resentencing on this conviction is not required.\n{33} Defendant’s brief in chief raises one remaining argument that may affect his right to retrial on the tampering conviction. Defendant contends thatit was reversible error for the district court to admit Victim’s testimony thatDefendant stated that he robbed the neighborhood in the course of the overall incident at issue. Defendant characterizes the statement as unfairly prejudicial bad act evidence improperly admitted under Rules 11-403 NMRA and 11-404 NMRA. The district court admitted the evidence as relevant to, and probative of, Victim’s fear of Defendant, which was an element of the incorrectly charged offense of assault. See NMSA 1978, § 30-3-1 (B) (1963) (stating that assault consists of “any unlawful act, threat[,] or menacing conduct which causes another person to reasonably believe that he is in danger of receiving an immediate battery”). We agree with the district court that Defendant’s statement is part of Defendant’s menacing conduct at issue, but the relevance ofVictim’s fear relates solely to an improperly charged — assault-based—offense.\n{34} Assuming that the admission of Defendant’s statement was error, Defendant must also establish that there was a reasonable probability that its admission affected the jury’s tampering verdict. See State v. Astorga, 2015-NMSC-007, ¶ 43, 343 P.3d 1245 (“Absent a constitutional violation, we look to whether there is a reasonable probability that the error affected the verdict. Defendant bears the initial burden of demonstrating that he was prejudiced by the error.” (citation omitted)). To judge the probable effect of evidentiary error, we examine the context of the error to determine the role it played, including the source of the evidence, the emphasis placed on it, and other non-objectionable evidence. See State v. Leyba, 2012-NMSC-037, ¶ 24, 289 P.3d 1215.\n{35} In the current case, the testimony about Defendant’s statement that he robbed the neighborhood was elicited from Victim, not law enforcement, and was offered in the context of other blustering comments from Defendant. Defendant makes no showing that the State placed emphasis on this comment. There is no indication that the State attempted to relate this comment to the conduct that supported Defendant’s conviction for tampering, and we see no probable relationship between the comment and the tampering charge that ultimately resulted in a conviction. The State presented uncontradicted testimony that Defendant had a knife during a confrontation with Victim and tossed it into a yard when he saw that police had arrived at the scene. The police officer recovered a knife in the location where Victim said Defendant had thrown it. This evidence was all that was required for the jury to convict Defendant of tampering. The blustering and menacing behavior suggested by Defendant’s comment seems to even contradict the concealing behavior that underlies his tampering conviction. Under the circumstances presented at trial, we fail to see how Defendant’s comment could make the evidence of tampering more probable in a manner sufficient to establish reversible error.\n{36} Finally, because Defendant makes no independent allegation of error directed solely at the tampering with evidence charge, we see no reason to accept the State’s concession that Defendant should be retried on the tampering charge. The tampering with evidence conviction is affirmed.\nCONCLUSION\n{37} This case amply demonstrates the importance of circumspection in making charging decisions throughout the proceedings. The State chose an unsuccessful, all-or-nothing, trial strategy that resulted in a directed verdict on the original charge of assault with intent to commit murder. The district court compounded this strategic all-or-nothing prosecution error by sua sponte instructing the jury on a new uncharged offense — aggravated assault with a deadly weapon — after the close of the evidence. As a result, Defendant was deprived of proper notice of the new charge against him. This triggered a violation ofthe compulsoryjoinder requirement in Rule 5-203(A). Further error was made when the jury was improperly instructed on the aggravated assault charge.\n{38} We reverse Defendant’s conviction for aggravated assault with a deadly weapon and hold that the State may not retry Defendant on the aggravated assault with a deadly weapon charge that arose from the same assault-based conduct it unsuccessfully prosecuted in this case. Finally, we are not persuaded that retrial on the tampering charge is warranted and affirm Defendant’s conviction for tampering with evidence. However, we remand this matter to the district court to correct the judgment and sentence consistent with our decision herein and to properly reflect that Defendant was convicted of tampering with an indeterminate crime that carries the same fourth-degree felony penalty as previously imposed by the district court.\n{39} IT IS SO ORDERED.\nTIMOTHY L. GARCIA, Judge\nWE CONCUR:\nJONATHAN B. SUTIN, Judge\nLINDA M. VANZI, Judge",
+        "type": "majority",
+        "author": "GARCIA, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM Adam Greenwood, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Jorge A. Alvarado, Chief Public Defender Mary Barket, Assistant Appellate Defender Santa Fe, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Granted, July 1, 2016,\nNo. S-1-SC-35864\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-060\nFiling Date: March 1, 2016\nDocket No. 33,282\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. JOHN RADOSEVICH, Defendant-Appellant.\nLouis E. DePauli Jr., District Judge\nHector H. Balderas, Attorney General Santa Fe, NM Adam Greenwood, Assistant Attorney General Albuquerque, NM for Appellee\nJorge A. Alvarado, Chief Public Defender Mary Barket, Assistant Appellate Defender Santa Fe, NM for Appellant"
+  },
+  "file_name": "1632-01",
+  "first_page_order": 166,
+  "last_page_order": 178
+}

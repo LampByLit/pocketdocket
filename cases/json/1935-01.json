@@ -1,0 +1,646 @@
+{
+  "id": 4352229,
+  "name": "The People of the State of New York, Plaintiff, v. Julio Velasquez, Defendant",
+  "name_abbreviation": "People v. Velasquez",
+  "decision_date": "2015-07-29",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 265"
+    },
+    {
+      "type": "parallel",
+      "cite": "14 N.Y.S.3d 661"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "287 AD2d 74",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        387283
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/287/0074-01"
+      ]
+    },
+    {
+      "cite": "109 AD3d 427",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3726005
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "429"
+        },
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0427-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 826",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4405194
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0826-01"
+      ]
+    },
+    {
+      "cite": "35 Misc 3d 855",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3781707
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/35/0807-01"
+      ]
+    },
+    {
+      "cite": "2005 NY Slip Op 50711",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Misc 3d 1023",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "295 US 78",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        333750
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/295/0078-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 895",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 AD2d 379",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        721451
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/250/0379-01"
+      ]
+    },
+    {
+      "cite": "173 Misc 2d 350",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        87340
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/173/0350-01"
+      ]
+    },
+    {
+      "cite": "90 NY2d 910",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "239 AD2d 864",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1252222
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "865"
+        },
+        {
+          "page": "865"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/239/0864-01"
+      ]
+    },
+    {
+      "cite": "90 NY2d 897",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "239 AD2d 443",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1252685
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "443"
+        },
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/239/0443-01"
+      ]
+    },
+    {
+      "cite": "134 AD2d 445",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3531560
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "445"
+        },
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/134/0445-01"
+      ]
+    },
+    {
+      "cite": "752 F2d 1116",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        297211
+      ],
+      "pin_cites": [
+        {
+          "page": "1125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/752/1116-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 412",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189042
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0412-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 179",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 NY2d 853",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 AD2d 633",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1060467,
+        1060718
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/177/0633-01",
+        "/ad2d/177/0633-02"
+      ]
+    },
+    {
+      "cite": "86 Or L Rev 1",
+      "category": "journals:journal",
+      "reporter": "Or. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 AD2d 305",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3506422
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/127/0305-01"
+      ]
+    },
+    {
+      "cite": "2012 NY Slip Op 30981",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 AD3d 903",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5672321
+      ],
+      "pin_cites": [
+        {
+          "page": "904"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/95/0903-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 193",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4224900
+      ],
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0193-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 543",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4371711
+      ],
+      "pin_cites": [
+        {
+          "page": "547-548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0543-01"
+      ]
+    },
+    {
+      "cite": "127 AD2d 794",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3507060
+      ],
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/127/0794-01"
+      ]
+    },
+    {
+      "cite": "72 NY2d 923",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 AD2d 169",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3549430
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/138/0169-01"
+      ]
+    },
+    {
+      "cite": "167 AD2d 317",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1019223
+      ],
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/167/0317-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 965",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 AD2d 449",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        831226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/225/0449-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 959",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 AD3d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3723794
+      ],
+      "pin_cites": [
+        {
+          "page": "689"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0688-01"
+      ]
+    },
+    {
+      "cite": "14 NY2d 210",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2269028
+      ],
+      "pin_cites": [
+        {
+          "page": "214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/14/0210-01"
+      ]
+    },
+    {
+      "cite": "480 US 39",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131144
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "59-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0039-01"
+      ]
+    },
+    {
+      "cite": "427 US 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174831
+      ],
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0097-01"
+      ]
+    },
+    {
+      "cite": "527 US 263",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248336
+      ],
+      "pin_cites": [
+        {
+          "page": "280-281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0263-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 259",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734982
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "263"
+        },
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0259-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 878",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4224819
+      ],
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0878-01"
+      ]
+    },
+    {
+      "cite": "405 US 150",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11721534
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0150-01"
+      ]
+    },
+    {
+      "cite": "373 US 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 840,
+    "char_count": 17109,
+    "ocr_confidence": 0.759,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14812813411129375
+    },
+    "sha256": "adb3184697ab777ef9d08ee7e7f9a281759d6aad03b95f8ee60d003f6455882c",
+    "simhash": "1:8c08d5ca634051b1",
+    "word_count": 2709
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Julio Velasquez, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSteven Hornstein, J.\nThe defendant stands accused of multiple counts of assault (Penal Law § 120.00 [1]); obstruction of breathing (Penal Law § 121.11 [a]); menacing (Penal Law § 120.15); aggravated harassment (Penal Law § 240.30 [4]); and harassment (Penal Law § 240.26 [1]). By motion, dated April 15, 2015, the defendant seeks disclosure of information relating to the complainant’s alleged mental health history or, alternatively, the issuance of a judicial subpoena for the information sought. The defendant, in support of his motion, asserts that: (1) the police reports provided by the prosecution rely “on the word of the complainant” (see defendant’s affirmation 1 5); and (2) during an interview with a defense investigator conducted on November 14, 2014, the complainant revealed that she “takes medication for bipolar disorder . . . [and] . . . these medications cause both physical and mental side effects, including . . . the inability to think or remember well” (see defendant’s affirmation 14).\nOn May 4, 2015, the People filed their response and asked the court to deny the defendant’s motion. The People argued that: (1) “the information sought... is not in the People’s possession, but rather ... is in the defendant’s possession and thus is not Brady material” (see People’s mem of law at 5); (2) the defendant “has not demonstrated how the information sought is relevant to his guilt or innocence and is not entitled to the records under the circumstances presented” (id. at 6-7); and (3) “a court cannot compel a complainant to disclose information about whether or not they are being treated by a psychiatrist” (id. at 7-8).\nThe court, having reviewed the court file and the submissions of the parties, finds as follows:\nCriminal Procedure Law § 240.20 (1) (h) provides, in pertinent part:\n“Except to the extent protected by court order, upon a demand to produce by a defendant against whom an . . . information charging a misdemeanor is pending, the prosecutor shall disclose to the defendant and make available for inspection . . .\n“(h) Anything required to be disclosed, prior to trial, to the defendant by the prosecutor, pursuant to the constitution of this state or of the United States.”\nThe Due Process Clause of the United States Constitution requires disclosure of evidence in the prosecutor’s possession, custody or control that is favorable to the defense and material to the guilt or punishment of the defendant. (Brady v Maryland, 373 US 83, 87 [1963]; Giglio v United States, 405 US 150 [1972].) Similarly, the New York State Constitution requires disclosure of Brady material. (People v Garrett, 23 NY3d 878, 884 [2014]; People v Fuentes, 12 NY3d 259, 263 [2009].)\nEvidence is favorable to an accused when it either tends to show that the accused is not guilty or when it impeaches a government witness. (Strickler v Greene, 527 US 263, 280-281 [1999]; People v Fuentes, 12 NY3d at 263.) Where, as here, an accused requests specific evidence, such evidence is material “where there is any reasonable likelihood” that the non-production of such evidence might affect the outcome of the case. (United States v Agrus, 427 US 97, 103 [1976].)\nEvidence possessed by, or in the custody or control of the prosecution that a primary prosecution witness suffers from a psychiatric condition that may affect his or her reliability must be disclosed. (See Pennsylvania v Ritchie, 480 US 39 [1987]; see also People v Rensing, 14 NY2d 210, 214 [1964] [jurors should have been made aware a primary witness had “visual and auditory hallucinations with marked memory defect”; had been diagnosed with “(p)aranoid (s)chizophrenia”; and had been discharged from a psychiatric hospital 12 years before the alleged crime, against medical advice]; People v Tirado, 109 AD3d 688, 689 [4th Dept 2013], lv denied 22 NY3d 959 [2013] [defense entitled to establish witness’s capacity to perceive and recall events impaired by her psychological condition and use of medications]; People v Davis, 225 AD2d 449 [1st Dept 1996], lv denied 88 NY2d 965 [1996] [defense should have been afforded opportunity to demonstrate the sole prosecution witness had a mental disability that might have affected his ability to perceive, recall and relate events accurately and to fabricate facts]; People v Dudley, 167 AD2d 317, 321 [1st Dept 1990] [where case turns upon testimony of witness with history of psychiatric illness, defendant should be permitted to offer psychiatric expert to explain the witness’s condition, treatment and effect condition might have had on that witness’s capacity]; People v Rivera, 138 AD2d 169, 175 [1st Dept 1988], lv denied 72 NY2d 923 [1988] [trial court erred in denying defendant’s request for deceased’s psychiatric records where such records showed deceased had history of mental illness, including “schizophrenia, paranoid type”]; People v Knowell, 127 AD2d 794, 794 [2d Dept 1987] [court erred in refusing to order the production of psychiatric records for in camera inspection upon showing a crucial witness had lengthy history of psychiatric problems, had been confined in mental hospitals on several occasions in the recent past and had been diagnosed as paranoiac].)\nIn People v Gissendanner (48 NY2d 543, 547-548 [1979]), a case relied upon by the prosecution, the Court of Appeals discussed the “tension between the constitutionality based rights of an accused to confront and cross-examine adverse witnesses . . . and the interest of the State and its agents in maintaining confidential data relating to performance ... of police.” A similar “tension” exists when a defendant seeks a complainant’s psychiatric records between a defendant’s right of confrontation and the witness’s physician-patient privilege. In New York, the statutorily created physician-patient privilege must, under appropriate circumstances, yield to a defendant’s right of confrontation. (People v McCray, 23 NY3d 193, 200 [2014]; People v Jaikaran, 95 AD3d 903, 904 [2d Dept 2012].) This principle is codified in Mental Hygiene Law § 33.13 (c), which provides, in pertinent part:\n“information about patients . . . including the identification of patients . . . clinical records or clinical information . . . and records and information . . . shall not be a public record and shall not be released by the offices or its facilities to any person or agency . . . except . . .\n“1. pursuant to an order of a court of record requiring disclosure upon a finding by the court that the interests of justice significantly outweigh the need for confidentiality.” (§ 33.13 [c] [1].)\nTo trigger a defendant’s right to disclosure under Mental Hygiene Law § 33.13 (c), the defendant must make a preliminary, specific, showing that the records sought will reveal a significant condition relevant to the reliability or accuracy of a material prosecution witness’s testimony. Here, based on revelations secured through defense investigation, the People have been made aware that the complainant may suffer from a psychiatric condition that requires her to take medications that might affect her reliability. This showing is sufficient to trigger an inquiry into the complainant’s otherwise confidential psychiatric records. (Compare People v Elliott, 2012 NY Slip Op 30981[U], *8 [Sup Ct, Bronx County 2012] [“nothing in this proffer equates the complaining witness’s diagnosis of bipolar disorder with something that is relevant to her credibility or reliability in this specific case to justify granting the application ... to provide her psychiatric records . . . as an element of pre-trial discovery”].)\nA preliminary showing that a material prosecution witness suffers from a psychiatric condition does not entitle a defendant to direct, unfettered access to that witness’s psychiatric records as a matter of right. (See Pennsylvania v Ritchie, 480 US 39, 59-60 [1987]; People v Ortiz, 127 AD2d 305 [3d Dept 1987]; see also Clifford S. Fishman, Defense Access to a Prosecution Witness’s Psychotherapy or Counseling Records, 86 Or L Rev 1 [2007].) Where, however, a defendant demonstrates that a witness’s psychiatric records might contain exculpatory information, the proper course of action is for the prosecution to provide those records for in camera inspection. (People v Arnold, 177 AD2d 633 [2d Dept 1991], lv denied 79 NY2d 853 [1992].) In cases of substantial room for doubt as to whether requested materials are discoverable under Brady “the prosecutor is not to decide for the court what is admissible or for the defense what is useful.” (People v Andre W., 44 NY2d 179, 185 [1978].)\nThe prosecution asserts that they do not presently possess the complainant’s psychiatric records and, therefore, such records do not constitute Brady material. (See generally People v Santorelli, 95 NY2d 412, 421 [2000]; United States v Bibby, 752 F2d 1116, 1125 [6th Cir 1985].) The prosecution also argues that they are under no obligation to investigate whether a “victim” has a psychiatric history.\nIn support of these positions, the People cite three post-conviction Appellate Division cases. The People’s reliance on these cases, however, is misplaced. In People v Diaz (134 AD2d 445, 445 [2d Dept 1987]), the defense learned, during cross-examination, that the complainant had been hospitalized on three occasions for “psychiatric problems.” The defense, however, while advising the trial court that they had not been previously informed of this history, did not request a mistrial. After inquiry, the trial court credited the prosecution’s statement that they had not been aware of the witness’s mental health history and ordered the People to obtain the complainant’s records from the two New York hospitals at which the complainant had been treated. The court then provided the defense with ample opportunity to review the records and allowed the defense to reopen its cross-examination of the complainant with respect to her psychiatric history and her ability to perceive. Under these circumstances, the Second Department stated: “[t]he People . . . have no affirmative duty to investigate the psychiatric history of all potential prosecution witnesses” and the trial court’s decision not to, sua sponte, declare a mistrial was correct. (Id. at 446; see also People v Sakadinsky, 239 AD2d 443, 443 [2d Dept 1997], lv denied 90 NY2d 897 [1997].)\nIn People v Sealey (239 AD2d 864 [4th Dept 1997], lv denied 90 NY2d 910 [1997]), the Court stated that the People were under no duty to either investigate the psychiatric history of the victim or obtain her psychiatric records. The Court noted, however, that the defense had been\n“given the opportunity to review the victim’s medical records . . . and to place before the jury the fact that the victim suffered from alcohol dependency and alcohol convulsions, had resided in various mental health facilities over the years, had experienced blackouts and hallucinations while under the influence of alcohol, and would become angry if deprived of alcohol.” {Id. at 865.)\nUnder these circumstances, the defendant was not denied due process of law.\nIn People v Collins (173 Misc 2d 350 [Sup Ct, Bronx County 1997]), the defendant was convicted after a jury trial of forcible sodomy and related offenses. The defense filed a motion to vacate the conviction on the ground that newly discovered evidence revealed that the complainant had a long-standing history of mental illness and violent assertive behavior. The People opposed the application and argued, inter alia, that they had no knowledge of the complainant’s psychiatric history and, even if they had, there was no duty to disclose it under Brady. Based on the newly discovered evidence, the trial court, in granting the motion to vacate, held that the jury’s ignorance of the complainant’s psychiatric history “impaired [its] ability to accurately evaluate her testimony and thus violated the defendant’s constitutional rights to a fair trial, to due process of law and to confront adverse witnesses” and granted the motion to vacate. (Id. at 357.) In affirming (People v Collins, 250 AD2d 379 [1st Dept 1998], lv denied 92 NY2d 895 [1998]), the Appellate Division held:\n“While we agree with the People that they had no affirmative duty to ascertain whether the complainant . . . had a psychiatric history and that they thus committed no Brady violation in failing to provide defendant with the complainant’s psychiatric records, we conclude that the motion to vacate judgment was properly granted on the ground of newly discovered evidence.” (People v Collins, 250 AD2d at 379 [citation omitted].)\nThe fair import of these cases is that a prosecutor, absent substantive information that a prosecution witness has a psychiatric history that might affect her reliability, has no affirmative duty to ascertain whether such a history exists (People v Diaz, 134 AD2d at 446; People v Sakadinsky, 239 AD2d at 443). Conversely, where, as here, a prosecutor knows or has reason to know that a crucial prosecution witness has such a condition, that prosecutor has an affirmative duty to see that “justice shall be done.” (Berger v United States, 295 US 78, 88 [1935]; see also Code of Professional Conduct [22 NYCRR 1200.0] rule 3.8 [b]; ABA Standards for Criminal Justice Prosecution Function and Defense Function 3-3.11 [3d ed 1993]; Joel Cohen, Disclosure of Information: Is Complying With ‘Brady’ Enough?, NYLJ, June 9, 2015 at 3, col 1.)\nHere, the defendant has made a sufficient showing that the complainant’s psychiatric records might contain information bearing on the reliability and accuracy of her testimony. (See People v Arnold, 177 AD2d 633 [2d Dept 1991], lv denied 79 NY2d 853 [1992].) The People, in accordance with their ethical obligations, are directed to investigate whether the complainant suffers from a psychiatric condition which affects her reliability, and, if such a condition exists, to attempt to secure the psychiatric records pertaining to that condition for an in camera inspection by the court. (See People v Cunningham, 7 Misc 3d 1023[A], 2005 NY Slip Op 50711 [U] [Crim Ct, NY County 2005], lv denied 2005 NY App Div LEXIS 7921 [1st Dept, July 14, 2005, No. M-2418]; see also People v Waters, 35 Misc 3d 855 [Sup Ct, Bronx County 2012].)\nIn directing the People to investigate the complainant’s psychiatric condition and to provide records related to that condition to the court for an in camera inspection, the court is mindful that the prosecution cannot submit records for inspection which they neither possess nor have control over. (See generally People v Santorelli, 95 NY2d 412 [2000]; People v Reedy, 70 NY2d 826 [1987]; People v Sealey, 239 AD2d at 865.) If the People diligently attempt to obtain such records and are unable to secure them due to reasons beyond their control, the court and the defense are to be so advised.\nWhile it is true a prosecution witness may not be compelled to provide access to his or her psychiatric records (see Matter of Johnson v Sackett, 109 AD3d 427, 429 [1st Dept 2013]) a trial court may, in its discretion, take steps to safeguard a defendant’s right to confrontation, including, but not limited to: granting to the defense wide latitude in addressing a complainant’s psychiatric condition; the medications she uses; and her refusal to allow access to her psychiatric records. (See People v Sealey, 239 AD2d at 865 [defense given opportunity to place before jury fact victim suffered from alcohol dependency, had resided in various mental health facilities over the years, and had experienced blackouts and hallucinations while under influence of alcohol].) The court may permit the defense to call an expert to testify with respect to the symptoms of bipolar disorder and the effect, if any, that bipolar disorder and the medications associated therewith may have on one’s cognitive abilities. (See People v Baranek, 287 AD2d 74 [2d Dept 2001].) The court may also impose sanctions and provide jury instructions to address the complainant’s refusal to disclose of her psychiatric history. (Matter of Johnson v Sackett, 109 AD3d at 430.)\nFor the reasons stated above, the motion to compel disclosure of the complainant’s mental health records is granted to the extent that the People are directed to investigate whether the complainant suffers from a psychiatric condition that impacts her reliability and to provide the court, for in camera inspection, the complainant’s mental health records which are currently or prospectively possessed by the prosecution.\nAll other arguments and requests for any additional hearings and relief that have been advanced by the defendant have been reviewed and rejected by this court as being not applicable or without merit.",
+        "type": "majority",
+        "author": "Steven Hornstein, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Bronx Defenders, Bronx (Avery McNeil of counsel), for defendant.",
+      "Robert T. Johnson, District Attorney, Bronx (Amy Joy Omens of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[14 NYS3d 661]\nThe People of the State of New York, Plaintiff, v Julio Velasquez, Defendant.\nCriminal Court of the City of New York, Bronx County,\nJuly 29, 2015\nAPPEARANCES OF COUNSEL\nThe Bronx Defenders, Bronx (Avery McNeil of counsel), for defendant.\nRobert T. Johnson, District Attorney, Bronx (Amy Joy Omens of counsel), for plaintiff."
+  },
+  "file_name": "1935-01",
+  "first_page_order": 247,
+  "last_page_order": 255
+}

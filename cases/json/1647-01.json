@@ -1,0 +1,847 @@
+{
+  "id": 12166787,
+  "name": "PHOENIX FUNDING, LLC, Plaintiff-Appellant, v. AURORA LOAN SERVICES, LLC, and MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., Defendants-Appellees",
+  "name_abbreviation": "Phoenix Funding, LLC v. Aurora Loan Services, LLC",
+  "decision_date": "2015-08-24",
+  "docket_number": "No. S-1-SC-35512; Docket No. 33,211",
+  "first_page": "229",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-010"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "2004-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1427945
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/135/0375-01"
+      ]
+    },
+    {
+      "cite": "115 N.M. 328",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        725439
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/115/0328-01"
+      ]
+    },
+    {
+      "cite": "1993-NMCA-034",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 N.M. 359",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1557204
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/92/0359-01"
+      ]
+    },
+    {
+      "cite": "1978-NMCA-125",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 N.M. 55",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5339387
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/83/0055-01"
+      ]
+    },
+    {
+      "cite": "1971-NMSC-084",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 2"
+        },
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1998-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        834365
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0721-01"
+      ]
+    },
+    {
+      "cite": "96 N.M. 775",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1577382
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/96/0775-01"
+      ]
+    },
+    {
+      "cite": "1981-NMSC-113",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 8, 9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 P.3d 54",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-002",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4240721
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0201-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-038",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4003109
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0424-01"
+      ]
+    },
+    {
+      "cite": "112 N.M. 579",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720229
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/112/0579-01"
+      ]
+    },
+    {
+      "cite": "1991-NMSC-081",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 N.M. 683",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1590285
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/109/0683-01"
+      ]
+    },
+    {
+      "cite": "1990-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "891 N.E.2d 239",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 N.E.3d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 N.E.3d 229",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 N.M. 28",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5367830
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/81/0028-01"
+      ]
+    },
+    {
+      "cite": "1969-NMSC-140",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4002944
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0471-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 425",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCERT-008",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "opinion_index": 0
+    },
+    {
+      "cite": "335 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-090",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4240495
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0630-01"
+      ]
+    },
+    {
+      "cite": "320 P.3d, 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4077464
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶¶ 31-32"
+        },
+        {
+          "page": "¶ 26"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶¶ 15, 17-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0529-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-099",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4250227
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0569-01"
+      ]
+    },
+    {
+      "cite": "94 N.M. 36",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1573228
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/94/0036-01"
+      ]
+    },
+    {
+      "cite": "1980-NMSC-015",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 6-10"
+        },
+        {
+          "page": "¶¶ 6-10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 N.M. 347",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5344434
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/64/0347-01"
+      ]
+    },
+    {
+      "cite": "1958-NMSC-093",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        },
+        {
+          "page": "¶¶ 18-23"
+        },
+        {
+          "page": "¶¶ 18-23"
+        },
+        {
+          "page": "¶¶ 18-23"
+        },
+        {
+          "page": "¶¶ 18-23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 N.M. 275",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5331628
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/82/0275-01"
+      ]
+    },
+    {
+      "cite": "1970-NMSC-157",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-4"
+        },
+        {
+          "page": "¶¶ 1-2, 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 N.M. 205",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2829357
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/86/0205-01"
+      ]
+    },
+    {
+      "cite": "1974-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 N.M. 294",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1575512
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/95/0294-01"
+      ]
+    },
+    {
+      "cite": "1980-NMSC-135",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 6"
+        },
+        {
+          "page": "¶¶ 3, 10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 N.M. 301",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2802933
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/74/0301-01"
+      ]
+    },
+    {
+      "cite": "1964-NMSC-137",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 N.M. 632",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8504038
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/76/0632-01"
+      ]
+    },
+    {
+      "cite": "1966-NMSC-163",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 4-5"
+        },
+        {
+          "page": "¶ 5"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "¶¶ 5-6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 N.M. 15",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1586560
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/36/0015-01"
+      ]
+    },
+    {
+      "cite": "1931-NMSC-052",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 N.M. 369",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2803477
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/77/0369-01"
+      ]
+    },
+    {
+      "cite": "1967-NMSC-017",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶¶ 10-11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 N.M. 423",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8842175
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/40/0423-01"
+      ]
+    },
+    {
+      "cite": "1936-NMSC-060",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 N.M. 395",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1571415
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/41/0395-01"
+      ]
+    },
+    {
+      "cite": "1937-NMSC-034",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "344 P.3d 988",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCERT-012",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 P.3d 1277",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-004",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4241926
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0143-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246569
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0713-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-061",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3784252
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0142-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1390,
+    "char_count": 42499,
+    "ocr_confidence": 0.784,
+    "pagerank": {
+      "raw": 5.527646540942415e-8,
+      "percentile": 0.34849676564154897
+    },
+    "sha256": "8de2082399bb48ea5e708410ce513da4c47637c49c9216b580981b6fad73d857",
+    "simhash": "1:7d1aa68baca39c03",
+    "word_count": 6891
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "M. MONICA ZAMORA, Judge",
+      "RODERICK T. KENNEDY, Judge",
+      "TIMOTHY L. GARCIA, Judge"
+    ],
+    "parties": [
+      "PHOENIX FUNDING, LLC, Plaintiff-Appellant, v. AURORA LOAN SERVICES, LLC, and MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nZAMORA, Judge.\n{1} Appellant Phoenix Funding, LLC (Phoenix) appeals from the district court’s order granting summary judgment in favor of Appellees Aurora Loan Services, LLC (Aurora) and Mortgage Electronic Registration Systems, Inc. (MERS) (collectively Aurora). Phoenix filed suit to quiet title, challenging the validity of a default foreclosure judgment entered against its predecessor in interest, Kirsten Hood (Hood). The district court determined that Phoenix’s suit constituted an improper collateral attack on the original judgment and that Phoenix’s claims were barred by res judicata. We hold that a collateral attack on the original judgment by Phoenix was proper, and thus, res judicata does not operate to bar Phoenix’s claims. We reverse and remand for further proceedings.\nI. BACKGROUND\n{2} In December 2006, Hood signed a promissory note with GreenPoint Mortgage Funding, Inc. (GreenPoint Funding) to purchase her Santa Fe home. To secure the note, Hood signed a mortgage contract with MERS as the nominee for GreenPoint Funding, which pledged her home as collateral for the loan.\n{3} In March 2009, Aurora filed a complaint in the First Judicial District Court seeking foreclosure on Hood’s home and claiming to be the holder of the note and mortgage with the right of enforcement. In October 2009, default judgment was entered againstHood. In November 2011 for “valuable consideration,” Hood executed a quitclaim deed transferring her interest in the property to Gregory Hutchins (Hutchins), the sole member of Phoenix. Hutchins borrowed the money to purchase the property and mortgaged his interest in the property to Phoenix. Hutchins defaulted and Phoenix filed suit to foreclose Hutchins’ interest in the property and to quiet title as to certain mortgage holders, including Aurora.\n{4} Phoenix claimed that the Hood note and mortgage were never properly assigned to Aurora, and as a result, Aurora lacked standing to bring the original foreclosure action against Hood, therefore, the district court lacked subject matter jurisdiction over that action and its 2009 foreclosure judgment was void. Aurora moved for summary judgment claiming that Phoenix lacked standing to challenge that original foreclosure judgment, and that Phoenix’s claims constituted an improper collateral attack that were barred by res judicata. Phoenix also moved for summary judgment reiterating its claim that the original judgment against Hood was void based on lack of standing and subject matter jurisdiction. Phoenix also argued, for the first time, that the judgment was void because Aurora had fraudulently assigned the Hood mortgage to itself.\n{5} The district court found that it had jurisdiction over the original foreclosure action, that Phoenix, as a party in privity with and/or a successor-in-interest to Hood, was bound by the original foreclosure judgment under the doctrine of res judicata, and as a result Phoenix was precluded from collaterally attacking the original foreclosure judgment. The district court granted summary judgment in favor of Aurora and concluded that Phoenix’s motion for summary judgment was moot.\nII. DISCUSSION\n{6} On appeal, Phoenix argues that the district court erred in granting summary judgment and in determining that its claims are barred by res judicata. Phoenix renews its argument that because Aurora lacked standing to bring the foreclosure action, that the district court therefore lacked jurisdiction to hear the case, and as a result, the original foreclosure judgment is void. Aurora contends that Phoenix lacks standing to challenge the original foreclosure judgment because it was not a party to the original foreclosure action and took its interest in the subject property after the foreclosure judgment was rendered. Aurora further argues that the grant of summary judgment was proper and that Phoenix’s claims are precluded under the doctrine of res judicata.\nA. Summary Judgment Standard of Review\n{7} “We review the district court’s decision to grant summary judgment de novo.” Hydro Res. Corp. v. Gray, 2007-NMSC-061, ¶ 14, 143 N.M. 142, 173 P.3d 749. Summary judgment is appropriate where the facts are undisputed, “and the movant is entitled to judgment as a matter of law.” Id. (internal quotation marks and citation omitted). Generally, New Mexico courts view summary judgment with disfavor. Romero v. Philip Morris Inc., 2010-NMSC-035, ¶ 8, 148 N.M. 713, 242 P.3d 280. We review the facts and make all reasonable inferences from the record in favor of the nonmoving party. T.H. McElvain Oil & Gas Ltd. P’ship v. Benson-Montin-Greer Drilling Corp., 2015-NMCA-004, ¶ 19, 340 P.3d 1277, cert. granted, 2014-NMCERT-012, 344 P.3d 988.\nB. Under New Mexico Law Judgments Rendered by a Court Lacking Jurisdiction Are Void\n{8} The New Mexico Supreme Court has distinguished between judgments rendered in error, judgments that can be set aside, and judgments rendered without authority which are null and void. State v. Patten, 1937-NMSC-034, ¶ 26, 41 N.M. 395, 69 P.2d 931 (“Where a court has jurisdiction, it has a right to decide every question which occurs in the cause ... [b]ut if it act[s] without authority, its judgments and orders are regarded as nullities; they are not voidable, but simply void.” (internal quotation marks and citation omitted)). Judgments void for lack of jurisdiction have no legal effect. See In re Field's Estate, 1936-NMSC-060, ¶ 11, 40 N.M. 423, 60 P.2d 945 (“There are three jurisdictional essentials necessary to the validity of every judgment, to wit, jurisdiction of parties, jurisdiction of the subject matter, and power or authority to decide the particular matters presented and the lack of either is fatal to the judgment[.]” (citations omitted)); see also Heckathorn v. Heckathorn, 1967-NMSC-017, ¶ 10, 77 N.M. 369, 423 P.2d 410 (same). Concerning void judgments, our Supreme Court has stated:\nA judgment void upon its face and requiring only an inspection of the record to demonstrate its invalidity is a mere nullity, in legal effect no judgment at all, conferring no right and affording no justification. Nothing can be acquired or lost by it; it neither bestows nor extinguishes any right, and may be successfully assailed whenever it is offered as the foundation for the assertion of any claim or title. It neither binds nor bars anyone. All acts performed under it and all claims flowing out of it are void. The parties attempting to enforce it may be responsible as trespassers. The purchaser at a sale by virtue of its authority finds himself without title and without redress. No action upon the part of the plaintiff, no inaction upon the part of the defendant, no resulting equity in the hands of third persons, no power residing in any legislative or other department of the government, can invest it with any of the elements of power or of vitality. It does not terminate or discontinue the action in which it is entered, nor merge the cause of action; and it therefore cannot prevent the plaintiff from proceeding to obtain a valid judgment upon the same cause, either in the action in which the void judgment was entered or in some other action. The fact that the void judgment has been affirmed on review in an appellate court or an order or judgment renewing or reviving it entered adds nothing to its validity. Such a judgment has been characterized as a dead limb upon the judicial tree, which may be chopped off at any time, capable of bearing no fruit to plaintiff but constituting a constant menace to defendant.\nWalls v. Erupcion Mining Co., 1931-NMSC-052, ¶ 6, 36 N.M. 15, 6 P.2d 1021 (internal quotation marks and citation omitted).\nC. A Judgment’s Validity Can Be Challenged by a Successor in Interest in a Subsequent Action\n{9} New Mexico courts characterize attacks on void judgments as either “direct” or “collateral.” Barela v. Lopez, 1966-NMSC-163, ¶¶ 4-5, 76 N.M. 632, 417 P.2d 441.\nA direct attack ... is an attempt to avoid or correct [the judgment] in some manner provided by law and in a proceeding instituted for that very purpose, in the same action and in the same court[. Whereas,] a collateral attack is an attempt to impeach the judgment by matters dehors the record, in an action other than that in which it was rendered; an attempt to avoid, defeat, or evade it, or deny its force and effect, in some incidental proceeding not provided by law for the express purpose of attacking it[.]\nId. ¶ 5 (internal quotation marks and citations omitted). “In other words, if the action or proceeding has an independent purpose and contemplates some other relief or result, although the overturning of the judgment may be important or even necessary to its success, then the attack upon the judgment is collateral.” Id. (internal quotation marks and citation omitted).\n{10} Because a void judgment has no effect on the parties, or their respective interests, “[t]here is no time limitation on asserting that [a] judgment is void.” See Heckathorn, 1967-NMSC-017, ¶ 15. This is true when a judgment is challenged under Rule 1-060(B) NMRA. See Eaton v. Cooke, 1964-NMSC-137, ¶ 7, 74 N.M. 301, 393 P.2d 329 (“[W]here the judgment was void, [Rule 1-060(B)] does not purport to place any limitation of time.”). It is also true when a judgment is challenged in a subsequent action. See In re Estate of Baca, 1980-NMSC-135, ¶ 10, 95 N.M. 294, 621 P.2d 511 (stating that a void judgment is “subject to direct or collateral attack at any time”); Chavez v. Cnty. of Valencia, 1974-NMSC-035, ¶ 15, 86 N.M. 205, 521 P.2d 1154 (“An attack on subject matter jurisdiction may be made at any time in the proceedings. It may be made for the first time upon appeal. Or it may be made by a collateral attack in the same or other proceedings long after the judgment has been entered.” (citations omitted)).\n{11} The general rule is that judgments may be challenged directly or challenged collaterally in a subsequent action, where the challenge is based on an asserted lack of jurisdiction. See Hanratty v. Middle Rio Grande Conservancy Dist., 1970-NMSC-157, ¶¶ 1-4, 82 N.M. 275, 480 P.2d 165 (deciding the merits of a collateral attack on a previously rendered default foreclosure judgment where the challenge was based on an asserted lack of jurisdiction and was presented in the context of a subsequent action to quiet title); Matlock v. Somerford, 1958-NMSC-093, ¶ 6, 64 N.M. 347, 328 P.2d 600 (same).\n{12} This rule has been applied regardless of whether the challenge is based on an alleged lack of personal or subject matter jurisdiction. See Hubbard v. Howell, 1980-NMSC-015, ¶¶ 6-10, 94 N.M. 36, 607 P.2d 123 (reaching the merits of two collateral attacks on a previous judgment, where the attacks were based on the asserted lack of subject-matter and personal jurisdiction); Matlock, 1958-NMSC-093, ¶¶ 18-23, (examining the merits of a collateral attack involving an alleged lack of personal jurisdiction). This rule also seems to apply regardless of whether the party making the attack was a party to the original action or a successor in interest. See In re Estate of Baca, 1980-NMSC-135, ¶ 6 (stating that successors in interest challenged prior judgment in a quiet title action); Matlock, 1958-NMSC-093, ¶¶ 18-23 (successor in interest challenged prior default foreclosure judgment in a quiet title action).\n{13} Our Supreme Court has also considered the merits of a collateral attack on a prior foreclosure judgment, made by a successor in interest in a subsequent action to quiet title, where the successor in interest acquired its interest after the original foreclosure judgment was entered. See Hanratty, 1970-NMSC-157, ¶¶ 1-2, 6; Matlock, 1958-NMSC-093, ¶¶ 18-23. And the Court has permitted default judgments to be challenged even where jurisdiction was not raised in the original action. See In Re Estate of Baca, 1980-NMSC-135, ¶¶ 3, 10; Hubbard, 1980-NMSC-015, ¶¶ 6-10; Matlock, 1958-NMSC-093, ¶¶ 18-23. We conclude that Phoenix, as a successor in interest, has standing to challenge the validity of the prior default foreclosure judgment.\nD. Standing to Foreclose Implicates Subject Matter Jurisdiction\n{14} Having established that judgments rendered by a court lacking subject matter jurisdiction are void, and that void judgments can be challenged by a successor in interest in a subsequent action to quiet title, we find the determinative question to be whether the default judgment in this case was rendered without subject matter jurisdiction. We first consider whether Aurora established its standing to foreclose, and if it did not, did Aurora’s lack of standing deprive the district court of subject matter jurisdiction.\n1. Aurora Lacked Standing to Foreclose\n{15} Whether a party has standing to bring a claim is a legal question we review de novo. Disabled Am. Veterans v. Lakeside Veterans Club, Inc., 2011-NMCA-099, ¶ 9, 150 N.M. 569, 263 P.3d 911. In order to establish standing to foreclose, plaintiffs must demonstrate that they had the right to enforce the note and the right to foreclose the mortgage at the time the foreclosure suit was filed. Bank of N.Y. v. Romero, 2014-NMSC-007, ¶ 17, 320 P.3d, 1. The right to enforce the mortgage arises from the right to enforce the note, so the determinative inquiry is whether the plaintiff has established that it had the right to enforce the note at the time it filed suit. Id. ¶ 35.\n{16} Under New Mexico’s Uniform Commercial Code (UCC), a promissory note is a negotiable instrument, NMSA 1978, § 55-3-104(a), (b), (e) (1992), which can be enforced by (1) the holder of the instrument; (2) a holder who does not possess the instrument and has the rights of a holder; or (3) a person who does not possess the instrument, but is entitled to enforce it pursuant to certain provisions of the UCC. NMSA 1978, § 55-3-301 (1992); Romero, 2014-NMSC-007, ¶ 20 (same). The holder of the instrument is “the person in possession of a negotiable instrument that is payable either to bearer or to an identified person that is the person in possession.” NMSA 1978, § 55-1-201(b)(21)(A) (2005); Romero, 2014-NMSC-007, ¶ 21 (same). “Accordingly, a third party must prove both physical possession and the right to enforcement through either a proper indorsement or a transfer by negotiation.” Romero, 2014-NMSC-007, ¶ 21.\n{17} In this case, the Hood note was payable to GreenPoint Funding, not Aurora. As a result, we must determine whether Aurora provided sufficient evidence of how it became a holder of the Hood note, either by indorsement or by a transfer. Id. In the Hood foreclosure, Aurora produced an unindorsed copy of the Hood note and a corporate assignment of mortgage assigning the Hood mortgage from MERS to Aurora. Neither the unindorsed note, nor the assignment of mortgage is sufficient to establish Aurora as the holder of the Hood note. See id. ¶¶ 23, 34-35 (statingthat“[p]ossession of an unindorsed note made payable to a third party does not establish the right of enforcement, just as finding a lost check made payable to a particular party does not allow the finder to cash it” and that a plaintiff who has not established the right to enforce the note cannot foreclose the mortgage, even if evidence shows that the mortgage was assigned to the plaintiff, there being no legal authority allowing the assignment of a mortgage to carry with it the transfer of a note).\n{18} In the subsequent quiet title action, Aurora introduced another copy of the Hood note that was indorsed in blank and attached to the affidavit of Alan Flanagan (Flanagan), an officer of Nationstar Mortgage, LLC (Nationstar). The affidavit stated that Nationstar was the successor in interest to Aurora, that Nationstar had custody and control of the business records concerning the Hood loan, and that according to those records Aurora maintained custody and possession of the Hood note from January 2009 through June 2012. Although this evidence creates a genuine issue of material fact, the undated indorsement is still insufficient to establish Aurora as the holder of the Hood note at the time its foreclosure against Hood was filed in March 2009.\n{19} The affidavit of Flanagan, states that the Hood note was transferred to Nationstar “in or about June 2012,” thirty-nine months after the foreclosure complaint was filed in March 2009. The affidavit does not state that Flanagan had personal knowledge that the Hood note was transferred to Aurora prior to the filing of the foreclosure complaint. See Rule 11 -602 NMRA (“A witness [or affiant] may testify to a matter only if evidence is introduced sufficient to support a finding that the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s own testimony.”). Flanagan’s only purported basis of knowledge regarding the transfer of the Hood note is his review of the “business records as they relate to the [l]oan.” However, no such business record itself was offered or admitted as a business records hearsay exception. See Rule 11-803(6) NMRA (naming this category of hearsay exceptions as “[r]ecords of a regularly conducted activity”); see also Romero, 2014-NMSC-007, ¶¶ 31-32 (holding that a witness’s testimony and a witness’s affidavit were insufficient to establish the transfer of the note because the witnesses lacked personal knowledge of the note’s transfer, and that a witness’s reliance on a review of the business records was also insufficient to establish the note’s transfer without a specific business record having been offered and admitted under the business records exception to the hearsay rule).\n{20} The copy of the Hood note attached to the affidavit of Flanagan, differed from the note produced in the original foreclosure; it included an extra page with a blank indorsement. A blank indorsement “does not identify a person to whom the instrument is payable but instead makes it payable to anyone who holds it as bearer paper.” Id. ¶ 24; see NMSA 1978, § 55-3-205(b) (1992) (“If an indorsement is made by the holder of an instrument and it is not a special indorsement, it is a blank indorsement.” (internal quotation marks omitted)). “When indorsed in blank, an instrument becomes payable to bearer and may be negotiated by transfer of possession alone until specially indorsed.” Section 55-3-205(b). In other words, the bearer of a note indorsed in blank is ordinarily the holder of that note. See § 55-3-104(a)(l), (b), (e) (defining “negotiable instrument” as including a “note” made “payable to bearer or to order” (internal quotation marks omitted)); Section 55-3-301 (defining “[p]erson entitled to enforce” a negotiable instrument); see also Romero, 2014-NMSC-007, ¶ 26 (“[The] blank indorsement . . . established the [b]ank as a holder because the [b]ank [was] in possession of bearer paper[.]”). However, where an indorsed note is not produced until after the plaintiff has filed for foreclosure and the indorsement is undated, the indorsement is insufficient to show that the plaintiff was the holder of that note at the time the foreclosure complaint was filed. Deutsche Bank Nat’l Trust Co. v. Beneficial N.M. Inc., 2014-NMCA-090, ¶ 13, 335 P.3d 217, cert. granted sub nom. Deutsche Bank v. Johnston, 2014-NMCERT-008, 334 P.3d 425. We conclude that Aurora did not present the necessary evidence to establish it had standing to enforce the Hood note at the time its complaint was filed in March 2009. To be clear, we are not deciding whether Aurora was the holder of the Hood note when it initiated foreclosure proceedings againstHood. The issue before us is whether Aurora presented evidence sufficient to establish that it was the holder of the note at the time the complaint for foreclosure was filed and we determine that it did not.\n2. Lack of Standing to Foreclose D eprived the D ¡strict C ourt of Subj ect-Matter Jurisdiction\n{21} Although foreclosure was historically considered an equitable remedy, in Romero, our Supreme Court also recognized it as a statutory cause of action under the provisions of the New Mexico UCC, making a lack of standing to foreclose on a note a jurisdictional defect.\nThe Bank of New York does not dispute that it was required to demonstrate under New Mexico’s Uniform Commercial Code (UCC) that it had standing to bring a foreclosure action at the time it filed suit. See ... § 55-3-301 ... (defining who is entitled to enforce a negotiable interest such as a note); see also ... § 55-3-104(a), (b), (e) . .. (identifying a promissory note as a negotiable instrument); ACLU of N.M. v. City of Albuquerque, 2008-NMSC-045, ¶ 9 n.1, 144 N.M. 471, 188 P.3d 1222 (recognizing standing as a jurisdictional prerequisite for a statutory cause of action)}.]\nRomero, 2014-NMSC-007, ¶ 17. In ACLU, the Court stated “[w]hen a statute creates a cause of action and designates who may sue, the issue of standing becomes interwoven with that of subject matter jurisdiction. Standing then becomes a jurisdictional prerequisite to an action.” 2008-NMSC-045, ¶ 9 n. 1 (internal quotation marks and citation omitted). Reading Romero and ACLU together, we conclude that Aurora lacked standing to foreclose, thereby, depriving the district court of subject matter jurisdiction in March 2009.\n{22} This is consistent with other New Mexico Supreme Court precedent. The Court addressed standing as a jurisdictional requirement in State ex rel. Overton v. New Mexico State Tax Commission, 1969-NMSC-140, 81 N.M. 28, 462 P.2d 613. In that case, the county assessor filed a declaratory judgment action against the state tax commission and the commissioners, questioning the constitutionality of the soldiers’ real and personal property exemption statute, and two veteran groups intervened. Id. ¶¶ 1, 5. In its answer, the tax commission argued that the assessor and the intervenors had no standing to sue and that their complaints presented no justiciable issue or controversy. Id. ¶ 6. “The [district] court concluded that it had jurisdiction and that an actual controversy existed.” Id. On appeal the parties did not raise the issues of standing or jurisdiction. Id. ¶ 8. Nonetheless, the Supreme Court raised the issue sua sponte, stating, “we cannot ignore jurisdictional questions.” Id.\n{23} The Court concluded that the county assessor would not be personally injured or jeopardized by the challenged statute, and the intervenors—members of an unincorporated association made up of veteran taxpayers—were not similarly situated so as to allow action by non-legal entity association. Id. ¶¶ 10-14, 19-20. The Court also concluded that the assessor and intervenors did not have standing to bring the action and as a result, the district court lacked subject matter jurisdiction to decide the case. Id. ¶¶ 19-20. The Court explained that subject matter jurisdiction could not be conferred by consent of the parties and could not be waived. Id. ¶ 8. The Court further stated “[the absence of] jurisdiction over the parties or . . . the power or authority to decide the particular matter presented,... is ... fatal to the judgment.” Id. The case was remanded for dismissal of the action. Id. ¶ 20.\n{24} In the context of foreclosure, other jurisdictions have held that lack of standing creates a jurisdictional defect with respect to the district court’s authority to hear the particular case, not with respect to general subject matter jurisdiction, and that judgments rendered by a court lacking authority to hear the case are voidable, rather than null and void. See Nationstar Mortg., LLC v. Canale, 10 N.E.3d 229, ¶ 17 (“[A] plaintiffs standing, though an element of justiciability, is not an element of the district court’s subject-matter jurisdiction. Again, the latter requires only a justiciable matter, which a foreclosure clearly is.” (internal quotation marks and citation omitted)); see also Bank of Am., N.A. v. Kuchta, 21 N.E.3d 1040, ¶ 22 (“Standing is certainly a jurisdictional requirement; a party’s lack of standing vitiates the party’s ability to invoke the jurisdiction of a court—even a court of competent subject-matter jurisdiction—over the party’s attempted action. But an inquiry into a party’s ability to invoke a court’s jurisdiction speaks to jurisdiction over a particular case, not subject-matter jurisdiction.” (emphasis added) (citations omitted)); Southwick v. Planning Bd. of Plymouth, 891 N.E.2d 239, 268 (Mass. Ct. App. 2008) (“[Sjtanding is an issue of subject matter jurisdiction only in the sense that it is a criterion that must be met in order for the court to exercise jurisdiction, when the court otherwise is competent to decide the case. [A] subsequent showing that the plaintiff did not, in fact, have standing does not mean that the judgment is void and must be vacated; the judgment is immune from postjudgment attack unless the court’s exercise of jurisdiction constituted a clear usurpation of power.” (internal quotation marks and citations omitted)).\n{25} This approach may be untenable under New Mexico law. Concerning the distinction between subjectmatter jurisdiction and a court’s power or authority to decide a particular case, our Supreme Court has stated:\nDespite the well-settled character of the statement just quoted from Heckathorn and Field’s Estate, it is not easy to discern the difference between lack of subject-matter jurisdiction and lack of power or authority to decide the particular matter presented. The difference, if any, is not recognized in our Rules of Civil Procedure for the District Courts, which refer only to jurisdiction over the subject matter of the action and we know of no case in which this difference has been explained. Possibly it relates to Article VI, Section 13, of our Constitution, which confers upon the district court original jurisdiction in all matters and causes not excepted in this constitution, and also grants such jurisdiction of special cases and proceedings as may be conferred by law. Jurisdiction over the subject matter is commonly treated as a unitary topic, and at this stage in the development of the law one may doubt that the distinction serves any useful purpose.\nSundance Mech. & Util. Corp. v. Atlas, 1990-NMSC-031, ¶ 13, 109 N.M. 683, 789 P.2d 1250 (internal quotation marks and citations omitted).\n{26} The present case calls into question whether there is a meaningful distinction between subject-matter jurisdiction and power or authority to decide the particular issue. However, the question has not been resolved. See Armstrong v. Csurilla, 1991-NMSC-081, ¶ 12, 112 N.M. 579, 817 P.2d 1221 (“We recently considered the topic of subject-matter jurisdiction in Sundance Mechanical & Utility Corp. .. . There we took note of our previous statement in, inter alia, Heckathorn, . . . that there are three aspects to jurisdiction: jurisdiction of the parties, jurisdiction of the subject matter, and power or authority to decide the particular matter presented. The plurality opinion questioned whether there is now any utility to the distinction between the second aspect, subject-matter jurisdiction, and the third, power or authority to decide the particular issue. But we did not resolve this question then and do not resolve it now.” (internal quotation marks and citations omitted)).\n{27} Moreover, our Supreme Court has held that a judgment rendered by a court lacking authority to decide a particular case is void, not voidable. See Heckathorn, 1967-NMSC-017, ¶¶ 10-11. In that case,the Court considered a challenge to the validity of a divorce decree. Id. ¶ 1. The Court recognized the “three jurisdictional essentials necessary to the validity of every judgment: jurisdiction of parties, jurisdiction of subject matter and power or authority to decide the particular matter presented” and identified the issue in that case as one involving the third jurisdictional element; the district court’s “power or authority to grant the divorce.” Id. ¶ 10. Determining that the district court lacked the authority to grant the divorce because the wife had not been a resident of the state for the statutorily mandated period, the Court concluded that the divorce decree was null and void. Id. ¶ 11. Though there may not be a meaningful distinction between subject-matter jurisdiction and the authority to decide a particular case, Heckathorn suggests that the distinction may not be material for the purpose of determining a judgment’s validity; where a court is lacking either, the resulting judgment is null and void.\n{28} We conclude that the original foreclosure judgmentwas subject to collateral attack by Phoenix, as Hood’s successor in interest; that Aurora lacked standing to bring the original foreclosure action against Hood thus, depriving the district court of subject matter jurisdiction; and as a result the judgment is void.\nE. Res Judicata Does Not Bar Phoenix’s Claims\n{29} Phoenix argues that the district court erred in determining that its claims were barred by res judicata. “Res judicata is designed to relieve parties of the cost and vexation of multiple lawsuits, conserve judicial resources, . . . prevent inconsistent decisions, and encourage reliance on adjudication.” Computer One, Inc. v. Grisham & Lawless P.A., 2008-NMSC-038, ¶ 31, 144 N.M. 424, 188 P.3d 1175 (alterations, internal quotation marks, and citation omitted). The “party asserting res judicata or claim preclusion must establish that (1) there was a final judgment in an earlier action, (2) the earlier judgment was on the merits, (3) the parties in the two suits are the same, and (4) the cause of action is the same in both suits.” Potter v. Pierce, 2015-NMSC-002, ¶ 10, 342 P.3d 54.\n{30} In this case, the judgment in the Hood action on which the district court based its res judicata determination is void. A void judgment has no conclusive effect either as res judicata or as an estoppel, because the proceeding that culminated in the void judgment was itself without integrity. See Matsu v. Chavez, 1981-NMSC-113, ¶¶ 8, 9, 96 N.M. 775, 635 P.2d 584 (stating that a void judgment “has no legal effect[,]” and that a void judgment cannot serve as the basis of claim preclusion or collateral estoppel). Accordingly, the district court’s grant of summary judgment on the basis of res judicata cannot stand.\nF. Unintended Consequences of Romero\n{31} This case presents a unique scenario: Two years after the default foreclosure judgment was entered and the foreclosure sale was held, a third party—Phoenix—obtained an interest in the foreclosed property from Hutchins, its sole member and the defaulting borrower for “valuable consideration,” and sought to invalidate the original foreclosure judgment based on the original plaintiffs lack of standing. Our decision here turns on standing and jurisdiction with respect to foreclosure actions as clarified by our Supreme Court recently in Romero. See 2014-NMSC-007, ¶¶ 15, 17-38. We are not convinced that the Supreme Court contemplated Romero being applied in circumstances such as those before us here. However, our decision here is based on Romero and other binding precedent. See Trujillo v. City of Albuquerque, 1998-NMSC-031, ¶ 33, 125 N.M. 721, 965 P.2d 305 (“Stare decisis is the judicial obligation to follow precedent, and it lies at the very core of the judicial process of interpreting and announcing law.”). Whether or not this result was contemplated in the deciding of Romero, it must be expressed by the Supreme Court.\nG.Phoenix’s Fraud Claims\n{32} Phoenix claims that the original foreclosure judgment is void as a result of fraud relating to the assignment of mortgage. Although Phoenix did not challenge the original judgment under Rule 1-060(B)(6), it now characterizes its fraud claims as part of an “independent action” under Rule 1-060, contending that the district court was entitled, in its discretion, to allow Phoenix to argue fraud “under the umbrella of [its] pending independent action for relief.”\n{33} These arguments raise important questions about the bases and procedures for obtaining relief from judgments. A collateral attack, as defined by our Supreme Court, “is an attempt to impeach the judgment by matters dehors the record, in an action other than that in which it was rendered; an attempt to avoid, defeat, or evade it, or deny its force and effect, in some incidental proceeding not provided by law for the express purpose of attacking it[.]” Barela, 1966-NMSC-163, ¶ 5 (emphasis added) (internal quotation marks and citation omitted). “In other words, if the action or proceeding has an independent purpose and contemplates some other relief or result, although the overturning of the judgment may be important or even necessary to its success, then the attack upon the judgment is collateral.” Id. (internal quotation marks and citation omitted).\n{34} In Barela, the Court held that a motion to vacate a judgment was a direct attack rather than a collateral attack, in part because the motion was authorized by Rule 1 - 060. This holding suggests that the remedies provided for by Rule 1-060 are considered as being “provided by law” for the purpose of distinguishing between direct and collateral attacks. Barela, 1966-NMSC-163, ¶¶ 5-6. In Apodaca v. Town of Tome Land Grant, plaintiffs sought equitable relief from a judgment as part of a subsequent action. 1971-NMSC-084, ¶ 2, 83 N.M. 55, 488 P.2d 105. With regard to characterizing direct and collateral attacks, the Court noted that “[t]he case law on this point as announced by this court does not appear to be entirely consistent in all respects[,]” but concluded that its recent cases, including Barela, suggested that “the present suit would fall within the definition of a collateral attack.” Apodaca, 1971-NMSC-084, ¶ 5.\n{35} Then, in Chavez, the Court stated that “[a]n attack on subject matter jurisdiction may be made ... by a collateral attack in the same or other proceedings long after the judgment has been entered},]” and cited Rule 1-060, inter alia, implying that collateral attacks were among the remedies authorized by Rule 1-060, not a distinct remedy. Chavez, 1974-NMSC-035, ¶ 15. Relying on Chavez, this Court characterized a challenge brought as an independent action under Rule 1-060 as a collateral attack, and stated that, a “[cjollateral attack might be effectuated under Rule [1-060(B)(4)].” Hort v. Gen. Elec. Co., 1978-NMCA-125, ¶ 5, 92 N.M. 359, 588 P.2d 560.\n{36} With respect to granting relief from judgments, the Restatement offers some guidance. New Mexico decisions have not adopted every principle set forth in the most recent version of the Restatement, however, our precedent is consistent with the Restatement in many aspects and we continue to look to the Restatement for guidance regarding relief from judgments. See Alvarez v. Cnty. of Bernalillo, 1993-NMCA-034, ¶ 6, 115 N.M. 328, 850 P.2d 1031 (stating that “[although the Restatement},] in the interest of clarity},] avoids the terms void and voidable, it is persuasive authority in determining when a judgment is void under Rule [1-060(B)(4)]” (internal quotation marks and citation omitted)).\n{37} The Restatement of Judgments recognizes that the traditional distinction between direct and collateral attacks on a judgment, which was used in the older remedial doctrine concerning relief from judgments, is no longer clear or useful in light of the evolution of merged procedure and the Rule 1-060(B) type of motion. Restatement (Second) of Judgments ch. 5, intro, note, at 138-39 (1982).\n{38} The distinction between direct and collateral attacks can be based on whether the attack is made by motion or made in a subsequent action. Id. The distinction can also be based on whether nullification of the judgment is the primary or secondary object of the action, or is merely incidental. The Restatement also notes that the distinction between direct and collateral attacks is used in various contexts and for various purposes. Id. In some cases, the distinction is used to identify the persons who may challenge the judgment, in other cases it is used to identify the proper form for a challenge, and the distinction can even be used to determine whether evidence beyond the record can be received in support of the challenge. According to the Restatement, “[djistinctions between direct and collateral attacks made in one context for one of these purposes are often carried over into another context in which the problem at hand is a different one.” Id. at 142 This “compound[s] the ambiguities inherent in the basic distinction and can result in further confusion of the issue[.]” Id.\n{39} The Restatement notes that the traditional classification of judgments as void or voidable also creates confusion because the terms are used with different connotations. Id. at 144. For example, a void judgment is often considered to be a judgment rendered by a court lacking either personal or subject-matter jurisdiction, but can also refer to a judgment procured by fraud of some kind. Id. A voidable judgment is often considered to be a judgment based on mistake, but the judgment is also based on fraud. Id. And, even though judgments rendered in the absence of jurisdiction are typically considered void and without legal effect, some courts have given such judgments legal effect nonetheless, further muddying the distinction. Id.\n{40} For these reasons, the current edition of the Restatement suggests that the distinctions between void and voidable judgments, and direct or collateral attacks are untenable under modern decisional law. Id. at 142-43, 144. Instead, the Restatement identifies three distincttypes ofprocedures for setting aside judgments. Id. at 140. The first is a motion for relief from a judgment under Rule 60(b) of the Federal Rules of Civil Procedure, or the comparable provisions in state procedural systems. Restatement (Second) of Judgments ch. 5, intro, note b, at 140. The motion “is part or a continuation of the original action, [and] it ordinarily must be made in the court in which the judgment was rendered.” Id. The second procedure is an independent action and is also provided for by Rule 60(b). Restatement (Second) of Judgments ch. 5, intro, note b, at 140. The independent action is a challenge to the judgment through an action against the other party to the original action and is similar to the old suit in equity. Id.\n{41} The third mode of relief is described as “relief in the course of another action, because the question of the judgment’s effect arises as an incident to a subsequent action.” Id. at 140-41. This mode of relief is defensive and does not stem from Rule 60, but from common law defenses to actions brought upon money judgments. Restatement (Second) of Judgments § 80 cmt. a, at 248. In modern procedural systems this mode of relief is usually employed when the party in whose favor the judgment was entered, relies on the judgment for some sort of additional relief. Restatement (Second) of Judgments ch. 5, intro, note b, at 140-41. For example, where a party defends a quiet title action by relying on a prior judgment in its favor, the opposing party may seek to invalidate the earlier judgment. Restatement (Second) of Judgments § 80 cmt. d, at 246-47.\n{42} The Restatement further suggests that in determining whether relief should be granted from any judgment, an analysis of three essential questions is appropriate:\nFirst, does the person seeking relief have standing to obtain relief from the judgment in question on the ground upon which he relies? Second, is the forum in which relief is sought the appropriate one for considering the particular attack? Third, may evidence be offered in support of the attack when it contradicts the face of the record?\nRestatement (Second) of Judgments ch. 5 intro, note b, at 142-43 (internal quotation marks omitted).\n{43} With regard to standing, the Restatement provides that “[rjelief from a judgment may be sought by or on behalf of a person only if the judgment is or purports to be binding on him under the rules of res judicata, or if he has an interest affected by the judgment[.]” Restatement (Second) of Judgments § 64, at 145. Where a person has standing to attack a judgment, “the question is whether he may pursue relief in the course of the subsequent action rather than being obliged to seek relief by means of other remedies, including [a motion in the original action or an independent action].” Restatement (Second) of Judgments § 80 cmt. a, at 244-45. The question of whether relief was sought in the proper forum requires consideration of the “adequacy of relief obtainable by other remedies and the relation between the ground upon which relief is sought and the forum in which it should be pursued.” Id. at 245. Where “the question concerns the subject[-]matter jurisdiction of the rendering court,” relief may be sought in a subsequent action or a different court. Id. cmt. d, at 246-47.\n{44} Our holding in the present case that the original foreclosure judgment is void for lack of jurisdiction is determinative, and accordingly, we do not address Phoenix’s fraud claims, nor do we decide whether a collateral attack on a judgment as defined by our Supreme Court encompasses the remedy of a Rule 1-060 independent action. We leave to our Supreme Court the task of resolving the tension, if any, between Barela, Chavez, and Hort. See State ex rel. Martinez v. City of Las Vegas, 2004-NMSC-009, ¶ 22, 135 N.M. 375, 89 P.3d 47 (“[W]hile the Court of Appeals is bound by Supreme Court precedent, the Court is invited to explain any reservations it might harbor over its application of our precedent so that we will be in a more informed position to decide whether to reassess prior case law[.]”).\nCONCLUSION\n{45} For the foregoing reasons, we reverse and remand to the district court for further proceedings consistent with this Opinion.\n{46} IT IS SO ORDERED.\nM. MONICA ZAMORA, Judge\nWE CONCUR:\nRODERICK T. KENNEDY, Judge\nTIMOTHY L. GARCIA, Judge",
+        "type": "majority",
+        "author": "ZAMORA, Judge."
+      }
+    ],
+    "attorneys": [
+      "William F. Davis & Associates, P.C. William F. Davis Nephi D. Hardman Albuquerque, NM for Appellant",
+      "Cavin & Ingram, P.A. Stephen D. Ingram Albuquerque, NM for Appellees"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Granted, January 19, 2016,\nNo. S-1-SC-35512\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-010\nFiling Date: August 24, 2015\nDocket No. 33,211\nPHOENIX FUNDING, LLC, Plaintiff-Appellant, v. AURORA LOAN SERVICES, LLC, and MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., Defendants-Appellees.\nWilliam F. Davis & Associates, P.C. William F. Davis Nephi D. Hardman Albuquerque, NM for Appellant\nCavin & Ingram, P.A. Stephen D. Ingram Albuquerque, NM for Appellees"
+  },
+  "file_name": "1647-01",
+  "first_page_order": 245,
+  "last_page_order": 258
+}

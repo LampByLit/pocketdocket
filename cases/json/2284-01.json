@@ -1,0 +1,109 @@
+{
+  "id": 6787584,
+  "name": "In the Matter of New York City Civilian Complaint Review Board, Petitioner, v. Office of the Comptroller of the City of New York, Respondent",
+  "name_abbreviation": "New York City Civilian Complaint Review Board v. Office of Comptroller",
+  "decision_date": "2016-03-24",
+  "docket_number": "",
+  "first_page": "226",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 226"
+    },
+    {
+      "type": "parallel",
+      "cite": "33 N.Y.S.3d 675"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "329 US 495",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158152
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/329/0495-01"
+      ]
+    },
+    {
+      "cite": "74 AD3d 6",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5752597
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/0006-01"
+      ]
+    },
+    {
+      "cite": "35 NY2d 113",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2314462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/35/0113-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 300,
+    "char_count": 4358,
+    "ocr_confidence": 0.724,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1824608307279691
+    },
+    "sha256": "498b0e8c8f83379b55e34c09c383ca78fcc7e708e087daf0e872eb96a2618e0e",
+    "simhash": "1:87804f5c34a1bb24",
+    "word_count": 696
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of New York City Civilian Complaint Review Board, Petitioner, v Office of the Comptroller of the City of New York, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames E. d Auguste, J.\nThis special proceeding was brought pursuant to CPLR 2308 (b), General Municipal Law § 50-h (3), and Judiciary Law § 2-b (3). Petitioner New York City Civilian Complaint Review Board (CCRB) seeks an order compelling respondent Office of the Comptroller of the City of New York (Comptroller) to produce a General Municipal Law § 50-h hearing transcript and other documents relating to the settlement of a wrongful death claim for use in its ongoing investigation of potential misconduct by members of the New York Police Department.\nIn this proceeding, the CCRB is primarily seeking to enforce a subpoena duces tecum that it served on the Comptroller. The CCRB cannot, under the applicable statutory scheme, subpoena the transcripts of hearings conducted pursuant to General Municipal Law § 50-h. The statute states, in relevant part, that “[t]he transcript of the record of an examination shall not be subject to or available for public inspection, except upon court order upon good cause shown, but shall be furnished to the claimant or his attorney upon request.” (General Municipal Law § 50-h [3].) The context of the statutory language provides that a court order is required, upon good cause shown, to obtain a General Municipal Law § 50-h hearing transcript outside of the claim adjustment process. While the transcripts cannot be subpoenaed, they can be produced in this proceeding because good cause has been established for their production. A good faith investigation of alleged police misconduct constitutes a prima facie showing of the good cause required to obtain a court order seeking relevant portions of a General Municipal Law § 50-h hearing transcript. Therefore, the court will conduct an in camera review of the two General Municipal Law § 50-h hearing transcripts that the Comptroller submitted to the undersigned after oral argument.\nThe CCRB is not entitled to obtain access to the Comptroller’s internal documents that were used to settle the subject wrongful death claim. While there is little direct legal guidance on this exact subject, the court finds that the Comptroller’s investigative files are privileged pursuant to several different legal doctrines. First, the Comptroller’s internal claim adjudication files are subject to the intra-agency and interagency privileges. (See Cirale v 80 Pine St. Corp., 35 NY2d 113 [1974], superseded by statutory amendment CPLR 3101 [a] [4], as recognized by Kooper v Kooper, 74 AD3d 6 [2d Dept 2010].) Second, the Comptroller’s internal claim adjustment files are also protected by the attorney-client privilege and the attorney work-product doctrine. (Cf. Hickman v Taylor, 329 US 495 [1947].) Thus, for instance, legal provisions that would otherwise provide the public with access to government records exempt from production the very type of documents sought by the CCRB. (NY City Charter § 1058 [“The provisions of this section (requiring disclosure) shall not apply to any papers prepared by or for the comptroller for use in any proceeding to adjust or pay a claim against the city or any agency, or by or for counsel for use in actions or proceedings to which the city or any agency is a party, or for use in any investigation authorized by this charter”]; id. § 1059 [same].)\nAccordingly, the CCRB’s application is granted to the extent that this court will conduct an in camera review of the two General Municipal Law § 50-h hearing transcripts submitted by the Comptroller, and is otherwise denied.\n. While the underlying alleged wrongful death took place on July 17, 2014, the CCRB commendably honored prosecutorial agency requests to refrain from interfering with other pending investigations.\n. The court finds it unnecessary to reach the Comptroller’s argument that the subpoena is defective because it was not issued pursuant to a specific majority vote of the CCRB’s members.",
+        "type": "majority",
+        "author": "James E. d Auguste, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Brian Krist, Assistant Deputy Director of Investigations, Civilian Complaint Review Board, New York City, for petitioner.",
+      "Zachary W. Carter, Corporation Counsel, New York City ('Thomas B. Roberts of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[33 NYS3d 675]\nIn the Matter of New York City Civilian Complaint Review Board, Petitioner, v Office of the Comptroller of the City of New York, Respondent.\nSupreme Court, New York County,\nMarch 24, 2016\nAPPEARANCES OF COUNSEL\nBrian Krist, Assistant Deputy Director of Investigations, Civilian Complaint Review Board, New York City, for petitioner.\nZachary W. Carter, Corporation Counsel, New York City ('Thomas B. Roberts of counsel), for respondent."
+  },
+  "file_name": "2284-01",
+  "first_page_order": 218,
+  "last_page_order": 220
+}

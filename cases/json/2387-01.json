@@ -1,0 +1,878 @@
+{
+  "id": 12170229,
+  "name": "The People of the State of New York, Respondent, v. John Westwood, Appellant",
+  "name_abbreviation": "People v. Westwood",
+  "decision_date": "2016-09-20",
+  "docket_number": "",
+  "first_page": "74",
+  "last_page": "84",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 74"
+    },
+    {
+      "type": "parallel",
+      "cite": "41 N.Y.S.3d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "7 AD3d 542",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        553781,
+        554277
+      ],
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/7/0542-01",
+        "/ad3d/7/0542-02"
+      ]
+    },
+    {
+      "cite": "97 AD3d 702",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3473610
+      ],
+      "pin_cites": [
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0702-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 803",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4094121
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0803-01"
+      ]
+    },
+    {
+      "cite": "38 AD3d 563",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3893489
+      ],
+      "pin_cites": [
+        {
+          "page": "563"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/38/0563-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 885",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4420592
+      ],
+      "pin_cites": [
+        {
+          "page": "886"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0885-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 838",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188637,
+        188567
+      ],
+      "pin_cites": [
+        {
+          "page": "839-840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0838-02",
+        "/ny-2d/93/0838-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 NY3d 143",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984050
+      ],
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0143-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 1366",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3727598
+      ],
+      "pin_cites": [
+        {
+          "page": "1367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/1366-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 1",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4067613
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0001-01"
+      ]
+    },
+    {
+      "cite": "47 Misc 3d 92",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4153512
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/47/0092-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 52158",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Misc 3d 1217",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Misc 2d 117",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1897114
+      ],
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/88/0117-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 50082",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Misc 3d 134",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 AD3d 1574",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4240286
+      ],
+      "pin_cites": [
+        {
+          "page": "1575-1576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/1574-01"
+      ]
+    },
+    {
+      "cite": "161 Misc 2d 170",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        923855
+      ],
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/161/0170-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 412",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579646
+      ],
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0412-01"
+      ]
+    },
+    {
+      "cite": "162 AD2d 385",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1000484
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/162/0385-01"
+      ]
+    },
+    {
+      "cite": "304 AD2d 674",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        329227,
+        329055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/304/0674-01",
+        "/ad2d/304/0674-02"
+      ]
+    },
+    {
+      "cite": "13 NY3d 17",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3739369
+      ],
+      "pin_cites": [
+        {
+          "page": "31-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/13/0017-01"
+      ]
+    },
+    {
+      "cite": "173 AD2d 395",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1041324
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/173/0395-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 635",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4063677
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "636"
+        },
+        {
+          "page": "636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0635-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 203",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4051251
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "207"
+        },
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/0203-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 52059",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Misc 3d 143",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "362-363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 114",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579581
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0114-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50499",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Misc 3d 136",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "pin_cites": [
+        {
+          "page": "136-137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725125
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "679"
+        },
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0677-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "pin_cites": [
+        {
+          "page": "228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 738",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5717818
+      ],
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0738-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 518",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4228009
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "522"
+        },
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0518-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 98",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331592
+      ],
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0098-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 100",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3741866
+      ],
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0100-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 645",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4118039
+      ],
+      "pin_cites": [
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0645-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1226",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4163550
+      ],
+      "pin_cites": [
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/1226-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 455",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226811
+      ],
+      "pin_cites": [
+        {
+          "page": "467-468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0455-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 50967",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 1
+    },
+    {
+      "cite": "44 Misc 3d 127",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "185 Misc 2d 186",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1140348
+      ],
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc2d/185/0186-01"
+      ]
+    },
+    {
+      "cite": "47 Misc 3d 92",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4153512
+      ],
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc3d/47/0092-01"
+      ]
+    },
+    {
+      "cite": "88 Misc 2d 117",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1897114
+      ],
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc2d/88/0117-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 50082",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 1
+    },
+    {
+      "cite": "30 Misc 3d 134",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 AD3d 1574",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4240286
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1575-1576"
+        },
+        {
+          "page": "1576"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/120/1574-01"
+      ]
+    },
+    {
+      "cite": "161 Misc 2d 170",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        923855
+      ],
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc2d/161/0170-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 412",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579646
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "426"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/100/0412-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 203",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4051251
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/93/0203-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 1226",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4163550
+      ],
+      "pin_cites": [
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/127/1226-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 455",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226811
+      ],
+      "pin_cites": [
+        {
+          "page": "466-467"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny3d/23/0455-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 927,
+    "char_count": 20836,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 2.0446031217563963e-7,
+      "percentile": 0.7541026523167953
+    },
+    "sha256": "1853582a8ee273229f19b53ea8ee471e6db7a7c8a9a0588f446248f1ece6723d",
+    "simhash": "1:a680d365abcac436",
+    "word_count": 3446
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Pesce, P.J., and Aliotta, J., concur; Weston, J., dissents part and concurs in part in a separate memorandum."
+    ],
+    "parties": [
+      "The People of the State of New York, Respondent, v John Westwood, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the judgment of conviction is modified, on the law, by vacating the conviction of aggravated harassment in the second degree and dismissing the count of the accusatory-instrument charging that offense; as so modified, the judgment of conviction is affirmed.\nThe People charged defendant, in an information, with criminal trespass in the second degree (Penal Law § 140.15), two counts of aggravated harassment in the second degree (Penal Law § 240.30 [1] [a], [b]), stalking in the fourth degree (Penal Law § 120.45 [1]), and harassment in the second degree (Penal Law § 240.26 [3]).\nDefendant repeatedly moved to dismiss the accusatory instrument, arguing that all of the counts were jurisdictionally infirm owing to the lack of sufficient factual averments to establish the offenses and, additionally, that the aggravated harassment in the second degree statute was unconstitutionally vague and overbroad. The Criminal Court (Lenora Gerald, J.) denied the motions to dismiss, and, in the last of the orders, enjoined the defense “from making any further applications to the court on the issue of facial sufficiency or pursuant to CPL 170.30 and CPL 170.35.”\nAt a jury trial, after the court dismissed the first count of aggravated harassment in the second degree and denied defendant’s motion for a mistrial on the basis of prosecutorial misconduct on summation, the jury convicted defendant of the four remaining counts of the accusatory instrument. At sentencing, the court denied defendant’s motion, pursuant to CPL 330.30, to set aside the verdict on the ground that the order of Judge Gerald had prevented him from moving to dismiss the accusatory instrument on statutory speedy trial grounds (see CPL 30.30), thereby violating his right to due process.\nAs the People concede, Penal Law § 240.30 (1) has been declared unconstitutional (see People v Golb, 23 NY3d 455, 467-468 [2014]), a determination that is given retroactive effect (People v Cesaire, 127 AD3d 1226, 1226 [2015]) where, as here, the constitutional claim has been properly preserved (e.g. People v Scott, 126 AD3d 645, 646 [2015]). Consequently, the conviction of aggravated harassment in the second degree is vacated and the count of the accusatory instrument charging that offense is dismissed.\nThe count of the accusatory instrument alleging criminal trespass in the second degree was facially sufficient. “ A valid and sufficient accusatory instrument is a nonwaivable jurisdictional prerequisite to a criminal prosecution’ ” (People v Dreyden, 15 NY3d 100, 103 [2010], quoting People v Case, 42 NY2d 98, 99 [1977]). As the record does not reveal that defendant waived prosecution by information (People v Dumay, 23 NY3d 518, 522 [2014]), the sufficiency of the accusatory instrument must be evaluated under the standards that apply to an information (see CPL 100.40 [1] [c]; People v Jackson, 18 NY3d 738, 741 [2012]; see also People v Kalin, 12 NY3d 225, 228 [2009]). The purpose of an information is to “ensure [ ] that a legally sufficient case can be made against the defendant” (Dumay, 23 NY3d at 522), and an information is sufficient on its face if it contains nonhearsay factual allegations of an evidentiary nature which establish, if true, every element of the offenses charged and the defendant’s commission thereof (see CPL 100.15 [3]; 100.40 [1]; People v Henderson, 92 NY2d 677, 679 [1999]; People v Alejandro, 70 NY2d 133, 136-137 [1987]; People v Hargrove, 47 Misc 3d 136[A], 2015 NY Slip Op 50499[U] [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2015]). By failing to raise a purported hearsay defect in the accusatory instrument at the trial level, defendant has waived any claim based on hearsay defects in the accusatory instrument (People v Keizer, 100 NY2d 114, 121 [2003]; People v Casey, 95 NY2d 354, 362-363 [2000]; People v Glover, 41 Misc 3d 143[A], 2013 NY Slip Op 52059 [U], *1 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2013]).\nThe facts alleged in support of the charge of criminal trespass in the second degree provide reasonable cause to believe that defendant “knowingly enter [ed] or remain [ed] unlawfully in a dwelling” (Penal Law § 140.15 [1]). The accusatory instrument stated that a surveillance video in the complainant’s building, at the time and location alleged for the commission of the offense, recorded\n“the defendant waiting] at the entrance of the above location carrying a plastic bag until someone entered the building . . . [and] that . . . the defendant follow [ed] someone into said building and then walk[ed] up the stairs to the complainant’s floor. . . . [T]he complainant [who] is the legal custodian of the above location, [stated] that there is a door buzzer system which regulates who enters the . . . location, that the defendant is not a resident of the . . . location and that he does not have permission or authority to enter or remain in said premises.”\n“[Circumstantial evidence [may] establish the lack of license or privilege” in criminal trespass prosecutions (Matter of Lonique M., 93 AD3d 203, 207 [2012]; see also People v Jackson, 118 AD3d 635, 636 [2014]; People v Quinones, 173 AD2d 395, 396 [1991]), on the basis of which it has been held, “as a matter of common sense and reasonable pleading,” in a case involving the absence of permission or a privilege to remain in a public park after closing, that it is unnecessary to “plead and prove that no police officer or Parks Department employee had authorized defendant to ignore a posted closing time” (People v Davis, 13 NY3d 17, 31-32 [2009]). In Davis, the Court of Appeals went on to state:\n“Such information is uniquely within a defendant’s knowledge, and to require the People to plead and negate the existence of the relevant permission would require them to go to intolerable lengths, including innumerable interviews of officers and employees in the area during the date in question. . . . These efforts would serve no useful purpose of narrowing issues or giving notice, but would merely give rise to technicalities that could be used belatedly to stifle an otherwise viable prosecution” (id. at 32 [internal quotation marks, brackets and citations omitted]).\nThis rule of pleading has been applied to a charge of criminal trespass in the second degree in an apartment building, where it was held that the People were “not required to negate the possibility that one of the numerous residents of the building invited defendant to enter” (Jackson, 118 AD3d at 636; see also Matter of Lonique M., 93 AD3d at 207). Defendant, who, the complainant alleged, did not reside in the building, gained entry not by being “buzzed in” by a resident or another person authorized to do so, but by waiting for someone to enter and following that person into the building. A common area of an apartment building which is separated from the outside by a locked door and buzzer system is a part of a “dwelling” as defined in Penal Law § 140.00 (3) (see e.g. People v Maisonet, 304 AD2d 674 [2003]; People v Torres, 162 AD2d 385 [1990]). Since the sufficiency of an.information is measured by reasonable cause (see CPL 100.40 [1] [b]), not the much more demanding standard of proof beyond a reasonable doubt required at trial (see Henderson, 92 NY2d at 680), the allegations of the nature of defendant’s entry into the premises, along with the conduct exhibited following the entry, satisfy the pleading requirements of an information charging criminal trespass in the second degree.\nThe facts alleged in support of the charge of stalking in the fourth degree are also legally sufficient in that they establish the elements that defendant “engage [d] in a course of conduct . . . and [knew] or reasonably should [have] know[n] that such conduct . . . [was] likely to cause reasonable fear of material harm to the physical health, safety or property” of the complainant (Penal Law § 120.45 [1]). The Court of Appeals has held that there is no need for proof that the accused intended “a specific result, such as fear or harm” (People v Stuart, 100 NY2d 412, 426 [2003]), or of the “subjective fear or sensibilities of the alleged victim” (id. at 428). It is an element of the offense that the defendant intentionally engaged in a “course of conduct,” which, while not defined in the Penal Law, has been construed to mean “a pattern of conduct composed of a series of acts over a period of time . . . evidencing a continuity of purpose” (People v Payton, 161 Misc 2d 170, 174 [Crim Ct, Kings County 1994], quoted with approval in People v Ubbink, 120 AD3d 1574, 1575-1576 [2014]). Further, the facts of the conduct must be viewed as a whole and not evaluated as a separate act in each occurrence (People v Brandel, 30 Misc 3d 134[A], 2011 NY Slip Op 50082[U], *2 [App Term, 2d Dept, 9th & 10th Jud Dists 2011]; People v Tralli, 88 Misc 2d 117, 118 [App Term, 2d Dept, 9th & 10th Jud Dists 1976]; People v Each, 25 Misc 3d 1217[A], 2009 NY Slip Op 52158[U], *5 [Nassau Dist Ct 2009]). In the stalking context, “continuity of purpose” is not the intent to cause a particular fear of harm but to commit acts which create a reasonable likelihood of fear of harm. We find that the following facts sufficed to allege the offense.\nThe information set forth that, on December 24, 2008, defendant, a stranger to the female complainant, mailed her a Christmas card providing his name and telephone number and inviting her to call him. “[A] few months later,” defendant deposited in her mailbox a second letter, in handwriting identical to the previous communication, which included his name and telephone number, an inquiry as to whether she had received his previous note, and, again, an invitation to call him. “A few months later,” the complainant discovered taped to the door of the apartment that she occupied with her parents, a third letter which, while signed with a different name, was in the same handwriting as the prior communications, provided the same telephone number as in the previous notes, and invited the victim to call him after 11:00 p.m. On November 17, 2010, the complainant’s mother discovered a plastic bag addressed to the complainant taped to the apartment door. The bag contained a business card on which was written, in the same handwriting as in the prior communications, defendant’s name, telephone number, and an invitation, employing explicit language, to engage in sexual conduct. Entry to the complainant’s apartment is regulated by a door buzzer system. In a surveillance videotape, defendant was seen waiting at the entrance to the complainant’s apartment building at about 5:25 p.m. on that date, holding a plastic bag, until another person entered the building, whereupon defendant followed that other person inside the building and walked up the stairs to the complainant’s floor. When defendant departed the premises, he no longer held the plastic bag. Defendant was not a resident of the building, and the complainant stated that defendant had no permission or authority to enter or remain on the premises. The inescapable conclusion is that the four incidents, from a mailed card to an explicit invitation to engage in sexual conduct placed at the door to the complainant’s apartment, represented a series of intentional acts united in a continuity of purpose that established a course of conduct directed at the complainant with no legitimate purpose.\nThe final element of this crime is that the defendant knew or reasonably should have known that his conduct was likely to cause reasonable fear of material harm to the victim’s physical health or safety. From the language of the statute, it may be concluded that the instrument need not assert a specific intent to harm. Thus, even if the accusatory instrument does not assert facts upon which, following the first two contacts, a reasonable person would feel threatened, combined with the final two letters which were delivered in so personal a manner, the instrument clearly sets forth a course of conduct that defendant should have known was likely to cause reasonable fear of material harm to the complainant’s physical health or safety.\nWe are aware that in People v Venson (47 Misc 3d 92 [App Term, 1st Dept 2015]), the court held that a series of contacts over a two-year period were too “infrequent and temporally diffuse” (id. at 94) to represent a course of conduct. However, in the case at bar, time is not the controlling factor given the pattern of escalating behavior; rather, it is defendant’s persistence as manifested in his ever more personal and transgressive behavior that establishes a course of conduct (see People v Coveney, 50 Misc 3d 1, 6 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2015]).\nSimilarly, as harassment in the second degree also contains a course of conduct element and the requirement that the conduct alleged serves “no legitimate purpose,” the facts alleged in the accusatory instrument are likewise sufficient to state this offense.\nWe reject defendant’s remaining contentions as unpreserved or without merit. While the order enjoining further motions appears to have been directed solely at the facial sufficiency and constitutional arguments previously and repeatedly raised by defendant, even if it be assumed that it was improperly overbroad, defendant’s sole claim of prejudice is that he was thereby prevented from moving to dismiss the accusatory instrument on statutory speedy trial grounds (see CPL 170.30 [1] [e]; 30.30). Defendant has not demonstrated that the motion would have been meritorious. If an attorney, alleged to have been ineffective for failing to move to dismiss on speedy trial grounds, “should not be criticized for failing to pursue a potentially futile endeavor” (People v Bond, 110 AD3d 1366, 1367 [2013]; see also People v Caban, 5 NY3d 143, 152 [2005] [“There can be no denial of effective assistance of trial counsel arising from counsel’s failure to ‘make a motion . . . that has little or no chance of success’ ”], quoting People v Stultz, 2 NY3d 277, 287 [2004]), it follows that there can be no prejudice to the defense if defendant’s counsel was barred from making a meritless motion.\nFinally, the claim of prosecutorial misconduct on summation is not preserved for appellate review. In one of the instances addressed, the defense made no objection, the Criminal Court having “sustained” the objection sua sponte, and, in response to the remainder, stated only “objection,” which, being “general” in nature, does not preserve a claim of error for appellate review (see CPL 470.05 [2]; People v Tonge, 93 NY2d 838, 839-840 [1999]; People v Dien, 77 NY2d 885, 886 [1991]; People v Benson, 38 AD3d 563, 563 [2007]). Defendant’s mistrial motion on that basis, made after the completion of summations, was untimely (People v Alvarado, 126 AD3d 803, 805 [2015]; People v Read, 97 AD3d 702, 703 [2012]; People v Malave, 7 AD3d 542, 542 [2004]).\nAccordingly, the judgment of conviction is modified by vacating the conviction of aggravated harassment in the second degree and dismissing the count of the accusatory instrument charging that offense.",
+        "type": "majority",
+        "author": null
+      },
+      {
+        "text": "Weston, J.\n(dissenting in part and concurring in part and voting to modify the judgment of conviction by vacating the convictions of aggravated harassment in the second degree, stalking in the fourth degree, and harassment in the second degree, and dismissing the counts of the accusatory instrument charging these offenses, in the following memorandum). I agree with the majority that the conviction of aggravated harassment in the second degree (Penal Law § 240.30 [1]) should be reversed and the count of the accusatory instrument alleging that offense dismissed (see People v Golb, 23 NY3d 455, 466-467 [2014]; People v Cesaire, 127 AD3d 1226, 1226 [2015]). I also agree that the facts alleged in the accusatory instrument support the charge of criminal trespass in the second degree in that they provide reasonable cause to believe that defendant “knowingly enter [ed] or remain [ed] unlawfully in a dwelling” (Penal Law § 140.15 [1]; see e.g. Matter of Lonique M., 93 AD3d 203, 207 [2012]). Consequently, I too would not disturb defendant’s conviction of this offense.\nHowever, I do not agree that the facts asserted in the accusatory instrument are legally sufficient to support the charges of stalking in the fourth degree (Penal Law § 120.45 [1]) and harassment in the second degree (Penal Law § 240.26 [3]). To state a charge of stalking in the fourth degree, an information must allege facts which, if true (CPL 100.40 [1] [c]), establish that the accused “engage [d] in a course of conduct . . . [which he or she knew] or reasonably should [have] know[n] . . . [was] likely to cause reasonable fear of material harm to the physical health, safety or property” of the alleged victim (Penal Law § 120.45 [1]), not that the accused intended “a specific result,” here, a reasonable fear of material harm (People v Stuart, 100 NY2d 412, 426 [2003]), or even that the subject actually experienced same (id. at 428). As the majority correctly notes, the course of conduct element has been construed to require proof of “a pattern of conduct composed of a series of acts over a period of time . . . evidencing a continuity of purpose” (People v Payton, 161 Misc 2d 170, 174 [Crim Ct, Kings County 1994], quoted with approval in People v Ubbink, 120 AD3d 1574, 1575-1576 [2014]; see also People v Brandel, 30 Misc 3d 134[A], 2011 NY Slip Op 50082[U], *2 [App Term, 2d Dept, 9th & 10th Jud Dists 2011]; People v Tralli, 88 Misc 2d 117, 118 [App Term, 2d Dept, 9th & 10th Jud Dists 1976]). While a course of conduct, “however short” (People v Starkes, 185 Misc 2d 186, 189 [Crim Ct, NY County 2000]), may create a reasonable likelihood of fear of harm, the same number of acts, committed over a period of time comparable to that alleged herein, has been deemed too “infrequent and temporally diffuse” to establish the course of conduct element of stalking in the third degree (People v Venson, 47 Misc 3d 92, 94 [App Term, 1st Dept 2015]).\nHere, the nature of defendant’s contacts with the complainant did not rise to the level of a “continuity of purpose” necessary to sustain a charge of stalking in the fourth degree (People v Ubbink, 120 AD3d at 1576). Defendant’s sporadic contacts with the complainant were aimed at enticing her to establish contact with him and, at best, could be construed as creating a sense of uneasiness, not a likelihood of fear of harm. Given the relatively innocuous nature of the initial contacts and the lengthy periods of time between the first and last acts alleged, the final communication, however characterized, did not retroactively transform the prior acts into a course of conduct evidencing a continuity of purpose of which the final act was merely the culmination (see People v Jones, 44 Misc 3d 127[A], 2014 NY Slip Op 50967[U], *1 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2014] [“When a statute provides for a ‘course of conduct’ or ‘repeated acts,’ factual allegations supporting only a single incident will not suffice”]). Viewed as a whole, the facts alleged in the accusatory instrument do not support an inference that defendant’s continuity of purpose, from the outset, was to repeatedly commit acts which, at the least, he should have known were likely to create a reasonable fear of material harm (see People v Stuart, 100 NY2d at 428).\nThe charge of harassment in the second degree (Penal Law § 240.26 [3]) contains a “course of conduct . . . which serve[s] no legitimate purpose” element. The Court of Appeals has defined “no legitimate purpose” as having no “reason or justification to engage someone, other than to hound, frighten, intimidate or threaten” (People v Stuart, 100 NY2d at 428). In my view, the facts alleged in the accusatory instrument as to defendant’s conduct do not establish, prima facie, defendant’s intent to inflict such harm.\nAccordingly, I would modify the judgment of conviction by vacating the convictions of aggravated harassment in the second degree, stalking in the fourth degree, and harassment in the second degree, and dismissing the counts of the accusatory instrument charging these offenses.\nPesce, P.J., and Aliotta, J., concur; Weston, J., dissents part and concurs in part in a separate memorandum.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Weston, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Seymour W. James, Jr., The Legal Aid Society, New York City (Seth Steed of counsel), for appellant.",
+      "Richard A. Brown, District Attorney, Kew Gardens (John M. Castellano, Johnnette Traill, Merri Turk Lasky and Mariana Zelig Borenstein of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[41 NYS3d 347]\nThe People of the State of New York, Respondent, v John Westwood, Appellant.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nSeptember 20, 2016\nAPPEARANCES OF COUNSEL\nSeymour W. James, Jr., The Legal Aid Society, New York City (Seth Steed of counsel), for appellant.\nRichard A. Brown, District Attorney, Kew Gardens (John M. Castellano, Johnnette Traill, Merri Turk Lasky and Mariana Zelig Borenstein of counsel), for respondent."
+  },
+  "file_name": "2387-01",
+  "first_page_order": 126,
+  "last_page_order": 136
+}

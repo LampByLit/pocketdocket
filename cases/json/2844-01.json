@@ -1,0 +1,246 @@
+{
+  "id": 12300484,
+  "name": "The People of the State of New York, Plaintiff, v. Alfred Murray, Defendant",
+  "name_abbreviation": "People v. Murray",
+  "decision_date": "2017-06-16",
+  "docket_number": "",
+  "first_page": "932",
+  "last_page": "937",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 932"
+    },
+    {
+      "type": "parallel",
+      "cite": "55 N.Y.S.3d 898"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "183 Misc 2d 195",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156651
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0195-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50017",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 1208",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Misc 2d 748",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        880319
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "750"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/181/0748-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 50942",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Misc 3d 149",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 NY Slip Op 50499",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Misc 3d 136",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 NY Slip Op 50587",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Misc 3d 138",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 NY2d 770",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        203367
+      ],
+      "pin_cites": [
+        {
+          "page": "772"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0770-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725125
+      ],
+      "pin_cites": [
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0677-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "229"
+        },
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "pin_cites": [
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 568,
+    "char_count": 9989,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25031150464756824
+    },
+    "sha256": "01c1f35f0b0c32e81f371e55e7459ef6ab8f9e47185b21906539edc51ef121e5",
+    "simhash": "1:bb64a50cccc21730",
+    "word_count": 1623
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Alfred Murray, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nElizabeth N. Waken, J.\nThe defendant is charged with criminal contempt in the second degree in violation of Penal Law § 215.50 (3) and harassment in the second degree in violation of Penal Law § 240.26 (1). By motion filed on March 30, 2017, the defendant moves to dismiss the accusatory instrument for facial insufficiency. On April 13, 2017, the People filed a response. For the reasons stated below, defendant’s motion to dismiss the harassment charge is granted. Defendant’s motion to dismiss the contempt charge is denied.\nI. Motion to Dismiss for Facial Insufficiency\nA. Legal Sufficiency Standard\nSection 100.40 (1) of the Criminal Procedure Law states that an information is sufficient on its face when it substantially conforms with the requirements of CPL 100.15, when the allegations provide reasonable cause to believe that the defendant committed the offense charged, and when the nonhearsay allegations establish, if true, every element of the offense charged and the defendant’s commission thereof. The failure to satisfy these requirements creates a jurisdictional defect to the criminal action, thus warranting dismissal (see People v Alejandro, 70 NY2d 133, 137 [1987]; People v Kalin, 12 NY3d 225, 229 [2009]).\nWhen analyzing whether the factual allegations of an information provide reasonable cause to believe that the defendant committed the charged offense, it is important to keep in mind the definition of reasonable cause provided by the legislature in Criminal Procedure Law § 70.10 (2):\n“ ‘Reasonable cause to believe that a person has committed an offense’ exists when evidence or information which appears reliable discloses facts or circumstances which are collectively of such weight and persuasiveness as to convince a person of ordinary intelligence, judgment and experience that it is reasonably likely that such offense was committed and that such person committed it” (CPL 70.10 [2] [emphasis added]).\nThe standard required for this prima facie case is thus a far cry from the burden of proof required at trial (People v Henderson, 92 NY2d 677, 680 [1999]). Indeed, “[s]o long as the factual allegations of an information give an accused notice sufficient to prepare a defense and are adequately detailed to prevent a defendant from being tried twice for the same offense,” the court must give the information “a fair and not overly restrictive or technical reading” (People v Casey, 95 NY2d 354, 360 [2000]; Kalin, 12 NY3d at 230).\nB. Factual Allegations\nThe complaint alleges that on February 15, 2017, defendant stated to Maureen M., in sum and substance, “you wicked bitch, today for me tomorrow for you, watch and see what I’m going to do” (see superseding complaint at 1). Defendant’s conduct allegedly violated a Kings County Family Court order of protection issued on January 19, 2017 and in effect until February 17, 2017, which directed him to refrain from harassing, intimidating or threatening Maureen M. The complaint further states that Ms. M. is “tired of this abuse in [her] home” (id.). The People filed a copy of the order of protection, with proof of service as well as the domestic incident report sworn to by Ms. M. on February 15, 2017.\nC. Penal Law § 240.26 (1)\n“A person is guilty of harassment in the second degree when, with intent to harass, annoy or alarm another person,” he “strikes, shoves, kicks or otherwise subjects such other person to physical contact ... or threatens to do the same” (Penal Law § 240.26 [1]). “The crux of section 240.26 (1) is the element of physical contact: actual, attempted or threatened” (People v Bartkow, 96 NY2d 770, 772 [2001]). In People v Moreno (47 Misc 3d 138[A], 2015 NY Slip Op 50587[U] [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2015]), a defendant cursed at a police officer inside the ferry terminal, stating “fuck you, the cop that got shot in the face deserved it, you guys are going to get yours.” The court held these allegations were insufficient to show reasonable cause that the defendant engaged in harassment in the second degree as there was no indication that the defendant engaged in physical contact or threatened to do so (Moreno, 2015 NY Slip Op 50587 [U], *2). The court further held that defendant’s comment that “you guys are going to get yours” was a “hypothetical, non-serious outburst, not a clear or present threat of serious evil,” particularly as it was directed not at an individual, but at police officers in general (id.).\nLike the outburst in Moreno, defendant’s statement to the complainant here was vague and hypothetical. Although plainly unpleasant, the phrase “you wicked bitch, today for me tomorrow for you, watch and see what I’m going to do,” cannot be said to contain a specific threat of physical harm to be inflicted upon the complainant. In the absence of allegations suggesting physical contact or the direct threat of the same, harassment is not made out (accord People v Hargrove, 47 Misc 3d 136[A], 2015 NY Slip Op 50499[U] [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2015] [defendant’s statement to complainant that “if he and his client continue to try and take money from the defendant’s wife that he would hurt them” did not establish genuine and immediate threat of physical contact to complainant]; People v Shehabeldin, 39 Misc 3d 149[A], 2013 NY Slip Op 50942 [U] [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2013] [statements by angry bus passenger that she “should shoot” the bus driver and that she “should come back and shoot” him insufficient for harassment charge]).\nAccordingly, defendant’s motion to dismiss the Penal Law § 240.26 (1) charge is granted.\nD. Penal Law § 215.50 (3)\nA person is guilty of criminal contempt in the second degree when he intentionally disobeys or resists lawful process or other mandate of the court (Penal Law § 215.50 [3]). The Family Court order of protection here directs the defendant to “[r]efrain from assault, stalking, harassment, aggravated harassment, menacing, reckless endangerment, strangulation, criminal obstruction of breathing or circulation, disorderly conduct, criminal mischief, sexual abuse, sexual misconduct, forcible touching, intimidation, threats, identify theft, grand larceny, coercion or any criminal offense against Maureen [M.].” (See order of protection dated Jan. 19, 2017.) The question is whether the factual allegations here, although not sufficient for the criminal charge of harassment, are nonetheless facially sufficient for the charge that the defendant committed criminal contempt by engaging in any of the prohibited conduct listed in the order. The People argue that the charged conduct, even if not harassment, could constitute either intimidation and/or threats, both of which are prohibited therein, citing to the dissenting opinion in People v Hogan (181 Misc 2d 748 [App Term, 2d Dept 1998]) (see People’s response at 4-5).\nIn People v Hogan, the defendant was charged with harassment and criminal contempt after he allegedly called the informant “a fucking bitch and a whore” and followed her to continue a verbal dispute in violation of an order of protection. The court held that the “abusive language” was facially insufficient for the charge of harassment in the second degree, and by extension therefore, insufficient for the allegation that he had violated the order of protection by engaging in harassment (Hogan at 749). The court also found that the defendant’s statement did not constitute intimidation, and therefore, there was no contempt (id.). The dissenting opinion argues instead that the instant “verbal abuse” combined with following complainant after she attempted to leave and the inference of prior conduct allowed from the existence of an order of protection should be sufficient for intimidation, and therefore, for the charge of contempt (see id. at 750 [Scholnick, J.P., dissenting]).\nThe court agrees with the People that the factual allegations are facially sufficient for a criminal contempt charge based on threats and/or intimidation. The statements attributed to the defendant here went beyond the cursing and name-calling alleged in Hogan to include a threatening statement— “today for me tomorrow for you, watch and see what I’m going to do”—which could reasonably be inferred as frightening and aggressive to the complainant, especially as she had already sought and received an order of protection from the defendant and the comment prompted her to call the police. Even though the defendant’s statement does not sound as a specific threat of physical harm necessary for a charge of criminal harassment, the court is not prepared to find at the pleading stage that it does not threaten some kind of harm or loss on the complainant, or qualify as an effort to intimidate her into some action, and therefore constitute behavior barred by the order of protection (accord People v Williams, 46 Misc 3d 1208[A], 2015 NY Slip Op 50017[U], *3 [Crim Ct, NY County 2015] [defendant’s warning to family members that he would have them evicted and that it would “hurt real bad” construed as sufficient threat to violate order of protection]; People v Nawaz, 183 Misc 2d 195, 198 [Crim Ct, Kings County 1999] [making a U-turn to come back and “stare” at the complainant found to be facially sufficient for contempt charge]). As the Nawaz court stated, “a motion to dismiss is not the appropriate venue for determining whether the defendant’s conduct amounted to harassing, threatening or intimidating behavior sufficient to violate the order of protection” (id.).\nAccordingly, defendant’s motion to dismiss the Penal Law § 215.50 (3) charge is denied.",
+        "type": "majority",
+        "author": "Elizabeth N. Waken, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Brooklyn Defender Services (Theodore Hastings of counsel) for defendant.",
+      "Eric Gonzalez, Acting District Attorney (James Castle of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[55 NYS3d 898]\nThe People of the State of New York, Plaintiff, v Alfred Murray, Defendant.\nCriminal Court of the City of New York, Kings County,\nJune 16, 2017\nAPPEARANCES OF COUNSEL\nBrooklyn Defender Services (Theodore Hastings of counsel) for defendant.\nEric Gonzalez, Acting District Attorney (James Castle of counsel), for plaintiff."
+  },
+  "file_name": "2844-01",
+  "first_page_order": 932,
+  "last_page_order": 937
+}

@@ -1,0 +1,239 @@
+{
+  "id": 12434520,
+  "name": "The People of the State of New York, Plaintiff, v. Jame Lovette, Defendant",
+  "name_abbreviation": "People v. Lovette",
+  "decision_date": "2017-03-31",
+  "docket_number": "",
+  "first_page": "1097",
+  "last_page": "1103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 1097"
+    },
+    {
+      "type": "parallel",
+      "cite": "50 N.Y.S.3d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "183 Misc 2d 444",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0444-01"
+      ]
+    },
+    {
+      "cite": "284 AD2d 547",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        680731,
+        681037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/284/0547-01",
+        "/ad2d/284/0547-02"
+      ]
+    },
+    {
+      "cite": "62 NY2d 943",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2349160
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/62/0943-01"
+      ]
+    },
+    {
+      "cite": "280 AD2d 414",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1289808,
+        1290450
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/280/0414-02",
+        "/ad2d/280/0414-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 117",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4371480
+      ],
+      "pin_cites": [
+        {
+          "page": "122-123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0117-01"
+      ]
+    },
+    {
+      "cite": "192 Misc 2d 90",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1076718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/192/0090-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 266",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1233003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/187/0266-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 81",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436067
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0081-01"
+      ]
+    },
+    {
+      "cite": "54 Misc 3d 791",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        12434391
+      ],
+      "pin_cites": [
+        {
+          "page": "798"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/54/0791-01"
+      ]
+    },
+    {
+      "cite": "2002 NY Slip Op 50341",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 NY Slip Op 51129",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Misc 3d 1143",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 AD2d 245",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 640,
+    "char_count": 12245,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2563189977485174
+    },
+    "sha256": "08e2c713d44725304e3b59759ba2c2232d43defb7e8a9a03ceabd28e1448cff4",
+    "simhash": "1:b6babaf6177003a5",
+    "word_count": 2034
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jame Lovette, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDavid Frey, J.\nThe defendant is charged with one count each of aggravated unlicensed operation of a motor vehicle in the second degree (Vehicle and Traffic Law § 511 [2] [a] [ii]), aggravated unlicensed operation of a motor vehicle in the third degree (Vehicle and Traffic Law § 511 [1] [a]) and unlicensed driving (Vehicle and Traffic Law § 509 [1]).\nThe defendant, in an omnibus motion dated February 14, 2017, seeks dismissal of the aggravated unlicensed operation of a motor vehicle in the second and third degree charges, and permission to file additional motions in the future. The People served their motion response on or about February 28, 2017. The People provided the defendant a corroborating affidavit, a New York State Department of Motor Vehicles certified abstract of driving record, and proof of mailing on or about September 9, 2016.\nThe defendant’s omnibus motion is decided as follows:\nFacial Sufficiency\nThe defendant’s motion to dismiss the top two charged counts for lack of facial sufficiency is denied. Criminal Procedure Law § 100.40 (1) states that an information is sufficient on its face when it substantially conforms with the requirements of CPL 100.15; the allegations provide reasonable cause to believe that the defendant committed the offense charged; and the nonhearsay allegations in conjunction with any supporting deposition establish, if true, every element of the offenses charged and the defendant’s commission thereof. “So long as the factual allegations of an information give an accused notice sufficient to prepare a defense and are adequately detailed to prevent a defendant from being tried twice for the same offense, they should be given a fair and not overly restrictive or technical reading.”\nThe police officer in his misdemeanor complaint stated,\n“I observed the defendant operating a motor vehicle (the key was in the ignition, the engine was running and the defendant was behind the wheel) on a public highway, namely the above location (southeast corner of Amsterdam Avenue and West 12th Street). I conducted a computer check of the records of the New York State Department of Motor Vehicles and determined that the defendant’s license was revoked and had not been reinstated. I know that the defendant knew his driver’s license had been revoked because the computer check revealed that the defendant’s license was revoked for refusing to submit to a chemical test, and prior to such revocation being imposed the Department of Motor Vehicles sent to the defendant’s last known address an order which states, You must pay a $25 suspension termination fee before your driver’s license or privilege can be restored.’ ”\nOn or about September 9, 2016, the People converted the misdemeanor complaint into an information when they filed the arresting officer’s corroborating affidavit, and a certified New York State (NYS) Department of Motor Vehicles (DMV) abstract and proof of mailing. The defendant contends that the DMV abstract and proof of mailing are defective. The defendant is incorrect.\nDMV Abstract\nThe defendant asserts correctly that the DMV abstract must be properly authenticated in accordance with CPLR 4540 (b). That statute provides:\n“Where the copy is attested by an officer of the state, it shall be accompanied by a certificate signed by, or with a facsimile of the signature of, the clerk of a court having legal custody of the record, and, except where the copy is used in the same court or before one of its officers, with the seal of the court affixed; or signed by, or with a facsimile of the signature of, the officer having legal custody of the original, or his deputy or clerk, with his official seal affixed; or signed by, or with a facsimile of the signature of, the presiding officer, secretary or clerk of the public body or board and, except where it is certified by the clerk or secretary of either house of the legislature, with the seal of the body or board affixed. If the certificate is made by a county clerk, the county seal shall be affixed.”\nBut then the defendant mistakenly relies on People v Smith (258 AD2d 245 [4th Dept 1999]) for the proposition that the abstract was improperly authenticated because it did not have the DMV Commissioner’s raised seal. The defendant has apparently overlooked that (a) the Smith decision applied to grand jury and trial evidence, not misdemeanor pleadings (People v Brown, 15 Misc 3d 1143[A], 2007 NY Slip Op 51129[U] [Crim Ct, NY County 2007, Mandelbaum, J.]), and (b) since the Smith decision was issued in 1999, NYS DMV established a new procedure to authenticate abstracts (People v Azpuru, 2002 NY Slip Op 50341[U] [Crim Ct, NY County 2002]). The new procedure provided for the seal and certification to be electronically placed on each page of the DMV abstract contemporaneously when a driver’s identification and driver’s record were printed through their computer system, which corrected the deficiencies raised in Smith (id.).\nFor these reasons, the DMV abstract filed by the People converted the second factual allegation (“defendant’s license was revoked and had not been reinstated”) to nonhearsay.\nProof of Mailing\nThe defendant next attacks the DMV proof of mailing, relying on People v Valerio (54 Misc 3d 791, 798 [Crim Ct, NY County 2016]) for the proposition that an affidavit from a United States Postal Service employee is also required to convert the hearsay contained in the third factual allegation sentence in the instant complaint (“[DMV] sent to the defendant’s last known address an order”). This court respectfully finds the Valerio decision unpersuasive, and finds that the proof of mailing filed with the court converted the complaint to an information.\n1. Vehicle and Traffic Law § 214\nVehicle and Traffic Law § 214 states that\n“[t]he production of a copy of a notice or order issued by the department, together with an electronically-generated record of entry of such order or notice upon the appropriate driver’s license or registration file of the department and an affidavit by an employee designated by the commissioner as having responsibility for the issuance of such order or notice issued by the department setting forth the procedure for the issuance and the mailing of such notice or order at the address of such person on file with the department or at the current address provided by the United States postal service shall be presumptive evidence that such notice of suspension, revocation or order was produced and mailed in accordance with such procedures. The foregoing procedure shall not preclude the use of an affidavit of service by mail, a certificate of mailing or proof of certified or registered mail as proof of mailing of any such order or notice.”\nThe proof of mailing filed by the People, which was generated by the DMV, comports with this requirement.\n2. The DMV proof of mailing is sufficient to prove mailing.\nSecond, even absent Vehicle and Traffic Law § 214, the DMV proof of mailing in this case, which was certified pursuant to CPLR 4518, sets out that\n“[DMV] uses the United States Postal Service’s (USPS) Confirm® Service to verify the Notice of Suspension or Revocation has been mailed. The Notice of Suspension or Revocation was mailed to the address on the Notice. In order to use this service, the Department applies a unique Postal ID that identifies the specific Notice of Suspension or revocation. The Postal ID is printed as a numeral on the Notice, and is also contained in a bar code visible through the envelope window. The existence of the attached Notice of Suspension or Revocation bearing unique Postal ID No. 061418324 means the Notice was mailed using this service.\n“The attached Notice of Suspension or revocation bearing the Unique Postal ID # 0161418324 is an exact duplicate of the original and it is maintained in the electronic records of [DMV]. The original notice was scanned AT 19:12:15 ON 01/08/2016 AT THE USPS facility serving zip code 11236, indicating receipt by the USPS at that time. The USPS confirmed this information with the Department where it was recorded at 22:45:20 on 01/09/2016.”\nThus, DMV not only certified that it mailed the notice of suspension to the defendant at his address (“The Notice of Suspension or Revocation was mailed to the address on the Notice”), but then goes into detail to describe the electronic method it used to confirm that USPS received the notice and sent it to the address. If Valerio is correct, then the simple affidavits known and used by generations of attorneys to prove service of court papers—which typically merely state that someone put a piece of mail in an official USPS mail repository—would be sufficient to prove mailing, but an affiant who then goes on to explain what electronic business records were used to confirm that USPS processed the notice after it was mailed has somehow tainted the proof of mailing. For these reasons, I respectfully disagree with the Valerio decision.\n3. Even absent Vehicle and Traffic Law § 214, DMV routinely relies on USPS’s business records, and thus may provide the proper business record foundation without the need for a USPS employee to do the same.\nFinally, the Court of Appeals has long recognized that one company’s employee can provide the proper business record foundation for another company’s business records at trial if the records of the second company are routinely relied on by the first company. (People v Cratsley, 86 NY2d 81 [1995]; People v Markowitz, 187 Misc 2d 266 [Sup Ct, Richmond County 2001, Rooney, J.].) If this is true at trial, then it is certainly true at the pleading stage. “That an affidavit of regularity from the Department of Motor Vehicles might be inadmissible at trial under the Confrontation clause . . . does not affect its ability to satisfy the pleadings requirement that the offense be supported by nonhearsay allegations. The right to confrontation is a trial right” (People v Brown, 15 Misc 3d 1143[A], 2007 NY Slip Op 51129[U], *3 n 5 [Crim Ct, NY County 2007, Mandelbaum, J.]).\nThe court in People v Etienne (192 Misc 2d 90 [Nassau Dist Ct 2002, Sher, J.]) set out in detail the relationship between the NYPD and the DMV, and how each government agency was required to rely upon each other’s business records in the regular course of business to do so, and that they could rely on each other’s business records as their own. Certainly, then, DMV may likewise rely on USPS’s routine, systematic, and continuous electronic record-keeping ability, as New York courts and attorneys have for years. (See e.g. CPLR 2103 [b] [2].) Moreover, USPS business records are public records of a governmental agency, and are therefore, entitled to the common-law presumption that they are trustworthy (Etienne at 94, citing Matter of Leon RR, 48 NY2d 117, 122-123 [1979]).\nFor all these reasons, the court finds the criminal court complaint was converted to an information.\nReservation Clause\nThe defendant’s motion to file further pretrial motions is granted to the extent they are based on new facts or law that the “defendant could not, with due diligence, have been previously aware, or which, for other good cause, could not reasonably have been raised” within 45 days after the defendant’s arraignment and before trial (CPL 255.20 [3]).\n. “Reasonable cause” is defined by CPL 70.10 (2).\n. People v Casey, 95 NY2d 354, 360 (2000).\n. The defendant’s reliance on People v Sikorski (280 AD2d 414 [1st Dept 2001]) is similarly misplaced. In Sikorski, the First Department was confronted with a DMV abstract that was certified prior to May 26, 1998, which was before DMV’s new post-Smith certification method.\n. See e.g. CPLR 2103 (b) (2); Engel v Lichterman, 62 NY2d 943 (1984).\n. The Etienne court in turn relied upon People v DiSalvo (284 AD2d 547 [2d Dept 2001]), People v Wray (183 Misc 2d 444 [Sup Ct, Kings County 2000]) and Markowitz.",
+        "type": "majority",
+        "author": "David Frey, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Legal Aid Society (Andrew Tso of counsel) for defendant.",
+      "Cyrus R. Vance, Jr., District Attorney (Travis Wolf oí counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[50 NYS3d 259]\nThe People of the State of New York, Plaintiff, v Jame Lovette, Defendant.\nCriminal Court of the City of New York, New York County,\nMarch 31, 2017\nAPPEARANCES OF COUNSEL\nThe Legal Aid Society (Andrew Tso of counsel) for defendant.\nCyrus R. Vance, Jr., District Attorney (Travis Wolf oí counsel), for plaintiff."
+  },
+  "file_name": "2737-01",
+  "first_page_order": 1121,
+  "last_page_order": 1127
+}

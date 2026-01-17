@@ -1,0 +1,460 @@
+{
+  "id": 12297918,
+  "name": "MLF3 Jagger LLC, Plaintiff, v. Cecilia Kempton et al., Defendants",
+  "name_abbreviation": "MLF3 Jagger LLC v. Kempton",
+  "decision_date": "2017-03-27",
+  "docket_number": "",
+  "first_page": "227",
+  "last_page": "237",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 227"
+    },
+    {
+      "type": "parallel",
+      "cite": "50 N.Y.S.3d 247"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "137 AD3d 1190",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4174373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1190-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 1223",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4330019
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1224-1225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/1223-01"
+      ]
+    },
+    {
+      "cite": "109 AD3d 987",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3730078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0987-01"
+      ]
+    },
+    {
+      "cite": "3 NY2d 395",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2246089
+      ],
+      "pin_cites": [
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/3/0395-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 851",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4398011
+      ],
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0851-01"
+      ]
+    },
+    {
+      "cite": "438 US 234",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0234-01"
+      ]
+    },
+    {
+      "cite": "459 US 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6197774
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0400-01"
+      ]
+    },
+    {
+      "cite": "14 NY2d 291",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2268923
+      ],
+      "pin_cites": [
+        {
+          "page": "297-298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/14/0291-01"
+      ]
+    },
+    {
+      "cite": "19 NY2d 486",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2278122
+      ],
+      "pin_cites": [
+        {
+          "page": "493-494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/19/0486-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 101",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "109-112"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 NY2d 154",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2344657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0154-01"
+      ]
+    },
+    {
+      "cite": "264 US 543",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142748
+      ],
+      "pin_cites": [
+        {
+          "page": "547, 548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/264/0543-01"
+      ]
+    },
+    {
+      "cite": "290 US 398",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3923972
+      ],
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/290/0398-01"
+      ]
+    },
+    {
+      "cite": "264 NY 69",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2010554
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/264/0069-01"
+      ]
+    },
+    {
+      "cite": "264 NY 144",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2010613
+      ],
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/264/0144-01"
+      ]
+    },
+    {
+      "cite": "17 US 518",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4697
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/17/0518-01"
+      ]
+    },
+    {
+      "cite": "14 F Supp 2d 260",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11684572
+      ],
+      "pin_cites": [
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/14/0260-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 714",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3816801
+      ],
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0714-01"
+      ]
+    },
+    {
+      "cite": "108 AD3d 9",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3726046
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/108/0009-01"
+      ]
+    },
+    {
+      "cite": "233 NY 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1967253
+      ],
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/233/0001-01"
+      ]
+    },
+    {
+      "cite": "12 USC § 2601",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Law & Contemp Probs 517",
+      "category": "journals:journal",
+      "reporter": "Law & Contemp. Probs.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cornell L Rev 401",
+      "category": "journals:journal",
+      "reporter": "Cornell L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 NY 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2235555
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/124/0175-01"
+      ]
+    },
+    {
+      "cite": "254 NY 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1993290
+      ],
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/254/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1202,
+    "char_count": 20377,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2501630403934747
+    },
+    "sha256": "ce5a2c05075c0b4722e4e6dbc96cfcbb443fe994b1f086ae5a7cdc34a700bf58",
+    "simhash": "1:6a831f90bf5c26ef",
+    "word_count": 3338
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MLF3 Jagger LLC, Plaintiff, v Cecilia Kempton et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames Hudson, J.\n“Let the hardship be strong enough, and equity will find a way, though many a formula of inaction may seem to bar the path” (Graf v Hope Bldg. Corp., 254 NY 1, 13 [1930, Cardozo, J., dissenting]).\nThe observation of the immortal Cardozo, written during an earlier mortgage foreclosure crisis, has proved remarkably prescient despite being a dissenting opinion. The discussion below demonstrates that the balm of equity can be found in legislative enactment as well as in the pronouncements of learned courts.\nThe matter at hand is an action to foreclose upon a note and mortgage. The plaintiff has moved for summary judgment and the appointment of a referee to ascertain the sums due and owing under the note (CPLR 3212). The defendant has cross-moved for dismissal (CPLR 3211 [a] [5]; 3408 [a]; RPAPL 1304; 22 NYCRR 202.12a).\nPrior to considering the merits of the respective arguments of plaintiff and defendants concerning an alleged breach of contract pertaining to a note, the court is obliged to consider the defendants’ cross motion. This questions the propriety of this case not being assigned to the Residential Foreclosure Part. Specifically, the defendant, Ms. Kempton, contends that the locus in quo constitutes a residence. Plaintiff disputes this argument and takes the position that the premises are a business. The status of the realty is of critical importance to the procedure which must be followed. Assuming, arguendo, that plaintiff’s contention is correct, the matter at hand is properly in a Commercial Division Part. The procedural and substantive law to be applied is well-known and has little changed in generations. The law entitled a creditor the right to the enforcement of a contract and foreclosure. Equity provided but a narrow exception (see Noyes v Anderson, 124 NY 175 [1891]). As discussed below, however, residential mortgage foreclosures are another matter since they have been singled out for special treatment by statute and regulation.\nA legislative response to an upsurge in foreclosures is not exclusive to recent times. In 1933, it is estimated that approximately 50% of nonfarm mortgages in the United States were behind in payment and subject to default. The foreclosure rate on mortgages rose from 3.6% in 1926 to over 13% in 1934 (David C. Wheelock, Changing the Rules: State Mortgage Foreclosure Moratoria during the Great Depression, Fed Res Bank of St. Louis Rev at 570 [Nov./Dec. 2008]). The effects of the Great Depression, which called forth Cardozo’s eloquence in Graf v Hope, also spurred action on a federal and state level. The Home Owners’ Loan Act of 1933 created the Home Owners’ Loan Corporation to provide low interest mortgages (Pub L 73-43, 48 US Stat 128 [73d Cong, 1st Sess, ch 64, June 13, 1933]). The relief provided by the New York Legislature, however, was dramatic. Civil Practice Act § 1077-a imposed a moratorium on residential and commercial foreclosures for unpaid principal until 1940. An exception was allowed for delinquent interest and taxes. Civil Practice Act § 1083-a extended the moratorium to cover deficiency judgments (S.M. Linowitz, Suits for Interest under the New York Mortgage Mora torium, 25 Cornell L Rev 401 [1940]; Wheelock at 579). Although New York placed itself in the forefront of humanitarian legislation, it was not alone. More than half of our sister states adopted mortgage moratorium laws during this time period. (Wheelock at 570, citing J. Douglass Poteat, State Legislative Relief for the Mortgage Debtor During the Depression, 5 Law & Contemp Probs 517-544 [1938].)\nIn response to the economic distress which befell our country and state beginning 2007-2008, the state legislature and the federal congress responded to what was perceived to be a rapidly deteriorating economy, and altered (as was their right) common-law principles and interposed new mechanisms to decide the rights and obligations of parties to residential mortgages. The profusion of statutes and regulations enacted within the last 10 years bears witness to the legislative focus in this area. Federal statutes/regulations include 12 USC § 2601 et seq., the Real Estate Settlement Procedures Act; the Housing and Economic Recovery Act of 2008 (Pub L 110-289, 122 US Stat 2654); the Home Affordable Modification Program derived from the Emergency Economic Stabilization Act of 2008 (Pub L 110-343, 122 US Stat 3765); and 12 CFR 1024.41 (c) (Federal Bureau of Consumer Financial Protection Regulation [title X]). State protection for residential borrowers can be found in CPLR 3408 (as added by L 2008, ch 472, § 3, as amended by L 2016, ch 73); 22 NYCRR 202.12a; RPAPL 1303, and 1304 as well as Real Property Law § 265-a, the Home Equity Theft Prevention Act.\nFrom the point of view of a creditor/mortgagee, it is readily apparent that the legislative remedies of the 1930s were far more draconian than the statutes and court rules which are imposed upon them today. The same principles which sustained the constitutionality of the antecedent laws, govern and uphold their modern counterparts. It cannot be denied that CPLR 3408 and 22 NYCRR 202.12a delay and thus, to a degree, impose burdens on the ability of a mortgagee to enforce its contractual rights. In the absence of these socially ameliorative measures, the cold application of contract law and the RPAPL could resolve the question of a defaulting mortgage in an afternoon or on papers alone. “Equity and justice recognize the inviolability of contracts, protect and enforce the rights of parties thereunder, inhibit an unlawful abrogation of the same, award damages arising from a breach thereof and likewise decree specific performance of contract” (Gordon v State of New York, 233 NY 1, 8 [1922, Hogan, J., majority op; Cardozo, J., concurring]). Instead, RPAPL 1304’s notice requirement delays the commencement of an action as well as Imposing additional costs of representation. The mandatory conference aspect of CPLR 3408 can easily add many months to foreclosure litigation. These procedures and the hurdles they raise for creditors, however, cannot be said, at this time, to offend the Constitution.\nThe appellate courts of our state have passed on the question of the constitutionality in the application of CPLR 3408. In Wells Fargo Bank, N.A. v Meyers (108 AD3d 9 [2d Dept 2013]), the Court reversed a lower court decision in which the judge had directed a specific modification of a mortgage as a sanction for not negotiating in good faith. To countenance such an action “would violate the Contract Clause of the United States Constitution.” (Id. at 22, citing US Const, art I, § 10 [1].) In Bank of Am., N.A. v Lucido (114 AD3d 714, 715 [2d Dept 2014]) it was held that a lower court’s imposition (without notice) of exemplary damages had the effect of reducing the principal of the note underlying the mortgage and was thus violative of the mortgagee’s right to due process. CPLR 3408’s December 20, 2016 amendments require that a plaintiff bring certain documents to mandatory settlement conferences.\nThe new statutory amendments also delineate the remedies that a court may impose for failure to negotiate in “good faith.” Subdivision (j) provides that\n“the court shall, at a minimum, toll the accumulation and collection of interest, costs, and fees during any undue delay caused by the plaintiff, and where appropriate, the court may also impose one or more of the following:\n“1. Compel production of any documents requested by the court pursuant to subdivision (e) of this section or the court’s designee during the settlement conference;\n“2. Impose a civil penalty payable to the state that is sufficient to deter repetition of the conduct and in an amount not to exceed twenty-five thousand dollars;\n“3. The court may award actual damages, fees, including attorney fees and expenses to the defendant as a result of plaintiff’s failure to negotiate in good faith; or\n“4. Award any other relief that the court deems just and proper.”\nThe December 20, 2016 changes to CPLR 3408 are notable for changing a word of suggestion, “Should,” to a word of command, “Shall,” in regards to necessary documents for mandatory settlement conferences. The Court in Meyers and Lucido did not discuss the facial constitutionality of CPLR 3408 as it was written at that time. Indeed, there does not appear to be an appellate level decision which has ruled on the question of the constitutionality of the aforementioned legislation as it is written.\nThe importance of the Contract Clause cannot be underestimated. “It is one of the few personal guarantees of liberty contained in the original body of the Constitution and was responsible for many of the early Court’s most famous pronouncements” (County of Suffolk v Long Is. Light. Co., 14 F Supp 2d 260, 268 [ED NY 1998]; see e.g. Trustees of Dartmouth College v Woodward, 17 US 518 [1819]).\nDespite the constraining language found in CPLR 3408 both in its original and amended form, and the absence of appellate authority concerning same, this court is confident that it passes constitutional muster.\nIn addressing the legislation of the 1930s, the question arose as to whether, in its zeal to alleviate suffering, the legislature had gone too far and committed an unconstitutional impairment of contractual obligations. The courts recognized that the moratorium statute had been passed “to meet conditions which had arisen in the mortgage field due to financial stringency and depression” (Klinke v Samuels, 264 NY 144, 146 [1934]). In the case of Matter of People (264 NY 69 [1934]) the Court upheld the constitutionality of the New York moratorium statutes. The Court relied on the then recent decision of the Supreme Court in Home Building & Loan Assn. v Blaisdell (290 US 398, 437 [1934]) wherein Chief Justice Hughes, of happy memory, wrote that a Minnesota statute similar to New York’s did not violate article I, § 10 of the Federal Constitution nor the Due Process and Equal Protection Clauses of the Fourteenth Amendment of same. The decision was justified, in large measure, by a legitimate exercise of the police power in addressing the effects of the Great Depression. (Id. at 437.)\nAlthough scores of years have passed since Judge Lehman spoke for the Court in Matter of People, he noted the legislative intent behind the moratorium statutes was to recognize that “the vital interests of the community call for legislation by which the investments of great numbers of people may be conserved and ruin averted.” {Id. at 93-94.) This immediacy of crisis is echoed in the words of Mr. Justice Dickerson in Wells Fargo Bank, N.A. v Meyers, when he wrote of “[t]he much-publicized subprime mortgage crisis, the impact of which would be difficult to exaggerate, devastated the financial markets, domestically and globally.” (108 AD3d at 11.)\nThe police power which sustained the legislative response to the fiscal emergency of our parents’ and grandparents’ generation also serves to uphold the laws passed to protect their descendants. The differences between the legislation of the 1930s and the present day prevent a true application of stare decisis, but the court can take comfort in the fact that the great sages of the bench looked on similar laws (passed under similar circumstances) with approbation, witness Lord Coke’s maxim via trita est tutissima’ (Isle of Ely Case, 77 Eng Rep 1139, 1141, 10 Co Rep 141a, 142a [1609]).\nThe evolution of case law since Blaisdell places the new amendment to CPLR 3408 on an even firmer constitutional footing. The venerable authority referred to above noted that the exercise of the police power comes with a caveat:\n“[A] law ‘depending upon the existence of an emergency or other certain state of facts to uphold it may cease to operate if the emergency ceases or the facts change even though valid when passed.’ It is always open to judicial inquiry whether the exigency still exists upon which the continued operation of the law depends” (Home Building & Loan Assn. v Blaisdell at 442, quoting Chastleton Corp. v Sinclair, 264 US 543, 547, 548 [1924]).\nIn the case of Crane Neck Assn. v New York City/Long Is. County Servs. Group (61 NY2d 154 [1984]), however, the Court opined that a statute which infringed upon the exercise of a contractual right did not require an emergency to justify its implementation. The Court recognized\n“that the State’s interest in protecting the general good of the public through social welfare legislation is paramount to the interests of parties under private contracts, and the State may impair such contracts by subsequent legislation or regulation so long as it is reasonably necessary to further an important public purpose and the measures taken that impair the contract are reasonable and appropriate to effectuate that purpose” {id. at 167, citing Matter of Subway-Surface Supervisors Assn. v New York City Tr. Auth., 44 NY2d 101, 109-112 [1978]; Matter of Farrell v Drew, 19 NY2d 486, 493-494 [1967]; Matter of Department of Bldgs. of City of N.Y. [Philco Realty Corp.], 14 NY2d 291, 297-298 [1964]).\nInstead of an emergency standard to justify invocation of the police power (as required by the rule in Blaisdell), the Crane Court recognized that a different judicial litmus test now holds sway. At the present time, even if legislative action “constitutes a substantial impairment, the State, in justification, must have a significant and legitimate public purpose behind the regulation . . . such as the remedying of a broad and general social or economic problem . . . the public purpose need not be addressed to an emergency or temporary situation” (id. at 167, citing Energy Reserves Group, Inc. v Kansas Power & Light Co., 459 US 400 [1983]; see also Allied Structural Steel Co. v Spannaus, 438 US 234, 249 n 24 [1978]).\nAccordingly, the foregoing demonstrates that CPLR 3408, as amended, satisfies the relaxed constitutional standard discussed in Crane and its companion decisions, as well as the stricter analysis found in Blaisdell.\nAs described above, the aforementioned statutory plan and accompanying regulations have a momentous consequence. The distinction between a residential and commercial mortgage is of critical importance and must be decided by the court prior to applying the venerable principles underlying the inviolability of contracts. The question now is whether this question can be decided via summary judgment.\nThe proponent of a summary judgment motion must make a prima facie showing of entitlement to judgment as a matter of law by demonstrating the absence of any material issues of fact (Winegrad v New York Univ. Med. Ctr., 64 NY2d 851, 853 [1985]; Zuckerman v City of New York, 49 NY2d 557, 562 [1980]). Only when the movant has satisfied the court in this respect, will the burden shift to the respondent. The party opposing summary judgment is then obliged “to produce eviden-tiary proof in admissible form sufficient to establish the existence of material issues of fact which require a trial of the action.” (Alvarez v Prospect Hosp., 68 NY2d 320, 324 [1986], citing Zuckerman at 562.) It is beyond cavil that the court’s role is “issue-finding, rather than issue-determination” at this juncture (Sillman v Twentieth Century-Fox Film Corp., 3 NY2d 395, 404 [1957]; Matter of Brandie B. [Barrington B.], 109 AD3d 987 [2d Dept 2013]).\nIn support of its contention that the premises are a commercial property, the plaintiff has submitted a copy of Cecilia Kempton’s loan application wherein she indicated that the realty was an “investment property” (plaintiff’s exhibit A-6). The plaintiff has also submitted copies of advertisements listing the premises as a bed and breakfast (plaintiff’s exhibits A-7, A-8, A-9, A-10). Additionally, plaintiff has provided the court with a copy of the Southampton Town Tax Assessment Roll which designates the defendant’s property as a commercial establishment under the zoning applied to “Inns, Lodges, Boarding Homes and Rooming Houses” (plaintiff’s exhibit 12).\nPlaintiff also argues that the defendant, Ms. Kempton, should be estopped from claiming residence of the subject parcel on the basis that she has consistently held herself out as a resident of another state. By way of example, defendant purportedly executed an assignment of leases and rents in July of 2011, in which she stated that she resided in Virginia (plaintiff’s exhibit A-13).\nIn response, defense counsel argues that “[t]he note and mortgage are standard residential loan instruments and not commercial loan documents” (affirmation of John Giordano, Esq., dated June 8, 2016, para 9). The defendant, Ms. Kemp-ton, avers that the premises have been used as her and her husband’s principal residence since 2013 and have not been used as a bed and breakfast since 2004. In support of this contention the defendant has submitted a copy of her tax return (defendant’s exhibit D). Specifically, Ms. Kempton states:\n“It is true that when I purchased the premises in 2001, it was initially used as a Bed and Breakfast for summer use only and operated by my daughter Jeanne Kempton. That venture lasted approximately three summers and was abandoned in 2004. During this period, we occupied the premises other than in the Summer months when it was used as a Bed and Breakfast. Thereafter, the premises was intermittently leased for primarily summer rentals. However, in the last four years, my husband and I have resided in the premises on a more permanent basis . . . Since January 2016, we have resided in the premises for more than four total months. In the year 2015, I stayed at the premises for more than 190 days and nights. In the year 2014, I stayed at the premises for more than 190 days and nights. In 2013, I stayed at the premises for more than 190 days and nights. At no time since 2004 have I or any member of my family used the premises as a Bed and Breakfast or for any other business purpose (other than the rentals discussed above)” (aff of Cecilia Kempton, dated June 8, 2016, at 2, paras 3-4).\nMoreover, the defendant has drawn the court’s attention to the fact that the plaintiff’s affidavit of service indicates that she received the notice, summons and complaint at the locus in quo. The protections of CPLR 3408 (a) cover “Home loanfs]” which are defined as\n“a loan, including an open-end credit plan, other than a reverse mortgage transaction, in which:\n“(i) The borrower is a natural person;\n“(ii) The debt is incurred by the borrower primarily for personal, family, or household purposes;\n“(iii) The loan is secured by a mortgage or deed of trust on real estate improved by a one to four family dwelling, or a condominium unit, in either case, used or occupied, or intended to be used or occupied wholly or partly, as the home or residence of one or more persons and which is or will be occupied by the borrower as the borrower’s principal dwelling” (RPAPL 1304 [6] [a]).\nWhether Ms. Kempton’s note and mortgage fit this criteria is a question of fact (Richlew Real Estate Venture v Grant, 131 AD3d 1223 [2d Dept 2015]). It must also be stressed that the burden of proof under these circumstances lies with the debtor to show that their debt qualifies as a home loan (CitiMortgage, Inc. v Simon, 137 AD3d 1190 [2d Dept 2016]).\nUpon reviewing the differing averments of Ms. Kempton and the plaintiff, the court is further guided by the holding in Richlew Real Estate which stated, “In light of this factual dispute, a hearing is necessary to determine whether the subject loan constitutes a ‘home loan’ as that term is defined by RPAPL 1304, and thus whether the defendant is entitled to a mandatory settlement conference pursuant to CPLR 3408.” (131 AD3d at 1224-1225.)\nAccordingly, the motion and cross motion will be granted to the extent that the court shall conduct a hearing to determine if the defendants’ note and mortgage should be deemed a “home loan.”\nThe trodden path is the safest.",
+        "type": "majority",
+        "author": "James Hudson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Kriss & Feuerstein, LLP, New York City (Jerold C. Feuer-stein of counsel), for plaintiff.",
+      "John M. Giordano, P.C., New York City, for Cecilia Kempton, defendant.",
+      "Twomey, Latham, Shea & Kelley, Riverhead, for United Bank, Inc., defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[50 NYS3d 247]\nMLF3 Jagger LLC, Plaintiff, v Cecilia Kempton et al., Defendants.\nSupreme Court, Suffolk County,\nMarch 27, 2017\nAPPEARANCES OF COUNSEL\nKriss & Feuerstein, LLP, New York City (Jerold C. Feuer-stein of counsel), for plaintiff.\nJohn M. Giordano, P.C., New York City, for Cecilia Kempton, defendant.\nTwomey, Latham, Shea & Kelley, Riverhead, for United Bank, Inc., defendant."
+  },
+  "file_name": "2773-01",
+  "first_page_order": 227,
+  "last_page_order": 237
+}

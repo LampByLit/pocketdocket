@@ -1,0 +1,212 @@
+{
+  "id": 12434397,
+  "name": "The People of the State of New York, Plaintiff, v. Katina Murray, Defendant",
+  "name_abbreviation": "People v. Murray",
+  "decision_date": "2016-12-07",
+  "docket_number": "",
+  "first_page": "825",
+  "last_page": "832",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 825"
+    },
+    {
+      "type": "parallel",
+      "cite": "41 N.Y.S.3d 875"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Misc 2d 19",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        604616
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/196/0019-01"
+      ]
+    },
+    {
+      "cite": "48 Misc 3d 415",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4317784
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/48/0415-01"
+      ]
+    },
+    {
+      "cite": "193 Misc 2d 725",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1048023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/193/0725-01"
+      ]
+    },
+    {
+      "cite": "232 AD2d 111",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1175945
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/232/0111-01"
+      ]
+    },
+    {
+      "cite": "569 US -, 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 NY Slip Op 51442",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Misc 3d 132",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 NY3d 674",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4002438
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0674-01"
+      ]
+    },
+    {
+      "cite": "27 NY3d 294",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        6777762
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/27/0294-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 247",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4069331
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0247-01"
+      ]
+    },
+    {
+      "cite": "155 AD2d 978",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3600620,
+        3610301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/155/0978-02",
+        "/ad2d/155/0978-01"
+      ]
+    },
+    {
+      "cite": "56 NY2d 288",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4385188
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/56/0288-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 784,
+    "char_count": 15831,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.89950402824256e-8,
+      "percentile": 0.308970522991881
+    },
+    "sha256": "5b334bcd90091e4d8c571db5a5a167d9d820439df83dcfcd64c2a99f07dffef8",
+    "simhash": "1:a242971b9798a6fc",
+    "word_count": 2611
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Katina Murray, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nApril A. Newbauer, J.\nThe central issue presented in these motions is whether the defendant Katina Murray should be granted a protective order restricting the use of her DNA sample to the indictment before the court. For the reasons stated below, the court finds the defendant has demonstrated the propriety of such an order under the state statutory scheme.\nProcedural History\nOn February 29, 2016, the People moved pursuant to Criminal Procedure Law § 240.40 (2) (b) (v) for an order directing the collection of a saliva sample from the defendant for the purpose of DNA analysis. On April 6, 2016, the defendant opposed the motion and asked the court to hold this motion in abeyance until a Darden motion was decided. Thereafter, the defendant did not file an omnibus motion until August 29, 2016; part of the relief sought included controverting the search warrant and seeking a Darden hearing. The court received these motions on November 7, 2016, and rendered a decision denying the defendant’s application for a Darden hearing, as the informant came before the issuing magistrate in person to verify the reliability of the information provided in support of the warrant. In addition, the court found that the warrant was issued with the requisite probable cause, and that its execution was within the permissible scope of the warrant.\nBy separate motion, the defendant requests that if the court grants an order to compel the collection of a sample of the defendant’s saliva, the court should issue a protective order as follows: (1) specifically prohibiting the comparison of the defendant’s DNA to DNA in any other case; (2) prohibiting the inclusion of the defendant’s DNA in the Office of Chief Medical Examiner’s DNA database; (3) prohibiting the use of the defendant’s DNA results for any purpose beyond the use in this case for comparison with the DNA profile developed in any related forensic biology file prepared for this case; and (4) directing the destruction and expungement of the swabs used to collect the sample from the defendant, the numeric DNA profile created from those swabs, the DNA extract, and the forensic biology case file created after this case is completed if the sample of the defendant’s DNA results in a “negative hit” as compared to any potential DNA profile in this case.\nFacts\nOn November 30, 2015, defendant Katina Murray along with her codefendant Dennis Neal were indicted for criminal possession of a weapon in the second degree in violation of Penal Law § 265.03 (3) for an incident that occurred on November 5, 2015 at approximately 6:00 p.m. inside of 2128 Hughes Avenue, apartment 2 in Bronx County. The indictment alleges that the defendant acted in concert with Dennis Neal to possess a loaded 9 millimeter caliber pistol and a loaded .380 semiautomatic pistol. The New York Police Department subsequently executed a search warrant at that location, and firearms were allegedly recovered.\nThe firearms were swabbed in six areas, and both the firearms and swabs were vouchered. These swabs were then submitted to the New York City Office of Chief Medical Examiner (OCME) for DNA testing to determine if a profile could be obtained. The OCME Department of Forensic Biology was able to determine that mixtures of DNA were found and were suitable for comparison from both firearms and provided this information to the People in the form of a report dated December 22, 2015.\nOn January 22, 2016, the defendant was arraigned in Part SCA upon the charge of Penal Law § 265.03 (3) and related charges. On February 29, 2016, the People filed the motion requesting an order directing the collection of a saliva sample from the defendant for the purposes of DNA analysis. The defendant filed an affirmation in opposition on April 6, 2016.\nDNA Sample\nCriminal Procedure Law § 240.90 (1) states, “[a] motion by a prosecutor for discovery shall be made within forty-five days after arraignment, but for good cause shown may be made at any time before commencement of trial.” As the People’s motion is timely served and filed, this court will consider the merits of the motion. CPL 240.40 (2) (b) (v) provides that a court may order the defendant to provide non-testimonial evidence including requiring the defendant to provide a sample of blood from his body in a manner not involving an unreasonable intrusion. In Matter of Abe A. (56 NY2d 288 [1982]), the Court of Appeals announced the standard to be used before a suspect can be required to provide a sample of his or her blood in furtherance of an investigation of a crime. The High Court held that an order to obtain a blood sample may issue if the prosecution establishes (1) probable cause to believe the suspect has committed a crime, (2) a clear indication that relevant material evidence will be found, and (3) that the method used to secure the sample is safe and reliable.\nThe People have satisfied all the requirements of Matter of Abe A. (56 NY2d 288 [1982]). The evidence presented before the grand jury established probable cause to believe that defendant committed the crimes charged on the indictment in the grand jury, and thus to support the motion for a buccal swab. There is also a clear indication that the relevant material will be found as the firearms were alleged to have been in the defendant’s custody and control inside a Gucci handbag along with the defendant’s employment identification and a pay stub from October 30, 2015. The DNA test results from the firearm may result in material and relevant evidence. (See People v Shields, 155 AD2d 978 [4th Dept 1989].) A comparison of the known DNA profile of a sample from the firearms to the defendant’s DNA buccal swab would be relevant and material to the issue regarding the identity of the perpetrator. Finally, the method of swabbing the inside of the defendant’s mouth is both safe and reliable. (See Matter of Abe A., 56 NY2d at 299.) As the People have advanced, DNA testing may either include or exclude the defendant from involvement with the weapon. The defense does not even extensively challenge the application on its merits. Accordingly, for the reasons stated, the People’s motion for an order, pursuant to CPL 240.40 (2) (b) (v), directing that the defendant submit to the taking of an oral swab from her mouth for DNA testing and analysis is granted.\nProtective Order\nIn 1994, the legislature established a statewide DNA data bank along with a comprehensive set of standards and protocols for accrediting forensic laboratories throughout New York State. Enacted as article 49-B of the Executive Law, the legislation starts with the creation of the New York State Commission on Forensic Science, a representative body whose mission is to promulgate rules for “any laboratory operated by the state or unit of local government” (Executive Law § 995 [1]) “that performs forensic DNA testing on crime scenes or materials derived from the human body for use as evidence in a criminal proceeding” (Executive Law § 995 [2]). Only federal laboratories are exempted from the comprehensive statutory scheme. (Executive Law § 995-e.) The legislation also empowered the State Commission to revoke, suspend or otherwise limit the accreditation of a forensic laboratory which violates the provisions of article 49-B. (Executive Law § 995-b [3] [e] [v].)\nAll forensic laboratories subject to accreditation in New York State must abide by Executive Law § 995-d, which provides:\n“Confidentiality\n“1. All records, findings, reports and results of DNA testing performed on any person shall be confidential and may not be disclosed or redisclosed without the consent of the subject of such DNA testing. . . .\n“2. Notwithstanding the provisions of subdivision one of this section, records, findings, reports, and results of DNA testing, other than a DNA record maintained in the state DNA identification index, may be disclosed in a criminal proceeding to the court, the prosecution, and the defense pursuant to a written request on a form prescribed by the commissioner of the division of criminal justice services. Notwithstanding the provisions of subdivision one of this section, a DNA record maintained in the state DNA identification index may be disclosed pursuant to section nine hundred ninety-five-c of this article.” (Emphasis added.)\nAs part of the same comprehensive enactment, Executive Law § 995-c established a state DNA identification index. Laboratories under the jurisdiction of the State Commission are permitted to upload a DNA profile into the state identification index database subsequent to a defendant’s conviction and sentencing. (Executive Law § 995-c [3]; see also People v Debraux, 50 Misc 3d 247 [Sup Ct, NY County 2015].)\nThe New York City Office of Chief Medical Examiner is a forensic DNA laboratory that must operate under New York State accreditation and testing standards. (See People v John, 27 NY3d 294 [2016]; see also People v Lopez, Sup Ct, Bronx County, Clancy, J., index No. 3139/2014 [“the people conceded during oral argument before the court that OCME is a forensic DNA laboratory that is accredited by New York State”].) OCME practices and procedures fall under the jurisdiction of the Commission on Forensic Science.\nAs the People point out, in a number of cases where the courts have properly found Executive Law § 995-d to apply to OCME, they have nonetheless denied protective orders to defendants while their convictions are pending. At least one court found the OCME local uploading practice acceptable because it was limited to local law enforcement and prosecutors. Yet in considering the inclusion of DNA profiles from pending cases in the OCME local “Linkage” database there is no getting around the conflict between the state statutory scheme as embodied in Executive Law § 995-d. State law mandates DNA uploading only upon conviction and sentencing and also establishes a state DNA database for that purpose. These two sections of Executive Law article 49-B are part of a comprehensive and detailed scheme the legislature created to regulate the arena of forensic DNA testing in New York State.\nWhere the state evinces an intention to preempt the field, localities are precluded from, among other things, passing contrary local laws, even when their intent is to promote the welfare of their citizens. (See People v Diack, 24 NY3d 674 [2015]; People v Cooper, 49 Misc 3d 132[A], 2015 NY Slip Op 51442[U] [App Term, 2d Dept, 9th & 10th Jud Dists 2015]; cf. People v Jefferson, Sup Ct, Bronx County, Gross, J., index No. 2862/2013.) Further, the New York City Council has not passed local legislation permitting the creation of this database, which would have generated a need for a preemption balancing test, the local rule to be a factor weighed against the clear policy under the New York State statutory framework. Without such an enactment, there is no reason for this court to imbue OCME’s ultra vires procedures with its own positive imprimatur by refusing to grant a protective order requested by a presumptively innocent defendant.\nAccording to the New York State Division of Criminal Justice Services, in 2015 slightly under half of all crimes and about two thirds of all violent crimes in New York State were committed within New York City. (See DCJS, Uniform Crime Reporting/Incident-Based Reporting systems, 2010-2015.) The “local” NYC database is therefore providing the upload capacity to approximately half the investigations in the state while the defendants’ cases are pending. By denying a protective order to the defendant awaiting trial, this court would be permitting the operation of a shadow state DNA index that operates for just five counties, but in reality for as many as half the state investigations implicating DNA. Such widespread availability of a defendant’s DNA profile for matching would run afoul of Executive Law § 995-c, which allows inclusion of a DNA profile into a wide-ranging database only after conviction. For this reason, although the legislature indeed may never have contemplated the establishment of a local database, OCME’s creation of the “Linkage” database in New York City contravenes the statutory intent with more than a theoretical hammer. This court therefore respectfully disagrees with the conclusion in People v Debraux (50 Misc 3d 247, 262 [2015]).\nIf the court’s issuance of a protective order for a defendant awaiting trial is not mandated by the state statutory scheme, it is certainly driven by it, as an appropriate use of the court’s discretion. It may be that OCME has simply established Linkage and adopted procedures for the internal database for unrelated and innocuous reasons of its own. Although not necessarily intending to skirt the state statute, that is the practical effect for a highly significant percentage of law enforcement users.\nIn Maryland v King (569 US —, 133 S Ct 1958 [2013]), the Supreme Court in a 4-3 decision upheld a Maryland statute permitting that state’s law enforcement authorities to collect DNA samples from individuals who are charged with violent crimes and certain other serious crimes for inclusion into a statewide DNA database for comparison to DNA from unsolved crimes. The court found the defendant had no Fourth Amendment privacy interest in the buccal swab sample once it is taken. (Maryland v King, 569 US at —, 133 S Ct at 1978-1979.) While Maryland v King settles the question of the defendant’s constitutional privacy interest, it has no bearing on the question presented under New York State law. The Supreme Court was determining the Fourth Amendment interest in the context of a state statute which expressly permitted the use of a defendant’s DNA before trial. Not only is the defense argument here premised on New York State law and policy, but the Executive Law takes precisely the opposite view of uploading a presumptively innocent defendant’s DNA into a database. (See Executive Law § 995-c.)\nFinally, this court is not bound by People v King (232 AD2d 111 [2d Dept 1997]) because as has been pointed out, the facts in that case arose prior to the enactment of article 49-B and the case turned on the constitutional question. (See People v Rodriguez, 193 Misc 2d 725 [Sup Ct, Kings County 2002].)\nThe defendant’s motion for a protective order is granted. The court directs that the sample of Katina Murray from which a DNA profile is obtained will only be used for comparison purposes with respect to the DNA profile previously generated from the swab of the firearms in this case only and will not be utilized for any other purpose or comparison and will not be added to OCME’s database pending her conviction and sentencing.\n. The People provided citations to a number of opinions which construe the state law not to apply to the New York City forensic laboratory (Office of Chief Medical Examiner), at least with respect to its creation and use of a local data bank. (See e.g. People v Mohammed, 48 Misc 3d 415 [Sup Ct, Bronx County 2015].) The analysis below compels a contrary conclusion.\n. Collateral consequences may flow from the inclusion of a defendant’s DNA in the local database prior to his conviction. At least one court has suggested that a defendant has no suppression remedy in a subsequent case under Criminal Procedure Law § 160.50 if his DNA remains in the OCME local database for comparison after the defendant is acquitted and it produces a match to another crime scene. (See People v Midgley, 196 Misc 2d 19 [Sup Ct, Kings County 2003].)",
+        "type": "majority",
+        "author": "April A. Newbauer, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Bronx Defenders (.Kristina Saleh of counsel) for defendant.",
+      "Darcel D. Clark, District Attorney (Miriam O’Sullivan of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[41 NYS3d 875]\nThe People of the State of New York, Plaintiff, v Katina Murray, Defendant.\nSupreme Court, Bronx County,\nDecember 7, 2016\nAPPEARANCES OF COUNSEL\nBronx Defenders (.Kristina Saleh of counsel) for defendant.\nDarcel D. Clark, District Attorney (Miriam O’Sullivan of counsel), for plaintiff."
+  },
+  "file_name": "2581-01",
+  "first_page_order": 813,
+  "last_page_order": 820
+}

@@ -1,0 +1,541 @@
+{
+  "id": 4353098,
+  "name": "The People of the State of New York, Plaintiff, v. Anthony Johnson, Defendant",
+  "name_abbreviation": "People v. Johnson",
+  "decision_date": "2015-07-01",
+  "docket_number": "",
+  "first_page": "518",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 518"
+    },
+    {
+      "type": "parallel",
+      "cite": "14 N.Y.S.3d 642"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Monroe Cty. Ct.",
+    "id": 9139,
+    "name": "County Court of New York, Monroe County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "19 NY3d 1105",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 AD3d 1171",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4031735
+      ],
+      "pin_cites": [
+        {
+          "page": "1172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/87/1171-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 755",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 AD3d 429",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1263911
+      ],
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/21/0429-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 912",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3756384
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0912-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 58",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4048134
+      ],
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/0058-01"
+      ]
+    },
+    {
+      "cite": "751 F3d 1008",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4070215
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1020"
+        },
+        {
+          "page": "1024"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/751/1008-01"
+      ]
+    },
+    {
+      "cite": "412 US 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "530 US 428",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413869
+      ],
+      "pin_cites": [
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0428-01"
+      ]
+    },
+    {
+      "cite": "31 NY2d 51",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2306019
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/31/0051-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 830",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 NY3d 205",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752285
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0205-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 629",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4297522
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "641"
+        },
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0629-01"
+      ]
+    },
+    {
+      "cite": "62 NY2d 285",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2346507
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "289"
+        },
+        {
+          "page": "289"
+        },
+        {
+          "page": "288"
+        },
+        {
+          "page": "289"
+        },
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/62/0285-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 950",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 AD2d 272",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3578303
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "274"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/148/0272-01"
+      ]
+    },
+    {
+      "cite": "158 AD2d 987",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3622716
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "987"
+        },
+        {
+          "page": "987"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/158/0987-01"
+      ]
+    },
+    {
+      "cite": "288 AD2d 883",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        390360,
+        389768
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/288/0883-02",
+        "/ad2d/288/0883-01"
+      ]
+    },
+    {
+      "cite": "55 NY2d 731",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4383799
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "731"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/55/0731-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 967",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2352390
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "968"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0967-01"
+      ]
+    },
+    {
+      "cite": "441 US 369",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0369-01"
+      ]
+    },
+    {
+      "cite": "444 US 887",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11377595,
+        11377533,
+        11377478,
+        11377415
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0887-04",
+        "/us/444/0887-03",
+        "/us/444/0887-02",
+        "/us/444/0887-01"
+      ]
+    },
+    {
+      "cite": "442 US 707",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532114
+      ],
+      "pin_cites": [
+        {
+          "page": "725"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0707-01"
+      ]
+    },
+    {
+      "cite": "124 AD3d 36",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4347562
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "41"
+        },
+        {
+          "page": "41"
+        },
+        {
+          "page": "41"
+        },
+        {
+          "page": "41"
+        },
+        {
+          "page": "42"
+        },
+        {
+          "page": "46"
+        },
+        {
+          "page": "45"
+        },
+        {
+          "page": "47"
+        },
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/0036-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 1407",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4065664
+      ],
+      "pin_cites": [
+        {
+          "page": "1408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/1407-01"
+      ]
+    },
+    {
+      "cite": "25 NY2d 585",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2292199
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/25/0585-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 837",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2349853
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0837-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 701",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        724997
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0701-01"
+      ]
+    },
+    {
+      "cite": "384 US 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1836,
+    "char_count": 57777,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14819763623284601
+    },
+    "sha256": "563ce7e525492e7dd6386aa470ada3d8bc05fd6a7c8e079c32bffae0fcede775",
+    "simhash": "1:85e4b9a3e7425f72",
+    "word_count": 8906
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Anthony Johnson, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn L. DeMarco, J.\nDefendant is charged with manslaughter in the second degree (Penal Law § 125.15 [1]) and criminally negligent homicide (Penal Law § 125.10), in connection with an incident that occurred in the City of Rochester, County of Monroe, on or about October 6, 2013. Defendant has moved to suppress statement evidence. The statement evidence consists of four separate oral statements made by defendant. The first statement was made to Rochester Police Department (RPD) Officer Christopher Schreier on October 6, 2013 at Dunkin’ Donuts. The second statement was made to RPD Investigators Jason Kamykowski and Matthew Klein on October 16, 2013 at Dunkin’ Donuts. The third statement was also made to Investigators Kamykowski and Klein at the Public Safety Building (PSB) on November 14, 2013. The fourth statement was made to Monroe County Sheriffs Deputy Shawn Jerrold on March 3, 2014.\nThe People oppose defendant’s suppression motion. Accordingly, the court conducted a Huntley hearing. The hearing was held on three separate dates — November 25, 2014, January 5, 2015, and March 12, 2015. The above-mentioned police witnesses testified at the hearing, as well as two expert witnesses — Dr. Jerid Fisher, for the defendant, and Dr. Trica Peterson, in rebuttal for the People. The court made no findings of fact at the conclusion of the hearing, and afforded both counsel the opportunity to submit closing memoranda. The parties have since submitted their respective closings.\nThe court has reviewed the hearing transcripts, the exhibits received in evidence at the hearing, all the prior pleadings in this matter, and the parties’ closing memoranda. What follows are the court’s findings of fact and conclusions of law, based upon the credible evidence received during the hearing.\nFindings of Fact\n1. Officer Schreier\nOfficer Schreier testified that on October 6, 2013 at about 3:30 a.m. he was dispatched to the intersection of Monroe Avenue and Alexander Street, in the City of Rochester, State of New York, to investigate a motor vehicle accident fatality. Other officers were on the scene when Officer Schreier arrived. Officer Schreier observed a motor vehicle with a male positioned underneath it. Officer Schreier was directed to go into the Dunkin’ Donuts located at the intersection to check for witnesses. Inside Dunkin’ Donuts Officer Schreier spoke to Anthony Johnson, the defendant in this matter. Officer Schreier identified defendant in court as the same Anthony Johnson he interviewed at the time in question.\nOfficer Schreier’s testimony revealed that defendant told him, in sum and substance, the following account. Defendant had gone to Dunkin’ Donuts (store) that evening to visit a female friend who worked there. Defendant and his employee friend were inside the store when a particular white male (male) entered the store. The male caught defendant’s attention because he (the male) was belligerent and appeared to be highly intoxicated. The male tried to order food but could not due to his level of intoxication. The male eventually left the store and defendant followed him because defendant found it funny that the male was so intoxicated. When the male reached the street, he fell over the curb and landed in the street. The male picked himself up and was yelling profanities when a black sedan struck him and continued south on Alexander Street. Defendant proceeded toward the male to help him when a second vehicle struck the male and stopped with him underneath it. Defendant ran in front of the vehicle to insure that the driver would not drive onward. He told the driver that she had just hit someone and helped her exit the vehicle.\nUpon speaking with defendant, Officer Schreier noticed that defendant had what appeared to be a small laceration on the back of one of his hands. When questioned about it, defendant claimed that he had brushed his hand against broken glass in front of the store. Officer Schreier further testified that defendant answered all of his questions appropriately. The officer never had to repeat himself to defendant, and the defendant never indicated an inability to understand the questions he was asked. Officer Schreier took a written statement from defendant inside Dunkin’ Donuts. The statement was reduced to writing based upon the events defendant recounted surrounding the accident. Officer Schreier drafted the statement for the defendant after which he either read it aloud to defendant or had defendant read it aloud to him, though he did not recall which method he used. Defendant then signed the statement under penalty of false statement, pursuant to Penal Law § 210.45. At no time did the officer ask the defendant whether he could read, and the defendant was never read Miranda warnings. Officer Schreier was handed the statement at the hearing and testified that it contained no additions or deletions from when he last observed it. The statement was received at the hearing without objection as People’s exhibit 1.\n2. Deputy Jerrold\nDeputy Jerrold testified that on March 3, 2014 he was working in his capacity as a Monroe County Sheriffs Deputy assigned to the warrant unit. The Deputy’s assignment that day was to locate the defendant. The Deputy learned that defendant was at his attorney’s office located in downtown Rochester, New York. Deputy Jerrold pursued the location that day and took the defendant into custody outside of his (defendant’s) attorney’s office. The Deputy identified the defendant at the hearing as the same person he took into custody that day. Deputy Jerrold testified that he transported the defendant straight to the Monroe County Jail without asking him any questions. Nor did the Deputy advise defendant of the reason for his arrest, as the warrant was a sealed indictment warrant. Deputy Jerrold testified that upon arriving at booking the defendant told him that he (defendant) was not a violent person. The Deputy testified that defendant talked about an incident with another male who was intoxicated, yelling at him and calling him names. Defendant told the Deputy that due to a mental condition, he does not like when people yell at him. Deputy Jerrold testified that defendant told him that he approached the male to try to get him out of the roadway at which time the male swung a punch at defendant and he (defendant), in turn, then punched the male. The Deputy never read defendant Miranda warnings. The Deputy’s testimony revealed that none of defendant’s statements were in response to questions he (Deputy Jerrold) or any other law enforcement official posed.\n3. Investigators Klein and Kamykowski\nInvestigator Kamykowski became involved in the investigation of the motor vehicle accident in October 2013. The investigator testified that the defendant was a “potential suspect” (Nov. 25, 2014 hearing tr at 59). Investigators Kamykowski and Klein interviewed the defendant on two separate occasions regarding the events surrounding the accident. The first interview occurred on October 16, 2013 at about 3:30 p.m. with all parties standing outside the above-mentioned Dunkin’ Donuts. The defendant voluntarily, though at the request of Investigator Klein, drove himself to Dunkin’ Donuts to partake in the interview. The interview was audio-recorded by the investigators without defendant knowing. The investigators and defendant were the only people involved in the interview. The defendant answered the investigators’ questions appropriately and never expressed that he did not understand any questions he was asked. Nor did the investigators ever have to repeat themselves. Investigator Klein ultimately reduced the interview to writing. The investigator read the statement aloud to the defendant and gave him the opportunity to review it. The investigator testified that the defendant said he understood and agreed to read the statement. The defendant then signed the statement under penalty of false statement pursuant to Penal Law § 210.45. At the time the statement was reviewed and signed by defendant, he was seated in the back of the investigators’ unmarked police car. The investigators never threatened or coerced the defendant or otherwise exercised any undue influence over him to enter their vehicle or get him to talk. The defendant was not handcuffed. Nor was the defendant ever told that he was under arrest. The doors to the unmarked police car were not locked from the inside, and the defendant was permitted to exit of his own accord without issue or incident at the conclusion of the interview. Defendant was never read Miranda warnings. His written statement was received at the hearing without objection as People’s exhibit 2.\nNotably, this statement differs in pertinent respects from the statement defendant gave Officer Schreier on October 6, 2013 (People’s exhibit 1). For example, in defendant’s October 16, 2013 statement (People’s exhibit 2), he claims that in attempting to pull the victim out of the street, the victim pulled away and hurt his (defendant’s) finger in the process. Defendant claims that he tried a second time to pull the victim from the street and the victim “tried to swing on [him] [,]” but defendant swung and “caught [the victim] first.” According to People’s exhibit 2, “[defendant] was done trying to help [the victim] and [his] finger was hurting so he walked away.” As defendant was walking away, he claims to have “heard the sound of the car hitting the [victim].”\nThe second interview with Investigators Kamykowski and Klein occurred on November 14, 2013. The investigators located defendant at a girlfriend’s house where they retrieved him without incident and transported him in their unmarked patrol car to the PSB for questioning. Defendant was not handcuffed during the transport. The investigators were in plain clothes and armed with their service weapons. The conversation between defendant and the investigators en route to the PSB was minimal, non-substantive and focused primarily on rapport building.\nUpon arrival at the PSB, defendant was taken to an interview room. The interview room was equipped with audio- and visual-recording capabilities which captured the entire interview. The audio and video recording of defendant’s interview was received at the hearing as People’s exhibit 4. The interview room was a “non-traditional” interview room in that it appeared to resemble more of a lounge area. It contained two cushioned couch-type seats, each appearing large enough to fit two people, and a circular desk with three chairs around it. The video depicts no windows in the room, which appeared to have one door from which to enter and exit. The investigators utilized a laptop computer periodically during the interview to display portions of the encounter between defendant and victim for defendant to view in response to certain questions they asked. No one other than the defendant and Investigators Kamykowski and Klein were present during the interview.\nDefendant was read Miranda warnings at approximately 2:32 p.m. and then signed the requisite rights waiver, after which a conversation occurred. The defendant volunteered that he has a learning disability. Investigator Klein, in response, asked defendant how far he went in school, to which defendant responded only through eighth grade. The defendant stated that he “struggles hard” with reading and writing English, understanding “big words” and staying focused, though he showed no signs of being unable to understand the questions posed during his interactions with the investigators. Investigator Klein also asked the defendant whether he had consumed any alcohol, prescription or nonprescription drugs within the preceding 24 hours, and defendant answered that he had not. Although defendant declined the assistance of an attorney upon his initial waiver of Miranda at the outset of the interview, after approximately two hours and 20 minutes of discussion regarding the events surrounding the incident and the investigators becoming noticeably frustrated and at times verbally aggressive in response to defendant’s persistent but measured refusal to agree with their conclusion, at approximately 4:50 p.m. defendant asked, “Can I talk to, like [sic], my lawyer?” Then, again, at approximately 5:32:30, defendant states that he would rather talk to his lawyer. And at approximately 5:35:20, defendant states that he “didn’t think it would ... go this far” and “would rather talk to . . .a lawyer.” The interview was finally concluded at approximately 5:37 p.m.\nFollowing this interview, defendant was taken to a more traditional interview room at the PSB. This interview room was also equipped with audio-video capabilities that were fully operational and captured the interview. The video (also contained on People’s exhibit 4) depicts defendant being placed in the interview room by then Sergeant Zenelovic. Sergeant Zenelovic deposited the defendant, left the room for a few seconds and returned with a bottled water for defendant. Defendant asked how long he would have to stay in the room, to which the Sergeant responded that it “won’t be too long, but we got some things we gotta [sic] do.” Defendant then asked, “in a case like this, what do you think?” The Sergeant responded, “well, you asked for a lawyer ... so without a lawyer I can’t talk to you.” The Sergeant continued by telling defendant that he (defendant) has some things to answer for and that someone died as a result of his actions. The conversation lasted approximately 10 minutes during which defendant subtly acknowledged some level of responsibility for the victim’s death. The defendant showed no signs of being unable to understand the questions posed during his interaction with Sergeant Zenelovic. The Sergeant concluded the discussion and exited the room.\nThe defendant remained in the room undisturbed until approximately 8:20 p.m. when another officer opened the door and remained in the doorway to advise defendant of his status and that the officer had spoken with defendant’s mother. The officer informed defendant that he would be free to leave in a short while and driven by police to his mother’s house. The defendant asked if the officer thinks he (defendant) is in “big, big trouble,” to which the officer responded, in substance, that if defendant were in big trouble, he would not be going home. The defendant then remained in the interview room without further communication until he was retrieved by Investigator Kamykowski at approximately 10:06 p.m. to be driven to his mother’s house.\nOther than defendant’s requests for counsel, he never sought to terminate either interview at the PSB. No weapons were displayed during either interview, and neither the investigators nor the Sergeant ever used force or in any way threatened or promised the defendant anything to get him to talk.\n4. Expert Testimony\nA. Dr. Jerid Fisher\nDr. Fisher testified that he is a licensed and board-certified diagnostic and forensic neuropsychologist. In that capacity, he conducts comprehensive evaluations to look for the presence or absence of brain damage based upon the way people think and behave. One form of evaluation the doctor utilizes to determine a person’s intellectual capacity includes testing to determine whether a person is feigning a brain injury or intellectual disability. The doctor’s experience with this form of evaluation dates back to his graduate school days, between 1975 and 1981. Dr. Fisher’s foundational testimony relative to his background, education, training and experience sufficiently qualified him to give expert testimony. The doctor’s curriculum vitae outlining the entirety of his training and experience was received at the hearing as defendant’s exhibit B. The pertinent portions of Dr. Fisher’s testimony regarding the substance of his assessment of defendant follow.\nDr. Fisher examined defendant to assess his ability to understand the five prongs of Miranda and determine whether he was capable of making a knowing, voluntary and intelligent waiver of his Miranda rights on November 14, 2013. Within that diagnostic scope, one of the doctor’s tasks was to determine the level of defendant’s intellectual disability or whether he was feigning an intellectual disability, or “malingering.” Dr. Fisher testified that the terms “mental retardation” and “intellectual disability” are used interchangeably to describe approximately one to two percent of the population with substantial limitations in intelligence quotient (IQ) and adaptive functioning. The doctor testified that a diagnosis of mental retardation requires an IQ that falls between 55 and the low 70s, but that the diagnosis cannot be based on IQ alone. He testified that the diagnosis must also be based on a person’s functional capacities and adaptive skills, such as a person’s ability to communicate and function in the community. Mentally retarded people, according to Dr. Fisher, are limited in their social actions and the kind of work they can perform. Some hallmark traits of mental retardation, says Dr. Fisher, include pronounced limitations in abstract thinking, profound impairment in the executive thinking, i.e., planning and organizational difficulties, and consideration of consequences. The doctor also testified that mentally retarded people tend to be acquiescent, or readily willing to agree with almost anything, impulsive, and possess a limited ability to understand behavioral risks. He testified that mentally retarded people frequently require support to live in the community and very often live with their families who assume much of the responsibility for their customary daily activities, such as handling and managing their money, shopping, cooking, and transportation. Dr. Fisher concurred with “what [experts in] the field say[ ] about mental retardation and the capacity to appreciate and waive all five prongs [of Miranda]” that mentally retarded people have “an inability to understand and make a knowing [Miranda] waiver” (Mar. 12, 2015 hearing tr at 36). He emphasized that one study found that “[e]ven individuals with IQ’s between 71 and 88 were found to lack the necessary understanding of the rights” (tr at 36).\nDr. Fisher met with the defendant on two occasions for a total of approximately 8 to 10 hours. He testified that he reviewed defendant’s school records which revealed that defendant was in special education classes. The records also revealed that defendant repeated eighth grade three or four times and was finally dismissed from school altogether. The dismissal, according to Dr. Fisher’s review, was “essentially because they could not teach [defendant] anymore and he could not learn” (tr at 40). Dr. Fisher testified that his impression of defendant from reviewing his school records is that he had “profound intellectual limitations . . . and remained functionally illiterate for his entire school experience! ] . . . typically showing an IQ in the 50 range” (tr at 41). Dr. Fisher described defendant as one who thinks very much in the moment, not planfull, thoughtful or abstract in his thinking, but yet cooperative and friendly. The doctor testified that defendant’s level of education is equivalent to a child in the second or third grade, and that his reading level is that of a child in kindergarten.\nThe doctor interviewed the defendant to assess his understanding of the five prongs of Miranda. The interview occurred on two separate dates, December 12, 2014, and December 19, 2014. Dr. Fisher testified that the five prongs of Miranda consist of (1) the right to remain silent, (2) anything you say can be used against you in a court of law, (3) you have the right to talk to a lawyer before answering any questions, (4) if you cannot afford a lawyer, one will be provided to you before answering any questions, and (5) if you do not wish to talk with me, you can stop at any time. Of these five prongs, the doctor testified that he thought defendant understood only the third prong, his right to counsel. The doctor testified, based upon his review of defendant’s interview with Investigators Klein and Kamykowski (People’s exhibit 4), that Investigator Klein downplayed the significance of the Miranda warnings in his preamble and incorrectly interpreted defendant’s answers regarding his educational background, not truly appreciating the extent of defendant’s intellectual disability. The doctor testified that Investigator Klein’s total presentation of the five prongs of Miranda spanned approximately 23 seconds. He felt that, given defendant’s intellectual limitations, the investigator’s administration of Miranda was inadequate to insure that defendant sufficiently understood the rights he was waiving. According to Dr. Fisher, to adequately administer Miranda to an adult person with this level of cognitive deficiency, “ideally what should have happened was after each prong was read to [defendant] [the investigators] should have said . . . what does that mean? What’s the implication of that? Because that goes to the depth of processing question[ ]” (tr at 137). Indeed, the doctor went so far as to say, “given [defendant’s] intellectual deficits [,] . . . his processing abilities . . . preclude him from . . . th[e] level of understanding ... [a person of normal intelligence] would have . . . [when] . . . having . . . Miranda Warnings read to [him]” (tr at 138 [italics added]).\nDr. Fisher further pointed but that defendant’s acquiescence due to his intellectual disability renders him overly compliant. For example, he noted that the defendant did not appropriately correct the investigator’s minimization of his (defendant’s) inability to understand “big words.” In Dr. Fisher’s opinion, defendant did not know enough to clarify that his inability to understand “big words” is not simply due to unfamiliarity, but, rather, the result of a lifelong intellectual disability that, among other things, caused him to repeatedly fail eighth grade.\nDr. Fisher conducted a number of tests on defendant as part of his assessment. The various tests are discussed in detail in his report, which was received at the hearing as defendant’s exhibit C. The most important of those tests, according to Dr. Fisher’s testimony, is the Wechsler Adult Intelligence Scale, fourth revision (WAIS IV). The WAIS IV test is used, among other reasons, to determine a person’s full-scale IQ. The doctor testified that the defendant received a full-scale IQ score of 56 on the WAIS IV. He explained that this score places defendant in the 0.2 percentile, which means that 99.8% of the standardization sample on this test scored higher than defendant. The doctor also pointed out that the defendant’s verbal comprehension and processing speed scores were in the 0.2 percentile, which is suggestive and consistent with someone who is mentally retarded.\nDr. Fisher testified that it “never crossed [his] mind” that defendant may have been malingering during the assessment because the records he reviewed regarding defendant’s history, in his opinion, amply bear out that defendant is intellectually disabled. The doctor noted that defendant’s scores were within the typical range of a mentally retarded person and, moreover, that his IQ was consistent with the reported IQs of other mentally retarded people “over the years.”\nIn the final analysis, Dr. Fisher’s opinion, based upon his review of defendant’s school records, the archival evidence, police records, his interviews with and testing of the defendant, the videotaped interview with the investigators (People’s exhibit 4), and the established literature in the field on this issue, is that defendant was incapable of making a knowing, voluntary, and intelligent waiver of his Miranda rights on November 14, 2013, due to his intellectual disability together with the circumstances surrounding the interrogation and the procedures employed by the investigators.\nB. Dr. Trica Peterson\nDr. Peterson testified for the People in rebuttal. By way of background, Dr. Peterson testified that she is a board-certified and licensed forensic psychologist who specializes in, among other areas, treating people with developmental disabilities. Dr. Peterson distinguished her expertise from that of a neuropsychologist (like Dr. Fisher). She explained that neuropsychology involves evaluating and assessing different conditions of the brain, whereas forensic psychology “demonstrates knowledge and proficiency in [sic] specific to forensic evaluation as opposed to general psychological training” (tr at 147). Dr. Peterson’s foundational testimony relative to her background, education, training and experience sufficiently qualified her to give expert testimony. The doctor’s curriculum vitae outlining the entirety of her training and experience was received at the hearing as People’s exhibit 5. The pertinent portions of Dr. Peterson’s testimony regarding the substance of her assessment of defendant follow.\nDr. Peterson met with defendant together with his attorney on two occasions to evaluate whether he possessed the capacity to understand and waive his Miranda rights. In preparation for the evaluation, the doctor reviewed defendant’s videotaped interview with the police investigators, an audio-recorded telephone call between defendant and Investigator Klein, defendant’s supporting depositions and school records, Dr. Fisher’s report (defendant’s exhibit C) and some of his interview notes, as well as the CPL article 730 examination report. Dr. Peterson acknowledged that defendant’s school records revealed consistent intellectual functioning scores “in the fifties and sixties” which she testified placed defendant “in the mild mental retardation range” (tr at 152). The doctor testified that defendant’s school records also showed that he has a third grade math level and first grade reading level.\nDr. Peterson testified that she did not test defendant’s IQ, because she trusted the IQ test results obtained by Dr. Fisher in his examination of defendant. Dr. Peterson testified that a person’s IQ is “not a good indication of someone’s overall functioning in the world . . . [S]omebody with low intellectual functioning . . . may do very well in the world and be able to navigate . . . common sense, real world situations better than . . . would be expected” (tr at 154). The doctor elaborated by reference to defendant’s adaptive functioning scores. She testifled that defendant’s adaptive functioning scores from 2002 were 90 and 83 and that the state benchmark to qualify for services through the Office for People with Developmental Disabilities is 70. Thus, according to Dr. Peterson’s testimony, defendant’s adaptive functioning skills, notwithstanding his intellectual disability, would have at that time disqualified him from receiving state services. Dr. Peterson acknowledged that Dr. Fisher’s updated assessment results of defendant’s adaptive functioning yielded a score of just 50. She testified that such a dramatic drop in one’s adaptive functioning is highly unusual and would typically be caused by a traumatic brain injury or other insult to the brain between the relevant time frame. Dr. Peterson pointed out that a person’s adaptive functioning score is derived from the reports of others familiar with the test subject, and that the data provided to Dr. Fisher regarding defendant’s adaptive functioning was reported by defendant and his mother. Thus, Dr. Peterson concluded, the data may have been exaggerated, which would explain, short of defendant having suffered a traumatic brain injury, the 40-point drop in defendant’s adaptive functioning score.\nDr. Peterson testified that there is “no broad brush to say intellectual disability equals lack of Miranda [sic] knowledge; it’s oversimplifying” (tr at 160). She testified that “there’s a wide range of ability within intellectual disabilities” (tr at 60) and that 10 people with the same IQ could have very different levels of functioning in different circumstances. For this reason, in Dr. Peterson’s opinion, in assessing a suspect’s ability to understand Miranda it is vital to obtain as much information as possible about the suspect’s interactions with the police.\nWith respect to defendant’s behavior and speech during his videotaped interview at the PSB, the doctor noted that the defendant “spoke at a normal conversational tone and speed [,]” that he was able to “process the . . . questions [he was asked] and respond in a fairly normal pace” and that “there weren’t long delays between a question being asked and him responding” (tr at 161). She also testified that defendant “use[d] some fairly advanced vocabulary terms during the interrogation video] ]” such as “traumatized,” “tragedy,” “devastated,” and “composure,” (tr at 161) and that he used these words without prompting and in proper context and placement in the conversation.\nAdditionally, Dr. Peterson testified that defendant’s behavior during her clinical assessment of him was remarkably different than her observations of him in the videotaped interview. For example, she testified that during her assessment defendant frequently stated that the words being used were “really big words.” She also testified that there were very long pauses between the questions she asked and the defendant’s responses. The doctor opined that the defendant’s overall presentation during her assessment was “remarkably different” than his presentation during his interview with the investigators. This fostered her opinion that the defendant was malingering and exaggerating the extent of his intellectual disability.\nDr. Peterson’s evaluation of defendant included, among other things, a series of cognitive functioning tests. These tests included the mini mental state evaluation, which screens for cognitive impairment; the validity indicator profile, which seeks to ascertain the presence of any malingering or exaggeration; and the Miranda rights comprehension instruments, comprised of four different tests designed to look at the nature of Miranda rights and how the rights are utilized at different parts of the interrogation process. The doctor’s testimony revealed that while she agrees that defendant is intellectually disabled, she also believes — given defendant’s performance on the tests she administered, as well as her review of the videotaped interview with the investigators and the other pertinent data she was provided for the assessment — that the defendant exaggerated his deficits during the respective expert assessments. Dr. Peterson concluded, based upon the totality of the evidence she reviewed, to include consideration of defendant’s subnormal IQ as but one factor, that the defendant is capable of making a knowing, voluntary, and intelligent waiver of his Miranda rights.\nConclusions of Law\nMiranda warnings are required when a person is subjected to custodial interrogation (see Miranda v Arizona, 384 US 436 [1966]; People v Berg, 92 NY2d 701 [1999]). Whether a suspect is in custody is generally a question of fact (see People v Centano, 76 NY2d 837 [1990]), and the standard to be applied is whether a reasonable person, innocent of any crime, would have believed he was not free to leave (see People v Yukl, 25 NY2d 585 [1969]; People v Brewer, 118 AD3d 1407, 1408 [4th Dept 2014], citing id.).\n“[F]or a [custodial] statement to be admissible, the People must prove a voluntary, knowing, and intelligent waiver of the privilege against self-incrimination” (People v Knapp, 124 AD3d 36, 41 [4th Dept 2014] [citations and internal quotation marks omitted]). “Whether a defendant knowingly and intelligently waived his . . . [Miranda] rights ... is determined upon an inquiry into the totality of the circumstances surrounding the interrogation” (id. [citations and internal quotation marks omitted]). The inquiry includes consideration of the defendant’s “ ‘age, experience, education, background, and intelligence, and . . . whether he . . . has the capacity to understand the warnings . . . , the nature of his . . . Fifth Amendment rights, and the consequences of waiving those rights’ ” (id., citing Fare v Michael C., 442 US 707, 725 [1979], reh denied 444 US 887 [1979]).\nThe law has long been clear that an express or explicit waiver of rights is not required (see North Carolina v Butler, 441 US 369 [1979]; People v Sirno, 76 NY2d 967 [1990]; People v Davis, 55 NY2d 731 [1981]; People v Goncalves, 288 AD2d 883 [4th Dept 2001]; People v Benton, 158 AD2d 987 [4th Dept 1990]). Rather, “a waiver may be inferred from defendant’s conduct” (Benton, 158 AD2d at 987 [citations omitted]). Conduct demonstrating waiver includes whether the defendant indicated that he understood his rights, whether he freely chose to answer questions posed by the police, whether his statements occurred over a relatively brief period of time after receiving and acknowledging that he understood the Miranda warnings, whether he asked for a lawyer, and whether there was any coercion, threats or pressure used by the police (see Sirno, 76 NY2d at 968; Davis, 55 NY2d at 731; Goncalves, 288 AD2d at 884; Benton, 158 AD2d at 987).\n“Where a person of subnormal intelligence is involved, close scrutiny must be made of the [totality of the] circumstances of the asserted waiver” (Knapp, 124 AD3d at 41 [citations and internal quotation marks omitted]). The totality of the circumstances “includes [consideration of] the defendant’s limited mental capacity as but one factor” (People v Matthews, 148 AD2d 272, 274 [4th Dept 1989], appeal dismissed 74 NY2d 950 [1989]). “A defendant’s mental deficiency weighs against the admissibility of an elicited confession, so that any such confession must be measured by the degree of the defendant’s awareness of the nature of the rights being abandoned and the consequences of the decision to abandon them” (Knapp, 124 AD3d at 41 [citation and internal quotation marks omitted]). “A suspect of subnormal intelligence may effectively waive his or her Miranda rights so long as it is established that he or she understood the immediate meaning of the warnings . . . , i.e., how the Miranda rights affected the custodial interrogation” (id. [citation and internal quotation marks omitted]). As explained by the Court of Appeals in People v Williams (62 NY2d 285, 289 [1984]):\n“Although a suspect must be apprised of his or her rights, providing a general legal education is not the business of the police or the courts. It must be shown that the individual grasped that he or she did not have to speak to the interrogator; that any statement might be used to the subject’s disadvantage; and that an attorney’s assistance would be provided upon request, at any time, and before questioning is continued. What will suffice to meet this burden will vary from one case to the next” (idr, Knapp, 124 AD3d at 41, quoting id.).\nAdditionally, the People must also prove beyond a reasonable doubt that defendant’s statements at issue were voluntary (see People v Thomas, 22 NY3d 629, 641 [2014]; People v Guilford, 21 NY3d 205 [2013]; People v Yarter, 41 NY2d 830 [1977]; People v Valerius, 31 NY2d 51 [1972]). Voluntariness is determined by assessing “ ‘the totality of all the surrounding circumstances — both the characteristics of the accused and the details of the interrogation’ ” (Dickerson v United States, 530 US 428, 434 [2000], citing Schneckloth v Bustamonte, 412 US 218, 226 [1973]). “[Deficient intelligence is but one factor in the whole totality of circumstances to be considered in determining voluntariness . . . unless the degree of retardation is so great as to render the accused completely incapable of understanding the meaning and effect of his confession” (Williams, 62 NY2d at 289 [citation and internal quotation marks omitted; emphasis added]). “[C]onvictions following the admission into evidence of confessions which are involuntary, i.e., the product of coercion, either physical or psychological, cannot stand” (Thomas, 22 NY3d at 644 [citation and internal quotation marks omitted]). Whether a defendant’s will was overborne by “deception or other psychologically directed stratagems . . . will . . . depend upon the facts of each case, both as they bear upon the means employed and the vulnerability of the declarant” (id. at 642). “[T]he voluntariness inquiry is not limited to instances in which the claim is that the police conduct was inherently coercive” (Knapp, 124 AD3d at 42 [citation and internal quotation marks omitted]). “[I]t applies equally when the interrogation techniques were improper only because, in the particular circumstances of the case, the confession is unlikely to have been the product of a free and rational will” {id. [citation and internal quotation marks omitted]).\nThere is no dispute here that the defendant was subjected to custodial interrogation, and that the primary statement sought to be introduced at trial is the product of that interrogation. The questions to be resolved are whether, given defendant’s intellectual disability, he lacked the capacity to knowingly and intelligently waive his Miranda rights, and whether his mental limitations, when combined with the police interrogation tactics employed, rendered his statements involuntary as a matter of law. The defendant argues that his statements should be suppressed primarily on two grounds: (1) because he was unable to make a voluntary and knowing waiver of his Miranda rights due to his limited mental capacity and the specific circumstances of the interrogation; and (2) because his intellectual disability, combined with improper interrogation tactics, rendered his statements involuntary. The court disagrees. The court’s decisional analysis is guided by the Fourth Department’s 2014 decision in Knapp and the authorities cited therein. The Fourth Department, in reversing Knapp’s conviction, found that Knapp’s confession should have been suppressed on two grounds, namely, (1) “that he did not knowingly, voluntarily, and intelligently waive his Miranda rights because he lacked the capacity to do so,” and (2) “because his intellectual limitations, combined with coercive police tactics, rendered his statements involuntary” (id. at 38). While the facts here are generally analogous to Knapp, for the reasons that follow the court finds that the credible evidence presented at the hearing — to include, perhaps most significantly, the videotaped interrogation of defendant with Investigators Kamykowski and Klein — sufficiently distinguishes this case from Knapp to warrant the conclusion that defendant’s November 14, 2013 custodial statements accorded with the requirements of Miranda under the particular circumstances of this case.\nTurning first to defendant’s contention that the People failed to prove beyond a reasonable doubt that he was unable to make a voluntary and knowing waiver of his Miranda rights due to his limited mental capacity, the record here establishes, and the People do not dispute, that the defendant has significant cognitive deficits. Consider the following pertinent comparisons to Knapp. The defendant’s IQ score here (56) is 12 points lower than defendant Knapp’s (68). The defendant here, unlike defendant Knapp, did not graduate with an individualized education plan diploma (id. at 42) and failed grade eight repeatedly, never progressing any further in his education. Defendant Knapp reportedly read at a second- or third-grade level. The defendant here, according to the defense expert’s testimony, reads at the level of a child in kindergarten, and has an overall level of education akin to a child in the second or third grade. Given these comparisons, the defendant’s reported cognitive deficits, standing alone, would appear to render him incapable of making a knowing, voluntary, and intelligent waiver of Miranda.\nHowever, Knapp also makes clear that the degree of a suspect’s intellectual limitations, while a necessary part of the analysis, may not alone be sufficient to determine whether his or her mental ability is below the level required to adequately comprehend and validly waive Miranda (see id. at 46). Hence the well settled fact that a suspect of subnormal intelligence may knowingly, voluntarily, and intelligently waive “so long as it is established that he or she understood the immediate meaning of the warnings” (id. at 41 [citation and internal quotation marks omitted]). There is no dispositive factor where determination of a Miranda waiver within the context of subnormal intelligence is concerned. Each case is to be determined on its particulars, based upon the “totality of the circumstances surrounding the interrogation” (id. [citations and internal quotation marks omitted]). The totality of the circumstances surrounding the interrogation here, in this court’s view, warrants denial of suppression on both grounds alleged by defendant.\nThe court has reviewed the videotape of the interrogation and is “therefore not consigned to an evaluation of a cold record, or limited to reliance on the [investigators’] testimony” (id. at 46 [citation and internal quotation marks omitted]). The court’s review of the video, in view of the totality of the circumstances and evidence presented, reveals that the defendant’s oral statement was voluntarily made during a custodial interrogation after a proper advisement of Miranda rights and a knowing, voluntary, and intelligent waiver of those rights. The court credits the testimony of Investigators Kamykowski and Klein, and the videotape bears out, that nothing about defendant’s presentation or responses to their questions suggested that he lacked the capacity to appreciate or did not understand what was taking place. Defendant was appropriately engaged and responsive to all the questions he was asked throughout the interview. Investigator Klein inquired with defendant regarding his level of education, and in observing defendant’s demeanor, responses, and reactions at that time, besides having previously interviewed defendant at length on a prior occasion, the court finds that defendant’s overall behavior revealed no signposts or queues that would or should have suggested to the investigator that defendant needed a more detailed and simplified explanation of Miranda as was provided, for example, to the defendant in Williams (see Williams, 62 NY2d at 288). Williams involved a “functionally illiterate, borderline mentally retarded man who also suffered from organic brain damage as a result of having been struck by a car during his childhood” (id. at 287). The defendant here reported no such trauma nor otherwise outwardly displayed any hint that he is “a bit ‘slow’ ” (id. at 288) and consequently would need the immediate import of each warning separately explained to him to consummate a valid waiver. Nor, in reviewing the videotape, does the defendant’s demeanor, speech pattern, or manner of responding to the questions posed to him during the interrogation suggest, either individually or collectively, that he lacks the depth of processing to understand his Miranda rights as they were administered, relative to the context and overall tenor of the interview in its entirety. As such, the investigators here had no impetus to exercise the precautions taken in Williams — that is, here, unlike in Knapp (which references Williams on this point), there were no clear indications, discernible on review of the videotape, that defendant’s intellectual ability was subnormal (cf. Knapp, 124 AD3d at 45).\nEqually pertinent on review of the videotape is the readily apparent conversational flow of the interrogation, as well as defendant’s seemingly effortless summons and use of certain more sophisticated terms (as referenced in Dr. Peterson’s testimony, supra) in context during its course. Moreover on this point, although not highlighted by the experts or counsel, the court also notes defendant’s apt use of the term “decisive” at approximately 5:04:10 p.m. on the interview monitor. Under the circumstances and within the context of the interrogation at that time, there may have been no better choice of words.\nThe credible evidence also revealed that defendant has two children, a girlfriend, and a sound memory, the latter of which he demonstrated by pointing out to Investigator Klein that he recalled his face from a happenstance encounter that occurred five years earlier where the investigator was seated in an unmarked car with a pizza delivery sign on top of it. Defendant even recalled that Investigator Klein was a uniformed officer at the time. Additionally, the proof revealed that defendant admitted to having a New York State driver’s license, but that it was suspended. That defendant possessed a driver’s license means that he also possesses the ability to have passed all aspects of the state driver’s test. And whatever the status of defendant’s driving privileges, the proof established that he continues to drive when it suits his needs, such as leisurely driving himself to Dunkin’ Donuts on the night in question. Similarly availing against defendant’s reported level of adaptive functioning is his demonstrated familiarity with the area of the city where the instant offense occurred, inasmuch as the proof established, by defendant’s own admissions, that he spent an abundance of time at Dunkin’ Donuts, because his brother owned a clothing store in that vicinity.\nFurthermore, the defendant here, unlike defendant Knapp, essentially maintained his story, even in the face of a rather lengthy and persistent interrogation which escalated in intensity toward the latter portion. And perhaps most compellingly, above all, notwithstanding the investigators’ burgeoning frustration with defendant’s steadfast yet measured refusal to relent and confess to their theory of the case, defendant ultimately invoked his right to counsel. The court agrees with the People that this behavior significantly distinguishes the defendant here from defendant Knapp, whose acquiescence and overly compliant manner, combined with the custodial interrogation tactics employed, engendered his confession. Such was not the case here. Indeed, on the contrary, when defendant was no longer comfortable having the discussion, he demonstrated the recall and fortitude to invoke his right to counsel, thereby asserting one of the very Miranda rights he now claims an inability to have knowingly, voluntarily, and intelligently waived at the outset, due to his intellectual limitations.\nThe court also agrees with the People that the defendant depicted in the interview with the investigators is a strikingly more functional and socially sophisticated person than was revealed during both expert evaluations. The proof revealed that defendant changed his story over time regarding the events surrounding the incident. This behavior is relevant inasmuch as it demonstrates that defendant possesses a higher order of thinking than he exhibited to the experts, or, at the very least, a level of understanding well beyond that of one who does not know his date of birth, the city in which he lives, or the sum of one plus one (tr at 165-167). Juxtaposing this evidence with defendant’s behavior and presentation on the videotape lends credence to the contention that he was malingering during the expert evaluations to manipulate the results. These discrepancies are not reconcilable with the credible evidence and, thus, serve to impugn the defense expert’s opinion regarding the extent of the defendant’s intellectual disability and adaptive functioning skills, and support the prosecution’s theory that the defendant exaggerated his limitations to buttress his contention that he lacks the capacity to knowingly, voluntarily, and intelligently waive his Miranda rights.\nBased upon the totality of the circumstances, the court concludes that the People have established beyond a reasonable doubt that defendant knowingly, voluntarily, and intelligently waived his Miranda rights, and thus, defendant’s motion to suppress his November 14, 2013 videotaped statements is denied.\nNor, contrary to defendant’s additional contention, were his videotaped statements involuntary as a matter of law. The defense expert’s testimony that defendant is an acquiescent and overly compliant person due to his intellectual disability is hollowed by what is revealed in the video. The defendant depicted in the video steadfastly defends his version of the events to the bitter end, a version which remained, to the obvious chagrin of the investigators, substantively consistent throughout the interrogation. The defendant was told over and over again by the investigators that his story did not make sense and that he was lying to avoid responsibility for the victim’s death. Yet, despite the investigators’ persistence, the defendant here, unlike defendant Knapp, never (to any meaningful degree) changed his answers to fit what he believed the investigators wanted to know (cf. Knapp, 124 AD3d at 47). Analogous to Knapp, the investigators here “used techniques . . . popularly used in convincing someone to answer questions in a particular way” (id. [citation and internal quotation marks omitted]). For example, they exercised rapport building with the defendant and “tried to appear to be . . . friendly . . . , good cop[s] that might do something to help [him] if he gave the correct answer” (id.). They also told the defendant that they knew he was not a “bad guy,” and warned that if he did not tell the truth (i.e., conform his story to the investigators’ theory of the case that he caused the victim’s death, but not intentionally) they would be forced to conclude that he intended to kill the victim. Also similar to the interrogation techniques employed in Knapp, most of the investigators’ questions here “were leading in nature, and [they] repeated [their] question [s] when . . . not satisfied with defendant’s response, urging defendant to ‘be honest’ . . . and to tell the truth” (id.). While a suspect with an intellectual disability may be “more susceptible to subtle forms of coercion” (id. at 45, quoting United States v Preston, 751 F3d 1008, 1020 [9th Cir 2014] [citation and quotation marks omitted]) and when “presented with leading or suggestive questions . . . frequently seek to conform to the perceived desires of the interrogator” (id. at 47, quoting 751 F3d at 1024 [citation and internal quotation marks omitted]), the videotape here, distinguishable from Knapp, reveals that the defendant’s reduced mental capacity notwithstanding, he was neither vulnerable nor susceptible to the investigators’ interrogation techniques. In considering defendant’s intellectual limitations as but one factor in the whole totality of circumstances (Williams, 62 NY2d at 289; Matthews, 148 AD2d at 274), the court cannot say, based upon its review of the video as well as the other credible evidence, that defendant’s statements to the investigators were “unlikely to have been the product of a free and rational will” (Knapp, 124 AD3d at 42 [citation and internal quotation marks omitted]), or that the degree of his intellectual limitations “is so great as to render [him] completely incapable of understanding the meaning and effect of his [statements]” (Williams, 62 NY2d at 289).\nThe court therefore concludes, based upon the totality of the circumstances, including the defendant’s intellectual limitations, alleged acquiescence and compliance tendencies, and the interrogation tactics utilized by the interviewing investigators, that the People have proved beyond a reasonable doubt that defendant’s videotaped statements were voluntary, and thus, defendant’s motion to suppress on the ground that they were involuntary in the traditional due process sense is also denied.\nAs to the right to counsel question, the court finds that the defendant unequivocally requested counsel at approximately 4:50 p.m. when he asked, “Can I talk to, like [sic], my lawyer?” (see People v Harris, 93 AD3d 58, 68 [2d Dept 2012], affd 20 NY3d 912 [2012], quoting People v Jones, 21 AD3d 429, 429 [2d Dept 2005], lv denied 6 NY3d 755 [2005] [holding that defendant’s statements “ ‘maybe you should talk to my attorney about it,’ ‘maybe I should talk to my attorney,’ and T think maybe I should talk to my attorney’. . . , viewed in context, articulated his desire to have counsel present such that a reasonable police officer should have understood that he was requesting an attorney”] [citation and internal quotation marks omitted]). Defendant invokes for the second time at approximately 5:32:30 when he states that he would rather talk to his lawyer. And yet again at approximately 5:35:20 when he states that he “didn’t think it would ... go this far” and “would rather talk to . . .a lawyer.” Defendant’s first request, “Can I talk to, like [sic], my lawyer?” (emphasis added), when viewed in context, articulated his desire to have counsel present such that Investigator Klein should have understood that he was requesting an attorney, and all questioning should have ceased. But it did not. Instead, Investigator Klein responded, “absolutely you have that right, we talked about it early on” and then zealously barrels ahead with the interrogation without honoring, or even seeking to clarify, defendant’s request until finally terminating the interview at 5:37 p.m., shortly after defendant’s third request for counsel. Indeed, defendant’s requests for counsel were never honored. Rather, he was taken to a more traditional interrogation room in the PSB where he was further interrogated by Sergeant Zenelovic for approximately 10 minutes — still without counsel — after which he sat idle for over 3V2 hours until 10:06 p.m. when he was released.\nTherefore, any and all statements following defendant’s invocation of his right to counsel at 4:50 p.m. are suppressed.\nConclusion\nFor the aforesaid reasons, that branch of defendant’s omnibus motion seeking suppression of statements is hereby granted in part and denied in part.\n. The People’s papers state that Officer Schreier allowed defendant to place his initials next to four changes or mistakes contained in his statement (People’s exhibit 1). The court notes four locations in the statement where words are crossed out and there appears to be an “X,” however there are no initials at or near those locations.\n. The investigators’ theory was that defendant followed the victim into the street, not because defendant was concerned for the victim’s safety, as defendant claimed, but, rather, because defendant wanted to physically confront the victim as a result of the victim’s disrespectful conduct just minutes earlier inside Dunkin’ Donuts.\n. Sergeant Zenelovic has since been promoted to Lieutenant Zenelovic.\n. The court ordered a CPL article 730 examination at defendant’s request on April 9, 2014. Pursuant to the examination, defendant was deemed competent to assist in his defense. The examination report also included the opinion that defendant was malingering.\n. With respect to defendant’s separate written statements to Officer Schreier (People’s exhibit 1) and Investigators Kamykowski and Klein (People’s exhibit 2), the court finds that defendant was not under arrest when he provided them. Nor did defendant render either statement under circumstances functionally equivalent to being in custody so as to trigger Miranda. The defendant appeared voluntarily on both occasions to interview with law enforcement. He was never threatened or promised anything on either occasion nor otherwise improperly induced into talking. The defendant was not handcuffed or placed in any setting at the time of the statements commensurate with a custodial arrangement. Although defendant’s written statement to Investigators Kamykowski and Klein was taken while he was seated in the back of their marked patrol car, the proof revealed that the patrol car doors were not locked, defendant was at a familiar location (Dunkin’ Donuts), remained at all times free to leave and, in fact, did leave of his own accord at the conclusion of the interview. Thus, the court finds that said statements need not have been preceded by Miranda warnings, and suppression is denied. The court also declines to suppress defendant’s statements to Deputy Jerrold. Notwithstanding that these statements were made after defendant had been placed under arrest and during his transport to booking, they were unsolicited and spontaneously uttered (see People v Tavares-Nunez, 87 AD3d 1171, 1172 [2d Dept 2011] [and cases cited therein], lv denied 19 NY3d 1105 [2012]).\n. Dr. Peterson’s psychological evaluation report (People’s exhibit 6) points out that defendant also used the terms “altercation” and “intention” correctly and in context during his videotaped interview.\n. To be clear, the court is not suggesting that Dr. Fisher’s testimony that defendant is acquiescent and overly compliant was at all contrived or not a candid reflection of his observations of defendant during his evaluation. The court is simply saying that however the defendant may have presented to the doctor, his presentation in the video manifests the ability to remain fastened under the pressure of traditional custodial interrogation — something defendant Knapp, given his intellectual limitations, was apparently unable to do.",
+        "type": "majority",
+        "author": "John L. DeMarco, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Timothy P. Donaher, Public Defender, Rochester (Amanda Connor and Jonathan A. Schnader of counsel), for defendant.",
+      "Sandra J. Doorley, District Attorney, Rochester (Alyssa Truelove of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[14 NYS3d 642]\nThe People of the State of New York, Plaintiff, v Anthony Johnson, Defendant.\nCounty Court, Monroe County,\nJuly 1, 2015\nAPPEARANCES OF COUNSEL\nTimothy P. Donaher, Public Defender, Rochester (Amanda Connor and Jonathan A. Schnader of counsel), for defendant.\nSandra J. Doorley, District Attorney, Rochester (Alyssa Truelove of counsel), for plaintiff."
+  },
+  "file_name": "1959-01",
+  "first_page_order": 500,
+  "last_page_order": 523
+}

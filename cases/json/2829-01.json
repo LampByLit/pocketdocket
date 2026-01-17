@@ -1,0 +1,957 @@
+{
+  "id": 12299836,
+  "name": "435 Central Park West Tenant Association et al., Plaintiffs, v. Park Front Apartments, LLC, Defendant",
+  "name_abbreviation": "435 Central Park West Tenant Ass'n v. Park Front Apartments, LLC",
+  "decision_date": "2017-07-24",
+  "docket_number": "",
+  "first_page": "772",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 772"
+    },
+    {
+      "type": "parallel",
+      "cite": "58 N.Y.S.3d 898"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S Ct 1190",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603215
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1194"
+        },
+        {
+          "page": "1198-1199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1190-01"
+      ]
+    },
+    {
+      "cite": "69 AD3d 422",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5730439
+      ],
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/69/0422-01"
+      ]
+    },
+    {
+      "cite": "513 US 219",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1333903
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0219-01"
+      ]
+    },
+    {
+      "cite": "5 USC § 8902",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "m"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "547 US 677",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3276298
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "697"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0677-01"
+      ]
+    },
+    {
+      "cite": "396 F3d 136",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9033638
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "139"
+        },
+        {
+          "page": "143"
+        },
+        {
+          "page": "143-144"
+        },
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/396/0136-01"
+      ]
+    },
+    {
+      "cite": "189 Misc 2d 170",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        221120
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/189/0170-01"
+      ]
+    },
+    {
+      "cite": "277 AD2d 81",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        547797,
+        548390
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/277/0081-02",
+        "/ad2d/277/0081-01"
+      ]
+    },
+    {
+      "cite": "446 F Supp 814",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3992416
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "821"
+        },
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/446/0814-01"
+      ]
+    },
+    {
+      "cite": "619 F2d 87",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1376725
+      ],
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/619/0087-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 3535",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 USC § 1701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 USC § 3532",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "860 F3d 69",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12276148
+      ],
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/860/0069-01"
+      ]
+    },
+    {
+      "cite": "97 NY2d 456",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1061723
+      ],
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/97/0456-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 23",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5663168
+      ],
+      "pin_cites": [
+        {
+          "page": "26-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/0023-01"
+      ]
+    },
+    {
+      "cite": "532 US 141",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9300835
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/532/0141-01"
+      ]
+    },
+    {
+      "cite": "533 US 525",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0525-01"
+      ]
+    },
+    {
+      "cite": "518 US 470",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1730146
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0470-01"
+      ]
+    },
+    {
+      "cite": "430 US 519",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12125732
+      ],
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0519-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 755",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5697018
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "763"
+        },
+        {
+          "page": "764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0755-01"
+      ]
+    },
+    {
+      "cite": "517 US 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11746523
+      ],
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0735-01"
+      ]
+    },
+    {
+      "cite": "545 F3d 98",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3860053
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "106"
+        },
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/545/0098-01"
+      ]
+    },
+    {
+      "cite": "533 US 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313070
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "226-227"
+        },
+        {
+          "page": "221"
+        },
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0218-01"
+      ]
+    },
+    {
+      "cite": "383 F3d 49",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9205078
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "55"
+        },
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/383/0049-01"
+      ]
+    },
+    {
+      "cite": "467 US 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "490 F Supp 1219",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4150035
+      ],
+      "pin_cites": [
+        {
+          "page": "1224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/490/1219-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 469",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4372711
+      ],
+      "pin_cites": [
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0469-01"
+      ]
+    },
+    {
+      "cite": "78 AD2d 866",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5567135
+      ],
+      "pin_cites": [
+        {
+          "page": "866-867"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/78/0866-01"
+      ]
+    },
+    {
+      "cite": "505 US 788",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481206
+      ],
+      "pin_cites": [
+        {
+          "page": "796-797"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0788-01"
+      ]
+    },
+    {
+      "cite": "54 F3d 825",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7412057,
+        3618297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/54/0825-01",
+        "/us-app-dc/311/0421-01"
+      ]
+    },
+    {
+      "cite": "847 F Supp 964",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        171929
+      ],
+      "pin_cites": [
+        {
+          "page": "969"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/847/0964-01"
+      ]
+    },
+    {
+      "cite": "802 F2d 1443",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4329582,
+        1625239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/256/0049-01",
+        "/f2d/802/1443-01"
+      ]
+    },
+    {
+      "cite": "903 F2d 445",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535968
+      ],
+      "pin_cites": [
+        {
+          "page": "453-454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/903/0445-01"
+      ]
+    },
+    {
+      "cite": "476 US 355",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12556
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "369"
+        },
+        {
+          "page": "369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0355-01"
+      ]
+    },
+    {
+      "cite": "897 F2d 34",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526440
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "39"
+        },
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0034-01"
+      ]
+    },
+    {
+      "cite": "170 F Supp 3d 320",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4343938
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/170/0320-01"
+      ]
+    },
+    {
+      "cite": "571 F3d 247",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3667521
+      ],
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/571/0247-01"
+      ]
+    },
+    {
+      "cite": "5 USC § 704",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 USC § 2401",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "256 AD2d 100",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        197444,
+        197679
+      ],
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0100-02",
+        "/ad2d/256/0100-01"
+      ]
+    },
+    {
+      "cite": "505 US 88",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481203
+      ],
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0088-01"
+      ]
+    },
+    {
+      "cite": "612 F3d 97",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3701680
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/612/0097-01"
+      ]
+    },
+    {
+      "cite": "331 US 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157471
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/331/0218-01"
+      ]
+    },
+    {
+      "cite": "485 US 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13729
+      ],
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0293-01"
+      ]
+    },
+    {
+      "cite": "512 US 246",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39105
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0246-01"
+      ]
+    },
+    {
+      "cite": "463 US 85",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6191473
+      ],
+      "pin_cites": [
+        {
+          "page": "95-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0085-01"
+      ]
+    },
+    {
+      "cite": "496 US 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12121785
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "78-79"
+        },
+        {
+          "page": "78-79"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "78-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0072-01"
+      ]
+    },
+    {
+      "cite": "565 US 625",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12187192
+      ],
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0625-01"
+      ]
+    },
+    {
+      "cite": "62 NY2d 686",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2346351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/62/0686-01"
+      ]
+    },
+    {
+      "cite": "93 AD2d 772",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3329734,
+        3316134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/93/0772-01",
+        "/ad2d/93/0772-02"
+      ]
+    },
+    {
+      "cite": "235 AD2d 192",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1227412
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/235/0192-01"
+      ]
+    },
+    {
+      "cite": "253 AD2d 583",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        25626
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/253/0583-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4419064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0525-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1661,
+    "char_count": 40291,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2502790703241772
+    },
+    "sha256": "b97f8111dbaf888612447a55ae5f34b90d8ea856d40b9d28a57574a2f822f1ce",
+    "simhash": "1:3aa44fb10ee5c574",
+    "word_count": 6329
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "435 Central Park West Tenant Association et al., Plaintiffs, v Park Front Apartments, LLC, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nCarol R. Edmead, J.\nPlaintiffs are 435 Central Park West Tenant Association, an unincorporated association comprising low and moderate income tenants of the subject building located at 435 Central Park West, New York, NY 10025 (the building), and individual tenants of the building (the tenants). Plaintiffs commenced this action against defendant Park Front Apartments, LLC (owner), the current owner of the building, seeking declaratory judgment that plaintiffs’ tenancies are subject to the local Rent Stabilization Law (the RSL), damages stemming from overcharging, and various forms of injunctive relief.\nBefore the court is owner’s motion for summary judgment pursuant to CPLR 3212 seeking: (1) dismissal of plaintiffs’ complaint in its entirety; and (2) a judgment declaring that the subject building is and has always been subject to federal preemption from local rent regulation.\nPlaintiffs oppose dismissal, and cross-move for summary judgment on their first cause of action for a declaration that the building is subject to local rent regulation or, if the court finds that federal preemption is applicable, that the building is governed by HUD Handbook guidelines.\nBackground Facts\nThe Initial (1969) Subsidy and Regulatory Agreement\nOwner’s predecessor Jacob Haberman (the former owner) took title to the building on or about July 29, 1969 (owner aff ¶ 5, exhibit C; plaintiff affirmation ¶ 8). At the time, the subject property consisted of nine separate tenement buildings known as 431 through 439 Central Park West, which were rehabilitated and combined into a single apartment building to be used as rental housing for low and moderate income families (owner aff ¶ 6). The building contains 120 units (owner aff ¶ 4).\nOn July 29, 1969, in connection with the proposed rehabilitation of the building, the former owner and the Federal Housing Administration (FHA) entered into a “Regulatory Agreement for Limited Distribution Mortgagor Projects under Section 221(d)(3) of the National Housing Act, as Amended” (owner aff f 8, exhibit E [the 1969 Regulatory Agreement]). The former owner obtained a below-market, 3%, 40-year mortgage loan for the building, classifying the building as a “Subsidized Project,” or a section 221 (d) (3) Below Market Interest Rate project (owner aff ¶ 9 [the loan]). The loan was secured by a Secured Note insured and subsidized by the FHA Commissioner {id.).\nTenants first moved into the newly-unified building in January of 1971 (id.).\nThe 1980 Grant\nIn or about 1980, the former owner applied for, and HUD granted, a flexible subsidy grant pursuant to 12 USC § 1715z-la, also known as section 201 of the Housing and Community Development Amendments of 1978 (as added by Pub L 95-557, 92 US Stat 2080) (the 1980 subsidy). The former owner and HUD entered into a financial assistance contract on or about February 29, 1980 in connection with the 1980 subsidy (the 1980 subsidy contract). The 1980 subsidy contract required the former owner to maintain the low and moderate income character of the project until the loan’s maturity date, subsequently amended to extend until April 11, 2011 (owner aff f ¶ 18-19; plaintiff affirmation ¶ 10).\nFrom the loan’s origination to the owner’s prepayment of the loan on December 29, 2000, the parties agree that federal law preempted local and state regulations.\nThe Loan Prepayment and Use Agreement\nIn 1999, the former owner was considering prepayment of the loan (owner aff ¶ 20). Concerned that prepayment might end federal preemption of local and state regulations, the former owner sought the opinion of the New York State Division of Housing and Community Renewal (DHCR) regarding federal preemption of local rent regulation pursuant to a “superseding Use Agreement”—essentially a contract between HUD and owner setting forth rules, regulations, and obligations relating to the building after prepayment {id., exhibit J [the Use Agreement]).\nThe Use Agreement set forth, among other things, the regulatory scheme for the building after prepayment (owner aff ¶ 24, exhibit J). Part of the Use Agreement indicated that the owner “agreed to continue the low and moderate income affordability restrictions . . . , and has agreed to continue certain other restrictions until April 1, 2016” (owner aff f ¶ 24-26, exhibit J at 1-2).\nAs relevant here, the Use Agreement’s preemption provision provides that\n“[effective immediately upon the prepayment of the Mortgage Note, the Prior Use Agreement, the Regulatory Agreement and any and all other documents applying to the Project granted in favor of the Commissioner or the Department of Housing an [sic] Urban Development, or to which the Commissioner or the Department of Housing and Urban Development is a party . . . shall be terminated and of no further force or effect, except that this Use Agreement shall continue HUD’s preemption of state and/or local rent regulation” (owner aff ¶ 27, exhibit J f 7 [emphasis added]).\nOn December 17, 1999, in response to owner’s request, DHCR issued an opinion letter which found that\n“HUD’s position [that the project should retain its preemption after prepayment of its mortgage] is clearly reasonable [and that] it is DHCR’s opinion that after prepayment of its mortgage, [the building] should remain free of any existing New York City rent regulation until such time as HUD relinquishes its level of control of the project. Presumably this would occur at the expiration of the above described use agreement” (owner aff ¶¶ 21-22, exhibit I [emphasis added]).\nIn or about November of 2000, owner and HUD executed the Use Agreement. Shortly thereafter, on or about December 29, 2000, owner prepaid the loan (owner aff ¶ 23, exhibit J; plaintiff affirmation ¶¶ 13-14). There is nothing in the record evidencing plaintiffs’ receipt of, or response to, the Use Agreement itself.\nAfter owner recorded the Use Agreement on or about March 1, 2001, owner entered into new leases with various plaintiffs (owner aff ¶ 29). A rider accompanying these leases bore, in boldface and underlined capital letters, language explicitly informing the tenant that, “pursuant to a HUD Use Agreement,” federal law preempted any otherwise-applicable state or local law, including the RSL (owner aff ¶ 29, exhibit L). Beginning in 2002, owner began to charge, and plaintiffs began to pay, the annual 7.5% rent increases authorized by the Use Agreement (owner aff f 30).\nPlaintiffs Commence This Action\nOn November 23, 2016, plaintiffs filed the complaint, which asserts four causes of action seeking:\n(1) a judgment declaring that local rent regulations were not preempted by the Use Agreement, and therefore that tenants’ apartments were subject to the RSL since November of 2000;\n(2) if the RSL is found applicable, individual money judgments for all plaintiffs representing the difference between the amount charged under the Use Agreement and the lower amount which should have been charged under the RSL, together with treble damages, costs, attorneys’ fees, and injunc-tive relief directing owner to register the building with the DHCR Office of Rent Regulation and calculate future rents in compliance with the RSL;\n(3) pursuant to General Business Law § 349 (h), an order and judgment enjoining unlawful acts by owner and awarding treble monetary damages and attorneys’ fees; and\n(4) if the Use Agreement is found to preempt the RSL, an order declaring that plaintiffs’ rent increases did not comply with the HUD Handbook and that future rent increases shall comply, and a judgment for each plaintiff refunding all noncompliant rent payments.\nOwner’s Motion and Plaintiffs’ Cross Motion\nOwner moves for summary judgment on all causes of action.\nPlaintiffs oppose owner’s motion, and cross-move for summary judgment only on the first cause of action. Plaintiffs also ask that if the court finds federal preemption applicable, that the court also find the HUD Handbook applicable, and reserve for trial any determination of alleged violations of the Handbook.\nDiscussion\nI. Summary Judgment Generally\nTo prevail on a motion for summary judgment, the proponent must make a prima facie showing of entitlement to judgment as a matter of law, through admissible evidence, eliminating all material issues of fact (Zuckerman v City of New York, 49 NY2d 557, 560 [1980]). Once the moving party has satisfied these standards, the burden shifts to the opponent to rebut that prima facie showing, by producing contrary evidence, in admissible form, sufficient to require a trial of material factual issues (Amatulli v Delhi Constr. Corp., 77 NY2d 525 [1991]). In determining the motion, the court must construe the evidence in the light most favorable to the non-moving party (SSBSS Realty Corp. v Public Serv. Mut. Ins. Co., 253 AD2d 583 [1st Dept 1998]; Martin v Briggs, 235 AD2d 192 [1st Dept 1997]). Thus, a party opposing a summary judgment motion must assemble and lay bare its affirmative proof to demonstrate that genuine triable issues of fact exist (Kornfeld v NRX Tech., 93 AD2d 772 [1983], affd 62 NY2d 686 [1984]).\nOwner and plaintiffs move and cross-move, respectively, for summary judgment on the first cause of action, and thus each bears the initial burden on their respective argument. Owner also moves for summary judgment dismissing the second through fourth causes of action, and thus bears the initial burden on those arguments.\nII. First Cause of Action—Federal Preemption\nOwner’s initial motion seeks summary judgment declaring that the Use Agreement, entered between owner and HUD, preempts local rent regulation. Plaintiffs seek summary judgment declaring that the Use Agreement lacks preemptive effect. For the reasons set forth below, the court finds the Use Agreement reviewable, and finds the Use Agreement’s preemption substantively and procedurally invalid.\nA. Federal Preemption Generally\nThe Supremacy Clause provides that federal law “shall be the supreme Law of the Land . . . any Thing in the Constitution or Laws of any State to the Contrary notwithstanding” (US Const, art VI, cl 2). Congressional preemption of state law thus occurs through the “direct operation of the Supremacy Clause” (Kurns v Railroad Friction Products Corp., 565 US 625, 630 [2012]).\nCongressional intent to preempt generally manifests in one of three circumstances: express, field, or conflict preemption. First, under express preemption, Congress can express its intent to preempt state law with explicit statutory language (English v General Elec. Co., 496 US 72, 78-79 [1990], citing Shaw v Delta Air Lines, Inc., 463 US 85, 95-98 [1983]; Hawaiian Airlines, Inc. v Norris, 512 US 246 [1994]; Schneidewind v ANR Pipeline Co., 485 US 293, 299 [1988]).\nSecond, under field preemption, state law is preempted\n“where it regulates conduct in a field that Congress intended the Federal Government to occupy exclusively . . . [as] inferred from a scheme of federal regulation ... so pervasive as to make reasonable the inference that Congress left no room for the States to supplement it, or where an Act of Congress touch [es] a field in which the federal interest is so dominant that the federal system will be assumed to preclude enforcement of state laws on the same subject” (English, 496 US at 78-79 [internal quotation marks omitted], citing Rice v Santa Fe Elevator Corp., 331 US 218, 230 [1947]; New York SMSA Ltd. Partnership v Town of Clarkstown, 612 F3d 97, 104 [2d Cir 2010] [“field preemption (occurs) where Congress has legislated so comprehensively that federal law occupies an entire field of regulation and leaves no room for state law” (internal quotation marks omitted)]).\nThird, under conflict preemption, state law is preempted to the extent that it actually conflicts with federal law (English, 496 US at 79). This occurs where “compliance with both federal and state regulations is a physical impossibility, or where state law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress” (Gade v National Solid Wastes Management Assn., 505 US 88, 98 [1992] [internal quotation marks and citations omitted] [finding that a state law regulating occupational health and safety must yield to its federal counterparts]).\nThe parties agree that the National Housing Act (the NHA) completely preempted local rent regulation until the Use Agreement was signed. The parties also agree that the Use Agreement’s preemption clause is explicit. The dispute centers around whether the Use Agreement, a private contract between HUD and owner, can have the same preemptive effect as federal law (including authorized federal regulation) and, if so, whether the Use Agreement complied with due process.\nB. Procedural Arguments\n1. Timeliness of Plaintiffs’ Challenge to Administrative Action\nOwner argues in its reply brief that this action is time-barred because plaintiffs waited too long after enactment of the Use Agreement to challenge it. Plaintiffs respond that this action involves a statute of limitations conflict between federal and New York law, and that where such a conflict exists, state law— which imposes no time bar—should control. At minimum, plaintiffs argue, any overcharge claims pertaining to the four years prior to the complaint’s filing would still fall within CPLR 213-a.\nAs an initial matter, the court need not consider this argument; “ [arguments advanced for the first time in reply papers are entitled to no consideration by a court entertaining a summary judgment motion” (Clearwater Realty Co. v Hernandez, 256 AD2d 100, 102 [1st Dept 1998]). Nevertheless, the court addresses it here for the sake of completeness, and finds that this claim is not time-barred.\nThe relevant statute, 28 USC § 2401 (a), captioned “Time for Commencing Action Against United States,” provides that, absent an explicit statute of limitations, “every civil action commenced against the United States shall be barred unless the complaint is filed within six years after the right of action first accrues” (emphasis added). This applies to actions against the United States challenging administrative actions, for which the statute of limitations begins to run at the time the challenged agency action becomes final (5 USC § 704; Sai Kwan Wong v Doar, 571 F3d 247, 263 [2d Cir 2009]). However, the six-year statute of limitations does not bar this action because: first, this is an action against a private party relating to an agency action, but not an action “against the United States” because HUD is not a party; and second, the relevant agency action was not truly final.\nIn determining whether an agency action is sufficiently final to trigger the running of the statute of limitations, the “core question” is “whether the agency has completed its decision-making process, and whether the result of that process is one that will directly affect the parties” (Giammarco v Beers, 170 F Supp 3d 320, 335 [D Conn 2016], appeal dismissed 2d Cir, No. 16-1525, Oct. 25, 2016). The relevant action and result here are the Use Agreement’s preemption of local rent regulation, alleged by plaintiffs to have resulted in significant overcharging. Both the decision-making process and the effect of that process are relevant to this determination, and the court finds that neither the Use Agreement nor its preemption provision were the product of proper administrative procedure, and thus could not be considered “final” such that the statute of limitations ever began to run.\nWith respect to the process, “[preemption may result not only from action taken by Congress itself; a federal agency acting within the scope of its congressionally delegated authority may pre-empt state regulation” (General Motors Corp. v Abrams, 897 F2d 34, 39 [2d Cir 1990], citing Louisiana Pub. Serv. Comm’n v FCC, 476 US 355, 369 [1986]). However, such provisions gain preemptive effect only after following prescribed rule-making procedures (Wabash Val. Power Ass’n, Inc. v Rural Electrification Admin., 903 F2d 445, 453-454 [7th Cir 1990, Easterbrook, J.] [“In order to preempt state authority, the REA must establish rules with the force of law. . . . We have not found any case holding that a federal agency may preempt state law without either rulemaking or adjudication”]).\nRules promulgated without proper procedure—notice, opportunity for comment, statement of basis, administrative record, publication in the Federal Register—lack the force of law (id., citing Thomas v State of New York, 802 F2d 1443 [DC Cir 1986, Scalia, J.]; cf. Abrams, 897 F2d at 39 [holding that consent order signed by federal agency had preemptive effect, “particularly in light of the intensive negotiations and extensive public comment that informed its decision” (emphasis added)]; see also United States v Ferrara, 847 F Supp 964, 969 [D DC 1993] [“a policy memorandum (purported to have preemptive effect) issued by the head of an executive agency simply is not the equivalent of ‘federal law.’. . . The memorandum was neither promulgated pursuant to notice and comment rulemaking nor published in the Federal Register”], affd 54 F3d 825 [DC Cir 1995, as amended July 28, 1995]).\nMoreover, in determining finality, the Supreme Court has “looked to, among other things, whether its impact ‘is sufficiently direct and immediate’ and has a ‘direct effect on . . . day-to-day business’ ” (Franklin v Massachusetts, 505 US 788, 796-797 [1992]). Under either prong of the “finality” determination, owner’s argument fails. There is no indication that either HUD followed proper procedure, or that plaintiffs had sufficient knowledge of the Use Agreement’s preemption provision or effect—or, indeed, any of the Use Agreement’s substantive terms—to begin accrual under the six-year statute of limitations. Accordingly, this action is not time-barred.\n2, HUD as an Indispensable Party\nTo the extent that owner also argues that plaintiffs’ claims cannot be adjudicated without joining HUD as a party, this claim is also raised improperly in reply.\nNevertheless, joinder of an agency is required only where the agency is necessary for a complete resolution, where the agency will be inequitably affected by any possible judgment, or where an agency’s past or future conduct can undermine a judgment (Brodsky v Selden Sanitary Corp., 78 AD2d 866, 866-867 [2d Dept 1980], citing City of New York v Long Is. Airports Limousine Serv. Corp., 48 NY2d 469, 475 [1979] [an adverse determination requiring an agency requires “overlapping interests”]).\nUnder this standard, owner’s argument is undermined by its initial motion for summary judgment which, in seeking judgment on all causes of action as a matter of law, implies that all of the facts necessary for disposition of this action are already before the court. Accordingly, HUD’s absence does not necessitate dismissal.\n3. Whether HUD’s Determination is Reviewable\nJudicial review of an agency action to preempt is available to the extent that a plaintiff claims (1) that HUD’s procedure for approving a preemption request violates his rights to due process or (2) that HUD failed to comply with its own regulations regarding preemption requests (Gramercy Spire Tenants’ Assn. v Harris, 490 F Supp 1219, 1224 [SD NY 1980]). To the extent that plaintiffs allege both, the Use Agreement’s preemption clause is reviewable.\nA. Substantive Arguments\n1. Chevron Deference\nOwner argues that HUD acted reasonably under the authority delegated to the agency by Congress through the FHA, and should thus be entitled to Chevron deference (see generally Chevron U.S.A. Inc. v Natural Resources Defense Council, Inc., 467 US 837 [1984]). In opposition, plaintiffs argue that only formal agency actions are entitled to such deference, whereas HUD’s actions here were informal.\n“The initial question is whether or not the statute clearly and unambiguously prohibits the practices of which the plaintiffs complain. If the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress” (Kruse v Wells Fargo Home Mtge., Inc., 383 F3d 49, 55 [2d Cir 2004] [internal quotation marks omitted]).\nHere, the HUD action in question—continuation of federal preemption under the Use Agreement—derives not from the NHA, which contains no preemption provision, but HUD’s own regulation. If the provisions of the statute are unclear or ambiguous, then courts may further examine whether, and to what degree, to defer to the agency’s interpretation of the statute {id.).\nDeference is generally required “when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority” (id. at 58-59, citing United States v Mead Corp., 533 US 218, 226-227 [2001]). If “the agency’s reading fills a gap or defines a term in a reasonable way in light of the Legislature’s design, [courts] give that reading controlling weight, even if it is not the answer the court would have reached if the question initially had arisen in a judicial proceeding” (Kruse, 383 F3d at 55). “Most agency interpretations that have qualified for Chevron deference are rules that have been promulgated in ‘regulations issued through notice and comment or adjudication, or in another format authorized by Congress for use in issuing “legislative” rules’ ” (Estate of Landers v Leavitt, 545 F3d 98, 106 [2d Cir 2008, as rev Jan. 15, 2009]).\nPlaintiffs note, correctly, that the Use Agreement’s preemption clause here is not an “administrative determination that fills a statutory ‘gap’ left by Congress,” but instead a form of private preemption falling outside the scope of any statute or regulation. Similarly, the process preceding the action is opaque at best. Accordingly, the clause merits additional examination.\nNon-legislative interpretations are not automatically disqualified by reason of informality alone (Estate of Landers, 545 F3d at 106). Such interpretation remains entitled to “respect according to its persuasiveness,” as evidenced by “the thoroughness evident in [the agency’s] consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power to persuade” (id. at 107 [finding Department of Health and Human Service manual persuasive after examining extensive, “relatively formal” nature of the manual], quoting United States v Mead Corp., 533 US 218, 221 [2001]).\nAgain, the court finds plaintiffs’ arguments persuasive on this issue. HUD’s action was informal, in the sense that it lacked any formal notice-and-comment period, or any other procedural rigor beyond owner’s request to the DHCR for an opinion letter. While that step is certainly a factor to be considered, it does not alone constitute a “relatively formal administrative procedure tending to foster the fairness and deliberation that should underlie a pronouncement of such force” (Mead, 533 US at 230; cf. Smiley v Citibank [South Dakotal N. A., 517 US 735, 741 [1996] [Administrative Procedure Act notice and comment “designed to assure due deliberation”]). Accordingly, the court finds that HUD’s actions are reviewable.\n2. Effect of Preemption Clause in Use Agreement\nIn determining whether federal preemption is applicable, the critical question in any preemption analysis is always whether Congress intended that federal regulation supersede state law (Louisiana Pub. Serv. Comm’n v FCC, 476 US 355, 369 [1986]; Rosario v Diagonal Realty, LLC, 8 NY3d 755, 763 [2007] [“the Court’s sole task is to ascertain the intent of Congress” (internal quotation marks omitted)]). In ascertaining congressional intent, a presumption against preemption generally exists in areas that have been traditionally occupied by the states; in such spheres congressional intent to supersede state laws must be clear and manifest (English, 496 US at 78-79, citing Jones v Rath Packing Co., 430 US 519, 525 [1977]; Medtronic, Inc. v Lohr, 518 US 470, 485 [1996]; see e.g. Lorillard Tobacco Co. v Reilly, 533 US 525 [2001] [advertising]; Egelhoff v Egelhoff, 532 US 141 [2001] [domestic relations]). The Court of Appeals has recognized housing to be such a sphere (Rosario, 8 NY3d at 764). Thus, any preemption of local rent regulation by the NHA must have been intended by Congress.\nSince “the clearest indicator of legislative intent is the statutory text, the starting point in any case of interpretation must always be the language itself, giving effect to the plain meaning thereof” (Matter of New York Skyline, Inc. v City of New York, 94 AD3d 23, 26-27 [1st Dept 2012], citing Bluebird Partners v First Fid. Bank, 97 NY2d 456, 460 [2002] [“in all cases requiring statutory construction, we begin with an examination of the statute’s plain meaning”]; Centurion v Sessions, 860 F3d 69, 75 [2d Cir 2017] [“Statutory construction begins with the plain text and, if that text is unambiguous, it usually ends there as well”]).\nIn enacting the NHA, Congress established HUD and directed the HUD Secretary to, among other things, “encourage private enterprise to serve as large a part of the Nation’s total housing and urban development needs as it can and develop the fullest cooperation with private enterprise in achieving the objectives of the Department” (42 USC § 3532 [b]). To effectuate this aim, the NHA authorized HUD to issue regulations implementing that law (12 USC § 1701 et seq.; 42 USC § 3535 [d]). The NHA itself does not contain any preemption provision. Instead, preemption derives from 24 CFR 246.21, which reads:\n“The Department finds that it is necessary and desirable to minimize defaults by the mortgagor in its financial obligations with regard to projects covered by this subpart, and to assist mortgagors to preserve the continued viability of those projects as a housing resource for low-income families. The Department also finds that it is necessary and desirable to protect the substantial economic interest of the Federal Government in those projects. Therefore, the Department concludes that it is in the national interest to preempt, and it does hereby preempt, the entire field of rent regulation by local rent control boards, (hereinafter referred to as board), or other authority, acting pursuant to state or local law as it affects projects covered by this subpart” (emphases added).\nIn turn, 24 CFR 246.20 provides that said subpart “applies to all projects with mortgages insured or held by HUD that receive a subsidy in the form of,” as relevant here, “(b) [b]elow-market interest rates under section 221(d)(3) and (5) of the National Housing Act” (emphasis added; see also City of Boston v Harris, 619 F2d 87, 95 [1st Cir 1980] [“The rules . . . were adopted after notice and comment procedure and rested on legislative type findings amply supporting the rule”]). Preemption is particularly significant in this context because federal and local rent regulation often affect each other adversely (see e.g. Gramercy Spire Tenants’ Assn. v Harris, 446 F Supp 814, 821 [SD NY 1977] [“HUD determined, in adopting the regulation, that local rent control ordinances, while not the sole factor, are a significant factor in causing (owner defaults on HUD-insured mortgages)” (internal quotation marks omitted)]).\nGiven these divergent purposes, federal and local regulation clearly cannot exist in the same space, and therefore intent to preempt must be explicit. The provisions quoted above, read together, demonstrate a clear intent to preempt local rent regulation in service of “minimizing] defaults by the mortgagor in its financial obligations with regard to projects covered by ‘this subpart’ ”—that is, subsidized mortgages “insured or held by HUD”—“and to assist mortgagors to preserve the continued viability of those projects as a housing resource for low-income families.”\nReading the regulations together leads the court to conclude that prepayment of a subsidized mortgage satisfies the aims of the regulation, and thus concludes the federal preemption designed to effectuate the regulation’s aims. At that point, the congressional interest in a project’s financial viability dissipates, and so, too, does Congress’s authorization for federal law to preempt local rent regulation (see e.g. Matter of 221 W. 16th Realty v New York State Div. of Hous. & Community Renewal, 277 AD2d 81 [1st Dept 2000] [DHCR rationally determined that, upon the termination of the federal mortgage, premises became subject to local rent stabilization]; accord 223 Chelsea Assoc. v Dobler, 189 Misc 2d 170, 171 [App Term, 1st Dept 2001]; see also Gramercy Spire Tenants’ Assn., 446 F Supp at 826 [unsubsidized projects enjoy preemption “only upon a finding of jeopardy to HUD’s economic interest”]). Thus, any preemption effectuated by the 1969 Regulatory Agreement and explicitly authorized by Congress ended on December 29, 2000, the undisputed date of prepayment.\nOwner argues, however, that preemption continued by virtue of the Use Agreement, an agreement between owner and HUD. Addressing contractual preemption of local regulation, the court again begins with the proposition that preemption must be explicit, and should be disfavored in arenas traditionally reserved for the states. Notably, owner does not cite, and the court cannot locate, support for the proposition that owner and HUD could substantively agree to preempt local rent regulation by contract, or support for the process by which the preemption occurred.\nThe lack of explicit congressional intent is problematic, as noted by other courts in an analogous context. For example, in Empire HealthChoice Assur., Inc. v McVeigh, the Second Circuit analyzed the effect of a contract between the United States Office of Personnel Management, a federal agency, and a private entity pursuant to the Federal Employees Health Benefits Act (the Benefits Act) (396 F3d 136, 139 [2d Cir 2005, Sotomayor, J.], affd 547 US 677 [2006]). In finding that the matter lacked federal jurisdiction because federal preemption was not triggered, then-Judge Sotomayor noted a “peculiar feature” of the Benefits Act relevant here: 5 USC § 8902 (m) (1), which provides that certain types of contract terms would “supersede and preempt” state laws (396 F3d at 143). Judge Sotomayor contrasted the contractual preemption provision with explicit statutory preemption provisions found elsewhere in federal law, noting that\n“[t]he constitutionality of federal preemption is, after all, grounded in the Supremacy Clause of the Constitution, which provides that 4the Laws of the United States . . . shall be the supreme Law of the Land . . . any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.’. . .\n“Taken literally, therefore, [the Benefits Act’s] preemption provision may fail to withstand constitutional scrutiny unless [Benefits Act]-authorized contracts themselves are ‘Laws of the United States.’ They are not. ‘Law’ connotes a policy imposed by the government, not a privately-negotiated contract” (McVeigh, 396 F3d at 143-144 [emphasis added], citing American Airlines, Inc. v Wolens, 513 US 219, 229 n 5 [1995] [finding that “the word series ‘law, rule, regulation, standard, or other provision,’ ” as used in a federal statute, “connotes official, government-imposed policies, not the terms of a private contract”]; see also McVeigh, 396 F3d at 151 [Sack, J., concurring] [“It seems to me to be possible, notwithstanding that analysis, that the statute is unavoidably unconstitutional because contract terms are not ‘Laws of the United States,’ that are ‘the supreme Law of the Land’ ” (emphasis omitted)]).\nThe Supreme Court subsequently affirmed the Second Circuit (Empire HealthChoice Assurance, Inc. v McVeigh, 547 US 677, 697 [2006]). Though the Court ultimately parried the constitutionality of the Benefits Act’s contractual preemption provision, it nevertheless characterized the provision as an “unusual order warrant [ing] cautious interpretation” and noted that “ [i] f Congress intends a preemption instruction completely to displace ordinarily applicable state law, and to confer federal jurisdiction thereby, it may be expected to make that atypical intention clear” {id. at 697-698).\nReturning to the issue recently, the Supreme Court found that Congress did, indeed, intend preemption subject to specific, unambiguous restrictions (Coventry Health Care of Mo., Inc. v Nevils, 581 US —, —, 137 S Ct 1190, 1194 [2017] [pursuant to explicit congressional intent, contracts under the Benefits Act preempt state law to the extent that they “relate to the nature, provision, or extent of coverage or benefits”]). In finding contractual preemption in that instance constitutional, the Court explained that any distinction between contractual and statutory preemption “[merely] elevates semantics over substance,” because the statute explicitly authorized contractual preemption under certain conditions (581 US at —, 137 S Ct at 1198-1199).\nThat holding, and the similar discussion in McVeigh, highlight the absence of similar authority here, and underscore the importance of congressional intent where federal preemption is asserted. Absent such authority, no preemption can exist. Accordingly, to the extent that Congress did not explicitly authorize the Use Agreement’s contractual preemption of local rent regulation, and to the extent that the court finds that the procedure leading to the Use Agreement’s preemption was procedurally defective under the Administrative Procedure Act, federal preemption concluded on the date that authorized preemption ended—on December 29, 2000, after owner prepaid the mortgage, and after the Use Agreement had been signéd.\nThus, because owner’s only argument for the inapplicability of local rent regulation is preemption by federal law, because owner does not deny the acceptance of J-51 subsidies, and more importantly because there is no dispute that the Rent Stabilization Law applies to New York City apartments in buildings constructed prior to 1974 with at least six rental units (RSL [Administrative Code of City of NY] § 26-504), local rent regulation applies to the subject units. Accordingly, the court grants plaintiffs’ motion for summary judgment on their first cause of action, and declares the RSL applicable from December 29, 2000 onwards.\nIII. Second Cause of Action—Rent Overcharge\nTo the extent that the court holds above that the procedure and substance underpinning the Use Agreement’s contractual preemption was invalid, and therefore that the building was subject to the local Rent Stabilization Law as of the date of the mortgage’s prepayment (Dec. 29, 2000), the branch of owner’s motion for summary judgment dismissing plaintiffs’ claims for rent overcharges must be denied. Moreover, there remains an issue of fact with respect to whether any overcharging was “willful” as required for treble damages. Accordingly, summary judgment on this cause of action is denied.\nIV. Third Cause of Action—General Business Law § 349 (h)\nGeneral Business Law § 349 (h) provides that\n“any person who has been injured by reason of any violation of this section may bring an action in his own name to enjoin such unlawful act or practice, an action to recover his actual damages or fifty dollars, whichever is greater, or both such actions. The court may, in its discretion, increase the award of damages to an amount not to exceed three times the actual damages up to one thousand dollars, if the court finds the defendant willfully or knowingly violated this section. The court may award reasonable attorney’s fees to a prevailing plaintiff.”\nHowever, to the extent that a dispute is between a landlord and tenants, and not consumer-oriented conduct aimed at the public at large, such cases are properly dismissed (Aguaiza v Vantage Props., LLC, 69 AD3d 422, 423 [1st Dept 2010]). To the extent that plaintiffs’ opposition to this argument is limited to a one-sentence, conclusory allegation that factual questions remain, this is insufficient to create any issue of fact. Accordingly, plaintiffs’ third cause of action is dismissed.\nV. Fourth Cause of Action—Compliance with HUD Handbook\nAs plaintiffs note, owner makes competing arguments: that the building is regulated by HUD through the Use Agreement, which contemplates federal preemption, but should not be held to compliance with the HUD Handbook because the building is not a “subsidized” project within the meaning of section 221 (d) (3) (12 USC § 1715Z [d] [3]). To the extent that the parties agree that the building is not subject to federal regulation with respect to the HUD Handbook, and to the extent that the court holds above that owner’s mortgage prepayment ended the building’s status as a “subsidized property” subject to federal regulation, there is no basis to enforce compliance with the HUD Handbook. Accordingly, owner’s motion for summary judgment on plaintiffs’ fourth cause of action is granted.\nConclusion\nBased on the foregoing, it is hereby ordered that defendant’s motion for summary judgment on the first cause of action is denied; and it is further ordered and adjudged that plaintiffs’ motion for summary judgment on the first cause of action is granted to the extent that the court finds that the subject property was subject to the Rent Stabilization Law as of December 29, 2000; and it is further ordered that defendant’s motion for summary judgment on plaintiffs’ second cause of action is denied; and it is further ordered that defendant’s motion for summary judgment on the third and fourth causes of action is granted, and said causes of action shall be dismissed.\n. “Owner aff” refers to the affidavit of Sinclair Haberman, an authorized member of owner. The relationship between the two Habermans is unclear.\n. “Plaintiff affirmation” refers to the affirmation of Jason Wu, counsel for plaintiffs.\n. Only an unsigned copy of the amended financial assistance contract exists, but neither party disputes its applicability or authenticity (owner aff, exhibits G, H).\n. The “above described use agreement” refers to the Use Agreement.\n. As discussed below, the relevant issue is the formation and content of the Use Agreement itself, and particularly the preemption clause; to that end, the parties do not dispute that plaintiffs’ first notice of the Use Agreement came after the agreement had already been signed in 2000. Indeed, owner’s reply affidavit confirms that a meeting took place on April 20, 2001, at which HUD representatives, Jennifer Laurie (a nonparty tenant advocate), and tenant/plaintiff Hiram Chapman were present (owner reply aff; Chapman reply aff ¶¶ 3-5; Laurie reply aff ¶¶ 2-4).\nMoreover, nowhere does owner assert that plaintiffs learned of the Use Agreement’s preemption clause at that meeting, and there is no indication that the meeting was meant to discuss anything other than rent increases. Additionally, the recertification notices allegedly delivered to all building tenants by owner bear no mention of the Use Agreement itself (owner reply aff, exhibit C). Thus, to the extent that the parties dispute service of income recertification notices pursuant to the Use Agreement, this issue is not germane to the court’s determination.\n. Exhibit L is, by owner’s own characterization, a nine-page, 69 item “representative lease,” but not one signed by any plaintiff. There is no indication that a copy of the Use Agreement was attached to this lease or any other.\n. For this reason, the court rejects at the outset owner’s argument that the DHCR opinion letter afforded the Use Agreement any preemptive effect.\n. To the extent that owner cites the DHCR opinion letter as evidence of HUD’s authority to enter the agreement, DHCR cannot grant what Congress has not.",
+        "type": "majority",
+        "author": "Carol R. Edmead, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Rosenberg & Estis, P.C. (Jeffrey Turkel of counsel) for defendant.",
+      "The Legal Aid Society, Harlem Community Law Office (Seymour W. James and Jason Wu of counsel), for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[58 NYS3d 898]\n435 Central Park West Tenant Association et al., Plaintiffs, v Park Front Apartments, LLC, Defendant.\nSupreme Court, New York County,\nJuly 24, 2017\nAPPEARANCES OF COUNSEL\nRosenberg & Estis, P.C. (Jeffrey Turkel of counsel) for defendant.\nThe Legal Aid Society, Harlem Community Law Office (Seymour W. James and Jason Wu of counsel), for plaintiffs."
+  },
+  "file_name": "2829-01",
+  "first_page_order": 772,
+  "last_page_order": 789
+}

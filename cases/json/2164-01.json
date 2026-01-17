@@ -1,0 +1,96 @@
+{
+  "id": 4235967,
+  "name": "In the Matter of the Adoption of ABC, an Infant",
+  "name_abbreviation": "In re the Adoption of ABC",
+  "decision_date": "2015-04-03",
+  "docket_number": "",
+  "first_page": "226",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 226"
+    },
+    {
+      "type": "parallel",
+      "cite": "25 N.Y.S.3d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sur. Ct.",
+    "id": 9033,
+    "name": "New York Surrogate's Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "86 NY2d 651",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4437208
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0651-01"
+      ]
+    },
+    {
+      "cite": "276 AD2d 97",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        540277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/276/0097-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 251,
+    "char_count": 3611,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1405261465050665
+    },
+    "sha256": "321e73e291f1eb277c9908eab30e98e703b385f8d3113ee7be78c5eea2d13f5f",
+    "simhash": "1:a220719214327420",
+    "word_count": 574
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Adoption of ABC, an Infant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPaul V. Morgan, Jr., S.\nBefore the court is the application for adoption of a minor child.\nPetitioner seeks to adopt ABC, born May 1998, the biological daughter of her former husband. Petitioner and ABC’s father married in 2002 and divorced in 2008. Their 2008 divorce decree grants petitioner joint legal custody with primary physical custody of ABC. Petitioner married her current husband in December 2010. Petitioner’s current husband supports the petition for adoption but he does not join in the application. ABC’s father consents to the adoption by the petitioner but he will not forgo any of his own parental rights. ABC’s biological mother has not participated in her life since birth. The petition lists her current address as unknown.\nIn considering an adoption petition, the court must first ascertain whether the petitioner is eligible to adopt (see Domestic Relations Law § 110). Domestic Relations Law § 110 sets forth the classes of people authorized to adopt. More specifically, the statute states that “[a]n adult unmarried person, an adult married couple together, or any two unmarried adult intimate partners together may adopt another person.”\nIn Matter of Jessalyn AA. (276 AD2d 97 [2001]), the Appellate Division, Third Judicial Department, held that Domestic Relations Law § 110 does not permit adoption by a married person whose spouse does not join in the application. The facts in Matter of Jessalyn AA. are similar to the facts presented herein insofar as the petitioner, with the support of his present wife, sought to adopt the 12-year-old biological daughter of his former paramour. Despite compelling facts in favor of adoption, the Appellate Division affirmed Family Court’s dismissal of the petition based upon lack of standing.\nPetitioner’s request that this court imply standing for petitioner through judicial interpretation of a 2010 amendment to Domestic Relations Law § 110 permitting two “adult intimate partners” to jointly adopt a child is unpersuasive. Domestic Relations Law § 110, as amended, must be strictly construed (see Matter of Jacob, 86 NY2d 651 [1995]). The 2010 amendment added the class “two unmarried adult intimate partners together” to the list of proposed parents who have standing to adopt (L 2010, ch 509, § 1, eff Sept. 17, 2010 [emphasis added]). The amendment was in recognition of the Court of Appeals’ decision in Matter of Jacob (86 NY2d 651 [1995]), which makes clear that the sexual orientation of the parents does not preclude a second parent adoption. The legislature’s inclusion of “unmarried” in the amended class of “two unmarried adult intimate partners together” cannot be ignored (McKinney’s Cons Laws of NY, Book 1, Statutes § 76). Accordingly, this court finds that Domestic Relations Law § 110 excludes petitioner from the statutory list of people who may adopt.\nPetitioner’s alternative argument that this court consider allowing the child to have three legal parents is equally unpersuasive. The failure of the legislature to include a provision in the Domestic Relations Law allowing three legal parents must be considered presumptively intentional (see Matter of Jessalyn AA.; see also McKinney’s Cons Laws of NY, Book 1, Statutes § 74). Based upon the foregoing, petitioner’s application is dismissed.\nBased upon the instant dismissal, notice and/or consent of the biological mother is not being addressed by the court.",
+        "type": "majority",
+        "author": "Paul V. Morgan, Jr., S."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Anne Reynolds Copps, Albany, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[25 NYS3d 789]\nIn the Matter of the Adoption of ABC, an Infant.\nSurrogate’s Court, Rensselaer County,\nApril 3, 2015\nAPPEARANCES OF COUNSEL\nAnne Reynolds Copps, Albany, for petitioner."
+  },
+  "file_name": "2164-01",
+  "first_page_order": 238,
+  "last_page_order": 240
+}

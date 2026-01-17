@@ -1,0 +1,209 @@
+{
+  "id": 6789864,
+  "name": "The People of the State of New York, Plaintiff, v. Jennifer Abrucci-Kohan, Defendant",
+  "name_abbreviation": "People v. Abrucci-Kohan",
+  "decision_date": "2016-03-17",
+  "docket_number": "",
+  "first_page": "919",
+  "last_page": "925",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 919"
+    },
+    {
+      "type": "parallel",
+      "cite": "37 N.Y.S.3d 816"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Monroe J. Ct.",
+    "id": 21715,
+    "name": "Monroe Justice Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S Ct 530",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12593411
+      ],
+      "pin_cites": [
+        {
+          "page": "534-535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0530-01"
+      ]
+    },
+    {
+      "cite": "515 So 2d 1343",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7586486
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/515/1343-01"
+      ]
+    },
+    {
+      "cite": "574 US -, 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 NY3d 1191",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4321273,
+        4319922,
+        4318699,
+        4316550
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/1191-03",
+        "/ny3d/25/1191-04",
+        "/ny3d/25/1191-01",
+        "/ny3d/25/1191-02"
+      ]
+    },
+    {
+      "cite": "25 NY3d 130",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4322581
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "132"
+        },
+        {
+          "page": "134-135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0130-01"
+      ]
+    },
+    {
+      "cite": "41 AD2d 506",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5610016
+      ],
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/41/0506-01"
+      ]
+    },
+    {
+      "cite": "22 Misc 3d 22",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3305206
+      ],
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/22/0022-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 248",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2341839
+      ],
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0248-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50101",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 1216",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 664,
+    "char_count": 12591,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18253149121821388
+    },
+    "sha256": "5fa8fc6abcc61f29c90979b629c390fdb5d14b59b4795b0edce96d549d203023",
+    "simhash": "1:20e3cc4e4361a78c",
+    "word_count": 2073
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jennifer Abrucci-Kohan, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSteven I. Milligram, J.\nDefendant having moved this court for an order, and having held a Mapp /Dunaway /Huntley hearing, after hearing testimony in this matter, the court makes the following findings of fact and conclusions of law.\nOn October 4, 2015, at approximately 1:30 a.m., defendant was operating a 2009 Honda motor vehicle on State Route 208 in the Town of Monroe. State Trooper (now Investigator) Seth Caridi observed that one of four taillights on defendant’s vehicle was not lit. Upon pulling defendant’s vehicle over, Trooper Caridi detected an odor of alcohol emanating from defendant and observed her eyes were glassy. Defendant was asked to and exited her vehicle, walking to the rear of the vehicle. There Trooper Leone performed a field sobriety test (FST) which defendant failed. Specifically, defendant failed the horizontal gaze nystagmus, walk and turn, and one leg stand portions of the FST. Subsequently, defendant agreed to undergo a breathalyzer examination which was performed at approximately 2:09 a.m., which revealed the presence of alcohol above the legal limit. Defendant was then charged with violating Vehicle and Traffic Law § 375 (2) (a) (3), and driving while intoxicated in violation of Vehicle and Traffic Law § 1192 (2) and (3).\nThe issue before this court is whether Trooper Caridi had probable cause to' stop defendant’s vehicle for violating Vehicle and Traffic Law § 375 (2) (a) (3) where one taillight out of four was not operating. Defendant has in effect acknowledged that all statements and evidence that the People may offer at trial would be admissible if there was probable cause to stop defendant’s vehicle.\nProbable Cause to Arrest\n“At a Mapp/Dunaway/Huntley hearing where a defendant challenges the legality of a seizure, along with statements and other evidence allegedly obtained as a result thereof, the People have the burden of going forward, in the first instance, to establish the legality of the police conduct. Once the prosecution has met this burden, the defendant has the ultimate burden of establishing the illegality of the police conduct by a fair preponderance of the evidence.” (People v Murphy, 46 Misc 3d 1216[A], 2015 NY Slip Op 50101[U], *1 [Hyde Park Just Ct 2015] [citation omitted].)\nCPL 70.10 (2) defines probable cause or reasonable cause to arrest:\n“ ‘Reasonable cause to believe that a person has committed an offense’ exists when evidence or information which appears reliable discloses facts or circumstances which are collectively of such weight and persuasiveness as to convince a person of ordinary intelligence, judgment and experience that it is reasonably likely that such offense was committed and that such person committed it. Except as otherwise provided in this chapter, such apparently reliable evidence may include or consist of hearsay.”\nThe Court of Appeals stated the legal standard for determining probable cause in People v Carrasquillo (54 NY2d 248, 254 [1981]):\n“In passing on whether there was probable cause for an arrest, we consistently have made it plain that the basis for such a belief must not only be reasonable, but it must appear to be at least more probable than not that a crime has taken place and that the one arrested is its perpetrator, for conduct equally compatible with guilt or innocence will not suffice.”\nIn People v Gingras (22 Misc 3d 22, 23 [App Term, 2d Dept, 9th & 10th Jud Dists 2008]), the Court held that\n“[p]robable cause does not require ‘the same quantum of proof necessary [even] to . . . establish a prima facie case .... Rather, it need merely appear more probable than not that a crime has taken place and that the one arrested is its perpetrator.’ Thus, the proof is sufficient when ‘the existence of facts and circumstances . . . viewed as a whole, would lead a reasonable person possessing the same expertise as the arresting officer to conclude that an offense has been or is being committed.’ ” (Citations omitted.)\nUnder the circumstances presented, the court finds the testimony of Trooper Caridi and Trooper Leone to be credible and, based upon that credible testimony, the court finds that there was probable cause to arrest defendant.\nThis appears to be a case of first impression as the court can find no law in New York State that holds whether Vehicle and Traffic Law § 375 (2) (a) (3) is violated, or alternatively Trooper Caridi reasonably believed that this was a violation of that section, where one taillight out of four was not operating.\nThe court notes that the summons for the traffic infraction issued in this, as well as many other cases, describes this Vehicle and Traffic Law infraction as “no/inadequate tail lights.” Vehicle and Traffic Law § 375 provides that\n“2. (a) Every motor vehicle except a motorcycle, driven upon a public highway during the period from one-half hour after sunset to one-half hour before sunrise or at any other time when windshield wipers are in use, as a result of rain, sleet, snow, hail or other unfavorable atmospheric condition, and at such other times as visibility for a distance of one thousand feet ahead of such motor vehicle is not clear, shall display: . . .\n“3. if manufactured on or after January first, nineteen hundred fifty-two, at least two lighted lamps on the rear, one on each side, which lamps shall display a red light visible from the rear for a distance of at least one thousand feet.”\nBy way of comparison, Vehicle and Traffic Law § 376 (1) (a) provides that\n“ [i] t shall be unlawful to operate, drive or park a vehicle, except a motorcycle operated during the period from one-half hour before sunrise to one-half hour after sunset, ... to operate, drive or park a vehicle, except a motorcycle, on any public highway or street in this state, during the period from one-half hour after sunset to one-half hour before sunrise, unless such vehicle is equipped with lamps of a type approved by the commissioner which are lighted and in good working condition.”\nThus, it would appear that both Vehicle and Traffic Law § 375 and § 376 should be read jointly to require that a vehicle must be equipped with “lamps” which are in “good working condition.”\nFurther support for this premise can be found in Vehicle and Traffic Law § 301 (c) which describes what parts of a vehicle are subject to safety inspections, and of greater significance, what can cause a vehicle to fail such an inspection. Specifically, Vehicle and Traffic Law § 301 (c) (1) (a) provides that\n“[a] safety inspection shall be made with respect to the brakes; steering mechanism; wheel alignment; lights, including but not limited to the lights which are designed and placed on a vehicle for the purpose of illuminating the vehicle’s license plates; odometer; tire pressure; seat safety belts; shoulder harness safety belts and such other mechanisms and equipment as shall be determined by the commissioner to be necessary for proper and safe operations.”\nA vehicle must fail an inspection if: “Lamps are not securely mounted or do not produce a steady light with switch on or brake applied,” or “Lamps do not operate properly in all switch positions.” (15 NYCRR 79.21.)\nIn People v Russum (41 AD2d 506, 507 [1973]), police officers stopped defendant’s automobile, driven by him, because its taillight was not lit. Unfortunately the record is silent as to the number of taillights on that vehicle, although, as in our case, “defendant admitted that he had a defective tail light” (id.). There the Appellate Division held that the trial judge correctly denied defendant’s motion to suppress. (Id.)\nBoth the People and defendant cite to People v Guthrie (25 NY3d 130, 132 [2015], rearg denied 25 NY3d 1191 [2015]), and the language the Court of Appeals used: “where, as here, the officer’s mistake about the law is reasonable, the stop is constitutional.” Assuming arguendo that Trooper Caridi made a mistake as to the provisions of Vehicle and Traffic Law § 375 (2) (a) (3), the question is whether his mistake was “reasonable.”\nIn Guthrie, the Court observed that\n“[p]robable cause, in turn, ‘does not require proof sufficient to warrant a conviction beyond a reasonable doubt but merely information sufficient to support a reasonable belief that an offense has been or is being committed or that evidence of a crime may be found in a certain place.’ Thus, ‘[a] police officer who can articulate credible facts establishing reasonable cause to believe that someone has violated a law has established a reasonable basis to effectuate a [traffic] stop.’ ” (Id. at 133 [citations omitted].)\nElaborating on this, the Court of Appeals explained: “the . . . question before us is not whether the officer acted in good faith, but whether his belief that a traffic violation had occurred was objectively reasonable.” (Id. at 134.) Noting the decision of the Supreme Court of the United States in Heien v North Carolina (574 US —, 135 S Ct 530 [2014]), the Court pointed out that “the Fourth Amendment tolerates objectively reasonable mistakes supporting such a belief, whether they are mistakes of fact or mistakes of law.” (Id.)\nSignificantly, Heien involved a traffic stop of a vehicle that had only one working brake light, which the officer mistakenly believed to be a violation of North Carolina law (see 574 US —, —, 135 S Ct 530, 534-535 [2014]).\n“In light of ‘the reality that an officer may suddenly confront a situation in the field as to which the application of a statute is unclear — however clear it may later become’ the Court concluded that the officer’s misreading of the statute at issue, which was susceptible of multiple interpretations and had not been definitively construed by the North Carolina appellate courts, amounted to a reasonable mistake of law justifying the traffic stop” (People v Guthrie, 25 NY3d 130, 134-135 [2015] [citation omitted]).\nDefendant cites Wilhelm v State (515 So 2d 1343 [Fla Dist Ct App, 2d Dist 1987]) a persuasive authority, noting that the traffic stop there involved a vehicle which had one of four taillights out, and a statute for all intents and purposes which is the same as Vehicle and Traffic Law § 375 (2) (a) (3). There, the Florida court held that where one out of four taillights was not working the officers lacked probable cause to stop the vehicle in question.\nHowever, Florida Statutes Annotated § 316.217 states\n“(1) Every vehicle operated upon a highway within this state shall display lighted lamps and illuminating devices as herein respectively required for different classes of vehicles, subject to exceptions with respect to parked vehicles, under the following conditions;\n“(a) At any time from sunset to sunrise including the twilight hours. Twilight hours shall mean the time between sunset and full night or between full night and sunrise.\n“(b) During any rain, smoke, or fog.\n“(c) Stop lights, turn signals, and other signaling devices shall be lighted as prescribed for use of such devices.”\nThus this statute, which reads virtually identically to Vehicle and Traffic Law § 376, requires that the vehicle “shall display lighted lamps.”\nThere is no dispute that one of the taillights on defendant’s vehicle was not operating. The court can find no case in this state which holds whether, where one of four taillights is out constitutes a violation of either Vehicle and Traffic Law § 375 (2) (a) (3) or Vehicle and Traffic Law § 376. However, when read in conjunction with section 301 (c) (1) (a) and the Commissioner’s regulations, the “defective tail light” would likely result in a failure of a state mandated inspection requiring remediation.\nWith all this, Trooper Caridi’s belief that a traffic violation had occurred was objectively reasonable. Trooper Caridi’s articulated credible facts, namely that one of defendant’s taillights was out, established reasonable cause to believe that defendant had violated Vehicle and Traffic Law § 375 (2) (a) (3) and established a reasonable basis to effectuate a traffic stop of defendant.\nAccordingly, it is hereby ordered that defendant’s motion challenging the legality of the traffic stop in this case and seizure of defendant, along with statements and other evidence obtained as a result thereof is denied.",
+        "type": "majority",
+        "author": "Steven I. Milligram, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Law Offices of Craig E. Johns, Nanuet (Craig E. Johns of counsel), for defendant.",
+      "David M. Hoovler, District Attorney (Anika Mohammed of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[37 NYS3d 816]\nThe People of the State of New York, Plaintiff, v Jennifer Abrucci-Kohan, Defendant.\nJustice Court of the Town of Monroe, Orange County,\nMarch 17, 2016\nAPPEARANCES OF COUNSEL\nLaw Offices of Craig E. Johns, Nanuet (Craig E. Johns of counsel), for defendant.\nDavid M. Hoovler, District Attorney (Anika Mohammed of counsel), for plaintiff."
+  },
+  "file_name": "2364-01",
+  "first_page_order": 911,
+  "last_page_order": 917
+}

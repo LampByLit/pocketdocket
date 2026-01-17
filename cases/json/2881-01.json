@@ -1,0 +1,106 @@
+{
+  "id": 12281760,
+  "name": "151 Daniel Low, LLC, Respondent, v. James Li, Appellant",
+  "name_abbreviation": "151 Daniel Low, LLC v. Li",
+  "decision_date": "2017-09-15",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 41"
+    },
+    {
+      "type": "parallel",
+      "cite": "60 N.Y.S.3d 740"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "256 AD2d 169",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        198499,
+        198165
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0169-02",
+        "/ad2d/256/0169-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323797
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 219,
+    "char_count": 3029,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24906162482832012
+    },
+    "sha256": "1bf18b1ad250aa3de6691be9a8d25f038a27adff727c804d2df4ade892642f56",
+    "simhash": "1:49c042f3642457a5",
+    "word_count": 489
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Weston, J.P., Solomon and Elliot, JJ., concur."
+    ],
+    "parties": [
+      "151 Daniel Low, LLC, Respondent, v James Li, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that so much of the appeal as is from the portion of the order entered October 13, 2015 that denied tenant’s motion to dismiss the petition is dismissed; and it is further ordered that the final judgment is reversed, without costs, the order entered October 13, 2015 is vacated, landlord’s motion for summary judgment is denied and tenant’s motion to dismiss the petition is granted.\nSo much of the appeal as is from the portion of the order entered October 13, 2015 that denied tenant’s motion to dismiss the petition is dismissed because the right of direct appeal therefrom terminated with the entry of the final judgment (see Matter of Aho, 39 NY2d 241, 248 [1976]). The issues raised on appeal from that portion of the order are brought up for review and have been considered on the appeal from the final judgment (see CPLR 5501 [a] [1]).\nWhile the petition in this holdover summary proceeding recognizes that the building in which the subject apartment is located is rent-stabilized, it alleges that tenant is not a rent-stabilized tenant, and that the term for which the premises had been leased had expired pursuant to a 30-day notice. Tenant moved to dismiss the petition arguing, among other things, that he is a rent-stabilized tenant and that his tenancy had not been properly terminated. Landlord moved for summary judgment. The Civil Court granted landlord’s motion and denied tenant’s motion.\nIt is undisputed that tenant has resided in the subject apartment since 1994 without a written lease; that, in 2007, the New York State Division of Housing and Community Renewal had determined that tenant was a rent-stabilized tenant with all the rights and obligations under the Rent Stabilization Code and had ordered landlord to provide tenant with a vacancy lease; that landlord had provided tenant with a vacancy lease in 2014; and that tenant had not signed the vacancy lease because the parties could not agree upon the terms. The Civil Court held, incorrectly, that tenant is not protected by the Rent Stabilization Law under these circumstances (see 6 Greene St. Assoc. v Robbins, 256 AD2d 169 [1998]). Thus, landlord could not terminate the tenancy without serving a proper predicate notice alleging an appropriate ground for termination (see Rent Stabilization Code [9 NYCRR] §§ 2524.1 [a]; 2524.2, 2524.3; see also 6 Greene St. Assoc., 256 AD2d 169).\nAccordingly, the final judgment is reversed, the order entered October 13, 2015 is vacated, landlord’s motion for summary judgment is denied and tenant’s motion to dismiss the petition is granted.\nWeston, J.P., Solomon and Elliot, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Staten Island Legal Services (Rina Gurung of counsel) for appellant.",
+      "Jacobi, Sieghardt, Bousanti, Piazza & Fitzpatrick, PC. (Laurel A. Wedinger of counsel) for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[60 NYS3d 740]\n151 Daniel Low, LLC, Respondent, v James Li, Appellant.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nSeptember 15, 2017\nAPPEARANCES OF COUNSEL\nStaten Island Legal Services (Rina Gurung of counsel) for appellant.\nJacobi, Sieghardt, Bousanti, Piazza & Fitzpatrick, PC. (Laurel A. Wedinger of counsel) for respondent."
+  },
+  "file_name": "2881-01",
+  "first_page_order": 97,
+  "last_page_order": 99
+}

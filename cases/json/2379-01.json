@@ -1,0 +1,102 @@
+{
+  "id": 12170148,
+  "name": "The People of the State of New York, Appellant, v. Jermaine Moody, Respondent",
+  "name_abbreviation": "People v. Moody",
+  "decision_date": "2016-08-01",
+  "docket_number": "",
+  "first_page": "31",
+  "last_page": "33",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 31"
+    },
+    {
+      "type": "parallel",
+      "cite": "38 N.Y.S.3d 872"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "150 Misc 2d 842",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        894779
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/150/0842-01"
+      ]
+    },
+    {
+      "cite": "248 App Div 141",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2435757
+      ],
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/248/0141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 230,
+    "char_count": 3429,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24691671213263786
+    },
+    "sha256": "586538042cb5348e6d13b6e89df1da2e6957fe7471dace70d8ef88344743f68f",
+    "simhash": "1:ae1a42e5365a60ed",
+    "word_count": 558
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Maraño, P.J., Tolbert and Brands, JJ., concur."
+    ],
+    "parties": [
+      "The People of the State of New York, Appellant, v Jermaine Moody, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that, on the court’s own motion, the People’s notice of appeal from an oral order of the same court issued February 4, 2015 is deemed a premature notice of appeal from the order dated March 4, 2015 (see CPL 460.10 [1] [b]); and it is further, ordered that the order dated March 4, 2015 is reversed, on the law, defendant’s motion to dismiss the accusatory instrument is denied, the accusatory instrument is reinstated, and the matter is remitted to the Justice Court for all further proceedings.\nAn accusatory instrument, along with a supporting deposition, was filed charging defendant with 20 counts of nonsupport of a child in the second degree (Penal Law § 260.05 [2]) and 20 counts of criminal contempt in the second degree (Penal Law § 215.50 [3]). Thereafter, defendant moved to dismiss the accusatory instrument on the ground that the Family Court has exclusive jurisdiction over .support proceedings, citing Family Court Act § 411. The People opposed the motion. The Justice Court granted defendant’s motion, finding that Family Court Act §§ 156 and 411 are jurisdictional bars to the criminal prosecution of the charges of nonsupport of a child in the second degree and criminal contempt in the second degree, pursuant to Penal Law § 215.50 (3), where, as here, the lawful mandate of the court allegedly being resisted or disobeyed involves a Family Court order of child support.\nThe jurisdiction of the Justice Court over criminal matters is regulated by the Criminal Procedure Law (see UJCA 2001 [1]). Justice courts are local criminal courts which possess “trial jurisdiction of all offenses other than felonies” (CPL 10.30 [1]). “Trial jurisdiction” is defined as the “authority to accept a plea to, try or otherwise finally dispose of [an information]” (CPL 1.20 [24]). Consequently, the Justice Court had jurisdiction to dispose of the charges of nonsupport of a child in the second degree and criminal contempt in the second degree. Although Family Court Act § 411 grants the Family Court “exclusive original jurisdiction over proceedings for support or maintenance under this article and in proceedings under article five-B of this act,” such grant of exclusive jurisdiction has no bearing on the issue of the Justice Court’s jurisdiction to prosecute criminal charges (see People v Rogers, 248 App Div 141, 145 [1936]; People v Jhon, 150 Misc 2d 842 [Crim Ct, Queens County 1991]). We note that Family Court Act § 156 does not preclude the prosecution of a criminal contempt charge in a local criminal court, since that section specifically provides that the Family Court has jurisdiction to hear violations of orders of the Family Court “unless a specific punishment or other remedy for such violation is provided in this act or any other law,” such as is the case with Penal Law § 215.50 (3).\nAccordingly, the order is reversed, defendant’s motion to dismiss the accusatory instrument is denied, the accusatory instrument is reinstated, and the matter is remitted to the Justice Court for all further proceedings.\nMaraño, P.J., Tolbert and Brands, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "David M. Hoovler, District Attorney, Middletown {Andrew R. Kass of counsel), for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[38 NYS3d 872]\nThe People of the State of New York, Appellant, v Jermaine Moody, Respondent.\nSupreme Court, Appellate Term, Second Department, 9th and 10th Judicial Districts,\nAugust 1, 2016\nAPPEARANCES OF COUNSEL\nDavid M. Hoovler, District Attorney, Middletown {Andrew R. Kass of counsel), for appellant."
+  },
+  "file_name": "2379-01",
+  "first_page_order": 83,
+  "last_page_order": 85
+}

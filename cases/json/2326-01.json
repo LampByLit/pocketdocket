@@ -1,0 +1,769 @@
+{
+  "id": 6788801,
+  "name": "Joel Herzog et al., Plaintiffs, v. David Belizario et al., Defendants",
+  "name_abbreviation": "Herzog v. Belizario",
+  "decision_date": "2016-03-11",
+  "docket_number": "",
+  "first_page": "583",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 583"
+    },
+    {
+      "type": "parallel",
+      "cite": "28 N.Y.S.3d 822"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 NY3d 187",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3780197
+      ],
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/10/0187-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 981",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4408497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0981-01"
+      ]
+    },
+    {
+      "cite": "123 AD2d 174",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3495124
+      ],
+      "pin_cites": [
+        {
+          "page": "177-178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/123/0174-01"
+      ]
+    },
+    {
+      "cite": "155 AD2d 506",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3608810
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "507"
+        },
+        {
+          "page": "507-508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/155/0506-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "99 NY2d 646",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        295097,
+        295111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/99/0646-01",
+        "/ny-2d/99/0646-02"
+      ]
+    },
+    {
+      "cite": "300 AD2d 68",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957281,
+        956598
+      ],
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0068-01",
+        "/ad2d/300/0068-02"
+      ]
+    },
+    {
+      "cite": "17 AD3d 392",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1191597
+      ],
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/17/0392-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 707",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 AD3d 503",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3039416,
+        3032984
+      ],
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0503-02",
+        "/ad3d/28/0503-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 1109",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3945071
+      ],
+      "pin_cites": [
+        {
+          "page": "1111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/1109-01"
+      ]
+    },
+    {
+      "cite": "3 NY3d 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 NY3d 656",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 AD3d 45",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        70161
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "51"
+        },
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/6/0045-01"
+      ]
+    },
+    {
+      "cite": "132 AD3d 706",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4367065
+      ],
+      "pin_cites": [
+        {
+          "page": "706"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/0706-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2557882
+      ],
+      "pin_cites": [
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0181-01"
+      ]
+    },
+    {
+      "cite": "96 AD3d 983",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5679950
+      ],
+      "pin_cites": [
+        {
+          "page": "985"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/96/0983-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 9585643",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 NY2d 22",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4428281
+      ],
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0022-01"
+      ]
+    },
+    {
+      "cite": "68 AD3d 1064",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3961534
+      ],
+      "pin_cites": [
+        {
+          "page": "1066"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/68/1064-01"
+      ]
+    },
+    {
+      "cite": "257 AD2d 42",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        171933
+      ],
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/257/0042-01"
+      ]
+    },
+    {
+      "cite": "20 Misc 3d 773",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3158433
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "777-778"
+        },
+        {
+          "page": "778"
+        },
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/20/0773-01"
+      ]
+    },
+    {
+      "cite": "26 NY3d 939",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4133753,
+        4131787,
+        4134301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/26/0939-01",
+        "/ny3d/26/0939-02",
+        "/ny3d/26/0939-03"
+      ]
+    },
+    {
+      "cite": "127 AD3d 900",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4151713
+      ],
+      "pin_cites": [
+        {
+          "page": "903"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/0900-01"
+      ]
+    },
+    {
+      "cite": "101 AD2d 821",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3376729
+      ],
+      "pin_cites": [
+        {
+          "page": "822-823"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/101/0821-01"
+      ]
+    },
+    {
+      "cite": "293 AD2d 597",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        955892
+      ],
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/293/0597-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 1108",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4002523,
+        3992916
+      ],
+      "pin_cites": [
+        {
+          "page": "1108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/1108-01",
+        "/ad3d/78/1108-02"
+      ]
+    },
+    {
+      "cite": "109 AD3d 783",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3723746
+      ],
+      "pin_cites": [
+        {
+          "page": "783"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0783-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 577",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3754105
+      ],
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/0577-01"
+      ]
+    },
+    {
+      "cite": "116 AD3d 672",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4018905,
+        4009594
+      ],
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/116/0672-02",
+        "/ad3d/116/0672-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 945",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4064662,
+        4059671
+      ],
+      "pin_cites": [
+        {
+          "page": "945"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0945-01",
+        "/ad3d/118/0945-02"
+      ]
+    },
+    {
+      "cite": "132 AD3d 963",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4358790
+      ],
+      "pin_cites": [
+        {
+          "page": "963"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/0963-01"
+      ]
+    },
+    {
+      "cite": "97 AD3d 712",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3478741
+      ],
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0712-01"
+      ]
+    },
+    {
+      "cite": "58 AD3d 832",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3737779
+      ],
+      "pin_cites": [
+        {
+          "page": "833"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/58/0832-01"
+      ]
+    },
+    {
+      "cite": "28 AD3d 514",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3040592
+      ],
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0514-01"
+      ]
+    },
+    {
+      "cite": "28 AD3d 541",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3012106
+      ],
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0541-01"
+      ]
+    },
+    {
+      "cite": "35 AD3d 591",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3717140,
+        3728382
+      ],
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/35/0591-02",
+        "/ad3d/35/0591-01"
+      ]
+    },
+    {
+      "cite": "61 AD3d 962",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3921364
+      ],
+      "pin_cites": [
+        {
+          "page": "963"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/0962-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 672",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3482936
+      ],
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0672-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 56",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3737569
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/0056-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 715",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4302846
+      ],
+      "pin_cites": [
+        {
+          "page": "716"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0715-01"
+      ]
+    },
+    {
+      "cite": "133 AD3d 570",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4367486
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "571"
+        },
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/133/0570-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1569,
+    "char_count": 51992,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18249886383337408
+    },
+    "sha256": "6e6e3e01136aca7a0ce50a5702ffc743c47d2193d2c8536aba40c3d6c54794ce",
+    "simhash": "1:8d3b976f2c4a5dca",
+    "word_count": 8486
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joel Herzog et al., Plaintiffs, v David Belizario et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nCarolyn E. Demarest, J.\nIn this action by plaintiffs Joel Herzog and Nechemia Perl-stein (collectively, plaintiffs) against defendants David Belizario and Samuel Belizario (collectively, defendants) seeking specific performance of a contract for the sale of real property, plaintiffs move, under motion sequence number one, for an order, pursuant to CPLR 3215 (a), entering a default judgment against defendants in their favor, and, upon such default: (1) directing defendants to specifically perform the contract between them, dated June 2014, in accordance with its terms; (2) awarding them the attorneys’ fees which they have incurred by reason of this action, in accordance with paragraph 33 of the rider to the contract; (3) setting down this matter for an inquest to determine the additional consequential damages to which they claim to be entitled by reason of defendants’ alleged breach of the contract; and (4) awarding them the costs and disbursements of this action.\nDefendants cross-move, under motion sequence number two, for an order vacating their default in answering plaintiffs’ complaint pursuant to CPLR 5015 (a), and, upon such vacatur: (1) granting them a declaratory judgment, pursuant to CPLR 3001 and 3017 (b), that the contract that is the subject of this action is a “covered contract” under the Home Equity Theft Prevention Act (HETPA) and that the contract is deemed rescinded under Real Property Law § 265-a (8) (a); (2) dismissing this action pursuant to CPLR 3211 (a) (1); and (3) granting them legal fees and damages pursuant to Real Property Law § 265-a (8) (d) and (9). Defendants, in their cross motion, seek, in the alternative, leave to file a late answer pursuant to CPLR 2005.\nBackground\nBy a residential contract of sale (the contract) dated as of June 2014 and executed by both plaintiffs and defendants, defendants, who are brothers, agreed to sell real property located at 1167 Greene Avenue, in Brooklyn, New York (the property), a three-family residence owned by both of them, to plaintiffs, who are business partners, for the purchase price of $680,000. Samuel resides in one of the apartments at the property as his primary residence, and David lives elsewhere. At the time that defendants executed the contract, they had not paid the mortgage on the property in more than two years. Despite this lack of payment, no action for foreclosure was filed against defendants.\nAccording to defendants, they had signed the contract after David contacted a broker, Desmond Smith, because they were seeking to take advantage of rising property values in the neighborhood and because they were always concerned that they had not been paying their mortgage, which could potentially lead to a foreclosure action being brought against them. Defendants claim that Smith then began putting pressure on David to sell the property, warning them that they could lose the property if it were sold in a foreclosure sale. In June 2014, Smith contacted David and informed him that he had found buyers for the property and that they should sign the contract. Soon thereafter, David went to the office of Anthony J. Cassese, Esq., an attorney to whom he claims he was referred by Smith, with the intention of signing the contract.\nPursuant to the contract, plaintiffs paid a $34,000 down payment with the balance of $646,000 to be paid at the closing. Mr. Cassese was listed as the attorney for defendants on the contract, and he accepted receipt of the down payment. Mr. Cassese also executed the contract, as the escrow agent, acknowledging this receipt.\nParagraph 15 of the contract provided that the closing was to take place within 60 days from the date of contract or upon reasonable notice by plaintiffs. Paragraph 23 of the contract provided that if defendants defaulted thereunder, plaintiffs would “have such remedies as [they were] entitled to at law or in equity, including, but not limited to, specific performance.”\nA rider to the contract contained additional contractual terms. Paragraph 31 of the rider to the contract provided that defendants would not be obligated to remove any defect in title if the cost to them exceeded $2,000. Paragraph 32 of the rider to the contract provided that plaintiffs warranted and represented that, subject to their obtaining the proceeds of any mortgage contemplated thereunder, they had the assets sufficient to complete the transaction. Paragraph 33 of the rider to the contract, entitled “Attorneys Fees,” provided as follows:\n“If either party brings any action or legal proceeding for damages or specific performance arising out of an alleged breach of this Contract, then the prevailing party in any such action or proceeding shall also be entitled to recover as part of such action or proceeding, or any separate action brought for that purpose, reasonable attorneys fees and costs.”\nParagraph 51 of the rider to the contract provided that plaintiffs agreed to pay, at the closing, all city fines currently outstanding on the property under the amount of $1,000, all city taxes currently in arrears on the property, all New York State and New York City transfer taxes associated with this transaction and all monies owed to satisfy the current water bill. Paragraph 52 of the rider to the contract provided that plaintiffs agreed to pay, at the closing, a $10,000 relocation fee to Samuel if defendants’ net proceeds were less than $10,000 in exchange for the third floor being delivered vacant, and to pay the first and second floor tenants $5,000 each in exchange for these floors being delivered vacant. Paragraph 53 of the rider to the contract provided that defendants would, at no cost to them, cause their mortgage to be assigned to an entity designated by plaintiffs if permitted by their lender. Paragraph 55 of the rider to the contract stated: “HETPA disclosures annexed hereto and made a part hereof.” Annexed to the contract was a “Notice of Cancellation Rights Required by HETPA.” This notice contained the language set forth in Real Property Law § 265-a (4) (i), the Home Equity Theft Prevention Act, as follows:\n“YOU MAY CANCEL THIS CONTRACT AT ANY TIME BEFORE MIDNIGHT OF_ (DATE). Joel Herzog (Name Of Equity Purchaser) CANNOT ASK YOU TO SIGN OR HAVE YOU SIGN ANY DEED OR ANY OTHER DOCUMENT UNTIL YOUR RIGHT TO CANCEL THIS CONTRACT HAS ENDED. SEE ATTACHED NOTICE OF CANCELLATION FORM FOR AN EXPLANATION OF THIS RIGHT. YOU SHOULD ALWAYS CONSULT AN ATTORNEY OR COMMUNITY ORGANIZATION BEFORE SIGNING ANY LEGAL DOCUMENTS CONCERNING YOUR HOME. IT IS ADVISABLE THAT YOU FIND YOUR OWN ATTORNEY, AND NOT CONSULT WITH AN ATTORNEY WHO HAS BEEN PROVIDED TO YOU BY THE PURCHASER. THE LAW REQUIRES THAT THIS CONTRACT CONTAIN THE ENTIRE AGREEMENT. YOU SHOULD NOT RELY UPON ANY OTHER WRITTEN OR ORAL AGREEMENT OR PROMISE.”\nThis notice was signed by both plaintiffs and defendants. However, the date up to which defendants could cancel the contract was not filled in by plaintiffs and was left blank.\nAlso annexed to the contract was a “Notice of Cancellation,” which contained the language set forth in Real Property Law § 265-a (6) (a), as follows:\n“THIS CONTRACT WAS ENTERED INTO ON _. YOU MAY CANCEL THIS CONTRACT FOR THE SALE OF YOUR HOUSE, WITHOUT ANY PENALTY OR OBLIGATION, AT ANY TIME BEFORE MIDNIGHT OF_. TO CANCEL THIS TRANSACTION, PERSONALLY DELIVER A SIGNED AND DATED COPY OF THIS CANCELLATION NOTICE, OR SEND IT BY FACSIMILE, UNITED STATES MAIL, OR AN ESTABLISHED COMMERCIAL LETTER SERVICE, INDICATING CANCELLATION TO Joel Herzog (NAME OF PURCHASER) AT_(STREET ADDRESS OF PURCHASER’S PLACE OF BUSINESS AND FACSIMILE NUMBER # IF ANY) NOT LATER THAN MIDNIGHT OF_(DATE).\n“IF YOU WISH TO CANCEL THIS CONTRACT, SIGN AND DATE BOTH COPIES AND RETURN ONE COPY IMMEDIATELY TO THE PURCHASER.\n“I HEREBY CANCEL THIS TRANSACTION.\n“_(SELLER’S SIGNATURE) _(DATE).”\nAs shown above, the date on which the right to cancel the contract ended was not filled in by plaintiffs and was left blank.\nAccording to Nechemia, after entering into the contract, she and Joel had numerous communications with defendants in an effort to close on the property. She attaches, as an exhibit, text messages which she exchanged with Samuel in October 2014, whereby he agreed to provide her with access to the property so that the bank that she and Joel were using to finance the transaction, i.e., Community Federal Savings Bank, could appraise it. She also annexes a “Cost to Complete Report” for the property from KOW Building Consultants, prepared for Community Federal Savings Bank, which specifically notes (on page 8) that on October 8, 2014, Samuel provided him with access to the property.\nThereafter, defendants, using Alexander Levkovich, Esq., defendants’ present attorney in this action, as their transactional attorney, rather than using Mr. Cassese, entered into a contract dated March 13, 2015 for the sale of the same property, with a different buyer, namely, Alexander Rubin. That contract provided for the sale of the property to Rubin for the purchase price of $740,000 with a $37,000 down payment. It also contained an April 17, 2015 time is of the essence closing date with a 60-day closing adjournment if defendants could not deliver the property vacant. Notably, no HETPA disclosures were included in that contract.\nOn May 4, 2015 plaintiffs’ then attorney, Joseph Badalov, Esq., of the law firm Stanley P. Kupfer, Esq., who represented them in the real estate transaction, emailed Mr. Cassese asking him to advise him of the status of the closing date. Mr. Badalov stated that plaintiffs were prepared to make an offer for the tenants to vacate prior to closing and asked to be advised as to defendants’ plans with respect to the closing date. Although there was no time of the essence clause in the contract, nor was any time of the essence notice otherwise given to defendants, Mr. Cassese replied, in an email on the same date, that defendants were not proceeding with this transaction because this was an all cash transaction that should have closed nine months ago. He stated that, as a result of the delay, defendants’ mortgage payoff was significantly more than was anticipated, and that defendants had advised him to terminate the contract and return the down payment. He further advised Mr. Badalov that, in the event of any litigation in connection with this matter, his law firm would not be representing defendants.\nShortly before that email was sent, on April 28, 2015, after discovering that defendants had entered into the contract with Rubin for the sale of same property that was the subject of the contract with them, by their present attorney, the Law Office of Jeffrey Fleischmann PC, plaintiffs filed a notice of pendency and commenced this action against defendants. Plaintiffs’ complaint alleges a first cause of action for specific performance of the contract, a second cause of action for a declaratory judgment that defendants willfully and materially breached the contract and that they are required to schedule a closing date under the contract as soon as practicable, a third cause of action awarding them compensatory and consequential damages against defendants, and a fourth cause of action, as an alternative to specific performance, awarding them a vendee’s lien for the deposit and any additional funds paid to them of no less than $34,000.\nOn May 26, 2015, Mr. Levkovich executed a stipulation on behalf of defendants, waiving their defense of lack of proper service in exchange for plaintiffs’ extension of defendants’ time to answer until June 25, 2015. No answer was served by June 25, 2015. Instead, on June 25, 2015, Mr. Levkovich filed a notice of appearance, giving notice that he is the attorney for defendants and that defendants appear in this action, and demanding that plaintiffs serve a copy of the complaint and all notices and other papers in this action upon him. According to Mr. Fleischmann, he spoke to Mr. Levkovich twice by telephone and requested that he interpose an answer, and Mr. Levkovich promised to do so within one day, but then failed to do so. On July 3, 2015, Mr. Levkovich e-filed a “Notice of Rescission,” stating that defendants, as equity sellers, wished to exercise their right pursuant to Real Property Law § 265-a (8) to rescind the contract, because plaintiffs, as equity purchasers, had violated certain provisions of Real Property Law § 265-a, especially subdivisions (4), (6), and (7). This notice further advised that Joel would have 20 days after delivery of the notice of rescission to authorize defendants and their counsel to refund the deposit on the property and cancel the notice of pendency.\nBased upon defendants’ default in answering the complaint, on July 9, 2015, plaintiffs filed the instant motion, contending that they are entitled to a default judgment against defendants and that, based upon a lack of any viable defense on the part of defendants, they are entitled to specific performance of the contract and other relief, including an award of their attorneys’ fees in accordance with paragraph 33 of the rider to the contract. On August 20, 2015, defendants filed the instant cross motion seeking to vacate their default in answering the complaint, contending that their answer was inadvertently omitted when they filed their notice of rescission, and requesting leave to file a late answer, which they annexed to their cross motion. In addition to denying virtually all of plaintiffs’ allegations, defendants’ answer interposes an affirmative defense and first counterclaim for violation of HETPA and rescission of the contract, a second affirmative defense and second counterclaim seeking damages for violation of HETPA, a third affirmative defense and third counterclaim seeking damages for fraud and misrepresentation, a fourth affirmative defense alleging unclean hands, and a fifth affirmative defense alleging that the contract is unconscionable, thereby rendering it void and unenforceable. Defendants seek, upon the vacatur of their default and the filing of their late answer, a declaratory judgment in their favor that HETPA applies to the contract and that it is deemed rescinded for failure to comply with HETPA, and the dismissal of plaintiffs’ action against them, plus an award of legal fees and damages pursuant to HETPA.\nFollowing oral argument of plaintiffs’ motion and defendants’ cross motion, plaintiffs and defendants were afforded the opportunity to submit supplemental memoranda of law to specifically address the issue of whether HETPA applies to the contract. Plaintiffs and defendants have submitted such memoranda.\nDiscussion\nIn support of defendants’ cross motion insofar as it seeks to vacate defendants’ default in answering plaintiffs’ complaint, defendants’ attorney, Mr. Levkovich, asserts that he had prepared a verified answer with counterclaims, along with the notice of rescission and the notice of appearance, to be filed by the deadline to which he and plaintiffs’ attorney had agreed, but due to an electronic filing error made by his employee, only the notice of rescission and the notice of appearance were filed. He claims that he did not find out about the mistake until he called plaintiffs’ attorney several days before a conference held on July 29, 2015. He points to the fact that the delay was minimal since it was only for three weeks. He asserts that plaintiffs will not be prejudiced by this delay since plaintiffs’ attorney had previously granted him an extension of the time to file an answer and this further delay was short. He further asserts that defendants have raised defenses to this action, which he claims are meritorious, and that public policy favors determining actions on their merits.\n“To avoid the entry of a default judgment, a party must show a reasonable excuse for the default and a potentially meritorious defense” (Josovich v Ceylan, 133 AD3d 570, 571 [2d Dept 2015]; see also U.S. Bank N.A. v Alba, 130 AD3d 715, 716 [2d Dept 2015]; Fried v Jacob Holding, Inc., 110 AD3d 56, 60 [2d Dept 2013]; King v King, 99 AD3d 672, 672 [2d Dept 2012]). Here, Mr. Levkovich’s affirmation is sufficient to establish that the failure to submit a timely answer was not willful, but, rather, was due to law office failure (see CPLR 2005; Josovich, 133 AD3d at 571; Thompson v County of Suffolk, 61 AD3d 962, 963 [2d Dept 2009]; Valure v Century 21 Grand, 35 AD3d 591, 592 [2d Dept 2006]; Whitfield v State of New York, 28 AD3d 541, 542 [2d Dept 2006]; Friedman v Crystal Ball Group, Inc., 28 AD3d 514, 515 [2d Dept 2006]). Further, defendants have submitted their affidavits and their proposed answer, which raise potentially meritorious defenses. Additionally, plaintiffs have failed to show any prejudice from the short delay in defendants’ service of an answer, and “public policy favors the resolution of cases on the merits” (Westchester Med. Ctr. v Hartford Cas. Ins. Co., 58 AD3d 832, 833 [2d Dept 2009]; see also Arias v First Presbyt. Church in Jamaica, 97 AD3d 712, 712 [2d Dept 2012]).\nThus, since plaintiffs have not been prejudiced by the short delay in the service of an answer, and in light of the lack of willfulness on the part of defendants, a reasonable excuse for their default, the existence of a potentially meritorious defense, and the public policy favoring the resolution of cases on the merits, plaintiffs’ motion, insofar as it seeks leave to enter a default judgment against defendants based upon their failure to answer, must be denied, and defendants’ cross motion, insofar as it seeks to compel plaintiffs to accept their late answer, must be granted (see CPLR 2004, 2005, 3012 [d]; Meekins v Turner Towers Tenants Corp., 132 AD3d 963, 963 [2d Dept 2015]; Hutchinson v New York City Health & Hosps. Corp., 118 AD3d 945, 945 [2d Dept 2014]; Klein v Yeshiva M’kor Chaim, 116 AD3d 672, 672 [2d Dept 2014]; EHS Quickstops Corp. v GRJH, Inc., 112 AD3d 577, 578 [2d Dept 2013]; Darlind Constr., Inc. v Prism Solar Tech., Inc., 109 AD3d 783, 783 [2d Dept 2013]; Covaci v Whitestone Constr. Corp., 78 AD3d 1108, 1108 [2d Dept 2010]; Sitigus Foods Corp. v 72-02 N. Blvd. Realty Corp., 293 AD2d 597, 597 [2d Dept 2002]; Buderwitz v Cunningham, 101 AD2d 821, 822-823 [2d Dept 1984]).\nTherefore, defendants’ cross motion is granted to the extent that their default in answering plaintiffs’ complaint is vacated and their proposed answer is deemed served nunc pro tunc. Upon such vacatur and the deeming of service of defendants’ answer, the court may now reach and consider the merits of the defenses asserted in defendants’ answer in the context of defendants’ cross motion, insofar as it seeks a declaratory judgment, dismissal of this action, and legal fees and damages pursuant to their defenses and counterclaims based upon HETPA, and with respect to determining plaintiffs’ motion, insofar as it seeks specific performance of the contract, attorneys’ fees, and consequential damages based upon defendants’ alleged breach of contract.\nDefendants’ defenses are predicated on their contention that they were permitted to rescind the contract on the ground that it is governed by HETPA, which is embodied in Real Property Law § 265-a. HETPA, which became effective on February 1, 2007, was enacted by the legislature in order to promote the public welfare upon its finding, as set forth in Real Property Law § 265-a (1) (a), that “homeowners who are in default on their mortgages or in foreclosure may be vulnerable to fraud, deception, and unfair dealing by home equity purchasers” (see also Real Property Law § 265-a [1] [c]). Specifically, the legislature found that\n“[d]uring the time period between the default on the mortgage and the scheduled foreclosure sale date, homeowners in financial distress, especially poor, elderly, and financially unsophisticated homeowners, are vulnerable to aggressive ‘equity purchasers’ who induce homeowners to sell their homes for a small fraction of their fair market values, or in some cases even sign away their homes, through the use of schemes which often involve oral and written misrepresentations, deceit, intimidation, and other unreasonable commercial practices” (Real Property Law § 265-a [1] [a]).\nHETPA requires that every “covered contract” and notice of cancellation attached thereto shall be written in letters of a certain size, and that “[a]ny instrument of conveyance shall become effective no sooner than midnight of the fifth business day after the date on which the covered contract is executed” (Real Property Law § 265-a [3]). It further requires that all “covered contracts” contain the entire agreement of the parties and must provide a complete description of the transaction, including the name, business address, and the telephone number of the equity purchaser; the address of the residence; the total consideration to be given; the terms of payment; the time of transfer of physical possession of the residence; the terms of any lease agreement; and the terms of any reconveyance arrangement (Real Property Law § 265-a [4]).\nIn addition, HETPA requires that the “covered contract” contain a notice, in the form prescribed, stating that the equity seller may cancel the contract and that the equity purchaser cannot ask him or her to sign any deed until his or her right to cancel the contract has ended (Real Property Law § 265-a [4] [i]). The equity purchaser is required to accurately enter the date on which the right to cancel ends (id.). The “covered contract” must also contain a notice of cancellation, in the form prescribed, attached to the “covered contract” and containing the statement written in the same language as used in the “covered contract” that the equity seller may cancel the contract for the sale of his or her house, without any penalty or obligation, at any time before midnight of a date to be entered on the form by the equity purchaser (Real Property Law § 265-a [4] [h]; [6] [a], [b]).\nReal Property Law § 265-a (5) (a) provides that “the equity seller has the right to cancel any covered contract with an equity purchaser until midnight of the fifth business day following the day on which the equity seller and equity purchaser sign a covered contract that complies with this section.” Real Property Law § 265-a (7) sets forth certain actions that the equity purchaser is prohibited from taking prior to midnight of the fifth business day after the date on which the “covered contract” is executed. These acts include accepting from any equity seller an execution of, or inducing any equity seller to execute, any instrument of conveyance of any interest in the residence, recording with the county clerk any instrument of conveyance signed by the equity seller, transferring or encumbering any interest in the residence, paying the equity seller any consideration, and suggesting, encouraging, or providing any form which allows the equity seller to waive his or her right under HETPA to cancel or rescind the covered contract.\nFurthermore, pursuant to Real Property Law § 265-a (7) (b), an equity purchaser is prohibited from making any\n“false or misleading statement regarding the value of the residence in foreclosure or, where applicable, default; the amount of proceeds the equity seller will receive after a foreclosure sale; the timing of the judicial foreclosure process; any contract term; the equity seller’s rights or obligations incident to or arising out of the sale transaction; the nature of any document which the equity purchaser induces the equity seller to sign; or any other false or misleading statement concerning the sale of the residence in foreclosure or, where applicable, default, or concerning the reconveyance arrangement.”\nReal Property Law § 265-a (7) (d) sets forth that “[i]t is unlawful for any equity purchaser to initiate, enter into, negotiate, or consummate any covered contract involving residential real property in foreclosure or, where applicable, default if such person, by the terms of such covered contract, takes unconscionable advantage of the equity seller.”\nReal Property Law § 265-a (8) (a) provides that\n“[a]ny transaction involving residential real property in foreclosure or, where applicable, default which is in material violation of subdivision three, four, six, seven or eleven of this section is voidable and the transaction may be rescinded by the equity seller within two years of the date of the recording of the conveyance of the residential real property in foreclosure or, where applicable, default.”\nReal Property Law § 265-a (8) (b) sets forth that such rescission is effectuated by giving written notice to the equity purchaser, and by recording this notice with the county clerk of the county where the property is located, within two years of the date of the recording of the conveyance to the equity purchaser.\nReal Property Law § 265-a (9) authorizes an equity seller to bring an action for the recovery of damages or equitable relief against an equity purchaser for a violation of Real Property Law § 265-a (3), (4), (6), (7), or (11) (which concerns reconveyance arrangements). Under Real Property Law § 265-a (9), “[a] court may award to a prevailing equity seller actual damages plus reasonable attorneys’ fees and costs,” and, “[i]n addition, the court may award equitable relief, or increase the award in an amount not to exceed three times the equity seller’s actual damages, or both, if the court deems such award proper.” Real Property Law § 265-a (10) provides criminal penalties where an equity purchaser with intent to defraud violates Real Property Law § 265-a (7).\nDefendants argue that the contract is a “covered contract” under HETPA and that plaintiffs have violated HETPA as a matter of law because they did not date the notice of cancellation or provide in the notice the date and time by which the covered contract must be cancelled, as required by Real Property Law § 265-a (3) and (4) (i), and in accordance with the form prescribed by Real Property Law § 265-a (6). They further assert that defendants violated Real Property Law § 265-a (7) (b), which is “a catchall provision.” In arguing that HETPA was violated, although the real estate broker, Smith, was engaged by David and was unrelated to plaintiffs, they contend that all of the acts of Smith should be imputed to plaintiffs, as plaintiffs’ “representative,” pursuant to the definition of a representative in Real Property Law § 265-a (2) (j), and that Smith solicited and induced them to sell their property. They also argue that the contract is unconscionable pursuant to Real Property Law § 265-a (7) (d). They contend that, therefore, the contract is voidable and may be rescinded pursuant to Real Property Law § 265-a (8) (a). They assert that they rescinded the contract by their notice of rescission given by them on July 3, 2015, following plaintiffs’ commencement of this action on April 28, 2015.\nDefendants’ attempt to avoid the contract by utilizing the provisions of HETPA, however, must fail as HETPA is wholly inapplicable because the contract is not a “covered contract” under HETPA. A “covered contract” is unambiguously defined in Real Property Law § 265-a (2) (c) as meaning:\n“any contract, agreement, or arrangement, or any term thereof, between an equity purchaser and equity seller which:\n“(i) is incident to the sale of a residence in foreclosure; or\n“(ii) is incident to the sale of a residence in foreclosure or default where such contract, agreement or arrangement includes a reconveyance arrangement” (emphasis added).\nA “reconveyance arrangement” is defined in Real Property Law § 265-a (2) (i) as\n“(i) the transfer of title to residential real property by an equity seller who is in default or foreclosure, either by transfer of interest from an equity seller to an equity purchaser or by creation of a mortgage or other lien or encumbrance during the time of default or foreclosure that allows the equity purchaser to obtain legal or equitable title to all or part of the property, and\n“(ii) the subsequent conveyance, or promise of a subsequent conveyance, of an interest back to the equity seller by the equity purchaser that allows the equity seller to regain possession of the property, which interest shall include but not be limited to a purchase agreement, option to purchase, or lease.”\nHere, there was no reconveyance arrangement in the contract.\nIt is undisputed that the property was not in foreclosure, which is defined in Real Property Law § 265-a (2) (g) as requiring “that there is an active lis pendens filed in court pursuant to article thirteen of the real property actions and proceedings law against the subject property, or the subject property is on an active property tax lien sale list.” While it is true that the property was in “default,” as defined in Real Property Law § 265-a (2) (d), as meaning that “the equity seller is two months or more behind in his or her mortgage payments,” in the absence of a reconveyance arrangement in the contract, the fact that the property was in default for over five years does not render the contract a “covered contract” under HETPA (see Real Property Law § 265-a [2] [c]).\nDefendants, despite this definition, contend that they are “equity sellers” since they were “property owners” of a three-family residential property which is Samuel’s primary residence. A “property owner” is defined by Real Property Law § 265-a (2) (h) as “any or all record title owners of the residential real property in foreclosure or, where applicable, default at the time of the equity sale.” Defendants assert that since they have been in default on their mortgage payments for over five years, and the contract was entered into in June 2014, which was during the time that they were in default, HETPA should be found applicable to the contract.\nDefendants argue that the legislative intent of HETPA was to encompass the contract since they were in default on their mortgage at the time they signed the contract with plaintiffs. While Real Property Law § 265-a (1) (a) declares the legislative intent of HETPA to be to protect homeowners who are in default on their mortgages or in foreclosure that may be vulnerable to fraud, deception, and unfair dealing by home equity purchasers, the statute expressly limits its scope and applicability to “covered contracts” as defined in Real Property Law § 265-a (2) (c). Furthermore, defendants have not alleged any fraud, deception, or unfair dealing engaged in by plaintiffs as equity purchasers. Rather, relying upon the language of Real Property Law § 265-a (2) (e) defining “equity purchaser” to mean “any person who acquires title to any residence in foreclosure or, where applicable, default, or his or her representative,” defendants assert that plaintiffs, as well as defendants’ own broker, Smith (who is not a party herein), are equity purchasers. Defendants contend that Smith was plaintiffs’ representative, and that he engaged in fraud, deception, and unfair dealing.\nSamuel and David have each submitted affidavits asserting that Smith started putting pressure on David to sign the contract by stating that they would lose the property if it were sold at a foreclosure auction, that it would be “sold very soon,” and that the bank would go after them for the deficiency balance. They claim that they had no knowledge of how the legal system worked and assumed that Smith was telling the truth since they had not paid the mortgage in several years. They further claim that Smith tried to convince David that it was urgent that they sell the property before they lost it in foreclosure and that the only way to get out of this situation and avoid losing everything was to sell the property. They also claim that they never met their attorney, Mr. Cassese (who was referred to David by Smith), in person, and no one explained anything connected to the terms of the contract. Samuel claims that he was not even aware that he had signed a contract, and David claims that, although he knew that he was signing the contract, he did not know that the contract was consummated. Defendants’ allegations against Smith and their own attorney would clearly set forth a violation of Real Property Law § 265-a (7) (b) if Smith and Cassese were acting as agents of plaintiffs. However, while defendants seek to attribute the actions of their broker, Smith, to plaintiffs, as their “representative,” Smith was not engaged by plaintiffs, but by David, who admits that he initiated contact with Smith and is responsible for paying the brokerage commission to Smith if the sale is completed.\nDefendants also point to statutory language in Real Property Law § 265-a as support for their contention that HETPA is applicable where the equity sellers are either in foreclosure or merely in default without a foreclosure action having been commenced, even if there is no reconveyance agreement. Specifically, they cite to references in Real Property Law § 265-a (7) to “the residence in foreclosure or, where applicable, default.” They also cite to Real Property Law § 265-a (8) (a), which similarly refers to “conveyance of the residential real property in foreclosure or, where applicable, default.” This language, however, does not support defendants’ argument since the term “where applicable” relates to the alternative “covered contract” arising out of the situation where there is no pending foreclosure action, but the contract is entered into while the sellers are in default upon their mortgage payments, but only where such contract includes a reconveyance arrangement (see Aries Fin., LLC v 12005 142nd St., LLC, 127 AD3d 900, 903 [2d Dept 2015], lv dismissed 26 NY3d 939 [2015] [wherein the Appellate Division, Second Department, citing Real Property Law § 265-a (1), which sets forth the legislative policy of HETPA, Real Property Law § 265-a (2) (c), which sets forth the definition of a “covered contract,” Real Property Law § 265-a (2) (e), which defines an “equity purchaser,” and Washington Mut. Bank v Sholomov (20 Misc 3d 773, 777-778 [Sup Ct, Nassau County 2008]), held that the provisions of HETPA were inapplicable where the facts established a violation of Banking Law § 6-1 in a mortgage foreclosure action wherein the loan to subprime borrowers required the creation of an LLC and the transfer of title as a condition of the loan]).\nThe court did not explain why HETPA was deemed inapplicable in Aries, a foreclosure action, and not an action for specific performance of a contract of sale, as here, but the court’s summary rejection of its applicability would suggest a lack of merit to defendants’ claim that policy alone dictates its application, notwithstanding the language of the statute. In Washington Mut. Bank (20 Misc 3d at 778), the Supreme Court, Nassau County, held that the contract of sale in that case was a “covered contract” under HETPA “because it was incident to the sale of a residence in foreclosure.” While HETPA’s applicability was established where homeowners are in foreclosure on their mortgages, the question of whether it could apply in the absence of a reconveyance arrangement was not at issue (see id. at 777). The Appellate Division’s citation to Washington Mut., together with the statutory provisions, indicate a strict construction of HETPA, rather than the liberal construction advanced by defendants which would sweep virtually all contracts entered during a period of default by the property owner into HETPA’s mandate.\nCiting Pardi v Barone (257 AD2d 42, 44 [3d Dept 1999]), defendants contend that in'resolving a statutory ambiguity, the court must ascertain and give effect to the legislative intent and objective underlying the statute. However, the language of HETPA is clear and unambiguous. Although the provisions of HETPA are to “be liberally construed” in favor of equity sellers “to effectuate the intent and to achieve the purposes set forth in subdivision one of [Real Property Law § 265-a]” of protecting homeowners who are in foreclosure or default on their mortgages from fraud, deception, and unfair dealings (Real Property Law § 265-a [15]; see also Lucia v Goldman, 68 AD3d 1064, 1066 [2d Dept 2009]), the court cannot broaden the scope and application of this statute where its language is “clear and unambiguous on its face,” but must, instead, give it “its most obvious and natural meaning” (Ball v Allstate Ins. Co., 81 NY2d 22, 25 [1993]; see also McKinney’s Cons Laws of NY, Book 1, Statutes § 94). Furthermore, McKinney’s Cons Laws of NY, Book 1, Statutes § 240 provides:\n“The maxim expressio unius est exclusio alterius is applied in the construction of the statutes, so that where a law expressly describes a particular act, thing or person to which it shall apply, an irrefutable inference must be drawn that what is omitted or not included was intended to be omitted or excluded.”\nThe definition of a covered contract under HETPA expressly does not include merely a default without foreclosure unless there is a reconveyance agreement in the contract (Czornyj v Self Reliance [NY] Federal Credit Union, 2010 WL 9585643, *3 [Sup Ct, Westchester County 2010] [HETPA “only applies to covered contracts,” and is inapplicable to property that “was not in foreclosure and there was no reconveyance agreement”]; see also 3-32 Warren’s Weed, New York Real Property § 32.212 [2] [2016] [“(HETPA) is drafted in such a way as to require that a contract of sale of distressed property comply with (HETPA) only where such contract, agreement or arrangement includes a reconveyance arrangement” (internal quotation marks omitted) (citing Real Property Law § 265-a [2] [c] [ii]); “(I)f the written contract of sale of a property for a property which is in default, but which is not in foreclosure, contains no provision for reconveyance to the homeowner, (HETPA) does not apply”]).\nIn Board of Directors of House Beautiful at Woodbury Homeowners Assn., Inc. v Godt (96 AD3d 983, 985 [2d Dept 2012]), the Appellate Division, Second Department, held that “[t]he underlying purpose of HETPA was to afford greater protections to homeowners confronted with foreclosure” and, relying on the standard canon of construction of “expressio un-ius est exclusio alteráis,” inferred that “the expression of this specific type of foreclosure action — mortgage foreclosure actions — in [HETPA] indicates an exclusion of [other types of liens on real property].” Here, the court finds that the specific reference in HETPA to reconveyance arrangements indicates an exclusion of contracts where the sellers are in default but there is no reconveyance arrangement set forth in the contracts.\nDefendants further argue that even if HETPA would not otherwise be applicable to the contract, the contract should be afforded the same protections of a “covered contract” pursuant to Real Property Law § 265-a because they and plaintiffs agreed, in the contract, to be bound by all of the provisions of HETPA. As support for this argument, defendants rely upon paragraph 55 of the rider to the contract, which stated: “HETPA disclosures annexed hereto are made a part hereof,” and the annexed HETPA notices.\nThis argument is rejected. The mere fact that the contract referred to “HETPA disclosures” and included HETPA notices does not render the contract a “covered contract” under HETPA, nor does it demonstrate that the parties agreed to be contractually bound by HETPA. The contract does not contain any language that the parties agreed to be bound by HETPA, but merely stated, perhaps out of an abundance of caution, that HETPA disclosures were annexed and made a part thereof. This language is patently insufficient to demonstrate any intention by the parties to bind themselves to HETPA requirements which would not otherwise apply to the contract. In the absence of any statutory requirement that the HETPA notices be included, the fact that forms were included, which were not correctly or completely filled out in accordance with the statutory requirements, cannot provide defendants with a basis for rescission. In any event, the statute provides that the right to cancel extends to “midnight of the fifth business day following the day on which [the contract is signed]” (Real Property Law § 265-a [5] [a]). Defendants’ first attempt to cancel the contract was by letter of counsel dated May 4, 2015, nearly a year after the contract was executed.\nDefendants also seek a declaratory judgment that the contract is unconscionable. “In general, an unconscionable contract has been defined as one which is so grossly unreasonable as to be unenforceable because of an absence of meaningful choice on the part of one of the parties together with contract terms which are unreasonably favorable to the other party” (King v Fox, 7 NY3d 181, 191 [2006]). Defendants argue that they were without a meaningful choice to enter into the contract because Smith used fraudulent tactics by telling them that they would lose their property if they did not sell it immediately, lied to them about the property being in foreclosure, and used high pressure sales tactics. They further argue that the contract terms were unconscionable because the sales price of $680,000, after paying the prospective closing costs, would require sellers to pay $20,000 to deliver clear title to plaintiffs. Defendants assert that the prospective closing costs total $746,057.59, which consist of approximately $622,398.81 for the payoff of the mortgage as of August 18, 2015, $12,210 for outstanding transfer taxes, $14,448.78 for an outstanding water lien from the Department of Finance as of May 1, 2015, $26,000 for Environmental Control Board (ECB) open judgments, a 10% broker’s commission in the amount of $68,000, and $3,000 for miscellaneous title and legal expenses. These expenses, totaling $746,057.59, are $66,057.59 above the $680,000 contract price.\nThis argument has no merit in the circumstances. Any sales pressure by Smith, who was defendants’ broker, cannot be attributed to plaintiffs. Defendants do not assert that plaintiffs had any relationship with Smith other than the fact that, after defendants engaged Smith as their broker, he found plaintiffs for defendants as potential purchasers of the property. As to the prospective closing costs, the fact that defendants owed $622,398.81 on their mortgage, comprising the bulk of these listed expenses, does not render the purchase price unconscionable. It is noted that, by their own admission, defendants had not made their mortgage payments for five years, while enjoying possession of the property and collecting rent from their tenants. Such circumstances explain the substantial accrued mortgage debt, independent of the value of the property, and clearly corroborate Smith’s alleged advice that foreclosure was imminent. Defendants do not set forth any appraisal or other evidence to show that $680,000 was unreasonable for the value of the property at the time the contract was entered. Moreover, as discussed above, in paragraph 51 of the rider to the contract, plaintiffs agreed to pay the transfer taxes (which defendants list as totaling $12,210), and to satisfy the outstanding water bill (which defendants list as $14,448.78). As to the $26,000 ECB open judgments, plaintiffs further agreed to pay all outstanding city fines under the amount of $1,000. With respect to the broker’s commission, plaintiffs are not involved with, nor responsible for, defendants’ agreement with their own broker to pay a commission. Therefore, the listed closing costs relied upon by defendants do not show that the contract terms unreasonably favor plaintiffs or in any way render the contract unconscionable.\nThus, defendants are not entitled to a declaratory judgment in their favor, dismissal of plaintiffs’ complaint, or legal fees and damages under HETPA, as sought by their cross motion. Plaintiffs, in their motion, seek specific performance of the contract. Although the parties have not denominated their respective motion and cross motion as being for summary judgment, they, in essence, request such relief since they seek the ultimate relief sought in their complaint and answer (which has now been deemed served), and have deliberately charted a summary judgment course by their submissions (see generally Bank of N.Y. Mellon v Green, 132 AD3d 706, 706 [2d Dept 2015]).\nWith respect to plaintiffs’ entitlement to specific performance, “[t]he elements of a cause of action for specific performance of a contract are that the plaintiff[s] substantially performed [their] contractual obligations and w[ere] willing and able to perform remaining obligations, that defendant^] w[ere] able to convey the property, and that there was no adequate remedy at law” (EMF Gen. Contr. Corp. v Bisbee, 6 AD3d 45, 51 [1st Dept 2004], lv dismissed 3 NY3d 656 [2004], lv denied 3 NY3d 607 [2004]). In support of their motion, plaintiffs assert that they have satisfied all conditions of the contract and fulfilled all of their contractual obligations, and that they remain ready, willing, and able to close under the terms of the contract and to proceed with the purchase of the property.\nIn her affirmation, Nechemia asserts that she and Joel received a commitment letter from Community Federal Savings Bank for the amount of $540,000, and has annexed a copy of this commitment letter. She attests that while this commitment has expired as a result of defendants’ refusal to close, she communicated with the bank on July 6, 2015 and was informed that it would extend the terms of the commitment letter once she and Joel received confirmation of the closing, albeit with a slightly varied interest rate. She additionally states that she and Joel have ample funds to close even without the bank commitment. As proof of this, she has annexed a recent statement from a credit line maintained by her at TD Bank, which shows an available balance of $400,000. She also annexes a recent statement from Chase relating to an entity called 554 Wilson Ave LLC, of which she is the owner, which shows an available balance of $555,464.05. She attests that all of these funds are available to use to close the transaction. Plaintiffs assert that defendants breached the contract by failing to convey the property to them and by entering into a contract with Rubin. They further assert that the property is unique, and that they, therefore, have no adequate remedy at law.\nPlaintiffs have thus made a prima facie showing of their entitlement to judgment as a matter of law on their claim for specific performance of the contract by submitting proof of the validity of the contract, their performance thereunder, and that they were and are ready, willing, and able to proceed to closing (see Lot 57 Acquisition Corp. v Yat Yar Equities Corp., 63 AD3d 1109, 1111 [2d Dept 2009]; Backer v Bouza Falco Co., 28 AD3d 503, 505 [2d Dept 2006], lv denied 7 NY3d 707 [2006]; Cheemanlall v Toolsee, 17 AD3d 392, 393 [2d Dept 2005]; EMF Gen. Contr. Corp., 6 AD3d at 51; Piga v Rubin, 300 AD2d 68, 69 [1st Dept 2002], lv dismissed in part, denied in part 99 NY2d 646 [2003]). In opposition, defendants have failed to raise any triable issue of fact (see Alvarez v Prospect Hosp., 68 NY2d 320, 324 [1986]). Therefore, plaintiffs are entitled to summary judgment in their favor on their first cause of action for specific performance.\nAs noted above, plaintiffs’ third cause of action seeks compensatory damages, which include their attorneys’ fees, and consequential damages. As provided in paragraph 33 of the rider to the contract, plaintiffs are entitled to recover their reasonable attorneys’ fees as the prevailing party in this action for specific performance arising out of defendants’ breach of the contract. Plaintiffs shall submit an affirmation of counsel, together with appropriate documentation, as to the basis of the legal fees charged to them, on notice to defendants, within 30 days of the date of this decision. Defendants may respond to such demand for attorneys’ fees within 20 days thereafter. If the amount to be awarded as reasonable attorneys’ fees cannot be agreed upon by the parties, a hearing will be ordered.\nPlaintiffs also seek consequential damages, which, they allege, were caused by defendants’ breach of the contract. The court notes that the relief of specific performance is available and is now being granted, the contract will be performed, and plaintiffs have not lost the value of their bargain (see Cohn v Mezzacappa Bros., 155 AD2d 506, 507 [2d Dept 1989]; Freidus v Eisenberg, 123 AD2d 174, 177-178 [1986], mod 71 NY2d 981 [1988]). However, it has been held that “equity will, so far as possible, place the parties in the same situation as they would have been in if the contract had been performed according to its terms,” and that, “[t]o achieve that end,” the court may award to the purchasers, “in addition to specific performance of the contract, such items of damage as naturally flow from the breach, are within the contemplation of the parties, and can be proven to a reasonable degree of certainty” (Cohn, 155 AD2d at 507-508 [internal quotation marks omitted]). While such damages are recoverable, “proof of consequential damages cannot be speculative or conjectural” (Bi-Economy Mkt., Inc. v Harleysville Ins. Co. of N.Y., 10 NY3d 187, 193 [2008]).\nHere, plaintiffs, in seeking consequential damages, assert that there was a change in mortgage rates such that the cost of purchasing the property will be greater than originally contemplated. Plaintiffs state that their original commitment letter from Community Federal Savings Bank has expired, but that they communicated with the bank on July 6, 2015 and were informed that the bank would extend the terms of the commitment letter, albeit with a slightly different interest rate. Plaintiffs, however, have not introduced any proof of the amount of this interest rate or established that it is higher than the previous rate. Thus, plaintiffs have failed to demonstrate that they have sustained any consequential damages and consequential damages must therefore be denied.\nConclusion\nAccordingly, plaintiffs’ motion is denied to the extent that it seeks leave to enter a default judgment against defendants, and defendants’ cross motion is granted to the extent that they seek leave to interpose a late answer and such answer is deemed served. Plaintiffs’ motion is granted insofar as it seeks an order directing defendants to specifically perform the contract in accordance with its terms and insofar as it seeks an award of attorneys’ fees pursuant to paragraph 33 of the rider to the contract. Plaintiffs shall promptly comply with the procedure set forth above to determine the amount of their reasonable attorneys’ fees. Plaintiffs’ motion is denied insofar as it seeks consequential damages.\nDefendants’ cross motion, insofar as it seeks a declaratory judgment that the contract is a covered contract under HETPA and that it is deemed rescinded, dismissal of this action, and an award of legal fees and damages pursuant to HETPA, is denied.\nOn July 30, 2015, Rubin, based upon the fact that defendants had entered into the contract with plaintiffs and plaintiffs’ commencement of this action, and defendants’ failure to close on the contract with him, filed his own action against defendants, seeking specific performance, damages based upon breach of contract, and alleging a claim of unjust enrichment due to defendants’ retention of his $37,000 down payment which had been released to defendants (Rubin v Belizario, Sup Ct, Kings County, index No. 509375/ 2015).",
+        "type": "majority",
+        "author": "Carolyn E. Demarest, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Law Office of Jeffrey Fleischmann P.C., New York City (Jeffrey Fleischmann of counsel), for plaintiffs.",
+      "Alexander Levkovich, Brooklyn, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[28 NYS3d 822]\nJoel Herzog et al., Plaintiffs, v David Belizario et al., Defendants.\nSupreme Court, Kings County,\nMarch 11, 2016\nAPPEARANCES OF COUNSEL\nLaw Office of Jeffrey Fleischmann P.C., New York City (Jeffrey Fleischmann of counsel), for plaintiffs.\nAlexander Levkovich, Brooklyn, for defendants."
+  },
+  "file_name": "2326-01",
+  "first_page_order": 575,
+  "last_page_order": 597
+}

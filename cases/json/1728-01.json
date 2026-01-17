@@ -1,0 +1,474 @@
+{
+  "id": 12168336,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. CHRIS BAXENDALE, Defendant-Appellant",
+  "name_abbreviation": "State v. Baxendale",
+  "decision_date": "2016-03-02",
+  "docket_number": "No. S-1-SC-35832; Docket No. 33,934",
+  "first_page": "678",
+  "last_page": "686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-048"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "85 N.M. 104",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2776846
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/85/0104-01"
+      ]
+    },
+    {
+      "cite": "1973-NMSC-034",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004-NMSC-019",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1428026
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/135/0621-01"
+      ]
+    },
+    {
+      "cite": "198 P. 529",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 N.M. 145",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8841575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/27/0145-01"
+      ]
+    },
+    {
+      "cite": "1921-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 30"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2001-NMCA-061",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        352625
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0670-01"
+      ]
+    },
+    {
+      "cite": "39 N.M. 165",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1573444
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/39/0165-01"
+      ]
+    },
+    {
+      "cite": "1935-NMSC-028",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 N.M. 764",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1588533
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/100/0764-01"
+      ]
+    },
+    {
+      "cite": "1984-NMSC-024",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 N.M. 540",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1582485
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/98/0540-01"
+      ]
+    },
+    {
+      "cite": "1982-NMSC-099",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 3, 5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 N.M. 581",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1568832
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/93/0581-01"
+      ]
+    },
+    {
+      "cite": "1979-NMCA-154",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 N.M. 127",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1579465
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/52/0127-01"
+      ]
+    },
+    {
+      "cite": "1946-NMSC-047",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 30"
+        },
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶ 29"
+        },
+        {
+          "page": "¶ 42"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008-NMSC-030",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4002756
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 19",
+          "parenthetical": "\"When a dwelling house is entered or attempted to be entered by force . . . , the occupant may use deadly force, if reasonably necessary, to prevent or terminate such entry.\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0184-01"
+      ]
+    },
+    {
+      "cite": "2001-NMCA-094",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        183133
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/131/0195-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-044",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        827339
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0552-01"
+      ]
+    },
+    {
+      "cite": "68 N.M. 271",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2718408
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/68/0271-01"
+      ]
+    },
+    {
+      "cite": "1961-NMSC-040",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006-NMSC-003",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2545160
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/139/0001-01"
+      ]
+    },
+    {
+      "cite": "2001-NMSC-033",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        183105
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/131/0258-01"
+      ]
+    },
+    {
+      "cite": "2007-NMCA-119",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3691387
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0518-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-059",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3783254
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0025-01"
+      ]
+    },
+    {
+      "cite": "2001-NMSC-036",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        183116
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/131/0347-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1049,
+    "char_count": 25052,
+    "ocr_confidence": 0.784,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24684856144122688
+    },
+    "sha256": "0f71134b9895d5c8b7526043df3366d098a9923f6deec9a0dfe4fc50a82bee1d",
+    "simhash": "1:7b4eedb7f4930b8f",
+    "word_count": 4135
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LINDA M. VANZI, Judge",
+      "RODERICK T. KENNEDY, Judge",
+      "J. MILES HANISEE, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. CHRIS BAXENDALE, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nVANZI, Judge.\n{1} Defendant Christopher Baxendale appeals from his convictions for aggravated assault against a household member with a deadly weapon, contrary to NMSA 1978, § 30-3-13 (1995), and aggravated assault with a deadly weapon, contrary to NMSA 1978, § 30-3-2(A) (1963). Defendant challenges the district court’s refusal to give his requested instructions on self defense and defense of property. He also contends that his convictions for two counts of aggravated assault with a deadly weapon violate his constitutional right against double jeopardy. We conclude that the district court committed reversible error when it did not instruct the jury on defense of habitation and therefore reverse and remand for a new trial. Consequently, we need not reach Defendant’s double jeopardy claim.\nBACKGROUND\n{2} Defendant and Christina Lee met and began dating in high school. Although never married, they moved in together and had four children over the course of their twelve-year relationship. In 2005 or 2006, Defendant purchased a home on San Jacinto Northeast in Albuquerque, New Mexico, where he, Christina, and their children lived until 2010. Only Defendant’s name was on the mortgage; Christina’s was not. During the summer of 2010, the couple broke up. Christina took the children to live with her at her mother’s home. However, after less than one week, Christina’s mother expressed that she could not afford to have Christina and the children living with her. Christina then asked Defendant if she and the children could stay with him until she finished school and could support herself and the children. Defendant agreed, and they maintained this living arrangement until the last day of 2010.\n{3} At approximately three o’clock in the afternoon on December 31, 2010, Christina and the children went to her grandmother’s home to celebrate New Year’s Eve. Christina sent a text message to Defendant, who was at work at that time, to invite him to her grandmother’s, but he did not go. Instead, over the course of the evening, Defendant and Christina exchanged a number of text messages, with Defendant indicating his desire that she not return home. Christina replied that that was their home and that’s where they lived. Defendant let Christina know that he would not be at home because he was going out with a friend. He followed up with a message to “have fun getting in.”\n{4} Christina and the children left her grandmother’s house at approximately 12:30 a.m., returning to the house on San Jacinto. The house was dark when they arrived. Christina noticed that there was a padlock on a newly welded hook attached to the wrought iron security door in front of the house. She took her oldest daughter to check on the back door, leaving the other three children in her running car in the driveway. She discovered that the back security door similarly had a padlock on a newly welded hook. Although she had a key to the front and back doors, as well as to the wrought iron security doors in front and back, she did not have a key to unlock the padlocks, which had been placed on the security doors sometime after she had gone to her grandmother’s house.\n{5} Christina put her daughter in the car and proceeded across the street to see if her neighbor had anything she could use to get into the house. The neighbor, Donald “Sonny” Trombley, and a man named Gus accompanied Christina back across the street to her front door. Not wanting to appear as if they were breaking into the house, Sonny suggested that they go to the back door. According to Christina’s testimony, when Sonny saw the padlock on the back security door, he went to his house to get something to break the lock off. When he returned, Sonny used a “clamp” tool to break the padlock. According to Sonny, however, he did not use a tool to break the lock; instead, he testified that he broke the lock with his hand. Regardless of how the lock was broken, the testimony indicated that it was indeed broken off approximately ten to fifteen minutes after they had entered the backyard.\n{6} As Christina began to open the iron security door, she heard a popping sound. She began to laugh, thinking that Defendant must have put firecrackers somewhere around the handle to the door. Sonny, on the other hand, thought it was a gunshot. Christina then began to unlock the back door, when a second, louder sound rang out. Debris from the wooden door fell into Christina’s face and hair. Afraid, Sonny said that it was a gunshot and ran home. Christina, still standing at the door, saw Defendant standing in the house with a shotgun in his hand. Defendant said, “Holy shit,” and then followed that up with “you’re breaking and entering.” After an argument with Defendant, Christina called 911.\n{7} Although Defendant did not testify at trial, the State admitted the statement he made to Albuquerque Police Department (APD) Detective Gonterman, as well as testimony by APD Officer Patrick regarding his conversation with Defendant. According to the detective, Defendant stated that he had added the padlocks to the security doors around lunchtime on New Year’s Eve. Defendant told the detective that when he spoke to Christina the previous evening, she did not indicate that she and the children would be returning home. According to Defendant’s statement, he spent the evening watching television. He decided to take a shower and then retire for the night. While in the shower, he heard a crash or bang outside. Scared, Defendant grabbed his shotgun and ran to the back door. He could not see who was outside. He heard what sounded like the back security door being ripped off. He thought someone was trying to break into his house. He then pointed the shotgun at the back door, aimed high, and shot.\n{8} Although Defendant admitted to the officers that he had only fired the shotgun, the State presented testimony from a firearms expert who opined that a second hole in the door could have been caused by a .38 caliber handgun seized from Defendant’s home, given the fact that a spent .38 caliber casing was found at the scene. Based on this testimony, the State proceeded on a theory thatDefendant had fired two shots at the door—the .38 caliber handgun that produced the “firecracker” sound, and the shotgun, which caused the louder bang and the resultant spray of debris. Defendant does not appear to have challenged this two-shot theory, opting instead to present expert testimony that the shots were fired “in a manner consistent with a defensive position.”\n{9} Following the presentation of evidence, Defendant requested—in accordance with his theory that the ballistics proved that he fired the two shots from a defensive position—that jury instructions be given on self defense and defense of property. The district court denied the request, finding that the facts did not support either of the requested instructions.\nDISCUSSION\nJury Instructions\n{10} On appeal, Defendant contends that he was entitled to instructions on self defense and defense of property and that the district court erred in denying his tendered instructions. The propriety of denying a jury instruction is a mixed question of law and fact that we review de novo. State v. Gaines, 2001-NMSC-036, ¶ 4, 131 N.M. 347, 36 P.3d 438. A defendant is entitled to an instruction on his or her theory of the case if evidence has been presented that is “sufficient to allow reasonable minds to differ as to all elements of the offense.” State v. Gonzales, 2007-NMSC-059, ¶ 19, 143 N.M. 25, 172 P.3d 162. “When considering a defendant’s requested instructions, we view the evidence in the light most favorable to the giving of the requested instructions.” State v. Contreras, 2007-NMCA-119, ¶ 8, 142 N.M. 518, 167 P.3d 966 (alteration, internal quotation marks, and citation omitted).\nA. Preservation\n{11} In order to determine the proper standard of review, we must first determine whether the district court’s refusal to give Defendant’s tendered instructions on self defense and defense ofproperty was preserved for appeal. See State v. Benally, 2001-NMSC-033, ¶ 12, 131 N.M. 258, 34 P.3d 1134 (“The standard of review we apply to jury instructions depends on whether the issue has been preserved. If the error has been preserved we review the instructions for reversible error. If not, we review for fundamental error.” (citation omitted)). Generally, to preserve error on a district court’s refusal to give a tendered instruction, the defendant must tender a legally correct statement of the law. State v. Jernigan, 2006-NMSC-003, ¶ 10, 139 N.M. 1, 127 P.3d 537; accord Rule 5-608(D) NMRA (“[F]or the preservation of error in the charge, ... a correct written instruction must be tendered before the jury is instructed.”).\n{12} In this case, Defendant tendered two written instructions: (1) self defense by means of nondeadly force, UJI 14-5181 NMRA; and (2) defense ofproperty, UJI 14-5180 NMRA. The State argued below, and continues to do so on appeal, that Defendant was not entitled to either of these particular jury instructions because he used deadly force when he twice shot firearms at his back door. Specifically, regarding Defendant’s request for a defense of property instruction, the State argued to the district court—based on the Committee Commentary to UJI 14-5180—that deadly force may only be used for protection of a person’s real or personal property if the interference is accompanied by a deadly force, in which case a self defense instruction would be given instead. In essence, the State’s argument is that UJI 14-5180 only applies when a defendant uses nondeadly force in defense of property because the use of deadly force in defense of property would be unreasonable as a matter of law. This view finds support in Brown v. Martinez, 1961-NMSC-040, ¶ 22, 68 N.M. 271, 361 P.2d 152, where the Court observed that “[t]he use of a deadly weapon in the protection ofproperty is generally held, except in extreme cases, to be the use of more than justifiable force, and to render the owner of property liable, both civilly and criminally, for the assault.” (Internal quotation marks and citations omitted.) Defendant replies that “[t]his is not a deadly force case[,]” contending that he “presented uncontroverted expert testimony that both shots had been fired at an upward angle” and that “[t]he angle of the shots fired suggests] that neither shot was fired for the purpose of injuring or killing anyone[.]”\n{13} We have previously concluded that deadly force is the force employed, whether or not it results in a lethal effect. State v. Cardenas, 2016-NMCA-_, ¶ 18, _P.3d_ (No. 33,564, Feb. 16, 2016) (noting that deadly force is a “[vjiolent action known to create a substantial risk of causing death or serious bodily harm.”); accord State v. Lucero, 1998-NMSC-044, ¶ 9, 126 N.M. 552, 972 P.2d 1143 (determining that the brandishing and firing of a deadly weapon into the air was a show of potentially deadly force that “created a substantial risk of death or great bodily harm”). In this case, Defendant shot two firearms, including a shotgun, at his back door, knowing that at least one person was just on the other side of the door. We would be hard-pressed to conclude that Defendant’s actions created less of a risk of death or serious bodily harm because of either his intent in pulling the trigger or the fact that he shot from a “defensive position.” Further, we note that Defendant’s own expert testified that the smaller caliber bullet entered the door “a little over four feet off the ground.” We determine, therefore, that the two tendered instructions—setting forth the standards for self defense and defense of property applicable to the use of nondeadly force by a defendant—were deficient in that they incorrectly stated the law as it related to Defendant’s actions on the night of the incident.\n{14} However, this does not end our analysis. We have held that if the record reflects that the court clearly understood the type of instruction the defendant wanted and understood the tendered instruction needed to be modified to correctly state the law, then the issue is deemed preserved for appellate review. State v. Hill, 2001-NMCA-094, ¶ 7, 131 N.M. 195, 34 P.3d 139. As our Supreme Court has stated, the “rationale for allowing such flexibility regarding preservation is reinforced by the actual purpose of Rule 5-608(D) NMRA, which is to alert the trial court to the defendant’s argument.” Jernigan, 2006-NMSC-003, ¶ 10 (footnote omitted). In this case, it is clear that Defendant was asking for a self defense instruction, as well as an instruction that would justify his actions in defense of his home, given that Defendant listed his residence on San Jacinto as the property he was protecting. While Defendant’s argument that the force he used was “defensive” and, therefore, nondeadly, may have been misguided, his use of potentially deadly force in protecting either himself or his home did notmake these defenses unavailable. Instead, it simply required the consideration of defense instructions that more accurately stated the law applicable to the facts of this case.\n{15} As the State appears to acknowledge in its answer brief, there are two instructions that take into account the amount of force used by Defendant: self defense by means of deadly force, UJI 14-5183 NMRA, and defense of habitation, UJI 14-5170 NMRA. “Defense of habitation has long been recognized in New Mexico.” State v. Boyett, 2008-NMSC-030, ¶ 15, 144 N.M. 184, 185 P.3d 355. “It gives a person the right to use lethal force against an intruder when such force is necessary to prevent the commission of a violent felony in his or her home.” Id.; see also State v. Couch, 1946-NMSC-047, ¶ 30, 52 N.M. 127, 193 P.2d 405 (“The ... rule limiting the amount of force which may be lawfully used in defense of other property does not apply in defense of habitation.”). Although the defense of habitation instruction appears in the justifiable homicide section of the uniform jury instructions, we conclude that the instruction would have been available to Defendant to request under these circumstances. See Couch, 1946-NMSC-047, ¶ 21 (recognizing that the defense is grounded in the theory that “[t]he home is one of the most important institutions of the state, and has ever been regarded as a place where a person has a right to stand his [or her] ground and repel, force by force, to the extent necessary for its protection” (internal quotation marks and citation omitted)). The focal point of the jury instruction’s “necessary to kill” language lies on the defendant’s intent to prevent the commission of the violent felony using whatever force—including deadly force—is necessary. Cardenas, 2016-NMCA-_, ¶ 18. Killing the intruder is not required to permit the use of force to be justified. To hold otherwise would accomplish an absurd result, depriving a defendant of the defense of habitation when the use of deadly force was justified, but its use did not accomplish a fatal result.\n{16} Therefore, based on Defendant’s theory of the case, presented through his expert witness and in his two motions for directed verdict as well as through his tendered instructions, we conclude that the district court was sufficiently on notice that Defendant was requesting an instruction on self defense and defense of his habitation, and the district court’s refusal to give these instructions was preserved for review on appeal. See State v. Chacon, 1979-NMCA-154, ¶ 9, 93 N.M. 581, 603 P.2d 320 (holding that, although the defendant’s requested self defense instruction might have been technically deficient, under the circumstances of the case, he sufficiently alerted the district court to the need for a self defense instruction).\n{17} Wenote one procedural anomaly that we must address before moving on to consider whether the district court erred in not giving a deadly force self defense instruction and/or a defense of habitation instruction. That is, although Defendant preserved the error below by tendering instructions—albeit deficient—he continues to argue on appeal that the district court’s error lies in not giving those specific instructions. To the point, buoyed by his contention that he did not use deadly force, Defendant maintains that the nondeadly force instructions should have been given. As noted above, Defendant’s divorcing the use of deadly force from actually causing a fatality is unsupported by law.\n{18} Defendant has pitt forward no argument to this Court that he was entitled to a deadly force self defense instruction or a defense of habitation instruction. We ordinarily do not reach issues that the parties have failed to raise in their briefs. See In re Doe, 1982-NMSC-099, ¶¶ 3, 5, 98 N.M. 540, 650 P.2d 824 (stating that “courts risk overlooking important facts or legal considerations when they take it upon themselves to raise, argue, and decide legal questions overlooked by the lawyers who tailor the case to fit within their legal theories” and declining to consider a constitutional argument because it was not raised by the appellants (alteration, internal quotation marks, and citation omitted)); see also In re Adoption of Doe, 1984-NMSC-024, ¶ 2, 100 N.M. 764, 676 P.2d 1329 (“We have long held that to present an issue on appeal for review, an appellant must submit argument and authority as required by rule.” (emphasis omitted)).\n{19} However, we note that in this case, the issue of whether Defendant committed aggravated assault with a deadly weapon was essentially a foregone conclusion, given Christina and Sonny’s testimony, the physical evidence, and his own admissions. The only question to be answered by the jury was whether Defendant’s actions were somehow justified. Defendant’s theories of defense of habitation and self defense were aimed at providing this justification. Crucially, then, in the absence of instructions on Defendant’s defense theories, the case was submitted to the jury on “matters so little in dispute that the verdict was almost predetermined.” See State v. Williams, 1935-NMSC-028, ¶ 7, 39 N.M. 165, 42 P.2d 1111.\n{20} A defendant has the fundamental right to present his or her theory of defense to the jury where the evidence supports it. See Lucero, 1998-NMSC-044, ¶ 5 (“It is basic that a defendant is entitled to have his or her theory of the case submitted to the jury under proper instructions where the evidence supports it.” (alteration, internal quotation marks, and citation omitted)). This concept is supported by the “well-established principle that adequate instruction on self[]defense is the duty of the courts where it finds support in the evidence.” State v. Foxen, 2001-NMCA-061, ¶ 12, 130 N.M. 670, 29 P.3d 1071; cf. State v. Bailey, 1921-NMSC-009, ¶ 30, 27 N.M. 145, 198 P. 529 (stating that the doctrine of self defense and the doctrine of defense of habitation “bear such marked resemblance to each other ... as to be almost identical”).\n{21} This duty of the courts should not stop at the district court. Cf. State v. Barber, 2004-NMSC-019, ¶ 8, 135 N.M. 621, 92 P.3d 633 (recognizing that “there exists in every court an inherent power to see that a man’s fundamental rights are protected in every case” (alterations, internal quotation marks, and citation omitted)). Consequently, in a situation such as this, where the jury instruction issue was preserved below, but not raised on appeal, and where not raising the issue on appeal was clear error, this Court will consider whether the district court erred in not giving jury instructions on defense of habitation and self defense. We do so with the understanding that failure to instruct the jury on a defendant’s theory of the case is reversible error only if the evidence at trial supported giving the instruction. See State v. Gardner, 1973-NMSC-034, ¶ 22, 85 N.M. 104, 509 P.2d 871 (“[T]he court need not instruct if there is absence of such evidence.”).\nB. Entitlement to Defense of Habitation Instruction\n{22} An instruction on defense of habitation would require evidence that (1) Defendant believed that the commission of a felony in Defendant’s home was immediately at hand, (2) Defendant believed it was necessary to use deadly force against the intruder to prevent the commission of the felony, and (3) Defendant acted reasonably. Cf. Gonzales, 2007-NMSC-059, ¶ 21 (outlining the elements of the UJI 14-5170 defense of habitation instruction).\n{23} Our Supreme Court has held that the defense of habitation “gives the householder the right to meet force with force, and an attack upon a dwelling, . . . especially in the night, the law regards as equivalent to an assault on a man’s person, for a man’s house is his castle.” Couch, 1946-NMSC-047, ¶ 29 (internal quotation marks omitted). In Boyett, the Court emphasized “that a person has right to defend his or her residence not only when an intruder is already inside the home, but also when an intruder is outside the home and attempting to enter to commit a violent felony.” 2008-NMSC-030, ¶ 19; see also 2 Wharton’s Criminal Law § 131 (15th ed. 2015) (“When a dwelling house is entered or attempted to be entered by force . . . , the occupant may use deadly force, if reasonably necessary, to prevent or terminate such entry.” (emphasis added)).\n{24} Defendant claims thathe was entitled to an instruction on the defense of his home because he used necessary force to stop the “forceful entry into [his] home.” According to Defendant, he was in the process of taking a shower at approximately 12:30 a.m. when he heard noises coming from his backyard. He went into his kitchen, and he heard a noise that sounded like the iron security door being ripped off. Scared that someone was trying to break into his home, he fired a .38 caliber handgun at the back door. When the suspected intruders continued to try to enter the home, he fired the shotgun. According to his statement to Detective Gonterman, he had no indication that Christina and the children would be returning that night.\n{25} The State argues that Defendant was not entitled to an instruction of defense of habitation because the earlier text messages indicated that Christina wanted to come home that night and because he placed the padlocks on the security doors necessitating Christina’s use of force to enter the home. Further, the State contends that Defendant remained home after telling Christina that he would be going out for the night and that he sat in the house with the lights out while his family was gone. These facts—while potentially bearing on the ultimate success of Defendant’s theory at trial—are not appropriate for consideration of whether the instruction should have been given. See Contreras, 2007-NMCA-119, ¶ 8 (“When considering a defendant’s requested instructions, we view the evidence in the light most favorable to the giving of the requested instructions.” (alteration, internal quotation marks, and citation omitted)).\n{26} Viewing the evidence in the light most favorable to Defendant, it appears thathe provided sufficient evidence that he was under a reasonable belief that unknown intruders were breaking through his iron security back door in the middle of the night and that he fired two shots in order to prevent the forceful entry into his home. Therefore, we hold that the jury should have been instructed on defense of habitation. “Whether the amount of force used by [the defendant was more than the attack warranted was a question for the jury to determine, under proper instructions from the court.” Couch, 1946-NMSC-047, ¶ 42.\n{27} B ecause we conclude that the district court committed reversible error by not giving a defense of habitation instruction, we need not address whether the evidence supported the giving of a self defense instruction.\nCONCLUSION\n{28} For the foregoing reasons, we conclude that the district court committed reversible error when it did not instruct the jury on Defendant’s defense of habitation theory. Consequently, we need not decide whether Defendant would have been entitled to a self defense instruction or whether his two convictions for aggravated assault with a deadly weapon violated his right against double jeopardy. We therefore reverse Defendant’s convictions and remand to the district court for retrial.\n{29} IT IS SO ORDERED.\nLINDA M. VANZI, Judge\nWE CONCUR:\nRODERICK T. KENNEDY, Judge\nJ. MILES HANISEE, Judge\nAlthough the time line is unclear, it appears that Gus left sometime before the look was broken.",
+        "type": "majority",
+        "author": "VANZI, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Laura E. Horton, Assistant Attorney General Santa Fe, NM for Appellee",
+      "Jorge A. Alvarado, Chief Public Defender Kathleen T. Baldridge, Assistant Appellate Defender Santa Fe, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, May 3, 2016,\nNo. S-1-SC-35832\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-048\nFiling Date: March 2, 2016\nDocket No. 33,934\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. CHRIS BAXENDALE, Defendant-Appellant.\nHector H. Balderas, Attorney General Laura E. Horton, Assistant Attorney General Santa Fe, NM for Appellee\nJorge A. Alvarado, Chief Public Defender Kathleen T. Baldridge, Assistant Appellate Defender Santa Fe, NM for Appellant"
+  },
+  "file_name": "1728-01",
+  "first_page_order": 694,
+  "last_page_order": 702
+}

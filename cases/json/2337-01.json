@@ -1,0 +1,242 @@
+{
+  "id": 6789128,
+  "name": "Delfasco, LLC, Plaintiff, v. Steven Powell, Defendant",
+  "name_abbreviation": "Delfasco, LLC v. Powell",
+  "decision_date": "2016-04-25",
+  "docket_number": "",
+  "first_page": "689",
+  "last_page": "693",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 689"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 N.Y.S.3d 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "571 US -, 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 AD3d 724",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4294338,
+        4300965
+      ],
+      "pin_cites": [
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0724-01",
+        "/ad3d/117/0724-02"
+      ]
+    },
+    {
+      "cite": "326 US 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 427",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3701356
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0427-01"
+      ]
+    },
+    {
+      "cite": "240 AD2d 253",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1247502,
+        1247175
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/240/0253-01",
+        "/ad2d/240/0253-02"
+      ]
+    },
+    {
+      "cite": "169 Misc 2d 182",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        839142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/169/0182-01"
+      ]
+    },
+    {
+      "cite": "2006 NY Slip Op 21002",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Misc 3d 1162",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 NY2d 443",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0443-01"
+      ]
+    },
+    {
+      "cite": "691 F Supp 2d 405",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4007707
+      ],
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/691/0405-01"
+      ]
+    },
+    {
+      "cite": "256 AD2d 175",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        197376,
+        197359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0175-02",
+        "/ad2d/256/0175-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 295",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3745238
+      ],
+      "pin_cites": [
+        {
+          "page": "302"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0295-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 34",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3753848
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/0034-01"
+      ]
+    },
+    {
+      "cite": "18 USC § 1030",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 598,
+    "char_count": 9729,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18250832384436314
+    },
+    "sha256": "f6d581264ae21133ff13dd75f3f93847c140584252b4bb96caa2d86f5864550b",
+    "simhash": "1:af4f1f4c480a6ee5",
+    "word_count": 1554
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Delfasco, LLC, Plaintiff, v Steven Powell, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSylvia G. Ash, J.\nPlaintiff Delfasco, LLC moves for an order granting it leave to serve and file an amended complaint. Defendant Steven Powell opposes and cross-moves to dismiss the complaint for lack of personal jurisdiction. For the reasons set forth below, Delfasco’s motion is denied as moot. Powell’s cross motion to dismiss is granted.\nBackground\nAccording to its complaint, Delfasco is a full-service manufacturer and supplier of defense products who has manufactured and supplied defense products to all branches of the United States military for over 10 years. Its manufacturing plant is located in Ashton, Tennessee. Powell, a resident of Greene County, Tennessee, was the manager of Human Resources at Delfasco until his termination on March 3, 2014.\nDelfasco alleges Powell had grown displeased with his employment at Delfasco and planned to leave the company around 2012. That instead of resigning, Powell commenced a scheme of corporate spying and sabotage to harm Delfasco. Specifically, that Powell, without authorization and contrary to protocol, assented to a negative CPAR issued by the United States Army relating to an engineering project/contract that fell behind schedule. Delfasco further alleges Powell stole its proprietary information by downloading Delfasco’s “trade secrets” and other confidential information onto a USB flash drive using his Delfasco-issued laptop computer on several different occasions. That Powell shared this information with Mark Benko, an old friend and ex-Delfasco employee, who currently works for or on behalf of GTI Systems, Inc., a Florida company competing with Delfasco for government defense contracts. Delfasco alleges GTI was awarded a lucrative defense contract, which Delfasco had also bid on, as a result of obtaining its proprietary information.\nAccording to its complaint, Delfasco asserts two causes of action: (1) breach of fiduciary duty and duty of loyalty and (2) tortious interference with prospective economic advantage. In its proposed amended complaint, Delfasco seeks to add a third cause of action under the Computer Fraud and Abuse Act (CFAA) (18 USC § 1030).\nPowell moves to dismiss Delfasco’s action on the grounds that there is no basis for long-arm jurisdiction over him under CPLR 302 (a) or the CFAA. Powell provides an affidavit stating that he has no personal, business or financial connections with New York, does not derive income from New York, nor has he ever resided in New York. Powell also argues that he was not physically present in New York when the alleged tortious conduct took place which is necessary to establish jurisdiction under the relevant New York long-arm provision. In addition to the foregoing, Powell argues the action must be dismissed on the basis of forum non conveniens. Powell asserts that no party to this litigation is a New York resident; that Delfasco’s principal place of business is in Ashton, Tennessee as reflected in Delfasco’s website and its 2011 Annual Report filed with the Tennessee Secretary of State; and that many nonparty witnesses, who are either current or ex-employees of Delfasco, reside in Tennessee.\nIn response, Delfasco argues that its principal place of business is in Brooklyn, New York where its executive offices and computer servers are located. Delfasco contends it conducts a significant amount of activities in New York including, but not limited to, negotiating and signing all Delfasco contracts, formulating and issuing all management decisions, and issuing and paying employee salaries and other operating expenses. Further, Delfasco argues that jurisdiction over Powell is proper because he accessed and misappropriated Delfasco’s confidential information which is stored in its Brooklyn, New York server. In this regard, it is Delfasco’s position that a defendant does not have to be physically present in New York when committing the tort to be subject to its jurisdiction. Delfasco also argues that this court has jurisdiction over Powell under the CFAA because the CFAA establishes personal jurisdiction in the place where a plaintiff’s computer or server is located.\nDiscussion\nWhere a motion is made to dismiss an action for lack of personal jurisdiction, it is the plaintiff who bears the ultimate burden of proving a basis for such jurisdiction (Paterno v Laser Spine Inst., 112 AD3d 34, 39 [2d Dept 2013]). New York’s long-arm jurisdiction is governed by CPLR 302 (a), which provides, in relevant part, that New York has jurisdiction over a non-domiciliary who: (1) transacts any business within the state or contracts anywhere to supply goods or services in the state; (2) commits a tortious act within the state; or (3) commits a tor-tious act without the state causing injury to person or property within the state if he (i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state; or (ii) expects or should reasonably expect the act to have consequences in the state, and derives substantial revenue from interstate or international commerce (see CPLR 302). Additionally, an assessment must be made as to whether a finding of personal jurisdiction satisfies due process (Penguin Group [USA] Inc. v American Buddha, 16 NY3d 295, 302 [2011]).\nHere, it is undisputed that Powell is a non-domiciliary who, at all relevant times, was present in the State of Tennessee. Further, Powell does not conduct any business or derive any income from New York activities or interstate commerce. The fact that Delfasco has a presence in New York and conducts business in New York does not confer jurisdiction on Powell, its employee, under CPLR 302 (a) (3) (see Seneca Ins. Co. v Boss, 256 AD2d 175 [1st Dept 1998]).\nThus, the court turns to CPLR 302 (a) (2) to determine whether Powell can be deemed to have committed a tortious act within the State by accessing information stored in Delfasco’s New York server using his laptop in Tennessee. Federal courts and Court of Appeals decisions construing CPLR 302 (a) (2) have uniformly held that a defendant’s physical presence in New York is a prerequisite to jurisdiction (see DirecTV Latin Am., LLC v Park 610, LLC, 691 F Supp 2d 405, 424 [SD NY 2010]; Longines-Wittnauer Watch Co. v Barnes & Reinecke, 15 NY2d 443 [1965]). However, currently, the rule in New York is unsettled as some courts have deviated from the traditional view of requiring physical presence under CPLR 302 (a) (2) (see Davidoff v Davidoff, 12 Misc 3d 1162[A], 2006 NY Slip Op 21002[U] [Sup Ct, NY County 2006]; Banco Nacional Ultramarino v Chan, 169 Misc 2d 182 [Sup Ct, NY County 1996], affd 240 AD2d 253 [1st Dept 1997]). In such cases, courts have focused on the “locus” of the tort and whether defendant, by use of modern technology, directed activities to New York despite being physically outside of New York (see Banco Nacional Ultramarino; see also Lawati v Montague Morgan Slade Ltd., 102 AD3d 427 [1st Dept 2013]).\nUpon review of the parties’ arguments and the cases cited thereto, here, the locus of the tort is in Tennessee, not New York. Delfasco’s allegations against Powell solely concern his conduct as a Delfasco employee in Tennessee and the information he was privy to as a high-level manager at Delfasco’s manufacturing plant. Even Benko, the alleged recipient of Del-fasco’s confidential information, is connected to Powell by having been a previous employee of Delfasco in Tennessee. Under these circumstances, Powell’s alleged misappropriation of information, technically stored on Delfasco’s New York servers, is insufficient to submit him to New York’s jurisdiction. Powell’s only connection to New York is through his employment with Delfasco. This does not satisfy the “minimum contacts” analysis set forth in International Shoe Co. v Washington (326 US 310 [1945]). “[A] plaintiff cannot be the only link between the defendant and the forum” (Waggaman v Arauzo, 117 AD3d 724, 726 [2d Dept 2014], citing Walden v Fiore, 571 US —, 134 S Ct 1115 [2014] [internal quotation marks omitted]). “Rather, it is the defendant’s conduct that must form the necessary connection with the forum State that is the basis for its jurisdiction over him” (id. [internal quotation marks omitted]). Here, jurisdiction over Powell cannot satisfy due process.\nGiven the foregoing, the CFAA cannot serve as a basis for personal jurisdiction over Powell. In addition, the court need not reach the issue of forum non conveniens in light of the above.\nAccordingly, it is hereby ordered that plaintiff Delfasco’s motion to amend is denied as moot; and it is further ordered that defendant Powell’s motion to dismiss the complaint as against him for lack of personal jurisdiction is granted. The complaint is dismissed.\nAccording to Delfasco, CPAR is an acronym for Contractor Performance Assessment Report which are periodic evaluations by the Armed Forces to evaluate an entity’s contractual performance. After receipt of any CPAR, Del-fasco states that it has the opportunity to review the CPAR and either dispute or assent to the CPAR’s findings before it becomes final. The U.S. government relies on a contractor’s previous CPARs in determining whether to award future contracts to that contractor. Accordingly, a negative CPAR can have an adverse effect on a contractor’s ability to maintain or obtain future contracts with the U.S. Armed Forces.",
+        "type": "majority",
+        "author": "Sylvia G. Ash, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Hahn & Hessen LLP, New York City, for plaintiff.",
+      "Law Firm of William J. Dubanevich, New York City, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[30 NYS3d 513]\nDelfasco, LLC, Plaintiff, v Steven Powell, Defendant.\nSupreme Court, Kings County,\nApril 25, 2016\nAPPEARANCES OF COUNSEL\nHahn & Hessen LLP, New York City, for plaintiff.\nLaw Firm of William J. Dubanevich, New York City, for defendant."
+  },
+  "file_name": "2337-01",
+  "first_page_order": 681,
+  "last_page_order": 685
+}

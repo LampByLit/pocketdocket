@@ -1,0 +1,544 @@
+{
+  "id": 12298485,
+  "name": "Donald Olenick et al., Plaintiffs, v. City of New York, Defendant",
+  "name_abbreviation": "Olenick v. City of New York",
+  "decision_date": "2017-05-04",
+  "docket_number": "",
+  "first_page": "389",
+  "last_page": "394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 389"
+    },
+    {
+      "type": "parallel",
+      "cite": "52 N.Y.S.3d 839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "141 AD2d 525",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3557753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/141/0525-01"
+      ]
+    },
+    {
+      "cite": "240 AD2d 717",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1247389
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "718"
+        },
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/240/0717-01"
+      ]
+    },
+    {
+      "cite": "90 NY2d 623",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        165629
+      ],
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/90/0623-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 895",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3949625,
+        3932653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/0895-02",
+        "/ad3d/63/0895-01"
+      ]
+    },
+    {
+      "cite": "14 AD3d 493",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1383675,
+        1383326
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/14/0493-01",
+        "/ad3d/14/0493-02"
+      ]
+    },
+    {
+      "cite": "91 AD3d 716",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4042761
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/91/0716-01"
+      ]
+    },
+    {
+      "cite": "35 NY2d 361",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2314448
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/35/0361-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 625",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4135920,
+        4129526
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "625"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0625-01",
+        "/ad3d/119/0625-02"
+      ]
+    },
+    {
+      "cite": "96 NY2d 553",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        203215
+      ],
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0553-01"
+      ]
+    },
+    {
+      "cite": "8 NY2d 934",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 NY2d 1042",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 NY2d 664",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188623
+      ],
+      "pin_cites": [
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0664-01"
+      ]
+    },
+    {
+      "cite": "35 AD3d 548",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3723330,
+        3717821
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "549"
+        },
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/35/0548-01",
+        "/ad3d/35/0548-02"
+      ]
+    },
+    {
+      "cite": "7 NY2d 579",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2254183
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "588"
+        },
+        {
+          "page": "588"
+        },
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/7/0579-01"
+      ]
+    },
+    {
+      "cite": "77 AD3d 732",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5756211,
+        5755347
+      ],
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0732-02",
+        "/ad3d/77/0732-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 786",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4001594
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "787"
+        },
+        {
+          "page": "787"
+        },
+        {
+          "page": "787"
+        },
+        {
+          "page": "787"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0786-01"
+      ]
+    },
+    {
+      "cite": "270 NY 364",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019501
+      ],
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/270/0364-01"
+      ]
+    },
+    {
+      "cite": "22 NY2d 579",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2284932
+      ],
+      "pin_cites": [
+        {
+          "page": "581"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/22/0579-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 271",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403927
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "283"
+        },
+        {
+          "page": "283"
+        },
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0271-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 790",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188571
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0790-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 473",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226044
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "479"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0473-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 194",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3735701
+      ],
+      "pin_cites": [
+        {
+          "page": "202-203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0194-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 69",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5716677
+      ],
+      "pin_cites": [
+        {
+          "page": "75-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0069-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 420",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752538
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "425"
+        },
+        {
+          "page": "426"
+        },
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0420-01"
+      ]
+    },
+    {
+      "cite": "28 NY3d 469",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        12281519
+      ],
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "477"
+        },
+        {
+          "page": "478"
+        },
+        {
+          "page": "478"
+        },
+        {
+          "page": "478-479"
+        },
+        {
+          "page": "479"
+        },
+        {
+          "page": "479"
+        },
+        {
+          "page": "477"
+        },
+        {
+          "page": "479"
+        },
+        {
+          "page": "479"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/28/0469-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 614,
+    "char_count": 10537,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.250203969420611
+    },
+    "sha256": "16bac85e9cfad82c07d1a8499004154a6c62abb2dd964af133aedc27c73cd5c1",
+    "simhash": "1:eaf047b71bb18a79",
+    "word_count": 1734
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald Olenick et al., Plaintiffs, v City of New York, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nReginald A. Boddie, J.\nThe decision and order on defendant’s motion, pursuant to CPLR 3212, for summary judgment and to dismiss the complaint is as follows:\nIntroduction\nPlaintiff Donald Olenick, a cyclist, brought this action to recover for personal injuries he sustained in a collision with a pedestrian that occurred on the Brooklyn Bridge on July 25, 2010. Defendant City of New York moves pursuant to CPLR 3212 for summary judgment and to dismiss the complaint. Plaintiffs Donald Olenick and Judy Olenick oppose the motion.\nFacts\nOn July 25, 2010, at approximately 10:45 a.m., plaintiff, Donald Olenick, was riding his bicycle across the Brooklyn Bridge from Manhattan towards Brooklyn. The bike lane on the bridge was marked with painted bicycle signs and was located next to the pedestrian lane, which was marked with painted stick figures and separated from the bike lane by a white line. Each lane was intended for two-way traffic. Plaintiff alleged that traffic was light when he entered the bridge. At about two thirds of the way across the bridge, plaintiff alleged a pedestrian stepped out into the bicycle lane causing him to fall and sustain injuries including a fractured wrist and arm, and deep lacerations and abrasions to his face, knee, and fingers. Plaintiff averred although he first observed the pedestrian 50 feet away, he was unable to stop when she stepped in front of his bicycle.\nPlaintiffs argue that the walkway and bicycle path at the location of the accident had inadequate traffic control devices, including regulatory signs or separation for bicycles and pedestrians; that defendant failed to keep the walkway and bicycle path safely separated; and that defendant failed in its implementation and/or execution of a plan to renovate and/or repair the roadway. Plaintiffs also allege defendant had prior written or actual or constructive notice of these conditions as a result of several similar accidents within the two years prior to the accident, including: an accident that occurred on the bridge on August 18, 2008, when a child ran into the bike lane injuring a cyclist; collisions on May 7, October 19, November 3 and November 19, 2009, and June 25, 2010, involving pedestrians and cyclists; an August 21, 2009 accident in which a cyclist ran over a pedestrian’s foot; and an accident on November 18, 2009, in which a cyclist fell while swerving to avoid a pedestrian. The City does not dispute these incidents or that overcrowding occurred on the bridge.\nThe City argues it is entitled to summary judgment because its design of the pathways is shielded from liability by governmental function immunity. In 2008, the City created the “Markings Plan” to update the bicycle/pedestrian path markings on the bridge to improve visibility. The markings on the bridge on the date of the accident were among the features added to the bridge as part of the plan. The City avers that in designing the pathway it performed “archetypical discretionary, governmental functions that are entitled to immunity,” and even if negligent, its negligence was not the proximate cause of plaintiffs accident.\nDiscussion\nThe first issue for this court to decide is whether the City was engaged in a proprietary function or acted in a governmental capacity at the time the claim arose (Turturro v City of New York, 28 NY3d 469, 477 [2016], citing Applewhite v Accuhealth, Inc., 21 NY3d 420, 425 [2013]). A municipality will be deemed to have been engaged in a governmental function when its acts, such as police and fire protection, are undertaken for the protection and safety of the public interest pursuant to the general police power (Turturro, 28 NY3d at 478 [citations omitted]). If a municipality was acting in a governmental capacity, the plaintiff must prove the existence of a special duty (Turturro, 28 NY3d at 478, citing Applewhite, 21 NY3d at 426). Even if a plaintiff establishes special duty, a municipality acting in a discretionary governmental capacity may rely on the “governmental function immunity defense.” This defense provides immunity for the exercise of discretionary actions taken during the performance of a governmental function. (Turturro, 28 NY3d at 478-479, citing Valdez v City of New York, 18 NY3d 69, 75-77 [2011]; McLean v City of New York, 12 NY3d 194, 202-203 [2009].) The governmental function immunity defense, however, has no applicability where the municipality has acted in a proprietary capacity, even if the acts of the municipality may be characterized as discretionary (Turturro, 28 NY3d at 479). In such case, the municipality is subject to suit under ordinary negligence (Turturro, 28 NY3d at 479, citing Wittorf v City of New York, 23 NY3d 473, 479 [2014]).\n“A government entity performs a purely proprietary role when its ‘activities essentially substitute for or supplement traditionally private enterprises’ ” (Turturro, 28 NY3d at 477, citing Applewhite, 21 NY3d at 425, quoting Sebastian v State of New York, 93 NY2d 790, 793 [1999]). It is well settled that highway planning, design and maintenance constitute proprietary functions that arise from a municipality’s proprietary duty to keep its roads and highways in a reasonably safe condition (Turturro, 28 NY3d at 479, citing Wittorf, 23 NY3d at 480; Friedman v State of New York, 67 NY2d 271, 283 [1986]; see generally Riss v City of New York, 22 NY2d 579, 581 [1968]; Oeters v City of New York, 270 NY 364, 368 [1936]). Here, the court finds the City’s development and implementation of the plan to increase visibility on the bridge was a proprietary function analogous to roadway planning, design and maintenance (see Wittorf, 23 NY3d at 480). Accordingly, the City’s contention that it is entitled to summary judgment based on governmental function immunity is without merit.\nWhile it has long been held that a municipality owes a non-delegable duty to the public to keep its streets in a reasonably safe condition, this duty “is measured by the courts with consideration given to the proper limits on intrusion into the municipality’s planning and decision-making functions” (Kuhland v City of New York, 81 AD3d 786, 787 [2d Dept 2011] [internal quotation marks omitted], citing Friedman, 67 NY2d at 283). In the field of traffic design engineering, a municipality is generally accorded qualified immunity from liability arising out of a traffic planning decision (Kuhland, 81 AD3d at 787, citing Turturro v City of New York, 77 AD3d 732, 735 [2d Dept 2010], affd 28 NY3d 469, 479 [2016]).\nHowever, where the municipality has not conducted a study which “entertained and passed on the very same question of risk,” the doctrine of qualified immunity will not apply (Kuhland, 81 AD3d at 787, citing Weiss v Fote, 7 NY2d 579, 588 [1960]; Turturro, 28 NY3d at 480; cf. Levi v Kratovac, 35 AD3d 548, 549 [2d Dept 2006] [holding city entitled to qualified immunity for decisions made based on a reasonable traffic plan to the roadway where the accident occurred after completion of an adequate pedestrian safety study]). Thus, the essence of the qualified immunity defense is that “[o]nce [a municipality] is made aware of a dangerous traffic condition it must undertake reasonable study thereof with an eye toward alleviating the danger” (Turturro, 28 NY3d at 480, quoting Friedman, 67 NY2d at 284) and demonstrate that “a duly authorized public planning body has entertained and passed on the very same question of risk as would ordinarily go to the jury” (Turturro, 28 NY3d at 480, quoting Ernest v Red Cr. Cent. School Dist., 93 NY2d 664, 673 [1999], rearg denied 93 NY2d 1042 [1999], quoting Weiss, 7 NY2d at 588 [1960], rearg denied 8 NY2d 934 [I960]; see Affleck v Buckley, 96 NY2d 553, 557 [2001]).\nHere, the City avers it is immune from liability since it developed the plan consistent with its municipal planning and decisionmaking functions. Plaintiffs argue that because the City did not conduct a study prior to creating the plan, the City cannot invoke the qualified immunity defense. The court agrees (see Kuhland, 81 AD3d at 787, citing Weiss, 7 NY2d at 588; Turturro, 28 NY3d at 480; cf. Levi, 35 AD3d at 549).\nSummary judgment is a drastic remedy that should only be granted when there are no triable issues of fact (Bonaventura v Galpin, 119 AD3d 625 [2d Dept 2014], citing Andre v Pomeroy, 35 NY2d 361 [1974]). The function of the court on a motion for summary judgment is not to determine credibility or resolve issues of fact, but merely determine whether issues of fact exist viewing the evidence in the light most favorable to the non-moving party (Bonaventura, 119 AD3d at 625, citing Guadalupe v New York City Tr. Auth., 91 AD3d 716 [2d Dept 2012]; Kolivas v Kirchoff, 14 AD3d 493 [2d Dept 2005]; see Pearson v Dix McBride, LLC, 63 AD3d 895 [2d Dept 2009]). Movant bears the burden of establishing its entitlement to summary judgment (Ferrante v American Lung Assn., 90 NY2d 623, 631 [1997]).\nThe City conceded that it was aware of pedestrian and bike congestion on the bridge and frequent collisions that cause injury. It is also undisputed that the City created the plan without first conducting a study regarding avoidance of bicycle/pedestrian accidents and concomitant injuries. Whether the City’s failure to conduct a safety study of the pedestrian/ bicycle collisions on the bridge contributed to plaintiff’s accident and injuries is a question that must be presented to a jury.\nThe City also asserts its acts or omissions were not the proximate cause of the accident. “It is well settled that, in order to find a defendant liable, a finding of negligence generally is not sufficient: the plaintiff must also show that the defendant’s negligence was a ‘substantial cause’ of the accident” (Potter v Korfhage, 240 AD2d 717, 718 [2d Dept 1997] [citations omitted]). However, the question of whether a defendant’s negligence constituted a proximate cause of the accident is also a question of fact for the jury (Potter, 240 AD2d at 718, citing Rubin v Pecoraro, 141 AD2d 525 [2d Dept 1988]).\nConclusion\nThe circumstances here present questions of fact which must be submitted to a jury. Accordingly, defendant’s motion for summary judgment and to dismiss the complaint is denied in entirety.",
+        "type": "majority",
+        "author": "Reginald A. Boddie, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Zachary W. Carter, Corporation Counsel, Brooklyn, for defendant.",
+      "Antin, Ehrlich & Epstein, LLP, New York City, for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[52 NYS3d 839]\nDonald Olenick et al., Plaintiffs, v City of New York, Defendant.\nSupreme Court, Kings County,\nMay 4, 2017\nAPPEARANCES OF COUNSEL\nZachary W. Carter, Corporation Counsel, Brooklyn, for defendant.\nAntin, Ehrlich & Epstein, LLP, New York City, for plaintiffs."
+  },
+  "file_name": "2789-01",
+  "first_page_order": 389,
+  "last_page_order": 394
+}

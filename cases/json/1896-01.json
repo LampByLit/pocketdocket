@@ -1,0 +1,559 @@
+{
+  "id": 4317348,
+  "name": "In the Matter of State of New York, Petitioner, v. Howard Harris, Respondent",
+  "name_abbreviation": "State v. Harris",
+  "decision_date": "2015-04-27",
+  "docket_number": "",
+  "first_page": "950",
+  "last_page": "967",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 950"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 762"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "74 P3d 779",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal 4th 757",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        18740
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/0757-01"
+      ]
+    },
+    {
+      "cite": "2008 US Dist LEXIS 93364",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 4831699",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 P3d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wash App 374",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4013251
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/160/0374-01"
+      ]
+    },
+    {
+      "cite": "2 NE3d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 NE3d 650",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wash App 1048",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4360027,
+        4359588,
+        4360861,
+        4358999
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/1048-03",
+        "/wash-app/185/1048-01",
+        "/wash-app/185/1048-02",
+        "/wash-app/185/1048-04"
+      ]
+    },
+    {
+      "cite": "599 F3d 602",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223730
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "612"
+        },
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0602-01"
+      ]
+    },
+    {
+      "cite": "12 AD3d 307",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        424610,
+        424309,
+        424174
+      ],
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/12/0307-01",
+        "/ad3d/12/0307-03",
+        "/ad3d/12/0307-02"
+      ]
+    },
+    {
+      "cite": "548 A2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871480
+      ],
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/548/0035-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004708
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "186"
+        },
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0174-01"
+      ]
+    },
+    {
+      "cite": "84 AD3d 1098",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4017097
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1098"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/1098-01"
+      ]
+    },
+    {
+      "cite": "96 AD3d 768",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5685522
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/96/0768-01"
+      ]
+    },
+    {
+      "cite": "111 AD3d 541",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3738912
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/0541-01"
+      ]
+    },
+    {
+      "cite": "120 AD3d 52",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4240358
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "60"
+        },
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/0052-01"
+      ]
+    },
+    {
+      "cite": "120 AD3d 694",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4226652
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/0694-01"
+      ]
+    },
+    {
+      "cite": "120 AD3d 1423",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4226333
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1425"
+        },
+        {
+          "page": "1425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/1423-01"
+      ]
+    },
+    {
+      "cite": "14 Misc 3d 718",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3850566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/14/0718-01"
+      ]
+    },
+    {
+      "cite": "979 F2d 396",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10514469
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/979/0396-01"
+      ]
+    },
+    {
+      "cite": "423 F3d 104",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8924688
+      ],
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/423/0104-01"
+      ]
+    },
+    {
+      "cite": "593 F3d 556",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3516344
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/593/0556-01"
+      ]
+    },
+    {
+      "cite": "13 Misc 3d 367",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        5259366
+      ],
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/13/0367-01"
+      ]
+    },
+    {
+      "cite": "25 Misc 3d 380",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3758793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/25/0380-01"
+      ]
+    },
+    {
+      "cite": "28 AD3d 42",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3013065
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0042-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 50",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215951
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0050-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0277-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 42",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1577970,
+        2341901
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "49"
+        },
+        {
+          "page": "49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0042-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 417",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2354529
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "422"
+        },
+        {
+          "page": "423"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0417-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752826
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "110"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "page": "110"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "page": "107"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0099-01"
+      ]
+    },
+    {
+      "cite": "293 F 1013",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        11720199
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1014"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/293/1013-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1265,
+    "char_count": 41896,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 1.0736694728944201e-7,
+      "percentile": 0.5604127885448148
+    },
+    "sha256": "ca9b705cdc56a042305bea64346761cac4703d638d67083fc0b12e6062898aac",
+    "simhash": "1:a9eb0d8228f2aade",
+    "word_count": 6413
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of State of New York, Petitioner, v Howard Harris, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMichael A. Gross\nThe State of New York (petitioner) has filed a petition for civil management of respondent pursuant to article 10 of the Mental Hygiene Law, claiming respondent suffers from a mental abnormality. Specifically, petitioner’s expert, Dr. Frances Charder, diagnosed respondent with unspecified paraphilic disorder. In response, respondent has moved for an order, precluding all testimony regarding unspecified paraphilic disorder, or, alternatively, for a hearing pursuant to Frye v United States (293 F 1013 [DC Cir 1923]) on the admissibility of such testimony asserting that such a diagnosis has not received general acceptance in the psychiatric community. In a decision, dated December 23, 2014, this court granted a Frye hearing to determine whether unspecified paraphilic disorder is generally accepted as a reliable diagnosis within the relevant psychiatric community.\nOn March 2, 2015, a Frye hearing commenced before this court and was concluded on March 6, 2015. At the hearing, Drs. David Thornton and Christopher Kunkle testified on behalf of petitioner. Drs. Allen Frances, Karen Franklin and Brian Abbott testified on behalf of respondent. The court finds that all of the witnesses testified candidly and credibly about the matters at issue. Indeed, neither party appears to challenge the veracity of any witness. Consequently, this court makes the following findings of fact based on the unchallenged information provided by each expert witness.\nFindings of Fact\nPetitioner’s Case\nDavid Thornton, Ph.D. in forensic psychology, testified as an expert in the field of psychology. Dr. Thornton is the research director at the Sand Ridge Treatment Center in Madison, Wisconsin. He also served as an expert advisor on the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), participating in field trials on various mental disorders.\nThe Diagnostic and Statistical Manual of Mental Disorders (the Manual) is a treatise created by the American Psychiatric Association in 1952, which, by classifying mental disorders, serves as the “standard diagnostic handbook used by psychiatrists and psychologists throughout the United States.” It is used in both clinical and forensic settings. In the last 61 years, the Manual has been revised and refined in a number of editions; DSM-5, published in 2013, is the fifth and most current edition of the Manual. Dr. Thornton testified that the Manual is the “foundation for [psychiatric] work during its era,” and stands as a “distillation of the consensus of professional psychiatry with regard to what is a proper diagnosis.”\nThe third edition of the Manual introduced a subsection on paraphilias. Dr. Thornton defined paraphilia as an abnormal sexual interest which is persistent and either intense or preferential. In addition to a small list of specific types of paraphilia, both the third and fourth editions included a category of “paraphilia not otherwise specified” (paraphilia NOS), which was intended to apply to those sexual disorders involving one or more unlisted paraphilias. Dr. Thornton explained that the need for a paraphilia NOS category arose because some patients present with traits or characteristics which do not fit neatly within the listed categories. Although he acknowledged that paraphilia NOS has been subject to criticism and misuse in its application, he stated that it is widely used for diagnostic purposes throughout the United States. Moreover, in his opinion to a reasonable degree of professional certainty, paraphilia NOS as defined in the fourth edition of the Manual is a generally accepted diagnosis within the psychological community.\nDr. Thornton was approached by the editors of DSM-5 to serve as an expert advisor on paraphilia subwork groups. Consequently, he was involved in setting up field trials on various paraphilic disorders, the results of which were given to the drafters of DSM-5. Field trials were done to determine the inter-rater reliability of diagnoses, as well as to examine newly proposed diagnoses. No field trials were conducted with respect to paraphilia NOS.\nWhen addressing paraphilic disorders, DSM-5 replaced paraphilia NOS with two new diagnostic options: (1) “other specified paraphilia” and (2) “unspecified paraphilia.” The “other specified” category deals with instances where an examiner determines that a patient has a paraphilic disorder which is not specifically listed in the Manual. Dr. Thornton explained that DSM-5 sets forth only eight specific paraphilias, a fraction of the many varieties of paraphilias which the psychiatric community has identified. Accordingly, an examiner who determines that a patient suffers from a paraphilia not specifically listed in DSM-5 would classify the condition as “other specified.” Dr. Thornton testified that most of the diagnoses previously characterized under the fourth edition of the Manual as “paraphilia NOS” would now be deemed unspecified paraphilia, and that this diagnosis is commonly used in both clinical and forensic settings.\nAccording to Dr. Thornton, the “unspecified” paraphilia category is applied in instances where a person is determined to satisfy the general criteria for a paraphilic disorder but insufficient information exists for a specific diagnosis. In clinical practice, this diagnosis is helpful to signal to the treatment team that further exploration is needed. It may also be used in situations where the patient has symptoms characteristic of a paraphilic disorder but does not meet the full criteria of a specific paraphilia. Dr. Thornton stated an example of an unspecified paraphilia would be one who has an abnormal sexual interest the focus of which shifts over time.\nIt is Dr. Thornton’s professional opinion to a reasonable degree of psychological certainty that unspecified paraphilic disorder is a generally accepted diagnosis in the psychological community. Dr. Thornton noted that unspecified paraphilia was debated before inclusion as an appropriate diagnosis in DSM-5, which is the most current and clearest statement of professional consensus within the psychiatric community. Moreover, it is a continuation of the paraphilia NOS diagnosis, which was widely used and legally accepted when the fourth edition of the Manual was in effect.\nDr. Thornton disagreed with the characterization of paraphilia NOS or unspecified paraphilia as “junk science,” as discussed in the dissent in Matter of State of New York v Shannon S. (20 NY3d 99, 110 [2012]). He believed that those who are not scientifically trained themselves are not in a position to make such a determination. Furthermore, Dr. Thornton explained that the very fact that it was retained in DSM-5, which is the consensus of the psychiatric community, suggests that those involved in drafting DSM-5 did not regard it as “junk science.” However, Dr. Thornton indicated that there has been “credible criticism of the use of the NOS diagnosis” because some evaluators have applied the diagnosis with insufficient evidence of any paraphilia. Although he acknowledged that unspecified paraphilia may be subject to misuse or overuse in application, Dr. Thornton believed that the diagnosis itself was reliable and acceptable within the scientific community.\nChristopher Kunkle, Psy.D. in clinical psychology, testified as an expert in the field of clinical psychology on behalf of petitioner. Dr. Kunkle is the chief psychiatric examiner for the New York State Office of Mental Health (OMH), as well as the director of the Bureau of Institutional Sex Offender Treatment. His duties include the supervision of OMH’s psychiatric examiners.\nAs a forensic examiner, it is Dr. Kunkle’s expert opinion to a reasonable degree of certainty that the fourth edition of the Manual was an accepted treatise in the field of psychology, and the diagnoses contained within it are generally accepted. According to Dr. Kunkle, paraphilia NOS was generally accepted by the relevant psychiatric community.\nDr. Kunkle testified that in 2013, the fourth edition of the Manual was revised and replaced by DSM-5. Within months of its publication, psychiatric examiners at OMH received training on the new edition, and quickly adopted it. In his opinion to a reasonable degree of professional certainty, DSM-5 is generally accepted as a reliable treatise within the relevant psychological community.\nDr. Kunkle testified that the drafters of DSM-5 replaced paraphilia NOS with two new categories: (1) “other specified,” and (2) “unspecified.” “Other specified” diagnosis is commonly used where the examiner finds the patient meets the criteria for a paraphilic disorder which is not one of the eight specific paraphilias listed in DSM-5. According to Dr. Kunkle, there are “many other paraphilias” aside from the eight specifically described paraphilias set forth in DSM-5.\n“Unspecified” paraphilia is used where the examiner is either uncertain which paraphilia a patient has or determines the patient has a mixture of paraphilias and is unable to determine which is dominant. It also provides an option where a paraphilia is evident but the clinician is unable to determine the underlying cause or specific diagnosis. Dr. Kunkle testified that an OMH examiner who makes either diagnosis must explain the underlying reasoning.\nIn Dr. Kunkle’s opinion to a reasonable degree of psychological certainty, unspecified paraphilic disorder set forth in DSM-5 is a generally accepted diagnosis in the relevant clinical psychological community. His opinion is based on the fact that DSM-5 represents a “consensus document on the disorders in clinical practice.” Dr. Kunkle explained that while some may disagree with one or more of the diagnoses set forth within, DSM-5 delineates a collection of disorders upon which the consensus of the psychological community collectively agreed. He further testified that the revisions found in DSM-5, which includes the new “unspecified paraphilia” category, were done with much rigor and scrutiny over the course of 13 years. However, he noted that there were no studies done with regard to the inter-rater reliability of unspecified paraphilia. Respondent’s Case\nDr. Allen Frances, a retired psychiatrist, board certified in psychology and neurology, testified as an expert in the field of psychiatry on behalf of respondent. Dr. Frances spent a large part of his career as a professor of psychiatry at Cornell, Columbia, and Duke Universities. He has extensive research experience, and published several hundred articles in peer-reviewed journals, mostly focusing on psychiatric diagnosis. Dr. Frances served as a liaison and advisor on the third edition of the Manual, and was also the head of the task force that created the fourth edition of the Manual.\nAccording to Dr. Frances, the Manual was created to increase the reliability of a diagnosis when presented with a set of criteria. Dr. Frances testified that the Manual has five purposes: (1) uniformity for clinicians to diagnose with a set of criteria; (2) guidelines for a diagnosis to promote research; (3) a set of criteria necessary to guide the education of clinicians; (4) a clear diagnostic system needed for administrative purposes including insurance companies; and (5) forensic use in legal settings.\nDr. Frances testified at length about his role as the head of the task force, and the creation of the final draft of the fourth edition of the Manual. According to Dr. Frances, that edition created 47 NOS categories, one for each disorder including paraphilia. He characterized it as a residual category or a “garbage can” for patients who did not fit into a defined criteria set. Dr. Frances explained that these residual NOS categories, lacking definite criteria sets, were inherently unreliable. Accordingly, the NOS categories were intended to be used only for diagnostic and administrative purposes. They were “absolutely” not intended for use in research, education or in a forensic setting.\nDr. Frances testified that the fourth edition of the Manual generated tremendous confusion in its discussion of paraphilia. Therefore, in order to get increased specificity, the drafters of DSM-5 took paraphilia NOS and divided it into two separate categories: (1) “other specified” and (2) “unspecified.” “Other specified” diagnosis is commonly used where the clinician finds “a defined set of symptoms and can give a name to it and that name will provide useful information for whoever is reading the diagnosis . . . .” “Unspecified” diagnosis is used when the patient does not meet the criteria for any specific diagnosis or there is insufficient information. Dr. Frances described the “unspecified” category as “the most residual of categories and really is a garbage can for anything a clinician can think of.”\nDr. Frances further testified that paraphilia NOS was inappropriate for forensic use because it was inherently unreliable. He explained that any NOS diagnosis without a definite criteria set could not be diagnosed reliably or with uniformity. Furthermore, he described it as a “clinical device . . . to get payment for doctors seeing a patient,” and believes it is “not meant to be a forensic tool.” Dr. Frances further stated that although paraphilia NOS was used in the forensic community, it was generally accepted by only a small community of evaluators who were “fairly delusional about a diagnosis” and “misinformed.” He claimed it had not been accepted by the larger community of forensic psychologists and psychiatrists. Dr. Frances explained that there were absolutely no criteria for unspecified paraphilic disorder, and the diagnosis was often based on insufficient information. Accordingly, one should not make a diagnosis in a forensic setting where essentially “a person’s life was at stake.” Such a diagnosis could only be made upon evaluations that had uniformity and reliability.\nIn Dr. Frances’ opinion to a reasonable degree of psychological certainty, unspecified paraphilia disorder is a generally accepted diagnosis by the psychiatric and psychological community for clinical purposes only, not forensic purposes.\nDr. Karen Franklin, Ph.D. in clinical psychology, testified as an expert in the field of psychology on behalf of respondent. Dr. Franklin is self-employed as a forensic psychologist in California. Her specialty includes psychiatric diagnosis as applied in a legal setting.\nDr. Franklin testified about paraphilia NOS, and how every major category in the fourth edition of the Manual had a “not otherwise specified” category. Dr. Franklin explained that the NOS category was available to a clinician who lacks enough information to arrive at a diagnosis or whose patient does not meet the criteria, but manifests a condition which somehow fits into the larger category. Dr. Franklin discussed how DSM-5 divided paraphilia NOS into two separate categories: (1) “other specified,” and (2) “unspecified.” With “other specified,” there is a specific reason why a patient does not meet the diagnostic criteria for a diagnosis. With unspecified, a clinician cannot specify or chooses not to specify the reason why a patient does not meet the criteria for a specific disorder.\nDr. Franklin explained that if a disorder is unspecified, by definition there cannot be uniformity, validity or reliability. The purpose of unspecified is to allow flexibility for all disorders not specific to the eight listed paraphilias. According to Dr. Franklin, unspecified paraphilia is not a real diagnosis because “you’re really not saying anything.” She referred to it as a “wastebasket or garbage can diagnosis” because it is “meaningless.” Finally, Dr. Franklin testified that unspecified paraphilia should not be used in a forensic setting because of the major civil liberty implications based on a diagnosis of “I don’t know or I don’t have enough information or I choose not to say.”\nIn Dr. Franklin’s opinion to a reasonable degree of psychological certainty, unspecified paraphilia disorder set forth in DSM-5 is not a generally accepted diagnosis in the scientific community.\nBrian Abbott, Ph.D. in forensic psychology, testified as an expert in the field of psychology on behalf of respondent. Dr. Abbott performs court-appointed psychological evaluations, specifically sexually violent predator evaluations, in California, Washington, Missouri, and New Hampshire. Approximately 90% of his practice is dedicated to evaluating and diagnosing people who commit sex offenses.\nDr. Abbott testified that in order for a diagnosis to get into the Manual, there must be sufficient literature generated about that diagnosis so that it has met general acceptance in the relevant scientific community. Specifically, there must be clinical research which has defined the symptoms of the condition, and general agreement in the field that there is a criteria set that defines the disorder. Dr. Abbott defined “relevant scientific community” by making a distinction that was dependent on the purpose of the diagnosis. A diagnosis may be generally accepted by the relevant scientific community for clinical or treatment purposes, but not generally accepted in the forensic community because the diagnosis may be inconsistent with a legally defined mental disorder.\nDr. Abbott testified that paraphilia NOS was a category clinicians used to code other paraphilias which were not listed in the Manual or to code atypical paraphilias. Dr. Abbott explained that the NOS distinction was appropriate to situations where an individual exhibited some but not all of the symptoms of the specific paraphilias in the Manual. A clinician was allowed to use the paraphilia NOS category to express “diagnostic uncertainty.” Dr. Abbott discussed how the DSM-5 divided paraphilia NOS into two separate categories: (1) “other specified,” and (2) “unspecified.” However, Dr. Abbott testified that no field trials were conducted in either category as a way to determine if the criteria were applied consistently, and whether there was general acceptance in the scientific community.\nDr. Abbott testified that unspecified paraphilic disorder did not have a criteria set. He described it as a “category of convenience or waste basket category” because a clinician could temporarily record a diagnosis, like a “place holder,” if they were uncertain or were waiting for additional information to make a definitive diagnosis. Therefore, according to Dr. Abbott, unspecified paraphilic disorder was not a mental disorder or diagnosis.\nDr. Abbott testified that while other specified paraphilic disorder had a general criteria set listed in DSM-5, it was still not considered a diagnosis. He explained that it was a category under which you would list a paraphilia which was not one of the eight specific paraphilias listed in the DSM-5.\nIn Dr. Abbott’s opinion to a reasonable degree of psychological certainty, unspecified paraphilia disorder is not a generally accepted diagnosis in the relevant forensic community. However, he stated that it is a generally accepted diagnosis by the psychiatric and psychological community for clinical purposes. Dr. Abbott’s opinion is based on the fact that the evaluations in unspecified paraphilia disorder were so atypical, and could vary from clinician to clinician, that there was no way to reach a consensus that could be considered valid and reliable. Finally, Dr. Abbott testified that in order for a diagnosis to be used in a forensic setting, a high degree of reliability was needed, which was clearly lacking in unspecified paraphilia disorder.\nConclusions of Law\nIt is well settled that “expert testimony based on scientific principles or procedures is admissible but only after a principle or procedure has ‘gained general acceptance’ in its specified field” (People v Wesley, 83 NY2d 417, 422 [1994], quoting Frye v United States, 293 F at 1014; see also People v Middleton, 54 NY2d 42 [1981]). The test of reliability is “not whether a particular procedure is unanimously indorsed by the scientific community, but whether it is generally acceptable as reliable” (Middleton, 54 NY2d at 49). In order for an expert to testify regarding a mental disease or disorder, the party seeking to introduce such testimony must establish that the disease is generally accepted within the scientific community (see People v Taylor, 75 NY2d 277 [1990]; People v Wernick, 215 AD2d 50 [2d Dept 1995]). Pursuant to Frye v United States, when acceptance can not be established by judicial notice, legal writings or judicial opinion, a trial court may conduct a hearing to determine the admissibility of such evidence (see Prince, Richardson on Evidence § 7-311 at 476 [Farrell 11th ed 1995]). At the hearing, the burden lies with the proponent of such testimony to establish its admissibility by offering evidence of its general acceptance within the relevant scientific community (id.; see also Zito v Zabarsky, 28 AD3d 42 [2d Dept 2006]; Matter of State of New York v Rosado, 25 Misc 3d 380 [Sup Ct, Bronx County 2009]).\nIn this case, petitioner’s expert, Dr. Charder, diagnosed respondent with unspecified paraphilic disorder. Respondent seeks to preclude any testimony regarding this diagnosis on the ground that unspecified paraphilic disorder is not generally accepted in the field of psychiatry and psychology. Specifically, respondent argues that it is an unreliable diagnosis since there have been no field tests, inter-rater reliability studies or criteria sets to determine its validity. Respondent further alleges that it is unreliable in a forensic setting. Finally, respondent claims that even assuming arguendo unspecified paraphilia is proved reliable under Frye, Dr. Charder’s diagnosis must still be precluded because it is based on a misapplication of the disorder. Based on the testimony adduced at the Frye hearing, respondent’s motion to preclude is denied. This court finds that petitioner has met its burden of establishing that unspecified paraphilic disorder is generally accepted as a reliable diagnosis in the relevant scientific community.\nThe very inclusion of unspecified paraphilia as a disorder in DSM-5 is indicative of its general acceptance within the psychiatric and psychological community. It is uncontroverted that the Manual is and has been the standard diagnostic handbook used in successive formats by mental health professionals in the United States for more than 60 years. Published by the American Psychiatric Association, it is the authoritative guide on mental disorders, containing descriptions, symptoms and other criteria for diagnosing disorders for clinical, educational and forensic use (see American Psychiatric Association DSM-5 Development, About DSM-5, Frequently Asked Questions, http://www.dsm5.org/about/pages/faq.aspx [accessed Mar. 30, 2015], cached at http://www.nycourts.gov/reporter/webdocs/ Frequently_Asked_Questions_APA_DSM-5.pdf). It represents the consensus of the psychiatric community detailing the range and definitions of mental disorders. Accordingly, although subject to criticism, DSM-5 is generally accepted as reliable in both the psychiatric and psychological community (see Matter of William A., 13 Misc 3d 367, 370 [Sup Ct, Oneida County 2006] [fourth edition of Manual found to be scientific text and generally accepted as “valid” within “appropriate scientific community”]; see also 2 John W. Strong, McCormick on Evidence § 330 at 378 [5th ed 1999]). Moreover, the Manual has been an integral part of the legal system since initial publication (see e.g. McGee v Bartow, 593 F3d 556 [7th Cir 2010] [Manual highly influential and useful tool]; Fuller v J.P. Morgan Chase & Co., 423 F3d 104, 107 [2d Cir 2005] [finding fourth edition to be “objective authority” on mental disorders]; United States v Johnson, 979 F2d 396 [6th Cir 1992] [taking judicial notice of Manual]; Matter of Dale R., 14 Misc 3d 718 [Sup Ct, Oneida County 2006] [recognizing diagnosis from Manual as authoritative]). Although it was “primarily designed to assist clinicians in conducting clinical assessment, case formulation, and treatment planning, DSM-5 is also used as a reference for the courts and attorneys in assessing the forensic consequences of mental disorders” (American Psychiatric Association, DSM-5, Cautionary Statement for Forensic Use of DSM-5 at 25 [2013]).\nBased on the general acceptance of the Manual throughout its extended history, this court concludes that the diagnoses contained within it are also generally accepted as reliable within the psychiatric and psychological community (see Michael B. First, M.D., DSM-5 and Paraphilic Disorders, 42 J Am Acad Psychiatry & L 191, 199 [2014] [“DSM diagnoses are generally admissible in court because they are considered by the field of psychiatry to be widely recognized and clinically valid”]). Among those diagnoses is unspecified paraphilic disorder, formerly known as paraphilia NOS. Drs. Kunkle and Thornton both testified that during the period when the third and fourth editions of the Manual were in effect, paraphilia NOS was generally accepted as a reliable diagnosis within the relevant scientific community. Moreover, New York courts have repeatedly upheld a finding of mental abnormality under article 10 of the Mental Hygiene Law based upon an expert diagnosis of paraphilia NOS (see Matter of State of New York v Shannon S., 20 NY3d 99, 107 [2012] [finding paraphilia NOS “viable predicate mental disorder”]; Matter of State of New York v David M., 120 AD3d 1423 [2d Dept 2014]; Matter of State of New York v Dennis K., 120 AD3d 694 [2d Dept 2014]; Matter of State of New York v Raul L., 120 AD3d 52 [2d Dept 2014]; Matter of State of New York v Robert V., 111 AD3d 541 [1st Dept 2013]; Matter of State of New York v Spencer D., 96 AD3d 768 [2d Dept 2012]; Matter of State of New York v Leon F, 84 AD3d 1098 [2d Dept 2011]).\nDuring the revision process of the current edition of the Manual, the American Psychiatric Association divided paraphilia NOS into two separate categories: other specified paraphilia and unspecified paraphilia. The very fact that the studied consensus of the psychiatric community recognized unspecified paraphilic disorder as a proper subcategory of diagnosis in DSM-5 — the authoritative text on psychiatric and psychological diagnoses — is indicative of its general acceptance in the relevant scientific community. Moreover, it is a continuation of paraphilia NOS, which was widely accepted as a reliable diagnosis during the effective period of the fourth edition of the Manual. Indeed, with the exception of Dr. Franklin, all of the experts who testified at the Frye hearing acknowledged its general acceptance as a reliable clinical diagnosis.\nAs Dr. Kunkle testified, DSM-5 was revised over the course of over a decade with much rigor and scrutiny. The Manual’s website notes that “[d]ecisions to include a diagnosis in DSM-5 were based on a careful consideration of the scientific advances in research underlying the disorder, as well as the collective clinical knowledge of experts in the field” (American Psychiatric Association DSM-5 Development, About DSM-5, Frequently Asked Questions, http://www.dsm5.org/about/pages/faq.aspx [accessed Mar. 30, 2015], cached at http://www.nycourts.gov/ reporter/webdocs/Frequently_Asked_Questions_APA_DSM5.pdf). It further states “[t]he APA prepared for the revision of DSM for nearly a decade, with an unprecedented process of research evaluation” (id.). Indeed, respondent’s own expert, Dr. Abbott, acknowledged that in order for a diagnosis to be included in the Manual, there must be sufficient literature generated about that diagnosis to meet general acceptance in the relevant scientific community. Accordingly, the deliberate and careful decision to replace paraphilia NOS with unspecified paraphilic disorder is illustrative of its acceptance as a reliable diagnosis within the psychiatric and psychological community, and supports its legitimacy as a valid diagnosis.\nThis court acknowledges that unspecified paraphilic disorder has been the subject of much criticism by experts in the field of psychiatry, such as respondent’s expert Dr. Franklin who does not accept it as a legitimate diagnosis, and Dr. Michael First, one of the editors of the fourth edition of the Manual, who considers it “outside of what is generally accepted by the field” (see Michael B. First, M.D., DSM-5 and Paraphilic Disorders, 42 J Am Acad Psychiatry & L 191, 199 [2014]). However, the mere fact that the diagnosis has been subject of debate does not warrant the conclusion that it is no longer generally accepted. The diagnoses contained within DSM-5 represent the collective agreement of the mental health community. Under Frye, the test of reliability does not require that the diagnosis be “unanimously indorsed by the scientific community” but, rather, need only be “generally acceptable as reliable” (Middleton, 54 NY2d at 49; Wesley, 83 NY2d at 423). Thus, unspecified paraphilic disorder need not be accepted by all experts in the field of psychiatry or psychology, just the general consensus. Accordingly, while some experts dispute its legitimacy, that does not render it an unreliable diagnosis. On the contrary, since DSM-5 represents the consensus of the psychiatric community, the decision to include unspecified paraphilia as a mental health diagnosis is clear indication of its general acceptance.\nRelying on the recent Court of Appeals’ decision Matter of State of New York v Donald DD. (24 NY3d 174 [2014]), respondent argues that this court must reject unspecified paraphilic disorder as an unreliable diagnosis. In Donald DD., the Court referred to paraphilia NOS as “a controversial diagnosis” since it is a “ ‘catch-all’ category for paraphilias that are not specifically enumerated” (Donald DD., 24 NY3d at 186). It observed that the dissent in Shannon S. (now the majority in Donald DD.) believed paraphilia NOS “amounted] to junk science devised for the purpose of locking up dangerous criminals,” and “expressed ‘grave doubt’ whether such a ‘diagnosis would survive a Frye hearing to determine whether it is “sufficiently established to have gained general acceptance” in the psychiatric community’ ” (Donald DD., 24 NY3d at 186, quoting Shannon S., 20 NY3d at 110 [Smith, J., dissenting, joined by Lippman, Ch. J. and Pigott, J.]). However, the opinion in Donald DD. does not compel a finding that unspecified paraphilia is an unreliable diagnosis pursuant to Frye. The Frye test is “not for our Court to determine whether the method was or was not reliable . . . but whether there was consensus in the scientific community as to its reliability. The Frye test emphasizes ‘counting scientists’ votes, rather than . . . verifying the soundness of a scientific conclusion’ ” (Wesley, 83 NY2d at 439 [Kaye, Ch. J., concurring], quoting Jones v United States, 548 A2d 35, 42 [DC Ct App 1988]). Although “a trial court would be tempted to weigh the relative merits of the experts introduced by each side to decide whether the proposed expert testimony is reliable,” “it is not the court’s job to decide . . . which expert’s conclusions are correct” (Marsh v Smyth, 12 AD3d 307, 311 [1st Dept 2004]). Thus, it is not this court’s province to weigh in on the validity of the scientific conclusion, but only to determine whether it has gained general acceptance in its particular scientific field.\nIn any event, despite its criticism of unspecified paraphilic disorder, the Court in Donald DD. expressly decided not to overrule its previous decision in Matter of State of New York v Shannon S. (20 NY3d 99 [2012]), which upheld paraphilia NOS as a viable predicate for a finding of mental abnormality pursuant to Mental Hygiene Law article 10. In Shannon S., the Court held that any issue pertaining to the reliability of paraphilia NOS is a “factor relevant to the weight to be attributed to the diagnosis, an issue properly reserved for resolution by the factfinder” (20 NY3d at 107). Furthermore, “[a]ny professional debate over the viability and reliability of paraphilia NOS is subject to the adversarial process which, by vigorous cross-examination, would ‘expose the strengths and weaknesses of the professional medical opinions offered’ in reaching a considered legal determination as to whether a respondent suffers a mental abnormality” (id. at 107, quoting Brown v Watters, 599 F3d 602, 612 [7th Cir 2010]).\nAccordingly, since unspecified paraphilic disorder is generally accepted by the scientific community, any challenges raised by respondent regarding the validity of the diagnosis go to the weight of the evidence, not its admissibility (see Shannon S., 20 NY3d at 107). At trial, respondent will be able to attack the reliability of the diagnosis, raising issues such as its diagnostic uncertainty and the lack of field and inter-rater reliability tests or criteria sets. Respondent will have the opportunity to vigorously cross-examine petitioner’s psychiatric experts, as well as present his own witnesses to testify about the shortcomings of the diagnosis. The trier of fact is in the best position to evaluate the weight and credibility of conflicting expert psychiatric testimony (Raul L., 120 AD3d at 60). Since any criticism regarding the validity of the diagnosis is an issue for the factfinder’s resolution, it does not affect admissibility under the Frye standard (see David M., 120 AD3d at 1425 [question of whether paraphilia NOS is reliable predicate for mental abnormality finding properly resolved by jury]; Raul L., 120 AD3d at 60 [reliability of paraphilia NOS diagnosis is factual issue to resolve at trial]; Robert V., Ill AD3d at 542 [issues regarding viability and reliability of respondent’s diagnosis properly reserved for jury’s resolution]).\nRespondent also argues that even if unspecified paraphilic disorder is generally accepted as a clinical diagnosis, it is unreliable in a forensic setting. Respondent relies on the testimony of Drs. Abbott and Frances, both of whom testified that unspecified paraphilic disorder is not generally accepted in the psychiatric community as a reliable forensic diagnosis, only as a clinical diagnosis. Citing Dr. First, respondent further argues that unspecified paraphilic disorder should be “used in forensic contexts only with great caution” since, unlike specific paraphilic disorders, “the paucity of such information for these residual categories greatly limits their forensic utility” (see Michael B. First, M.D., DSM-5 and Paraphilic Disorders, 42 J Am Acad Psychiatry & L 191, 199 [2014]). Respondent also cites the DSM-5 “Cautionary Statement for Forensic Use of DSM-5,” which warns of the “risks and limitations” of using DSM-5 in a forensic setting since “there is a risk that diagnostic information will be misused or misunderstood” (DSM-5 at 25). Indeed, while Dr. First’s article and the DSM Cautionary Statement warn of the inherent risks and dangers of applying unspecified paraphilic disorder in a forensic setting, neither indicate that it should be precluded from use in such a context. In fact, the Manual acknowledges that its diagnoses “ ‘enhance [ ] the value and reliability’ of legal determinations, including those relevant to involuntary civil commitment” (McGee, 593 F3d at 575).\nIn any event, issues regarding the application of this disorder — whether as clinical or forensic diagnosis — do not affect admissibility under Frye. The only issue for this court’s resolution pursuant to Frye is whether unspecified paraphilic disorder is generally accepted as a reliable diagnosis in the psychiatric and psychological community. Since unspecified paraphilic disorder is generally accepted as reliable, any objections to the application of the disorder in a particular forensic context are for the consideration by the factfinder in weighing evidence. At trial, respondent will have the opportunity to cross-examine petitioner’s experts regarding the dangers of applying unspecified paraphilic disorder as a forensic diagnosis, as well as to present opposing professional opinion as to its inherent unreliability. Therefore, any issues regarding the application of the diagnosis are reserved for the trier of fact at trial, and do not affect its admissibility under Frye.\nSimilarly, claims regarding the purported flawed methodology utilized by Dr. Charder are properly reserved for the fact-finder, and do not affect its admissibility under the Frye standard. Respondent claims that assuming arguendo that unspecified paraphilic disorder is a reliable diagnosis under Frye, Dr. Charder’s testimony must still be precluded because it was based upon a misapplication or misuse of the diagnosis. However, challenges to the validity of Dr. Charder’s methodology have no bearing on its admissibility but, rather, affect the weight of such evidence. Respondent can raise issues regarding the alleged misuse of the diagnosis through the cross-examination of Dr. Charder, as well as opposing expert opinion.\nRespondent has failed to cite any state or federal authority finding unspecified paraphilic disorder to be an unreliable diagnosis under the Frye standard. Nor has this court’s research uncovered any case law in support of this position. To the contrary, numerous New York cases have found unspecified paraphilia or paraphilia NOS to be a reliable diagnosis (see Shannon S., 20 NY3d at 107; David M., 120 AD3d at 1425; Raul L., 120 AD3d at 60; Robert V., 111 AD3d at 542; Spencer D., 96 AD3d at 768; Leon F., 84 AD3d at 1098). Furthermore, there are both federal and non-New York State cases which have held that unspecified paraphilic disorder or paraphilia NOS is generally accepted as a reliable diagnosis under the Frye test (see Brown v Watters, 599 F3d 602, 610 [7th Cir 2010] [rejecting challenge to paraphilia NOS diagnosis as lacking scientific validity]; McGee v Bartow, 593 F3d 556 [7th Cir 2010] [paraphilia NOS generally accepted as reliable diagnosis]; In re Detention of Hanson, 185 Wash App 1048 [Div 1 2015] [denial of Frye hearing regarding paraphilia NOS diagnosis not improper]; In re Detention of Hayes, 2014 IL App [1st] 120364, 8 NE3d 650 [2014] [paraphilia NOS diagnosis generally accepted under Frye]; In re Detention of Melcher, 2013 IL App [1st] 123085, 2 NE3d 1181 [2013]; In re Commitment of Brown, 2012 IL App [1st] 110732-U [2012] [rejecting claim that paraphilia NOS is unreliable diagnosis under Frye]; In re Detention of Berry, 160 Wash App 374, 248 P3d 592 [Div 1 2011] [Frye hearing not required to determine validity of paraphilia NOS diagnosis since no evidence to establish no longer generally accepted]; Hoisington v Williams, 2008 WL 4831699, 2008 US Dist LEXIS 93364 [ED Wash, Oct. 30, 2008, No. CV-07-332-LRS] [despite controversy, paraphilia NOS generally accepted in scientific community]; People v Williams, 31 Cal 4th 757, 74 P3d 779 [2003] [paraphilia NOS valid mental disorder]).\nAccordingly, despite the existence of debate regarding its validity, the evidence establishes that unspecified paraphilic disorder is generally accepted as a valid diagnosis in the psychiatric and psychological community. Since this diagnosis satisfies the Frye test, respondent’s motion to preclude any testimony regarding unspecified paraphilic disorder is denied in its entirety.\n. Dr. Thornton testified that “many dozens” of other paraphilias exist. He stated that another expert has identified “at least 500.”\n. Dr. Kunkle testified that in order to be diagnosed with either “other specified” or “unspecified,” the patient must meet the following underlying criteria for general paraphilia: (1) the individual generally shows sexual arousal, fantasy, urges and behavior over a period of six months toward nonhuman objects, pain and suffering of others or nonconsenting persons; and (2) has either acted on those urges with a nonconsenting person or the fantasies, urges, or behavior cause some impairment to social or occupational functioning.\n. The third edition was replaced with a revised third edition for which Dr. Frances also served as a liaison and advisor.\n. Dr. Abbott testified that a criteria set is what confers general acceptance for diagnosis in the relevant scientific community because there is general agreement that the elements constitute a mental disorder. Also, criteria sets are used to conduct research on the validity and reliability of diagnoses.\n. Subcategory 302.9 of DSM-5 states that unspecified paraphilic disorder “applies to presentations in which symptoms characteristic of a paraphilic disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the paraphilic disorders diagnostic class” (DSM-5 at 705).\n. The entire revision took 14 years.\n. In fact, in drafting DSM-5, the American Psychiatric Association “brought together almost 400 international scientists,” and created task force and work groups of “more than 160 of the top researchers and clinicians from around the world” (American Psychiatric Association DSM-5 Development, About DSM-5, Frequently Asked Questions, http://www.dsm5.org/about/ pages/faq.aspx [accessed Mar. 30, 2015], cached at http://www.nycourts.gov/ reporter/webdocs/Frequently_Asked_Questions_APA_DSM-5.pdf).\n. This undercuts respondent’s assertion that unspecified paraphilia is not a consensus diagnosis.",
+        "type": "majority",
+        "author": "Michael A. Gross"
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Mental Hygiene Legal Service (Naomi Weinstein, Jessica Botticelli and Diane Temkin of counsel) for respondent.",
+      "Eric T Schneiderman, Attorney General (Kent Sprotbery and Donald Leo of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 762]\nIn the Matter of State of New York, Petitioner, v Howard Harris, Respondent.\nSupreme Court, Bronx County,\nApril 27, 2015\nAPPEARANCES OF COUNSEL\nMental Hygiene Legal Service (Naomi Weinstein, Jessica Botticelli and Diane Temkin of counsel) for respondent.\nEric T Schneiderman, Attorney General (Kent Sprotbery and Donald Leo of counsel), for petitioner."
+  },
+  "file_name": "1896-01",
+  "first_page_order": 948,
+  "last_page_order": 965
+}

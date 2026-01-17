@@ -1,0 +1,89 @@
+{
+  "id": 6789216,
+  "name": "S.M., Petitioner, v. F.J.L., Respondent",
+  "name_abbreviation": "S.M. v. F.J.L.",
+  "decision_date": "2016-05-17",
+  "docket_number": "",
+  "first_page": "723",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 723"
+    },
+    {
+      "type": "parallel",
+      "cite": "36 N.Y.S.3d 544"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "77 AD3d 954",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5754720
+      ],
+      "pin_cites": [
+        {
+          "page": "956"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0954-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 319,
+    "char_count": 5192,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18251121976609447
+    },
+    "sha256": "d20fd33bd3cb39aabb0ce9e074f36778418b9434dc60642f87a1afb24e5c6ac6",
+    "simhash": "1:e58c0736fd1ce7c6",
+    "word_count": 817
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S.M., Petitioner, v F.J.L., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAdam Silvera, J.\nBackground\nPetitioner and respondent have an intimate relationship. Petitioner filed the instant petition seeking an order of protection against respondent alleging that he committed family offenses against her. A trial commenced, and following the conclusion of petitioner’s case, respondent made an oral motion to dismiss this proceeding.\nDiscussion\nRespondent’s oral motion to dismiss, on the ground that petitioner is not a person deemed incapable of consent pursuant to Penal Law § 130.05 (3) (h), is denied. Preliminarily, the court notes that, after review of all the case law and arguments submitted by both petitioner and respondent, there is no case law directly on point. Additionally, respondent’s reliance on Chief Judge Jonathan Lippman’s Memorandum to Judges and Justices Exercising Criminal Jurisdiction is misplaced. Such memorandum, regarding criminal jurisdiction, is not binding on civil proceedings. In fact, the portion of chapter 1 of the memorandum quoted by respondent specifically refers to the prosecution of criminal cases, not civil hearings, and, thus, is inapplicable herein.\nPenal Law § 130.05 (3) (h), the statute in question, states that\n“[a] person is deemed incapable of consent when he or she is: . . .\n“(h) a client or patient and the actor is a health care provider . . . charged with rape in the third degree as defined in section 130.25, criminal sexual act in the third degree as defined in section 130.40, aggravated sexual abuse in the fourth degree as defined in section 130.65-a, or sexual abuse in the third degree as defined in section 130.55, and the act of sexual conduct occurs during a treatment session, consultation, interview, or examination.”\nIn essence, respondent argues that, although he is a health care provider, he was never charged in criminal court with any of the offenses enumerated in section 130.05 (3) (h), and, thus, petitioner cannot be deemed a person incapable of consent.\nAccording to petitioner, the word “charged” does not mean to formally prosecute under the Penal Law. Petitioner argues that “charged” is used in numerous contexts, outside of criminal court, to mean to allege, to blame, and to accuse.\nThis court declines to hold that, pursuant to Penal Law § 130.05 (3) (h), a client or patient is only incapable of consent when the actor, who is a health care provider, is criminally charged with one of the enumerated sex offenses. In making this determination, this court notes that both petitioner and respondent argue intent. Petitioner argues that, in enacting Penal Law § 130.05 (3) (h), the legislature intended to protect certain individuals. Petitioner, citing the legislative history, states “that consent is not truly voluntary when a perpetrator is in a special position of authority over a victim.” Moreover, William C. Donnino, Supplementary Practice Commentary (McKinney’s Cons Laws of NY, Book 39, Penal Law § 130.00 at 89) recognizes “the vulnerability that often exists during a period of treatment [and, t]hus, the law provides that the client or patient of a health care . . . provider is incapable of consent to sexual conduct which occurs during a ‘treatment session, consultation, interview, or examination.’ ” In addressing intent, respondent argues reasonableness. According to respondent, his actions would not reasonably cause fear to anyone who had no reason to fear in the past.\nThe Appellate Division, Second Department, has held that “[a] court’s role in interpreting a statute is to ascertain the legislative intent from the words and language that are used, and a court should not extend a statute beyond its express terms or the reasonable implications of its language.” (Matter of Petersen v Incorporated Vil. of Saltaire, 77 AD3d 954, 956 [2d Dept 2010].) In accordance with the Appellate Division, and considering both petitioner’s and respondent’s arguments, this court finds that it is not reasonable to hold that a client or patient who engages in sexual conduct with a health care provider during a treatment session, consultation, interview, or examination, is incapable of consent if such health care provider is criminally charged with one of the enumerated offenses in Penal Law § 130.05 (3) (h), but is capable of consent if the health care provider is not criminally charged. To make such a finding, this court would have to hold that the legislature intended to protect only those individuals who could convince the district attorney to file criminal charges against a health care provider who engaged in sexual conduct with a client or patient during treatment. This court declines to make such a finding. As such, respondent’s oral application to dismiss this proceeding, on the grounds that petitioner consented to the sexual acts because respondent was not criminally charged, is denied.\nAccordingly, it is hereby ordered that respondent’s oral motion to dismiss is denied.",
+        "type": "majority",
+        "author": "Adam Silvera, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Richard A. Finkel, Esq. & Associates, PLLC, New York City, for petitioner.",
+      "Patrice Genco Nichas, Staten Island, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[36 NYS3d 544]\nS.M., Petitioner, v F.J.L., Respondent.\nFamily Court, Kings County,\nMay 17, 2016\nAPPEARANCES OF COUNSEL\nRichard A. Finkel, Esq. & Associates, PLLC, New York City, for petitioner.\nPatrice Genco Nichas, Staten Island, for respondent."
+  },
+  "file_name": "2341-01",
+  "first_page_order": 715,
+  "last_page_order": 718
+}

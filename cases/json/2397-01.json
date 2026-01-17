@@ -1,0 +1,620 @@
+{
+  "id": 12170325,
+  "name": "In the Matter of Loreen Morataya et al., Petitioners",
+  "name_abbreviation": "In re Morataya",
+  "decision_date": "2016-07-13",
+  "docket_number": "",
+  "first_page": "242",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 242"
+    },
+    {
+      "type": "parallel",
+      "cite": "37 N.Y.S.3d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "65 Misc 2d 801",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1226278
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/65/0801-01"
+      ]
+    },
+    {
+      "cite": "131 Misc 2d 227",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        848845
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "232"
+        },
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/131/0227-01"
+      ]
+    },
+    {
+      "cite": "113 AD3d 755",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3910045
+      ],
+      "pin_cites": [
+        {
+          "page": "756-757"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/113/0755-01"
+      ]
+    },
+    {
+      "cite": "2005 NY Slip Op 50193",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Misc 3d 1025",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Misc 3d 753",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4055920
+      ],
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/42/0753-01"
+      ]
+    },
+    {
+      "cite": "494 US 1078",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5155,
+        5316,
+        4933,
+        4998,
+        5383,
+        5449,
+        5164,
+        4849,
+        5493,
+        4920,
+        4766
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/1078-05",
+        "/us/494/1078-09",
+        "/us/494/1078-02",
+        "/us/494/1078-07",
+        "/us/494/1078-08",
+        "/us/494/1078-03",
+        "/us/494/1078-11",
+        "/us/494/1078-10",
+        "/us/494/1078-01",
+        "/us/494/1078-04",
+        "/us/494/1078-06"
+      ]
+    },
+    {
+      "cite": "73 NY2d 638",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4412190
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/0638-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 1064",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4054362
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1066"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/1064-01"
+      ]
+    },
+    {
+      "cite": "141 Misc 2d 1009",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        876252
+      ],
+      "pin_cites": [
+        {
+          "page": "1012"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/141/1009-01"
+      ]
+    },
+    {
+      "cite": "408 US 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782797
+      ],
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0471-01"
+      ]
+    },
+    {
+      "cite": "421 US 973",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541856,
+        541799,
+        541966,
+        541076,
+        541080
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0973-01",
+        "/us/421/0973-05",
+        "/us/421/0973-04",
+        "/us/421/0973-02",
+        "/us/421/0973-03"
+      ]
+    },
+    {
+      "cite": "35 NY2d 547",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2314348
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/35/0547-01"
+      ]
+    },
+    {
+      "cite": "407 US 67",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9136631
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0067-01"
+      ]
+    },
+    {
+      "cite": "401 US 371",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712525
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0371-01"
+      ]
+    },
+    {
+      "cite": "380 US 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524686
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0545-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 152",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338178
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0152-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 42",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319106
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0042-01"
+      ]
+    },
+    {
+      "cite": "420 US 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11642843
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/420/0103-01"
+      ]
+    },
+    {
+      "cite": "424 US 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "467 US 253",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6198853
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0253-01"
+      ]
+    },
+    {
+      "cite": "145 Misc 2d 115",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        884579
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "125"
+        },
+        {
+          "page": "126"
+        },
+        {
+          "page": "126-127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/145/0115-01"
+      ]
+    },
+    {
+      "cite": "14 Misc 3d 484",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3848188
+      ],
+      "pin_cites": [
+        {
+          "page": "486-487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/14/0484-01"
+      ]
+    },
+    {
+      "cite": "121 Misc 2d 846",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        819722
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "849"
+        },
+        {
+          "page": "849"
+        },
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/121/0846-01"
+      ]
+    },
+    {
+      "cite": "131 Misc 2d 256",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        848883
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "258"
+        },
+        {
+          "page": "258"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/131/0256-01"
+      ]
+    },
+    {
+      "cite": "252 AD2d 646",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        717462
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "647",
+          "parenthetical": "\"incomplete documents . . . [are] . . . documents not properly before [the] Court in the underlying proceeding, and, as a result, [the court properly] expunged the documents from the record\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/252/0646-01"
+      ]
+    },
+    {
+      "cite": "97 AD3d 525",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3470501
+      ],
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0525-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 51510",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Misc 3d 1231",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 AD2d 773",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3611850,
+        3611245
+      ],
+      "pin_cites": [
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/157/0773-01",
+        "/ad2d/157/0773-02"
+      ]
+    },
+    {
+      "cite": "173 AD2d 201",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1041282,
+        1041069
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/173/0201-02",
+        "/ad2d/173/0201-01"
+      ]
+    },
+    {
+      "cite": "75 AD3d 634",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3987109
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "635-636",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/75/0634-01"
+      ]
+    },
+    {
+      "cite": "2001 WL 36404983",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 W. 122",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1171,
+    "char_count": 27252,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24692694438942192
+    },
+    "sha256": "f7a35e130cbe1285086a8ba731075188894a35f65e5ba75d45b3f79d9ae926f3",
+    "simhash": "1:9aefa7ca620247bf",
+    "word_count": 4428
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Loreen Morataya et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSusan F. Avery, J.\nBrief Background\nPetitioners commenced this proceeding seeking the appointment of a Real Property Actions and Proceedings Law article 7-A administrator which was granted by the court.\nThe Landlords’ Current Motion\nThe owners of the subject property, Mr. Abdus Shahid and Ms. Halima Ansari, currently move to vacate this court’s March 13, 2016 order “pursuant to CPLR § 2221 (a)” based upon alleged evidence of fraud (a claimed conspiracy at the hands of the tenants’ attorney) and also based upon a stated plan to responsibly manage the property (presumably a new fact, not previously available).\nThe Order from Which Movants Seek Renewal\nMovants are the owners of 284 Cooper Street, Brooklyn, New York 11237, which are the premises that are the subject of this action. Movants previously requested that this court remove the 7-A administrator, and reinstate movants to managerial authority of the property. By a decision/order dated March 13, 2016, this court denied a prior motion seeking the same relief, as herein requested. The court stated in its March 13, 2016 order that movants’ moving papers failed to demonstrate that the owners have the financial resources to maintain the premises in compliance with applicable legal requirements. Additionally, the court’s March 13, 2016 decision stated that the owners’ moving papers failed to “detail a plan for future proper and responsible maintenance of the premises.” In denying the owners’ prior motion, the court wrote “the motion is denied without prejudice to renew on proper papers.”\nAdministrator’s Opposition\nCounsel for the article 7-A administrator opposes the motion. Counsel argues that the current application is the movants’ twelfth motion seeking to discharge the 7-A administrator, and fails to submit new or additional facts which were not submitted in the movants’ 11 prior applications seeking the same relief. Therefore, counsel argues that there is no basis upon which renewal can be granted, or the March 13, 2016 order vacated.\nMotion Practice Generally\nCPLR 2214 (a) requires that a “notice of motion shall specify the time and place of the hearing on the motion, the supporting papers upon which the motion is based, the relief demanded and the grounds therefor.” Although the notice of motion misidentifies the date of the decision that the movants seek to vacate and offers no basis to grant “renewal,” “[t]he court may grant relief that is warranted pursuant to a general prayer contained in the notice of motion, if the relief granted is not too dramatically unlike the relief sought, the proof offered supports it, and there is no prejudice to any party.” Additionally, “where the wrong ground is designated but other . . . grounds do apply, the court may treat the motion as having specified the right ground and grant relief, absent prejudice.” Accordingly, this court will deem the motion to be an application to remove the 7-A administrator and place the movants back in managerial authority of the property.\nMovants’ Arguments Based upon Fraud\nThe movants assert two different allegations of fraud. One fraud allegation asserted is that, as a result of a conspiracy at the hands of the complaining tenants’ attorney, the movants (as the owners) were forced to appear as self represented litigants during the trial, and therefore the owners “lost.” The other allegation of fraud asserted by the moving parties is that the 7-A administrator is acting unlawfully because there are only five minor conditions that need repair and the movants state that they can complete repair work of those conditions in one week at a cost of only $1,000.\nMovants’ allegation that, because of a conspiracy against them (a fraud), they had to appear as self represented litigants at trial, which caused them to lose the case, is not properly before the court. Following the trial, which resulted in the appointment of a 7-A administrator, movants commenced 11 prior motions seeking to substitute the administrator, and restore them to management responsibility of the property, and, as a result, that issue has been previously raised and finally determined and it cannot form the basis of this court granting the relief herein requested.\nAdditionally, the movants’ contention that there are very few (and only minor) conditions in need of repair, which they can have repaired in a week, does not form the basis to conclude that there is fraud on behalf of the 7-A administrator, or that movants will be responsible managers of the premises.\nMovants’ Plan to Remove the “Few” Remaining “Minor Violations”\nFinancial Stability: “Money in the Bank”\nIn support of their application, the movants assert that they are financially sound, and have the resources to responsibly maintain the premises. Indeed, annexed to the motion as exhibit 2 are photocopies of two documents claiming to be Citibank, Citigold bank account statements. The first document bears the names of Mr. Abdus Shahid and Ms. Halima Ansari as the account holders. The document states that it is for the period of February 1, 2016 through February 29, 2016. The documents annexed as movant’s exhibit 2 will not be considered by the court for the following reasons: (1) there is nothing in the supporting affidavit to authenticate the documents; (2) the date noted on the face of each document shows that each document was available at the time the movants commenced the motion which resulted in this court’s March 13, 2016 decision; and (3) the face of each document states that the document is “1 of 4” pages, and only “page 1” of each document was annexed to the moving papers, therefore each “statement” was an incomplete document.\nBased upon the foregoing, the movants have failed to sufficiently demonstrate that they are financially stable to responsibly maintain the premises.\nFinancial Independence\nThe Building is Running at a Significant Profit\nThe movants argue that the “['t]otal rental income per month is $7,700 [and the t]otal rental income per year is $92,400.00.” The movants offset the $92,400 yearly income generated from rent collection with the $30,900 yearly costs of running the building, which they calculated as follows: yearly real estate taxes ($6,543.12), yearly water costs ($5,486.56), yearly cost of gas ($5,700), yearly electricity costs ($1,200) and yearly maintenance costs of ($12,000).\nIt is movants’ conclusion that calculating the above cited numbers, the building generates “$61,500.00 profit per year.” This court notes that the movants failed to submit any documentary evidence to support that the building is operating at $61,500 per year profit. Indeed, a review of the “7A Monthly Filing Report” submitted by Mr. Nicolaos Leonardos, the appointed 7-A administrator, demonstrates that during the month of February 2016 the movants’ position is incorrect.\nThe “7A Monthly Filing Report” of February 2016 reports that the monthly rent collected was $4,119.62 and the monthly expenses were $2,103.20. Moreover, the monthly $2,103.20 expenses were stated to be for the following services: building cleaning, management fee, exterminating, repairs, legal and electric. Notably, during that reported period, it appears that the following expenses, which movants included in their submission, were not paid by the 7-A administrator: real estate taxes (which movants claim are $6,543.12 per year/ $545.26 per month), water bill charges (which movants claim are $5,486.56 per year/$457.21 per month), which are due every three months, and gas (which movants claim is $5,700 per year/$475 per month).\nThe reality appears to be that, calculating the income generated by rental payments ($4,119.62) and reducing that amount by the monthly expenses ($2,103.20 plus $1,477.47), there is a $538.95 monthly surplus, which translates into a $6,467.40 yearly surplus, which is nearly 90% less than the amount claimed by the movants.\nIndeed, even without factoring in real estate taxes, water bill charges and gas costs, the source of the numbers used by the movants when determining the amount of income generated at the subject premises is unknown. This court credits the statements contained in the monthly reports supplied by the 7-A administrator, and finds the huge disparity between the administrator’s monthly statement and the movants’ unrealistic figures gives this court reason to question the movants’ actual ability to responsibly maintain the premises.\nRemoval of Code Violations and Future Maintenance\nAdditionally, movants state that the 7-A administrator is “collecting $7,700.00 a month and $92,400.00 a year showing 5 violation[s] are not finished [and] only $1,000.00 and one week [is] need[ed] to fix these 5 minor violations.” As noted above, there is no basis for this court to determine that the premises are generating $61,500 in yearly income, nor do movants supply documentary support for this contention. Similarly, the movants offer no basis for their conclusion that it will take “only $1,000.00” and only one week to remove the remaining “minor” violations. This court makes this determination notwithstanding movants’ assertion that they “already hired a maintenance worker to take care of the subject property.”\nMovants’ Assertion of Fraud by the Administrator\nMovants’ assertion that the “7A administrator finished repair [work] [i]n July 2013 [and is] not returning the property” and therefore committing fraud demonstrates that the movants fail to grasp the severity of the situation, or the purpose of the enactment of article 7-A of the RPAPL. The purpose of article 7-A of the RPAPL is to take away control of property from irresponsible landlords and provide occupants with landlords who will provide and maintain the property in safe condition. Parenthetically, this court notes that movants’ assertion that the “7A administrator finished repair [work] [i]n July 2013 [and is] not returning the property” is inconsistent with mov-ants’ assertion that the administrator will not remove all the violations because as long as there are any outstanding violations the administrator may maintain control of daily management of the premises.\nMovants’ assertion that, because there are no longer violations at the premises, the administrators continued maintenance of the premises “is unlawful fraudulent act [ion] of [the] 7 A [a]dministrator to make money” is contrary to law. Indeed, even if there were no current violations of record at the premises, and all essential services were being provided, the discharge of a 7-A administrator requires a showing of\n“a plan for the continued maintenance of the building . . . and . . . [i]n the absence of such a showing a court would be remiss in granting a motion seeking the discharge of the Administrator since a grant of the relief. . . would place the property in a state of abandonment to the great detriment of the tenants.”\nExisting Violations in Other Buildings Owned by Movants As relevant to the case at bar, the Multiple Dwelling Law provides that\n“[i]n any action or proceeding before the housing part of the New York city civil court either (a) the visually displayed or (b) the printed computerized violation files of the department responsible for maintaining such files and all other computerized data as shall be relevant to the enforcement of state and local laws for the establishment and maintenance of housing standards . . . [and] shall be prima facie evidence of any matter stated therein and the courts shall take judicial notice thereof as if same were certified as true under the seal and signature of the commissioner of that department.”\nThe plain language of the statute is clear that a court must take judicial notice of violations placed against a building by any authorized government agency as prima facie proof of the existence of violations of the housing maintenance laws at the subject premises. Indeed, “to determine whether dangerous conditions exist, courts generally consider housing violations placed by the municipal department charged with the enforcement of the housing maintenance laws.”\nAccordingly, this court is mandated by statute to take judicial notice of known violations placed by the municipal department charged with the enforcement of the housing maintenance laws at the premises owned by the movants of the within proceeding. Accordingly, this court takes judicial notice of the case entitled Klenfner v Shahid (Civ Ct, Kings County, Avery, J., index No. LT-013867-16/KI), relating to the premises known as 455 Tompkins Avenue, Brooklyn, NY 11216, which are owned by Mr. Abdus Shahid and Ms. Halima Ansari, and which is currently pending before this court, where the petitioners therein seek the appointment of an article 7-A administrator.\nThe Klenfner Matter\nIn Klenfner, the petitioners, the tenants residing at 455 Tompkins Avenue, seek the appointment of an article 7-A administrator. The proceeding is currently mid-trial. In Klenfner, numerous documents were submitted by the petitioners and much testimony was heard by this court. Included in the documents submitted were Department of Housing Preservation and Development (DHPD) violations of record as of April 26, 2016. The DHPD records show that there were 237 violations at 455 Tompkins Avenue, with 60 classified as A, 144 classified as B and 33 classified as C. Additionally, as of June 30, 2016, there were 193 violations at 455 Tompkins Avenue, with 46 classified as A, 118 classified as B and 29 classified as C.\nAlso admitted into evidence were Department of Buildings (DOB) documents demonstrating that as of May 16, 2016 there were 16 DOB violations and 6 Environmental Control Board (ECB) violations placed at 455 Tompkins Avenue. Additionally, admitted into evidence at the Klenfner trial was an “Order Reducing Rent For Rent Stabilized Tenants” dated June 22, 2015 issued by the Division of Housing and Community Renewal (DHCR) which found evidence of “an unstable, loose and rusted fire escape, collapsing floor in the kitchen with loose chipped, uneven and dangerously sharp edged broken tiles, collapsing floor in the largest bedroom with broken, cracked missing and chipped floor-tiles and broken/cracked bottom window-sash in the bathroom” (sic). The testimony at trial was that the conditions found to exist as specified in the DHCR rent reduction order still exist.\nDue Process\nAs the Klenfner trial is currently in the middle of plaintiffs’ case-in-chief, Mr. Shahid and Ms. Ansari have not yet had the opportunity to introduce evidence in support of their defense(s), if any. As a result, it seems contrary to the movants’ constitutionally protected rights to deny their application based upon the allegations asserted in Klenfner, which they have not yet had the opportunity to defend. Indeed, the New York State Constitution mandates that “[n]o person shall be deprived of life, liberty or property without due process of law.” The language of the New York State Constitution mirrors the language of the Fourteenth Amendment of the Federal Constitution.\nThe due process provisions of the Federal and State Constitutions require that “[w]henever state action deprives a citizen of his or her liberty or property due process requires that he or she be afforded the opportunity for a hearing.” The hearing must be provided “at a meaningful time and in a meaningful manner.” Only in extraordinary situations may the hearing be postponed until after the property deprivation has occurred.\n“However, the requirements of due process and fair procedure are flexible as to the . . . formality . . . called for by the particular situation.” Accordingly, “[b]efore defendant may be deprived of [a property right] ... he [or she] is entitled to a hearing, unless ... an overriding State interest necessitate [s] prompt action either without a hearing or [postponing the] hearing until after the event.” Indeed, a “compelling public interest . . . outweigh[s] the need for [a] prior . . . hearing.”\nMoreover “the [deprivation of the] use of private property i[s] . . . reasonable . . . [where the purpose of the deprivation is] to protect the health and safety of the public — i.e., to ‘prevent an impending danger emanating directly from the use or condition of the property.’ ” Indeed, “[m]atters that are civil in nature, such as [in the case at bar],' require a lower level of due process protections.” A fortiori, because “the 7A administrator is placed in the position of the owner [only] for some purposes, he ‘does not, however, fully stand in the shoes of the owner’ ” therefore the “order [which appointed the 7-A administrator] d[oes] not deprive [the owners] of their ownership rights to the premises.”\nBased upon the unique facts presented here, this court invokes the maxim falsus in uno, falsus in omnibus. The maxim supports that where violations are placed against one property the court may deny the substitution of a 7-A administrator of a different property, where both properties are owned by the same individual(s). The reason being is that it would not be in the best interest of the building or the public to replace a 7-A administrator with an owner that is managing another property in a standard which is contrary to the public health and safety, as this may be an indication of the manner in which the property owner will manage the other property that he or she is responsible to maintain.\nAccordingly, taking judicial notice of the 193 violations of record placed by DHPD, including the 29 violations delineated as class C, as well as the violations placed by the DOB and the ECB, coupled with the rent reduction order issued by the DHCR against 455 Tompkins Avenue, a separate property owned by the instant movants, falsus in uno, falsus in omnibus requires this court to determine that “movant [s] ha[ve] neither demonstrated that it would be in the perceived best interest of the building nor in the public interest to remove the 7-A administrator and turn management and control of the premises over to [t]he[m].”\nDetermination\nAccordingly, for the reasons cited above, the motion is denied. However the movants are granted leave to renew in the event they successfully defend against the allegations asserted in the Klenfner action.\n. Article 7-A of the RPAPL establishes a mechanism whereby the court can remove an irresponsible landlord from management of a building and replace that irresponsible landlord with a responsible manager.\n. Although the notice of motion submitted by movants seeks “to vacate the order of March 17, 2015,” the case history generated by the court does not show any disposition for that date. As a result, this court will deem the notice of motion to read as “March 13, 2016.”\n. “[T]o discharge a 7A Administrator . . . the movant must demonstrate [inter alia] that there is a plan for the continued maintenance of the building” (Snow v 131 W. 122 St. Corp., 2001 WL 36404983, *2 [Civ Ct, NY County 2001, Jimenez, J.]).\n. Shaw v RPA Assoc., LLC, 75 AD3d 634, 635-636 (2d Dept 2010) (internal quotation marks omitted).\n. Dean R. Pelton Co. v Moundsville Shopping Plaza, 173 AD2d 201, 201 (1st Dept 1991).\n. See supporting aff, Apr. 7, 2016, ¶ 16.\n. See supporting aff, Apr. 7, 2016, ¶ 17.\n. “[T]he issue . . . which was [previously] finally determined . . . from which no appeal was taken, may not be relitigated” (McMurray v McMurray, 157 AD2d 773, 774 [2d Dept 1990]).\n. The statement in paragraph 2 of the supporting affidavit that “[l]andlords have $277,139.99 as bank statements from February 1-February 29, 2016” (sic) is insufficient to authenticate the documents (see CACH LLC v Fatima, 32 Misc 3d 1231[A], 2011 NY Slip Op 51510[U], *2 [Nassau Dist Ct, 2011, Ciaffa, J.] [“(b)efore an original creditor’s documents can be considered as proof ‘in admissible form,’ the documents must be properly authenticated by a knowledgeable individual”]).\n. While \"the court may set aside its decision and issue a new decision based on, inter alia, newly-discovered evidence” (Da Silva v Savo, 97 AD3d 525, 526 [2d Dept 2012]), the documents submitted in the case at bar are clearly not “new” evidence.\n. See Matter of De Cotis v Malinoski, 252 AD2d 646, 647 (3d Dept 1998) (\"incomplete documents . . . [are] . . . documents not properly before [the] Court in the underlying proceeding, and, as a result, [the court properly] expunged the documents from the record”).\n. See supporting aff, Apr. 7, 2016 at 3, unnumbered ¶¶.\n. See supporting aff, Apr. 7, 2016 at 4, unnumbered ¶¶.\n. See supporting aff, Apr. 7, 2016 at 4, unnumbered ¶, immediately above ¶ 4.\n. This court uses the financial report filed by the 7-A administrator for the period of February 2016, because it appears that movants were basing their arguments on operating information during this period.\n. See report at 1, line 2.\n. See report at 1, line 5.\n. See report at 4, lines 1-7.\n. The court notes that “[t]he administrator has only a secondary liability to pay real estate taxes (and then only for arrears)” (Lawrence v Martin, 131 Misc 2d 256, 258 [Civ Ct, NY County 1986, Friedman, J.]), however, the expenses, which were not stated to have been paid by the administrator during the month of February 2016, would at some point need to be paid, and therefore, this court factors in the costs of those expenses in the instant determination.\n. See supporting aff, Apr. 7, 2016 at 4, unnumbered ¶¶.\n. See supporting aff, Apr. 7, 2016 at 5, unnumbered ¶¶.\n. See supporting aff, Apr. 7, 2016 at 7, ¶ 17.\n. Indeed, the “analysis . . . must . . . start[ ] . . . [with] the legislation itself. The statutory standard in RPAPL 770 ... is based upon the existence, even if for a very short time, of ‘dangerous’ conditions” (Maresca v 167 Bleecker, 121 Misc 2d 846, 849 [Civ Ct, NY County 1983, Lebedeff, JJ).\n. See supporting aff, Apr. 7, 2016 at 7, ¶ 17.\n. See supporting aff, Apr. 7, 2016 at 7, ¶ 17.\n. See supporting aff, Apr. 7, 2016 at 7, ¶ 17.\n. Snow v 131 W. 122 St. Corp., 2001 WL 36404983, *2 (Civ Ct, NY County 2001).\n28. Departments responsible for maintaining files relevant to enforcement of state and local laws for establishing and maintaining housing standards include: “the building department, the fire department, the health department, the water supply, gas and electricity department and of every other municipal department or agency having jurisdiction over such building alleging the . . . existence of [violations] therein” (Multiple Dwelling Law § 328 [1]).\n. Multiple Dwelling Law § 328 (3).\n. Maresca v 167 Bleecker, 121 Misc 2d 846, 849 (Civ Ct, NY County 1983).\n. “[P]ursuant to section 328 (3) of the Multiple Dwelling Law, in any proceeding before this part, computer-printed HPD violations and all other computerized data relevant to the enforcement of state and local housing standards are prima facie evidence of any matter stated therein, and the court must take judicial notice thereof as if same were certified as true” (Department of Hous. Preserv. & Dev. of City of N.Y. v Living Waters Realty Inc., 14 Misc 3d 484, 486-487 [Civ Ct, NY County 2006, Capella, J.]).\n. “As a part of the Housing Court Act, the Legislature created classifications [of violations]. Class B violations are those which have been found by the housing inspectors to be ‘hazardous’ and class C violations have been found to be ‘immediately hazardous’ ” (Maresca v 167 Bleecker, 121 Misc 2d 846, 850 [Civ Ct, NY County 1983]).\n. NY Const, art 1, § 6 (emphasis added).\n. US Const, 14th Amend.\n. People v Forman, 145 Misc 2d 115, 125 (Crim Ct, NY County 1989, Gruner-Gans, J. [emphasis added]), citing Schall v Martin, 467 US 253 (1984); Mathews v Eldridge, 424 US 319 (1976); Gerstein v Pugh, 420 US 103 (1975); Matter of Jones v Berman, 37 NY2d 42, 55 (1975); Sharrock v Dell Buick-Cadillac, 45 NY2d 152 (1978).\n. Mathews v Eldridge, 424 US at 333, quoting Armstrong v Manzo, 380 US 545, 552 (1965).\n. Boddie v Connecticut, 401 US 371 (1971); Fuentes v Shevin, 407 US 67 (1972); Matter of Sanford v Rockefeller, 35 NY2d 547 (1974), appeal dismissed sub nom. Sanford v Carey, 421 US 973 (1975).\n. People v Forman, 145 Misc 2d 115, 126 (Crim Ct, NY County 1989), citing Morrissey v Brewer, 408 US 471 (1972).\n. People v Forman, 145 Misc 2d 115, 126-127 (Crim Ct, NY County 1989), citing Morrissey v Brewer, 408 US 471 (1972).\n. People v Forgette, 141 Misc 2d 1009, 1012 (Crim Ct, NY County 1988, Gary, J.).\n. Island Park, LLC v State of New York, 93 AD3d 1064, 1066 (3d Dept 2012), citing Birnbaum v State of New York, 73 NY2d 638 (1989), cert denied 494 US 1078 (1990).\n. Krieger v City of Rochester, 42 Misc 3d 753, 768 (Sup Ct, Monroe County 2013, Odorisi, J.), citing Mathews v Eldridge, 424 US 319 (1976).\n. Chand v City of New York, 6 Misc 3d 1025(A), 2005 NY Slip Op 50193(U), *5-6 (Sup Ct, Queens County 2005, Elliot, J.), citing Lawrence v Martin, 131 Misc 2d 256, 258 (Civ Ct, NY County 1986, Friedman, J.) (“[t]he substance of [the RPAPL article 7-A] provisions is to put the administrator in the position of an owner for some purposes. That is, the administrator takes the rents which are collected and uses them to do the repairs which the owner has neglected or refused to do”).\n. Chand v City of New York, 6 Misc 3d 1025(A), 2005 NY Slip Op 50193(U), *6 (Sup Ct, Queens County 2005).\n. “Falsus in uno, falsus in omnibus” roughly translates to mean “false in one thing, false in everything” (see e.g. Washington Mut. Bank v Holt, 113 AD3d 755, 756-757 [2d Dept 2014] [“(w)here a witness has given testimony that is demonstrably false, (the court) may, in accordance with the maxim falsus in uno falsus in omnibus, choose to discredit or disbelieve other testimony given by that witness”]).\n. “[I]n her affidavit. . . of her ability, experience and competence to manage the subject premises [movant notes] her personal participation [in managing the premises] just down the street from the subject premises . . . [T]he Court has examined the [HPD] computer screen . . . regarding [the premises just down the street and] [p]rima facie judicial notice is taken of the accuracy of the Housing Code Violations listed thereon . . . [which] listed various, serious Building Code violations . . . This type of prima facie evidence does not persuade this court that [movant] will be [an] . . . effective . . . administrator” (Toribio v Whiz Realty Corp., 131 Misc 2d 227, 232 [Civ Ct, NY County 1986, Dankberg, J.], citing Pack v Loremady Realty Corp., 65 Misc 2d 801 [Civ Ct, Kings County 1971, Aronin, J.]).\n. Toribio v Whiz Realty Corp., 131 Misc 2d 227, 232 (Civ Ct, NY County 1986); Pack v Loremady Realty Corp., 65 Misc 2d 801 (Civ Ct, Kings County 1971).",
+        "type": "majority",
+        "author": "Susan F. Avery, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Abdus Shahid, movant pro se.",
+      "Halima Ansari, movant pro se.",
+      "Slochowsky & Slochowsky, LLP, Brooklyn (Anjie Krul of counsel), for administrator.",
+      "Department of Housing Preservation & Development, New York City (William Muniz of counsel), for Department of Housing Preservation & Development, respondent.",
+      "Bushwick Housing & Legal Assistance, Brooklyn (Marilyn ' Nieves of counsel), for petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "[37 NYS3d 375]\nIn the Matter of Loreen Morataya et al., Petitioners.\nCivil Court of the City of New York, Kings County,\nJuly 13, 2016\nAPPEARANCES OF COUNSEL\nAbdus Shahid, movant pro se.\nHalima Ansari, movant pro se.\nSlochowsky & Slochowsky, LLP, Brooklyn (Anjie Krul of counsel), for administrator.\nDepartment of Housing Preservation & Development, New York City (William Muniz of counsel), for Department of Housing Preservation & Development, respondent.\nBushwick Housing & Legal Assistance, Brooklyn (Marilyn ' Nieves of counsel), for petitioners."
+  },
+  "file_name": "2397-01",
+  "first_page_order": 252,
+  "last_page_order": 264
+}

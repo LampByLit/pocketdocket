@@ -1,0 +1,1826 @@
+{
+  "id": 12280212,
+  "name": "Estate of Stanley G. Miller c/o Genevieve Miller, Personal Representative, Plaintiff-Respondent-Petitioner, v. Diane Storey, Defendant-Appellant",
+  "name_abbreviation": "Estate of Miller v. Storey",
+  "decision_date": "2017-11-30",
+  "docket_number": "No. 2014AP2420",
+  "first_page": "358",
+  "last_page": "426",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "378 Wis. 2d 358"
+    },
+    {
+      "type": "parallel",
+      "cite": "903 N.W.2d 759"
+    },
+    {
+      "type": "parallel",
+      "cite": "2017 WI 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis.",
+    "id": 9671,
+    "name": "Wisconsin Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "Cal. Civ. Proc. Code § 1021.5",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 6623605",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 13001081",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 5162818",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 5308643",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 WL 2260387",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 6211087",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 5192481",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 13540579",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WI 58",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        8341700
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/300/0415-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 904.08",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wis. 2d 589",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667832
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/147/0589-01"
+      ]
+    },
+    {
+      "cite": "126 N.W. 554",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1910,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wis. 52",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8699515
+      ],
+      "year": 1910,
+      "pin_cites": [
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/143/0052-01"
+      ]
+    },
+    {
+      "cite": "226 Wis. 2d 718",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11501552
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/226/0718-01"
+      ]
+    },
+    {
+      "cite": "93 Wis. 2d 433",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673216
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/93/0433-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 50",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        5750634
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 35"
+        },
+        {
+          "page": "¶ 35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/325/0135-01"
+      ]
+    },
+    {
+      "cite": "2000 WI 59",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        11159974
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/235/0486-01"
+      ]
+    },
+    {
+      "cite": "194 Wis. 2d 1",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11916645
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "13",
+          "parenthetical": "\"The relationship of attorney and client is one of agency.\""
+        },
+        {
+          "parenthetical": "\"The relationship of attorney and client is one of agency.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/194/0001-01"
+      ]
+    },
+    {
+      "cite": "216 Wis. 2d 419",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11673218
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that, where a party is acting as a private attorney general, the costs incurred in retaining counsel are \"necessary\" costs because, to fully enforce the public's rights, \"assistance of counsel is fundamental\""
+        },
+        {
+          "parenthetical": "noting that, where a party is acting as a private attorney general, the costs incurred in retaining counsel are \"necessary\" costs because, to fully enforce the public's rights, \"assistance of counsel is fundamental\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/216/0419-01"
+      ]
+    },
+    {
+      "cite": "115 Wis. 2d 352",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8674724
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "358",
+          "parenthetical": "\"Often the amount of pecuniary loss is small compared with the cost of litigation. . . . The award of attorney fees encourages attorneys to pursue [] claims where the anticipated monetary recovery would not justify the expense of legal action.\""
+        },
+        {
+          "parenthetical": "\"Often the amount of pecuniary loss is small compared with the cost of litigation. . . . The award of attorney fees encourages attorneys to pursue [] claims where the anticipated monetary recovery would not justify the expense of legal action.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/115/0352-01"
+      ]
+    },
+    {
+      "cite": "117 Wis. 2d 753",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8675051
+      ],
+      "weight": 6,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "755",
+          "parenthetical": "holding \"that DILHR has the authority to award reasonable attorney's fees to a prevailing complainant\" \"even though [the] Act contains no express statutory language authorizing such an award\""
+        },
+        {
+          "parenthetical": "holding \"that DILHR has the authority to award reasonable attorney's fees to a prevailing complainant\" \"even though [the] Act contains no express statutory language authorizing such an award\""
+        },
+        {
+          "page": "761"
+        },
+        {
+          "page": "761"
+        },
+        {
+          "page": "764"
+        },
+        {
+          "page": "764",
+          "parenthetical": "\"[A]n individual who brings an action to enforce a statutory right may be acting as a 'private attorney general' to enforce the public's rights under the statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/117/0753-01"
+      ]
+    },
+    {
+      "cite": "2002 WI App 12",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        11444463
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/249/0780-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 240",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541055
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "263"
+        },
+        {
+          "parenthetical": "\"[U]nder some, if not most, of the statutes providing for the allowance of reasonable fees, Congress has opted to rely heavily on private enforcement to implement public policy and to allow counsel fees so as to encourage private litigation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0240-01"
+      ]
+    },
+    {
+      "cite": "106 A.L.R. 5th 523",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 5th",
+      "pin_cites": [
+        {
+          "page": "§ 2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Vand. L. Rev. 2129",
+      "category": "journals:journal",
+      "reporter": "Vand. L. Rev.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "2130"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "319 U.S. 239",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        366878
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "parenthetical": "Douglas, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/319/0239-01"
+      ]
+    },
+    {
+      "cite": "134 F.2d 694",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3649042
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/134/0694-01"
+      ]
+    },
+    {
+      "cite": "2004 WI 103",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9035078
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/274/0220-01"
+      ]
+    },
+    {
+      "cite": "566 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12189612
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "483",
+          "parenthetical": "declining to give the same language in a reenacted statute a different construction where the operative language in a reenacted provision was identical because stare decisis counsels against such interpretive variation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/566/0478-01"
+      ]
+    },
+    {
+      "cite": "38 N.W.2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The re-enactment of the statute on which there existed a judicial determination indicates an intent to adopt the judicial determination as a part of the statute.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "255 Wis. 252",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8679582
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "258",
+          "parenthetical": "\"The re-enactment of the statute on which there existed a judicial determination indicates an intent to adopt the judicial determination as a part of the statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/255/0252-01"
+      ]
+    },
+    {
+      "cite": "142 Wis. 2d 425",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8668599
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "434",
+          "parenthetical": "citing Munninghoff v. Wis. Conservation Comm'n, 255 Wis. 252, 258, 38 N.W.2d 712 (1949) (\"The re-enactment of the statute on which there existed a judicial determination indicates an intent to adopt the judicial determination as a part of the statute.\")"
+        },
+        {
+          "parenthetical": "citing Munninghoff v. Wis. Conservation Comm'n, 255 Wis. 252, 258, 38 N.W.2d 712 (1949) (\"The re-enactment of the statute on which there existed a judicial determination indicates an intent to adopt the judicial determination as a part of the statute.\")"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/142/0425-01"
+      ]
+    },
+    {
+      "cite": "2005 WI 67",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        8924377
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "¶ 52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/281/0300-01"
+      ]
+    },
+    {
+      "cite": "76 B.U. L. Rev. 59",
+      "category": "journals:journal",
+      "reporter": "B.U. L. Rev.",
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "60"
+        },
+        {
+          "page": "59, 61-63"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WI 77",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        8197403
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/310/0713-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 100.18",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 101.22",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "(7)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wis. 2d 188",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8675487
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "192"
+        },
+        {
+          "page": "199"
+        },
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/128/0188-01"
+      ]
+    },
+    {
+      "cite": "2002 WI App 70",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        11344501
+      ],
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-2"
+        },
+        {
+          "page": "¶ 41"
+        },
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/252/0676-01"
+      ]
+    },
+    {
+      "cite": "2013 WI 105",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        3749705
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/351/0758-01"
+      ]
+    },
+    {
+      "cite": "2008 WI App 155",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        3765433
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/314/0426-01"
+      ]
+    },
+    {
+      "cite": "2006 WI App 141",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        8330735
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 2, 5-6"
+        },
+        {
+          "page": "¶¶ 9, 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/294/0754-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 895.80",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 WI 88",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9335210
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/254/0418-01"
+      ]
+    },
+    {
+      "cite": "2004 WI 58",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9188131
+      ],
+      "weight": 6,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "¶ 45",
+          "parenthetical": "Supremacy-of-Text Principle"
+        },
+        {
+          "parenthetical": "Supremacy-of-Text Principle"
+        },
+        {
+          "parenthetical": "Supremacy-of-Text Principle"
+        },
+        {
+          "page": "f 45"
+        },
+        {
+          "page": "¶ 46"
+        },
+        {
+          "page": "¶ 45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/271/0633-01"
+      ]
+    },
+    {
+      "cite": "171 Wis. 2d 157",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8666356
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "159-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/171/0157-01"
+      ]
+    },
+    {
+      "cite": "210 Wis. 2d 597",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11852758
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "609"
+        },
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/210/0597-01"
+      ]
+    },
+    {
+      "cite": "2017 WI 39",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        12279409
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/374/0617-01"
+      ]
+    },
+    {
+      "cite": "2015 WI 5",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4256314
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 37"
+        },
+        {
+          "page": "¶ 37"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/360/0246-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 814.04",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(l)(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 799.25",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "applicable to small claims"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 943.20",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WI 21",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4322610
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "¶ 38"
+        },
+        {
+          "page": "¶ 38"
+        },
+        {
+          "page": "¶ 44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/353/0377-01"
+      ]
+    },
+    {
+      "cite": "2003 WI App 28",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        9103355
+      ],
+      "weight": 15,
+      "pin_cites": [
+        {
+          "page": "¶¶ 12-24"
+        },
+        {
+          "page": "¶¶ 19-24"
+        },
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/260/0166-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 807.01",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 18,
+      "pin_cites": [
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 799.01",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 21,
+      "pin_cites": [
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(cr)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. § 895.446",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 44,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(a)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(c)"
+        },
+        {
+          "page": "(3)(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "885 N.W.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WI App 68",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        12172451
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "¶¶ 21, 31"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/371/0669-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. §§ 60.06",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "119 Wis. 2d 722",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8675255
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "744-45",
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wis-2d/119/0722-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. §§ 19.05",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "\"the plaintiffs agent or the plaintiffs attorney\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "481 U.S. 681",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220447
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "703",
+          "parenthetical": "Scalia, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/481/0681-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 616",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131546
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "671",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "parenthetical": "emphasis omitted"
+        },
+        {
+          "page": "671-72"
+        },
+        {
+          "page": "672",
+          "parenthetical": "Scalia, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/480/0616-01"
+      ]
+    },
+    {
+      "cite": "5 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12121622
+      ],
+      "year": 1803,
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "100 Marq. L. Rev. 969",
+      "category": "journals:journal",
+      "reporter": "Marq. L. Rev.",
+      "year": 2017,
+      "opinion_index": 1
+    },
+    {
+      "cite": "2000 WI 76",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        11128980
+      ],
+      "weight": 3,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "¶ 43"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wis-2d/236/0211-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 895.466",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(3)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "2004 WI 58",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9188131
+      ],
+      "weight": 5,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "¶¶ 45-46"
+        },
+        {
+          "page": "¶ 46"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wis-2d/271/0633-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 895.446",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 11,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "page": "(3)"
+        },
+        {
+          "parenthetical": "quoting Henry Campbell Black, Handbook on the Construction and Interpretation of the Laws 1 (1896)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "53",
+          "parenthetical": "defining the \"Interpretation Principle\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "89 Harv. L. Rev 47",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "170-82"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "193 Wis. 2d 35",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8663805
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "45-46",
+          "parenthetical": "describing the \"purely [] statutory remedy\" of wrongful death action as \"an action in tort\""
+        },
+        {
+          "parenthetical": "describing the \"purely [] statutory remedy\" of wrongful death action as \"an action in tort\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/193/0035-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "2000 WI 61",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        11160280
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/235/0597-01"
+      ]
+    },
+    {
+      "cite": "2004 WI 62",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9182554
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 9, 19"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/272/0046-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 100.20",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "(5)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "73 Cal. L. Rev. 1929",
+      "category": "journals:journal",
+      "reporter": "Cal. L. Rev.",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1929"
+        },
+        {
+          "page": "1929-41"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "355 P.3d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6856949
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "¶ 35"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/p3d/355/1047-01"
+      ]
+    },
+    {
+      "cite": "251 P.3d 131",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        3743862
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mont/359/0393-01"
+      ]
+    },
+    {
+      "cite": "310 P.3d 301",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12312169
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/haw/130/0306-01"
+      ]
+    },
+    {
+      "cite": "241 P.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "308 P.3d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        3855520
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1159"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ariz/233/0001-01"
+      ]
+    },
+    {
+      "cite": "307 P.3d 894",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6974365
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "906"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/p3d/307/0894-01"
+      ]
+    },
+    {
+      "cite": "166 Wis. 2d 262",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8666884
+      ],
+      "weight": 4,
+      "year": 1991,
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/166/0262-01"
+      ]
+    },
+    {
+      "cite": "180 Wis. 2d 62",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8666088
+      ],
+      "weight": 4,
+      "year": 1993,
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/180/0062-01"
+      ]
+    },
+    {
+      "cite": "147 Wis. 2d 589",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667832
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "referring to an \"underlying tort\" when examining a civil action under § 943.51 for retail theft"
+        },
+        {
+          "parenthetical": "referring to an \"underlying tort\" when examining a civil action under § 943.51 for retail theft"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/147/0589-01"
+      ]
+    },
+    {
+      "cite": "115 Wis. 2d 352",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8674724
+      ],
+      "weight": 11,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "354"
+        },
+        {
+          "page": "355"
+        },
+        {
+          "page": "355"
+        },
+        {
+          "page": "356"
+        },
+        {
+          "page": "357-58"
+        },
+        {
+          "page": "358-59"
+        },
+        {
+          "page": "359"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/115/0352-01"
+      ]
+    },
+    {
+      "cite": "117 Wis. 2d 753",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8675051
+      ],
+      "weight": 4,
+      "year": 1984,
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/117/0753-01"
+      ]
+    },
+    {
+      "cite": "106 A.L.R. 5th 523",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 5th",
+      "opinion_index": 2
+    },
+    {
+      "cite": "57 Vand. L. Rev. 2129",
+      "category": "journals:journal",
+      "reporter": "Vand. L. Rev.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "2129-36, 2139-48"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "Wis. Stat. § 799.01",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(d)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(cr)"
+        },
+        {
+          "page": "(l)(cr)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "Wis. Stat. § 895.446",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 16,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(3)(b)"
+        },
+        {
+          "page": "(1)"
+        },
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 2
+    }
+  ],
+  "analysis": {
+    "cardinality": 2699,
+    "char_count": 111473,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 9.791416744542593e-8,
+      "percentile": 0.5325179189983663
+    },
+    "sha256": "5a0d31546b223f16b59ccbc51b77b02627db48ea9dfc79a5380b6a54b8571042",
+    "simhash": "1:2ee4d7bb3fcfe6f0",
+    "word_count": 18573
+  },
+  "last_updated": "2024-02-27T21:03:02.532561+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Estate of Stanley G. Miller c/o Genevieve Miller, Personal Representative, Plaintiff-Respondent-Petitioner, v. Diane Storey, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "¶ 1.\nANNETTE KINGSLAND ZIEGLER, J.\nThis is a review of a published decision of the court of appeals, Estate of Miller v. Storey, 2016 WI App 68, 371 Wis. 2d 669, 885 N.W.2d 787, which reversed the Marathon County circuit court's small claims money judgment for the Estate of Miller (\"Estate\") against Diane Storey (\"Storey\").\nf 2. In a small claims action by the Estate, a jury found Storey liable under Wis. Stat. § 895.446 (2013-14) for theft of money from her elderly uncle when she cared for him in the last year of his life. After the verdict, the circuit court awarded the Estate actual damages of $10,000 under Wis. Stat. § 799.01(l)(d), exemplary damages of $20,000 under § 895.446(3)(c), attorney fees of $20,000 under § 895.446(3)(b), and double taxable costs under Wis. Stat. § 807.01(3). Sto-rey appealed.\n¶ 3. On appeal, Storey argued that the actual damages should be reduced to $5,000 because Wis. Stat. § 895.446 is a \"tort action\" under Wis. Stat. § 799.01(l)(cr), not an \"other civil action\" under § 799.01(l)(d), which also meant that double costs were not authorized under Wis. Stat. § 807.01(3). Storey further argued that attorney fees were not \"costs of investigation and litigation\" under § 895.446(3)(b) and that exemplary damages under § 895.446(3)(c) could not be awarded by the judge where the jury had been the trier of fact. The court of appeals agreed and reversed the judgment of the circuit court. The Estate filed a motion for reconsideration, which the court of appeals denied. The Estate then petitioned this court for review.\nf 4. There are four issues on this appeal. First, we consider whether Wis. Stat. § 895.446 is an \"action based in tort\" under Wis. Stat. § 799.01(l)(cr) or an \"other civil action\" under § 799.01(l)(d). Our conclusion on this issue will resolve the consequent issues of which damages cap under § 799.01 applies and whether double costs are authorized under Wis. Stat. § 807.01(3). Second, we consider whether attorney fees are included within the meaning of \"costs of investigation and litigation\" under § 895.446(3)(b). Third, we consider whether the court of appeals erroneously exercised its discretion in considering whether the circuit court erred when it awarded exemplary damages on the Estate's post-verdict motion. Fourth, we consider whether the court of appeals properly denied the Estate's motion for reconsideration.\n¶ 5. As to the first issue, we conclude that Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d) based on fundamental principles of statutory interpretation and the established distinctions between statutory civil claims and common law tort claims. Because we conclude that § 895.446 is an \"other civil action,\" we consequently conclude that the damages cap is $10,000 under § 799.01(l)(d) and that double costs are authorized under Wis. Stat. § 807.01(3).\n¶ 6. As to the second issue, we conclude that attorney fees are included within the meaning of \"costs of investigation and litigation\" under Wis. Stat. § 895.446(3)(b) because Stathus v. Horst, 2003 WI App 28, 260 Wis. 2d 166, 659 N.W.2d 165, a judicial interpretation by the court of appeals, has long stood for that proposition, and the legislature, despite taking other, subsequent action in that very statute, has not legislated so as to alter that interpretation.\n¶ 7. As to the third issue, we conclude that the court of appeals did not err when it considered the issue of exemplary damages, in part because the issue raised was a legal question, the parties thoroughly briefed the issue, and there were no disputed issues of fact. We also conclude that the court of appeals' reversal of the circuit court was proper because the circuit court's ruling was contrary to the clear legal standard set forth in Kimble v. Land Concepts, Inc., 2014 WI 21, 353 Wis. 2d 377, 845 N.W.2d 395.\n¶ 8. As to the fourth issue, we conclude that our analysis as to the first issue renders analysis of the fourth issue unnecessary because our reversal of the court of appeals' holdings on actual damages and double costs obviates the substance of the Estate's remaining arguments.\n¶ 9. Thus, we reverse the decision of the court of appeals as to the first and second issues and affirm the decision of the court of appeals as to the third issue. Because we reverse on the first issue, we need not decide the fourth issue. We remand for further proceedings consistent with this opinion.\nI. FACTUAL AND PROCEDURAL BACKGROUND\n¶ 10. On February 28, 2013, the Estate filed a small claims action against Storey in the Marathon County circuit court seeking damages of $10,000 for misappropriation of funds from the Estate of Stanley Miller. For the purposes of this appeal, the facts underlying the claim are not pertinent.\n¶ 11. On June 7, 2013, the Estate filed a notice of its offer of settlement pursuant to Wis. Stat. § 807.01(3), which authorizes the award of double costs where the plaintiffs recovery is more favorable than the settlement offer. The Estate offered to settle the matter for $7,500. Storey declined, and, after an unsuccessful mediation, the case proceeded to a jury trial.\nf 12. On October 30, 2013, prior to trial, the Estate submitted its requested jury instructions, which included the following request for a specialized jury instruction for violation of Wis. Stat. § 895.446 based on conduct prohibited by Wis. Stat. § 943.20:\nTo recover for theft by misappropriation, Plaintiff must prove by evidence that satisfies you to a reasonable certainty by the greater weight of the credible evidence that the following four elements were present:\nFirst, that Defendant intentionally used, transferred, or retained possession of movable property of another. The term \"intentionally\" means that the Defendant must have had the mental purpose to take and carry away property. The term \"movable property\" means property whose physical location can be changed; \"movable property\" includes money.\nSecond, that the owner of the property did not consent to taking and carrying away the property.\nThird, that Defendant knew the owner did not consent.\nFourth, that Defendant intended to deprive the owner permanently of the possession of the property.\nStorey made no objection to this specialized jury instruction.\n¶ 13. On January 9, 2014, the trial began. The trial lasted two days, and, at the close of the case, the circuit court instructed the jury as requested by the Estate. The jury found Storey liable under Wis. Stat. § 895.446.\n¶ 14. On July 8, 2014, the circuit court held a hearing on the Estate's post-verdict motions. The Estate argued that the court should award (1) $10,000 for actual damages under Wis. Stat. § 895.446(3)(a); (2) $30,000 for exemplary damages under § 895.446(3)(c); (3) $814.95 for taxable costs under Wis. Stat. § 799.25; (4) $814.95 for double costs under Wis. Stat. § 807.01(3); and (5) $20,000 for attorney fees under § 895.446(3)(b). Storey argued that the actual damages should be limited to the $5,000 cap for an \"action based in tort\"; that the exemplary damages were inappropriate because they were not requested in the initial complaint; that the taxable costs should not be doubled because, if the actual damages were limited to $5,000, then § 807.01(3) did not apply; and that the attorney fees exceeded the maximum award allowed under Wis. Stat. § 814.04(1). The circuit court ruled in favor of the Estate and entered a judgment for $52,629.90.\n¶ 15. On October 15, 2014, Storey appealed.\n¶ 16. On July 6, 2016, the court of appeals reversed the judgment of the circuit court.\n¶ 17. On the issue of actual damages, the court of appeals held that civil theft claims under Wis. Stat. § 895.446(1) are \"tort claims.\" Consequently, it held that the actual damages award was limited to $5,000 under Wis. Stat. § 799.01(l)(cr) and reversed the award of double costs under Wis. Stat. § 807.01(3).\n¶ 18. On the issue of attorney fees, the court of appeals held that the phrase \"costs of. . . litigation\" in Wis. Stat. § 895.446(3)(b) did not include attorney fees because, if the legislature had intended that attorney fees be collectible, it would have so specified, as it did in making specific provision for \"reasonable attorney fees\" in § 895.446(3m)(b) .\n¶ 19. On the issue of exemplary damages, the court of appeals held that whether to award exemplary damages in a jury trial must be decided by the jury. Here, the Estate not only challenges the court of appeals' holding but also argues that it was an erroneous exercise of discretion for the court of appeals to decide the issue at all, as it was not preserved by objection in the circuit court below.\n¶ 20. On July 11, 2016, the Estate filed a motion for reconsideration. As pertains to the issue here, the Estate argued that the court of appeals' holding as to actual damages was not supported by the case law cited in the opinion and that the holding as to double costs did not address existing precedent interpreting the application of Wis. Stat. § 807.01 .\nf 21. On July 14, 2016, the court of appeals withdrew and vacated its July 6th opinion.\n¶ 22. On July 28, 2016, the court of appeals denied the Estate's motion for reconsideration.\nf 23. On August 16, 2016, the court of appeals issued a revised opinion. As pertains to the issue here, the revised opinion reflects changes to the analysis of actual damages and double costs. See Estate of Miller, 371 Wis. 2d 669, ¶¶ 21, 31. With regard to actual damages, the court of appeals removed citations to legal authority and added language that the Estate had conceded the issue. Id., ¶ 21. With regard to double costs, the court of appeals added language that the Estate had conceded the issue. Id., ¶ 31. Here, the Estate argues that the court of appeals erroneously exercised its discretion in denying the Estate's motion for reconsideration because the court of appeals withdrew and revised its opinion contemporaneously with its review of the motion, and two of the revisions made were responsive to two of the motion's arguments. In essence, the Estate argues that the court of appeals cannot both revise its decision and deny the Estate's motion for reconsideration, especially because the revisions appear to be based on the merits of the motion's arguments.\nf 24. On September 12, 2016, the Estate filed a petition for review in this court. On January 9, 2017, we granted the petition.\nII. STANDARD OF REVIEW\n¶ 25. Interpretation of a statute is a question of law that we review de novo, although we benefit from the analyses of the circuit court and the court of appeals. See State v. Harrison, 2015 WI 5, ¶ 37, 360 Wis. 2d 246, 858 N.W.2d 372. Thus, we review de novo whether Wis. Stat. § 895.446 is an \"action based in tort\" or an \"other civil action\" and whether attorney fees are included within the meaning of \"costs of. . . litigation\" under § 895.446(3)(b). The proper allocation of responsibilities between the judge and the jury with regard to exemplary damages is also a question of law that we review de novo. See Kimble, 353 Wis. 2d 377, ¶ 38. Thus, we also review de novo the merits of the court of appeals' decision to reverse the circuit court's award of exemplary damages.\n¶ 26. We review the court of appeals' exercise of discretion under the deferential erroneous exercise of discretion standard. See State v. Lemberger, 2017 WI 39, ¶ 13, 374 Wis. 2d 617, 893 N.W.2d 232. Whether to consider an issue not preserved below is an exercise of discretion. See State v. Caban, 210 Wis. 2d 597, 609, 563 N.W.2d 501 (1997). Whether to grant or deny a motion for reconsideration under Wis. Stat. (Rule) § 809.24 is an exercise of discretion. See State v. Thiel, 171 Wis. 2d 157, 159-60, 491 N.W.2d 94 (Ct. App. 1992). Thus, we review the court of appeals' decisions to consider the issue of exemplary damages and to deny the Estate's motion for reconsideration for erroneous exercise of discretion.\nIII. ANALYSIS\n¶ 27. The following analysis will address four issues: (A) Whether Wis. Stat. § 895.446 is an \"action based in tort\" under Wis. Stat. § 799.01(l)(cr) or an \"other civil action\" under § 799.01(l)(d); (B) Whether attorney fees are included within the meaning of \"costs of investigation and litigation\" under § 895.446(3)(b); (C) Whether the court of appeals erroneously exercised its discretion in considering whether the circuit court erred when it awarded exemplary damages on the Estate's post-verdict motion; and (D) Whether the court of appeals properly denied the Estate's motion for reconsideration.\nf 28. As to the first issue, we conclude that Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d) based on fundamental principles of statutory interpretation and the established distinctions between statutory civil claims and common law tort claims. Because we conclude that § 895.446 is an \"other civil action,\" we consequently conclude that the damages cap is $10,000 under § 799.01(l)(d) and that double costs are authorized under Wis. Stat. § 807.01(3).\n¶ 29. As to the second issue, we conclude that attorney fees are included within the meaning of \"costs of investigation and litigation\" under Wis. Stat. § 895.446(3)(b) because Stathus, 260 Wis. 2d 166, a judicial interpretation by the court of appeals, has long stood for that proposition, and the legislature, despite taking other, subsequent action in that very statute, has not legislated to alter that interpretation.\n¶ 30. As to the third issue, we conclude that the court of appeals did not err when it considered the issue of exemplary damages, in part because the issue raised was a legal question, the parties thoroughly briefed the issue, and there were no disputed issues of fact. We also conclude that the court of appeals' reversal of the circuit court was proper because the circuit court's ruling was contrary to the clear legal standard set forth in Kimble, 353 Wis. 2d 377.\n¶ 31. As to the fourth issue, we conclude that our analysis as to the first issue renders analysis of the fourth issue unnecessary because our reversal of the court of appeals' holdings on actual damages and double costs obviates the substance of the Estate's remaining arguments.\nA. Whether Wis. Stat. § 895.446 Is An \"Action Based In Tort\" Under Wis. Stat. § 799.01(l)(cr) Or An \"Other Civil Action\" Under § 799.01(l)(d).\n¶ 32. The first issue we consider is whether Wis. Stat. § 895.446 is an \"action based in tort\" under Wis. Stat. § 799.01(l)(cr), and thus subject to the $5,000 small claims limit, or an \"other civil action\" under § 799.01(l)(d), and thus subject to the $10,000 small claims limit. The applicable statutory limit also impacts the award of costs. The Estate argues that § 895.446 is an \"other civil action,\" and thus subject to the $10,000 limit, because its civil theft claim arises from a statutorily created right to enforce criminal law. The Estate distinguishes this statutory civil theft claim from the civil action for conversion, which arises from the common law of tort. Storey, to the contrary, argues that § 895.446 is an \"action based in tort,\" and thus subject to the $5,000 limit, because the elements required to prove the Estate's statutory civil theft claim are similar to the elements of the common law tort of conversion.\n¶ 33. We conclude that Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d) based on fundamental principles of statutory interpretation and the established distinctions between statutory civil claims and common law tort claims. Because we conclude that § 895.446 is an \"other civil action,\" we consequently conclude that the damages cap is $10,000 under § 799.01(l)(d) and that double costs are authorized under Wis. Stat. § 807.01(3).\n1. Wisconsin Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d).\n¶ 34. Wisconsin Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d) for four reasons: first, the statute itself refers to its cause as a \"civil action\"; second, our case law distinguishes the statutory civil theft claim under § 895.446 from similar common law tort claims; third, our case law distinguishes between other statutorily created civil claims and common law tort claims; and fourth, there is a long-standing distinction in the common law between crimes and torts, even though both may be based on the same conduct, which suggests that a plaintiff acting under a civil statute that enables enforcement of criminal law is not bringing an action based in tort.\n¶ 35. \"[Statutory interpretation begins with the language of the statute.\" State ex rel. Kalal v. Cir. Ct. for Dane Cty., 2004 WI 58, ¶ 45, 271 Wis. 2d 633, 681 N.W.2d 110; Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 56-58 (2012) (Supremacy-of-Text Principle). Here, the statute provides for a civil cause of action against a person who has caused damage or loss to property by conduct that is proscribed by the enumerated criminal statutes. See Wis. Stat. § 895.446(1). Subsections (2) and (3) both refer to this cause as a \"civil action\":\n(2) The burden of proof in a civil action under sub. (1)....\n(3) If the plaintiff prevails in a civil action under sub. (1). . . .\n§ 895.446(2), (3). Words are to be understood in their ordinary everyday meaning. See Kalal, 271 Wis. 2d 633, f 45; Scalia & Garner, supra, at 69-77 (Ordinary-Meaning Canon). Thus, when a statute characterizes its cause as a \"civil action\" it is within the bounds of ordinary understanding to interpret it as a \"civil action.\" Furthermore, a word or phrase is presumed to bear the same meaning throughout a text. See Scalia & Garner, supra, at 170-73 (Presumption of Consistent Usage). Thus, the use of the term \"civil action\" in § 895.446 to describe the cause therein provided indicates that the cause may also be properly characterized as a \"civil action\" under Wis. Stat. § 799.01. See § 799.01(l)(d) (\"Other civil actions where the amount claimed is $10,000 or less . .. .\").\n¶ 36. Additionally, Wisconsin cases analyzing a civil theft claim under the statute have referred to the cause as a civil action. See Tri-Tech Corp. of Am. v. Americomp Servs., Inc., 2002 WI 88, ¶ 1, 254 Wis. 2d 418, 646 N.W.2d 822 (\"civil theft\"). This statutory civil theft claim has also been specifically distinguished from similar claims of conversion, which sound in tort. In other words, a civil claim for theft under Wis. Stat. § 895.446 is separate and distinct from a claim for conversion. For example, in H.A. Friend & Co. v. Professional Stationery, Inc., the plaintiff brought a civil theft claim under Wis. Stat. § 895.80(1) (2003-04) and a common law tort claim for conversion where the defendant had written checks and withdrawn and transferred funds without authorization. 2006 WI App 141, ¶¶ 2, 5-6, 294 Wis. 2d 754, 720 N.W.2d 96. The court of appeals treated these as separate and distinct claims in its analysis. Compare id., ¶ 9, with id., ¶ 11. See also Cook v. Public Storage, Inc., 2008 WI App 155, ¶ 49, 314 Wis. 2d 426, 761 N.W.2d 645 (distinguishing the plaintiffs common law claim of conversion from its statutory theft claim under Wis. Stat. § 895.446 (2005-06) via Wis. Stat. § 943.20 (2005-06)); Phillips v. Parmelee, 2013 WI 105, ¶ 9, 351 Wis. 2d 758, 840 N.W.2d 713 (where the plaintiff brought a statutory civil theft claim under Wis. Stat. § 895.446 (2009-10) via Wis. Stat. § 943.20 (2009-10) and a common law tort claim for negligence because defendant-sellers had failed to disclose asbestos-related defects).\nf 37. Moreover, there is an established distinction between statutory claims and common law claims generally. See Kailin v. Armstrong, 2002 WI App 70, 252 Wis. 2d 676, 643 N.W.2d 132; Chomicki v. Wittekind, 128 Wis. 2d 188, 381 N.W.2d 561 (Ct. App. 1985). In Chomicki the plaintiff brought a statutory civil claim under Wis. Stat. § 101.22(7) (1985-86) where her landlord had sexually harassed and threatened her. See Chomicki, 128 Wis. 2d at 192. In rejecting the landlord's challenge to the jury's award of compensatory damages, the court of appeals held that Chomicki's recovery was not controlled by the rules regarding the common law tort of intentional infliction of emotional distress because \"Chomicki. . . did not bring a common law tort claim, but a private civil action specifically authorized by statute.\" Id. at 199.\nf 38. Similarly, in Kailin, the plaintiff brought a statutory civil claim under Wis. Stat. § 100.18 (1999-2000) and a common law tort claim for misrepresentation where defendant-sellers had failed to disclose a tenant with a history of delinquent rent payments. 252 Wis. 2d 676, ¶¶ 1-2. The court of appeals treated these claims as separate and distinct in its analysis, compare id., ¶¶ 26-36, with id., ¶¶ 37-45, and held that \"[t]he fact that two different claims may be proved with the same evidence in a particular case does not mean they are the same claim.\" Id., ¶ 41. This is particularly true where the elements of the statutory cause of action \"differ from those of the common law claimG.\" Id., ¶ 40; see also Below v. Norton, 2008 WI 77, ¶ 42, 310 Wis. 2d 713, 751 N.W.2d 351 (noting that the plaintiff was not without a remedy where the economic loss doctrine barred common law claims of misrepresentation because the statutory civil claim under Wis. Stat. § 100.18 (2003-04) was still available).\nf 39. Here, the Estate brought a statutory civil theft claim under Wis. Stat. § 895.446 via Wis. Stat. § 943.20. Statutory claims are distinct from common law claims, and in fact, often both can be pursued. See Kailin, 252 Wis. 2d 676, ¶ 41; Chomicki, 128 Wis. 2d at 199. Additionally, the precise statutory civil theft claim being pursued by the Estate here has been held to be distinct from the similar common law tort of conversion. See H.A. Friend & Co., 294 Wis. 2d 754, ¶¶ 9, 11. Moreover, this distinction is supported by the fact that the elements of the statutory cause of action \"differ from those of the common law claimQ.\" Kailin, 252 Wis. 2d 676, ¶ 40.\n¶ 40. The elements of the Estate's statutory civil theft claim are as follows:\n1. Defendant intentionally used, transferred, or retained possession of movable property of another;\n2. The owner of the property did not consent to taking and carrying away the property;\n3. Defendant knew the owner did not consent; and\n4. Defendant intended to deprive the owner permanently of the possession of the property.\nSee supra f 12. Conversely, the elements of the common law tort claim of conversion are as follows:\n1. That (defendant) intentionally (controlled) (took) property belonging to (owner);\n2. That defendant (controlled) (took) the property without the consent of (owner) or without lawful authority; and\n3. That defendant's act with respect to the property seriously interfered with the right of (owner) to possess the property.\nWis JI—Civil 2200 (2014). Although similar, the Estate's statutory civil theft claim significantly differs from the common law tort claim of conversion in two respects: first, the statutory civil theft claim additionally requires that the \"defendant knew that the owner did not consent\"; second, the statutory civil theft claim differs in that it requires that the \"defendant intended to deprive the owner permanently of. . . possession,\" not simply that the defendant acted to \"seriously interfere with the right of the owner to possess the property.\" Compare supra ¶ 12, with Wis JI—Civil 2200 (2014). Thus, the Estate's statutory civil theft claim under Wis. Stat. § 895.446 is, in fact, separate and distinct from a common law tort claim for conversion, even if the same facts might support both causes of action.\n¶ 41. Furthermore, the Estate's claim is essentially a criminal charge being brought civilly by a plaintiff (for money damages) instead of by the State (for conviction), as authorized by statute. These criminal roots are important because there has long been a distinction in the common law between a tort claim and a criminal charge. See David J. Seipp, The Distinction Between Crime and Tort in the Early Common Law, 76 B.U. L. Rev. 59 (1996). Thus, the longstanding distinction between causes of action brought as crimes and causes of action brought as torts suggests that statutory claims which enable civil enforcement of criminal law, such as the claim brought here, need not necessarily be treated as \"actions based in tort\" because they are actually \"actions based in criminal law.\"\n¶ 42. Based on the foregoing, we conclude that Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d), not an \"action based in tort\" under § 799.01(l)(cr). It is true that any cause that is not criminal is civil; thus, tort claims are civil actions. But the distinction between an \"action based in tort\" and an \"other civil action\" is one that the legislature has made, and is one that is important to claimants because there is a significant difference in the amounts that may be recovered. Compare § 799.01(l)(cr), with § 799.01(l)(d). Thus, it is the task of this court to give effect and meaning to that distinction. See Kalal, 271 Wis. 2d 633, ¶ 46 (\"Statutory language is read where possible to give reasonable effect to every word, in order to avoid surplusage.\"); Scalia & Garner, supra ¶ 35, at 174-79 (Surplusage Canon). In doing so, we hold that § 895.446 is an \"other civil action\" under § 799.01(l)(d) because the statute itself refers to its cause as a \"civil action,\" our case law distinguishes the statutory civil theft claim under § 895.446 from similar common law tort claims, our case law distinguishes between other statutory civil claims and common law tort claims generally, and there is a long-standing distinction in the common law between crimes and torts that suggests that a plaintiff acting under a civil statute that enables enforcement of criminal law is not bringing an \"action based in tort,\" but rather is bringing an \"action based in criminal law,\" even though both claims may be based on the same conduct.\n1 43. In sum, to conclude that Wis. Stat. § 895.446—the civil theft statute—is an \"action based in tort\" rather than an \"other civil action\" would require us to, at a minimum, ignore fundamental principles of statutory construction, disregard the legislature's choice to provide a statutory civil theft claim, and discount the established distinctions between statutory civil claims and common law tort claims.\n2. Because Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d), the damages cap is $10,000 and double costs are authorized under Wis. Stat. § 807.01(3).\nf 44. Because we conclude that Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d), the damages cap is $10,000 and double costs are authorized under Wis. Stat. § 807.01(3).\n¶ 45. With regard to the damages cap, Wis. Stat. § 799.01(1) states in relevant part as follows:\nEXCLUSIVE USE OF SMALL CLAIMS PROCEDURE. Except as provided in ss. 799.02(1) and 799.21(4) and except as provided under sub. (2), the procedure in this chapter is the exclusive procedure to be used in circuit court in the following actions: .. .\n(d) Other civil actions. Other civil actions where the amount claimed is $10,000 or less, if the actions or proceedings are:\n1. For money judgments ....\n§ 799.01(l)(d)l.\n¶ 46. The jury found Storey liable for a violation of Wis. Stat. § 895.446 and awarded $10,000 in actual damages. As established above, § 895.446 is an \"other civil action.\" Thus, the $10,000 in damages claimed and subsequently awarded is appropriate under Wis. Stat. § 799.01(l)(d)'s damages cap. We therefore remand the cause to the circuit court with direction to reinstate the circuit court judgment as to actual damages in the amount of $10,000.\n¶ 47. With regard to the double costs, Wis. Stat. § 807.01(3) states in relevant part as follows:\nAfter issue is joined but at least 20 days before trial, the plaintiff may serve upon the defendant a written offer of settlement for the sum, or property, or to the effect therein specified, with costs. ... If the offer of settlement is not accepted and the plaintiff recovers a more favorable judgment, the plaintiff shall recover double the amount of the taxable costs.\n§ 807.01(3). The Estate (the plaintiffs below) filed a notice of its offer of settlement on June 7, 2013 (approximately seven months before trial). The Estate offered to settle with Storey for a sum of $7,500. Storey declined to settle. After trial and appeal, the Estate will recover $10,000 in actual damages, which is a higher and more favorable judgment. Thus, the Estate \"shall recover double the amount of the taxable costs.\" Id. The Estate's taxable costs amount to $814.95, which doubled amount to $1,629.90. We therefore remand the cause to the circuit court with direction to reinstate the circuit court's judgment as to taxable costs in the amount of $1,629.90.\nB. Whether Attorney Fees Are Included Within The Meaning Of \"Costs Of Investigation And Litigation\" Under Wis. Stat. § 895.446(3)(b).\n¶ 48. The second issue we consider is whether attorney fees are included within the meaning of \"costs of investigation and litigation\" under Wis. Stat. § 895.446(3)(b). The Estate argues that attorney fees are included as \"costs of. . . litigation\" because the court of appeals has already interpreted this phrase as including attorney fees. See Stathus, 260 Wis. 2d 166, If 12-24. Storey argues that Stathus is not good law because it considered a version of the statute that did not include subsection (3m); subsection (3m) specifically provides for \"reasonable attorney fees\" and interpreting subsection (3)(b) to include attorney fees in light of this amendment would render the specific provision in (3m) superfluous.\n¶ 49. We conclude that attorney fees are included within the meaning of \"costs of investigation and litigation\" under Wis. Stat. § 895.446(3)(b) because Stathus, 260 Wis. 2d 166, a judicial interpretation by the court of appeals, has long stood for that proposition and the legislature, despite taking other, subsequent action in that very statute, has not legislated so as to alter that interpretation.\n¶ 50. We begin with the language of the statute. See Kalal, 271 Wis. 2d 633, ¶ 45. Section 895.446(3)(b) states in relevant part as follows:\nIf the plaintiff prevails in a civil action under sub. (1), he or she may recover all of the following: . . .\n(b) All costs of investigation and litigation that were reasonably incurred, including the value of the time spent by any employee or agent of the victim.\nWis. Stat. § 895.446(3)(b).\nf 51. \"If a statute uses words or phrases that have already received authoritative construction by the jurisdiction's court of last resort, or even uniform construction by inferior courts . . . they are to be understood according to that construction.\" Scalia & Garner, supra ¶ 35, at 322-26 (Prior-Construction Canon). \"A statute will be construed to alter the common law only when that disposition is clear,\" and \"[rjepeals by implication are . . . 'very much disfavored. \" Id. at 318-19 (Presumption Against Change in Common Law); id. at 327-33 (Presumption Against Implied Repeal). In other words, legislative inaction in the wake of judicial construction of a statute indicates legislative acquiescence. See Progressive N. Ins. Co. v. Romanshek, 2005 WI 67, ¶ 52, 281 Wis. 2d 300, 697 N.W.2d 417. This doctrine of legislative acquiescence applies with equal, if not greater, force where the legislature has acted on the statute, but declines to revise the interpreted language. See Tucker v. Marcus, 142 Wis. 2d 425, 434, 418 N.W.2d 818 (1988) (citing Munninghoff v. Wis. Conservation Comm'n, 255 Wis. 252, 258, 38 N.W.2d 712 (1949) (\"The re-enactment of the statute on which there existed a judicial determination indicates an intent to adopt the judicial determination as a part of the statute.\")); see also United States v. Home Concrete & Supply, LLC, 566 U.S. 478, 483 (2012) (declining to give the same language in a reenacted statute a different construction where the operative language in a reenacted provision was identical because stare decisis counsels against such interpretive variation).\n¶ 52. The phrase \"[a]ll costs of investigation and litigation\" has previously been interpreted to include attorney fees. See Stathus, 260 Wis. 2d 166, ¶¶ 12-24. In Wisconsin, this is an authoritative interpretation. See Wenke v. Gehl Co., 2004 WI 103, ¶ 21, 274 Wis. 2d 220, 682 N.W.2d 405 (\"The principle of stare decisis applies to the published decisions of the court of appeals.\"). After Stathus, the legislature made six revisions to the statute. Thus, the legislature had ample opportunity to act on or repeal the judicial interpretation of \"costs of. . . litigation\" in Stathus, particularly when it amended subsection (3)(b). See 2003 Wis. Act 138, § 22. But the legislature did not act on or repeal the interpreted language. Therefore, the Stathus court's interpretation that attorney fees are included as \"costs of. . . litigation\" stands as good law.\n¶ 53. Additionally, the language of Wis. Stat. § 799.25—governing costs recoverable in small claims actions—supports the conclusion that attorney fees are included as costs of litigation. Section 799.25 states in relevant part as follows:\nCosts. The clerk shall without notice to the parties tax and insert in the judgment as costs in favor of the party recovering judgment the following:...\n(10) Attorney Fees, (a) Attorney fees as provided in s. 814.04(1) and (6), except if the amount of attorney fees is otherwise specified by statute.\n§ 799.25(10)(a). Thus, the Stathus interpretation of \"costs of. . . litigation\" as inclusive of attorney fees seems particularly appropriate in small claims actions, given the language in the statute directing that \"attorney fees\" are \"costs.\" See also Scalia & Garner, supra f 35, at 170-73 (Presumption of Consistent Usage).\nf 54. Moreover, the private attorney general doctrine supports the conclusion that attorney fees are included as costs of litigation. The term \"private attorney general\" first appeared in the law in 1943, when Judge Jerome Frank used the phrase to describe attorneys empowered by Congress to \"institute a proceeding ... to vindicate the public interest.\" Assoc. Indus. of New York v. Ickes, 134 F.2d 694, 704 (2d Cir. 1943). It was soon after analogized to \"a sort of King's proctor,\" but did not take root in widespread practice until the 1970s. F.C.C. v. Nat'l Broadcasting Co., 319 U.S. 239, 265 n.1 (1943) (Douglas, J., dissenting); see William B. Rubenstein, On What a \"Private Attorney General\" Is—And Why it Matters, 57 Vand. L. Rev. 2129, 2130 (2004).\nf 55. The expansive popularity of the doctrine in the 1970s has been attributed to its status as an equitable exception to the American rule that each party in a lawsuit bears its own costs. See Ann K. Wooster, Annotation, Private Attorney General Doctrine—State Cases 106 A.L.R. 5th 523, § 2(a) (2003); Rubenstein, supra ¶ 54, at 2136 (\"Once loosed as a matter of money, the private attorney general concept's diffusion was limited only by the imagination of lawyers seeking attorneys' fees.\"). This rapid expansion, however, prompted courts to craft legal standards to define its limits.\nf 56. Under federal law, attorney fees are recoverable under the private attorney general doctrine only where there is statutory authority or a contract justifying the award. See Alyeska Pipeline Serv. Co. v. Wilderness Soc'y, 421 U.S. 240, 263 (1975); cf. id. (\"[U]nder some, if not most, of the statutes providing for the allowance of reasonable fees, Congress has opted to rely heavily on private enforcement to implement public policy and to allow counsel fees so as to encourage private litigation.\").\n¶ 57. This holding did not control the doctrine's development at the state level, but Wisconsin has adopted a similar limitation. See Marquardt v. Milwaukee Cty., 2002 WI App 12, ¶ 23, 249 Wis. 2d 780, 639 N.W.2d 762. In Marquardt, the court held that, \"[i]n order for Marquardt to prevail on his theory that he was acting as a private attorney general, he was required to show that some statutory basis existed for his request for attorney's fees.\" Id. The statutory basis for the request, however, need not be express statutory language authorizing attorney fees. See Watkins v. LIRC, 117 Wis. 2d 753, 755, 345 N.W.2d 482 (1984) (holding \"that DILHR has the authority to award reasonable attorney's fees to a prevailing complainant\" \"even though [the] Act contains no express statutory language authorizing such an award\"). Where there is no express authorization for attorney fees, the court must determine \"whether the authority to award attorney's fees may be fairly implied from [the statute]\"; this is a question of statutory interpretation. Id. at 761.\n¶ 58. \"A cardinal rule in interpreting statutes is to favor a construction that will fulfill the purpose of the statute over a construction that defeats the manifest object of the act.\" Id. at 761; see also Scalia & Garner, supra f 35, at 63-65 (Presumption Against Ineffectiveness). An award of reasonable attorney fees effectuates the purpose of a public rights statute if, without the award, victims would not be in an economic position to advance the private and public interest at stake. See Watkins, 117 Wis. 2d at 764; Shands v. Castrovinci, 115 Wis. 2d 352, 358, 340 N.W.2d 506 (1983) (\"Often the amount of pecuniary loss is small compared with the cost of litigation. . . . The award of attorney fees encourages attorneys to pursue [] claims where the anticipated monetary recovery would not justify the expense of legal action.\"). This is grounded in the maxim that, if rights are to be meaningful, they must be enforceable. See also Hartman v. Winnebago Cty., 216 Wis. 2d 419, 433 n.8, 574 N.W.2d 222 (1998) (noting that, where a party is acting as a private attorney general, the costs incurred in retaining counsel are \"necessary\" costs because, to fully enforce the public's rights, \"assistance of counsel is fundamental\").\nf 59. Given this analysis, Wis. Stat. § 895.446 could well fall under the private attorney general doctrine. On the facts of the cause before us, the Estate brought a private suit based on a criminal statute that deters theft. Criminal prosecution is the exclusive province of the government in the United States today. Rubenstein, supra f 54, at 2141. Thus, in bringing a private suit that enforces criminal proscriptions, the Estate's cause vindicates the public right to be free from crime. See also Watkins, 117 Wis. 2d at 764 (\"[A]n individual who brings an action to enforce a statutory right may be acting as a 'private attorney general' to enforce the public's rights under the statute.\"). Additionally, the Estate's claim was for $10,000 and the circuit court found that the hourly legal fees amounted to $24,708.50. As a practical matter then, without attorney fees, the Estate may not have been in an economic position to advance the private and public interest at stake.\n¶ 60. Based on the foregoing, we conclude that attorney fees are recoverable as \"costs of. . . litigation\" under Wis. Stat. § 895.446(3)(b) because the court of appeals' authoritative interpretation in Stathus stands where the legislature failed to act to repeal that interpretation. Additionally, the itemization of \"attorney fees\" as \"costs\" in Wis. Stat. § 799.25 (applicable to small claims) and the private attorney general doctrine support the conclusion that attorney fees are recoverable here.\n¶ 61. Furthermore, other language in the statute supports our conclusion that attorney fees are recoverable. It is well established that attorneys are agents of their clients. See, e.g., Marten Transp., Ltd v. Hartford Specialty Co., 194 Wis. 2d 1, 13, 533 N.W.2d 452 (1995) (\"The relationship of attorney and client is one of agency.\"). Section 895.446(3)(b) allows the plaintiffs in a civil theft action to recover the \"value of the time spent by any employee or agent of the victim.\" Thus, the language of this provision further supports that the Estate, as the plaintiff in this civil theft action, may recover attorney fees as the value of the time spent by the Estate's attorneys, who are its agents.\n¶ 62. In sum, to conclude that Wis. Stat. § 895.446(3)(b) does not include attorney fees would require us to, at a minimum, overturn precedent, disregard fundamental principles of statutory interpretation, and ignore the legislature's inaction with respect to this subsection, especially when the legislature modified this very statute six times post -Stathus. We therefore remand the cause to the circuit court with direction to award reasonable attorney fees consistent with this opinion. See supra ¶ 2 note 4.\nC. Whether The Court Of Appeals Erroneously Exercised Its Discretion In Considering Whether The Circuit Court Erred When It Awarded Exemplary Damages On The Estate's Post-Verdict Motion.\n¶ 63. The third issue we consider is whether the court of appeals erred in considering an argument regarding exemplary damages that was not raised in the circuit court. This issue is two-fold: first we determine whether considering the argument was an erroneous exercise of discretion; second, we determine whether the court of appeals' decision to reverse the circuit court's award of exemplary damages was an error of law.\n¶ 64. As to whether the court of appeals erred in considering the issue of the circuit court's award of exemplary damages, the Estate argues that the court of appeals erroneously exercised its discretion because considering an argument not preserved below creates a double standard for parties who decline to address arguments not fully briefed by an opposing party. Storey argues that the court of appeals did not erroneously exercise its discretion because the circuit court was wrong to award exemplary damages to the Estate on the Estate's post-verdict motion where there is clear law that requires an award of exemplary damages be made by the trier of fact, which in this case was the jury.\n¶ 65. As to whether the court of appeals erred in reversing the circuit court's award of exemplary damages, the Estate argues that the court of appeals erred because the law does not clearly require a jury to determine the amount of exemplary damages. Storey argues that the court of appeals did not err because the law clearly requires that the trier of fact determine the amount of exemplary damages, which in this case was the jury; thus, the judge's award of exemplary damages on a post-verdict motion was improper.\n¶ 66. Regarding discretion, we conclude that the court of appeals did not err when it considered the issue of exemplary damages, in part because the issue raised was a legal question, the parties thoroughly briefed the issue, and there were no disputed issues of fact. Regarding the legal merit of reversal, we conclude that the court of appeals' reversal of the circuit court was proper because the circuit court's ruling was contrary to the clear legal standard set forth in Kimble, 353 Wis. 2d 377.\n¶ 67. First, we determine whether considering the argument was an erroneous exercise of discretion. Typically, on appeal, a court will not consider an issue not preserved below. See State v. Huebner, 2000 WI 59, ¶ 10, 235 Wis. 2d 486, 611 N.W.2d 727. Although this has commonly been known as the \"waiver rule,\" we reiterate here that it is more properly referred to as \"forfeiture.\" See id., ¶ 11 n.2; Brunton v. Nuvell Credit Corp., 2010 WI 50, ¶ 35, 325 Wis. 2d 135, 785 N.W.2d 302. At the circuit court, issues are preserved by timely objection. Huebner, 235 Wis. 2d 486, ¶ 10. An appellate court may, however, exercise its discretion to hear an issue not preserved below. See Caban, 210 Wis. 2d at 609. Such an exercise of discretion is proper where the issue raised is a legal question, the parties have thoroughly briefed the issue, and there are no disputed issues of fact. See Wirth v. Ehly, 93 Wis. 2d 433, 444, 287 N.W.2d 140 (1980), superseded by statute on other grounds; see also State v. Bodoh, 226 Wis. 2d 718, 737, 595 N.W.2d 330 (1999).\n¶ 68. Here, the court of appeals did not err when it considered the issue of exemplary damages. First, the proper allocation of responsibilities between the judge and the jury with regard to exemplary damages is a question of law. See Kimble, 353 Wis. 2d 377, ¶ 38. Second, Storey raised the issue of the proper allocation of responsibilities between judge and jury with regard to exemplary damages in her briefing in the court of appeals, and the Estate's court of appeals brief responds to her argument on that issue. Third, the parties do not dispute that it was the judge, not the jury—the trier of fact below—who determined both the appropriateness and the amount of the award of exemplary damages. Thus, the court of appeals did not err when it considered whether the circuit court had improperly awarded exemplary damages.\n¶ 69. Second, we determine whether the court of appeals' decision to reverse the circuit court's award of exemplary damages was an error of law. The accepted legal standard for awarding exemplary damages is clear. In Kimble, this court stated:\nThe judge has the duty to act as the \"gatekeeper\" when determining whether the issue of punitive damages is properly before the jury. Once the judge has determined that the issue of punitive damages is properly before the jury, whether to actually award punitive damages in a particular case is entirely within the discretion of the jury.\n353 Wis. 2d 377, ¶ 44 (citation omitted) (footnote added). This establishes that, although the judge initially determines whether exemplary damages are an appropriate issue to be presented to the trier of fact, it is within the discretion of the trier of fact to determine whether to actually award exemplary damages and, if so, in what amount. See also Topolewski v. Plankinton Packing Co., 143 Wis. 52, 53, 126 N.W. 554 (1910); Shopko Stores, Inc. v. Kujak, 147 Wis. 2d 589, 601, 433 N.W.2d 618 (Ct. App. 1988). Of course, that determination is subject to post-verdict review, for example, on proper motion and/or on appeal.\n¶ 70. Here, the trier of fact in the circuit court was the jury. Thus, the circuit court's decision to first award exemplary damages on the Estate's post-verdict motion was contrary to clear law because the issue was not first presented to the jury, and the court of appeals' decision to reverse was proper.\n¶ 71. In sum, we affirm the court of appeals' exercise of discretion to consider the issue of the circuit court's post-verdict award of exemplary damages. After consideration of the issue, the court of appeals held that, in a jury trial, the award of exemplary damages must be decided by the jury. See Estate of Miller, 371 Wis. 2d 669, ¶ 16. Because this is a proper application of the legal standard, we also affirm the court of appeals' holding on the merits.\nD. Whether The Court Of Appeals Properly Denied The Estate's Motion For Reconsideration.\n¶ 72. The fourth and final issue we consider is whether the court of appeals properly denied the Estate's motion for reconsideration. The Estate filed its motion for reconsideration on July 11, 2016. In its motion, the Estate argued that the court of appeals' holding as to actual damages was not supported by the case law cited in the opinion and that the holding as to double costs did not address existing precedent interpreting the application of Wis. Stat. § 807.01. The court of appeals withdrew its opinion on July 14, 2016.\n¶ 73. On July 28, 2016, the court of appeals denied the Estate's motion, and, on August 16, 2016, the court of appeals issued a revised opinion. With regard to actual damages, the court of appeals removed citations to legal authority and added language that the Estate had conceded the issue. Estate of Miller, 371 Wis. 2d 669, ¶ 21. With regard to double costs, the court of appeals added language that the Estate had conceded the issue. Id., ¶ 31.\n¶ 74. The Estate argues that the court of appeals erroneously exercised its discretion because the court of appeals withdrew and revised its opinion contemporaneously with its consideration of the Estate's motion for reconsideration and two of the revisions made were responsive to two of the motion's arguments. In essence, the Estate argues that the court of appeals cannot both revise its decision and deny the Estate's motion for reconsideration, especially because the revisions appear to be based on the merits of the motion's arguments. Storey argues that the court of appeals properly exercised its discretion because its withdrawal of its decision and its denial of the Estate's motion for reconsideration were \"completely within its statutory authority.\"\n¶ 75. We conclude that our analysis as to the first issue renders analysis of this issue unnecessary because our reversal of the court of appeals' holdings on actual damages and double costs obviates the substance of the Estate's remaining arguments.,\n¶ 76. Above, we concluded that the Estate's claim is an \"other civil action\" for which the $10,000 damages cap applies and that double costs are authorized by law. See supra f ¶ 32-47. This obviates the need for us to further analyze the court of appeals' holding on this issue, and we decline to do so.\nIV. CONCLUSION\n¶ 77. There are four issues on this appeal. First, we consider whether Wis. Stat. § 895.446 is an \"action based in tort\" under Wis. Stat. § 799.01(l)(cr) or an \"other civil action\" under § 799.01(l)(d). Our conclusion on this issue resolves the consequent issues of which damages cap under § 799.01 applies and whether double costs are authorized under Wis. Stat. § 807.01(3). Second, we consider whether attorney fees are included within the meaning of \"costs of investigation and litigation\" under § 895.446(3)(b). Third, we consider whether the court of appeals erroneously exercised its discretion in considering whether the circuit court erred when it awarded exemplary damages on the Estate's post-verdict motion. Fourth, we consider whether the court of appeals properly denied the Estate's motion for reconsideration.\nf 78. As to the first issue, we conclude that Wis. Stat. § 895.446 is an \"other civil action\" under Wis. Stat. § 799.01(l)(d) based on fundamental principles of statutory interpretation and the established distinctions between statutory civil claims and common law tort claims. Because we conclude that § 895.446 is an \"other civil action,\" we consequently conclude that the damages cap is $10,000 under § 799.01(l)(d) and that double costs are authorized under Wis. Stat. § 807.01(3).\n¶ 79. As to the second issue, we conclude that attorney fees are included within the meaning of \"costs of investigation and litigation\" under Wis. Stat. § 895.446(3)(b) because Stathus, 260 Wis. 2d 166, a judicial interpretation by the court of appeals, has long stood for that proposition, and the legislature, despite taking other, subsequent action in that very statute, has not legislated so as to alter that interpretation.\n¶ 80. As to the third issue, we conclude that the court of appeals did not err when it considered the issue of exemplary damages, in part because the issue raised was a legal question, the parties thoroughly briefed the issue, and there were no disputed issues of fact. We also conclude that the court of appeals' reversal of the circuit court was proper because the circuit court's ruling was contrary to the clear legal standard set forth in Kimble, 353 Wis. 2d 377.\n¶ 81. As to the fourth issue, we conclude that our analysis as to the first issue renders analysis of the fourth issue unnecessary because our reversal of the court of appeals' holdings on actual damages and double costs obviates the substance of the Estate's remaining arguments.\n¶ 82. Thus, we reverse the decision of the court of appeals as to the first and second issues and affirm the decision of the court of appeals as to the third issue. Because we reverse on the first issue, we need not decide the fourth issue. We remand for further proceedings consistent with this opinion.\nBy the Court.—The decision of the court of appeals is affirmed in part, reversed in part, and the cause is remanded to the circuit court for further proceedings consistent with this opinion.\nThe Honorable Jill N. Falstad presided.\nAll subsequent references to the Wisconsin Statutes are to the 2013-14 version unless otherwise indicated.\nWhile the evidence presented at trial would support a claim for over $10,000, at the time, small claims actions were limited to $5,000 for an \"action based in tort\" and to $10,000 for an \"other civil action.\" See Wis. Stat. § 799.01(l)(cr), (d). Thus, the jury verdict reflects a finding for actual damages in the amount of $10,000.\nWe note that the reasonableness of this amount was not an issue before this court. Storey did argue in her briefing that any award of attorney fees must be limited to the amount to be recovered under the Estate's contingency fee agreement. See Stathus v. Horst, 2003 WI App 28, ¶¶ 19-24, 260 Wis. 2d 166, 659 N.W.2d 165. This issue, however, was not raised below and we decline to address it so as to afford the circuit court the opportunity to consider it in the first instance on remand.\nWhile typically an offer to settle is inadmissible, the offer is not used here \"to prove liability for or invalidity of the claim or its amount.\" See Wis. Stat. § 904.08. Rather, the settlement offer is relevant in this case to determine whether double costs are authorized under Wis. Stat. § 807.01(3), which states in part as follows:\nAfter issue is joined but at least 20 days before trial, the plaintiff may serve upon the defendant a written offer of settlement for the sum, or property, or the effect therein specified, with costs. ... If the offer of settlement is not accepted and the plaintiff recovers a more favorable judgment, the plaintiff shall recover double the amount of the taxable costs.\n§ 807.01(3).\nWisconsin Stat. § 895.446 is a civil statute that provides a cause of action for \"Property damage or loss caused by crime\" by reference to enumerated criminal statutes.\nWisconsin Stat. § 943.20 is a criminal statute that prohibits \"Theft.\"\nThe circuit court awarded only $20,000 in exemplary damages, and, as noted by the court of appeals, the record appears to support an award of $51,629.90, which is one thousand dollars less than the amount of the judgment entered by the circuit court. See Estate of Miller v. Storey, 2016 WI App 68, ¶ 10 n.3, 371 Wis. 2d 669, 885 N.W.2d 787.\nThe court of appeals' July 6th opinion cites to Wis. Stat. § 895.446(3)(c), which is the exemplary damages subsection. We read this as a typo and interpret their holding to apply to subsection (1).\nStorey did object to the award of exemplary damages in her responses to the Estate's post-verdict motion in the circuit court and at the July 8, 2014 hearing on the motion, but her objection was based on a different ground than she raised on appeal. See supra ¶ 14; State v. Nelis, 2007 WI 58, ¶ 31, 300 Wis. 2d 415, 733 N.W.2d 619 (\"An objection is sufficient to preserve an issue for appeal, if it apprises the court of the specific grounds upon which it is based.\"). In the circuit court she argued that exemplary damages were barred because the Estate had not requested them in the complaint; in the court of appeals, and in this court, she argued that exemplary damages were barred because the judge cannot award them where the jury is the finder of fact.\nTo the extent that the Estate's fourth issue may be read as raising an issue of the court of appeals' authority under Wis. Stat. (Rule) § 809.24 , this would require interpretation of the statute, which is a question of law that we would review de novo. See State v. Harrison, 2015 WI 5, ¶ 37, 360 Wis. 2d 246, 858 N.W.2d 372. However, because we conclude that our analysis of the first issue renders analysis of the fourth issue unnecessary, we need not address this question of law.\nThe Supremacy-of-Text Principle dictates that \"[t]he words of a governing text are of paramount concern, and what they convey, in their context, is what the text means.\" Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 56 (2012).\nThe Ordinary Meaning Canon dictates that \"[w]ords are to be understood in their ordinary, everyday meanings—unless the context indicates that they bear a technical sense.\" Id. at 69.\nThe Presumption of Consistent Usage dictates that \"[a] word or phrase is presumed to bear the same meaning throughout a text; a material variation in terms suggests a variation in meaning.\" Id. at 170.\nWis. Stat. § 895.80 (2003-04) was renumbered as Wis. Stat. § 895.446 in 2006. See 2005 Wis. Act 155, § 70.\nThe elements of criminal theft under Wis. Stat. § 943.20 are exactly the same as the elements of the civil theft claim brought by the Estate:\n1. The defendant intentionally took and carried away movable property of another. .. .\n2. The owner of the property did not consent to taking and carrying away the property.\n3. The defendant knew that the owner did not consent.\n4. The defendant intended to deprive the owner permanently of the possession of the property.\nWis JI—Criminal 1441 (2009) (footnotes omitted). The cause of action under Wis. Stat. § 895.446 does not have a set of elements unique from criminal causes because the statutory civil claim is tied to whichever enumerated criminal statute listed in subsection (1) applies. See also supra note 7. Of course, the burden of proof and the consequences are different, as is the enforcement mechanism: a criminal charge is brought by the government taking formal action, and a civil action is brought by a citizen seeking monetary damages.\nThe earliest distinction at common law was between the \"appeal of felony\" (crimes) and the \"writ of trespass\" (torts). See David J. Seipp, The Distinction Between Crime and Tort in the Early Common Law, 76 B.U. L. Rev. 59, 60 (1996). Although both were considered \"breaches of the king's peace,\" conviction of a felony carried much harsher penalties and had different procedural requirements. Id. at 59, 61-63.\nThe Estate specifically brought an action under Wis. Stat. § 895.446 for conduct prohibited by Wis. Stat. § 943.20—a criminal statute prohibiting \"Theft.\"\nThe Surplusage Canon dictates that \"[i]f possible, every word and every provision is to be given effect.... None should be ignored. None should needlessly be given an interpretation that causes it to duplicate another provision or to have no consequence.\" Scalia & Garner, supra note 12, at 174.\nWe note that Justice Kelly's concurrence/dissent takes issue with this canon of construction, see Justice Kelly's concurrence/dissent, ¶¶ 94-104, but does not argue that Wisconsin law does not support application of the canon or that we have incorrectly applied the canon here. Thus, its scrutiny of the assumptions that underlie the canon do not bear directly on the integrity of our analysis. In other words, the dissent has presented a problem without suggesting a solution, and we decline to digress from the established canons of construction because to do so would leave us with \"no intelligible, generally accepted and consistently applied theory of statutory interpretation.\" Scalia & Garner, supra note 12, at 8.\nWe acknowledge that the Stathus court did not directly consider the issue of whether attorney fees were awardable; rather, in promulgating the standards by which a circuit court should determine whether an award of attorney fees under the statute is reasonable, the Stathus court assumed that attorney fees were awardable. This assumption, however, is a prior construction under the Predicate-Act Canon and the Interpretation Principle of statutory construction. The Interpretation Principle holds that \"[ejvery application of a text to particular circumstances entails interpretation\"; the Predicate-Act Canon holds that \"[ajuthorization of an act also authorizes a necessary predicate act.\" See Scalia & Garner, supra note 12, at 53-55, 192-94. Thus, when the Stathus court remanded to the circuit court with instructions to \"apply the appropriate standards for determining 'reasonableness'\" of attorney fees under the statute, it necessarily construed the statute as authorizing the award of attorney fees. Stathus, 260 Wis. 2d 166, ¶ 25.\nAdditionally, lower courts have consistently awarded attorney fees under the statute. See Revolution Processing Sol., Inc. v. Collins Fin., LLC, No. 13CV657, 2015 WL 13540579, at *4 (Wis. Cir. Ct. Dec. 9, 2015); Gribble v. Gribble, No. 11CV017625, 2015 WL 5192481, at *2 (Wis. Cir. Ct. Aug. 18, 2015); Coyle v. Coyle, No. 11CV0510, 2013 WL 6211087, at *1 (Wis. Cir. Ct. Oct. 2, 2013); Offerman v. Pettijohn, No. 09CV04775, 2011 WL 2260387 (Wis. Cir. Ct. Apr. 8, 2011); Carter v. Cuttingedge of Elkhart Lake, Inc., No 06CV414, 2007 WL 5308643 (Wis. Cir. Ct. Nov. 6, 2007); Lautenslager v. Wallace Enters., Inc., No. 03CV1860, 2004 WL 5162818 (Wis. Cir. Ct. Nov. 5, 2004); see also BJK of Manitowoc Cty., Inc. v. Barkwell, No. 09CV738, 2012 WL 13001081, at *17 (Wis. Cir. Ct. June 25, 2012); cf. KBS Constr., Inc. v. McCullough Plumb ing, Inc., No. 2008AP1867, unpublished slip op., ¶¶ 31-32 (Wis. Ct. App. Dec 23, 2009); IW Enter. V. Kopas, No. 03-2036, unpublished slip op., ¶¶ 11, 32—33 (Wis. Ct. App. July 27, 2004); Lorge v. Rabl, No. 03CV1629, 2006 WL 6623605 (Wis. Cir. Ct. May 2, 2006).\nOn this, the legislature has stood silent.\nSee 2003 Wis. Act 36, § 11; 2003 Wis. Act 138, §§ 19-25; 2005 Wis. Act 155, § 70 (renumbering as Wis. Stat. § 895.446); 2005 Wis. Act 447, § 1; 2007 Wis. Act 96, § 161; 2011 Wis. Act 186, § 2.\nWe note also that this interpretation is consonant with the instructions given in the legislative drafting file for the act creating the statute, which describes the purpose as allowing \"a person who wins a civil action to receive treble damages and costs for certain property crimes. This includes all reasonable attorney fees and other costs of investigation and litigation. . . .\" Drafting File, 1995 Wis. Act 27, Legislative Reference Bureau, Madison, Wis.\nAs established here, the amount of attorney fees recoverable in this action is \"otherwise specified\" by Wis. Stat. § 895.446(3)(b). Thus, the $300 limit provided in Wis. Stat. § 814.04(l)(a) does not apply to the Estate's recovery in this case.\nIn some states the legal standard is promulgated by statute, see, e.g., Cal. Civ. Proc. Code § 1021.5, but in most states, as in Wisconsin, the legal standard has developed in the common law.\nThe Presumption Against Ineffectiveness dictates that \"[a] textually permissible interpretation that furthers rather than obstructs the document's purpose should be favored.\" Scalia & Garner, supra note 12, at 63.\nWe note also that other states provide for similar civil actions based on criminalized conduct. See, e.g., In. Stat. 35-43-4-2 (Theft; receiving stolen property); In. Stat. 34-24-3-1 (Pecuniary loss as result of property offenses).\nWe note that the circuit court awarded attorney fees based on an hourly rate, although the record reflects that the Estate had a contingency fee agreement, and confine our analysis to the facts underlying the circuit court award. See supra note 4.\nAgain, the reasonableness of the amount awarded was not an issue before this court and we decline to address it so as to afford the circuit court the opportunity to consider it in the first instance on remand. See supra note 4.\nThe essence of this double standard is as follows: on the one hand, responding to an issue that the opposing party did not fully brief or raise below \"open[s] the door for the Court of Appeals to consider the issue 'thoroughly' briefed\"; on the other hand, \"a failure to take on the merits of that [issue] can be used against the respondent if the Court of Appeals\" decides to consider the issue and determines it has been forfeited by the party that declined to respond on the basis that the issue had not been fully briefed.\n\"[FJorfeiture is the failure to make the timely assertion of a right [;] waiver is the intentional relinquishment or abandonment of a known right.\" Brunton v. Nuvell Credit Corp., 2010 WI 50, ¶ 35, 325 Wis. 2d 135, 785 N.W.2d 302.\n\"Exemplary damages\" are synonymous with \"punitive damages.\" Exemplary Damages, Black's Law Dictionary 692 (10th ed. 2014).\nWe note that in some instances, the judge is also the trier of fact and it would be appropriate in that instance for the judge to determine whether to award exemplary damages and the amount of the award.\nAs a general matter, we note that, under Wis. Stat. (Rule) § 809.24(3), the court of appeals may reconsider a decision on its own motion. Section 809.24(3) does not dictate the grounds on which the court of appeals may withdraw and revise a previously issued opinion. Thus, the court of appeals is afforded discretion in withdrawing and revising previously issued opinions. Additionally, under § 809.24(2), the court of appeals may deny a motion for reconsideration. Section 809.24(2) does not dictate what action the court of appeals must take on a motion, just that it must take action. Thus, the court of appeals is afforded discretion to deny motions for reconsideration.\nAgain, to the extent that the Estate's arguments may be read to raise a question of law regarding the court of appeals' statutory authority under Wis. Stat. (Rule) § 809.24, analysis of that issue is also rendered unnecessary by our analysis of the first issue and we need not comment further on whether the court of appeals' revision actually reflects a grant of the motion for reconsideration. See also supra note 11.\nThe court of appeals held that the Estate conceded that it should have filed in large claims. See Estate of Miller, 371 Wis. 2d 669, ¶ 21. Although we do not analyze that holding, we note that it appears from the record that the Estate did not concede this issue: first, it is not clear that Storey's brief in the court of appeals fully developed this as an argument; second, there was no reference anywhere in the record to the requirements for filing a large claim, not the least of which is the filing fee, see Wis. Stat. ch. 814.\n2003 WI App 28, 260 Wis. 2d 166, 659 N.W.2d 165.",
+        "type": "majority",
+        "author": "ANNETTE KINGSLAND ZIEGLER, J."
+      },
+      {
+        "text": "¶ 83.\nDANIEL KELLY, J.\n(concurring in part, dissenting in part). I join the court's opinion except insofar as it concludes that Wis. Stat. § 895.446(3)(b) awards attorney's fees to prevailing plaintiffs. Stathus v. Horst, our opinion's sole source of authority supporting that conclusion, is actually silent on the issue. And the legislature has been silent with respect to Stathus's silence. But in that doubly-quiet void we purport to hear not only an authoritative interpretation of a statute, but also the legislature's commendation of that unspoken interpretation. Because I hear no such thing, I must respectfully dissent from that part of our opinion.\n¶ 84. The availability of attorney's fees depends entirely on what Wis. Stat. § 895.466(3) means when it says a prevailing plaintiff \"may recover all of the following: . . . All costs of investigation and litigation that were reasonably incurred, including the value of the time spent by any employee or agent of the victim.\" Our methodology for discerning that meaning focuses on the statute's text, context, and structure. State ex rel. Kalal v. Cir. Ct. for Dane Cty., 2004 WI 58, ¶¶ 45-46, 271 Wis. 2d 633, 681 N.W.2d 110 (\"[Statutory interpretation 'begins with the language of the statute.'. . . Context is important to meaning. So, too, is the structure of the statute in which the operative language appears. Therefore, statutory language is interpreted in the context in which it is used; not in isolation but as part of a whole; in relation to the language of surrounding or closely-related statutes . . . .\" (internal citation omitted)). In performing this analysis, we carefully avoid ascribing an unreasonable or absurd meaning to the text. Id., ¶ 46 (\"[Statutory language is interpreted . . . reasonably, to avoid absurd or unreasonable results.\" (citations omitted)). If we find the statute's plain meaning through this methodology, we go no further. Id., ¶ 45 (\"If the meaning of the statute is plain, we ordinarily stop the inquiry.' \" (quoting Seider v. O'Connell, 2000 WI 76, ¶ 43, 236 Wis. 2d 211, 612 N.W.2d 659)); see generally Daniel R. Suhr, Interpreting Wisconsin Statutes, 100 Marq. L. Rev. 969 (2017).\n¶ 85. Our opinion does not conform to this methodology. Instead of \"begin [ning] with the language of the statute,\" we began with a court opinion that did not address itself to the question sub judice. Instead of considering the statute's context and structure, we turned to a canard about the significance of legislative inaction. And we argued that it would be wise policy to award attorney's fees in situations like this—an argument on which I offer no comment except to say that the wisdom of a given policy makes the asserted meaning of a statute neither more nor less likely to be true. And then, at the end, we finally arrived at the statute's language, but only in search of justification for the conclusion we had already reached. This is a method of statutory interpretation so far removed from the practice we endorsed in Kalal that it is unrecognizable.\nI. WHAT STATHUS V. HORST CANNOT TELL US\n¶ 86. Citing Kalal, our opinion says \"[w]e begin with the language of the statute.\" Majority op., f 50. And we did, inasmuch as we quoted Wis. Stat. § 895.446(3) near the beginning of the attorney's fees section of our opinion. But Kalal is not telling us where we should place the quote—it is telling us that the language should be the first thing to capture our analytical attention. However, after quoting the statute, we promptly ignored it until giving it a paragraph's worth of attention at the end of our analysis, and then only after we had already concluded the language we did not construe awards attorney's fees to prevailing plaintiffs. Our analysis actually started with the invocation of a canon of construction to make it appear that Stathus said something it did not.\n¶ 87. We said that the \"Prior Construction Canon\" requires us to read Wis. Stat. § 895.446(3) as awarding attorney's fees to prevailing plaintiffs. This interpretive aid counsels that \"[i]f a statute uses words or phrases that have already received authoritative construction by the jurisdiction's court of last resort, or even uniform construction by inferior courts ... , they are to be understood according to that construction.\" Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 322 (2012). We have never construed the language of § 895.446(3)(b), so the canon directs our attention to our court of appeals.\nf 88. We offered Stathus as the only candidate in which we may find an authoritative construction of the statute's language. But before we hunt through the Stathus opinion for such a thing, it's worth a short digression to describe the subject of our search. The term \"construction\" refers to the process by which we discover the meaning of the written law. It is \"[t]he act or process of interpreting or explaining the sense or intention of a writing (usu. a statute, opinion, or instrument).\" Black's Law Dictionary 308 (7th ed. 1999).\nConstruction, as applied to written law, is the art or process of discovering and expounding the meaning and intention of the authors of the law with respect to its application to a given case, where that intention is rendered doubtful either by reason of apparently conflicting provisions or directions, or by reason of the fact that the given case is not explicitly provided for in the law.\nId. (quoting Henry Campbell Black, Handbook on the Construction and Interpretation of the Laws 1 (1896)).\n¶ 89. So if Stathus is to bear the weight we assign it, we should find in that opinion an effort to discover and expound on the meaning of Wis. Stat. § 895.446(3)(b) as it relates to liability for the plaintiffs attorney's fees. Stathus, of course, contains no such thing. Surprisingly, this is not even a point of contention—our opinion frankly admits the court of appeals did not construe the language in which we are interested: \"We acknowledge that the Stathus court did not directly consider the issue of whether attorney fees were awardable; rather, in promulgating the standards by which a circuit court should determine whether an award of attorney fees under the statute is reasonable, the Stathus court assumed that attorney fees were awardable.\" Majority op., ¶ 52 n.21. Because the \"Prior Construction Canon\" performs its work on \"constructions,\" our concession that Stathus contains only an assumption necessarily disqualifies it from the canon's operation.\n1 90. But with a liberal application of a few more canons, we claim to have coaxed something authoritative out of Stathus: \"This assumption, however, is a prior construction under the Predicate-Act Canon [] and the Interpretation Principle [] of statutory construction. . . . Thus, when the Stathus court remanded to the circuit court with instructions to 'apply the appropriate standards for determining \"reasonableness\" ' of attorney fees under the statute, it necessarily construed the statute as authorizing the award of attorney fees.\" Majority op., ¶ 52 n.21. No sentence that begins \"[t]his assumption ... is a prior construction\" can advance any logically defensible proposition. A \"construction,\" as described above, is the discovery and exposition of meaning. An assumption is the absence of that. The laws of a rational universe forbid these being the same thing.\n¶ 91. Even without this error, the \"Predicate-Act Canon\" can provide no useful instruction here. It is certainly true that the Stathus court, in remanding the case to determine the reasonableness of the claimed attorney's fees, also authorized the circuit court to award those fees. But what of it? Our project here is discerning the meaning of a statute, not a matter's undisputed procedural history. But perhaps we mean to say the Stathus court's assumption was an \"act\" within the meaning of this canon. If that is what we meant, then this is a good object lesson in why the canon applies to \"acts\" (as its name suggests), not reasoning. If the canon allows us to conclude that Stathus authoritatively answered the question before us because its assumptions were necessary for its conclusion, then the canon does nothing but create logical fallacies. Positing an argument's premise in the conclusion as a means of proving the premise's truth is known as the petitio principii (or \"begging the question\") error. Bootstrapping does not make a premise more likely to be true.\n¶ 92. The \"Interpretation Principle\" is similarly unhelpful. Yes, \"[e]very application of a text to particular circumstances entails interpretation.\" Scalia & Garner, supra ¶ 5, at 53. But that truism requires an application of the text. As our opinion admits, however, the Stathus court didn't apply the text to the question in which we are interested. Thus, there is no interpretation for this canon to validate. So, even if we had the power to suspend the iron-clad law of non-contradiction, this brace of canons is no more helpful than the first.\n¶ 93. As our opinion reveals, we don't have enough interpretive canons to make Stathus say something authoritative about the availability of attorney's fees under Wis. Stat. § 895.446(3)(b). We should be grateful this is so. For if our opinion is correct, and this cocktail of canons has the power to create ex nihilo, then we have called forth from our interstitial silences a host of undefined (and undefinable) authorities. Who knows what manner of inchoate precedent will answer that summons? Our responsibility (and authority) lies only in saying what the law is—that is, saying what it already is; it is not for us to use interpretive canons to speak the law into existence. Marbury v. Madison, 5 U.S. 137, 177 (1803).\nII. LEGISLATIVE INACTION\n¶ 94. To affirm the continuing validity of Sta-thus's non-holding, our opinion observes that the legislature has done nothing to counter the court of appeals' assumption that Wis. Stat. § 895.446(3)(b) awards attorney's fees to prevailing plaintiffs: \"[T]he legislature had ample opportunity to act on or repeal the judicial interpretation of 'costs of. . . litigation' in Stathus, particularly when it amended subsection (3)(b). . . . [b]ut the legislature did not act on or repeal the interpreted language.\" Majority op., ¶ 52. Accepting for the sake of argument that there was a \"judicial interpretation\" to which the legislature could respond, there is nothing to suggest the legislature's non-response could have anything to say about the statute.\n¶ 95. As mentioned above, we look for a statute's meaning in its text, context, and structure. Kalal, 271 Wis. 2d 633, f ¶ 45-46. These are things that exist and have definable content, the meaning of which we may contest. Some would also include legislative history as a source of a statute's meaning—e.g., instructions delivered to the bill's drafter, iterations of a bill presented in committee or to the full legislative body, statements delivered by the members in a legislative chamber, et cetera. Regardless of the propriety of consulting such material, it at least shares with the statute's text the benefit of being something that exists; it has definable content to which construing minds might have recourse.\n¶ 96. Legislative inaction, on the other hand, is a negation. There is no definable content in a void, and there can be no meaning drawn from it. There are several reasons this is true.\n¶ 97. First, attributing significance to legislative inaction depends on an overweening, court-centric view of our relationship to the other branches of government. If this interpretive device is to function, it requires a belief that the legislature carefully attends to everything we say, rigorously compares our pronouncements to its own understanding of the statutory corpus, compiles a list of disagreements, and privileges corrective measures over everything else on its crowded legislative calendar.\n¶ 98. This, of course, hasn't the slightest correlation to reality. The legislature is a coordinate branch of government with its own unique responsibilities, functions, and priorities. It does not pay court to us, nor does it have the least obligation to do so. That it does, from time to time, adopt legislation specifically designed and intended to respond to one of our holdings gives us no license to pretend it will always do so when it disagrees with us.\n¶ 99. Second, drawing an inference from legislative inaction involves an unwarranted temporal elision. The meaning of a statute is fixed at the point it is adopted. To the extent we are looking past the text to the legislature to determine what its membership thought the statute meant, we should at least look to the body that adopted it. The legislature does not have stagnant membership—it is, in fact, reconstituted every other year. Many legislators return, but the change of even one member makes it a new body. If we look for meaning in the inactivity of successive legislatures, then we are asking after the wrong body.\nThis assumption [about the significance of legislative inactivity], which frequently haunts our opinions, should be put to rest. It is based, to begin with, on the patently false premise that the correctness of statutory construction is to be measured by what the current Congress desires, rather than by what the law as enacted meant.\nJohnson v. Transp. Agency, Santa Clara Cty. Cal., 480 U.S. 616, 671 (1987) (Scalia, J., dissenting).\n¶ 100. Third, whether a court's interpretation of a statute should be rejected is a substantively different question from whether the statute should be adopted in the first instance: \"To make matters worse, it [the legislative inaction principle] assays the current Congress' desires with respect to the particular provision in isolation, rather than (the way the provision was originally enacted) as part of a total legislative package containing many quids pro quo.\" Id. (emphasis omitted). There is no telling what might incentivize legislators to reject our statutory interpretations, or dissuade them from doing so. Nor do we have the means by which to compare those dynamics to the supporting rationale for the statute's provisions when adopted.\n¶ 101. Finally, there are a variety of reasons the legislature may take no action on any given question. Because most of those reasons have nothing to do with the accuracy of our work, there simply isn't any way to espy meaning in the legislature's silence:\nBut even accepting the flawed premise that the intent of the current Congress, with respect to the provision in isolation, is determinative, one must ignore rudimentary principles of political science to draw any conclusions regarding that intent from the failure to enact legislation. The 'complicated check on legislation,' The Federalist No. 62, p. 378 (C. Rossiter ed. 1961), erected by our Constitution creates an inertia that makes it impossible to assert with any degree of assurance that congressional failure to act represents (1) approval of the status quo, as opposed to (2) inability to agree upon how to alter the status quo, (3) unawareness of the status quo, (4) indifference to the status quo, or even (5) political cowardice.\nId. at 671-72. Even if a majority of one of the succeeding legislature's members wished to rebuke our interpretation, that desire still might not result in a new law: \"[IJntuiting those desires from congressional failure to act is an uncertain enterprise which takes as its starting point disregard of the checks and balances in the constitutional scheme of legislation designed to assure that not all desires of a majority of the Legislature find their way into law.\" United States v. Johnson, 481 U.S. 681, 703 (1987) (Scalia, J., dissenting).\n¶ 102. This \"legislative inaction\" device has no explanatory power whatsoever, and we should not pretend it does. As Justice Scalia said, \"I think we should admit that vindication by congressional inaction is a canard.\" Johnson, 480 U.S. at 672 (Scalia, J., dissenting). I do, too.\nf 103. Our opinion relies on it anyway because, well, that's what we do: \"[The] concurrence/dissent takes issue with this canon of construction . . . but does not argue that Wisconsin law does not support application of the canon or that we have incorrectly applied the canon here.\" Majority op., f 51 n.20. Alas for the day in which exposing one of our analytical constructs as just make-believe doesn't diminish its authority. Notwithstanding the emptiness of this judicial fabrication, we are so humbled by it that we cannot even imagine challenging its place in our jurisprudence. Yes, our prior opinions support the use of this fiction. But reason doesn't. Between the two, we should choose the latter. We have both the authority and the responsibility to do so.\nf 104. Perhaps even more unsettling is our revelation that, without this fiction and a clutch of inap-posite canons, we would be unable to interpret our statutes: \"In other words, the dissent has presented a problem without suggesting a solution, and we decline to digress from the established canons of construction because to do so would leave us with no intelligible, generally accepted and consistently applied theory of statutory interpretation.\" Majority op., ¶ 51 n.20 (internal quotations and citation omitted). We could always consult the statute's text, as Kalal teaches—a solution with which I introduced this opinion, and which I address below.\nIII. THE STATUTE'S TEXT\n¶ 105. After having already concluded that the statute shifts responsibility for attorney's fees to the defendant, our opinion finally turns to the statute's text to see what it might have to say for itself: \"Furthermore, other language in the statute supports our conclusion that attorney fees are recoverable.\" Majority op., f 61. \"Other\" language supports our conclusion? This suggests we had already construed some of the statute's language. We hadn't. Until this paragraph all we had done with the language was quote it. In any event, our analysis of the statute's language spanned a single paragraph. See id. And in that paragraph we simply recognized that: (1) attorneys act in an agency capacity with respect to their clients; and (2) the statute awards \"the value of the time spent by any employee or agent of the victim\" as a cost to the prevailing plaintiff.\n¶ 106. While it is true that attorneys act in an agency capacity for their clients, it does not inexorably follow from this that the legislature means the term \"agent\" to encompass \"attorney.\" And there is substantial evidence that it does not mean this. When the legislature wants a provision to apply to both attorneys and agents, it makes its intention known by actually saying it applies to both attorneys and agents. It has done this so consistently, and so broadly across the statutory corpus, that it has created a quite distinct pattern, a pattern our opinion does not acknowledge. See, e.g., Wis. Stat. §§ 19.05 (\"the plaintiffs agent or the plaintiffs attorney\"), 42.01 (\"an authorized attorney or agent\"), 59.40 (\"the party's agent or the party's attorney\"), 59.694 (\"agent or attorney\"), 60.06 (\"agents, attorneys and representatives\"), 60.351 (\"agent or attorney\"), 62.23 (\"by agent or by attorney\"), 66.0111 (\"attorney or agent\"), 66.0703 (\"agents or attorneys\"), 71.78 (\"agent or attorney\"), 73.01 (\"petitioner's attorney or agent\"), 76.30 (\"person's authorized agent or attorney\"), 77.61 (\"person's authorized agent or attorney\"), 87.12 (\"engineers, attorneys, agents, assistants, clerks, employees and laborers\"), 93.18 (\"agent or attorney\"), 100.23 (\"his or her agent or attorney\"), 102.123 (\"employee's attorney or other authorized agent\"; \"employee, attorney, or agent\"), 102.30 (\"agent or attorney\"), 102.33 (stating phrase \"attorney or authorized agent\" five times), 103.275 (\"attorney or agent\"; \"person's attorney or agent\"), 103.58 (\"agents, servants, employees and attorneys\"), 133.08 (\"applicant's agent or attorney\"), 115.997 (\"officers, attorneys, employees, agents, or consultants\"), 134.19 (\"principal, agent or attorney\"), 145.10 (\"attorney or agent\"; \"person's attorney or agent\"), 171.04 (\"person's agent or attorney\"), 171.05 (\"person's agent or attorney\"), 171.06 (\"person's agent or attorney\"), 181.1603 (\"member's agent or attorney\"; \"agent or attorney\"), 180.0720 (stating \"shareholder or his or her agent or attorney\" three times), 180.1602 (\"agent or attorney\"), 180.1603 (\"shareholder's agent or attorney\"), 185.47 (\"any member or stockholder, or his or her agent or attorney\"), 186.70 (\"agent or attorney\"), 193.501 (\"member's agent or attorney\"), 214.525 (\"person, agent, or attorney\"), 217.19 (\"agent or attorney\"), 221.0518 (stating \"shareholder or his or her agent or attorney\" three times), 279.07 (\"interested persons or their agents or attorneys\"), 280.13 (\"attorney or agent\"; \"licensee's attorney or agent\"), 304.16 (\"officers, attorneys, employees, agents, or consultants\"), 321.61 (stating \"person's agent or attorney\" three times; \"person or agent or attorney\"), 610.50 (\"insurer or an employee, agent or attorney of an insurer\"), 611.51 (\"policyholder's agent or attorney\"), 701.0802 (\"agent or attorney of the trustee\"), 757.30 (\"person who appears as agent, representative or attorney\"), 779.98 (\"person's agent or attorney\"), 799.45 (\"plaintiffs attorney or agent\"; \"plaintiff or his or her attorney or agent\"), 804.01 (\"attorney, consultant, surety, indemnitor, insurer, or agent\"), 814.245 (\"attorneys or agents\"), 815.53 (\"creditor or his or her attorney, or agent\"), 881.016 (\"attorneys, accountants, investment advisers, agents or other persons\"), 893.80 (\"party, agent or attorney\"), 893.82 (\"his or her agent, attorney or personal representative\"), 895.14 (\"the party injured, agent or attorney\"), 898.02 (\"plaintiffs agent or attorney\"), 898.03 (\"plaintiffs agent or attorney\"), 938.999 (\"officers, attorneys, employees, agents, or consultants\"), 946.13 (\"director, officer, employee, agent or attorney\"), 946.17 (\"agent or attorney of any person\"; \"agent or attorney\").\n¶ 107. If the term \"agent\" subsumes \"attorney,\" there would have been no need to mention the latter on these 60 occasions. We should not shoehorn the term \"attorney\" into \"agent\" when the legislature so clearly does not. The statute, by its own terms, makes a defendant liable for the time value of the prevailing plaintiffs agents. But, for whatever reason, the legislature chose not to extend the statute's mandate to attorney's fees. Whether it should have done so is none of our business.\n¶ 108. Even if this were an insufficient reason to reject our reading of the statute, the text provides an even more explicit reason to do so. One of the most respected principles of statutory construction is that we should not interpret text in a manner that reduces any of its language to ignominious surplusage. Kalal, 271 Wis. 2d 633, ¶ 46 (\"Statutory language is read where possible to give reasonable effect to every word, in order to avoid surplusage.\"). We cannot understand \"agent\" as inclusive of \"attorney\" without violating that principle for the following reasons.\n¶ 109. The statute under consideration actually contains two cost-shifting provisions. The first is general and applies to all causes of action authorized by Wis. Stat. § 895.446(1): \"If the plaintiff prevails in a civil action under sub. (1), he or she may recover all of the following: .. . .\" § 895.446(3). The second is specific, and applies only to a subset of claims authorized by the statute. This specific provision explicitly makes the defendant liable for the prevailing plaintiffs attorney's fees: \"If the violation of s. 943.01(1) involves the circumstances under s. 943.01(2d), the court may award a prevailing plaintiff the reasonable attorney fees incurred in litigating the action ....\"§ 895.446(3m)(b) .\n¶ 110. Our conclusion does irremediable damage to the text of the specific cost-shifting provision. If the general provision already includes attorney's fees, there is no reason for the specific provision to authorize a court to make such an award. That is to say, our understanding of the general provision makes the specific provision's award of attorney's fees entirely meaningless. But there is nothing about the statute or this case that requires us to cause that damage. If we don't stuff \"attorney\" into \"agent\" (which would be felicitously consistent with the legislature's choices), then the specific provision's award of attorney's fees will have good work to do. And we will have given \"reasonable effect to every word,\" and left no surplus-age. We did not explain why we should ignore this internally-consistent reading of the statute.\n¶ 111. Our opinion demonstrates an understandable fondness for canons of statutory construction. When carefully applied in applicable circumstances, they can powerfully illuminate a statute's meaning. Out of the many cited canons, however, perhaps the only applicable one is the presumption against legislative changes to the common law: \"A statute will be construed to alter the common law only when that disposition is clear.\" Scalia & Garner, supra ¶ 5, at 318 (defining the \"Presumption Against Change in Common Law\"); see majority op., ¶ 51. In Wisconsin, we follow the \"American Rule\" with respect to attorney's fees:\nThe general rule, known as the American rule, is that attorney's fees are not ordinarily recoverable in the absence of a statute or enforceable contract providing therefor. Each party to a lawsuit, under this theory, should bear its own costs of litigation. The American rule has been recognized and followed in Wisconsin.\nKremers-Urban Co. v.Am. Emp'rs Ins. Co., 119 Wis. 2d 722, 744-45, 351 N.W.2d 156 (1984) (internal citations omitted). That's our common law. So if Wis. Stat. § 895.446(3)(b) is to alter that rule, it must do so clearly. We, however, derived our attorney's fees holding wholly from what we think we squeezed out of silence. That should make it self-evident that this statute did not \"clearly\" alter the common law.\nIV. CONCLUSION\n¶ 112. We found the meaning of Wis. Stat. § 895.446(3)(b) in a court of appeals opinion that did not address the question we answered, a collection of inapposite interpretive canons, some policy arguments, and a canard. This is not how we are supposed to interpret statutes. And the methodology we employed led us to the wrong conclusion. Consequently, I respectfully dissent from that portion of our opinion.\n¶ 113. I am authorized to state that Justice REBECCA GRASSL BRADLEY joins this opinion concurring in part and dissenting in part.\n\"Authorization of an act also authorizes a necessary predicate act.\" Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 192 (2012) (defining the \"Predicate-Act Canon\").\n\"Every application of a text to particular circumstances entails interpretation.\" Id. at 53 (defining the \"Interpretation Principle\").\nThe law of non-contradiction holds that a proposition cannot be simultaneously true and not true. Aristotle, Metaphysics bk. IV, ch. VI, at 1011b (W.D. Ross, trans., Oxford, Clarendon Press 1908) (c. 350 B.C.E.) (stating that \"the most indisputable of all beliefs is that contradictory statements are not at the same time true\"). Thus, the Stathus court cannot have both: (1) assumed this statute awards attorney's fees; and also (2) engaged in a process of discovery and exposition on that subject.\nThe legislature does not actually have a collective understanding of a statute's meaning. A legislature is not a monolith; ours is a body that comprises 132 members, all of whom exercise their mental faculties independently of the others. So to speak of a collective understanding is to speak of a fiction.\nWe reached our conclusion as early as ¶ 49; our treatment of the statute's language did not start until ¶ 61.\nTwo of these statutes, Wis. Stat. §§ 60.06 and 814.245, are fee-shifting provisions, demonstrating that even in this context the legislature makes a distinction between \"attorneys\" and \"agents.\" All of these statutes refer to the current 2015-16 version.\nThe type of property damage to which this provision refers is not at issue in this case.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "DANIEL KELLY, J."
+      },
+      {
+        "text": "¶ 114.\nSHIRLEY S. ABRAHAMSON, J.\n(,dissenting). Unlike the majority, I conclude that civil theft is an \"action based in tort\" within the meaning of Wis. Stat. § 799.01(l)(cr). Therefore, the Estate's compensatory damages should be capped at $5,000, and the Estate is not entitled to double costs.\n¶ 115. In reaching an opposite conclusion, the majority relies entirely on unremarkable truisms and simply ignores the wealth of prior cases in which Wisconsin courts have either explicitly or implicitly characterized certain statutory causes of action as \"torts\" or as \"sounding in tort.\"\n¶ 116. The majority repeatedly draws distinctions between statutory claims and \"common law\" tort claims in order to conclude that the statutory claim for civil theft under Wis. Stat. § 895.446 cannot be a common law tort claim. In so doing, the majority pulls a bait-and-switch in order to answer a question that was never asked.\n¶ 117. The question presented in the instant case is not whether a civil theft claim pursuant to Wis. Stat. § 895.446 is a \"common law\" tort claim. It obviously is not. Rather, the actual question presented is whether a civil theft claim pursuant to § 895.446 is an \"action based in tort\" under Wis. Stat. § 799.01(l)(cr). Reader beware! The majority's choice of language is calculated to erect a strawman that it can then easily set ablaze in the guise of reasoned and principled analysis.\n¶ 118. I also write to make clear that I do not agree with the majority's conclusion that Wis. Stat. § 895.446(3)(b) awards attorney fees in the present case. On this issue, I largely agree with the analysis of Justice Kelly's dissent.\nf 119. Lastly, I conclude that the majority fails to fully delineate the elements of the private attorney general doctrine, leading to a flawed result.\n¶ 120. Because a civil theft claim pursuant to Wis. Stat. § 895.446 is an \"action based in tort\" and attorney fees are not awardable to prevailing plaintiffs under Wis. Stat. § 895.446(3)(b), I dissent.\nM\n¶ 121. The majority states four equally unpersuasive reasons for its conclusion that a civil theft claim pursuant to Wis. Stat. § 895.446 is not an \"action based in tort,\" but instead, qualifies as an \"other civil action\" under Wis. Stat. § 799.01(l)(d). The majority reasons as follows: first, § 895.446, the civil theft statute, states that it is creating a \"civil action\"; second, Wisconsin case law distinguishes the statutory civil theft claim under § 895.446 from similar common-law tort claims; third, Wisconsin case law distinguishes between other statutorily created civil claims and common-law tort claims; and fourth, there is a long-standing distinction in the common law between crimes and torts, even though both may be based on the same conduct, which suggests that a plaintiff acting under a civil statute that enables enforcement of criminal law is not bringing an action based in tort. Majority op., f 34.\n¶ 122. The majority's latter three reasons together suffer from the same infirmity: these three reasons answer a question that was never asked. These three reasons answer the question \"Is a civil theft claim pursuant to Wis. Stat. § 895.446 a common law tort claim?\" This is not the question presented by the case. The question presented is as follows: \"Is a civil theft claim pursuant to Wis. Stat. § 895.446 an 'action based in tort' under Wis. Stat. § 799.01(l)(cr)?\"\nf 123. The majority spends several paragraphs explaining the unremarkable proposition that specific statutory causes of action are separate and distinct from their similar common law counterparts, see, e.g., majority op., ¶¶ 36-40, and pointing out that \"there has long been a distinction in the common law between a tort claim and a criminal charge[,]\" majority op., ¶ 41.\nf 124. The majority's analytical errors are threefold. First, the majority answers a question that is not asked. It repeatedly draws distinctions between statutory claims and common law tort claims without ever acknowledging that the question presented asks whether a statutory civil theft claim is \"an action based in tort\" as opposed to asking whether a statutory civil theft claim is a \"common-law tort.\"\n¶ 125. Second, the majority fails to explain why a statutory claim and a very similar, though distinct, common-law tort claim cannot both be considered actions based in tort. The great weight of Wisconsin authority confirms that statutory claims and very similar, though distinct, common-law tort claims may both be considered actions based in tort.\nf 126. Third, the relevance of the majority's pointing out that a civil tort claim, whether created by statute or common law, is separate and distinct from a criminal prosecution for the same conduct is not apparent. There are countless crimes the commission of which will likely constitute a tort against the victim, including, for example, battery and theft. Conduct that amounts to a crime is very likely to be considered \"conduct that amounts to a legal wrong and that causes harm for which courts will impose civil liability.\" 1 Dan Dobbs et al., The Law of Torts § 1 (2d ed. 2011).\nf 127. In sum, the majority opinion answers a question that was never asked in order to reach a conclusion that contradicts almost 30 years of case law. As a result, the majority is unpersuasive.\n¶ 128. In addition to asking this court to determine whether a statutory civil theft claim is an \"action based in tort\" pursuant to Wis. Stat. § 799.01(l)(cr), the instant case also asks us to determine whether Wis. Stat. § 895.446(3)(b), specifically, the language \"[a]ll costs of investigation and litigation that were reasonably incurred, including the value of the time spent by any employee or agent of the victim,\" includes an award for actual reasonable attorney fees to prevailing plaintiffs.\n¶ 129. I agree to a large extent with Justice Kelly's dissent concluding that Wis. Stat. § 895.446(3)(b) does not provide for an award of actual reasonable attorney fees.\n¶ 130. In invoking the private attorney general doctrine to support its conclusion that a plaintiff successful in proving a statutory civil theft claim is entitled to an award of attorney fees, the majority writes too broadly and misstates the private attorney general doctrine.\nf 131. In Wisconsin, a party will be awarded attorney fees, even in the absence of contractual or statutory authorization, if that party vindicates a right that: (1) benefits a large number of people; (2) requires private enforcement; and (3) is of societal importance. See Shands v. Castrovinci, 115 Wis. 2d 352, 340 N.W.2d 506 (1983); State ex rel. Hodge v. Town of Turtle Lake, 180 Wis. 2d 62, 508 N.W.2d 603 (1993); Watkins v. LIRC, 117 Wis. 2d 753, 345 N.W.2d 482 (1984); Richland Sch. Dist. v. DILHR, 166 Wis. 2d 262, 479 N.W.2d 579 (Ct. App. 1991); accord Maness v. Daily, 307 P.3d 894, 906 (Alaska 2013); Cave Creek Unified Sch. Dist. v. Ducey, 308 P.3d 1152, 1159 (Ariz. 2013); In re Conservatorship of Whitley, 241 P.3d 840, 846 (Cal. 2010); Honolulu Const. & Draying Co., Ltd. v. State, Dep't of Land & Natural Res., 310 P.3d 301, 303 (Haw. 2013); Bitterroot River Protective Ass'n v. Bitterroot Conservation Dist., 251 P.3d 131, ¶ 20 (Mont. 2011); Highlands at Jordanelle LLC v. Wasatch Cnty., 355 P.3d 1047, ¶ 35 (Utah 2015); Ann K. Wooster, Annotation, Private Attorney General Doctrine—State Cases, 106 A.L.R. 5th 523 (2003); Carl Cheng, Comment, Important Rights and the Private Attorney General Doctrine, 73 Cal. L. Rev. 1929, 1929 (1985).\n¶ 132. The seminal Wisconsin case regarding the private attorney general doctrine is Shands v. Castrovinci, 115 Wis. 2d 352, 340 N.W.2d 506 (1983). In Shands, the plaintiff, a residential tenant, commenced a small claims action against her former landlord to recover her security deposit of $145. Shands, 115 Wis. 2d at 354. The statute under which Shands sued allowed for the recovery of twice the amount of the actual pecuniary loss, together with costs, including a reasonable attorney fee. Wis. Stat. § 100.20(5) (1983-84). The circuit court found that the landlord improperly withheld her security deposit and awarded Shands $290 as damages. Shands, 115 Wis. 2d at 355. After an evidentiary hearing, the court awarded an additional $287.50 for attorney fees. Shands, 115 Wis. 2d at 355. Castrovinci appealed but was unsuccessful. Shands, 115 Wis. 2d at 356. The issue on appeal was whether Shands was entitled to an award of attorney fees incurred as a result of the appeal. Shands, 115 Wis. 2d at 357-58. The supreme court held that she was.\nf 133. The Shands court held that Shands was entitled to attorney fees incurred as a result of Castro-vinci's unsuccessful appeal, explaining that its decision was in accord with the purpose of the statute and public policy in general as follows:\nFirst, the recovery of double damages and attorney fees encourages injured tenants to bring legal actions to enforce their rights under the administrative regulations. Often the amount of pecuniary loss is small compared with the cost of litigation. Thus, it was necessary to make the recovery large enough to give tenants an incentive to bring suit. The award of attorney fees encourages attorneys to pursue tenants' claims where the anticipated monetary recovery would not justify the expense of legal action. While attorneys generally are willing to perform pro bono legal services in appropriate cases, we recognize that practical considerations limit the number of such suits.\nSecond, the tenant who sues under the statute acts as a \"private attorney general\" to enforce the tenants' rights set forth in the administrative regulations. Thus, the individual tenant not only enforces his or her individual rights, but the aggregate effect of individual suits enforces the public's rights.\nThird, tenant suits have the effect of deterring impermissible conduct by landlords because, if they violate the administrative regulations, they will be subject to double damages and will be responsible for costs, including attorney fees. The deterrent effect of the statute strengthens the bargaining power of tenants in dealing with landlords.\nFinally, in an amicus brief the Wisconsin Department of Justice noted that private tenant actions provide a necessary backup to the state's enforcement powers under sec. 100.20, Stats. The department pointed out that the sheer number of violations prevent it from proceeding against all violators. Private tenant actions thus constitute an enforcement mechanism reinforcing that of the justice department.\nShands, 115 Wis. 2d at 358-59.\nf 134. Wisconsin has also applied the private attorney general doctrine in cases involving the enforcement of rights under the Wisconsin Open Meetings Law, State ex rel. Hodge v. Town of Turtle Lake, 180 Wis. 2d 62, 508 N.W.2d 603 (1993), the Wisconsin Fair Employment Act, Watkins v. LIRC, 117 Wis. 2d 753, 345 N.W.2d 482 (1984), and the Wisconsin Family and Medical Leave Act, Richland Sch. Dist. v. DILHR, 166 Wis. 2d 262, 479 N.W.2d 579 (Ct. App. 1991).\n¶ 135. The instant case does not meet the elements of the private attorney general doctrine, and bears no resemblance to other Wisconsin cases in which the private attorney general doctrine has been applied.\n¶ 136. First, the lawsuit does not benefit the general public or a large class of persons. Though the instant case involved theft from an elderly individual, the theft statute and Wis. Stat. § 895.446 apply broadly to all individuals. The benefit conferred to the public in the lawsuit is that the law is enforced. To the extent one could fairly identify a benefit conferred upon the elderly as a class, the motivation for the lawsuit in the instant case was personal monetary recovery, not the advancement of the public's interest in protecting the elderly as such.\n¶ 137. Second, it does not appear that private enforcement is necessary to enforce the public's right to be free from theft. There is no evidence that prosecutors' offices across the state are overwhelmed such that private actions are needed to constitute an enforcement mechanism reinforcing the State criminal law punishing theft. See Shands, 115 Wis. 2d at 359.\n¶ 138. Relatedly, and contrary to the majority's conclusion, the Estate had a sufficient financial incentive to pursue litigation in the instant case. It sought $10,000 in actual damages and could have received an additional $30,000 in exemplary damages under the statute in addition to costs. Compare this potential $40,000 recovery with the $290 recovery in Shands and the lack of any monetary recovery at all to the successful plaintiff in Watkins.\nHH I—I H-i\n¶ 139. By relying entirely on unremarkable truisms and red herrings in the guise of reasoned analysis, the majority concludes that a civil theft claim under Wis. Stat. § 895.446 is not an \"action based in tort\" within the meaning of Wis. Stat. § 799.01(l)(cr). Thus, the majority contravenes almost 30 years of case law compelling a contrary conclusion.\n1 140. Additionally, the majority erroneously concludes that Wis. Stat. § 895.446(3)(b) affords successful plaintiffs an award for attorney fees when the statute's text, context, and structure all lead to a contrary conclusion. Compounding its errors, the majority purports to rely in part on the private attorney general doctrine for its conclusion that the Estate is entitled to attorney fees. In doing so, the majority falls to fully and correctly explain the doctrine's elements, leading to its misapplication of the doctrine. Consequently, I dissent.\nI agree with the majority that whether to award exemplary damages, and if so, in what amount, is a question to be decided by the finder of fact.\nThe majority opinion explains that causes of action created by Wis. Stat. § 895.446(1), including a civil theft claim, are referred to as \"civil actions.\" Majority op., ¶ 35; Wis. Stat. § 895.446(2), (3). It then concludes that \"the use of the term 'civil action' in Wis. Stat. § 895.446 to describe the cause therein provided indicates that the cause may also be properly characterized as a 'civil action' under Wis. Stat. § 799.01.\" Majority op., ¶ 35. This conclusion leads nowhere. It is a dead end. Every action listed in § 799.01 is a \"civil action,\" including all tort actions. Being a \"civil action\" is not a distinguishing characteristic that is helpful in determining the specific subsection of § 799.01 into which the claim of civil theft falls.\nSee, e.g., Fandrey ex rel. Connell v. Am. Family Mut. Ins. Co., 2004 WI 62, ¶¶ 9, 19, 272 Wis. 2d 46, 680 N.W.2d 345 (recognizing \"that § 174.02 [strict liability dog-bite statute] is a codified tort action\" and further explaining that \"the fact that liability in this case is predicated upon a statute rather than a common-law cause of action is not dispositive, as § 174.02 still sounds in tort; it is a codified cause of action for a civil wrong\"); Hanlon v. Town of Milton, 2000 WI 61, ¶ 16, 235 Wis. 2d 597, 612 N.W.2d 44 (describing claim under 42 U.S.C. § 1983 as a tort); Johnson v. ABC Ins. Co., 193 Wis. 2d 35, 45-46, 532 N.W.2d 130 (1995) (describing the \"purely [] statutory remedy\" of wrongful death action as \"an action in tort\"); Shopko Stores, Inc. v. Kujak, 147 Wis. 2d 589, 433 N.W.2d 618 (Ct. App. 1988) (referring to an \"underlying tort\" when examining a civil action under § 943.51 for retail theft).\nFor further background on the doctrine, see William B. Rubenstein, On What a \"Private Attorney General\" Is—and Why It Matters, 57 Vand. L. Rev. 2129, 2129-36, 2139-48 (2004); Carl Cheng, Comment, Important Rights and the Private Attorney General Doctrine, 73 Cal. L. Rev. 1929, 1929-41 (1985); The Supreme Court, 1974 Term, 89 Harv. L. Rev 47, 170-82 (1975).\nThe public always has a significant interest in seeing that the laws are enforced—it always derives some benefit when illegal private or public conduct is rectified. Something more than this general benefit must be shown to make sure that the private attorney general doctrine does not become the default rule.\nMajority op., ¶ 59.",
+        "type": "dissent",
+        "author": "SHIRLEY S. ABRAHAMSON, J."
+      }
+    ],
+    "attorneys": [
+      "For the plaintiff-respondent-petitioner, there were briefs filed by Scott A. Swid, Benjamin J. Krautkramer, and Swid Law Offices, LLC, Mosinee. There was an oral argument by Scott A. Swid.",
+      "For the defendant-appellant, there was a brief filed by Jennifer A. Slater-Carlson and Legal Advantage, LLC, Cedarburg. There was an oral argument by Jennifer A. Slater-Carlson."
+    ],
+    "corrections": "",
+    "head_matter": "Estate of Stanley G. Miller c/o Genevieve Miller, Personal Representative, Plaintiff-Respondent-Petitioner, v. Diane Storey, Defendant-Appellant.\nSupreme Court\nNo. 2014AP2420.\nOral Argument September 12, 2017.\nDecided November 30, 2017.\n2017 WI 99\n(Also reported in 903 N.W.2d 759.)\nFor the plaintiff-respondent-petitioner, there were briefs filed by Scott A. Swid, Benjamin J. Krautkramer, and Swid Law Offices, LLC, Mosinee. There was an oral argument by Scott A. Swid.\nFor the defendant-appellant, there was a brief filed by Jennifer A. Slater-Carlson and Legal Advantage, LLC, Cedarburg. There was an oral argument by Jennifer A. Slater-Carlson."
+  },
+  "file_name": "1773-01",
+  "first_page_order": 490,
+  "last_page_order": 558
+}

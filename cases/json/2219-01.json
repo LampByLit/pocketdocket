@@ -1,0 +1,207 @@
+{
+  "id": 4236633,
+  "name": "Emigrant Savings Bank-Long Island, Plaintiff, v. Michele Berkowitz et al., Defendants",
+  "name_abbreviation": "Emigrant Savings Bank-Long Island v. Berkowitz",
+  "decision_date": "2016-02-19",
+  "docket_number": "",
+  "first_page": "765",
+  "last_page": "769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 765"
+    },
+    {
+      "type": "parallel",
+      "cite": "25 N.Y.S.3d 862"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "77 AD3d 723",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5745980
+      ],
+      "pin_cites": [
+        {
+          "page": "724"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0723-01"
+      ]
+    },
+    {
+      "cite": "181 AD2d 709",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1077082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/181/0709-01"
+      ]
+    },
+    {
+      "cite": "228 AD2d 666",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        370958
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/228/0666-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 700",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4158971
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/0700-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 804",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4268227
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0804-01"
+      ]
+    },
+    {
+      "cite": "110 F Supp 3d 338",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4365283
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/110/0338-01"
+      ]
+    },
+    {
+      "cite": "115 F Supp 3d 900",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4363361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/115/0900-01"
+      ]
+    },
+    {
+      "cite": "2015 US Dist LEXIS 52642",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 1842811",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "611 Fed Appx 288",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "297-298"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 563,
+    "char_count": 8479,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14056881308524166
+    },
+    "sha256": "0cec08733497d7c71320511ece3ab0f45259310ca5f4e6906e77c98078095448",
+    "simhash": "1:8b639e5e9abfcce0",
+    "word_count": 1374
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emigrant Savings Bank-Long Island, Plaintiff, v Michele Berkowitz et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames Hudson, J.\nThe case at bar is an action to foreclose upon a note and mortgage. Plaintiff ultimately obtained a judgment of foreclosure and sale which was entered on October 6, 2015. The locus in quo was scheduled for sale on January 14, 2016. Defendant has made a motion for an order staying the sale and enforcement of the judgment on the basis of the notice of sale being served in violation of the dual tracking provisions of 12 CFR 1024.41 (g) (i.e., Regulation X). Specifically, defendant contends that the plaintiff (loan servicer) has failed to render a determination on defendant’s appeal on her application for loss mitigation and has not responded to her notice of appeal.\nThe resolution of the instant motion turns on the applicability of the aforementioned federal regulation. Effective January 10, 2014, the federal Consumer Financial Protection Bureau’s (CFPB) Regulation X was promulgated pursuant to the DoddFrank Act and the Real Estate Settlement Procedures Act of 1974. It delineated several procedures as conditions precedent to applying for a judgment of foreclosure. 12 CFR 1024.41 (c) states, inter alia, that\n“[i]f a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale, then, within 30 days of receiving a borrower’s complete loss mitigation application, a servicer shall [e]valuate the borrower for all loss mitigation options available to the borrower; and [p]rovide the borrower with a notice in writing stating the servicer’s determination.”\n12 CFR 1024.41 (g) further provides that “[i]f a borrower submits a complete loss mitigation application after a servicer has made the first notice or filing required by applicable law for any . . . foreclosure process but more than 37 days before a foreclosure sale, a servicer shall not . . . conduct a foreclosure sale.”\nIn the event that the loss mitigation application is denied by the holder of the loan, 12 CFR 1024.41 (h) (4) constrains a loan servicer from conducting a foreclosure sale where an appeal to an application for loss mitigation has been brought, unless the servicer has rendered a determination on the appeal and advised the borrower how long the borrower has to accept or reject any prior offer.\nThe uncontroverted documentary proof submitted by the movant and respondent demonstrate that the parties were proceeding pursuant to the requirements of Regulation X. Defendant had submitted a loss mitigation proposal which was considered and rejected by plaintiff loan servicer on August 12, 2015 (defendant’s exhibit C).\nDefendant’s exhibit C contains the following language:\n“RIGHT TO SEEK RECONSIDERATION OF THIS DECISION\n“You have the right to ask Emigrant to reconsider its decision to deny your loss mitigation request. Such requests are reviewed by Zhanna Kandel, First Vice President. If you disagree with this decision and wish to seek reconsideration, you MUST notify Emigrant of your request for reconsideration IN WRITING within 14 days after this notice. “Requests for reconsideration WILL NOT be taken by telephone. You may submit your request for reconsideration via e-mail to Ms. Kandel at LossMitigation@migrant.com or in the form of a letter mailed to Ms. Kandel at 6 E. 43rd Street, 10th Floor, New York, NY 10017. Your letter or email should set forth the reasons why you believe that the action taken by Emigrant was in error or mistaken.”\nDefendant, dissatisfied by the rejection of her loss mitigation plan, prepared an appeal (defendant’s exhibit D). Defense counsel contends that this was forwarded by email and ordinary mail. A review of exhibit D, however, indicates two facts which the court finds to be of great significance. Initially the email address used by defendant is incorrect. LossMitigtion@migrant.com is the address typed in the appeal. The actual email address of plaintiff is LossMitigation@migrant.com. A detailed inspection of the exhibit also reveals that the regular mail address of plaintiff’s agent is nowhere to be found on this document. This corroborates plaintiffs contention that it had not been notified of defendant’s appeal.\nAlthough the case at bar appears to be a case of first impression in New York, there are several federal decisions interpreting this recent creation of procedural rights for debtors facing threat of foreclosure. The court in Campbell v Nationstar Mtge. (611 Fed Appx 288, 297-298 [6th Cir, May 6, 2015]) held that 12 CFR 1024.41 could not be retroactively applied to a foreclosure sale that took place several months prior to January 10, 2014 (Regulation X’s effective date).\nThe question of retroactive application is not at issue in the case before us. Instead, the instant case appears to be more analogous to the fact patterns presented to the courts in the cases of White v Wells Fargo Bank, N.A. (2015 WL 1842811, 2015 US Dist LEXIS 52642 [ED Mich, Apr. 22, 2015, No. 2:14—cv—12506]); Cooper v Fay Servicing, LLC (115 F Supp 3d 900 [SD Ohio 2015]) and Dionne v Federal Natl. Mtge. Assn. (110 F Supp 3d 338 [D NH 2015]).\nIn the White and Cooper decisions the courts drew attention to a\n“non-binding consumer guide published by the Consumer Financial Protection Bureau, which states:\n“These new rules [Regulation X] became effective on January 10, 2014. Any borrower who files a complete loss mitigation application on or after January 10, 2014 and more than 37 days before a foreclosure sale is entitled to an evaluation of the complete loss mitigation application for all available loss mitigation options (so long as the conditions of 12 CFR. 1024.41 are met). The servicer must conduct this evaluation even if the borrower previously filed for, was granted, or was denied a loss mitigation plan before January 10, 2014.” (White, 2015 WL 1842811, *3, 2015 US Dist LEXIS 52642, *8 [emphasis omitted]; Cooper at 906, citing CFPB, Help for Struggling Borrowers: A Guide to the Mortgage Servicing Rules Effective on January 10, 2014 at 8 [Jan. 28, 2014].)\nThe court in Dionne focused on the actual notice that the lender had received and that the debtors “have alleged that they were assured on at least two occasions that their loan modification application was complete and under review” (110 F Supp 3d at 343).\nAlthough not specifically articulated, the Dionne court was clearly invoking the doctrine of promissory estoppel when it noted that the debtors had “opted not to take legal action because they reasonably relied on Chase’s promises that the foreclosure sale would not go forward” (id. at 343).\nIn the case at bar we find that Regulation X, conferring rights in derogation of the common law of contract and real property, requires strict compliance with its notification mandate in order for a party to claim protection under its rule (see Old Republic Natl. Tit. Ins. Co. v Conlin, 129 AD3d 804, 805 [2d Dept 2015]; Hometown Bank of Hudson Val. v Belardinelli, 127 AD3d 700 [2d Dept 2015]; Valley Sav. Bank v Rose, 228 AD2d 666 [2d Dept 1996]; Dollar Dry Dock Bank v Piping Rock Bldrs., 181 AD2d 709 [2d Dept 1992]; McKinney’s Cons Laws of NY, Book 1, Statutes § 301). The undisputed documentary proof establishes that defendant has failed to properly serve her notice of appeal.\nThe sole grounds to overlook this requirement would be for the court to apply estoppel for the same reasons as the Dionne court. Unfortunately for defendant herein, the actions of plaintiff in continuing negotiations for a possible mitigation do not satisfy the requirements of this equitable doctrine. Although it appears that negotiations continued despite the failure of Ms. Berkowitz to properly notify plaintiff of her appeal, there is no indication that plaintiff made an unambiguous promise that it intended to refrain from enforcing its rights to proceed to foreclosure (Schwartz v Miltz, 77 AD3d 723, 724 [2d Dept 2010]).\nUnder the circumstances presented, defendant has failed to show either compliance with the notification requirement of Regulation X or any equitable basis to excuse such noncompliance. Accordingly, the motion must be denied.",
+        "type": "majority",
+        "author": "James Hudson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Schwartz Law Group, Bethpage (Kenneth B. Schwartz of counsel), for Michele Berkowitz, defendant.",
+      "Stagg, Terenzi, Confusione & Wabnik, LLP, Garden City {Jacqueline M. Della Chiesa of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[25 NYS3d 862]\nEmigrant Savings Bank-Long Island, Plaintiff, v Michele Berkowitz et al., Defendants.\nSupreme Court, Suffolk County,\nFebruary 19, 2016\nAPPEARANCES OF COUNSEL\nSchwartz Law Group, Bethpage (Kenneth B. Schwartz of counsel), for Michele Berkowitz, defendant.\nStagg, Terenzi, Confusione & Wabnik, LLP, Garden City {Jacqueline M. Della Chiesa of counsel), for plaintiff."
+  },
+  "file_name": "2219-01",
+  "first_page_order": 777,
+  "last_page_order": 781
+}

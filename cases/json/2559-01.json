@@ -1,0 +1,618 @@
+{
+  "id": 12434320,
+  "name": "In the Matter of State of New York, Petitioner, v. Henry T., Respondent",
+  "name_abbreviation": "State v. Henry T.",
+  "decision_date": "2016-11-18",
+  "docket_number": "",
+  "first_page": "609",
+  "last_page": "621",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 609"
+    },
+    {
+      "type": "parallel",
+      "cite": "42 N.Y.S.3d 744"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "61 AD3d 567",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3934256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/0567-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 206",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3753733
+      ],
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0206-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 763",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75873
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0763-01"
+      ]
+    },
+    {
+      "cite": "118 AD2d 523",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3472297,
+        3474763,
+        3468367
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/118/0523-02",
+        "/ad2d/118/0523-03",
+        "/ad2d/118/0523-01"
+      ]
+    },
+    {
+      "cite": "127 Misc 2d 717",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        837612
+      ],
+      "pin_cites": [
+        {
+          "page": "724"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/127/0717-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 269",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2554148
+      ],
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0269-01"
+      ]
+    },
+    {
+      "cite": "89 AD3d 88",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4030821
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "92"
+        },
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/89/0088-01"
+      ]
+    },
+    {
+      "cite": "75 AD3d 14",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3985960
+      ],
+      "pin_cites": [
+        {
+          "page": "20-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/75/0014-01"
+      ]
+    },
+    {
+      "cite": "77 AD3d 92",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5751674
+      ],
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0092-01"
+      ]
+    },
+    {
+      "cite": "88 AD3d 212",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026477
+      ],
+      "pin_cites": [
+        {
+          "page": "219-220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/88/0212-01"
+      ]
+    },
+    {
+      "cite": "89 AD3d 441",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4048019
+      ],
+      "pin_cites": [
+        {
+          "page": "441-442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/89/0441-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 158",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4053149
+      ],
+      "pin_cites": [
+        {
+          "page": "169-170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/0158-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3747037
+      ],
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0200-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4293940
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0095-01"
+      ]
+    },
+    {
+      "cite": "56 NY2d 394",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4383474
+      ],
+      "pin_cites": [
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/56/0394-01"
+      ]
+    },
+    {
+      "cite": "8 NY2d 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2256290
+      ],
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/8/0157-01"
+      ]
+    },
+    {
+      "cite": "94 AD2d 667",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3335868,
+        3326316
+      ],
+      "pin_cites": [
+        {
+          "page": "668"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/94/0667-02",
+        "/ad2d/94/0667-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 95",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5764552
+      ],
+      "pin_cites": [
+        {
+          "page": "105-106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/0095-01"
+      ]
+    },
+    {
+      "cite": "121 AD3d 1256",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4291002
+      ],
+      "pin_cites": [
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/121/1256-01"
+      ]
+    },
+    {
+      "cite": "73 AD3d 162",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3971833
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "169"
+        },
+        {
+          "page": "169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/73/0162-01"
+      ]
+    },
+    {
+      "cite": "140 AD3d 829",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5774002
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "829"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/140/0829-01"
+      ]
+    },
+    {
+      "cite": "51 NY2d 242",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4378368
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "250-251"
+        },
+        {
+          "page": "251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/51/0242-01"
+      ]
+    },
+    {
+      "cite": "56 NY2d 222",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4384146
+      ],
+      "pin_cites": [
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/56/0222-01"
+      ]
+    },
+    {
+      "cite": "24 AD2d 181",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3166934
+      ],
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/24/0181-01"
+      ]
+    },
+    {
+      "cite": "45 NY 468",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2049854
+      ],
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/45/0468-01"
+      ]
+    },
+    {
+      "cite": "81 AD2d 403",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3248263
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/81/0403-01"
+      ]
+    },
+    {
+      "cite": "1 NY3d 362",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        1249318
+      ],
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/1/0362-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 148",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431428
+      ],
+      "pin_cites": [
+        {
+          "page": "155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0148-01"
+      ]
+    },
+    {
+      "cite": "72 NY 217",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532812
+      ],
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/72/0217-01"
+      ]
+    },
+    {
+      "cite": "19 NY2d 159",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2278090
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "166"
+        },
+        {
+          "page": "166"
+        },
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/19/0159-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2559919
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0607-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 485",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0485-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1039,
+    "char_count": 27127,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2562884940396139
+    },
+    "sha256": "185d169044ca859c416e7c0c6527ccaf1cd8618313794c790031aec7977fce6b",
+    "simhash": "1:a867c9466a21de5a",
+    "word_count": 4498
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of State of New York, Petitioner, v Henry T., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDaniel J. Doyle, J.\nOn or about May 8, 1992, Henry T. was sentenced for his convictions of rape in the first degree and rape in the third degree to an indeterminate sentence of 7 to 21 years’ imprisonment. He had been held in custody at the Wende Correctional Facility and was scheduled to be released from custody on November 9, 2012. His convictions for rape first and rape third qualified respondent as a sex offender for which civil management could be ordered (Mental Hygiene Law § 10.03 [g], [p]). He was referred for evaluation for civil management under the Sex Offender Management and Treatment Act (SOMTA) (see Mental Hygiene Law § 10.05) and respondent received notice of that referral on October 9, 2012.\nThe case review team sought a psychiatric examination of respondent and assigned Jack Nocera, Ph.D., to examine respondent and prepare a report. On October 22, 2012, Dr. Nocera produced a report that concluded that\n“this psychiatric examiner came to the opinion, to a reasonable degree of professional certainty, that . . . [respondent] . . . does not suffer from a congenital or acquired condition, disease or disorder that affects his emotional, cognitive, or volitional capacity in a manner that predisposes him to the commission of conduct constituting a sexual offense and results in his having serious difficulty controlling such conduct” (Oct. 22, 2012 report of Dr. Jack Nocera).\nOn October 25, 2012, the case review team issued a finding that respondent “is not a sex offender requiring civil management as defined by SOMTA” and transmitted that determination via email to the Office of Mental Health (OMH) and to the Office of the Attorney General that same day. Respondent was notified of the case review team’s determination by written notice, which was delivered on November 1, 2012.\nOn October 26, 2012, a day after the case review team issued its determination, Senior Parole Officer James Carswell sent an email expressing his “dissenting opinion” regarding the case review team’s determination. The lengthy email referred to Dr. Nocera’s report and conveyed Mr. Carswell’s negative opinion of respondent’s outlook should he be released from custody. This “dissenting opinion” was forwarded to OMH on October 29, 2012. On November 2, 2012, Dr. Nocera issued a new report, changing his opinion and now indicating that the respondent did have a mental abnormality that required civil management. Also on November 2, 2012, the case review team rendered a new determination that respondent was a “sex offender requiring civil management as defined by SOMTA”; notice of the November 2, 2012 determination was delivered to respondent on November 6, 2012.\nThe State commenced this article 10 petition on November 8, 2012. During the course of this case, respondent has provided minimal assistance to his appointed attorneys and had repeatedly behaved erratically in court necessitating his attorneys to take the extraordinary step of moving for the appointment of a guardian ad litem. The court granted that request by appointing attorney Gary Muldoon as guardian ad litem on February 23, 2016. On numerous occasions personally observed by the court, respondent has exhibited behaviors (both in court and by letters written by respondent addressed to the court and others) that caused the court to be concerned that the respondent may have a mental illness which is likely to result in serious harm to himself or others. The court issued an order on April 26, 2016 directing that respondent be evaluated by OMH to determine respondent’s “current mental status and determine if he has a mental illness necessitating admission to a psychiatric hospital for observation, care and treatment.” In a letter dated June 10, 2016, OMH declined to do so on the grounds that Mental Hygiene Law articles 9 and 10 are not coextensive and as respondent was being held on a pending article 10 petition, OMH would not do an evaluation pursuant to article 9. Thereafter, on June 29, 2016, the State commenced an application in Supreme Court, St. Lawrence County for a Rivers hearing (Rivers v Katz, 67 NY2d 485 [1986]; Mental Hygiene Law § 33.01).\nBefore the court presently are two motions: (1) respondent’s motion to dismiss dated January 4, 2016; and (2) respondent’s motion to compel an evaluation and report. The State opposed the motion to dismiss in an affirmation dated January 11, 2016. The State opposed the motion to compel an evaluation and report in an affirmation dated July 19, 2016.\nA. The Motion to Dismiss\nThe respondent moved to dismiss under CPLR 3211 (a) (2) arguing that the court lacks jurisdiction over the petition and CPLR 3211 (a) (3), arguing that the State lacks the capacity to sue. Both arguments stem from the same source, namely that: (1) under Mental Hygiene Law § 10.05, the case review team lacked the authority to issue its new determination of November 2, 2012 after it had previously issued a determination of October 25, 2012; and (2) because the case review team lacked the authority to issue its new determination, the State lacked the authority to commence the petition. Petitioner also argues that the “dissenting opinion” email written by Carswell after the case review team rendered its decision on October 25, 2012 amounted to improper pressure.\nThe State argues that article 10 does not prohibit the submission of multiple reports; thus Dr. Nocera was free to provide an amended report and the case review team was free to consider it before issuing its final determination. The State also argues that the Carswell email did not amount to pressure. The State did not address the argument that the case review team lacked the authority to issue multiple determinations.\n1. The Statutory Scheme\nThe legislature enacted SOMTA, which included article 10 in 2007, as a response to the Court of Appeals decision in State of N.Y. ex rel. Harkavy v Consilvio (7 NY3d 607 [2006]). Article 10 sets out procedures for determining whether a “detained sex offender” is a “sex offender requiring civil management”—a term defined as “a detained sex offender who suffers from a mental abnormality” (Mental Hygiene Law § 10.03 [q]). A subcategory of “sex offender requiring civil management” is a “dangerous sex offender requiring confinement”—i.e., one whose mental abnormality involves “such a strong predisposition to commit sex offenses, and such an inability to control behavior, that the person is likely to be a danger to others and to commit sex offenses if not confined to a secure treatment facility” (Mental Hygiene Law § 10.03 [e]; see Mental Hygiene Law §§ 10.05-10.08, 10.03 [q]).\nWhen a detained sex offender is nearing release, the referring agency must notify OMH and the Office of the Attorney General of the offender’s release and provide certain pertinent information (Mental Hygiene Law § 10.05 [b], [c]). Thereafter, a multidisciplinary staff appointed by the Commissioner of Mental Health will conduct a preliminary review and\n“assess relevant medical, clinical, criminal, and institutional records, actuarial risk assessment instruments and other records and reports, including records of parole release interviews where applicable, and records and reports provided by the district attorney of the county where the person was convicted, or in the case of persons determined to be incapacitated or not responsible by reason of mental disease or defect, the county where the person was charged” (Mental Hygiene Law § 10.05 [d]).\nIf it is determined after this preliminary review that the respondent should be referred to a case review team to determine whether civil management is appropriate, a notice of referral is sent to the respondent (Mental Hygiene Law § 10.05 [e]).\nA case review team consists of three members of a case review panel, which is to have at least 15 members, and at least two members of each case review team “shall be professionals in the field of mental health or the field of developmental disabilities, as appropriate, with experience in the treatment, diagnosis, risk assessment or management of sex offenders” (Mental Hygiene Law § 10.05 [a]). In making its determination, a case review team can arrange for a psychiatric examination (Mental Hygiene Law § 10.05 [e]). The statute envisions that this should be an objective process, specifically stating that “[m] embers of the case review panel and psychiatric examiners should be free to exercise independent professional judgment without pressure or retaliation for the exercise of that judgment from any source” (Mental Hygiene Law § 10.05 [a]).\nThere are two outcomes to the review conducted by a case review team: (1) the case review team can determine that the respondent does not require civil management; or (2) the case review team can determine that the respondent does require civil management (Mental Hygiene Law § 10.05 [f], [g]). The case review team is required to notify the Attorney General and the respondent of either outcome (Mental Hygiene Law § 10.05 tfl, [g]).\nA finding that a respondent requires civil management vests the Attorney General with the discretion (but not an absolute mandate) on whether to proceed with an article 10 petition:\n“If the case review team finds that a respondent is a sex offender requiring civil management, then the attorney general may file a sex offender civil management petition in the supreme court or county court of the county where the respondent is located. In determining whether to file such a petition, the attorney general shall consider information about any continuing supervision to which the respondent will be subject as a result of criminal conviction, and shall take such supervision into account when assessing the need for further management as provided by this article. If the attorney general elects to file a sex offender civil management petition, he or she shall serve a copy of the petition upon the respondent” (Mental Hygiene Law § 10.06 [a]).\nOn the other hand, if a case review team determines a respondent does not require civil management, “it shall so notify the respondent and the attorney general, and the attorney general shall not file a sex offender civil management petition” (Mental Hygiene Law § 10.05 [i]).\n2. The court has jurisdiction over the petition.\nRespondent argues that because the case review team issued a determination that respondent did not require civil management (Mental Hygiene Law § 10.05 [f]), the court lacked jurisdiction over the petition or, in the alternative, that the State lacked the capacity to sue, and either ground mandated dismissal (CPLR 3211 [a] [2]-[3]).\nSubject matter jurisdiction is defined as the “power to adjudge concerning the general question [s] involved, and is not dependent upon the state of facts which may appear in a particular case” (Thrasher v United States Liab. Ins. Co., 19 NY2d 159, 166 [1967], quoting Hunt v Hunt, 72 NY 217, 229 [1878]). The supreme court is a court of general jurisdiction, and it is competent to entertain all causes of actions unless its jurisdiction has been specifically proscribed (NY Const art VI).\nAs a general proposition, supreme court has the jurisdiction to hear an article 10 petition and in general, jurisdiction for an article 10 petition will lie either with supreme court or county court (Mental Hygiene Law § 10.06 [a]). In short, subject matter goes to the court’s ability to hear a matter and not to its ability to render a judgment on the merits (Thrasher v United States Liab. Ins. Co., 19 NY2d at 166). It is this distinction that raises some confusion between a motion to dismiss for lack of jurisdiction under CPLR 3211 (a) (2) and a motion to dismiss for failure to state a cause of action under CPLR 3211 (a) (7) (see Thrasher v United States Liab. Ins. Co., 19 NY2d at 166). Because respondent’s argument regarding jurisdiction goes to “the state of facts which may appear” in this particular case, the motion to dismiss pursuant to CPLR 3211 (a) (2) is denied.\n3. The Attorney General has the capacity to maintain the article 10 petition.\nCPLR 3211 (a) (3) permits dismissal of an action where the party commencing the action lacks the legal capacity to sue. “Capacity” can be an elusive concept for courts to define, as the Court of Appeals has observed:\n“Capacity, in contrast, concerns a litigant’s power to appear and bring its grievance before the court. The concept of a lack of capacity, which has also occasionally been intermingled with the analytically distinct concept of a failure to state a cause of action, does not admit of precise or comprehensive definition” (Community Bd. 7 of Borough of Manhattan v Schaffer, 84 NY2d 148, 155 [1994] [internal quotation marks omitted]).\nRespondent argues that the State lacks the capacity to maintain the article 10 petition because the case review team issued a determination that respondent did not require civil management.\nIn the area of civil commitment, it is beyond dispute that the State “has authority under its police power to protect the community from the dangerous tendencies of some who are mentally ill,” and that it “may rely on its parens patriae power to provide care to its citizens who are unable to care for themselves because of mental illness” (Matter of K.L., 1 NY3d 362, 370 [2004] [emphasis added]). Concomitantly, the State “has inherent power to sue as parens patriae on behalf of its citizens to prevent harm to its sovereign interests, such as the health, comfort and welfare of its people” (Finger Lakes Health Sys. Agency v St. Joseph’s Hosp., 81 AD2d 403, 407 [3d Dept 1981]).\nThe exercise by the Attorney General of commencing an article 10 petition is an exercise of the State’s inherent power to sue as parens patriae. Assuming arguendo, that the case review team’s October 25, 2012 determination that the respondent did not require civil management negated the Attorney General’s parens patriae capacity to sue, the subsequent determination gave the Attorney General the necessary capacity to sue and such suit was commenced after receiving the requisite determination. Therefore, respondent’s motion to dismiss pursuant to CPLR 3211 (a) (3), based upon the State’s lack of capacity to sue is denied.\n4. Though a valid determination by a case review team (Mental Hygiene Law § 10.05 [g]) is a condition precedent for the commencement of an article 10 petition, dismissal is not required under CPLR 3211 (a) (7) as the State complied with the condition precedent.\nA common feature to the grounds raised by respondent in support of dismissal (lack of jurisdiction and lack of capacity) is their common confusion with CPLR 3211 (a) (7), failure to state a cause of action. Respondent did not specifically state CPLR 3211 (a) (7) as a ground for dismissal, but did, in his notice of motion request “such other and further relief as this court deems just and proper.” It is well established that this general request may serve as a basis for granting relief not specifically requested in the notice of motion, where the relief “is warranted by the facts plainly appearing in the papers on both sides” (Thompson v Erie Ry. Co., 45 NY 468, 476 [1871]; see also Matter of Mandis v Gorski, 24 AD2d 181, 185 [4th Dept 1965]). In this case, the determinative fact that the case review team issued a determination that respondent did not require civil management is not in dispute, and, indeed, was affirmatively alleged in the petition. As respondent sought dismissal because of this fact (though not necessarily on the correct grounds), the court may consider whether to dismiss for failure to state a cause of action under CPLR 3211 (a) (7).\na. A determination by a case review team (Mental Hygiene Law § 10.05 [g]) is a condition precedent.\nA “condition precedent” is a condition that must be satisfied by a litigant prior to bringing an action, and is generally (though not exclusively) statutory in origin (Copeland v Salomon, 56 NY2d 222, 227 [1982]). When a condition precedent either conditions or limits the right to initiate an action, it “is an essential element of the claim” (Carrick v Central Gen. Hosp., 51 NY2d 242, 250-251 [1980]). A statutory condition precedent requires the litigant commencing the action to both plead and, if challenged, prove compliance with the condition precedent (see Flagstar Bank, FSB v Jambelli, 140 AD3d 829, 829 [2d Dept 2016]; First Natl. Bank of Chicago v Silver, 73 AD3d 162, 169 [2d Dept 2010]). The court is required to strictly construe a statutory condition precedent as well as the litigant’s compliance with the condition precedent (see e.g. TD Bank, N.A. v Leroy, 121 AD3d 1256, 1260 [3d Dept 2014] [RPAPL 1306 condition precedent]; Aurora Loan Servs., LLC v Weisblum, 85 AD3d 95, 105-106 [2d Dept 2011] [RPAPL 1304 condition precedent]; Fosco Fabricators v State of New York, 94 AD2d 667, 668 [1st Dept 1983] [State Finance Law § 145 condition precedent]).\nA review of article 10 reveals that the Attorney General may (and not must) file an article 10 petition only when a case review team “finds that a respondent is a sex offender requiring civil management” (Mental Hygiene Law § 10.06 [a]; see Mental Hygiene Law § 10.05 [f], [g]). The Attorney General “shall not file a sex offender civil management petition” when the case review team determines that a respondent does not require civil management (Mental Hygiene Law § 10.05 [f]). Mental Hygiene Law § 10.06 (a) is silent on whether the Attorney General may file an article 10 petition in the event a case review team fails to make a determination either for or against civil management, and Mental Hygiene Law § 10.05 (f) uses the words “shall not” when the case review team finds that a respondent does not require civil management, leading the court to the inevitable conclusion that a case review team’s finding that a respondent “is a sex offender requiring civil management” is a condition precedent to the filing of an article 10 petition (see First Natl. Bank of Chicago v Silver, 73 AD3d at 169).\nDismissal is required where a litigant fails to comply with a statutory condition precedent because that failure negates an essential element of the claim (see Carrick v Central Gen. Hosp., 51 NY2d at 251).\nHowever, dismissal is not required here because while the parties may dispute the legal effect of the new determination made by the case review team on November 2, 2012, there is no dispute that: (1) such a determination was made; (2) such a determination was given to the Attorney General; and (3) the Attorney General did not commence this article 10 petition until after receiving the determination that the respondent was a “sex offender requiring civil management.” Because the Attorney General did not commence this article 10 petition until after receiving the November 2, 2012 determination, and because the petition pleaded compliance with the necessary condition precedent, the Attorney General has stated a cause of action.\nb. Article 10 does not prohibit a case review team from revisiting a prior determination and issuing a new determination.\nRespondent argues that the statute does not explicitly authorize a case review team to issue a subsequent determination after it has previously transmitted a prior determination to the Attorney General. The respondent argues that because the statute does not explicitly authorize a case review team to issue a subsequent determination, it is prohibited to do so under a strict construction of article 10 (McKinney’s Cons Laws of NY, Book 1, Statutes § 314; Matter of Baker, 29 How Prac 485 [Sup Ct, NY County 1865]).\nIn taking this argument to its logical conclusion, a strict reading of Mental Hygiene Law § 10.05 reveals no provision by which the case review team can recall, annul, or supersede a previously issued determination and, thus, a court would be prohibited from adding such a provision because “[c]ourts are not supposed to legislate under the guise of interpretation” (Bright Homes v Wright, 8 NY2d 157, 162 [1960]; see McKinney’s Cons Laws of NY, Book 1, Statutes § 73). The failure of the legislature to include a mechanism in article 10 allowing for a case review team to recall, annul, or supersede a determination “is an indication that its exclusion was intended” (Pajak v Pajak, 56 NY2d 394, 397 [1982]; McKinney’s Cons Laws of NY, Book 1, Statutes § 74).\nWhile it is true that a strict construction is required when a statute is penal in nature, the Court of Appeals has held that article 10 “is not a penal statute, but rather one with a remedial purpose” (Matter of State of New York v Floyd Y., 22 NY3d 95, 104 [2013], citing People v Harnett, 16 NY3d 200, 206 [2011] [which classified SOMTA and Sex Offender Registration Act (SORA) as remedial statutes]; Matter of State of New York v Enrique T., 93 AD3d 158, 169-170 [1st Dept 2012]; Matter of State of New York v Nelson, 89 AD3d 441, 441-442 [1st Dept 2011]; Matter of State of New York v Daniel OO., 88 AD3d 212, 219-220 [3d Dept 2011]; Matter of State of New York v Company, 77 AD3d 92, 98 [4th Dept 2010]; Matter of State of New York v Farnsworth, 75 AD3d 14, 20-24 [4th Dept 2010]). The interpretation of a remedial statute requires that it “must be liberally construed to effect or carry out the reforms intended and to promote justice” (Matter of Dewine v State of N.Y. Bd. of Examiners of Sex Offenders, 89 AD3d 88, 92 [4th Dept 2011] [internal quotations marks omitted], quoting McKinney’s Cons Laws of NY, Book 1, Statutes § 321). A liberal construction of a statute “is one [that] is in the interest of those whose rights are to be protected, and if a case is within the beneficial intention of a remedial act it is deemed within the statute, though actually it is not within the letter of the law” (Matter of Dewine v State of N.Y. Bd. of Examiners of Sex Offenders, 89 AD3d at 92 [providing a liberal interpretation of the SORA statute]).\nThe Court of Appeals advises that “[w]hen presented with an issue of statutory interpretation, the court’s primary consideration is to ascertain and give effect to the intention of the Legislature” (Long v State of New York, 7 NY3d 269, 273 [2006] [internal quotation marks omitted]). The legislative concern of article 10 is with some recidivistic sex offenders who “have mental abnormalities that predispose them to engage in repeated sex offenses” (Mental Hygiene Law § 10.01 [b]), and that those offenders ought to be placed under civil management when they have “such a strong predisposition to commit sex offenses, and such an inability to control behavior, that the person is likely to be a danger to others and to commit sex offenses if not confined to a secure treatment facility” (Mental Hygiene Law § 10.03 [e]). The intent of the legislature was to identify such recidivistic sex offenders and to provide a mechanism by which they are confined to a secure facility if it is determined after both a probable cause hearing and, later, a jury trial that the offender has a mental abnormality that predisposes him or her to engage in repeat sex offenses.\nBecause the court’s primary consideration on issues of statutory construction is to ascertain and effectuate the intent of the legislature, the court should construe statutes “to avoid objectionable, unreasonable or absurd consequences” (7 NY3d at 273). Though it is true that there is no explicit provision authorizing a case review team from issuing a subsequent determination, it is equally true that there is no explicit provision that prohibits the case review team from doing so. As there is neither authorization nor prohibition on the case review team issuing a subsequent determination, Mental Hygiene Law § 10.05 (g) is ambiguous on whether or not a subsequent determination can be made. It is a fundamental rule of statutory construction that “of two constructions which might be placed upon an ambiguous statute one which would cause [objectionable] consequences is to be avoided” (People v Ortega, 127 Misc 2d 717, 724 [Sup Ct, Bronx County 1985], affd 118 AD2d 523 [1st Dept 1986], affd 69 NY2d 763 [1987]; McKinney’s Cons Laws of NY, Book 1, Statutes § 141). To construe Mental Hygiene Law § 10.05 (g) as working a prohibition against a case review team from correcting a determination, even if it was clearly erroneous would lead to an objectionable result and thwart the intent of the legislature.\nB. The Motion to Compel an Evaluation\nThe court issued an order on April 26, 2016 directing that OMH perform an evaluation “and determine if he has a mental illness necessitating admission to a psychiatric hospital for observation, care and treatment.” OMH did not produce the evaluation requested by the court on the grounds that there was no need to evaluate the respondent on article 9 grounds since he was already being held on article 10. Respondent brought a motion to compel that report. Though the court was concerned (and remains concerned) regarding the respondent’s mental illness, the court cannot force OMH to begin what would essentially be an article 9 process when the respondent is already held under article 10 (see Matter of State of New York v Myron P., 20 NY3d 206, 210 [2012]).\nOrder\nBased upon the foregoing, it is hereby ordered that the motion to dismiss the petition is hereby denied; and it is further ordered that the motion to compel an evaluation is hereby denied.\n. The new determination makes no reference to the prior determination, dated October 25, 2012, the email transmitting the new determination makes no reference to the prior determination and the notice provided to respondent makes no reference to the prior determination. The new determination also does not indicate whether the revised report of Dr. Nocera was considered in rendering the determination.\n. Regardless of whether the Attorney General complied with a condition precedent regarding the case review team’s determination, the issue of whether the respondent is a sex offender requiring civil management has been addressed by the court after a probable cause hearing, in which the court received evidence and rendered a determination that there was probable cause to believe that the respondent required civil management. Such a determination may render a condition precedent argument untimely (see e.g. Flagstar Bank, FSB v Jambelli, 140 AD3d 829 [2016]).\n. Relating to videotaping Mental Hygiene Law § 10.06 examinations, the Court in Matter of State of New York v Bernard D. (61 AD3d 567 [1st Dept 2009]) held under what amounted to a strict construction of the statute that the State had no right to videotape an examination as article 10 provided no express provision for videotaping.",
+        "type": "majority",
+        "author": "Daniel J. Doyle, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Mental Hygiene Legal Service (Janine Relia and Karen Bailey Turner of counsel) for respondent.",
+      "Eric T. Schneiderman, Attorney General (Joseph Muia, Jr. and Thomas Schoellkopf of counsel), for petitioner.",
+      "Gary Muldoon, guardian ad litem."
+    ],
+    "corrections": "",
+    "head_matter": "[42 NYS3d 744]\nIn the Matter of State of New York, Petitioner, v Henry T., Respondent.\nSupreme Court, Monroe County,\nNovember 18, 2016\nAPPEARANCES OF COUNSEL\nMental Hygiene Legal Service (Janine Relia and Karen Bailey Turner of counsel) for respondent.\nEric T. Schneiderman, Attorney General (Joseph Muia, Jr. and Thomas Schoellkopf of counsel), for petitioner.\nGary Muldoon, guardian ad litem."
+  },
+  "file_name": "2559-01",
+  "first_page_order": 597,
+  "last_page_order": 609
+}

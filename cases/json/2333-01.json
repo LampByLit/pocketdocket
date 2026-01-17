@@ -1,0 +1,135 @@
+{
+  "id": 6789010,
+  "name": "The People of the State of New York, Plaintiff, v. Jovan Frederick, Defendant",
+  "name_abbreviation": "People v. Frederick",
+  "decision_date": "2016-06-22",
+  "docket_number": "",
+  "first_page": "648",
+  "last_page": "652",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "33 N.Y.S.3d 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "93 NY2d 73",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188644
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0073-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 183",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326322
+      ],
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0183-01"
+      ]
+    },
+    {
+      "cite": "720 F3d 436",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4058617
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/720/0436-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 63776",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 2609521",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 438,
+    "char_count": 7038,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18250523486118303
+    },
+    "sha256": "61c617c3951a3a10da2d98f1904fb99eb3c23f024e6e1e82a4634fc4c5496453",
+    "simhash": "1:62c49b0f8263b4a5",
+    "word_count": 1117
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jovan Frederick, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMatthew J. D’Emic, J.\nDefendant moves to controvert the search warrant issued for a cell phone and the SIM card contained inside, and to suppress any evidence seized pursuant to that search.\nDefendant was arrested following his alleged commission of three separate crimes. The People allege that on February 11, 2015, defendant approached the complainant, forcibly stole money and then shot at the complainant. Police responded to the scene and recovered a discharged 9 millimeter shell casing. The People also allege that on February 13, 2015, defendant approached a second complainant and demanded money, thereafter shooting the complainant multiple times. Police recovered several 9 millimeter shell casings and a deformed bullet from the location. Finally, the People allege that on February 15, 2015, a third complainant, a bouncer at a bar, denied defendant and his female companion entry to the bar. Defendant returned to the bar a short time later where he fired multiple gunshots. Police officers nearby heard the shots fired and observed defendant run into his home on Midwood Street, approximately one block from the bar.\nShortly thereafter, officers observed defendant exit his home while pantomiming as if he were talking on a black Samsung Galaxy 3 cell phone. Defendant was placed under arrest and the Samsung Galaxy 3 phone, with the SIM card inside, was recovered. After defendant’s arrest detectives received consent to search defendant’s home, where they recovered a loaded 9 millimeter semiautomatic firearm. Microscopic testing revealed that the firearm found in defendant’s home was the same weapon used to fire the shell casings recovered from the February 11 and February 13, 2015 crime scenes. Inside defendant’s bedroom, detectives also recovered 41 glassines of heroin, 9 millimeter ammunition and .40 caliber ammunition.\nDefendant is now charged with multiple counts of attempted murder in the second degree, robbery in the first degree, criminal possession of a weapon in the second degree, and other various related charges.\nOn May 13, 2015, Detective Michael Rakebrandt submitted an affidavit in support of a search warrant, seeking authorization to search electronic data on the cell phone and SIM card recovered from defendant. Justice Murphy found that probable cause existed to search the property and signed the search warrant.\nThe warrant authorized a search of the Samsung Galaxy 3 cell phone and the SIM card, including: “text messages, phone numbers, voice messages, call records, call history, stored telephone numbers, outgoing and incoming calls, contact information, addresses, pages and any other electronic information, photo images, video images or data otherwise contained within the cellphone and sim card.”\nOn or about August 12, 2015, the People provided defense counsel with a copy of the data retrieved pursuant to the warrant.\nOn May 25, 2016, defendant filed the instant motion to controvert the search warrant, claiming that probable cause did not exist to search the cell phone and SIM card. He further maintains that the search authorized here was overbroad and not sufficiently particularized.\nAs a preliminary matter, defendant’s motion is untimely. While all pretrial motions must be filed within 45 days of arraignment, the court must nevertheless entertain and decide, on its merits, any appropriate pretrial motion that the defendant “could not, with due diligence, have been previously aware, or which, for other good cause, could not reasonably have been raised within the period specified” (CPL 255.20 [1], [3]). Defendant received the information retrieved pursuant to the search warrant more than 45 days after his arraignment. However, he has failed to provide good cause for his delay of over nine months in bringing the instant motion from the time that he received the relevant data. Having received all the necessary materials to allow for a timely motion to controvert the search warrant on August 12, 2015, defense counsel waited until May 25, 2016 to file the instant motion, yet he fails to offer good cause for such a lengthy delay.\nIn any event, probable cause existed to support the issuance of the search warrant. Detective Rakebrandt appeared before Justice Murphy to offer his affidavit in support of the warrant application. Rakebrandt established before the court that the evidence on defendant’s cell phone was necessary to corroborate defendant’s identity in each of the shootings and robberies, as well as to corroborate defendant’s possession of the described firearm, ammunition and heroin. Indeed, according to the affidavit defendant was observed by police using his cell phone at the time of his arrest, shortly after he fired shots in a nearby bar. Upon reviewing Detective Rakebrandt’s sworn affidavit, Justice Murphy properly concluded that probable cause existed to issue a search warrant of the subject cell phone and SIM card.\nTo be sufficiently particular a warrant “must (1) identify the specific offense for which the police have established probable cause, (2) describe the place or places to be searched, and (3) specify the items to be seized by their relation to a designated crime” (United States v Alston, 2016 WL 2609521, *4, 2016 US Dist LEXIS 63776, *10 [SD NY, Apr. 29, 2016, No. 15 Cr 435 (CM)]; see also United States v Galpin, 720 F3d 436 [2d Cir 2013]). In this case the request for the warrant was to obtain evidence that the defendant participated in the three separate shootings and to establish his possession of the contraband recovered pursuant to a valid search.\nThe warrant was not overbroad in that it was limited to electronic data and information relating to the identity of defendant and the possession of the firearm, ammunition and heroin recovered in the instant case. As the abilities of applications contained in cell phones evolve, a warrant must be drafted with sufficient breadth to search the data of a cell phone to determine which application or file is of evidentiary value. As it is possible for a modern smartphone to run multiple applications simultaneously, a search warrant that allows an inspection of the entire cell phone is appropriate to determine what, if any, applications and files pertain to the subject of the observed criminality.\nAs Justice Murphy had the opportunity to determine, firsthand, whether there was a sufficient basis to issue the search warrant based upon Detective Rakebrandt’s own sworn statements, this court need not make any further determination (People v Brown, 40 NY2d 183, 186 [1976]; see also People v Serrano, 93 NY2d 73 [1999]).\nWherefore, the defendant’s motion to controvert the search warrant is denied.",
+        "type": "majority",
+        "author": "Matthew J. D’Emic, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Legal Aid Society, Brooklyn (Bahar Ansari of counsel), for defendant.",
+      "Kenneth P. Thompson, District Attorney, Brooklyn (Brian M. Wagner of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[33 NYS3d 881]\nThe People of the State of New York, Plaintiff, v Jovan Frederick, Defendant.\nSupreme Court, Kings County,\nJune 22, 2016\nAPPEARANCES OF COUNSEL\nThe Legal Aid Society, Brooklyn (Bahar Ansari of counsel), for defendant.\nKenneth P. Thompson, District Attorney, Brooklyn (Brian M. Wagner of counsel), for plaintiff."
+  },
+  "file_name": "2333-01",
+  "first_page_order": 640,
+  "last_page_order": 644
+}

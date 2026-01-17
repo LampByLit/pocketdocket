@@ -1,0 +1,96 @@
+{
+  "id": 6787952,
+  "name": "The People of the State of New York, Plaintiff, v. Sherwin McBean, Defendant",
+  "name_abbreviation": "People v. McBean",
+  "decision_date": "2016-03-18",
+  "docket_number": "",
+  "first_page": "336",
+  "last_page": "338",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 336"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 N.Y.S.3d 923"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ithaca City Ct.",
+    "id": 11258,
+    "name": "Ithaca City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "190 Misc 2d 421",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        105535
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/190/0421-01"
+      ]
+    },
+    {
+      "cite": "5 Misc 3d 151",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1390640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/5/0151-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 208,
+    "char_count": 2709,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18247299359924074
+    },
+    "sha256": "18a1528ee42787e39db197a665a4867d4ddc8db6e47b10d38b95aa725a5d1d0e",
+    "simhash": "1:a7c4ffc79aa5dc37",
+    "word_count": 441
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Sherwin McBean, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nScott A. Miller, J.\nThe defendant is charged with two felonies, one count of burglary in the second degree (Penal Law § 140.25) and one count of sexual abuse in the first degree (Penal Law § 130.65 [2]). Defendant is also charged with three misdemeanors, forcible touching (Penal Law § 130.52), criminal trespass in the second degree (Penal Law § 140.15), and obstructing governmental administration in the second degree (Penal Law § 195.05). Defendant was arraigned with counsel on March 13, 2016, a not guilty plea was entered, and bail was set at $2,500 cash/$5,000 bond. A felony preliminary hearing was scheduled by the court to commence on March 18, 2016 at 2:00 p.m. Defendant posted bail and appeared with counsel for the scheduled felony preliminary hearing. Defendant did not waive his right to a felony preliminary hearing. By email dated March 16, 2016, the People stated that they would not be presenting any evidence at such hearing and acknowledged that the defendant must be released upon his own recognizance. Defendant opposed release upon his own recognizance (ROR), and requested that the court dismiss the felony complaints pursuant to CPL 180.70 (4).\nThe court finds that a felony preliminary hearing never commenced in this case. CPL 180.70 mandates dismissal of a felony complaint only if a felony preliminary hearing has actually commenced and the court concludes the People have not met their burden at such hearing.\nHere, the People frankly stated they had no intention of commencing a felony preliminary hearing. Therefore, CPL 180.80 controls and the court “must release [defendant] on his own recognizance” where the People have failed to comply with the timely “commencement of a hearing.” (CPL 180.80 [emphasis added].) There is no statutory authority by which this court can order the People to actually commence a preliminary hearing. A clear reading of CPL 180.80 stands for the proposition that the court must ROR a defendant when a preliminary hearing is not timely held. The court has done so. Defendant is released upon his own recognizance. Dismissal is not authorized by statute. The felony complaints and misdemeanor accusato-ries remain pending in Ithaca City Court and are placed on the six-month felony control calendar. (See People v Hogan, 5 Misc 3d 151 [Rochester City Ct 2004]; cf. People v Cleghorn, 190 Misc 2d 421 [Cayuga Heights Just Ct 2001].)",
+        "type": "majority",
+        "author": "Scott A. Miller, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Gwendolyn P. Wilkinson, District Attorney, Ithaca (Diane Lama of counsel), for plaintiff.",
+      "William E. Furniss, Jr., Ithaca, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[29 NYS3d 923]\nThe People of the State of New York, Plaintiff, v Sherwin McBean, Defendant.\nCity Court of Ithaca,\nMarch 18, 2016\nAPPEARANCES OF COUNSEL\nGwendolyn P. Wilkinson, District Attorney, Ithaca (Diane Lama of counsel), for plaintiff.\nWilliam E. Furniss, Jr., Ithaca, for defendant."
+  },
+  "file_name": "2296-01",
+  "first_page_order": 328,
+  "last_page_order": 330
+}

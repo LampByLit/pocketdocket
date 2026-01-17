@@ -1,0 +1,534 @@
+{
+  "id": 12167261,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. CHRIS HALL, Defendant-Appellant",
+  "name_abbreviation": "State v. Hall",
+  "decision_date": "2016-07-07",
+  "docket_number": "Docket No. 33,875",
+  "first_page": "446",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-080"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "1999-NMCA-099",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        257744
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/127/0686-01"
+      ]
+    },
+    {
+      "cite": "118 N.M. 762",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1563621
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/118/0762-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-121",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "291 P.3d 160",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMCA-119",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4192009
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/3/0092-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-037",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4244318
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0481-01"
+      ]
+    },
+    {
+      "cite": "311 P.3d 1213",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-102",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077581
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0084-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-025",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3668396
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶¶ 9, 11-12, 23"
+        },
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0713-01"
+      ]
+    },
+    {
+      "cite": "2002-NMCA-082",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        260682
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/132/0485-01"
+      ]
+    },
+    {
+      "cite": "2016-NMCERT-002",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "opinion_index": 0
+    },
+    {
+      "cite": "366 P.3d 304",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016-NMCA-022",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        12166991
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/9/0353-01"
+      ]
+    },
+    {
+      "cite": "1999-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        106506
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/128/0454-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 47",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179718
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0047-01"
+      ]
+    },
+    {
+      "cite": "2002-NMCA-104",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        260760
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/132/0741-01"
+      ]
+    },
+    {
+      "cite": "2007-NMCA-012",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3670908
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0930-01"
+      ]
+    },
+    {
+      "cite": "1997-NMCA-013",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        142210
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/123/0088-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4249607
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0435-01"
+      ]
+    },
+    {
+      "cite": "366 P.3d 711",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016-NMCA-024",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        12167029
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 12-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/9/0366-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-043",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4245115
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0100-01"
+      ]
+    },
+    {
+      "cite": "121 N.M. 63",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566542
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/121/0063-01"
+      ]
+    },
+    {
+      "cite": "1995-NMCA-122",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 N.M. 655",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1599036
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/105/0655-01"
+      ]
+    },
+    {
+      "cite": "1987-NMCA-039",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 N.M. 457",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1558863
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/120/0457-01"
+      ]
+    },
+    {
+      "cite": "1995-NMCA-080",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 P.3d 342",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-028",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4241695
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0437-01"
+      ]
+    },
+    {
+      "cite": "1999-NMCA-003",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        827416
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0603-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1303,
+    "char_count": 33545,
+    "ocr_confidence": 0.782,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2468176716094259
+    },
+    "sha256": "9313fc5c8f5b6e754fa10200779bf5b152cf29b014cebf4b7cc81d72308bc31f",
+    "simhash": "1:d746b502b09b78c5",
+    "word_count": 5188
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Stan Whitaker, District Judge",
+      "J. MILES HANISEE, Judge",
+      "MICHAEL E. VIGIL, Chief Judge",
+      "JONATHAN B. SUTIN, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. CHRIS HALL, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nHANISEE, Judge.\n{1} Defendant Chris Hall appealed his conviction in the metropolitan (metro) court for driving while intoxicated (DWI), contrary to NMSA 1978, Section 66-8-102(C)(l) (2010), to the district court. The district court affirmed the metro court’s sentencing order and filed a memorandum opinion. Defendant now appeals to this Court. He challenges the constitutionality of the sobriety checkpoint at which he was stopped, the admission into evidence of his breath test results, and the sufficiency of the evidence to support his conviction. We conclude that while the checkpoint was constitutional, the metro court erred in admitting Defendant’s breath results. Because the evidence was otherwise sufficient to support Defendant’s conviction, we reverse and remand for a new trial.\nBACKGROUND\n{2} Shortly after 10:00 p.m. on January 20, 2012, Defendant was stopped at a DWI checkpoint on Central Avenue in Albuquerque, New Mexico, just west of the Rio Grande River. The checkpoint — in place between 10:00 p.m. and3:00 a.m. — hadbeen planned by Sergeant Lecompte, DWI Unit Supervisor for the Bernalillo County Sheriffs Office (BCSO), and approved by his lieutenant. An approved tactical plan (tact plan) laid out the parameters of the checkpoint, including the placement of signs, cones, reflective tape, and emergency lighting at the checkpoint site. The tact plan also included guidelines for field officers conducting stops at the checkpoint, specifying that initial contact with each driver should be limited to 15-30 seconds, with the officer introducing himself, announcing the purpose of the checkpoint, and asking the driver if he or she has consumed alcohol or drugs. If additional investigation was required following the initial contact, the officer was to remove the driver from the vehicle to conduct standardized field sobriety tests (FSTs) in a separate investigation area. Sergeant Lecompte briefed each of the field officers on the tact plan prior to initiating the checkpoint and remained on-site to supervise and to ensure that the tact plan was being followed.\n{3} The first officer to make contact with Defendant was BCSO Sergeant Perea, who upon making contact detected an odor of alcohol coming from inside Defendant’s truck. In accordance with the suggested checkpoint dialogue contained in the tact plan, and because Defendant was the only person inside the truck, Sergeant Perea asked Defendant if he had consumed any alcoholic beverages that evening. Defendant responded that he had a beer about an hour prior. Sergeant Perea then conducted a seated horizontal gaze nystagmus (HGN) test on Defendant. Based on the odor of alcohol, Defendant’s admission to drinking beer an hour prior, and Defendant’s performance on the seated HGN test, Sergeant Perea removed Defendant from his truck and proceeded to conduct a battery of three standardized FSTs. Defendant’s performance on the FSTs resulted in his arrest for DWI.\n{4} Defendant was then taken to the “BATmobile” — located at the checkpoint site — where he consented to a breath test. Following a 20-minute deprivation period, as measured by Sergeant Perea’s wristwatch, Defendant provided two breath samples using an Intoxilyzer 8000. The breath test results revealed that Defendant had 0.10 grams of alcohol per 210 liters of breath, which was above the “per se” legal limit. See § 66-8-102(C)(1) (providing that it is illegal for a person to drive a vehicle with “an alcohol concentration of eight one hundredths [0.08] or more in [his or her] blood or breath”).\n{5} At a bench trial in the metro court, Defendant challenged the constitutionality of the DWI checkpoint. He also objected to the admissibility of the breath test results. The metro court found that the checkpoint was constitutional and admitted the breath test results. The metro court then found Defendant guilty of per se DWI, although it acquitted Defendant of DWI based on impairment to the slightest degree, contrary to Section 66-8-102(B).\n{6} On appeal, the district court affirmed Defendant’s conviction for per se DWI, determining that the checkpoint was constitutional and that the breath results were properly admitted into evidence. While we agree with the district court that the checkpoint was constitutional, we disagree with respect to the breath test and conclude that the metro court erred in admitting the breath results.\nDISCUSSION\n{7} “For on-record appeals the district court acts as a typical appellate court, with the district court simply reviewing the record of the [metro] court trial for legal error.” State v. Trujillo, 1999-NMCA-003, ¶ 4, 126 N.M. 603, 973 P.2d 855. “In subsequent appeals such as this, we apply the same standards of review employed by the district court.” State v. Bell, 2015-NMCA-028, ¶ 2, 345 P.3d 342. “A trial court’s determination on a motion to suppress evidence involves a mixed question of law and fact, as to which our review is de novo.” Id.\nI. The DWI Checkpoint Was Constitutional\n{8} Defendant contends that the DWI checkpoint at which he was stopped was not constitutional under New Mexico law. This Court has held that a sobriety checkpoint is a seizure. See State v. Bates, 1995-NMCA-080, ¶ 9, 120 N.M. 457, 902 P.2d 1060 (stating “there is no question that a [checkpoint] is a seizure”). However, “a DWI [checkpoint], at which drivers are stopped without probable cause or reasonable suspicion, is not a per se violation of the Fourth Amendment to the United States Constitution; the constitutionality of the [checkpoint] depends on whether it is reasonable.” Id. ¶ 6 (citing City of Las Cruces v. Betancourt, 1987-NMCA-039, ¶ 9, 105 N.M. 655, 735 P.2d 1161). The ultimate question for this Court is whether the facts and inferences before the lower courts support its conclusion that the checkpoint was reasonable. Bates, 1995-NMCA-080, ¶ 21.\n{9} A sobriety checkpoint “is constitutionally permissible so long as it is reasonable within the meaning of the [F]ourth [A]mendment as measured by its substantial compliance with [eight factors].” Betancourt, 1987-NMCA-039, ¶ 16. The eight Betancourt factors are: (1) the role of supervisory personnel, (2) restrictions on the discretion of field officers, (3) safety, (4) reasonable location, (5) time and duration, (6) indicia of official nature of the checkpoint, (7) length and nature of detention, and (8) advance publicity. Id. ¶ 13. “[A] sobriety checkpoint conducted in substantial compliance with the eight Betancourt factors is [also] constitutional under the New Mexico Constitution.” State v. Madalena, 1995-NMCA-122, ¶ 26, 121 N.M. 63, 908 P.2d 756.\n{10} At trial, following the testimony of Sergeant Lecompte, which focused on the details of the tact plan, approval of the tact plan by his supervisor, restrictions on the discretion of field officers, and BCSO’s efforts to ensure widespread advance publicity, the State moved the metro court to find the checkpoint constitutional under Betancourt. Defendant objected, arguing that three of the factors had not been met. Specifically, Defendant challenged the safety of the checkpoint, the reasonableness of the checkpoint’s location, and whether there was advance publicity. The metro court heard Defendant’s argument and the State’s response and concluded that the checkpoint was constitutional. Later in the trial, Defendant renewed his challenge to the constitutionality of the checkpoint, arguing that the discretion of the field officers was not adequately constrained. The metro coirrt again ruled that the checkpoint was reasonable and constitutional. The district court affirmed. We address each challenged Betancourt factor in turn.\nA. Safety\n{11} First, Defendant argues that the checkpoint was unsafe due to its location west of the bridge over the Rio Grande River. According to Defendant, the first checkpoint-related signage — a sign warning drivers to “reduce speed” — was located at the apex of the bridge, and the entirety of the checkpoint was not visible to westbound drivers prior to reaching the top of the bridge. Defendant testified at trial that another vehicle drove straight through the checkpoint presumably in an attempt to avoid being stopped. Defendant also points out that emergency maneuvers were limited by the nature of the bridge and by oncoming eastbound traffic and asserts that several vehicles attempted to avoid the checkpoint by making U-turns over the median on the bridge.\n{12} The State responds by stressing that the “reduced speed” sign was followed by additional signage, cones, and flashing lights from marked police vehicles, and that the checkpoint site itself included signage, flashing lights, overhead lighting from the BATmobile, and officers wearing reflective vests. The State also argues that there was “no testimony that any officer or motorist was injured or involved in a vehicle collision” and that “Defendant’s argument is premised on the actions of one motorist who attempted to evade the checkpoint,” highlighting that such evasion is not necessarily indicative of the checkpoint’s safety, but rather of the mind-set of the driver of the vehicle, as noted by the district court in its memorandum opinion. See State v. Anaya, 2009-NMSC-043, ¶ 15, 147 N.M. 100, 217 P.3d 586 (“Evading a marked DWI checkpoint is a specific and articulable fact that is sufficient to predicate reasonable suspicion for an investigatory stop.”).\n{13} We note that there was testimony that the bridge over the Rio Grande River has a slight, “roughly” one percent grade and that two photographs of the checkpoint location were entered into evidence at trial. In light of the facts outlined above and the evidence presented to the metro court, we conclude no error in the metro court’s determination that the safety factor was substantially complied with. See Bates, 1995-NMCA-080, ¶ 25 (weighing reasonableness in favor of the state where there were warning signs ahead of the checkpoint and a separate, lighted area for secondary investigations).\nB. Reasonable Location\n{14} Second, Defendant contends that the checkpoint’s location was not reasonable. Sergeant Lecompte testified that he chose the location based upon DWI arrest statistics from past checkpoints conducted there. Defendant asserts that the location’s “detection value” is questionable given the fact that no arrests were made during the most recent checkpoint at that location. We agree with the State, however, that the lack of arrests during the previous checkpoint could tend to demonstrate the successful deterrent effect of placing sobriety checkpoints at that particular location. Furthermore, while Betancourt made it clear that “a location chosen with the actual intent of stopping and searching only a particular group of people, i.e., Hispanics, [BJlacks, etc., would not be tolerated},]” there was no evidence produced at trial to indicate any such discriminatory purpose, and Defendant does not argue that there was such a purpose. 1987-NMCA-039, ¶ 13. We conclude that Sergeant Lecompte’s testimony was sufficient to establish that the checkpoint location was selected on the basis of prior arrest statistics and on the successful deterrent effect of past checkpoints at the same location, and therefore supported the trial court’s determination that the checkpoint was reasonable. See id. ¶ 11 (“The need to deter, detectf,] and remove drunk drivers from the public highways weighs heavily in favor of the state.”).\nC. Advance Publicity\n{15} Third, Defendant argues that the advance publicity factor was not met, based on the fact that the officer who was responsible for faxing notice to the media did not testify at trial. Although Sergeant Lecompte testified that the other officer faxed notice to several media outlets on January 16,2012, Defendant contended that Sergeant Lecompte did not have personal knowledge regarding whether the media actually received notice and also that a four-day notice was not sufficient. While Defendant maintains that no actual confirmation receipt of the faxes were received from any media outlet, it appears from Sergeant Lecompte’s testimony that fax confirmation sheets were included in the tact plan submitted to his supervisor, reflecting that the faxes successfully went through to “several different media outlets.” The metro court found that this factor was complied with by ruling that the checkpoint was constitutional. The district court, however, expressed that “[t]he State’s failure to provide proof that the media was actually notified causes the [cjourt some concern[.]” Nevertheless, given our conclusions in this opinion on the remaining Betancourt factors, we need not resolve the differing perspectives of the metro and district courts regarding whether BCSO’s attempt to generate advance publicity of this checkpoint satisfies the final Betancourt factor. See State v. Swain, 2016-NMCA-024, ¶¶ 12-13, 366 P.3d 711 (“Based on our longstanding [caselaw], a lack of advance publicity, without more, is simply not sufficient to find that' a DWI checkpoint constitutes an illegal seizure.”); see also Bates, 1995-NMCA-080, ¶ 26 (“Whether or not there is advance publicity is not dispositive of the reasonableness of a DWI [checkpoint].”).\nD. Restrictions on the Discretion of Field Officers\n{16} After the metro court found the checkpoint to be constitutional under Betancourt, Sergeant Perea took the stand. During voir dire by defense counsel, Sergeant Perea stated that his contact with Defendant — prior to removing Defendant from his vehicle to perform standardized FSTs — ’extended to somewhere between two and three minutes, included the giving of a “seated” HGN test, and “possibly” or “could have” included additional conversation. Defendant then renewed his objection to the constitutionality of the checkpoint, arguing that Sergeant Perea’s testimony established that he was not limited in his discretion, as required by the second Betancourt factor. The metro court found that conducting the seated HGN test, as well as not doing the same with other motorists, “did widen the scope and was beyond the discretion of the stopping officer at that point,” but the court ultimately concluded that the totality of the circumstances weighed against suppression of the evidence.\n{17} For its part, the district court observed that a constitutionally reasonable checkpoint serves as an adequate substitute for reasonable suspicion and “can justify the stop and initial inquiry.” An officer would then be permitted to expand the scope of the stop if he had reasonable and articulable suspicion of criminal activity. State v. Leyva, 2011-NMSC-009, ¶ 10, 149 N.M. 435, 250 P.3d 861. Importantly, this is the reasoning that undergirds the operation of sobriety checkpoints such as the one in question. Specifically, the tact plan guidelines here provided the officers with 15-30 seconds in which to observe the driver’s condition and to ask about prior alcohol or drug consumption. The officer’s observations, as well as the driver’s answers to the initial inquiry, could then provide the officer with reasonable suspicion to support detaining the driver for additional investigation. See id. The district court in this case concluded that Sergeant Perea had reasonable suspicion based on his observation of Defendant and Defendant’s affirmative answer to having consumed alcohol. See State v. Walters, 1997-NMCA-013, ¶ 26, 123 N.M. 88, 934 P.2d 282 (holding that an officer acting in a community caretaker role had reasonable suspicion to investigate further after the officer spoke to the defendant and detected the odor of alcohol).\n{18} Notably, Defendant does not appear to challenge the determination that Sergeant Perea had reasonable suspicion to expand the checkpoint stop into a full-blown DWI investigation. Instead, he takes issue with the fact that Sergeant Perea had some additional conversation with him and conducted the seated HGN test instead of immediately removing him from his truck to undergo the full battery of FSTs. Thus, it appears that Defendant is arguing that Sergeant Perea’s deviation from the tact plan guidelines — by not immediately removing Defendant from his vehicle — rendered the checkpoint unconstitutional. The district court agreed that the additional conversation and the abbreviated HGN test were not part of the script, but relying on State v. Duarte, 2007-NMCA-012, 140 N.M. 930, 149 P.3d 1027, determined that these actions did not unreasonably expand the stop, nor were they more invasive than removing Defendant from his vehicle to perform FSTs, which was the next step in the tact plan. See id. ¶ 39 (declining to “fix a deviation from a script of questions as a constitutional infirmity, without contemporaneous inquiry more broadly into the invasiveness and intrusion of the contact”).\n{19} Defendant contends that the metro court and the district court read Duarte too broadly. Defendant attempts to distinguish Duarte by stressing the “very limited scope of permitted ‘initial contact’ ” in the present case and by stating that Sergeant Perea’s “breach does not compare with the breach of procedure described in Duarte[] that was found ‘too insubstantial to constitute constitutional harm.’ ” We observe, however, that in specifically addressing the issue of the constitutional propriety of departures from a pre-approved script, Duarte stated, “[w]hat makes this a viable issue is the unique substitution of a properly implemented [checkpoint] for the requirement of individualized suspicion.” Id. ¶¶ 35, 38. We are cautioned by Duarte that it is the “elimination of the requirement for individualized suspicion” that creates the “serious concern about lack of uniformity and need for limitation of discretion.” Id. But in Duarte, the deviation from the script occurred during the initial questioning of the driver and before the officer had reasonable suspicion that the driver had committed a crime. Id. ¶ 27. In the present case, Sergeant Perea had reasonable suspicion that Defendant was driving while intoxicated before any purported deviation from the tact plan. As such, the Duarte court’s “fear of unrestricted discretion in questioning, and the invidious, intrusive invasion of privacy that can occur from such discretion” was not present in this case. Id. ¶ 38. Consequently, we conclude that the presence of reasonable suspicion following the initial contact justified further detention for additional investigation, notwithstanding Sergeant Perea’s subsequent deviation from the tact plan guidelines. Cf. State v. Villas, 2002-NMCA-104, ¶ 10, 132 N.M. 741, 55 P.3d 437 (recognizing that “[ujnder the New Mexico Constitution, after the checkpoint stop, a police officer cannot further detain a motorist without reasonable suspicion of criminal activity”); Brown v. Texas, 443 U.S. 47, 51 (1979) (stating that “the Fourth Amendment requires that a seizure must be based on specific, objective facts indicating that society’s legitimate interests require the seizure of the particular individual, or that the seizure must be carried out pursuant to a plan embodying explicit, neutral limitations on the conduct of individual officers” (emphasis added)).\nE. Other Betancourt Factors\n{20} Finally, to the extent that Defendant is challenging the supervisory personnel factor and the length and nature of detention factor on appeal, we observe that these factors were not challenged in the metro court. Consequently, we conclude that Defendant’s arguments on these factors were not preserved for appeal. See State v. Varela, 1999-NMSC-045, ¶ 25, 128 N.M. 454, 993 P.2d 1280 (stating that “[i]n order to preserve an error for appeal, it is essential that the ground or grounds of the objection or motion be made with sufficient specificity to alert the mind of the trial court to the claimed error or errors, and that a ruling thereon then be invoked” (internal quotation marks and citation omitted)).\n{21} Therefore, because sufficient evidence was produced attrial to establish that the DWI checkpoint in this case substantially complied with all of the Betancourt factors, perhaps with the exception of advance publicity, we conclude that the metro court did not err in finding the checkpoint to be constitutional.\nII. The Metro Court Abused Its Discretion by Admitting the Breath Card Into Evidence\n{22} Defendant argues that his breath test results should not have been admitted for two reasons: (1) he presented evidence tending to show that the annual proficiency tests on the Intoxilyzer 8000 had not been conducted, and (2) the required twenty-minute deprivation period was not conducted prior to his breath test.\nA. Proficiency Testing\n{23} We observed in State v. Hobbs, 2016-NMCA-022, ¶ 1, 366 P.3d 304, cert. denied, 2016-NMCERT-002,_P.3d_ that the Scientific Laboratory Division of the Department of Health (SLD) has administrative authority over blood and breath tests administered to persons suspected of driving under the influence of intoxicants. See NMSA 1978, § 24-1-22 (2003). Under its authority, the SLD has promulgated regulations under the New Mexico Administrative Code governing “the certification of laboratories, breath alcohol instruments, operators, key operators, and operator instructors of the breath alcohol instruments as well as establishing] the methods of taking and analyzing samples of blood and breath testing for alcohol or other chemical substances under the New Mexico Implied Consent Act, [NMSA 1978, § 66-8-107(B) (1993)].” 7.33.2.2 NMAC.\n{24} At issue in this case is the certification of the Intoxilyzer 8000 used to measure Defendant’s breath alcohol level. See 7.33.2.10(A) NMAC (“Any breath alcohol instrument to be used for implied consent evidential testing must be approved and certified by SLD.”); see also State v. Onsurez, 2002-NMCA-082, ¶ 13, 132 N.M. 485, 51 P.3d 528 (“[T]he [s]tate must show that the machine used for administering a breath test has been certified by SLD.”).\n{25} In State v. Martinez, 2007-NMSC-025, ¶¶ 9, 11-12, 23, 141 N.M. 713, 160 P.3d 894, our Supreme Court held that a “threshold showing” that the instrument used to administer a breath alcohol test (BAT) was SLD-certified at the time of the test is a Rule 11-104(A) NMRA foundational requirement for admission of the BAT results into evidence. Martinez went on to state that this foundational requirement can be satisfied by the hearsay testimony of the officer who administered the BAT that he saw a “sticker” on the breathalyzer instrument indicating that it was SLD-certified at the time of the defendant’s BAT. 2007-NMSC-025, ¶ 23. In the present case, Sergeant Perea testified in the metro court that the Intoxilyzer 8000 used to measure Defendant’s breath alcohol level was certified by SLD. He testified that he observed the Martinez sticker reflecting that the date of Defendant’s test was within the date range of the machine’s certification.\n{26} However, Martinez also held that “a defendant may be able to critically challenge an officer’s foundational testimony concerning certification” based on information obtained during discovery. Id. ¶ 24. In this case, Defendant presented documentation obtained from SLD via subpoena indicating that SLD had no information available regarding proficiency tests conducted on the Intoxilyzer 8000 used to test Defendant’s breath for the current certification year (2011-2012). Defendant also subpoenaed the proficiency testing documentation for the preceding period (2010-2011), but SLD’s response did not mention or include such documentation. Defendant informed the court at trial that SLD “never responded to [the] 2010-2011 request.” Therefore, we must presume none existed. Defendant used this information to challenge the officer’s threshold showing that the BAT machine was certified under the SLD regulations and to argue for the inadmissibility of the breath results.\n{27} The State argued in the metro court that the section of the SLD regulations dealing with proficiency testing does not set out a mandatory requirement. Instead, relying on the presence of the word “should” in the applicable section of the regulation, the State argued that failure to analyze proficiency samples does not affect the certification of the breath alcohol instrument. See 7.33.2.10(B)(1)(b)NMAC (“Fourproficiency samples should be analyzed yearly on each such certified instrument.”). The metro court agreed with the State’s position. The district court affirmed, noting in a footnote that the previous version of the regulation, 7.33.2.11(G)(2) NMAC (2001), specifically stated that “[c]ertification of the breath alcohol testing instruments shall be dependent upon the following . . . Satisfactory performance on the requisite proficiency testing. Six (6) proficiency samples should be analyzed yearly on each such certified instrument.” Although the proficiency test language is couched under “[c]ontinuing responsibilities” within the current version of the regulation, the district court concluded that removal of the previous mandatory language, “shall be dependent upon the following,” made the proficiency tests no longer mandatory. Compare 7.33.2.10(B) NMAC, with 7.33.2.11 NMAC (2001).\n{28} In Martinez, the Court held that the SLD regulations governing certification of a BAT machine are accuracy-ensuring. 2007-NMSC-025, ¶ 11. After listing a number of requirements for certification under the 2001 version of the regulations, including two yearly calibration tests, an annual inspection by SLD, monthly submission of records pertaining to all tests conducted on the machine, satisfactory performance of six yearly proficiency samples, and a calibration check at least every seven days and/or a 0.08 calibration check conducted on each subject, the Court held that before a BAT card is admitted into evidence, the State must make a threshold showing that the machine has been certified. Id. ¶¶ 11-12.\n{29} In Hobbs, this Court — interpreting the current version of the regulation — noted that the “certification requirements for instruments are extensive.” 2016-NMCA-022, ¶ 16. We observed that an instrument must obtain initial certification, that must then be renewed annually based on compliance with the 7.33.2.10. NMAC. Hobbs, 2016-NMCA-022, ¶ 16. We further noted that the regulation “contains numerous continuing requirements for individual instruments, including . . . annual analysis of four proficiency samples[.]” Id. Among the other requirements listed in the “[cjontinuing responsibilities” section of the current version of the regulation are: submission of logbooks and records at scheduled times; calibration checks at least once every seven days or with each subject test or both; and biannual inspections of the machine at SLD./<7.;see also 7.33.2.10(B)(1). In other words, our jurisprudence permitting the admissibility of breath test results does so based upon ongoing accuracy-ensuring processes that guard against inconsistent, varying, and erroneous results. Despite its use within 7.33.2.10(B)(1)(b), the word “should” does not precede the process for admissibility of breath test results and the requirement that they are produced by a properly certified device established in applicable caselaw. In light of our regulatory interpretation in Hobbs and the principle set forth in Martinez, we conclude that satisfactory performance on four annual proficiency tests is titled “[cjontinuing responsibilities” for a reason and remains a mandatory accuracy-ensuring requirement for certification under the current version of the regulation.\n{30} Because the metro court — based on its erroneous understanding that the proficiency tests are not mandatory under the SLD regulations — failed to consider whether Defendant sufficiently challenged the admissibility of the breath test results, it abused its discretion in admitting the results. See State v. Favela, 2013-NMCA-102, ¶ 16, 311 P.3d 1213 (“An abuse of discretion may . . . occur when the district court exercises its discretion based on a misunderstanding of the law.” (internal quotation marks and citation omitted)). However, we do not determine as a matter of law that Defendant’s challenge to the admissibility of the breath test results — through a document indicating that SLD does not have available records of the required proficiency tests for this particular machine — serves to defeat the State’s threshold showing. Rather, we reverse and remand to the metro court in order for it to reach a determination that incorporates consideration of both the evidence produced by Defendant and Sergeant Perea’s testimony that he observed a sticker indicating that the machine was certified by SLD on the date in question. See State v. Willie, 2009-NMSC-037, ¶ 12, 146 N.M. 481, 212 P.3d 369 (holding that whether a regulation relating to breath tests has been satisfied is a factual determination to be made by the trial court, that must be satisfied by a preponderance of the evidence).\nB. Deprivation Period\n{31} 7.33.2.15(B)(2) NMAC provides that “[b]reath [samples] shall be collected only after the certified operator or certified key operator has ascertained that the subject has not had anything to eat, drink[,] or smoke for at least twenty minutes prior to the collection of the first breath sample.” In Willie, our Supreme Court held that the evidence was sufficient to satisfy the deprivation requirement when the defendants were restrained for nearly an hour after arrest “in such a way that it would be unlikely that they could have eaten, drunk, or smoked anything” even though they were not observed continuously. Willie, 2009-NMSC-037, ¶ 16.\n{32} In this case, Sergeant Perea handcuffed Defendant and placed him in the BATmobile. Although Sergeant Perea left the room for a few moments to retrieve a laptop computer, he left Defendant with another officer. We agree, therefore, with the metro court and the district court that there was sufficient testimony to prove by a preponderance of the evidence that Defendant did not eat, drink, or smoke anything during that time frame and that the 20-minute deprivation period was satisfied.\nIII. Defendant’s Conviction Was Supported by Sufficient Evidence\n{33} Defendant argues that the breath test results — indicating that his breath alcohol level was 0.10/0.10, above the per se limit of 0.08 — were not reliable, and consequently, the evidence presented at trial was insufficient to support his conviction. Specifically, Defendant contends that the lack of proficiency testing and the “suspect” compliance with the deprivation period combine to result in inadequately reliable BAT. In support, Defendant points to State v. King, 2012-NMCA-119, ¶ 16, 291 P.3d 160, where this Court recognized that “[t]he [Ijntoxilyzer reading, even though the machine has been approved by the SLD, and operated and maintained in accordance with the SLD regulations, is not conclusive evidence of the offense. Nor is it conclusive evidence of the reliability of the test results.” We acknowledge that a defendant may challenge the reliability of a BAT machine’s reading, and we note that Defendant has conducted such a challenge in this case, pointing to issues with verifying whether proficiency tests had been conducted and whether the twenty-minute deprivation period was complied with.\n{34} On appeal, the appellate court views the evidence in the light most favorable to the verdict, resolving all conflicts and indulging all reasonable inferences in favor of the verdict. State v. Apodaca, 1994-NMSC-121, ¶ 3, 118 N.M. 762, 887 P.2d 756. As stated earlier in this opinion, we have determined that the metro court did not err in concluding that the deprivation period was met. We have further observed that evidence was presented that there was documentation on this particular Intoxilyzer 8000 indicating that it was certified by SLD on the date of the tests in question. As such, we conclude that there was sufficient evidence to support Defendant’s conviction for per se DWI, notwithstanding Defendant’s attack on the reliability of the machine. See State v. Salas, 1999-NMCA-099, ¶ 13, 127 N.M. 686, 986 P.2d 482 (recognizing that it is for the fact-finder (in this case, the judge) to resolve any conflict in the testimony of the witnesses and to determine where the weight and credibility lie).\nCONCLUSION\n{35} For the foregoing reasons, we conclude that the DWI checkpoint at which Defendant was stopped was constitutional. We further conclude that the 20-minute deprivation period was met and that the BAT results — 0.10/0.10—constituted sufficient evidence to support Defendant’s conviction for per se DWI. However, because the metro court admitted the breath results based on its erroneous determination that the annual proficiency tests were not required by SLD regulation, we reverse and remand to the metro court for a new trial.\n{36} IT IS SO ORDERED.\nJ. MILES HANISEE, Judge\nWE CONCUR:\nMICHAEL E. VIGIL, Chief Judge\nJONATHAN B. SUTIN, Judge",
+        "type": "majority",
+        "author": "HANISEE, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM Charles J. Gutierrez, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Bennett J. Baur, Chief Public Defender Santa Fe, NM Vicki W. Zelle, Assistant Appellate Defender Albuquerque, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-080\nFiling Date: July 7, 2016\nDocket No. 33,875\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. CHRIS HALL, Defendant-Appellant.\nStan Whitaker, District Judge\nHector H. Balderas, Attorney General Santa Fe, NM Charles J. Gutierrez, Assistant Attorney General Albuquerque, NM for Appellee\nBennett J. Baur, Chief Public Defender Santa Fe, NM Vicki W. Zelle, Assistant Appellate Defender Albuquerque, NM for Appellant"
+  },
+  "file_name": "1681-01",
+  "first_page_order": 462,
+  "last_page_order": 472
+}

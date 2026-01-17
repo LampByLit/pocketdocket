@@ -1,0 +1,1734 @@
+{
+  "id": 12298521,
+  "name": "Miriam Kaller Family Irrevocable Trust, by and through its Trustee Moshe Freund, Plaintiff, v. Lincoln Benefit Life Company, Defendant",
+  "name_abbreviation": "Miriam Kaller Family Irrevocable Trust ex rel. Freund v. Lincoln Benefit Life Co.",
+  "decision_date": "2017-02-06",
+  "docket_number": "",
+  "first_page": "395",
+  "last_page": "412",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 395"
+    },
+    {
+      "type": "parallel",
+      "cite": "56 N.Y.S.3d 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "27 NY3d 953",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        6782437,
+        6782417,
+        6782339,
+        6782397
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/27/0953-04",
+        "/ny3d/27/0953-03",
+        "/ny3d/27/0953-01",
+        "/ny3d/27/0953-02"
+      ]
+    },
+    {
+      "cite": "506 US 823",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11931296,
+        11931270,
+        11931110,
+        11931336,
+        11931017,
+        11931178,
+        11931371,
+        11931145,
+        11931085,
+        11931412,
+        11931061,
+        11931035,
+        11931231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0823-10",
+        "/us/506/0823-09",
+        "/us/506/0823-05",
+        "/us/506/0823-11",
+        "/us/506/0823-01",
+        "/us/506/0823-07",
+        "/us/506/0823-12",
+        "/us/506/0823-06",
+        "/us/506/0823-04",
+        "/us/506/0823-13",
+        "/us/506/0823-03",
+        "/us/506/0823-02",
+        "/us/506/0823-08"
+      ]
+    },
+    {
+      "cite": "53 AD2d 527",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5438235,
+        5430595
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/53/0527-01",
+        "/ad2d/53/0527-02"
+      ]
+    },
+    {
+      "cite": "158 NJ 561",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        751867
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "847",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/158/0561-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 982",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12160264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/0982-01"
+      ]
+    },
+    {
+      "cite": "144 AD3d 1097",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12161385
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/144/1097-01"
+      ]
+    },
+    {
+      "cite": "2008 US Dist LEXIS 93680",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 4951244",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "756 F2d 14",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        325237
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/756/0014-01"
+      ]
+    },
+    {
+      "cite": "897 F2d 687",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533686
+      ],
+      "pin_cites": [
+        {
+          "page": "690-691"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0687-01"
+      ]
+    },
+    {
+      "cite": "2007 US Dist LEXIS 30773",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 1234978",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 F3d 147",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        795
+      ],
+      "pin_cites": [
+        {
+          "page": "152-153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/75/0147-01"
+      ]
+    },
+    {
+      "cite": "2014 US Dist LEXIS 7799",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 229280",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 US Dist LEXIS 29706",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 1344095",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 US Dist LEXIS 47900",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 WL 1995131",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "960 F2d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524481
+      ],
+      "pin_cites": [
+        {
+          "page": "1223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/960/1217-01"
+      ]
+    },
+    {
+      "cite": "238 F3d 248",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11140533
+      ],
+      "pin_cites": [
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/238/0248-01"
+      ]
+    },
+    {
+      "cite": "988 F2d 476",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10512950
+      ],
+      "pin_cites": [
+        {
+          "page": "482-483"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/988/0476-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200640
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotations and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0408-01"
+      ]
+    },
+    {
+      "cite": "444 US 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306135
+      ],
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0286-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 142445",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*11"
+        },
+        {
+          "page": "*19"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 6023058",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "471 US 462",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205101
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "472"
+        },
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0462-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 32587",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*10-11"
+        },
+        {
+          "page": "*11-12"
+        },
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 952339",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "344 Fed Appx 724",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "725"
+        },
+        {
+          "page": "725"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 US Dist LEXIS 60309",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*7"
+        },
+        {
+          "page": "*7-8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 2169893",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "326 US 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "766 F2d 105",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        343757
+      ],
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/766/0105-01"
+      ]
+    },
+    {
+      "cite": "2005 US Dist LEXIS 16039",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 WL 1828586",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "499 F.3d 290",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655838
+      ],
+      "weight": 4,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "296",
+          "parenthetical": "quoting Fed. R. Civ. R 4 (k)"
+        },
+        {
+          "page": "296"
+        },
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/499/0290-01"
+      ]
+    },
+    {
+      "cite": "155 F.3d 254",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11701393
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "259"
+        },
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/155/0254-01"
+      ]
+    },
+    {
+      "cite": "897 F2d 696",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533787
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "699"
+        },
+        {
+          "page": "700"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0696-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 92067",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*1-2"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*12-13"
+        },
+        {
+          "page": "*13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 3869851",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 US Dist LEXIS 101870",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*4-5"
+        },
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 4149977",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "954 F2d 141",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10517171
+      ],
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/954/0141-01"
+      ]
+    },
+    {
+      "cite": "2016 US Dist LEXIS 166530",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "*12"
+        },
+        {
+          "page": "*12-13"
+        },
+        {
+          "page": "*14-15"
+        },
+        {
+          "page": "*11-12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 7042068",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*4"
+        },
+        {
+          "page": "*5"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 NY2d 234",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4372393
+      ],
+      "pin_cites": [
+        {
+          "page": "241"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0234-01"
+      ]
+    },
+    {
+      "cite": "222 AD2d 560",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        668220
+      ],
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/222/0560-01"
+      ]
+    },
+    {
+      "cite": "240 App Div 149",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5135546
+      ],
+      "pin_cites": [
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/240/0149-01"
+      ]
+    },
+    {
+      "cite": "83 AD2d 814",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3250572
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/83/0814-01"
+      ]
+    },
+    {
+      "cite": "26 NY3d 1080",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4131832,
+        4135873,
+        4133026,
+        4136416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/26/1080-04",
+        "/ny3d/26/1080-01",
+        "/ny3d/26/1080-03",
+        "/ny3d/26/1080-02"
+      ]
+    },
+    {
+      "cite": "129 AD3d 455",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4260643,
+        4261388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0455-01",
+        "/ad3d/129/0455-02"
+      ]
+    },
+    {
+      "cite": "2012 US Dist LEXIS 134345",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 4053802",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Misc 2d 883",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        926446
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "995"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/162/0883-01"
+      ]
+    },
+    {
+      "cite": "225 AD2d 328",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        830665,
+        830654
+      ],
+      "pin_cites": [
+        {
+          "page": "328-329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/225/0328-02",
+        "/ad2d/225/0328-01"
+      ]
+    },
+    {
+      "cite": "110 Misc 2d 61",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        782994
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/110/0061-01"
+      ]
+    },
+    {
+      "cite": "56 AD2d 735",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5476092,
+        5468136,
+        5473644,
+        5466204,
+        3959229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/56/0735-01",
+        "/ad2d/56/0735-02",
+        "/ad2d/56/0735-03",
+        "/ad2d/56/0735-04",
+        "/ad3d/56/0735-01"
+      ]
+    },
+    {
+      "cite": "82 Misc 2d 937",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1291146
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/82/0937-01"
+      ]
+    },
+    {
+      "cite": "119 Misc 2d 729",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        813107
+      ],
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/119/0729-01"
+      ]
+    },
+    {
+      "cite": "30 AD3d 328",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3656857
+      ],
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/30/0328-01"
+      ]
+    },
+    {
+      "cite": "279 NJ Super 419",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        607981
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "424"
+        },
+        {
+          "page": "1264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/279/0419-01"
+      ]
+    },
+    {
+      "cite": "355 US 833",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195813,
+        6195562,
+        6196012,
+        6195373,
+        6196206,
+        6196462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/355/0833-03",
+        "/us/355/0833-02",
+        "/us/355/0833-04",
+        "/us/355/0833-01",
+        "/us/355/0833-05",
+        "/us/355/0833-06"
+      ]
+    },
+    {
+      "cite": "2 NY2d 612",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2244392
+      ],
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/2/0612-01"
+      ]
+    },
+    {
+      "cite": "27 AD3d 274",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2879626
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "275"
+        },
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/0274-01"
+      ]
+    },
+    {
+      "cite": "84 AD3d 780",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4024511
+      ],
+      "pin_cites": [
+        {
+          "page": "781"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/0780-01"
+      ]
+    },
+    {
+      "cite": "19 NY3d 875",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3754208,
+        3752329,
+        3755085,
+        3752575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/19/0875-03",
+        "/ny3d/19/0875-02",
+        "/ny3d/19/0875-01",
+        "/ny3d/19/0875-04"
+      ]
+    },
+    {
+      "cite": "18 NY3d 920",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5717152,
+        5714858,
+        5714588,
+        5715846
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0920-04",
+        "/ny3d/18/0920-01",
+        "/ny3d/18/0920-03",
+        "/ny3d/18/0920-02"
+      ]
+    },
+    {
+      "cite": "90 AD3d 716",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4037954,
+        4038421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/90/0716-01",
+        "/ad3d/90/0716-02"
+      ]
+    },
+    {
+      "cite": "28 NY3d 901",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        12281986,
+        12281859,
+        12281997,
+        12281871,
+        12282008,
+        12281882,
+        12281894,
+        12281908,
+        12281920,
+        12281803,
+        12281932,
+        12281942,
+        12281817,
+        12281825,
+        12281954,
+        12281964,
+        12281838,
+        12281975,
+        12281848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/28/0901-17",
+        "/ny3d/28/0901-06",
+        "/ny3d/28/0901-18",
+        "/ny3d/28/0901-07",
+        "/ny3d/28/0901-19",
+        "/ny3d/28/0901-08",
+        "/ny3d/28/0901-09",
+        "/ny3d/28/0901-10",
+        "/ny3d/28/0901-11",
+        "/ny3d/28/0901-01",
+        "/ny3d/28/0901-12",
+        "/ny3d/28/0901-13",
+        "/ny3d/28/0901-02",
+        "/ny3d/28/0901-03",
+        "/ny3d/28/0901-14",
+        "/ny3d/28/0901-15",
+        "/ny3d/28/0901-04",
+        "/ny3d/28/0901-16",
+        "/ny3d/28/0901-05"
+      ]
+    },
+    {
+      "cite": "139 AD3d 461",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4278635
+      ],
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/139/0461-01"
+      ]
+    },
+    {
+      "cite": "21 AD3d 363",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1264394,
+        1263411
+      ],
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/21/0363-01",
+        "/ad3d/21/0363-02"
+      ]
+    },
+    {
+      "cite": "246 AD2d 414",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        690582
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "416"
+        },
+        {
+          "page": "416"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/246/0414-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 782",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4429275,
+        4429469,
+        4429446
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0782-01",
+        "/ny-2d/81/0782-03",
+        "/ny-2d/81/0782-02"
+      ]
+    },
+    {
+      "cite": "186 AD2d 29",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1098252,
+        1098037
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/186/0029-02",
+        "/ad2d/186/0029-01"
+      ]
+    },
+    {
+      "cite": "208 AD2d 498",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1185194,
+        1184826
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/0498-02",
+        "/ad2d/208/0498-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 572",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4420939
+      ],
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0572-01"
+      ]
+    },
+    {
+      "cite": "65 NY2d 51",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 AD2d 442",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        673236
+      ],
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/223/0442-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 889",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 AD2d 48",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5709803
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "52-54"
+        },
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/152/0048-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 1033",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331366
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/1033-01"
+      ]
+    },
+    {
+      "cite": "79 AD2d 496",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3240010
+      ],
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/79/0496-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 624",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109784
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0624-01"
+      ]
+    },
+    {
+      "cite": "263 AD2d 565",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        134568,
+        134483
+      ],
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/263/0565-02",
+        "/ad2d/263/0565-01"
+      ]
+    },
+    {
+      "cite": "26 NY2d 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2294532
+      ],
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/26/0181-01"
+      ]
+    },
+    {
+      "cite": "103 AD2d 816",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5646191
+      ],
+      "pin_cites": [
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/103/0816-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 595",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4064193
+      ],
+      "pin_cites": [
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0595-01"
+      ]
+    },
+    {
+      "cite": "138 AD3d 668",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4240356
+      ],
+      "pin_cites": [
+        {
+          "page": "669"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0668-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 260",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618750
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0260-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 24",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338177
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0024-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 353",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2341985
+      ],
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0353-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 386",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5559439
+      ],
+      "pin_cites": [
+        {
+          "page": "389-390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0386-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 481",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2340023
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0481-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "pin_cites": [
+        {
+          "page": "87-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333065
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0268-01"
+      ]
+    },
+    {
+      "cite": "29 NY2d 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2301570
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/29/0157-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 633",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326485
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "634"
+        },
+        {
+          "page": "635"
+        },
+        {
+          "page": "636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0633-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 481",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4376899
+      ],
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0481-01"
+      ]
+    },
+    {
+      "cite": "28 USC § 1332",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1533,
+    "char_count": 35011,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2502066722808936
+    },
+    "sha256": "d75036a0521a814604f626c5703b1d941ad80f02fec309aea79d25d372bcfa5c",
+    "simhash": "1:b3ab5722b44c303c",
+    "word_count": 5874
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miriam Kaller Family Irrevocable Trust, by and through its Trustee Moshe Freund, Plaintiff, v Lincoln Benefit Life Company, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nEllen M. Spodek, J.\nIntroduction\nIn motion sequence No. 1, defendant Lincoln Benefit Life Company (Lincoln or the insurer) moves for an order, pursuant to CPLR 3211 (a), dismissing all claims interposed by plaintiff, The Miriam Kaller Family Irrevocable Trust (the trust), by and through its trustee Moshe Freund, with prejudice. Plaintiff opposed the motion.\nFacts\nPlaintiff commenced this action on April 2, 2014 seeking to recover damages for breach of contract premised upon defendant’s refusal to pay a death benefit of $10,000,000 or unjust enrichment seeking the return of premiums in the amount of approximately $500,000 paid on a life insurance policy. The subject policy was issued on December 10, 2007 (the policy) insuring the life of Miriam Kaller (the insured). At the time of issuance, the trustee was Abraham Kaller, the insured’s grandson. Plaintiff contends that Mr. Kaller resigned as trustee and on November 10, 2008, Mr. Freund was appointed to replace him.\nThe trust paid all the premiums on the policy as they became due. On October 12, 2009, during the period when the policy was in full force and effect, the insured died. To date, the insurer refuses to pay the death benefit or to refund the premiums paid.\nOn February 6, 2013, the insurer filed a complaint in the Federal District Court in New Jersey seeking a declaratory judgment holding that the policy was void due to material misrepresentations in the application concerning the insured’s financial condition and/or that there was a lack of an insurable interest at the inception (Lincoln Benefit Life Co. v Kaller, US Dist Ct, NJ, Oct. 4, 2007, No. 3:13-CV-00767) (the federal action). More specifically, Lincoln alleges that the policy was issued as the result of fraud and deceit and was intended to benefit strangers with no interest in the continuing life of the insured.\nOn February 13, 2013, a summons and complaint commencing the federal action was personally served on Mr. Kaller by serving his wife at his home in Brooklyn and mailing a copy to him. When Mr. Kaller failed to appear, Lincoln filed and served a request for entry of a default. The clerk entered the requested default on March 11, 2013. On June 24, 2013, having heard nothing further from the trust, Lincoln moved for a default judgment; that motion was returnable August 5, 2013. The motion was granted by order and judgment dated July 16, 2013 which provided that the policy was void, that no death benefits are or shall ever become due and payable under the policy and that the insurer was not obligated to return the premiums paid to the trust (the default judgment).\nDefendant’s Contentions\nIn support of its motion, defendant argues that the trust is precluded from maintaining the instant action pursuant to the doctrine of res judicata, i.e., by the time the trust commenced the instant action, the policy had already been declared void in the federal action. Defendant further asserts that the District Court had subject matter jurisdiction over the instant dispute pursuant to the court’s diversity jurisdiction since the insurer has its principal place of business in Lincoln, Nebraska, Mr. Kaller is a resident of New York State, and the amount of money in controversy exceeds $75,000 (28 USC § 1332 [a] [1]). Defendant goes on to argue that the District Court had personal jurisdiction over Mr. Kaller under New Jersey’s long-arm statute. Lincoln further notes that pursuant to its terms, the policy is governed by law of the state in which the application is signed; the application indicates that it was signed in Lakewood, New Jersey. Defendant also argues that plaintiff fails to offer any proof that Mr. Kaller resigned as trustee prior to the commencement of the federal action.\nPlaintiff’s Contentions\nIn opposition, the trust alleges that: (1) the District Court did not have personal jurisdiction over the trust or its sole trustee, Mr. Freund, because Lincoln did not serve Mr. Freund in that action, either in his individual capacity or as trustee; (2) there is no legal support for Lincoln’s contention that the due process requirements of the United States Constitution are to be disregarded in this case because Lincoln named and served an individual who had resigned as trustee more than four years before the action was commenced; (3) neither the current trustee, Mr. Freund, or the former trustee, Mr. Kaller, appeared in the federal action; and (4) the District Court disregarded its own procedural rules when it entered the default judgment.\nMore specifically, plaintiff argues that at all times, the owner and beneficiary of the policy was the trust, as provided in the application and the policy. Plaintiff also asserts that the policy provided addresses in Brooklyn for the insured, Mr. Kaller, and the trust. Plaintiff therefore concludes that the District Court could not properly premise jurisdiction over Mr. Kaller or the trust in reliance upon the long-arm statute, since Mr. Kaller had no contact with New Jersey.\nMoreover, plaintiff claims that the District Court did not have jurisdiction over the trust, since Lincoln served Mr. Kaller, who had resigned as the trustee four years earlier. Thus, since the federal court did not have personal jurisdiction over the trust, which did not appear in the action, the default judgment is null and void. From this it follows that the judgment is not entitled to full faith and credit, so that the doctrine of res judicata is inapplicable.\nPlaintiff further alleges that the default judgment should not be given res judicata effect because the District Court did not follow its own rules in issuing the judgment. More specifically, the civil docket for the case indicates that on July 3, 2013, the court held an ex parte telephone conference with Lincoln. Thereafter, a default judgment was signed on July 16, 2013, 20 days before the motion was returnable, six days before Mr. Kaller’s deadline to respond to the motion expired and without having received an affidavit or certificate attesting to the fact that Mr. Kaller had even been served with that motion.\nIn this regard, the trust points out that the affidavit of service for the motion states that Mr. Kaller will be served; there is no affidavit stating that he was served.\nFinally, the trust argues that there is no merit to Lincoln’s assertion that Mr. Freund does not have the capacity to sue on behalf of the trust, based upon its contention that a substitution of trustees requires a formal request to change ownership. In this regard, plaintiff claims that the trust was always the real party in interest, since it has always been the owner of the policy.\nMotion to Dismiss\nIt is well settled that\n“[o]n a motion to dismiss pursuant to CPLR 3211, the pleading is to be afforded a liberal construction (see, CPLR 3026). We accept the facts as alleged in the complaint as true, accord plaintiffs the benefit of every possible favorable inference, and determine only whether the facts as alleged fit within any cognizable legal theory (Morone v Morone, 50 NY2d 481, 484; Rovello v Orofino Realty Co., 40 NY2d 633, 634). Under CPLR 3211 (a) (1), a dismissal is warranted only if the documentary evidence submitted conclusively establishes a defense to the asserted claims as a matter of law (see, e.g., Heaney v Purdy, 29 NY2d 157). In assessing a motion under CPLR 3211 (a) (7), however, a court may freely consider affidavits submitted by the plaintiff to remedy any defects in the complaint (Rovello v Orofino Realty Co., supra, at 635) and ‘the criterion is whether the proponent of the pleading has a cause of action, not whether he has stated one’ (Guggenheimer v Ginzburg, 43 NY2d 268, 275]; Rovello v Orofino Realty Co., supra, at 636).” (Leon v Martinez, 84 NY2d 83, 87-88 [1994].)\nAs is also relevant herein, pursuant to CPLR 3211 (a) (5), a party may seek dismissal of a cause of action based on the doctrine of res judicata.\nRes Judicata\nIt is well settled that the “doctrine of res judicata . . . holds that, as to the parties in a litigation and those in privity with them, a judgment on the merits by a court of competent jurisdiction is conclusive of the issues of fact and questions of law necessarily decided therein in any subsequent action” (Gramatan Home Invs. Corp. v Lopez, 46 NY2d 481, 485 [1979] [emphasis and citations omitted]). “Under New York’s transactional approach to the rule, ‘once a claim is brought to a final conclusion, all other claims arising out of the same transaction or series of transactions are barred, even if based upon different theories or if seeking a different remedy’ ” (Matter of Josey v Goord, 9 NY3d 386, 389-390 [2007], quoting O’Brien v City of Syracuse, 54 NY2d 353, 357 [1981]). “Considerations of judicial economy as well as fairness to the parties mandate, at some point, an end to litigation” (Matter of Reilly v Reid, 45 NY2d 24, 28 [1978]). “The rationale underlying [the principle of res judicata] is that a party who has been given a full and fair opportunity to litigate a claim should not be allowed to do so again” (Matter of Hunter, 4 NY3d 260, 269 [2005] [citations omitted]). Thus, “[w]here a dismissal does not involve a determination on the merits, the doctrine of res judicata does not apply” (Chin Tsun Yang v Sneh Prabha Shukla, 138 AD3d 668, 669 [2016] [citations omitted]; see also Matter of Kiess v Kelly, 118 AD3d 595, 596 [2014]).\nIn applying the doctrine of res judicata, it must also be recognized that “[i]t has long been the constitutional rule that a court cannot adjudicate a personal claim or obligation unless it has jurisdiction over the person of the defendant” (Bennett v Bennett, 103 AD2d 816, 817 [1984]; see also Matter of Einstoss, 26 NY2d 181, 187 [1970]). Accordingly:\n“While a default judgment of a sibling state ... is conclusive on the merits and entitled to full faith and credit in this State, New York courts may address the issue of whether the rendering State had personal jurisdiction over the nonappearing party against whom that judgment was obtained, an inquiry which includes Federal due process considerations. Indeed, courts of this State will not enforce the underlying foreign judgment where the rendering State lacked personal jurisdiction.” (Schulz v Barrows, 263 AD2d 565, 566 [1999] [citations omitted], affd 94 NY2d 624 [2000].)\nThe court has explained that\n“[a] party against whom a default judgment is entered without obtaining jurisdiction over his person may appear and contest its validity or ignore the judgment and assert its invalidity whenever enforcement is attempted (McMullen v Arnone, 79 AD2d 496, 499) ....\n“Essentially, a defendant who has a defense predicated on a lack of in personam jurisdiction may pursue one of two options: either litigate the issue in the main action or decline to appear and accept a default judgment, deferring litigation of the issue until a proceeding is brought to enforce the judgment and mounting a collateral attack at that time. Having chosen the latter stratagem, defendant will not be relieved from the consequences of his failure to pursue it with diligence (Collins v Bertram Yacht Corp., [53 AD2d 527 (1976), affd 42 NY2d 1033 (1977)]).” (Boorman v Deutsch, 152 AD2d 48, 52-54 [1989], lv dismissed 76 NY2d 889 [1990]; accord Urena v NYNEX, Inc., 223 AD2d 442, 443 [1996].)\nIn specifically addressing decisions rendered by out-of-state courts, it has been held that\n“[t]he full faith and credit doctrine ‘requires recognition of [a] foreign judgment as proof of the prior-out-of-State litigation and gives it res judicata effect, thus avoiding relitigation of issues in one State which have already been decided in another’ (citations omitted) (.Matter of Farmland Dairies v Barber, 65 NY2d 51, 55; see also, US Const, art IV, § 1). Review of a foreign judgment by the forum State ‘is limited to determining whether the rendering court had jurisdiction, an inquiry which includes due process considerations’ (Fiore v Oakwood Plaza Shopping Ctr., 78 NY2d 572, 577, cert denied 506 US 823; see also, GNOC Corp. v Cappel letti, 208 AD2d 498; Matter of Susan G. v Martin L., 186 AD2d 29, appeal dismissed 81 NY2d 782).” (Ionescu v Brancoveanu, 246 AD2d 414, 416 [1998]; see also Scardace v Mid Is. Hosp., Inc., 21 AD3d 363, 365 [2005] [defendants’ contention that plaintiffs’ claims were expunged by order of the United States Bankruptcy Court so that the complaint should have been dismissed was without merit; the court correctly determined that the doctrines of res judicata and collateral estoppel were not applicable, since the Bankruptcy Court lacked personal jurisdiction over the plaintiffs].)\nIt is clear that res judicata principles apply to decisions rendered by federal courts (see generally Wietschner v Dimon, 139 AD3d 461, 462 [2016], lv denied 28 NY3d 901 [2016]; Lamb v Governor for N.Y. State, 90 AD3d 716 [2011], appeal dismissed 18 NY3d 920 [2012]; reconsideration denied, motion for stay dismissed 19 NY3d 875 [2012]; Toscano v 4B’s Realty VIII Southampton Brick & Tile, LLC, 84 AD3d 780, 781 [2011]; Matter of Frontier Ins. Co., 27 AD3d 274, 275 [2006]).\nIn contrast, “[s]o long as jurisdiction has been obtained, a defendant’s default in the rendering State will not nullify the res judicata effect of the judgment and the full faith and credit doctrine still applies” (Ionescu, 246 AD2d at 416, citing Parker v Hoefer, 2 NY2d 612, 616 [1957], cert denied 355 US 833 [1957]; Matter of Susan G. v Martin L., 186 AD2d 29 [1992]; Security Benefit Life Ins. Co. v TFS Ins. Agency, 279 NJ Super 419, 424, 652 A2d 1261, 1264 [1995]). “ ‘Where a party appears in a proceeding and judgment is subsequently entered against him based on a default upon a motion for summary judgment, the judgment is on the merits’ ” (Academic Health Professionals Ins. Assn, v Lester, 30 AD3d 328, 329 [2006], citing Boorman, 152 AD2d at 53; accord Matter of Frontier Ins. Co., 27 AD3d at 275 [since Frontier appeared in the federal action, there is no issue of personal jurisdiction, so that the federal judgment was rendered on the merits because not having raised a jurisdictional defense in its answer in federal court, Frontier waived it]).\nIn this case, it is not disputed that Mr. Kaller, and hence the trust, did not appear in the federal action. From this it follows that the trust can challenge the issue of personal jurisdiction in this action. This holding is also consistent with the Uniform Enforcement of Foreign Judgments Act, which defines a foreign judgment as “any judgment, decree, or order of a court of the United States or of any other court which is entitled to full faith and credit in this state, except one obtained by default in appearance, or by confession of judgment” (CPLR 5401). Consistent with the application of the doctrine of res judicata, “the exclusion of a default judgment from being accorded full faith and credit under CPLR article 54 is not intended to apply to all judgments taken by default, but only those where there is no appearance at all in the action” (Tatick v Tatick, 119 Misc 2d 729, 732 [1983], citing L & W A.C. Co. v Varsity Inn of Rochester, 82 Misc 2d 937 [1975], affd 56 AD2d 735 [1977]; Paden v Warnke, 110 Misc 2d 61 [1981]; see generally Rubinstein v Goldman, 225 AD2d 328, 328-329 [1996]).\nImplicit in this holding is the finding that the arguments raised by defendant in support of its motion are without merit, as is more fully addressed below.\nThe Trust and the Trustee\nAs a threshold issue, the court agrees with the parties’ contention that jurisdiction over a trust is obtained by serving a trustee. This is true whether New York or New Jersey law is found to be controlling. It has been held in New York that\n“[s]ervice of the summons and complaint upon any qualified trustee shall be sufficient service upon a trust. [Citibank v Kollen, 162 Misc 2d 883] (Sup. Ct. 1994). ‘[A] trustee, although acting in a representative capacity, may be properly served pursuant to the respective method provided for in the CPLR, depending on who or what holds the position of trustee.’ Id. at 995.” (Caruso Glynn, LLC v Sai Trust, 2012 WL 4053802, *3, 2012 US Dist LEXIS 134345, *8 [SD NY, July 9, 2012, No. 11 CV 4360(VB)].)\nSimilarly, in New Jersey, pursuant to rule New Jersey Rules of Court rule 4:26-1:\n“Every action may be prosecuted in the name of the real party in interest; but ... [a] trustee of an express trust or a party with whom or in whose name a contract has been made for the benefit of another may sue in the fiduciary’s own name without joining the person for whose benefit the suit is brought. A trustee of an express trust may be sued without . . . the beneficiaries of the trust unless it shall affirmatively appear in the action that a conflict of interest exists between the trustee and the beneficiaries.”\nThus, a trustee has legal capacity to sue in its own name (see also Connery v Sultan, 129 AD3d 455 [2015], lv denied, lv dismissed 26 NY3d 1080 [2015], rearg denied 27 NY3d 953 [2016]; Fiduciary Co. v Micro-Therapeutics, Inc., 83 AD2d 814 [1981]; Haag v Turney, 240 App Div 149, 151 [1934]).\nLincoln, however, fails to establish that Mr. Kaller was a trustee at the time that he was served. Significantly, this issue was not determined in the federal action, since the trust did not appear. Defendant’s contention that it continued to send mail to Mr. Kaller until the federal action was commenced does not establish that Mr. Kaller continued to serve as the trustee; at best, it may be sufficient to prove that neither Mr. Kaller nor Mr. Freund informed Lincoln of the change. In this regard, however, the insurer’s claim that the trust was obligated to advise Lincoln of the substitution of trustees because the policy required notification and approval of a change in ownership of the policy is unpersuasive, since the application and policy clearly establish that the trust was the owner, without regard to who served as the trustee.\nDefendant’s assertion that the trust was aware that the federal action had been commenced because Mr. Kaller’s attorney contacted it to request additional time to reply to the motion does not compel a different conclusion. “[E]vidence that a party had actual notice of a suit does not operate to cure defective service ‘since notice received by means other than those authorized by statute cannot serve to bring a defendant within the jurisdiction of the court’ ” (Laurenzano v Laurenzano, 222 AD2d 560, 560 [1995], quoting Feinstein v Bergner, 48 NY2d 234, 241 [1979]). Further, the court notes that Lincoln offers no statutory or case law precedent that would support the conclusion that a trust may be served by serving a former trustee. Finally, there is no claim by Lincoln that Mr. Freund was ever served.\nLong-Arm Jurisdiction\nIn addressing the issue of whether the District Court had jurisdiction over the trust, the court first notes that the only jurisdictional allegations in the complaint in the federal action are Lincoln’s unsupported contention that the trust is a New Jersey trust and its assertion that “a substantial part of the events giving rise to the claims occurred in New Jersey.” Lincoln, however, fails to provide any detail whatsoever, either in the complaint in the federal action or in its motion papers, as to what events, if any, occurred in New Jersey. A review of the documents filed by Lincoln in the federal action reveals that the only acts which the insurer claims occurred in New Jersey are the signing of the application and a statement on an amendment of application and statement of health and that the policy was delivered in that state.\nThe court finds that defendant fails to make a prima facie showing that New Jersey properly exercised long-arm jurisdiction over Mr. Kaller, even assuming he could be served as the former trustee of the trust. “In general, ‘once the defendant raises the question of personal jurisdiction, the plaintiff bears the burden to prove, by a preponderance of the evidence, facts sufficient to establish personal jurisdiction’ ” (Dupell, 2016 WL 7042068, *4, 2016 US Dist LEXIS 166530, *12, quoting Carteret Sav. Bank, FA v Shushan, 954 F2d 141, 146 [3d Cir 1992]). “Absent discovery and an evidentiary hearing, a court must accept the plaintiff’s allegations as true and construe disputed facts in favor of the plaintiff” (Gray v Apple Inc., 2016 WL 4149977, *2, 2016 US Dist LEXIS 101870, *4-5 [D NJ, Aug. 3, 2016, No. 13-cv-7798 (KM) (MAH)] [citations omitted]). “[P]laintiff, however, retains ‘the burden of demonstrating [that the defendants’] contacts with the forum state are sufficient to give the court in personam jurisdiction’ ” (Spiderplow, Inc. v Site Energy, 2016 WL 3869851, *2, 2016 US Dist LEXIS 92067, *3 [D NJ, July 14, 2016, No. 16-2318 (JLL)], quoting Mesalic v Fiberfloat Corp., 897 F2d 696, 699 [3d Cir 1990]).\nIt has been repeatedly held that\n“[t]o exercise personal jurisdiction over a defendant, a federal court sitting in diversity must undertake a two-step inquiry. IMO Indus., Inc. v Kiekert AG, 155 F.3d 254, 259 (3d Cir. 1998). First, the court must apply the relevant state long-arm statute to see if it permits the exercise of personal jurisdiction. Id.; see Marten v Godwin, 499 F.3d 290, 296 (3d Cir. 2007) (quoting Fed. R. Civ. R 4 (k)) (‘[A] federal district court may assert jurisdiction over a nonresident of the state in which the court sits to the extent authorized by the law of that state.’). Second, the court must apply the principles of due process. IMO Indus., 155 F.3d at 259. In New Jersey, this inquiry is conflated into a single step because the New Jersey long-arm statute permits the exercise of personal jurisdiction to the fullest extent permissible under the Due Process Clause. Id.” (Dupell, 2016 WL 7042068, *4, 2016 US Dist LEXIS 166530, *12-13; accord Ipoint Ventures, LLC v Pequot Capital Mgt., 2005 WL 1828586, *3, 2005 US Dist LEXIS 16039, *8 [D NJ, July 29, 2005, No. Civ A 04-6026 (JAG)].)\n“A district court sitting in New Jersey may therefore exercise personal jurisdiction over a non-resident defendant if the defendant has ‘certain minimum contacts with [New Jersey] such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice.’ ” (Spiderplow, 2016 WL 3869851, *1, 2016 US Dist LEXIS 92067, *1-2, quoting Henry Heide, Inc. v WRHProds. Co., Inc., 766 F2d 105, 108 [3d Cir 1985], quoting International Shoe Co. v Washington, 326 US 310, 316 [1945].)\n“There are two types of jurisdiction that a court can assert: specific or general” (Riedl v McConchie, 2015 WL 2169893, *2, 2015 US Dist LEXIS 60309, *7 [D NJ, May 8, 2015, No. 14—3925], citing Spuglio v Cabaret Lounge, 344 Fed Appx 724, 725 [3d Cir 2009]). “General jurisdiction results from, among other things, ‘systematic and continuous’ contact between a nonresident defendant and the forum state” (Spiderplow, 2016 WL 3869851, *1, 2016 US Dist LEXIS 92067, *2, quoting Spuglio, 344 Fed Appx at 725, quoting International Shoe Co., 326 US at 320). “To support general jurisdiction, the defendant’s ‘contacts [with the forum state] need not relate to the subject matter of the litigation,’ but must rise to ‘a very high threshold of business activity’ ” (Gray, 2016 WL 4149977, *3, 2016 US Dist LEXIS 101870, *7 [citations omitted]). Herein, Lincoln is not seeking to establish general jurisdiction, but instead relies upon the issuance of the policy in New Jersey and the clause in the policy stating that it is subject to the law of the state where the application was signed.\n“To prove specific jurisdiction, the plaintiff must show that the defendant has ‘purposefully directed [its] activities’ at the forum” (Rowland Global LLC v Good Clean Love, 2016 WL 952339, *4, 2016 US Dist LEXIS 32587, *10-11 [D NJ, Mar. 14, 2016, No. 15-5738 (MCA)], citing Burger King Corp. v Rudzewicz, 471 US 462, 472 [1985]). “This ‘purposeful availment’ requirement assures that the defendant could reasonably anticipate being haled into court in the forum and is not haled into a forum as a result of ‘random,’ ‘fortuitous’ or ‘attenuated’ contacts with the forum state” (Cammarata v Kelly Capital LLC, 2016 WL 6023058, *4, 2016 US Dist LEXIS 142445, *11 [D NJ, Oct. 14, 2016, 1:16-cv-00322-NLH-AMD], citing WorldWide Volkswagen Corp. v Woodson, 444 US 286, 297 [1980]).\nIn addressing the issue of specific jurisdiction, the court has explained that\n“[i]n determining whether specific jurisdiction exists over a given defendant, the Court must undertake a three-part inquiry. Marten v Godwin, 499 F.3d 290, 296 (3d Cir. 2007). First, the Court considers whether the defendant has ‘purposefully directed his activities at the forum.’ Id. (quoting Burger King Corp. v Rudzewicz, 471 U.S. 462, 472 . . . (1985)). In order to satisfy this standard, there must be more than ‘minimal communication between the defendant and the plaintiff in the forum state.’IMO Industries, 155 F.3d at 259 n. 3. Second, the Court considers whether the plaintiff’s claim ‘arise [s] out of or relate [s] to the defendant’s activities in the forum state.’ Marten, 499 F.3d at 296 (quoting Helicopteros Nacionales de Colombia, S.A. v Hall, 466 U.S. 408, 414 . . . (1984)). As this prong suggests, the Court’s analysis is dependent upon ‘the relationship between the claims and contacts.’ Id. Third, even if the first two prongs are satisfied, the Court considers whether, in light of various additional factors, the exercise of personal jurisdiction over a particular defendant ‘comports with fair play and substantial justice.’ Id. (internal quotations and citation omitted).” (Riedl, 2015 WL 2169893, *2, 2015 US Dist LEXIS 60309, *7-8.)\n“In some circumstances, ‘[a] contract may provide a basis for the exercise of personal jurisdiction that meets due process standards, but a contract alone does not “automatically establish sufficient minimum contacts in the other party’s home forum” ’ ” (Spiderplow, 2016 WL 3869851, *4, 2016 US Dist LEXIS 92067, *12-13, quoting Grand Entertainment Group, Ltd. v Star Media Sales, Inc., 988 F2d 476, 482-483 [3d Cir 1993], quoting Burger King, 471 US at 478). “[I]n deciding whether to exercise personal jurisdiction in a breach of contract dispute, a district court must consider ‘the totality of the circumstances, including the location and character of the contract negotiations, the terms of the contract, and the parties’ actual course of dealing’ ” (Dupell, 2016 WL 7042068, *5, 2016 US Dist LEXIS 166530, *14-15, quoting Remick v Manfredy, 238 F3d 248, 256 [3d Cir 2001]). Stated differently, “a court must look to the terms of the agreement, the place and character of prior negotiations, contemplated future consequences, or the course of dealings between the parties” (Cammarata, 2016 WL 6023058, *6, 2016 US Dist LEXIS 142445, *19, citing Mellon Bank [East] PSFS, Natl. Assn, v Farino, 960 F2d 1217, 1223 [3d Cir 1992]). It has also been held that “[a] claim for breach of contract arises at the place of performance of the contract” (Hudson Marine Mgt. Servs. v Thomas Miller (Miami) Inc., 2006 WL 1995131, *2, 2006 US Dist LEXIS 47900, *6 [D NJ, July 14, 2006, No. 05-5197 WJM], citing E.E. Cruz & Co. v Alufab, Inc., 2006 WL 1344095, *6, 2006 US Dist LEXIS 29706, *16 [D NJ, May 16, 2006, No. 06-262 (MLC)]).\nThus, “ ‘when the plaintiff can proffer evidence of a defendant deliberately directing mail, telephone, and/or email communications to the forum state,’ then a finding of personal jurisdiction may be proper” (Rowland Global LLC v Good Clean Love, Inc., 2016 WL 952339, *4, 2016 US Dist LEXIS 32587, *11-12 [D NJ, Mar. 14 2016, No. 15-5738 (MCA)], quoting Carrabba v Morgat, 2014 WL 229280, *4, 2014 US Dist LEXIS 7799, *13 [D NJ, Jan. 17, 2014, No. 2:12-6342 (KM)]). Similarly,\n“personal jurisdiction has been found in cases where the defendant solicited the contract or initiated the business relationship leading up to the contract; where the defendant sent any payments to the plaintiff in the forum state; and where the defendant engaged in extensive post-sale contacts with the plaintiff in the forum state” (Rowland Global LLC, 2016 WL 952339, *4, 2016 US Dist LEXIS 32587, *12, citing Vetrotex Certainteed Corp. v Consolidated Fiber Glass Prods. Co., 75 F3d 147, 152-153 [1996]).\nHerein, Lincoln relies exclusively upon its claim that the application was signed in New Jersey on January 7, 2008 and that the policy was delivered in that state. Lincoln, however, does not offer any proof to substantiate this claim, nor does the trust offer any proof to refute it. Lincoln alleges, without any support, that the trust was organized under the laws of New Jersey. The trust contends that it Was organized pursuant to the laws of New York. Conspicuously absent from the submissions of either party is a copy of the document that created the trust. Most significantly, neither party offers any evidence to demonstrate who the trust contacted to obtain the policy or where negotiations, if any, took place. Nor does either the insurer or the trust explain why the policy was signed and delivered in New Jersey, if that did, in fact, happen. In this regard, the court notes that the papers submitted on the motion include a cover letter delivering the policy to the trust in Brooklyn. It is also noted that the medical exam part 1 was signed in Brooklyn on July 26, 2007. Further, it is clear that the insured and Mr. Kaller lived in Brooklyn, that the insured died in New York and that the trust had a New York address. It is therefore clear that performance in New York, and not New Jersey, was contemplated.\nIn addition, Lincoln fails to make a prima facie showing that the trust was aware that it was negotiating with a New Jersey company (compare On-Time Staffing, LLC v Flexible Staffing Solutions, 2007 WL 1234978, *4, 2007 US Dist LEXIS 30773, *12 [D NJ, Apr. 25, 2007, No. 06-3951 (RBK)]). In fact, Lincoln is not a New Jersey company, but is organized and exists under the laws of Nebraska and maintains its principal place of business in that state. Similarly, Lincoln fails to make any showing that defendant communicated with it in New Jersey or that any negotiations took place in New Jersey (compare Spiderplow, 2016 WL 3869851, *4, 2016 US Dist LEXIS 92067, *13). Further, the payment notices indicate that payments to Lincoln were to be paid to the insurer by sending them to a post office box in Lincoln, Nebraska; there is no evidence to indicate that any money was sent from or to New Jersey (compare North Penn Gas Co. v Corning Natural Gas Corp., 897 F2d 687, 690-691 [3d Cir 1990]). The parties similarly had no contact with New Jersey after the policy was issued (compare Mesalic, 897 F2d at 700).\nThe court thus concludes that the trust did not avail itself of the privilege of doing business in New Jersey for the purpose of establishing the minimum contacts required for specific jurisdiction. From this it follows that the District Court could not properly assert long-arm jurisdiction over Mr. Kaller, and hence the trust.\nProceedings before the District Court\nThe court also declines to give res judicata effect to the default judgment because the decision was issued prior to the return date of the motion. Thus, assuming arguendo, that the trust was properly served, it was not given the opportunity to oppose the motion. In so holding, it is also noted that Lincoln offers no explanation with regard to how this happened.\nFurther, the court recognizes that Local Civil and Criminal Rules of the United States District Court for the District of New Jersey Civil Rule 7.1 (d) (1) provides that “[n]o application will be heard unless the moving papers and a brief, prepared in accordance with L Civ R 7.2, and proof or acknowledgment of service on all other parties, are filed with the Clerk at least 24 days prior to the noticed motion day.” It has been held that “[t]he prescription of specific periods of time for designated actions ... in the procedural rules serve to give the parties notice of when they are required to act. A district court may not disregard these time periods because it is impatient with a party’s behavior” (Gold Kist, Inc. v Laurinburg Oil Co., Inc., 756 F2d 14, 17 [3d Cir 1985]; see also Correia v Choice Point, Inc., 2008 WL 4951244, 2008 US Dist LEXIS 93680 [D NJ, Nov. 18, 2008, No. 06-2949 (GEB)] [motion was denied where the movant failed to provide proof that the motion was served upon all parties, in violation of Local Civil Rule 7.1 (d)]).\nThe court therefore concludes that in the absence of any explanation from Lincoln addressing the issue of how it obtained the default judgment before the return date of the motion and the absence of any proof that Mr. Kaller was actually served with the motion papers, this court will not recognize a judgment obtained in violation of the controlling local procedural rules.\nDisposition on the Merits\nFinally, in deciding not to give res judicata effect to the default judgment, the court notes that there is a strong public policy in favor of resolving cases on the merits (see e.g. Ingvarsdottir v Gaines, Gruner, Ponzini & Novick, LLP, 144 AD3d 1097 [2016]; Jong Gwon Kim v Strippoli, 144 AD3d 982 [2016]).\nConclusion\nBased on the foregoing, Lincoln’s motion to dismiss is denied.\n. Defendant also alleges that Mr. Kaller returned to Lakewood to accept delivery of the policy, as is indicated in a statement of insurability and policy delivery receipt. While the statement of insurability indicates that it was signed in New Jersey, the receipt, which was signed on the same day, does not so state.\n. The court notes that it is not clear that the District Court would have applied New Jersey law if the federal action had been litigated on the merits. In this regard it has been held that\n“New Jersey generally upholds choice-of-law clauses, so long as the clause ‘does not violate New Jersey’s public policy.’ North Bergen Rex Transp., Inc. v. Trailer Leasing Co., [158 NJ 561,] 730 A.2d 843, 847 (N.J. 1999) (citations omitted). A choice-of-law provision will be enforced unless:\n“(a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the parties’ choice.” (Dupell v Franklin Towne Charter Sch., 2016 WL 7042068, *3, 2016 US Dist LEXIS 166530, *11-12 [D NJ, Dec. 2, 2016, No. 16-278 (RBK/KMW)].)\nHere, as is more fully discussed below, it does not appear that New Jersey has any relationship to the parties or the transaction in issue.",
+        "type": "majority",
+        "author": "Ellen M. Spodek, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Drinker Biddle & Reath LLP (Katherine L. Villanueva and Jason Gosselin of counsel) for defendant.",
+      "Treff & Lowy PLLC (Michael Paneth and Paul Youkilis of counsel) for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[56 NYS3d 417]\nMiriam Kaller Family Irrevocable Trust, by and through its Trustee Moshe Freund, Plaintiff, v Lincoln Benefit Life Company, Defendant.\nSupreme Court, Kings County,\nFebruary 6, 2017\nAPPEARANCES OF COUNSEL\nDrinker Biddle & Reath LLP (Katherine L. Villanueva and Jason Gosselin of counsel) for defendant.\nTreff & Lowy PLLC (Michael Paneth and Paul Youkilis of counsel) for plaintiff."
+  },
+  "file_name": "2790-01",
+  "first_page_order": 395,
+  "last_page_order": 412
+}

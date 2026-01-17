@@ -1,0 +1,204 @@
+{
+  "id": 12282502,
+  "name": "The People of the State of New York, Plaintiff, v. Garis Ortega, Defendant",
+  "name_abbreviation": "People v. Ortega",
+  "decision_date": "2017-08-08",
+  "docket_number": "",
+  "first_page": "631",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 631"
+    },
+    {
+      "type": "parallel",
+      "cite": "62 N.Y.S.3d 879"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "49 Duke LJ 1487",
+      "category": "journals:journal",
+      "reporter": "Duke L.J.",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1493"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 NY2d 875",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4429747
+      ],
+      "pin_cites": [
+        {
+          "page": "876"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0875-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 777",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226855
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0777-01"
+      ]
+    },
+    {
+      "cite": "53 NY2d 213",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4380352
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/53/0213-01"
+      ]
+    },
+    {
+      "cite": "27 NY3d 1073",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 AD3d 455",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4112104,
+        4095234
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/136/0455-02",
+        "/ad3d/136/0455-01"
+      ]
+    },
+    {
+      "cite": "28 NY3d 567",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        12281618
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "571"
+        },
+        {
+          "page": "572"
+        },
+        {
+          "page": "581"
+        },
+        {
+          "page": "572"
+        },
+        {
+          "page": "573"
+        },
+        {
+          "page": "571"
+        },
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/28/0567-01"
+      ]
+    },
+    {
+      "cite": "476 US 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12787
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 975,
+    "char_count": 22721,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2490983065035838
+    },
+    "sha256": "d0f89d2b2c7f1d5593e6853d72909730c70bcc2f82ce0d6fcdcbcce394c550b0",
+    "simhash": "1:30027683b75e23f3",
+    "word_count": 3743
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Garis Ortega, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDaniel P. Conviser, J.\nOn March 29, 2013, the defendant was convicted after a jury trial presided over by this court of one count of rape in the first degree, one count of sexual abuse in the first degree and one count of rape in the third degree. He moves here to vacate that judgment pursuant to CPL 440.10 (1) (h) asserting that the court did not conduct a proper inquiry pursuant to Batson v Kentucky (476 US 79 [1986]) when defense counsel raised an objection to the “prosecutor’s exclusion of dark-complexioned male jurors.” Defendant’s argument is based on the recent decision of the New York Court of Appeals in People v Bridgeforth (28 NY3d 567 [2016]), which held that discrimination in jury selection based on skin color “as a classification separate from race” (or ethnicity) is a proper basis on which to raise a Batson challenge. The Bridgeforth decision was issued subsequent to the exhaustion of the defendant’s appeals in this case.\nFor the reasons set forth below the defendant’s motion is denied. This case also illustrates, however, the practical issues which are sure to recur as trial courts struggle with the question of how skin color, as distinct from race or ethnicity, should be assessed in Batson challenges. The rationale for the Bridge-forth decision is compelling. How trial courts will be able to practically assess whether a party is discriminating against jurors by virtue of “similar skin color, for example, dark-colored” is less clear.\nStatement of Facts\nThe defendant’s conviction arises out of a sexual assault which occurred on November 5, 2010 in Manhattan. The evidence presented by the People indicated that the defendant approached the complainant on a Manhattan street at approximately 4:00 a.m. and that the complainant and defendant then agreed to spend time together and shared beers they went to purchase at a drug store. When the complainant reached the door of her building at approximately 5:30 a.m. and rebuffed the defendant’s requests to accompany her to her apartment, the defendant forcibly raped her in her apartment building vestibule. The complainant managed to escape from the vestibule following the attack and immediately approached a witness parking her car on the street at approximately 6:00 a.m. The complainant told the witness she had just been raped. The witness called the police who then promptly responded to the scene.\nThe victim in this case was an English woman, who was clearly Caucasian. The defendant’s last name “Ortega” is a common Hispanic surname. The defendant was also referred to during the People’s summation (for a reason not relevant here) as “Black.”\nThe defendant moved twice pursuant to CPL 330.30 to set aside the verdict against him. Both motions were denied by this court. The defendant’s direct appeal was then denied (People v Ortega, 136 AD3d 455 [1st Dept 2016]) and the Court of Appeals denied leave to appeal on May 13, 2016. (27 NY3d 1073 [2016].)\nDuring jury selection, defense counsel objected to the prosecutor’s challenge of prospective juror No. 16, Mr. Daley, stating: “Your honor, as far as I can tell, every male of color who was on this panel has been—Every male of color has been excluded as peremptory challenges by the People.” The court then engaged counsel in a discussion concerning prospective jurors who had been peremptorily challenged by the People prior to Mr. Daley.\nDefense counsel identified Mr. Omar Hakim as one such juror. In response to the court’s questions concerning the cognizable group the juror belonged to, the following colloquy ensued between the court, defendant’s counsel (Mr. Rodriguez) and the Assistant District Attorney (Ms. Groves):\n“MR. RODRIGUEZ: He [Mr. Hakim] is at least my complexion.\n“THE COURT: I am not talking about his complexion, I am talking about ethnicity.\n“MR. RODRIGUEZ: All I said—\n“THE COURT: You are saying, people of color. What do you construe his ethnicity to be, is my question to you?\n“MR. RODRIGUEZ: I don’t know what the ethnicity is.\n“THE COURT: What do you think?\n“MS. GROVES: I assume somewhere in Middle Eastern [sic], based on Hakim.\n“MR. RODRIGUEZ: Could be Indian.\n“THE COURT: I am not sure that people of color, in other words, people from the Middle East, Hispanic or black are a cognizable group. Is that the group you are saying should be—\n“MR. RODRIGUEZ: I am making a notation.\n“THE COURT: This is important. I think I am asking you what group you are identifying as being the challenged group. In other words, you are saying people of color, being anyone of the Middle East, is considered in this category?\n“MR. RODRIGUEZ: Why not?\n“THE COURT: I am not arguing with you, I am asking you is that the cognizable group that you are talking about. So in other words, people of color, from your perspective, we have to have a record, right?\n“MR. RODRIGUEZ: Right.\n“THE COURT: We have to have a group, right?\n“MR. RODRIGUEZ: Right.\n“THE COURT: The group is people who are either black, Hispanic, Middle Eastern. What about Asians, are they people of color?\n“MR. RODRIGUEZ: Yes.\n“THE COURT: So a Chinese person would be a person of color, as well?\n“MR. RODRIGUEZ: Do I think they are?\n“THE COURT: I am asking you, who is in the group?\n“MR. RODRIGUEZ: Omar Hakim\n“THE COURT: No, no I am asking—\n“MR. RODRIGUEZ: I’m making it based on the people in this group.\n“THE COURT: I got that. I am trying to understand, it is important to understand, and I am not arguing with you. I am not arguing with you, but it may sound adversarial. But I am not, I am just trying to understand who is in this group that you think is being excluded by the People? Does it include African American, Middle Eastern, Hispanic?\n“MR. RODRIGUEZ: That is right.\n“THE COURT: What about Asians?\n“MR. RODRIGUEZ: I hadn’t considered it in this case.\n“THE COURT: So it doesn’t include Asians?\n“MR. RODRIGUEZ: I didn’t include it.\n“THE COURT: So people of color are anybody in the group of African Americans or Hispanics or Middle Eastern.\n“MR. RODRIGUEZ: I think Middle Eastern people are African.\n“THE COURT: What about Indians, are they part of the this group?\n“MR. RODRIGUEZ: I think they are. I think they are.\n“THE COURT: I am just trying to understand your group. I don’t think that is a cognizable group. Middle Eastern people cannot be put into the same category, I don’t think, as black or Hispanic people. I am sorry, I don’t see it.\n“MR. RODRIGUEZ: That is fine.”\nThere was then an extended discussion of the ethnicity of a juror, Mr. Meyer, who had been challenged by the People. While all agreed he had darker skin tone than a Caucasian, the court noted his curly hair and said he might be a Pacific Islander, Black, Hispanic or some combination of those races or ethnicities. ADA Groves said she was “thinking Hawaiian.” Mr. Rodriguez described Mr. Meyer as being of “middle complexion” with hair “even more coarse than mine” but then said “he is black” continuing “[h]e looks pretty black to me.”\nThe challenged jurors thus consisted of Mr. Hakim (who was Middle Eastern or Indian), Mr. Meyer (who was Black, Hispanic, Pacific Islander, Hawaiian or some combination of those groups), Mr. Daley (who all agreed was African-American) and one Hispanic juror, for which no assertion concerning skin color was made. However, the People also did not strike an additional Hispanic male juror. The parties agreed that no prima facie case of discrimination had been established with respect to Hispanic jurors (based on the fact that the prosecution had struck one male Hispanic juror and not struck a second male Hispanic juror). The People had also not stricken one African-American woman and one woman who was asserted by various colloquy participants to be Hispanic, Asian or Indian. The defendant’s Batson claim, however, concerned males. The court held that the defendant had not established a prima facie case and denied the challenge. As discussed infra, the court concluded that the defendant had not articulated a cognizable class under Batson.\nConclusions of Law\nPeople v Bridgeforth\nIn Bridgeforth, the Court outlined how the Batson rule had been adopted under the New York State Constitution to prohibit discrimination “on the basis of race, gender or any other status that implicates equal protection concerns.” (28 NY3d at 571 [citations omitted].) The Court noted that “race” and “color” were two distinct categories under both the Equal Protection Clause of the New York State Constitution and Civil Rights Law § 13, which prohibits discrimination in jury selection. The Court also held that “[p]ersons with similar skin tones are often perceived to be of a certain race and discriminated against as a result, even if they are of a different race or ethnicity. That is why color must be distinguished from race.” (28 NY3d at 572.) The Court reversed the trial court’s denial of a Batson challenge in the case which had been based on alleged discrimination against dark-skinned women. It recognized for the first time that a Batson challenge could be based on skin color (or “colorism”) as distinguished from either race or ethnicity.\nDefendant’s claim is barred because it was not raised on direct appeal.\nThe defendant’s motion here fails for at least two and possibly three independent reasons. First, a defendant’s motion to vacate a judgment must be denied if sufficient facts appear on the record to support his claim and he unjustifiably neglects to raise that claim on an appeal actually perfected by him. (CPL 440.10 [2] [c].) That is what occurred here.\nHere, the defendant not only perfected a direct appeal, he also raised a separate Batson issue on that appeal with respect to the People’s strike of a juror not at issue here. That Batson claim was explicitly rejected by the First Department in their decision. (136 AD3d at 456.) The Court of Appeals then denied the defendant leave to appeal. The defendant argues that he was not required to raise the instant Batson challenge on his appeal because the Bridgeforth case enacted a “significant change in the application of New York law.” But the very issue defendant raises here was raised by him during an extended argument at the trial, prior to the Bridgeforth decision. Indeed, the defendant’s entire claim on this motion is based on record facts. Obviously, having raised the instant issue at trial and a Batson claim on his appeal, there was no impediment to including the instant issue on his direct appeal as well.\nBridgeforth, moreover, did not overrule any prior precedent. It clarified an issue which the Court of Appeals had not previously explicitly addressed. It was based not only on a clear policy rationale but the plain language of both the New York State Constitution and the New York Civil Rights Law. Because the defendant unjustifiably failed to raise the instant issue on his direct appeal he is barred from raising it now.\nIt is not clear that Bridgeforth can be applied retroactively.\nThe instant claim could also only be granted if Bridgeforth was given retroactive application to cases no longer subject to direct review. The defendant’s appeals in this case became final on May 13, 2016, when the Court of Appeals denied the defendant’s motion for leave to appeal. The Bridgeforth decision was announced on December 22, 2016. Bridgeforth was based on the New York State Constitution and the retroactivity question here must be analyzed pursuant to the retroactivity principles outlined in People v Pepper (53 NY2d 213 [1981]). In determining whether a state court decision should be given retroactive effect, a court must “weigh three factors to determine whether a new precedent operates retroactively: the purpose to be served by the new standard; the extent of the reliance by law enforcement authorities on the old standard; and the effect on the administration of justice of a retroactive application of the new standard.” (People v Baret, 23 NY3d 777, 793 [2014] [internal quotation marks omitted].) “The Pepper factors disfavor retroactivity.” (Id. at 799.)\nThe issue of whether Bridgeforth should be applied retroactively to cases no longer subject to a direct appeal has not been decided in any reported decision. Given that this court believes there are two clear independent bases on which the relief sought here must be denied, the court has not ruled on the retroactivity issue.\nThe defendant did not establish a prima facie case of discrimination.\nAs the often confused colloquy cited here makes plain, the defendant did not establish a prima facie case of discrimination. The defendant initially stated his claim as one premised on the People’s strikes on “males of color.” But as the discussion proceeded it became evident the defendant was unclear as to what cognizable class he was making a claim for. In response to the court’s questions, Mr. Rodriguez first said that Asians were “people of color,” then that he “hadn’t considered” the issue and then that Asians were not included in that class. He asserted his belief that “Middle Eastern people are African.” In response to whether a person who traced their ancestry to the Indian subcontinent would be included among “people of color” he asserted: “I think they are. I think they are.”\nMr. Rodriguez first asserted that Mr. Meyer was of “middle complexion” then that he “looks pretty black to me.” But this court also contributed to the confusion. It presumed Mr. Rodriguez’s claim was based at least in part on race or ethnicity and posed questions regarding those issues rather than attempting to zero in on the issue the Court squarely addressed in Bridgeforth: the notion that purposeful discrimination can exist with respect to skin color apart from any consideration of race or ethnicity.\nThe preceding recitation is not intended as a criticism of Mr. Rodriguez, an attorney who provided zealous and effective representation to Mr. Ortega. To the contrary, Mr. Rodriguez raised an essential point during his challenge, the same point made by the Bridgeforth court: that discrimination can be perpetrated along multiple lines and is not limited to distinctions based only on race, ethnicity or gender. Ultimately, however, the record reflects that to the extent the class Mr. Rodriguez sought to identify could be discerned, it consisted of persons of African-American, Hispanic or Middle Eastern descent, with the possible additional qualification that such persons had skin tones darker than a Caucasian and the additional provisos that the class likely included Indians (but not Asians) and that persons of Middle Eastern descent were African. In this court’s view, that group does not constitute a cognizable class under Batson.\n“To give the trial court a basis to evaluate the claim, a party asserting a claim under Batson should articulate and develop all of the grounds supporting the claim, factual and legal, during the colloquy in which the objection is discussed.” (People v Smith, 81 NY2d 875, 876 [1993] [rejecting the argument that “minorities” are a cognizable racial group for Batson challenges].) The defendant had a burden here. In this court’s view, he did not meet it.\nThe Larger Problem: Implementing Bridgeforth in the Trenches\nThe ensuing colloquy also illustrates a larger problem. While the Bridgeforth rule and its underlying rationale are clear, implementing the decision will likely be difficult in many cases.\nJudge Garcia’s concurring opinion in Bridgeforth asserted that in holding that a Batson claim could be premised on skin color alone “the majority dramatically expands our Batson jurisprudence beyond what any court has done before” (28 NY3d at 581 [Garcia, J., concurring] [citations omitted]). He would have reversed the judgment on narrower grounds rather than adopted the “monumental ruling” the majority reached. (Id.) Judge Garcia also asserted that the majority’s conclusion that trial court determinations on skin color “can be made in the same way they are made about race, gender, and ethnicity classifications supplies little concrete or practical instruction for lower courts tasked with creating a record that allows for meaningful appellate review.” (Id. [internal quotation marks from majority opinion omitted].)\nThere will be cases where it will be obvious that two jurors are both of reasonably similar skin color. But when skin color is unmoored from race or ethnicity, there will also be cases where drawing an appropriate line and making a discernable record of it may be practically impossible.\n“Race” and “color” have been described as “social constructions” whose importance comes from the “salience that we give them.” Ours, of course, has always been a multiracial society. “Whites and blacks had been mixing in Africa, Europe, and Asia eons before Columbus sailed the Western ocean.” Moreover, our society is rapidly becoming more multiracial. With respect to prima facie Batson determinations, there is no defined skin color line above or below which prospective jurors can be placed into cognizable groups. Distinctions will be made in different ways by different judges. The notion that a uniform skin color line might be drawn, for example, by having a chart of skin tones in a courtroom and then referring and creating a record from it when Batson challenges were made would likely be seen as both ridiculous and offensive. Indeed, in this case, juror skin color was not only described generally but in relation to the skin color of the defendant’s attorney and the defendant, for which there was also no record. But skin color lines in individual cases will have to be drawn somewhere. They will have to be drawn by human beings (judges), acting subjectively.\nNor will adequate records for appellate review necessarily be possible in such cases. No one has proposed, for example, that photographs be taken when skin color Batson challenges are made. Skin tone assessments are also influenced by often incorrect assumptions about ethnicity, race or background. Such assessments will be grounded in each assessor’s unique life experiences. Indeed, as noted, supra, the fact that skin color serves as a proxy for assumptions about racial identity was one of the rationales for the Bridgeforth decision.\nThe ways in which we tend to verbally characterize skin color may provide little help. In this case, colloquy participants characterized the skin tone of one juror, Mr. Meyer, with all of the following descriptions:\n“His complexion is mine, at least mine. He is middle complexion. His hair is even more coarse than mine.”\n“He looks pretty black to me, Judge.”\n“He’s got darker skin, yes.”\n“His skin is at least darker than my client’s.”\n“He’s got darker skin than a Caucasian person, okay.”\n“I was thinking Hawaiian.”\nHow characterizations like this will be culled to form rules for trial courts to follow is not clear.\nNone of these observations, in this court’s view, mean that Bridgeforth was wrongly decided. A lawyer who strikes two dark-skinned jurors on the basis of skin color should not be immunized from a Batson challenge because one juror was African-American and the other was of Indian descent. The new path taken by our highest Court to combat what remains one of the most invidious and corrosive features of our criminal justice system accords with the fundamental principles of due process enshrined in the New York State Constitution. It is consistent with the leadership our Court of Appeals has exercised throughout its history to combat the most obstinate problems of the law and our society.\nThe difficulties trial courts will have in assessing skin color challenges, however, will be of a different character than challenges based on race or ethnicity. With race or ethnicity claims, it may be difficult in some cases to discern whether a juror is African-American or Hispanic. But there are at least agreed-upon questions. The issue of whether someone has a sufficiently dark (or light) skin color to be placed into a Batson class may not be so simple.\nOur courts may need new tools and training to adequately address such issues. We will also need the courage to talk about the subject honestly, recognizing that lawyers and judges who have their every word recorded will have to be given some slack if they are unable to address the fraught issues of race, color and ethnicity on their feet in the heat of a courtroom battle with the optimal degree of sensitivity and cogence. In the absence of effective tools, the default may be the denial of Batson challenges. As the instant case illustrates, principled positions do not necessarily equate to clear records. To fulfill the aspirations of Bridgeforth, we may all need to think in new ways.\n. Defendant’s notice of motion at 1.\n. 28 NY3d at 572.\n. Id. at 573.\n. The question of whether to capitalize the word “Black” when it is used to describe a racial classification (rather than only a color) has been controversial. This court determined that the word should be capitalized here. (See Lori L. Tharps, The Opinion Pages, The Case for Black With a Capital B, NY Times, Nov. 18, 2014, available at https://www.nytimes.com/2014/ll/19/ opinion/the-case-for-black-with-a-capital-b.html?mcubz=0.) The words “black” and “white” were recorded in the transcript, however, with lowercase letters and the transcript quotations are provided here as they appear in the transcript.\n. Trial tr at 260.\n. Id. at 260-263.\n. Id. at 266.\n. Id. at 264.\n. Defendant’s affirmation at 14.\n. The People were never asked for neutral explanations for any of their peremptory challenges since the court ruled that the defendant had not established a prima facie case of discrimination and did not proceed to steps 2 and 3 of the Batson analysis. (See Bridgeforth, 28 NY3d at 571 [outlining the three-step Batson challenge protocol].)\n. Trina Jones, Shades of Brown: The Law of Skin Color, 49 Duke LJ 1487, 1493 (2000), cited in Bridgeforth, 28 NY3d at 572.\n. Id. at 1500 (internal quotation marks omitted).\n. See e.g. Pew Research Center, Social and Demographic Trends, Multiracial in America: Proud, Diverse and Growing in Numbers, http:// www.pewsocialtrends.org/2015/06/ll/multiracial-in-america/ (June 11, 2015).\n. (Voir dire tr at 264.) That final sentence is an example of how assumptions about ethnicity based on non-skin color characteristics are sometimes difficult to separate from assessments of skin tone alone.\n. Id.\n. Id.\n. Id.\n. Id.\n. Id. at 266.",
+        "type": "majority",
+        "author": "Daniel P. Conviser, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Thomas A. Kenniff for defendant.",
+      "Cyrus R. Vance, Jr., District Attorney (Courtney Groves of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[62 NYS3d 879]\nThe People of the State of New York, Plaintiff, v Garis Ortega, Defendant.\nSupreme Court, New York County,\nAugust 8, 2017\nAPPEARANCES OF COUNSEL\nThomas A. Kenniff for defendant.\nCyrus R. Vance, Jr., District Attorney (Courtney Groves of counsel), for plaintiff."
+  },
+  "file_name": "2936-01",
+  "first_page_order": 631,
+  "last_page_order": 642
+}

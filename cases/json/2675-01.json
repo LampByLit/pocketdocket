@@ -1,0 +1,518 @@
+{
+  "id": 12299525,
+  "name": "The People of the State of New York, Plaintiff, v. Jamie L. Ormanian, Defendant",
+  "name_abbreviation": "People v. Ormanian",
+  "decision_date": "2016-11-09",
+  "docket_number": "",
+  "first_page": "566",
+  "last_page": "574",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 566"
+    },
+    {
+      "type": "parallel",
+      "cite": "47 N.Y.S.3d 847"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Gloversville City Ct.",
+    "id": 9237,
+    "name": "Gloversville City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "338 US 160",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3943769
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/338/0160-01"
+      ]
+    },
+    {
+      "cite": "401 US 797",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714932
+      ],
+      "pin_cites": [
+        {
+          "page": "804-805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0797-01"
+      ]
+    },
+    {
+      "cite": "79 AD2d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3231649,
+        3228689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/79/0688-01",
+        "/ad2d/79/0688-02"
+      ]
+    },
+    {
+      "cite": "1 AD3d 977",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 NY2d 342",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355040
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0342-01"
+      ]
+    },
+    {
+      "cite": "107 Misc 2d 480",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1951000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/107/0480-01"
+      ]
+    },
+    {
+      "cite": "49 Misc 3d 392",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4351953
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/49/0392-01"
+      ]
+    },
+    {
+      "cite": "506 US 1049",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12084449,
+        12084292,
+        12084741,
+        12084359,
+        12084583,
+        12084331,
+        12084878,
+        12084687,
+        12084405,
+        12084790,
+        12084541,
+        12084637,
+        12084830
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/1049-05",
+        "/us/506/1049-01",
+        "/us/506/1049-10",
+        "/us/506/1049-03",
+        "/us/506/1049-07",
+        "/us/506/1049-02",
+        "/us/506/1049-13",
+        "/us/506/1049-09",
+        "/us/506/1049-04",
+        "/us/506/1049-11",
+        "/us/506/1049-06",
+        "/us/506/1049-08",
+        "/us/506/1049-12"
+      ]
+    },
+    {
+      "cite": "966 F2d 964",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524254
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/966/0964-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 1179",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4245295
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/1179-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 143",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618673
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0143-01"
+      ]
+    },
+    {
+      "cite": "547 US 406",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "375 US 860",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11746048,
+        11745859,
+        11746119,
+        11745930,
+        11745995,
+        11746193,
+        11746258,
+        11745817
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/375/0860-05",
+        "/us/375/0860-02",
+        "/us/375/0860-06",
+        "/us/375/0860-03",
+        "/us/375/0860-04",
+        "/us/375/0860-07",
+        "/us/375/0860-08",
+        "/us/375/0860-01"
+      ]
+    },
+    {
+      "cite": "490 US 386",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605535
+      ],
+      "pin_cites": [
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0386-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 398",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374900
+      ],
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0398-01"
+      ]
+    },
+    {
+      "cite": "179 AD2d 424",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069471
+      ],
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0424-01"
+      ]
+    },
+    {
+      "cite": "330 F2d 543",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        127866
+      ],
+      "pin_cites": [
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/330/0543-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 187",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2344529
+      ],
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0187-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2324039
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0173-01"
+      ]
+    },
+    {
+      "cite": "547 US 398",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275413
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0398-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 328",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282573
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "331"
+        },
+        {
+          "page": "331"
+        },
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0328-01"
+      ]
+    },
+    {
+      "cite": "52 NY2d 689",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1101058
+      ],
+      "pin_cites": [
+        {
+          "page": "694"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/52/0689-01"
+      ]
+    },
+    {
+      "cite": "170 F Supp 2d 311",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9469636
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/170/0311-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725125
+      ],
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0677-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736905
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0225-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 98",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331592
+      ],
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0098-01"
+      ]
+    },
+    {
+      "cite": "15 NY3d 100",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3741866
+      ],
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0100-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 874,
+    "char_count": 17275,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.250265749084213
+    },
+    "sha256": "665ef00ff2a76a615e9b3c6883e6021c92dcd4789126fbf3e0c0ad0fb4905c55",
+    "simhash": "1:bc08af9717ca96e4",
+    "word_count": 2757
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jamie L. Ormanian, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nTraci DiMezza, J.\nOn May 20, 2016, the defendant, Jamie L. Ormanian, was charged with the crimes of obstructing governmental administration in the second degree, in violation of Penal Law § 195.05; resisting arrest, in violation of Penal Law § 205.30; attempted assault, in violation of Penal Law §§ 110.00, 120.00 (1); attempted escape in the third degree, in violation of Penal Law §§ 110.00, 205.05; harassment in the second degree, in violation of Penal Law § 240.26 (1); and disorderly conduct, in violation of Penal Law § 240.20 (1).\nBy notice of motion dated September 16, 2016, defendant moves, through her attorney, William Martuscello, for dismissal of all six accusatory instruments as facially insufficient. The People have responded through the affirmation in opposition of Amanda M. Nellis, Esq., dated September 29, 2016. The matter now comes before the court for a decision.\nFacial Sufficiency of Accusatory Instruments\nIt is well settled that a “valid and sufficient accusatory instrument is a nonwaivable jurisdictional prerequisite to a criminal prosecution.” (People v Dreyden, 15 NY3d 100, 103 [2010], quoting People v Case, 42 NY2d 98, 99 [1977].)\nAn information, in order to be sufficient, must contain an accusatory portion that charges a “designated offense” (CPL 100.15 [2]) and a factual portion, that alleges “facts of an evi-dentiary character supporting or tending to support the charges” (CPL 100.15 [3]). In addition, the provisions of CPL 100.40 require that the factual portion contains “[n]on-hearsay allegations of fact” which establish every element of the offense charged, and provide reasonable cause to believe that the defendant committed the offense (CPL 100.40 [1] [b], [c]).\nThe Prima Facie Case Requirement\nThe New York State Court of Appeals holds that the statutory requirements of CPL 100.40 are not the same as the burden of proof beyond a reasonable doubt, and does not rise to the level of legally sufficient evidence necessary at trial. (People v Kalin, 12 NY3d 225, 230 [2009]; People v Henderson, 92 NY2d 677, 679 [1999]; see also Preiser, Practice Commentaries, McKinney’s Cons Laws of NY, Book 11A, CPL 100.40 at 388 [2004 ed].) “So long as the factual allegations of an information give an accused notice sufficient to prepare a defense and are . . . detailed [enough] to prevent a defendant from being tried twice for the same offense, they should be given a fair and not overly restrictive or technical reading.” (People v Casey, 95 NY2d 354, 360 [2000].)\nObstructing Governmental Administration in the Second Degree\nThe relevant portion of Penal Law § 195.05 reads as follows:\n“A person is guilty of obstructing governmental administration [in the second degree] when he intentionally obstructs, impairs or perverts the administration of law or other governmental function or prevents or attempts to prevent a public servant from performing an official function, by means of intimidation, physical force or interference, or by means of any independently unlawful act.”\nUnder New York law, an arrest for obstructing governmental administration in the second degree requires probable cause to believe that: (1) a person prevented or attempted to prevent another from performing a function; (2) the other person was a public servant; (3) the function was an official action authorized by law; and (4) the obstruction was sought to be accomplished by means of intimidation, physical force or interference. (Diehl v Munro, 170 F Supp 2d 311 [ND NY 2001].)\nThe information charging defendant with the crime of obstruction is signed by complainant Officer J. DiCristofaro, who alleges that on\n“May 20, 2016, the Defendant obstructed, impaired and prevented him from performing his official function ... by lying via telephone, about the location of her and her daughter with the intent of hiding her daughter from the police, who was the subject of a mental health complaint, where her daughter made suicidal comments to a friend. Once the complainant learned of the daughter’s location, via GPS tracking, the defendant attempted to physically prevent the officers from arresting her daughter, by refusing to move out of the door way and pushing officers, which prevented your deponent from performing his official function.”\nThe defendant contends, and this court agrees, that a defendant can not be convicted of obstruction, or interfering with an officer in the performance of an “official function,” unless it is established that the police were engaged in lawful conduct. The crux of defendant’s argument is that police were attempting to enter the premises, unlawfully without a warrant, and that defendant’s interference and resistance, therefore, was justified.\nWarrantless Entry\nThe Fourth Amendment to the United States Constitution and article I, § 12 of the New York Constitution affords “special protection to a person’s expectation of privacy in his own home.” (People v Knapp, 52 NY2d 689, 694 [1981].) Courts, however, have “long recognized that the Fourth Amendment is not violated every time police enter a private [residence] without a warrant.” (People v Molnar, 98 NY2d 328, 331 [2002].) While the Fourth Amendment’s warrant requirement protects against unreasonable search and seizure, it does not operate as a barrier to police when seeking to aid someone who may be in danger. {See e.g. Molnar, 98 NY2d at 331.) Recognizing the many varied circumstances facing law enforcement officials, a number of exceptions to the warrant requirement have been delineated. One such exception is the “emergency doctrine” (Brigham City, Utah v Stuart, 547 US 398 [2006]).\nIn People v Mitchell (39 NY2d 173 [1976]), the New York Court of Appeals formulated a three-prong test for determining whether the police are presented with an emergency situation that justifies a warrantless entry into a protected area: (1) the police must have reasonable grounds to believe that there is an emergency at hand and an immediate need for their assistance for the protection of life or property; (2) the search must not be primarily motivated by intent to arrest and seize evidence; and (3) there must be some reasonable basis, approximating probable cause, to associate the emergency with the area or place to be searched. {Id. at 177-178.)\nIt is the defendant’s contention that both the first and third prongs of the Mitchell standard are at issue, namely: that police lacked reasonable grounds to believe that an emergency existed and that police lacked proximate cause associating the emergency with the premises they entered.\nExigent Circumstances and the Emergency Doctrine\nIn Fourth Amendment cases, courts have long recognized an emergency exception which permits the police to enter without a warrant or probable cause to arrest, in order to search for a person who may be in danger or whom they reasonably believe may be in distress. (People v Krom, 61 NY2d 187, 199 [1984] [holding that the “Fourth Amendment does not require police officers to delay in the course of an investigation [when it could] gravely endanger . . . the lives of others”].) Both state and federal courts have sanctioned the right of the police to enter and investigate in an emergency “[as] inherent in the very nature of their duties as peace officers.” (United States v Barone, 330 F2d 543, 545 [1964].)\nThis court is not inclined to hold that a review of police conduct under the emergency doctrine is equivalent to a general probable cause analysis. While normally the failure of police to investigate, to secure a supporting deposition, or find corroboration is relevant, such delays, when faced with an emergency, could lead to serious consequences. “In recognizing the danger of delayed response, the law does not require adherence to a standard which ‘made stricter by hindsight’ would preclude the police from ‘all courses of conduct but the least intrusive.’” (People v DePaula, 179 AD2d 424, 426 [1992], citing People v Calhoun, 49 NY2d 398, 403 [1980].)\nSubjecting the emergency doctrine to the same level of scrutiny as probable cause would frustrate its very purpose and it would be unreasonable for this court to expect police to “piece together a perfectly coherent picture” in the limited time they had to act. (See e.g. DePaula [declining to adopt a requirement that the police obtain independent verification or other information relating to the emergency before entering a home]; see also Graham v Connor, 490 US 386, 397 [1989] [cautioning against second-guessing police officers who “are often forced to make split-second judgments—in circumstances that are tense, uncertain, and rapidly evolving”]; see also Wayne v United States, 375 US 860 [1963] [holding that in emergency situations, if officers are denied entry to a premise, they have the right and the duty to gain forcible entry]; see Brigham City, Utah v Stuart, 547 US 406 [holding that officers do not need ironclad proof of a likely serious, life-threatening injury to invoke the emergency aid exception].)\nWhether exigent circumstances support a warrantless entry is a mixed question of law and fact, and when assessing the facts on a motion to dismiss for facial insufficiency, this court is restricted to the allegations contained within the four corners of the accusatory instrument. (People u Thomas, 4 NY3d 143 [2005].) That does not mean, however, that the court is precluded from considering all reasonable inferences which can be drawn from the factual allegations (People v Holmes, 115 AD3d 1179 [4th Dept 2014]) or from considering the objective facts and circumstances surrounding police conduct. (United States v Restrepo, 966 F2d 964 [5th Cir 1992], cert denied 506 US 1049 [1993].)\nThe accusatory instrument charging defendant with obstructing governmental administration in the second degree alleges that on May 20, 2016, a witness reported to police that defendant’s daughter was suicidal. The accusatory instrument did not identify the witness, and police did not supply a supporting deposition. The defendant asserts, and this court agrees, that the recitation of a statement made by an unidentified witness, without an attached supporting deposition, is hearsay. The court’s inquiry, however, does not end there.\nIn the case at bar, reference to the information provided by the witness within the accusatory instrument is made to il-lústrate the basis for the officer’s reasonable belief that an emergency existed. While defendant contends that reference to the information obtained by the witness is hearsay and is being used to bolster support for a warrantless entry, the “mere presence of hearsay in an accusatory instrument does not render it facially insufficient.” (People v Negron, 49 Misc 3d 392, 396 [Crim Ct, Kings County 2015]; see also People v Haskins, 107 Misc 2d 480 [Crim Ct, NY County 1981] [holding if there is any doubt as to the admissibility of hearsay, it should not be used to support an information].) Regardless, the officer’s statement, within the accusatory instrument, regarding the claim that the defendant’s daughter was suicidal is not being offered as evidence of the truth of the charge, but only of the fact that it was made. Despite the fact that police did not identify the witness by name, information provided by an identified citizen may be presumed to be reliable and, in any case, is sufficient to provide police with probable cause for an arrest. (People v Parris, 83 NY2d 342 [1994]; see also People v Van Every, 1 AD3d 977 [4th Dept 2003]; see also People v Sanders, 79 AD2d 688 [2d Dept 1980].)\nThis court would be hard-pressed to rule that a welfare check on a young girl who is the subject of a mental health complaint is not an “official function” of police. The act of suicide, or the threat thereof, belies the act of seeking aid. A person who threatens such act is not going to call for emergency assistance in anticipation of the resultant harm or injury. And a family member, under the obvious stress of such a situation, may be desirous of avoiding police presence. Under the backdrop of what this court views as the gratuitous reference to information provided by a witness, there is a sufficient basis to infer that the police had a reasonable basis to act. Even if the information was provided anonymously, it would, at a minimum, justify police in making a further inquiry.\nAfter tracking the defendant and her daughter to a location different from the one reported by defendant, police arrived at 73 East Pine Street, only to find defendant defiantly at the door. Her presence at that location, as well the officer’s belief that her daughter was being hidden inside, confirmed to police that defendant had lied to them about their whereabouts. When police sought entry for the purpose of ascertaining the daughter’s welfare, defendant became combative, physically pushing officers and blocking the doorway.\nWhen this court considers the nature of the situation, the conflicting information presented to police by defendant, including her combative nature upon their arrival, it is reasonable to conclude that the police were operating under a heightened state of apprehension that someone may be hurt or injured. Having not had the opportunity to personally observe the defendant’s daughter, but believing her to be somewhere inside the home, it was the duty of the officers to enter the premises and ascertain her welfare. Their investigation into the emergency call reporting the daughter as suicidal would be incomplete without laying eyes on her.\nFinally, while the second prong of the Mitchell standard is not at issue in this case, this court finds that examining police motivation behind their warrantless entry to be of particular persuasion. In the case at bar, police were not “functioning in a criminal arena” and their conduct was in accordance with their duties as public servants. (See e.g. Molnar, 98 NY2d at 334.) This court finds that police acted with reasonable deliberation, and entered by force, only after being met with persistent resistance by defendant.\nConclusion\nBased upon the foregoing, this court is compelled to find that (1) police had reasonable grounds to believe that there was an emergency at hand and that their immediate assistance was necessary; and (2) there was some reasonable basis, approximating proximate cause, to associate the emergency with the premises they sought to enter.\nAll three prongs of the Mitchell standard having been sufficiently pleaded within the accusatory instrument, this court finds that the warrantless entry of police onto the premises in question was lawful under the “emergency doctrine.” Accordingly, defendant’s alleged interference establishes a prima facie case for a charge of obstructing governmental administration in the second degree.\nThis court further finds that the Casey requirements for facial sufficiency have been satisfied. Defendant is on notice that she is charged with obstructing governmental administration in the second degree (Penal Law § 195.05); for acting in a manner which was intended to interfere and frustrate police activity; during the investigation into a mental health complaint on May 20, 2016 at 73 East Pine Street, in the City of Gloversville; by way of physical force or physical interference.\nBased upon this court’s decision that the police had probable cause to arrest defendant for obstruction of governmental administration in the second degree, and upon a second review of the accusatory instruments charging the defendant with resisting arrest, attempted assault, attempted escape, harassment and disorderly conduct, this court finds them all sufficient on their face.\nBased upon the foregoing, the defendant’s motion to dismiss the six accusatory instruments on the grounds of facial insufficiency is hereby denied in its entirety.\n. In 2006, the United State Supreme Court rejected the second prong of the Mitchell standard, stating that an inquiry into the subjective motivations of the police is no longer necessary in determining whether the Fourth Amendment has been violated. (Brigham City, Utah v Stuart, 547 US at 404.) Whether the New York State Constitution (NY Const, art I, § 12) requires a retention of the Mitchell standard, after the ruling in Brigham City, is an issue this court need not address.\n. It has been held that “emergencies” are analytically distinct from other “exigent circumstances” (see LaFave, Search and Seizure: A Treatise On The Fourth Amendment § 6.6). In Hill v California (401 US 797, 804-805 [1971] [internal quotation marks omitted]), the United States Supreme Court held that the Fourth Amendment is concerned with “reasonable probabilities” and that issues before the Court should be “judged in accordance with the factual and practical considerations of everyday life on which reasonable and prudent men, not legal technicians, act.” (See Brinegar v United States, 338 US 160, 175 [1949].)",
+        "type": "majority",
+        "author": "Traci DiMezza, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "William F. Martuscello, Amsterdam, for defendant.",
+      "Chad W. Brown, District Attorney, Johnstown (Amanda M. Nellis of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[47 NYS3d 847]\nThe People of the State of New York, Plaintiff, v Jamie L. Ormanian, Defendant.\nCity Court of Gloversville,\nNovember 9, 2016\nAPPEARANCES OF COUNSEL\nWilliam F. Martuscello, Amsterdam, for defendant.\nChad W. Brown, District Attorney, Johnstown (Amanda M. Nellis of counsel), for plaintiff."
+  },
+  "file_name": "2675-01",
+  "first_page_order": 590,
+  "last_page_order": 598
+}

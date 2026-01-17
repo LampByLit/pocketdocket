@@ -1,0 +1,173 @@
+{
+  "id": 12281991,
+  "name": "Luna Siracusa, Plaintiff, v. City Ice Pavillion, LLC, et al., Defendants; City Ice Pavillion, LLC, Third-Party Plaintiff, v. Jeremy Siracusa, Third-Party Defendant",
+  "name_abbreviation": "Siracusa v. City Ice Pavillion, LLC",
+  "decision_date": "2017-07-20",
+  "docket_number": "",
+  "first_page": "267",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 267"
+    },
+    {
+      "type": "parallel",
+      "cite": "59 N.Y.S.3d 290"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "120 AD3d 1604",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4227944,
+        4232185,
+        4239266,
+        4231261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/120/1604-04",
+        "/ad3d/120/1604-02",
+        "/ad3d/120/1604-03",
+        "/ad3d/120/1604-01"
+      ]
+    },
+    {
+      "cite": "228 AD2d 834",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        371612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/228/0834-01"
+      ]
+    },
+    {
+      "cite": "36 AD3d 765",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3836839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/36/0765-01"
+      ]
+    },
+    {
+      "cite": "161 AD2d 761",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        995497
+      ],
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0761-01"
+      ]
+    },
+    {
+      "cite": "21 AD3d 505",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1263703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/21/0505-01"
+      ]
+    },
+    {
+      "cite": "73 AD3d 1135",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3974541
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/73/1135-01"
+      ]
+    },
+    {
+      "cite": "47 AD3d 929",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3638679
+      ],
+      "pin_cites": [
+        {
+          "page": "929"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/47/0929-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 575,
+    "char_count": 8930,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2490722432080017
+    },
+    "sha256": "c32222cad1d912340d99c531c1705f5de6cb9386219a9f3e7d763b7dcb3db2f7",
+    "simhash": "1:e6dce03cd0eab9db",
+    "word_count": 1426
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luna Siracusa, Plaintiff, v City Ice Pavillion, LLC, et al., Defendants. City Ice Pavillion, LLC, Third-Party Plaintiff, v Jeremy Siracusa, Third-Party Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nTimothy J. Dufficy, J.\nIt is ordered that the motion by defendant City Ice Pavilion, LLC and defendant John Doe is denied. The cross motion by nonparty Dr. Michael Lipton and nonparty Montefiore Medical Center is granted.\nMRI-Diffusion Tensor Imaging (MRI-DTI) is an advanced neuroradiological test/exam which compares data about a subject’s brain with data from a control group, and by means of computer software and algorithms provides data about a subject’s white matter in comparison with the white matter of the control group. MRI-DTI measures the way water moves in the brain—Fractional Anisotrophy (FA)—for the purpose of evaluating white matter integrity. In theory, a high FA indicates that the white matter is intact and well organized, while a low FA indicates a possible abnormality.\nOn August 8, 2015, plaintiff Luna Siracusa participated in an ALS Ice Bucket Challenge held at a hockey rink owned and/or operated by defendant City Ice Pavilion, LLC. The plaintiff allegedly sustained various injuries, including traumatic brain injury and the exacerbation of prior brain injuries.\nOn March 25, 2016, the plaintiff had an MRI-DTI performed, and Dr. Michael Lipton provided an analysis of it. The MRI part of the examination revealed that there was no recent or remote hemorrhage and that there was nothing remarkable about the ventricles and overall configuration of the brain. But Dr. Lipton’s DTI analysis lead to the conclusion that the plaintiff has abnormally low FA levels, which is consistent with traumatic axonal injury although also consistent with other non-traumatic causes.\nThe plaintiff made disclosure of the DTI report. On September 12, 2016, the defendants served a demand upon the plaintiff for authorizations to obtain the complete data set pertaining to the DTI examination. The plaintiff has refused to comply with that demand. At a court conference, the plaintiff took the positions that (1) he was not required to disclose the statistical studies and data underlying the DTI and (2) the data set belonged to Dr. Lipton or Montefiore, not the plaintiff. On the other hand, the defendants took the position that the data set is a relevant and necessary part of the MRI-DTI which must be disclosed. The defendants assert that FA cannot be determined to be either high or low without comparing the plaintiffs data to the control group’s data. According to the defendant’s attorney: “The individual FA levels of each member of the control group, the data as to the ages and other demographics all affect the final opinions/conclusions about what the MRI-DTI examination allegedly establishes.” (Toker affirmation ¶ 41.)\nThe court authorized the defendants to make the instant discovery motion. The defendants obtained the instant order to show cause whose service clause directed service upon Lipton and Montefiore by “next day mail, return receipt requested.” Although Lipton and Montefiore object that the defendants failed to follow normal discovery procedure starting with the issuance of a subpoena duces tecum, pursuant to CPLR 2302 and 3120 (1), this court has sufficient power to regulate disclosure in a manner that permits discovery to be sought from a nonparty via an order to show cause, especially under the circumstances of this case. Although Lipton and Montefiore further object that in the absence of a subpoena, the court did not acquire jurisdiction over them, the defendants complied with the service clause of the order to show cause which was jurisdictional in nature. “The method of service provided for in an order to show cause is jurisdictional in nature and must be strictly complied with.” (Matter of El Greco Socy. of Visual Arts, Inc. v Diamantidis, 47 AD3d 929, 929 [2008]; Lobo v Soto, 73 AD3d 1135 [2010]; Matter of Hennessey v DiCarlo, 21 AD3d 505 [2005].) Moreover, “the court in an order to show cause is not restricted to the methods [of personal service] prescribed by CPLR 308 and can devise yet other methods good for the particular case.” (Connors, Practice Commentaries, McKinney’s Cons Laws of NY, Book 7B, CPLR 2214:24.)\nThis court has previously decided the dispositive issue raised by the instant motion. In Jean-Francois v Port Auth. of N.Y. & N.J. (Sup Ct, Queens County, index No. 14475/2014), the defendants sought from Dr. Lipton and the Albert Einstein College of Medicine the same database information that the defendants seek here. Lipton, a neuroradiologist and neuroscientist, is both the associate director of the Gruss Magnetic Resonance Research Center and director of radiology research at Albert Einstein and the medical director of MRI Services at Montefiore. In a decision, dated March 16, 2016, this court quashed a subpoena demanding MRI-DTI database information on several grounds. First, as to Lipton, this court found that the information requested was not under his control. “[A] party cannot be compelled to produce documents which it does not possess or control or which do not exist .. . .” (Wilensky v JRB Mktg. & Opinion Research, 161 AD2d 761, 763 [1990]; see Maffai v County of Suffolk, 36 AD3d 765 [2007].) Second, as to the other nonparty, this court stated:\n“Einstein will not be directed by this court to comply with the subpoena requiring it to provide any information contained in its normative data bases for use in this litigation by British Airways. This information is tangentially relevant at best, on issues of the general acceptance of the underlying scanning technology, which have already been determined and need not be revisited in this litigation.”\nIn Sullivan v Walters (Sup Ct, Nassau County, index No. 6110/2005), Lamasa v Bachman (Sup Ct, NY County, index No. 12996/1993), and Scott v Espinal (Sup Ct, NY County, index No. 110601/2010), “diffusion tensor imaging or DTI was accepted as a reliable means of diagnosing traumatic brain injury and accepted in the medical community.” Third,\n“to the extent that such data contains identifying information of the subjects of the studies, that data is confidential and protected by HIPAA. . . . There has been no HIPAA waiver or authorization from any of the subjects of these studies to forego their rights under the federal statute for the purposes of this litigation, and this court declines to subjugate their privacy interests when it is not necessary to do so.”\nFourth, “the information contained in the normative data base has been demonstrated to be the proprietary information of Einstein, and the applicant, British Airways, has not proven otherwise, or made the requisite legal showing in opposition.” Once a party from whom discovery is sought shows that the demand would require it to reveal a trade secret, the burden shifts to the other party, requiring it to show that the information sought is indispensable to the proof of its case. (Finch, Pruyn & Co. v Niagara Paper Co., 228 AD2d 834 [1996]; Conley & Son Excavating Co., Ltd. v Delta Alliance, LLC, 120 AD3d 1604 [2014].) British Airways did not make the required showing.\nThe March 16, 2016 order, in Jean-Francois v Port Auth. of N.Y. & N.J., was not appealed. The defendants did not successfully distinguish that case from the case at bar, nor have they offered any arguments that cause this court to alter its views. Rationale pertaining to confidentiality and proprietary information apply to both cases, especially when the detailed, overly broad scope of the disclosure request (e.g. “hardware specifications” and “coil design”) made here is taken into consideration. The court notes that the plaintiff has not designated Dr. Lipton as an expert witness, and the plaintiff’s attorney has not expressed any intent to do so. The plaintiff regards Dr. Lipton as a treating radiologist. Without such a designation, the defendants cannot successfully argue that they need database information, computer analysis, algorithms, and other matters for the purpose of knowing the foundation for his expert opinion pursuant to CPLR 3101 (d) (1). An attempt to establish the permissible parameters of his anticipated trial testimony is premature at this point and may be established later via a motion in limine or at the trial.\nAccordingly, it is ordered, that the motion by defendant City Ice Pavilion, LLC and defendant John Doe is denied; and it is further ordered, that the cross motion by nonparty Dr. Michael Lipton and nonparty Montefiore Medical Center is granted.",
+        "type": "majority",
+        "author": "Timothy J. Dufficy, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "White Fleischner & Fino, LLP, New York City, for defendant/ third-party plaintiff.",
+      "Shaub, Ahmuty, Citrin & Spratt LLP, Lake Success (Jeremy S. Rosof of counsel), for Michael L. Lipton and another, nonparties.",
+      "Paul W. Cutrone, Douglaston, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[59 NYS3d 290]\nLuna Siracusa, Plaintiff, v City Ice Pavillion, LLC, et al., Defendants. City Ice Pavillion, LLC, Third-Party Plaintiff, v Jeremy Siracusa, Third-Party Defendant.\nSupreme Court, Queens County,\nJuly 20, 2017\nAPPEARANCES OF COUNSEL\nWhite Fleischner & Fino, LLP, New York City, for defendant/ third-party plaintiff.\nShaub, Ahmuty, Citrin & Spratt LLP, Lake Success (Jeremy S. Rosof of counsel), for Michael L. Lipton and another, nonparties.\nPaul W. Cutrone, Douglaston, for plaintiff."
+  },
+  "file_name": "2899-01",
+  "first_page_order": 267,
+  "last_page_order": 271
+}

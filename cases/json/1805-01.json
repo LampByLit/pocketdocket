@@ -1,0 +1,1346 @@
+{
+  "id": 4316834,
+  "name": "The People of the State of New York, Respondent, v. Mary Jones, Appellant",
+  "name_abbreviation": "People v. Jones",
+  "decision_date": "2015-05-19",
+  "docket_number": "",
+  "first_page": "67",
+  "last_page": "77",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 67"
+    },
+    {
+      "type": "parallel",
+      "cite": "15 N.Y.S.3d 874"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "69 NY2d 490",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75978
+      ],
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0490-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 383",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 NY3d 342",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5555836
+      ],
+      "pin_cites": [
+        {
+          "page": "348-349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0342-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 1105",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026560,
+        4024804
+      ],
+      "pin_cites": [
+        {
+          "page": "1105-1106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/1105-02",
+        "/ad3d/83/1105-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 739",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3483030
+      ],
+      "pin_cites": [
+        {
+          "page": "739-740"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0739-01"
+      ]
+    },
+    {
+      "cite": "38 AD3d 361",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3887463
+      ],
+      "pin_cites": [
+        {
+          "page": "361-362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/38/0361-01"
+      ]
+    },
+    {
+      "cite": "59 NY2d 282",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391243
+      ],
+      "pin_cites": [
+        {
+          "page": "288-289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0282-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 118",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347927
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0118-01"
+      ]
+    },
+    {
+      "cite": "290 AD2d 372",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        97676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/290/0372-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 638",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2353832
+      ],
+      "pin_cites": [
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0638-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 179",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "pin_cites": [
+        {
+          "page": "180, 182-185"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 NY3d 1021",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 AD3d 413",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3739608,
+        3738732
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/0413-02",
+        "/ad3d/111/0413-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 1071",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3750309
+      ],
+      "pin_cites": [
+        {
+          "page": "1073-1074"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/1071-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 1083",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3819497
+      ],
+      "pin_cites": [
+        {
+          "page": "1085-1086"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/1083-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 40",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373544
+      ],
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0040-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 474",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4408091
+      ],
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0474-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 16",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3735185
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0016-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 588",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752557
+      ],
+      "pin_cites": [
+        {
+          "page": "594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0588-01"
+      ]
+    },
+    {
+      "cite": "168 NY 264",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2299526
+      ],
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/168/0264-01"
+      ]
+    },
+    {
+      "cite": "36 NY2d 230",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2317079
+      ],
+      "pin_cites": [
+        {
+          "page": "241-242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/36/0230-01"
+      ]
+    },
+    {
+      "cite": "13 NY3d 460",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3687067,
+        3739342
+      ],
+      "pin_cites": [
+        {
+          "page": "467-468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/13/0460-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 887",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752793,
+        3752457,
+        3751349,
+        3750966
+      ],
+      "pin_cites": [
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0887-02",
+        "/ny3d/21/0887-04",
+        "/ny3d/21/0887-01",
+        "/ny3d/21/0887-03"
+      ]
+    },
+    {
+      "cite": "155 AD2d 630",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3608841
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/155/0630-01"
+      ]
+    },
+    {
+      "cite": "213 AD2d 435",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1205821,
+        1205959
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/213/0435-01",
+        "/ad2d/213/0435-02"
+      ]
+    },
+    {
+      "cite": "65 AD3d 1259",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5738195,
+        5728726,
+        5731647
+      ],
+      "pin_cites": [
+        {
+          "page": "1261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/65/1259-02",
+        "/ad3d/65/1259-01",
+        "/ad3d/65/1259-03"
+      ]
+    },
+    {
+      "cite": "9 NY3d 904",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5559598
+      ],
+      "pin_cites": [
+        {
+          "page": "905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0904-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 861",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4017622
+      ],
+      "pin_cites": [
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0861-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 461",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3754742
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0461-01"
+      ]
+    },
+    {
+      "cite": "87 AD3d 1042",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4029340
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1043"
+        },
+        {
+          "page": "1043"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/87/1042-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 1142",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3711034
+      ],
+      "pin_cites": [
+        {
+          "page": "1143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/1142-01"
+      ]
+    },
+    {
+      "cite": "73 NY2d 1006",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4413446
+      ],
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/1006-01"
+      ]
+    },
+    {
+      "cite": "141 AD2d 750",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3560579
+      ],
+      "pin_cites": [
+        {
+          "page": "753-754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/141/0750-01"
+      ]
+    },
+    {
+      "cite": "70 AD3d 972",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3974305
+      ],
+      "pin_cites": [
+        {
+          "page": "973"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/70/0972-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 855",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4406990
+      ],
+      "pin_cites": [
+        {
+          "page": "856-857"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0855-01"
+      ]
+    },
+    {
+      "cite": "106 AD3d 753",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3713457
+      ],
+      "pin_cites": [
+        {
+          "page": "753-754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/106/0753-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 701",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4133223
+      ],
+      "pin_cites": [
+        {
+          "page": "701-702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0701-01"
+      ]
+    },
+    {
+      "cite": "285 AD2d 651",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1955939
+      ],
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/285/0651-01"
+      ]
+    },
+    {
+      "cite": "36 AD3d 721",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3829976,
+        3828722,
+        3840740
+      ],
+      "pin_cites": [
+        {
+          "page": "722"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/36/0721-03",
+        "/ad3d/36/0721-02",
+        "/ad3d/36/0721-01"
+      ]
+    },
+    {
+      "cite": "82 AD3d 1136",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4016445,
+        4018797
+      ],
+      "pin_cites": [
+        {
+          "page": "1136-1137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/82/1136-02",
+        "/ad3d/82/1136-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 775",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4325535
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0775-01"
+      ]
+    },
+    {
+      "cite": "264 AD2d 647",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        151065,
+        151054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/264/0647-02",
+        "/ad2d/264/0647-01"
+      ]
+    },
+    {
+      "cite": "28 AD3d 347",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3053472
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0347-01"
+      ]
+    },
+    {
+      "cite": "92 AD3d 420",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4041896
+      ],
+      "pin_cites": [
+        {
+          "page": "420-421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/92/0420-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 293",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        113566
+      ],
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0293-01"
+      ]
+    },
+    {
+      "cite": "42 AD3d 587",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3557643
+      ],
+      "pin_cites": [
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/42/0587-01"
+      ]
+    },
+    {
+      "cite": "62 AD3d 1036",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3938818
+      ],
+      "pin_cites": [
+        {
+          "page": "1039"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/1036-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 630",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2353843
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "636"
+        },
+        {
+          "page": "636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0630-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 198",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374230
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0198-01"
+      ]
+    },
+    {
+      "cite": "56 AD3d 1195",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 AD2d 385",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069266,
+        1069015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0385-01",
+        "/ad2d/179/0385-02"
+      ]
+    },
+    {
+      "cite": "8 NY3d 445",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5695314
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "446-448"
+        },
+        {
+          "page": "445-447"
+        },
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0445-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 620",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393163
+      ],
+      "pin_cites": [
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0620-01"
+      ]
+    },
+    {
+      "cite": "466 US 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1577801,
+        2342716
+      ],
+      "pin_cites": [
+        {
+          "page": "146-147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0137-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 708",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525149
+      ],
+      "pin_cites": [
+        {
+          "page": "713-714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0708-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 563",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189028
+      ],
+      "pin_cites": [
+        {
+          "page": "565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0563-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 143",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984050
+      ],
+      "pin_cites": [
+        {
+          "page": "155-156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0143-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 476",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984114
+      ],
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0476-01"
+      ]
+    },
+    {
+      "cite": "69 AD3d 964",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5742775
+      ],
+      "pin_cites": [
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/69/0964-01"
+      ]
+    },
+    {
+      "cite": "72 AD3d 844",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3983096
+      ],
+      "pin_cites": [
+        {
+          "page": "845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/0844-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "287"
+        },
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 AD3d 1516",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3716750
+      ],
+      "pin_cites": [
+        {
+          "page": "1516-1517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/1516-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 111",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4402827
+      ],
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0111-01"
+      ]
+    },
+    {
+      "cite": "9 AD3d 601",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2230782
+      ],
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/9/0601-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 51136",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 1
+    },
+    {
+      "cite": "31 Misc 3d 152",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "2012 NY Slip Op 50089",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 1
+    },
+    {
+      "cite": "34 Misc 3d 142",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "37 Misc 3d 58",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3781878
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc3d/37/0058-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 736",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3740993,
+        3734495
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/110/0736-01",
+        "/ad3d/110/0736-02"
+      ]
+    },
+    {
+      "cite": "71 NY2d 705",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407074
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "709"
+        },
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/71/0705-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 1105",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026560,
+        4024804
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1106"
+        },
+        {
+          "page": "1106"
+        },
+        {
+          "page": "1106"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/83/1105-02",
+        "/ad3d/83/1105-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 739",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3483030
+      ],
+      "pin_cites": [
+        {
+          "page": "740"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/99/0739-01"
+      ]
+    },
+    {
+      "cite": "106 AD3d 753",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3713457
+      ],
+      "pin_cites": [
+        {
+          "page": "753-754"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/106/0753-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 701",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4133223
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad3d/119/0701-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 198",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374230
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/49/0198-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 445",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5695314
+      ],
+      "pin_cites": [
+        {
+          "page": "447-448"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny3d/8/0445-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1024,
+    "char_count": 21496,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14562721610410492
+    },
+    "sha256": "2b693b80dcd567dd22cd0bd1fc8de86d54e6448151777566f85a90d266f71a12",
+    "simhash": "1:b9024f587b3fcc73",
+    "word_count": 3631
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Solomon and Elliot, JJ., concur. Weston, J.P., concurs in part and dissents in part in a separate memorandum."
+    ],
+    "parties": [
+      "The People of the State of New York, Respondent, v Mary Jones, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the judgment of conviction is affirmed.\nOn October 18, 2010, the victim and her two minor children were in an elevator at the Junction Boulevard subway station in Queens, waiting for its doors to close to take them to the elevated platform. Shortly thereafter, defendant entered the crowded elevator, and, according to the victim, defendant demanded that she move. It is undisputed that this led to pushing, shoving, and a physical fight, during which defendant’s hand made contact with the victim’s face. The victim sustained injuries to her face. Following a jury trial, defendant was convicted of assault in the third degree (Penal Law § 120.00 [1]), two counts of endangering the welfare of a child (Penal Law § 260.10 [1]), and harassment in the second degree (Penal Law § 240.26 [1]).\nDefendant correctly contends that the victim’s testimony at trial, identifying defendant as the person who had inflicted her injuries, should have been precluded because the People failed to provide the defense with the notice required by CPL 710.30 (1) (b) within 15 days of defendant’s arraignment (see CPL 710.30 [2]; People v McMullin, 70 NY2d 855, 856-857 [1987]; People v Nolasco, 70 AD3d 972, 973 [2010]; People v Bernier, 141 AD2d 750, 753-754 [1988], affd 73 NY2d 1006, 1008 [1989]). However, because defendant failed to raise this issue at trial, it is unpreserved for appellate review (see People v Daniels, 101 AD3d 1142, 1143 [2012]; People v Vasquez, 87 AD3d 1042, 1043 [2011], affd 20 NY3d 461 [2013]; People v Williams, 81 AD3d 861, 862 [2011]). In any event, any error in admitting the identification testimony was harmless, as the evidence of defendant’s guilt, which included two videotapes of the incident taken from cameras inside the elevator, was overwhelming (see People v Rivera, 9 NY3d 904, 905 [2007]; People v Vasquez, 87 AD3d at 1043, affd 20 NY3d 461 [2013]; People v Forino, 65 AD3d 1259, 1261 [2009]; People v Winslow, 213 AD2d 435 [1995]; People v Taylor, 155 AD2d 630 [1989]). Thus, without reference to the error, there is no significant probability that the jury would have acquitted defendant (see People v Byer, 21 NY3d 887, 889 [2013]; People v Arafet, 13 NY3d 460, 467-468 [2009]; People v Crimmins, 36 NY2d 230, 241-242 [1975]).\nDefendant contends that reversal is required because, after she testified, the trial court reversed its prior ruling and determined that it should not have permitted the prosecutor to cross-examine her regarding certain bad acts pursuant to People v Molineux (168 NY 264, 293 [1901]). We find that the prosecutor’s use of evidence of defendant’s bad acts to cross-examine her was not error, as the evidence was relevant to the issue of defendant’s credibility (see People v Morris, 21 NY3d 588, 594 [2013]; People v Dorm, 12 NY3d 16, 19 [2009]; People v Ingram, 71 NY2d 474, 480 [1988]; People v Allweiss, 48 NY2d 40, 47 [1979]; People v Anderson, 114 AD3d 1083, 1085-1086 [2014]; People v Mitchell, 112 AD3d 1071, 1073-1074 [2013]) and to rebut her claim that she was a calm, nonviolent person (see People v Israel, 111 AD3d 413, 414 [2013], lv granted 23 NY3d 1021 [2014]). In any event, portions of defendant’s written statement to the police, and her testimony on direct examination, opened the door to the use of this evidence (see People v Massie, 2 NY3d 179, 180, 182-185 [2004]; People v Fardan, 82 NY2d 638, 646 [1993]; People v Baez, 290 AD2d 372 [2002]). Furthermore, the trial court significantly reduced the possibility of prejudice to defendant by ruling that the prosecutor was bound by defendant’s responses to the questions regarding the evidence, and counsel agreed that the jury be charged that only a question and answer constitute evidence (see People v Matthews, 68 NY2d 118, 121 [1986]; People v Pavao, 59 NY2d 282, 288-289 [1983]; People v Cabrera, 38 AD3d 361, 361-362 [2007]; People v Daley, 9 AD3d 601, 601 [2004]; cf. People v Crandall, 67 NY2d 111, 118 [1986]; People v Williams, 107 AD3d 1516, 1516-1517 [2013]).\nDefendant claims that her counsel was ineffective because, among other things, after the court reversed its prior ruling and determined that it should not have permitted the prosecutor to cross-examine her regarding certain bad acts, counsel failed to move for a mistrial. This contention is without merit, as such a motion had no chance of success (see People v Stultz, 2 NY3d 277, 287 [2004]; People v James, 72 AD3d 844, 845 [2010]). As noted above, the prosecutor’s use of defendant’s bad acts to cross-examine her was not error. The “decision to declare a mistrial rests within the sound discretion of the trial court, which is in the best position to determine if this drastic remedy is truly necessary to protect the defendant’s right to a fair trial” (People v Way, 69 AD3d 964, 965 [2010]). Viewing the evidence, the law, and the circumstances of this case, we find that defendant was otherwise afforded meaningful representation and the effective assistance of trial counsel under the New York Constitution (see People v Turner, 5 NY3d 476, 480 [2005]; People v Caban, 5 NY3d 143, 155-156 [2005]; People v Stultz, 2 NY3d at 279; People v Henry, 95 NY2d 563, 565 [2000]; People v Benevento, 91 NY2d 708, 713-714 [1998]; People v Baldi, 54 NY2d 137, 146-147 [1981]) and the effective assistance of counsel under the United States Constitution (see Strickland v Washington, 466 US 668 [1984]).\nViewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620, 621 [1983]), we find that, contrary to defendant’s contention, it was legally sufficient to establish defendant’s guilt, beyond a reasonable doubt, of assault in the third degree (see Penal Law § 120.00 [1]; People v Chiddick, 8 NY3d 445, 446-448 [2007]; People v Pazmino, 179 AD2d 385 [1992]). The victim testified that de fendant pushed her in the face with her hand and scratched the right side of her face, down to the bottom of her cheek. After the incident, the victim was bleeding and crying, and was “under a lot of pain.” She sustained black and blue marks. Even in her statement to the police, defendant admitted scratching the victim, albeit allegedly in self-defense. A New York City police detective testified that the victim had a scratch to her face from her nose to her mouth area.\nThe victim further testified that her older son cried hysterically during the incident, and that her younger son, a seven-month-old infant, was in a carrier on her back. After the incident, the victim brought her older son to school, and, after reporting the incident to the police, brought her infant son to his babysitter. Immediately thereafter, she traveled to her job at a Manhattan hospital, where she was treated for her injuries. The delay in receiving treatment in this case does not negate a finding that the victim suffered a physical injury, an element of assault in the third degree (Penal Law § 120.00 [1]), which is defined by Penal Law § 10.00 (9) as, among other things, “substantial pain” (see People v Coombs, 56 AD3d 1195 [2008]).\nIn Matter of Philip A. (49 NY2d 198 [1980]), the respondent hit the victim twice in the face. As a result, the victim cried, experienced pain, sustained red marks on his face, and felt as if there were bumps on his face, even though there were no bumps. The Court of Appeals reversed the adjudication of juvenile delinquency of the Family Court — which had been based on a factual finding that the respondent had committed an act which, if committed by an adult, would constitute assault in the third degree — and dismissed the juvenile delinquency petition. The Court reasoned that the evidence did not “spell[ ] out” the degree of the victim’s pain, and was “consistent with ‘petty slaps’ ” (Matter of Philip A., 49 NY2d at 200). The Court determined that, with respect to “substantial pain,” there “is an objective level . . . below which the question is one of law,” rather than a factual issue to be determined by the trier of fact (id.). The evidence established only that the victim had cried and sustained a red mark, which did not meet the objective level of substantial pain.\nIn People v Guidice (83 NY2d 630 [1994]), the victim was punched in the face and hit in the arm with a baseball bat. The defendants were charged with assault in the second degree under Penal Law § 120.05 (2). At the trial, the victim testified that he suffered substantial pain, and lost sensation in his arm, which became discolored and swollen. The Court of Appeals indicated that whether the substantial pain component of physical injury (see Penal Law §§ 10.00 [9]; 120.00 [1]) had been proved was generally a question for the trier of fact (see People v Guidice, 83 NY2d at 636) and the jury was entitled to credit the victim’s testimony. While the victim did not seek medical treatment, that was “but a factor to consider in resolving such issues . . . for pain is subjective and different persons tolerate it differently” (id. [citation omitted]).\nIn People v Chiddick (8 NY3d at 445-447), another “substantial pain” case, the victim confronted, and engaged in a scuffle with, the defendant, who was committing a burglary. The defendant bit the victim’s finger, cracking his fingernail and causing the finger to bleed. The victim received a tetanus shot and a bandage at a hospital. At the trial, the victim testified that the degree of pain he felt was between a little and a lot of pain. The Court affirmed the defendant’s convictions of burglary in the second degree (Penal Law § 140.25), and assault in the second degree (Penal Law § 120.05 [6] [felony assault, where the defendant or another participant causes physical injury to a nonparticipant]). The Court of Appeals explained that while “ ‘substantial pain’ cannot be defined precisely ... it can be said that it is more than slight or trivial pain. Pain need not, however, be severe or intense to be substantial” (Chiddick, 8 NY3d at 447). The Court indicated that “several factual aspects of a case . . . can be examined to decide whether enough pain was shown to support a finding” (id. at 447) that the pain was substantial, including whether the victim was bleeding, his or her subjective account of what he or she felt, whether the victim sought medical treatment, and the defendant’s motive. The Court noted that an injury that causes bleeding is “an experience that would normally be expected to bring with it more than a little pain,” and that seeking medical treatment is “an indication that [the victim’s] pain was significant” (id. at 447-448). Another factor that may be considered is the injury, viewed objectively (see People v Dixon, 62 AD3d 1036, 1039 [2009]; People v Rivera, 42 AD3d 587, 588 [2007]).\nIn the case at bar, a physician’s assistant treated the victim at the hospital with a tetanus shot and antibiotic ointment. The victim was not provided with painkillers or a prescription, and she did not receive any other treatment. The physician’s assistant told the victim to stay home for a few days, because she “was not mentally able to work with anybody at that time.” The victim testified that the primary reason she stayed home for two days was that she worked in an “infectious disease clinic and . . . had an open wound on [her] face.” However, she also testified that when she returned to work, her face was “burning,” and that the wound took several weeks to heal. Coupled with the evidence that the victim sustained a scratch to her face from her nose to her mouth area, and that, after the incident, she was bleeding and crying, was “under a lot of pain,” and had sustained black and blue marks, it can be inferred from this testimony that the victim was in pain for at least two days after the incident, and that the victim missed two days of work “as a result of the incident” (People v Luster, 306 AD2d 293, 293 [2003]).\nConsequently, the testimony of the victim, which the jury was entitled to credit (see People v Guidice, 83 NY2d at 636), and the testimony of the detective with respect to the victim’s injury, established that the victim suffered “substantial pain” as defined in Penal Law § 10.00 (9), and, accordingly, the evidence established, beyond a reasonable doubt, the “physical injury” element of assault in the third degree (Penal Law § 120.00 [1]; see People v Smalls, 92 AD3d 420, 420-421 [2012]; People v Gurley, 28 AD3d 347 [2006]; People v Marsh, 264 AD2d 647 [1999]; cf. People v Perry, 122 AD3d 775 [2014]; People v Zalevsky, 82 AD3d 1136, 1136-1137 [2011]; People v Richmond, 36 AD3d 721, 722 [2007]; People v Briggs, 285 AD2d 651, 652 [2001]).\nThe cases cited by the dissent to support its position that there was insufficient proof of substantial pain are not on point. In People v Boney (119 AD3d 701, 701-702 [2014]), in which the defendant’s conviction of robbery in the second degree was reversed, the victim fell to the ground during a robbery and sustained a bruised finger. The X rays taken of the victim’s finger at a hospital indicated that there were no broken bones. The finger was bandaged and placed in a splint. The bruise was present on the victim’s finger when he testified at the defendant’s trial. However, he testified only “generally that he felt pain on his hand and arms immediately after the incident” (id. at 702). Moreover, the victim in that case, unlike the victim in the case at bar, did not testify as to the effect of the injury to his finger for any length of time after the incident.\nAlso, unlike the victim in the case at bar, the victim in People v Boley (106 AD3d 753, 753-754 [2013]) did not seek any medical treatment or miss any work.\nIn People v Young (99 AD3d 739, 739-740 [2012]), the victim of a robbery underwent X rays at a hospital. However, the only treatment she received was Tylenol. Moreover, she testified at the trial that she “experienced generalized pain and soreness in her neck, arms, legs, and feet” (id. at 740). She “did not testify to the degree ... of the pain, other than generally describing the pain as having ‘intensified’ after she returned to work one week after the incident” (id.). In People v Taylor (83 AD3d 1105, 1105-1106 [2011]), the victim did not bleed “or suffer any other physical manifestations of pain or injury other than a scratch and some reddening on her neck, or otherwise objectively demonstrate that she was in substantial pain during and immediately after the attack” (id. at 1106). While the victim went to a hospital, she was not diagnosed with any injury. She “also provided no details that would corroborate her subjective description of pain” (id.). By contrast, in the case at bar, the victim was bleeding. She had a visible scratch from her nose to her mouth, which was corroborated by a detective. She was treated with a tetanus shot and antibiotic ointment. After missing two days of work, her face was “burning.”\nUpon the exercise of our factual review power (see CPL 470.15 [5]; People v Danielson, 9 NY3d 342, 348-349 [2007]), we accord great deference to the jury’s opportunity to view the witnesses, hear their testimony, observe their demeanor, and assess their credibility (see People v Mateo, 2 NY3d 383, 410 [2004]; People v Bleakley, 69 NY2d 490, 495 [1987]). Upon a review of all of the evidence, we find that the verdict of guilt on the charge of assault in the third degree was not against the weight of the evidence.\nAccordingly, the judgment of conviction is affirmed.",
+        "type": "majority",
+        "author": "Memorandum."
+      },
+      {
+        "text": "Weston, J.P.\n(concurring in part and dissenting in part, and voting to modify the judgment of conviction by vacating the conviction of assault in the third degree and dismissing the count of the accusatory instrument charging that offense, to affirm the judgment of conviction as modified, and to remit the matter to the Criminal Court for resentencing upon the remaining counts in accordance with CPL 470.20, in the following memorandum). While I agree with the majority in upholding defendant’s convictions of endangering the welfare of a child (two counts) (Penal Law § 260.10 [1]) and harassment in the second degree (Penal Law § 240.26 [1]), I would modify the judgment by vacating the conviction of assault in the third degree (Penal Law § 120.00 [1]) and dismissing that count of the accusatory instrument. In my opinion, the evidence was legally insufficient to establish the requisite element of physical injury.\nTo sustain a charge of assault in the third degree, the People must prove “physical injury,” which is defined as “impairment of physical condition or substantial pain” (Penal Law § 10.00 [9]). While subjective complaints of pain are relevant in determining whether a victim sustained substantial pain, “there is an objective level [of proof] . . . below which the question is one of law” (Matter of Philip A., 49 NY2d 198, 200 [1980]; see also People v Boley, 106 AD3d 753, 753-754 [2013]; People v Taylor, 83 AD3d 1105, 1106 [2011]). “[P]etty slaps, shoves, kicks and the like delivered out of hostility, meanness and similar motives are not within the definition” of substantial pain (Matter of Philip A., 49 NY2d at 200 [internal quotation marks and citation omitted]).\nHere, there was insufficient evidence from which the jury could infer that the complainant suffered substantial pain (see People v Boney, 119 AD3d 701 [2014]; People v Young, 99 AD3d 739, 740 [2012]; People v Taylor, 83 AD3d at 1106). The complainant testified that defendant had scratched the right side of the complainant’s face after defendant had become angry when the complainant had refused to move further into the elevator. The complainant described the altercation as lasting “[m]aybe a minute or two,” and did not call the police until almost half an hour later. Although the complainant was “under a lot of pain” and described the scratch as “bleeding,” she did not seek immediate medical attention. It was not until she had dropped off her older child at school, reported the incident to the police, dropped off her younger child with his babysitter, and arrived at her job at a hospital that she received a tetanus shot and an antibiotic ointment. Although the complainant subsequently missed two days of work, she did not do so because of any pain, but because she worked in an “infectious disease clinic and . . . had an open wound on [her] face,” and was “mentally” unprepared to return to work. Moreover, nothing in the complainant’s testimony indicates that she took any pain medication following the incident. On this record, where the complainant’s “scratch” was the result of a “very brief” altercation motivated by hostility, and not by an intent to inflict as much pain as possible, I cannot agree that the proof was legally sufficient to sustain a finding of substantial pain (compare People v Chiddick, 8 NY3d 445, 447-448 [2007] [evidence that the defendant bit the complainant’s fingernail causing it to break and bleed was sufficient to establish substantial pain, where the defendant’s motive “was to inflict as much pain as he could”], with People v Boney, 119 AD3d at 702 [evidence that the complainant sustained a bruised finger, which bruise was present almost four years after the incident, was insufficient to establish physical injury; X rays revealed no broken bones, the complainant was not prescribed pain medication, and the complainant “only testified generally that he felt pain”], and People v Taylor, 83 AD3d at 1106 [“other than a scratch and some reddening on her neck,” for which she went to the hospital, the complainant failed to “objectively demonstrate that she was in substantial pain during and immediately after the attack”]).\nFinally, unlike the majority, I would decline to review any of defendant’s ineffective assistance of counsel claims, as they concern matters of trial strategy which are dehors the record and thus not reviewable on direct appeal (see People v Rivera, 71 NY2d 705, 709 [1988]; People v Folger, 110 AD3d 736 [2013]; People v Everle, 37 Misc 3d 58, 60 [App Term, 2d Dept, 9th & 10th Jud Dists 2012]; People v Williams, 34 Misc 3d 142[A], 2012 NY Slip Op 50089[U] [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2012]; People v Bregaudit, 31 Misc 3d 152[A], 2011 NY Slip Op 51136 [U] [App Term, 2d Dept, 9th & 10th Jud Dists 2011]). Moreover, this is not the “rare case” where the trial record permits adequate review of defendant’s claims of ineffectiveness (see People v Rivera, 71 NY2d at 709). Instead, the appropriate vehicle for amplifying the record to determine such claims is a motion pursuant to CPL 440.10 (see People v Folger, 110 AD3d at 736).\nAccordingly, I would modify defendant’s judgment of conviction by vacating her conviction of assault in the third degree and dismissing the count of the accusatory instrument charging that offense, affirm the judgment of conviction as modified, and remit the matter to the Criminal Court for resentencing upon the remaining counts in accordance with CPL 470.20.\nSolomon and Elliot, JJ., concur. Weston, J.P., concurs in part and dissents in part in a separate memorandum.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Weston, J.P."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Judah Maltz, Kew Gardens, for appellant.",
+      "Richard A. Brown, District Attorney, Kew Gardens (John M. Castellano, Johnnette Traill and Nancy Fitzpatrick Talcott of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[15 NYS3d 874]\nThe People of the State of New York, Respondent, v Mary Jones, Appellant.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nMay 19, 2015\nAPPEARANCES OF COUNSEL\nJudah Maltz, Kew Gardens, for appellant.\nRichard A. Brown, District Attorney, Kew Gardens (John M. Castellano, Johnnette Traill and Nancy Fitzpatrick Talcott of counsel), for respondent."
+  },
+  "file_name": "1805-01",
+  "first_page_order": 119,
+  "last_page_order": 129
+}

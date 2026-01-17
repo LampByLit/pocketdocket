@@ -1,0 +1,435 @@
+{
+  "id": 4236120,
+  "name": "The People of the State of New York, Plaintiff, v. Jimmy Pierre, Defendant",
+  "name_abbreviation": "People v. Pierre",
+  "decision_date": "2016-03-21",
+  "docket_number": "",
+  "first_page": "1035",
+  "last_page": "1049",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 1035"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 N.Y.S.3d 110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "34 NY2d 177",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311800
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0177-01"
+      ]
+    },
+    {
+      "cite": "462 US 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0213-01"
+      ]
+    },
+    {
+      "cite": "180 Misc 2d 715",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        32650
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/180/0715-01"
+      ]
+    },
+    {
+      "cite": "91 AD2d 815",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5622464,
+        5626206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/91/0815-01",
+        "/ad2d/91/0815-02"
+      ]
+    },
+    {
+      "cite": "275 AD2d 378",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        505793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/275/0378-01"
+      ]
+    },
+    {
+      "cite": "285 AD2d 660",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1955894
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/285/0660-01"
+      ]
+    },
+    {
+      "cite": "173 AD2d 550",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1041087
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/173/0550-01"
+      ]
+    },
+    {
+      "cite": "223 F3d 1197",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11243505
+      ],
+      "pin_cites": [
+        {
+          "page": "1201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/223/1197-01"
+      ]
+    },
+    {
+      "cite": "733 F Supp 2d 182",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4211501
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/733/0182-01"
+      ]
+    },
+    {
+      "cite": "980 F Supp 2d 33",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4021994
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/980/0033-01"
+      ]
+    },
+    {
+      "cite": "2014 US Dist LEXIS 89243",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "*25"
+        },
+        {
+          "page": "*26"
+        },
+        {
+          "page": "*15"
+        },
+        {
+          "page": "*15-16"
+        },
+        {
+          "page": "*26"
+        },
+        {
+          "page": "*32"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 2968164",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "*8"
+        },
+        {
+          "page": "*8"
+        },
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*6"
+        },
+        {
+          "page": "*8"
+        },
+        {
+          "page": "*10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 US Dist LEXIS 15354",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015 WL 521287",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 NY2d 864",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 AD2d 639",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1000442,
+        999892
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/162/0639-01",
+        "/ad2d/162/0639-02"
+      ]
+    },
+    {
+      "cite": "66 NY2d 417",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4400532
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0417-01"
+      ]
+    },
+    {
+      "cite": "148 AD2d 753",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3582614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/148/0753-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 787",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 AD3d 574",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3046474,
+        3045499
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0574-02",
+        "/ad3d/28/0574-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 883",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "249 AD2d 343",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        710193,
+        707691
+      ],
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/249/0343-01",
+        "/ad2d/249/0343-02"
+      ]
+    },
+    {
+      "cite": "84 AD3d 1116",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4024410,
+        4016644,
+        4025991
+      ],
+      "pin_cites": [
+        {
+          "page": "1117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/1116-03",
+        "/ad3d/84/1116-01",
+        "/ad3d/84/1116-02"
+      ]
+    },
+    {
+      "cite": "393 US 410",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11317375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0410-01"
+      ]
+    },
+    {
+      "cite": "378 US 108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6165107
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0108-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 584",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3639850
+      ],
+      "pin_cites": [
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/6/0584-01"
+      ]
+    },
+    {
+      "cite": "56 F Supp 3d 584",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4066599
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/56/0584-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1177,
+    "char_count": 30642,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 5.3233794276779046e-8,
+      "percentile": 0.33551647219586933
+    },
+    "sha256": "536ee4b8a92c8adda552aef4049cca8772dc14e78cb607c1da282a5bd6003a17",
+    "simhash": "1:9fe8309691e9bffc",
+    "word_count": 4862
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jimmy Pierre, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMiriam Cyrulnik, J.\nDefendant moves to controvert the search warrant issued in this case, and for suppression of evidence seized pursuant to its execution. The People oppose. In deciding this motion, the court reviewed defendant’s motion to controvert, the People’s affirmation in opposition and defendant’s response to the People’s opposition. The court also examined unredacted copies of the search warrant and supporting affidavit presented to the issuing judge, a copy of the applicable terms of service from Google, and an affidavit from a Google manager, all submitted by the People.\nPursuant to a complaint received on April 24, 2014, defendant was arrested on July 3, 2014, and indicted under indictment No. 5362/2014 (hereinafter the 2014 indictment) for course of sexual conduct against a child in the first degree (Penal Law § 130.75 [1] [a]) and other charges. The offenses alleged under this indictment took place at 47 McKeever Place in Kings County.\nOn September 11, 2014, Detective Luciana Queiroga, acting upon information received from the National Center for Missing and Exploited Children (hereinafter NCMEC), showed the Assistant District Attorney prosecuting defendant under the 2014 indictment 14 images of child pornography. The 14 images in question had been uploaded to a Google Picasa account. They were detected by Google, confirmed by means of a manual human review and subsequently reported to NCMEC’s CyberTip line on or about August 20, 2013. Detective Queiroga’s investigation, which included subpoenas to Google and relevant cellular service providers, determined that the Google Picasa account to which the images were uploaded belonged to defendant, whose address was 47 McKeever Place in Kings County. Upon reviewing the images the Assistant District Attorney determined that the subject depicted is the complaining witness in the 2014 indictment.\nOn September 17, 2014, Detective Queiroga applied to a judge of this court for a warrant to search 47 McKeever Place for property, including computer equipment, electronic media storage devices, cameras, cellular telephones and physical records. The search warrant application also requested authority for forensic examination of any electronic devices recovered as a result of the search. The issuing judge granted the application and signed the search warrant as submitted. It was executed the next day. The property recovered during the execution of the warrant included computers, cellular telephones and electronic media storage devices. Forensic examination led to the discovery of 47 images of child pornography.\nOn June 4, 2015, defendant was indicted on 47 counts of possessing a sexual performance by a child (Penal Law § 263.16 [one for each image recovered in the search]) and other charges, under indictment No. 3505/2015. The present motion practice ensued.\nDefendant offers three arguments in support of his motion to controvert: (1) that the information supplied to the issuing judge in support of the search warrant failed to establish the reliability and basis of knowledge of the informant and thus failed to provide probable cause for the search; (2) that Google and NCMEC acted as agents of the government, and therefore violated defendant’s Fourth Amendment rights, by accessing and examining the images in question without a search warrant; and (3) that the information forming the basis for the search warrant was too stale to provide probable cause. The court will address each of defendant’s arguments in turn.\nStanding\nThe People submit that defendant essentially consented to any search, arguing that his “acceptance of Google’s terms of service is tantamount to a waiver of any expectation of privacy in the content of that account” (People’s mem of law at 10). They have offered in support a copy of the terms of service they assert were in effect at the time the 14 images were uploaded (People’s exhibit A). They rely on a portion of one sentence, taken from the section entitled “Using our Services,” that states “[w]e may review content to determine whether it is illegal or violates our policies.” Defendant does not dispute that he agreed to Google’s terms of service, though terming the agreement “implicit.” Rather, he argues that any such agreement does not negate his standing to challenge the warrant and ensuing search (defendant’s response to People’s opp at 3-4). This court concurs.\nIt is not clear exactly what Google users were agreeing to by accepting the terms of service, because its language was vague. Significantly, Google’s warning that it might review content is qualified by the rest of that sentence and the one that follows: “We may review content to determine whether it is illegal or violates our policies, and we may remove or refuse to display content we reasonably believe violates our policies or the law. But that does not necessarily mean that we review content, so please don’t assume that we do” (emphasis added).\nThe penalties abusers of the site appear to face are just two: removal of objectionable material and a block on its display. There is no reference of any kind to law enforcement, much less an indication that Google intended to cooperate with law enforcement entities by turning over such material to them. Under the circumstances, while it could be fairly inferred that Google users were consenting to monitoring by the company for compliance with its policies, it cannot be fairly inferred that users were consenting to a search so as to defeat a Fourth Amendment claim (see e.g. United States v DiTomasso, 56 F Supp 3d 584 [SD NY 2014]).\nDefendant has asserted a personal, legitimate expectation of privacy in the premises searched and the property seized. “This burden is satisfied if the accused subjectively manifested an expectation of privacy with respect to the location or item searched that society recognizes to be objectively reasonable under the circumstances” (see People v Burton, 6 NY3d 584, 588 [2006]). Defendant is not required to “personally admit possession of the contraband in order to comply with the factual pleading requirement of CPL 710.60” (id. at 589). Therefore, the court finds that defendant has standing to challenge the search warrant.\nProbable Cause\nDefendant argues that the search warrant must be controverted, pursuant to Aguilar v Texas (378 US 108 [1964]) and Spinelli v United States (393 US 410 [1969]), because the People failed to establish probable cause for the search by demonstrating to the issuing judge the reliability of a confidential informant, namely Google, and the basis for Google’s knowledge of the images in question.\nThe People argue that the Aguilar-Spinelli test is inapplicable here, since Google is not a confidential informant and probable cause for the search warrant could be established without any reference to Google as the source of the information concerning the images in question.\nThis court recognizes the “strong judicial preference for search warrants” (People v Leggio, 84 AD3d 1116, 1117 [2d Dept 2011] [citations omitted]). It is understood that the “search warrant application must provide the court with sufficient information to support a reasonable belief that evidence of illegal activity will be present at the specific time and place of the search” (People v Williams, 249 AD2d 343, 344 [2d Dept 1998], lv denied 92 NY2d 883 [1998]; see also People v Corr, 28 AD3d 574 [2d Dept 2006], lv denied 7 NY3d 787 [2006]).\nA search warrant must be supported by evidence establishing probable cause to believe that an offense has been or is being committed, or that evidence of criminality may be found in a certain place (People v Londono, 148 AD2d 753 [2d Dept 1989]; see also People v Bigelow, 66 NY2d 417 [1985]; People v Schiavo, 162 AD2d 639 [2d Dept 1990], lv denied 76 NY2d 864 [1990]).\nDefendant equates the People’s reliance upon Google’s initial report of the child pornography in question to reliance upon a confidential informant. As a result, defendant argues, the People were required to establish the reliability of the report and the basis for Google’s knowledge before a search warrant could be issued. This court declines to adopt defendant’s characterization of Google as a confidential informant.\nAlthough defendant and the People accurately summarize the current state of New York law regarding the use of confidential informants in applications for search warrants, neither provides New York or federal precedent that addresses whether an Internet search engine, such as Google, can be considered a confidential informant under these circumstances. Indeed, the authority offered by both sides pertains instead to individual confidential informants, who provided information related to potential searches of physical locations for tangible property.\nOwing to the paucity of New York case law on the subject, the court relies, primarily, upon federal case law in reaching its decision. Although no federal court has specifically addressed the issue of an Internet search engine as a confidential informant, the relevant case law does reveal a consistent pattern of facts from which this court can draw a reasonable conclusion on probable cause.\nThe fact patterns in these cases are very similar. An Internet search engine or service provider detects child pornography and then reports the contraband to NCMEC, which verifies and reports it to the appropriate law enforcement agency. The law enforcement agency secures a search warrant, relying upon, among other things, the actions of NCMEC and the Internet search engine or service provider (see United States v Heleniak, 2015 WL 521287, 2015 US Dist LEXIS 15354 [WD NY, Feb. 9, 2015, No. 14CR42A]; United States v Ackerman, 2014 WL 2968164, 2014 US Dist LEXIS 89243 [D Kan, July 1, 2014, No. 13-10176-01-EFM]; United States v DiTomasso, 56 F Supp 3d 584 [SD NY 2014]; United States v Keith, 980 F Supp 2d 33 [D Mass 2013]; United States v Cameron, 733 F Supp 2d 182 [D Me 2010]).\nUpon defendants’ motions to suppress or exclude evidence obtained as a result of the search warrants, the federal courts were called upon to consider whether the Internet search engine or service provider was a private or government actor; whether the defendants waived Fourth Amendment rights by accepting the terms of service of the Internet search engine or service provider; whether the information relied upon was too stale to provide probable cause; and whether the defendants had an expectation of privacy in the electronic media in question. While the various district courts may have reached differing conclusions on these issues, they are unanimous in their tacit acceptance of the reports made by the Internet search engines or service providers in question. Not a single court in the above-referenced cases challenged the reliability of the information reported or the basis of knowledge of the reporter. The legal discussions proceed following recitations of facts which uniformly accept the initial reports without question.\nGiven the absence of state and federal case law addressing the specific issue of Internet search engines or service providers as confidential informants, it is reasonable for this court to consider that the federal courts, having addressed numerous issues surrounding the issuance of search warrants in digital child pornography cases in great detail, have demonstrated no skepticism toward the reliability and basis of knowledge of the information at the genesis of such investigations. Accordingly, having been presented with no relevant case law to support it, the court rejects defendant’s assertion that Google acted as a confidential informant, requiring the issuing court to apply the Aguilar-Spinelli test in its evaluation of probable cause, and finds that there was sufficient probable cause for the search warrant.\nEven if the court were to agree with defendant on this issue, it is persuaded by the People’s argument that the search warrant application contained enough information to establish probable cause without the information provided by Google. Had the references to Google and NCMEC been absent from the search warrant application, leaving the remaining language describing the training of Detective Queiroga, the images of child pornography, defendant’s pending indictment and address, and the identification of the common child victim, the issuing court would have had sufficient probable cause to grant the application. Therefore, defendant’s motion to controvert the search warrant for lack of probable cause is denied.\nGovernment Action\nDefendant next argues that Google and NCMEC acted on behalf of the government in examining, assessing, and reporting the 14 images he allegedly uploaded to a Google Picasa album. However, the chronology of events, as set forth by both sides and discernable from the various exhibits attached to the People’s affirmation in opposition, does not support this contention.\nAccording to the papers before the court, Google detected the 14 images in question on or about August 20, 2013. Google made a report to NCMEC’s CyberTip line some time after that and NCMEC forwarded the information to the New York City Police Department (NYPD) on or about October 29, 2013. On or about November 5, 2013, Detective Queiroga submitted a subpoena to Google, seeking subscriber information for the Google account to which the 14 images were uploaded. That subpoena yielded a cellular telephone number registered to defendant. On or about February 4, 2014, Detective Queiroga submitted subpoenas, seeking subscriber information related to that cellular telephone number, to T-Mobile and Verizon. On or about April 9, 2014, Detective Queiroga received a response from T-Mobile identifying defendant as the subscriber, with a billing address of 47 McKeever Place in Kings County.\nOn or about April 24, 2014, while Detective Queiroga was conducting her investigation into the contraband images, defendant became the subject of a separate complaint of sexual abuse of a child. Pursuant to this complaint, defendant was arrested on July 3, 2014 and indicted for sex offenses later that month. On September 11, 2014, having learned of defendant’s arrest from NYPD records, Detective Queiroga met with the Assistant District Attorney prosecuting the case and confirmed that the subject of the 14 images detected by Google in 2013 was the complainant in the 2014 indictment. On September 17, 2014, Detective Queiroga applied for and received the search warrant which is the subject of the present motion practice.\nDefendant now argues, inter alia, that Google could not have found the 14 images that prompted their report to NCMEC absent the request or guidance of the government. However, he offers no facts or evidence to support this argument. Defendant simply asserts that Google’s detection of the 14 images “suggests the distinct possibility that the search [by Google] was carried out to further law enforcement objectives” (defendant’s mem of law at 18). By referring to the “apparently serendipitous” search by Google in 2013 (id. at 21), defendant implies that Google’s detection of the 14 images is somehow the result of, or related to, the investigation surrounding defendant’s 2014 indictment.\nAs this chronology clearly reveals, Google’s detection of the 14 images took place approximately eight months before the complaints of sexual abuse against defendant were made and nearly one year before he was arrested and indicted for them. The chronology also makes clear that Detective Queiroga’s independent investigation identified and located defendant before he was ever accused of the sexual offenses for which he was indicted in 2014. The combination of the documents cited by defendant and the exhibits attached to the People’s affirmation in opposition clearly establish that the two investigations pertaining to defendant were separate until Detective Queiroga learned of defendant’s arrest and contacted the prosecutor. Defendant argues vehemently that there can be no explanation for Google’s detection of the 14 images other than government intervention. In his opinion, it is too great a coincidence that someone accused of sexual offenses against a child could also, separately, be investigated for downloading child pornography from the Internet. Yet he offers nothing more than speculation to support this claim.\nBy contrast, the People offer the affidavit of Google manager Cathy A. McGoff, who attests that Google has a strong business interest in enforcing its terms of service, which prohibit illegal content, particularly child sexual abuse material. Ms. McGoff also attests that Google’s interest in protecting its users from child abuse images is critical to its users, product, brand and business and that these interests are private and nongovernmental.\nWith respect to this case specifically, Ms. McGoff attests that, although Google does not maintain records going back to 2013, Google has no reason to believe that the account containing the 14 images was brought to their attention by any governmental agency. Ms. McGoff explains that, as required by statute, Google reports illegal images to NCMEC; it also receives and replies to a high volume of authorized requests from law enforcement. Google maintains an alias solely to receive receipts for NCMEC reports, and to receive and reply to authorized requests. She avers that this does not reflect any intent by Google to undertake a government or law enforcement role.\nThere being no New York case law offered to the court by the parties—and none revealed to the court through its own research—addressing the status of Internet service providers and NCMEC, as it pertains to the applicability of the Fourth Amendment to their detection and reporting of illegal Internet content, we must rely upon the federal courts for guidance.\nDefendant relies, primarily, upon United States v Keith (980 F Supp 2d 33 [D Mass 2013]). In this case, the District Court, applying First Circuit precedent, determined that an Internet service provider (AOL) that detected and reported illegal images to NCMEC’s CyberTip line was not a government actor and, therefore, did not conduct a search in violation of defendant’s Fourth Amendment rights. However, after a brief discussion of NCMEC’s mission and function, the court held that NCMEC’s operation of the CyberTip line constitutes a public law enforcement purpose, thereby making its access to the illegal images reported to it by AOL a government search in violation of defendant’s Fourth Amendment rights.\nIn discussing the process by which NCMEC receives reports on the CyberTip line, the court distinguished AOL’s function, which was to detect and report the images without viewing them, from NCMEC’s function, which was to receive and review the images before forwarding them to law enforcement. The court found that NCMEC’s viewing of the contraband images served to expand AOL’s “search” (id. at 41). In so doing, the court ruled, NCMEC acted as an agent of the government and conducted an illegal search. Significantly, the Keith court distinguishes itself as the only federal court to reach this conclusion.\nA contrary result was reached in United States v Ackerman (2014 WL 2968164, 2014 US Dist LEXIS 89243 [D Kan, July 1, 2014, No. 13-10176-01-EFM]). The District Court applied Tenth Circuit precedent to determine whether or not NCMEC acted as an agent of the government in receiving and evaluating information reported to the CyberTip line by AOL. In applying the Tenth Circuit’s test, the court stated that it disagreed with some of the Keith court’s factual conclusions regarding NCMEC and its application of the First Circuit standard.\nThe two-part test in the Tenth Circuit is “1) whether the government knew of and acquiesced in the intrusive conduct, and 2) whether the party performing the search intended to assist law enforcement . . . or to further [its] own ends” (United States v Souza, 223 F3d 1197, 1201 [10th Cir 2000]). The Ackerman court’s review of NCMEC’s mission and function was markedly different than that of the Keith court. It recognized that NCMEC is an independent, not-for-profit entity, whose “mission is to help reunite families with missing children, reduce child sexual exploitation, and prevent child victimization” (United States v Ackerman, 2014 WL 2968164, *8, 2014 US Dist LEXIS 89243, *25 [D Kan, July 1, 2014, No. 13-10176-01-EFM] [D Kan 2014]).\nApplying the first prong of the Tenth Circuit test, the Ackerman court found, inter alia, that there was no government agent present at the time NCMEC conducted its search and that no law enforcement took part in NCMEC’s evaluation of the information provided by AOL. Additionally, NCMEC had no knowledge of what was done with the information it provided to law enforcement. Applying the second prong of the Tenth Circuit test, the court found that NCMEC’s operation of the CyberTip line, as a private, not-for-profit corporation, “[has] a legitimate, independent motivation” the purpose of which is separate from assisting law enforcement (2014 WL 2968164, *8, 2014 US Dist LEXIS 89243, *26).\nThe court also noted that, although 18 USC § 2258A (a) “require [s] internet service providers to report discovered child pornography, 18 USC § 2258A (f) specifically states that an internet service provider is not required to monitor its users or affirmatively seek child pornography transmitted by its users” (2014 WL 2968164, *6, 2014 US Dist LEXIS 89243, *15). Upon considering that other federal circuits had ruled similarly, the court went on to conclude that “[c]ompliance with a reporting statute is quite different than a government agent directing one’s actions” (id.) and that a “reporting requirement does not transform an internet service provider’s private actions into government actions” (2014 WL 2968164, *6, 2014 US Dist LEXIS 89243, *15-16).\nThe Ackerman court also noted that, even if it had found NCMEC to be an agent of the government, NCMEC did not expand upon AOL’s search such that it violated defendant’s Fourth Amendment rights. According to the court, even though AOL did not view the images it reported to the CyberTip line, the file designations it recognized identified them as child pornography. Consequently, NCMEC did not learn anything new upon opening the files and, therefore, did not exceed AOL’s search to a degree that would be constitutionally significant.\nThe reasoning of the Ackerman court is persuasive. In keeping with its practice of enforcing its terms of service in order to protect its users and preserve its private business interests, Google detected 14 images that it concluded were child pornography. The images were reported to NCMEC’s CyberTip line. NCMEC subsequently evaluated the images and forwarded them to the NYPD. This court finds no evidence that the government knew of or acquiesced in the actions of Google or NCMEC, with respect to detecting, evaluating and reporting the 14 images in question.\nThis court also finds that neither Google nor NCMEC acted to assist law enforcement. The People have established that Google’s purpose in detecting and reporting illegal images on its platforms results from its private interest in protecting its customers, products and brand. Additionally, Google was acting under its obligation to report child pornography under 18 USC § 2258A (a). This court rejects the Keith court’s analysis of NCMEC’s mission and function; while NCMEC’s CyberTip line may benefit law enforcement, NCMEC has a “legitimate, independent motivation” for maintaining it (2014 WL 2968164, *8, 2014 US Dist LEXIS 89243, *26).\nFinally, even if this court were to conclude that NCMEC’s purpose is to assist law enforcement, no expansion of Google’s detection of the 14 images in question took place here. Google detected the images, determined that they were contraband, and forwarded them to NCMEC’s CyberTip line. NCMEC subsequently reviewed the 14 images, confirmed that they were indeed contraband and forwarded them to law enforcement. NCMEC, having reviewed the same images, did not learn anything new and, therefore, did not exceed the scope of Google’s search “in such a way that would be constitutionally significant” (2014 WL 2968164, *10, 2014 US Dist LEXIS 89243, *32).\nAccordingly, the court finds that the detection and review of the 14 images in question by Google and NCMEC did not constitute a violation of defendant’s Fourth Amendment rights by government action.\nStaleness\n“[P]robable cause is not to be determined by counting the number of days between the occurrence of the events relied upon and the issuance of the search warrant. Information may be acted upon as long as the practicalities dictate that a state of facts existing in the past, which is sufficient to give rise to probable cause, continues to exist at the time [of] the application for [the] search warrant” (People v Clarke, 173 AD2d 550, 550 [2d Dept 1991]; see also People v Walker, 285 AD2d 660 [3d Dept 2001]; People v Manngard, 275 AD2d 378 [2d Dept 2000]; People v Teribury, 91 AD2d 815 [3d Dept 1982]; People v Burke, 180 Misc 2d 715 [Sup Ct, Kings County 1999]).\nIn the case at bar, the evidence sought by means of the search warrant consisted of digital images stored electronically by means of computer equipment. Electronic media makes digital photographs, in particular, extremely convenient to collect and store. Additionally, one does not need to be a computer expert to know that digital images, even if deleted, are recoverable with the proper skills and equipment. Given the nature of the evidence sought, and the demonstrated likelihood that it would be found in digital form, it was reasonable for the issuing judge to conclude that a set of facts which existed in the past, sufficient to give rise to probable cause, continued to exist at the time of the application. Although approximately one year had elapsed between Google’s report to NCMEC and the application for the warrant, it was reasonable for the issuing judge to believe that such contraband would still exist. Therefore, the information relied upon by the judge was not too stale to provide probable cause for issuance of the search warrant.\nDefendant’s motion to controvert the search warrant is denied in its entirety.\n. The People’s affirmation in opposition includes a cross motion for reciprocal discovery and preclusion to which defendant responded in his response to the People’s opposition. The court is not called upon to make any rulings upon the cross motion and response at this time.\n. Although defendant makes frequent reference to the various reports and transcripts upon which his arguments rely throughout his papers, none of the documents cited are attached as exhibits.\n. Google uses proprietary software to flag confirmed child sexual abuse material. That material is assigned a digital “fingerprint” or hash value. When Google’s system comes across a hash that matches that of a known image already in the system, they may conduct a manual human review to confirm that the image contains apparent child pornography (see declaration of Cathy McGoff, discussed infra at 1045).\n. Defendant’s motion does not seek to suppress the 14 images detected and reported by Google.\n. The issuing judge did not conduct an on-the-record examination of Detective Queiroga; rather, he relied entirely on the written application.\n. Indictment No. 3505/2015 superceded indictment No. 5362/2014. It includes the counts related to alleged sexual offenses originally charged under the 2014 indictment. By its order, dated July 31, 2015, finding insufficient supporting evidence, this court dismissed the 47 counts of possessing a sexual performance by a child, with leave to re-present. The People’s subsequent motion to reargue was denied by this court’s order, dated October 26, 2015. As of this date the People have not re-presented the dismissed counts, but they indicate they will seek to introduce the photos at trial.\n. The document is undated and is identified only as “an archived version” of the terms of service, “[l]ast modified on March 1, 2012.” It is not clear that these are, in fact, the relevant terms of service, but the court will assume that they are for purposes of this discussion.\n. According to the latest edition of the U.S. Department of Justice Guidelines Regarding the Use of Confidential Informants (§ I [B] [6] [Jan. 2001]), a confidential informant is defined as “any individual who provides useful and credible information to a JLEA [Department of Justice Law Enforcement Agency] regarding felonious criminal activities, and from whom JLEA expects or intends to obtain additional useful and credible information regarding such activities in the future.” Defendant does not rely upon this definition and it is not applied in any of the federal case law cited infra. The court found no official definition of a confidential informant for New York law enforcement.\n. Indeed, no such arguments appear to have been made by the parties and none of the courts addressed such issues sua sponte.\n. The court is aware that the federal courts apply the \"totality of the circumstances” approach to determinations of probable cause when evaluating confidential informants. This approach includes, but is not limited to, the reliability and basis of knowledge of the source (see Illinois v Gates, 462 US 213 [1983]).\n. Nothing in the motion papers before the court indicates that Detective Queiroga had any involvement in the investigation into these allegations.\n. Google reports illegal images to NCMEC pursuant to its statutory obligation under 18 USC § 2258A (a) (1) (a).\n. Defendant originally sought a hearing under People v Darden (34 NY2d 177 [1974]) to test the reliability of the information in the CyberTip line report; the application was later withdrawn.\n. The Ackerman court first concluded that AOL was not a government actor under the same Tenth Circuit test.\n. There is no evidence that the manual human review which followed the detection of the 14 images in question was the result of government intervention of any kind. Indeed, Google denies knowledge or a record of any such intervention.",
+        "type": "majority",
+        "author": "Miriam Cyrulnik, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Brooklyn Defender Services (Sonia Tate-Cousins and Amanda Jack of counsel) for defendant.",
+      "Kenneth P. Thompson, District Attorney (Kenneth Blake and Kevin O’Donnell of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[29 NYS3d 110]\nThe People of the State of New York, Plaintiff, v Jimmy Pierre, Defendant.\nSupreme Court, Kings County,\nMarch 21, 2016\nAPPEARANCES OF COUNSEL\nBrooklyn Defender Services (Sonia Tate-Cousins and Amanda Jack of counsel) for defendant.\nKenneth P. Thompson, District Attorney (Kenneth Blake and Kevin O’Donnell of counsel), for plaintiff."
+  },
+  "file_name": "2255-01",
+  "first_page_order": 1047,
+  "last_page_order": 1061
+}

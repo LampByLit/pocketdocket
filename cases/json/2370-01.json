@@ -1,0 +1,137 @@
+{
+  "id": 6790057,
+  "name": "The People of the State of New York, Plaintiff, v. James Corey, Defendant",
+  "name_abbreviation": "People v. Corey",
+  "decision_date": "2016-06-27",
+  "docket_number": "",
+  "first_page": "987",
+  "last_page": "995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 987"
+    },
+    {
+      "type": "parallel",
+      "cite": "36 N.Y.S.3d 354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "140 AD3d 425",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5774800
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "applying John as to a machine blood test of defendant for an STD"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/140/0425-01"
+      ]
+    },
+    {
+      "cite": "49 Misc 3d 595",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4350978
+      ],
+      "pin_cites": [
+        {
+          "page": "604"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/49/0595-01"
+      ]
+    },
+    {
+      "cite": "541 US 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "27 NY3d 294",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        6777762
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/27/0294-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 784,
+    "char_count": 16869,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 5.320446753767116e-8,
+      "percentile": 0.3354477423201121
+    },
+    "sha256": "c17ed5a52459cd08ccd24cb528bc26f4440c6c2cddc2c8f2d91c3051b0bd6fbc",
+    "simhash": "1:461a6ee35aea1126",
+    "word_count": 2746
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v James Corey, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMark Dwyer, J.\nDefendant was indicted, and has now been convicted, of burglary in the second degree. (Penal Law § 140.25.) During trial, the prosecutor introduced evidence that defendant’s blood was found in the victims’ apartment. In particular, the People introduced evidence about the DNA on a bloodstain in one victim’s bedroom; about the defendant’s DNA; and about the victim’s DNA. That evidence dramatically incriminated defendant. The trial was conducted in the immediate wake of People v John (27 NY3d 294 [2016]). This opinion is written to explain why, under the rules of John, this court admitted the People’s DNA evidence.\nA\nIn July 2014, three young career women in their early twenties lived in an apartment at 723 11th Avenue in Manhattan. Each had a separate bedroom in the apartment. On July 7, 2014, they left the apartment at various times for work. The last of them left at about 9:00 a.m. She returned after work to find two of the three bedrooms in disarray. Drawers were open, property was scattered about, and jewelry in particular had been disturbed. Gone, at least, was a necklace owned by one tenant which had substantial sentimental value and some economic value as well.\nResponding police officers found a bloodstain on that tenant’s bedsheet and submitted it for DNA analysis. The assigned detective found surveillance video from a nearby store which showed defendant, who apparently entered and left 723 11th Avenue around 3:30 p.m. on the day in question. The detective was suspicious of defendant, but had no success identifying him from the video.\nResults of the DNA analysis were returned by the City’s Office of the Chief Medical Examiner (OCME) in February 2015. The bloodstain contained DNA that matched defendant’s, and not that of the bedroom’s tenant — beginning with the locus that distinguishes men from women.\nDefendant was arrested in March 2015. The DNA obtained in a post-arrest “swabbing” was analyzed by OCME, and defendant’s match to the bloodstain was confirmed. At trial, witnesses also identified defendant as the suspect on the video. Defendant’s sister in fact lived less than two blocks from the burglarized apartment, in the direction from which the suspect had come. In addition, in a phone call from Rikers Island defendant advised a friend about the desirability of bribing the victim to make the charge disappear, and about the value of her necklace.\nDetail should be added about the DNA analysis. A crime scene officer cut the visible stain from the victim’s bedsheet, and it was delivered to the OCME lab. There Michelle Sylvester, a level 3 criminalist, performed a Kastle-Meyer test on the sample and confirmed the presence of iron in it. From that point, lab protocols were implemented on a presumption that the sample was a bloodstain.\nNext, DNA was extracted from the sample and “quantified.” The weight of the DNA was far more than sufficient to permit standard analytical procedures to be employed. A portion of the DNA was “amplified” by duplicating it with chemicals 28 consecutive times. Ms. Sylvester then loaded part of the amplified DNA into an electropherogram, a machine which measures the speed at which the alleles at designated points in the genome, “loci,” move through a gel.\nThe electrophoresis stage yielded “raw data” in the form of virtually unintelligible symbols which another analyst ran through GeneMapper, a computer program. The product of the computer run was a tentative DNA profile of the person or persons whose blood was in the sample. The profile was in the form of a horizontal line with triangular “peaks” of varying heights at the 15 loci that are tested to differentiate one person from another. A 16th locus indicated that the contributor of this sample was male. No DNA from any other person was present.\nAt this point in the process, the analyst “cleaned up” the tentative profile under OCME protocols for that task. In some cases protocols make it necessary for the analyst to discard minor peaks that represent, e.g., contamination, or perhaps “stutter” — an “echo” phenomenon simply reflecting true peaks. In this case, no such editing was required, as the profile was free of extraneous peaks. The analyst also checked the profile against the data to confirm that the peaks were of a height that correctly represented the DNA at the contributor’s pertinent loci.\nAt every stage, OCME analysis is, in accordance with other protocols, repeated and checked. At this point where the entire profile is checked, a “reviewer” steps in. But the term “reviewer” may be misleading. Reviewers do not simply “review” paperwork to see that the appropriate steps were taken. A “reviewer” of the profile will repeat the very same analysis performed by the first analyst, based on the same data used by that analyst. In essence, OCME checks the results with an independent repetition of the first analyst’s work. Here Ms. Sylvester performed this role as the “reviewer,” and reached conclusions identical to those of the earlier analyst.\nFinally, the report is written. In this case Ms. Sylvester wrote the report on the DNA on the bedsheet sample. Once more, the report writer does not simply describe the results reached earlier in the process. She repeats any process of interpretation or analysis performed earlier, independently and based on the same data, before placing the conclusions in the report.\nTwo more profiles were produced by OCME in this case — one of the DNA in the victim’s swab, and the other of the DNA in defendant’s swab — to confirm that the bloodstain on the victim’s bedsheet was left by defendant. OCME policy requires that different analysts evaluate such additional GeneMapper profiles. That sensible procedure was followed here. However, in addition to the report on the crime scene testing, Ms. Sylvester wrote the reports on the testing of the DNA from the victim’s swab and defendant’s swab. In doing so, she independently performed the exact same analysis of the data about the profiles that the earlier analysts did.\nThe ultimate result: at trial Ms. Sylvester, subjected to cross-examination, was able to testify from personal analysis of the computer-generated data that defendant was the source of the DNA found on the victim’s bedsheet right after the burglary.\nB\nCrawford v Washington (541 US 36 [2004]) dramatically revised our understanding of the Sixth Amendment’s Confrontation Clause. Now, no “testimonial hearsay” may be introduced against a defendant at trial unless he can cross-examine the declarant. This opinion will not repeat the case law developments since Crawford, but for discussion of a single case.\nThe Crawford principle has troubled courts, and certainly New York courts, with respect to the admissibility of expert opinions about DNA analysis that was not, in its entirety, performed by trial witnesses. On April 28, 2016, the Court of Appeals took on the issue in People v John (27 NY3d 294 [2016]).\nJohn found a violation of the Confrontation Clause when the People’s only DNA witness was a laboratory representative who had not participated at all in the analysis of the DNA evidence in the case. That witness testified that she had simply reviewed the laboratory reports “to make sure that everything looked okay and everything was signed off on by the necessary people” (27 NY3d at 301). She also “ma[d]e sure that [she] agreed” with the exclusion of “two or four” stutter peaks from the profile (id. at 302). She made no reference to the additional exclusion of “pull up” peaks.\nJohn concluded that if the witness has not supervised, conducted, or observed the testing on which she relies, her conclusions are inadmissible unless one or more of the lab analysts also testify and are subject to cross-examination about the testing. Analysis of data from “sophisticated software programs” mandates skilled interpretation if a reliable profile is to be prepared, and one of the people who performed such interpretation must be available for cross-examination. In John, the witness could not offer “a separate, independent and unbiased analysis of the raw data” (id. at 311) and so reversal was required.\nJohn did not rule, however, that every criminalist who participated in DNA analysis must testify before results of the analysis may be introduced. In fact, the Court opined that “nothing in this record supports the conclusion that the analysts involved in the preliminary testing stages, specifically, the extraction, quantitation or amplification stages, are necessary witnesses” (id. at 313). Rather, “it is the generated numerical identifiers and the calling of the alleles at the final stage of the DNA typing that effectively accuses defendant of his role in the crime charged” (id.).\nC\nDefendant’s trial began on May 16, 2016, and the jury returned a guilty verdict on May 23, 2016. During trial this court ruled that the testimony of Ms. Sylvester provided an adequate foundation for the People’s evidence that the DNA in the bloodstain on the victim’s bedsheet matched defendant’s DNA, and not the victim’s. Defendant had protested on Confrontation Clause grounds that a criminalist who performed the testing at each step of the analysis had to testify, or that, at the least, Ms. Sylvester’s testimony alone did not suffice. This opinion explains why the court overruled defendant’s objections. As noted, the court did so under the rules announced in People v John.\nJohn was decided on April 28, 2016, just 18 days before defendant’s trial began. As noted, John dealt precisely with the question of which witnesses to an OCME DNA analysis must testify before the test conclusions are admitted against a defendant. Because John is so directly on point and its holding is so obviously controlling on this court, this opinion need not recount the federal and state precedents which preceded John; they are in any event discussed at length in the John opinions themselves.\nThe John majority recognized that OCME divides its DNA examinations, as it does its constant confirmatory reexaminations, into stages. During those stages, work is for practical reasons performed by numerous criminalists. As the testimony of Ms. Sylvester confirms, even in the initial exams, and also in the confirmatory exams, the work of criminalists at each stage is witnessed by and/or checked by other criminalists. At many stages, the work by no means requires analysis with expertise, any more than does the movement of vouchered property to the lab, or from the lab to the courtroom.\nThe early stages of analysis in particular did not impress the John Court as analytical in nature. A simple chemical test — for blood, it is the Kastle-Meyer test, which indicates the presence or absence of iron — resolves whether testing should continue. Notably, the results of such a test are not at all inculpatory of any defendant. Then any DNA is extracted and “amplified”; here too, any mistakes can only prevent ultimate analysis, and not harm a defendant. The amplified DNA is next placed into a machine, again not a step that requires scientific knowledge. And the complex data that emerges is next simply fed into a computer. The two machines involved cannot be cross-examined.\nThe John Court concluded that the criminalists who perform these steps need not testify at trial. As to these early stages, the opinion notes:\n“nothing in this record supports the conclusion that the analysts involved in the preliminary testing stages, specifically, the extraction, quantitation or amplification stages, are necessary witnesses .... [A]ny hypothetical missteps of the analysts in the multiple stages preliminary to the DNA typing at the electrophoresis stage would result in either no DNA profile or an incomplete DNA profile, or one readily inconsistent with a single source 16 loci profile . . . . Accordingly, we conclude that it is the generated numerical identifiers and the calling of the alleles at the final stage of the DNA typing that effectively accuses defendant of his role in the crime charged.” (People v John at 313.)\nNotably, the Court did not feel it necessary even to mention that criminalists fed the electrophoresis results through a computer before the “generated numerical identifiers” were available for “the calling of the alleles.”\nThis court’s conclusion was and is that no criminalists involved in defendant’s case at stages earlier than the analysis of the provisional profile were necessary witnesses. In fact, in this case Ms. Sylvester did the Kastle-Meyer test of the crime scene sample, and in addition loaded the complex electrophoresis results for the GeneMapper computer analysis. But that simply provided a “bonus” to defendant.\nThe John Court spoke differently as to the critical “calling of the alleles” after GeneMapper has created the provisional profile. In John the People’s only DNA witness was an OCME supervisor, one Huyck, who was a “surrogate” for the analysts and otherwise uninvolved in the case. Ms. Huyck had reviewed the reports “to make sure that everything looked okay and everything was signed off on by the necessary people” (id. at 301). She did not engage in the process of editing the provisional profile, but she said that she agreed with the editing. She noted the elimination of stutter, but did not refer to the excising done as to other peaks. The John Court found this witness inadequate as one who could provide the defendant with a fair basis to confront the DNA profile results that incriminated him.\nIn this case, Ms. Sylvester’s testimony was of a different order. Ms. Sylvester did participate in the testing of the crime scene DNA — and not only at the preliminary stages noted above. She also was the “reviewer” of the editing of the GeneMapper provisional profile.\nMs. Sylvester further described what a “reviewer” does. The term OCME has chosen is misleading. Ms. Sylvester did not simply look over the earlier analyst’s results; she redid them. In OCME’s redundant process, the “reviewer” repeats the work of the first analyst. That would satisfy John’s rule that the People produce testimony from an analyst who “witnessed, performed or supervised the generation of defendant’s DNA profile, or who used his or her independent analysis on the raw data, as opposed to a testifying analyst functioning as a conduit for the conclusions of others.” (John at 315.)\nMs. Sylvester also wrote the report on the analysis of the crime scene sample. As she testified, the report’s author reviews every step of the DNA testing process. And, at the critical stage at which alleles are “called,” the report author in general, and Ms. Sylvester in particular, independently reconsiders the data underlying the GeneMapper provisional profile, just as the initial analyst does. The analyses of the victim’s swab, and of defendant’s, were performed by new teams of criminalists, apparently pursuant to OCME policy that analysis of different samples in the same case must be independent. But for those two analyses as well, Ms. Sylvester wrote the reports. In doing so, she made the same independent analysis of the GeneMapper results that she would have, had she herself been the original analyst producing those results.\nFor those reasons, this court resolved that the opportunity to cross-examine Ms. Sylvester satisfied defendant’s Confrontation Clause rights.\n. For purposes of this opinion, the testimony of the People’s trial witnesses will be presumed true.\n. OCME places criminalists in four grades, from level 1 for the least experienced to level 4 for full-time supervisors. Ms. Sylvester had 12 years experience at OCME.\n. For a slightly more detailed explanation of the procedures, see People v Collins (49 Misc 3d 595, 604 [Sup Ct, NY County 2015]).\n. John noted that hearsay might or might not be considered “testimonial,” and bring the Crawford rule into play, if it involved the DNA analysis of a sample not yet associated with a particular suspect. The Court was not obliged to address the issue in John-, nor is this court obliged to address it. The court notes only that the analysis of the crime scene sample in this case preceded the identification of defendant as a suspect.\n. See also People v Alcivar, 140 AD3d 425 (1st Dept 2016) (applying John as to a machine blood test of defendant for an STD).\n. Three dissenters opined that John went farther than necessary to protect defendants’ legitimate rights.\n. The Court included the sex-determinative locus among the ones in a “profile.”",
+        "type": "majority",
+        "author": "Mark Dwyer, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Legal Aid Society, New York City (Michael Baldwin of counsel), for defendant.",
+      "Cyrus R. Vance, Jr., District Attorney, New York City (Lisa DelPizzo of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[36 NYS3d 354]\nThe People of the State of New York, Plaintiff, v James Corey, Defendant.\nSupreme Court, New York County,\nJune 27, 2016\nAPPEARANCES OF COUNSEL\nThe Legal Aid Society, New York City (Michael Baldwin of counsel), for defendant.\nCyrus R. Vance, Jr., District Attorney, New York City (Lisa DelPizzo of counsel), for plaintiff."
+  },
+  "file_name": "2370-01",
+  "first_page_order": 979,
+  "last_page_order": 987
+}

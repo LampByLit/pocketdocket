@@ -1,0 +1,1339 @@
+{
+  "id": 4318900,
+  "name": "In the Matter of Louis Robles, Petitioner, v. New York City Department of Citywide Administrative Services et al., Respondents",
+  "name_abbreviation": "Robles v. New York City Department of Citywide Administrative Services",
+  "decision_date": "2014-10-20",
+  "docket_number": "",
+  "first_page": "888",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 888"
+    },
+    {
+      "type": "parallel",
+      "cite": "10 N.Y.S.3d 805"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "95 NY2d 676",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189146
+      ],
+      "pin_cites": [
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0676-01"
+      ]
+    },
+    {
+      "cite": "232 AD2d 846",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1176188
+      ],
+      "pin_cites": [
+        {
+          "page": "849"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/232/0846-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 828",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3711309
+      ],
+      "pin_cites": [
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0828-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 249",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3706620,
+        3706407
+      ],
+      "pin_cites": [
+        {
+          "page": "251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0249-01",
+        "/ad3d/57/0249-02"
+      ]
+    },
+    {
+      "cite": "78 NY2d 561",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422543
+      ],
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0561-01"
+      ]
+    },
+    {
+      "cite": "3 AD3d 326",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1239756
+      ],
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/3/0326-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 346",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436062
+      ],
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0346-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 64",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109788
+      ],
+      "pin_cites": [
+        {
+          "page": "71, 72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0064-01"
+      ]
+    },
+    {
+      "cite": "42 USC § 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 USC § 1988",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 NY3d 507",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 NY3d 375",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3741594
+      ],
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/15/0375-01"
+      ]
+    },
+    {
+      "cite": "70 AD3d 528",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3965531,
+        3973275
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/70/0528-01",
+        "/ad3d/70/0528-02"
+      ]
+    },
+    {
+      "cite": "98 NY2d 80",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282454
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0080-01"
+      ]
+    },
+    {
+      "cite": "191 AD2d 683",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1118648
+      ],
+      "pin_cites": [
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/191/0683-01"
+      ]
+    },
+    {
+      "cite": "55 AD3d 1033",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3871209,
+        3871243
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/55/1033-01",
+        "/ad3d/55/1033-02"
+      ]
+    },
+    {
+      "cite": "299 AD2d 262",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        559885
+      ],
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0262-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 702",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2348363
+      ],
+      "pin_cites": [
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0702-01"
+      ]
+    },
+    {
+      "cite": "281 AD2d 320",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        98573,
+        98855
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/281/0320-01",
+        "/ad2d/281/0320-02"
+      ]
+    },
+    {
+      "cite": "46 AD3d 1044",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4040120
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1047"
+        },
+        {
+          "page": "1045, 1047"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/46/1044-01"
+      ]
+    },
+    {
+      "cite": "72 NY2d 231",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4409381
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "236"
+        },
+        {
+          "page": "236"
+        },
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/72/0231-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 521",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4244357
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "522"
+        },
+        {
+          "page": "522"
+        },
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0521-01"
+      ]
+    },
+    {
+      "cite": "119 AD2d 497",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3480015
+      ],
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/119/0497-01"
+      ]
+    },
+    {
+      "cite": "24 AD3d 162",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        979546,
+        979207
+      ],
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/24/0162-01",
+        "/ad3d/24/0162-02"
+      ]
+    },
+    {
+      "cite": "74 AD3d 555",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5740172
+      ],
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/0555-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 674",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431210
+      ],
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0674-01"
+      ]
+    },
+    {
+      "cite": "72 AD3d 446",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3969945
+      ],
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/0446-01"
+      ]
+    },
+    {
+      "cite": "110 AD3d 527",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3736065
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "528"
+        },
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/0527-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618867
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "184"
+        },
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0175-01"
+      ]
+    },
+    {
+      "cite": "6 NY3d 380",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3637496
+      ],
+      "pin_cites": [
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/6/0380-01"
+      ]
+    },
+    {
+      "cite": "61 AD3d 13",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3929306
+      ],
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/0013-01"
+      ]
+    },
+    {
+      "cite": "71 AD3d 1025",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3979375
+      ],
+      "pin_cites": [
+        {
+          "page": "1026"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/71/1025-01"
+      ]
+    },
+    {
+      "cite": "89 AD3d 132",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4030116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/89/0132-01"
+      ]
+    },
+    {
+      "cite": "32 AD3d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        537964
+      ],
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/32/0001-01"
+      ]
+    },
+    {
+      "cite": "65 AD3d 1219",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5730425
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1220"
+        },
+        {
+          "page": "1220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/65/1219-01"
+      ]
+    },
+    {
+      "cite": "8 AD3d 37",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2197733
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "38"
+        },
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/8/0037-01"
+      ]
+    },
+    {
+      "cite": "69 AD3d 949",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5739843
+      ],
+      "pin_cites": [
+        {
+          "page": "950"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/69/0949-01"
+      ]
+    },
+    {
+      "cite": "87 AD3d 740",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4028660
+      ],
+      "pin_cites": [
+        {
+          "page": "742-743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/87/0740-01"
+      ]
+    },
+    {
+      "cite": "263 F3d 49",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9482498
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "53"
+        },
+        {
+          "page": "53"
+        },
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/263/0049-01"
+      ]
+    },
+    {
+      "cite": "8 AD3d 678",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2198201
+      ],
+      "pin_cites": [
+        {
+          "page": "678-679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/8/0678-01"
+      ]
+    },
+    {
+      "cite": "89 AD3d 424",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4029701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/89/0424-01"
+      ]
+    },
+    {
+      "cite": "270 F3d 94",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9462646
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "101"
+        },
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/270/0094-01"
+      ]
+    },
+    {
+      "cite": "51 AD3d 1284",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3593215
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1288"
+        },
+        {
+          "page": "1288"
+        },
+        {
+          "page": "1288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/51/1284-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 1285",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5756029
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1287-1288"
+        },
+        {
+          "page": "1287-1288"
+        },
+        {
+          "page": "1288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/1285-01"
+      ]
+    },
+    {
+      "cite": "7 AD3d 895",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        554230
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "896"
+        },
+        {
+          "page": "896"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/7/0895-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 1271",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4003944
+      ],
+      "pin_cites": [
+        {
+          "page": "1272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/1271-01"
+      ]
+    },
+    {
+      "cite": "5 AD3d 135",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        86752
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "136"
+        },
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/5/0135-01"
+      ]
+    },
+    {
+      "cite": "27 AD3d 169",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2887684
+      ],
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/0169-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 832",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355690
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0832-01"
+      ]
+    },
+    {
+      "cite": "182 AD2d 61",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1081424
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "63"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/182/0061-01"
+      ]
+    },
+    {
+      "cite": "34 AD3d 99",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5298313
+      ],
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/34/0099-01"
+      ]
+    },
+    {
+      "cite": "77 AD3d 505",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5754594,
+        5759879
+      ],
+      "pin_cites": [
+        {
+          "page": "507-508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/77/0505-01",
+        "/ad3d/77/0505-02"
+      ]
+    },
+    {
+      "cite": "83 AD3d 451",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4011358
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "453"
+        },
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/0451-01"
+      ]
+    },
+    {
+      "cite": "13 NY3d 475",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3737469
+      ],
+      "pin_cites": [
+        {
+          "page": "492-493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/13/0475-01"
+      ]
+    },
+    {
+      "cite": "3 AD3d 345",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1239711,
+        1239903
+      ],
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/3/0345-02",
+        "/ad3d/3/0345-01"
+      ]
+    },
+    {
+      "cite": "49 AD3d 316",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3758168
+      ],
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/49/0316-01"
+      ]
+    },
+    {
+      "cite": "2 AD3d 125",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1242675,
+        1243293
+      ],
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/2/0125-01",
+        "/ad3d/2/0125-02"
+      ]
+    },
+    {
+      "cite": "14 AD3d 373",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1383722
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "376"
+        },
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/14/0373-01"
+      ]
+    },
+    {
+      "cite": "41 AD3d 156",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3508375
+      ],
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/41/0156-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 671",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189199
+      ],
+      "pin_cites": [
+        {
+          "page": "675"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0671-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 266",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4000205
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "277"
+        },
+        {
+          "page": "278"
+        },
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0266-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 493",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4242292
+      ],
+      "pin_cites": [
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0493-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 550",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4064488,
+        4069427
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0550-01",
+        "/ad3d/118/0550-02"
+      ]
+    },
+    {
+      "cite": "192 AD2d 463",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1122720,
+        1122863
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/192/0463-02",
+        "/ad2d/192/0463-01"
+      ]
+    },
+    {
+      "cite": "105 AD3d 575",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3747034
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/105/0575-01"
+      ]
+    },
+    {
+      "cite": "68 AD3d 421",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3949845,
+        3950773
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/68/0421-02",
+        "/ad3d/68/0421-01"
+      ]
+    },
+    {
+      "cite": "66 NY2d 994",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4402793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0994-01"
+      ]
+    },
+    {
+      "cite": "111 AD2d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5664609,
+        5659981,
+        5658351
+      ],
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/111/0688-01",
+        "/ad2d/111/0688-03",
+        "/ad2d/111/0688-02"
+      ]
+    },
+    {
+      "cite": "31 AD3d 253",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3498499
+      ],
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/31/0253-01"
+      ]
+    },
+    {
+      "cite": "64 AD3d 520",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5734114
+      ],
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/64/0520-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 509",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026578,
+        4016724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/0509-01",
+        "/ad3d/83/0509-02"
+      ]
+    },
+    {
+      "cite": "94 AD3d 517",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5682256,
+        5673626
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "518"
+        },
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/0517-02",
+        "/ad3d/94/0517-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1309,
+    "char_count": 30445,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1457897738439577
+    },
+    "sha256": "56a53a814ea424e9a4ea8ab640a041a78fc0bccea634bc54b87332aad63e2df5",
+    "simhash": "1:7dbd6aa62f046a60",
+    "word_count": 4813
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Louis Robles, Petitioner, v New York City Department of Citywide Administrative Services et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLucy Billings, J.\nI. Background\nOn July 1, 2011, respondent New York City Department of Citywide Administrative Services (DCAS) denied petitioner’s application for a New York City high pressure boiler operating engineer (HPBOE) license, which respondent New York City Department of Buildings (DOB) issues. The denial was based on petitioner’s lack of good moral character due to his misconduct and conflict of interest during his employment with the New York City Department of Education (DOE). In this proceeding pursuant to CPLR article 78, petitioner seeks annulment of respondents’ denial as arbitrary, an order that respondents grant his application for the license, and an award of attorney’s fees and expenses. For the reasons explained below, the court grants the petition to the extent set forth and otherwise denies the petition. (CPLR 7803 [3]; 7806.)\nII. Applicable Standards\nThe court must uphold respondents’ denial of petitioner’s application for the license if the determination is rationally based and therefore not arbitrary. (Matter of Chilson v Hein, 94 AD3d 517, 518 [1st Dept 2012]; Matter of Rasole v Department of Citywide Admin. Servs., 83 AD3d 509 [1st Dept 2011]; Arbuiso v New York City Dept. of Bldgs., 64 AD3d 520, 522 [1st Dept 2009]; Matter of Cardone v City of N.Y. Dept. of Bldgs., 31 AD3d 253, 255 [1st Dept 2006].) Petitioner bears the burden to demonstrate that he satisfies the statutory and regulatory requirements for the license he seeks. (55 RCNY 11-02 [d] [1]; Matter of Reingold v Koch, 111 AD2d 688, 690 [1st Dept 1985], affd 66 NY2d 994 [1985]; Chilson v Hein, 94 AD3d at 518; see Matter of San Filippo v New York City Dept. of Bldgs., 68 AD3d 421 [1st Dept 2009].)\nIII. The Petition’s Claims\nThe specific grounds for DCAS’s denial of petitioner’s application were his 2009 dismissal by DOE as a school custodian “for misconduct related to theft of school property and conflict of interest for receiving improper compensation by concealing payment for contracted work,” construction of a wall in the basement of the school where petitioner was employed. (Verified petition, exhibit A.) After a hearing by a City Office of Administrative Trials and Hearings (OATH) administrative law judge (ALJ), DOE’s Chancellor accepted the ALJ’s recommendation and terminated petitioner’s employment in a decision dated November 16, 2009. The Chancellor found that petitioner’s “actions involved deception and moral turpitude” and that he “displayed no remorse” and took no “responsibility for his proven misconduct.” {Id., exhibit B at 2.)\nPetitioner claims DCAS’s denial of his application for an HPBOE license was arbitrary because DCAS renewed the licenses of persons who had engaged in more serious misconduct, more lacking in moral character. At oral argument January 8, 2014, petitioner acknowledged he was not claiming discrimination in violation of Correction Law § 752. Since the OATH ALJ merely noted that petitioner’s misconduct amounted to petit larceny (Penal Law § 155.25), without any evidence that petitioner was convicted of that or any other crime, Correction Law § 752 does not apply to his circumstances. (Correction Law § 751; Martino v Consolidated Edison Co. of N.Y., Inc., 105 AD3d 575 [1st Dept 2013]; see Green v Wells Fargo Alarm Serv., 192 AD2d 463 [1st Dept 1993].)\nIV. Rational Determination\nAdministrative Code of the City of New York § 28-401.6 requires that\n“[a] 11 applicants for a license or certificate of competence shall be at least 18 years of age, shall be able to read and write the English language, shall be of good moral character, and shall meet additional qualifications that may be prescribed for the particular license or certificate of competence.”\nAlthough respondents also cite 1 RCNY 101-07 (c) (5) to support the requirement that HPBOE licensees be of good moral character, that regulation merely refers to qualified boiler inspectors and sets forth requirements for annual low pressure boiler inspections. The regulation nowhere requires good moral character or a similar qualification for high pressure boiler inspectors or operators or any licensees.\nThe DOE Chancellor’s determination was based on a hearing over three days detailing DOE’s investigation of the charges against petitioner. This process yielded the findings that petitioner stole an unidentified liquid from DOE, using and then returning its drums, and concealed his receipt of payment for work on DOE property, which he arranged between DOE and his brother, and for which petitioner used DOE employees during their employment, thus entailing a conflict of interest. These findings in turn furnish a rational and therefore an adequate basis for DCAS’s conclusion that petitioner lacked the moral character required for the license.\nRespondents rest on their bases for concluding that petitioner lacked the required moral character and do not claim that he failed to provide evidence requested to support his application or failed to cooperate with the background investigation. (See Matter of ACE Inspection & Testing, Inc. v New York City Dept. of Bldgs., 118 AD3d 550 [1st Dept 2014]; Godbolt v Verizon N.Y. Inc., 115 AD3d 493, 494 [1st Dept 2014].) Respondents retain discretion in determining whether an applicant, based on past conduct, is unfit for a license due to untrustworthiness: “a fundamental breach of the necessary trust . . . between an employer and employee,” a finding by the ALJ that the DOE Chancellor adopted. (Verified petition, exhibit B at 2; see Testwell, Inc. v New York City Dept. of Bldgs., 80 AD3d 266, 277 [1st Dept 2010].) Like untrustworthiness, lack of remorse for misconduct, which the Chancellor further found, is a relevant consideration in determining whether to grant or deny a license and in reviewing the rational basis for that determination. (Matter of Nehorayoff v Mills, 95 NY2d 671, 675 [2001]; Matter of Tolliver v Kelly, 41 AD3d 156, 158 [1st Dept 2007].)\nAlthough petitioner was not charged with any criminal offense related to DOE’s findings of theft and concealment of compensation for work entailing a conflict of interest, misconduct that does not result in a conviction still furnishes a rational basis for denying a license based on lack of moral character. (Matter of Cambridge v Commissioner of N.Y. City Dept. of Bldgs., 14 AD3d 373, 376 [1st Dept 2005]; Matter of Sindone v City of New York, 2 AD3d 125, 126 [1st Dept 2003].) The fact that DOE found those grounds enough to terminate his employment as a custodian also is relevant to respondents’ determination of fitness as a high pressure boiler operating engineer. (See Testwell, Inc. v New York City Dept. of Bldgs., 80 AD3d at 278.) In sum, despite the absence of a conviction, petitioner’s misconduct provides respondents a rational basis for determining that petitioner lacked the moral character required for the HPBOE license. (Testwell, Inc. v New York City Dept. of Bldgs., 80 AD3d at 278; Matter of Mankarios v New York City Taxi & Limousine Commn., 49 AD3d 316, 318 [1st Dept 2008]; Cambridge v Commissioner of N.Y. City Dept. of Bldgs., 14 AD3d at 377; Matter of Arif v New York City Taxi & Limousine Commn., 3 AD3d 345, 346 [1st Dept 2004].)\nV. Equal Treatment\nPetitioner further claims that DCAS’s determination constituted disparate treatment in comparison to other applicants similarly situated to him who sought an initial or a renewed HPBOE license. Respondents maintain that petitioner’s disparate treatment claim fails because petitioner is not similarly situated to the other applicants to whom he compares himself and does not identify any protected class to which he belongs as the basis for respondents’ discriminatory treatment. Because petitioner is not in a protected class, respondents may treat him differently from similarly situated license applicants if the different treatment is rationally related to a legitimate government interest. (Matter of Walton v New York State Dept. of Correctional Servs., 13 NY3d 475, 492-493 [2009]; OTR Media Group, Inc. v City of New York, 83 AD3d 451, 453 [1st Dept 2011]; Matter of City Servs., Inc. v Neiman, 77 AD3d 505, 507-508 [1st Dept 2010]; Matter of Chantel Nicole R., 34 AD3d 99, 105 [1st Dept 2006].) The license applicants to whom petitioner is compared, however, need be similar only in material or significant respects to be similarly situated to him. (Matter of Rudey v Landmarks Preserv. Commn. of City of N.Y., 182 AD2d 61, 63 [1st Dept 1992], affd 82 NY2d 832 [1993]; see Shah v Wilco Sys., Inc., 27 AD3d 169, 177 [1st Dept 2005].)\nA. Development of the Factual Record\nTo support his disparate treatment, petitioner presented the circumstances of 28 other HPBOE license applicants who were granted a license or license renewal despite criminal charges against them resulting in convictions, loss of employment, or other penalties imposed by governmental bodies. In an order dated August 15, 2012, the court granted petitioner’s motion for disclosure and ordered respondent to provide the results of an investigation by DOB’s Special Investigation Unit (SIU) regarding 13 of those 28 HPBOE license applicants. (CPLR 408.) Mark Assa, an SIU attorney, provided that disclosure.\nIn an affidavit dated February 14, 2013, Assa attests that DCAS renewed the HPBOE licenses of eight of those 13 licensees because it lacked information on their convictions: Daniel Donovan, Frank Franchi, Michael Fricione, Robert Katz, Rickey Lombardi, William Mulvihill, Robert Schmeidel, and Robert Stiles. Only Katz disclosed any prior conviction in his renewal application: a violation under the New York Vehicle and Traffic Law in 1995. None of these eight licensees had been convicted of a crime under New York law, but a federal database search revealed criminal felony prosecutions against Donovan and Fricione in 2005, for knowingly and intentionally embezzling, stealing, and misapplying DOE property. Although the court in an order dated June 12, 2013 granted petitioner’s motion for disclosure to the further extent of permitting petitioner to subpoena documents in those federal prosecutions, specifically to ascertain any conviction or other disposition of the charges against Donovan or Fricione, neither petitioner nor respondents presented any evidence of a disposition.\nAssa further attests that DCAS inadvertently renewed the HPBOE licenses of the five other licensees without investigating New York and federal criminal convictions these licensees disclosed in their applications: Mario Arena, Michael Graffeo, Kenneth Loeffler, Pasquale Spinello, and Robert Stewart. Arena was convicted of official misconduct in 2002. Graffeo was convicted of offering a false instrument in 2003. Loeffler was convicted of conspiracy to commit mail fraud between 2006 and 2008. Spinello was convicted of theft from an organization or governmental agency receiving federal funds in 2006. Stewart was convicted of conspiracy to misapply DOE property and to defraud DOE in 2006 and of attempted assault in 1979.\nAfter reviewing DOE records, Assa reported in an affidavit dated December 6, 2013 that the first eight licensees were involved in bid rigging. While the Special Commissioner of Investigation for DOE recommended terminating the employment of six, Donovan, Franchi, Fricione, Lombardi, Schmeidel, and Stiles, for this misconduct, none ultimately was terminated from employment, because Donovan and Fricione transferred to other City agencies, and Franchi, Lombardi, Schmeidel, and Stiles settled the charges against them. Lombardi and Schmeidel, however, resigned and agreed to ineligibility for future DOE employment. Franchi agreed to a suspension and substantial fine. Only Stiles escaped loss of employment and emerged with just a fine.\nKatz was demoted from Deputy Director of School Facilities for Bronx County to custodian, based on the Special Commissioner of Investigation’s findings that six DOE custodial employees in Bronx County engaged in a massive long-term scheme to defraud DOE of hundreds of thousands of dollars in custodial payroll funds through approved fraudulent payroll documents. The Special Commissioner specifically concluded that lack of oversight allowed these nominal employees to be paid over many years without appearing for work or their supervisor questioning their whereabouts. The eighth licensee employed by DOE, Mulvihill, retired, but DOE listed him as also ineligible for future DOE employment.\nB. Comparison between Petitioner and the Eight Licensees Employed by DOE\nAlthough Donovan and Fricione continued their employment at other agencies, and Katz continued his employment at DOE, albeit in a considerably more subordinate position, all three lost their current jobs. Respondents, moreover, distinguish all eight licensees employed by DOE from petitioner based not on the licensees’ continued employment, but on respondents’ unawareness of the licensees’ misconduct until 2013. Respondents also distinguish Donovan, Mulvihill, and Schmeidel based on the expiration of their licenses in 2013, without any application for renewal to trigger an investigation leading to denial of their licenses. (See OTR Media Group, Inc. v City of New York, 83 AD3d at 453; Castro v New York Univ., 5 AD3d 135, 136 [1st Dept 2004]; Matter of Jackson v Buffalo Mun. Hous. Auth., 81 AD3d 1271, 1272 [4th Dept 2011]; Matter of Washington County v New York State Div. of Human Rights, 7 AD3d 895, 896 [3d Dept 2004].)\nYet respondents admit their failure to conduct even the most rudimentary background investigation upon any of these licensees’ most recent applications, which at minimum would have disclosed the prosecutions against Donovan and Fricione for embezzlement, theft, and misapplication of DOE property associated with their bid rigging. This disclosure easily would have led to disclosure of the scheme in which all eight licensees were implicated, for which the Special Commissioner of Investigation or DOE recommended the termination from employment of seven, and based on which DOE removed the eighth, Katz, from his supervisory position. The misconduct by Lombardi, Mulvihill, and Schmeidel also precipitated their placement on a list of former employees ineligible for future employment. Even if nothing in any of these eight licensees’ applications on its face prompted an investigation, as respondents themselves point out, their own regulation, referring to the HPBOE license, requires that DCAS “or the investigating agency, as the case may be, shall conduct an investigation of each candidate to determine the candidate’s fitness and qualification for the license.” (55 RCNY 11-02 [h] [1] [emphasis added]; see verified answer ¶ 28.)\nNor did the information petitioner provided to respondents with his petition in 2011 prompt any investigation or action against the eight licensees employed by DOE. Only the court’s orders prompted an investigation. As a result, however, at least as to the five whose licenses have not expired, Franchi, Fricione, Katz, Lombardi, and Stiles, respondents no longer may base their lack of action on their unawareness of the licensees’ misconduct. Absent this distinguishing factor claimed by respondents, the investigation finally conducted shows now that petitioner was similarly situated to these five, at minimum, of the eight licensees. The circumstances of these licensees when they applied for renewal of their licenses every three years, if not identical to petitioner’s circumstances, bore a reasonably close resemblance sufficient for purposes of determining disparate treatment. (Matter of Liberty v New York State & Local Employees’ Retirement Sys., 85 AD3d 1285, 1287-1288 [3d Dept 2011]; see Matter of DaimlerChrysler Co., LLC v Billet, 51 AD3d 1284, 1288 [3d Dept 2008]; Lizardo v Denny’s, Inc., 270 F3d 94, 101 [2d Cir 2001].)\nEven the other three licensees’ retention of their HPBOE licenses despite their serious misconduct, until the licensees opted not to renew their licenses, is a consideration in determining whether petitioner is fit to hold an HPBOE license. To eliminate them from consideration completely is to ignore their dishonesty toward respondents and penalize petitioner for his honesty in comparison.\nRegardless of these considerations and comparisons, in his December 2013 affidavit Assa maintains that even in light of the discovered information, respondents would not commence disciplinary proceedings against any of the eight licensees employed by DOE. Nor have respondents indicated any inclination to reconsider the denial of the license to petitioner.\nYet, comparing these eight licensees’ misconduct to petitioner’s misconduct of stealing an unidentified liquid and concealing facts surrounding the construction of a school basement wall, respondents do not claim that his misconduct was more serious or more immoral. The OATH ALJ found that his conduct equated to petit larceny of DOE property, property less than $1,000 in value (Penal Law § 155.25; People v Monclova, 89 AD3d 424 [1st Dept 2011]; People v Jackman, 8 AD3d 678, 678-679 [2d Dept 2004]), and that he covertly received $350 for the wall construction. The bid rigging that the eight licensees engaged in was for amounts ranging from $3,782.40, in Stiles’s case, to $68,254.79, in Lombardi’s case, far in excess of the amounts totalling less than $1,350 involved in the misconduct petitioner committed.\nC. Comparison between Petitioner and the Five Licensees Who Disclosed Their Convictions\nRegarding the five other licensees who disclosed convictions, but whose HPBOE licenses respondent inadvertently renewed without further investigation, respondents admit to this failure to investigate as well, even though they investigated petitioner’s disclosure. Respondents do not claim that these five licensees’ criminal convictions constituted less serious or less immoral misconduct than petitioner’s non-criminal misconduct. Thus these five licensees also are similarly situated to petitioner for purposes of determining disparate treatment. (Liberty v New York State & Local Employees’ Retirement Sys., 85 AD3d at 1287-1288; see DaimlerChrysler Co., LLC v Billet, 51 AD3d at 1288; Lizardo v Denny’s, Inc., 270 F3d at 101.)\nWhile the seriousness of petitioner’s misconduct at DOE is not to be minimized, neither is respondents’ disregard of other applicants’ disclosed crimes, including federal felony convictions, to be overlooked. Respondents’ inaction against these five licensees is at least as indicative of unequal treatment as respondents’ failure to investigate the integrity of dishonest applications by licensees facing bid rigging charges or to deny or revoke a license when ultimately confronted with the true facts.\nD. Unequal Treatment\nEven though DCAS was aware of these five licensees’ convictions and now is aware of the eight licensees whose removal from employment was recommended or accomplished through disciplinary action, all of them have retained their HPBOE licenses, except Donovan, Mulvihill, and Schmeidel whose licenses expired in 2013 and who at that point did not apply for renewal. Despite awareness of the criminal convictions and of DOE’s disciplinary actions, respondents have neither denied a license application nor revoked a license of any of the 13 licensees. While DOB commenced license revocation proceedings informally against Graffeo and formally against Spinello and Stewart, DCAS ultimately granted renewal of their licenses. (See McGuinness v Lincoln Hall, 263 F3d 49, 53 [2d Cir 2001].) The common thread among all 13 licensees is that whatever charges were instituted against the licensees, whether by DOE or by DOB, they settled the charges before an OATH adjudication, on terms that permitted receipt and retention of HPBOE licenses until the licensees unilaterally determined not to renew their licenses.\nUnder these circumstances, denial of the license to petitioner shows that respondents have treated differently license applicants who are in all relevant respects alike. (Rudey v Landmarks Preserv. Commn. of City of N.Y., 182 AD2d at 63; Matter of Graves v Doar, 87 AD3d 740, 742-743 [2d Dept 2011]; Matter of Weiner v Board of Assessors &/or Assessor of Town/Vil. of Harrison, 69 AD3d 949, 950 [2d Dept 2010]; McGuinness v Lincoln Hall, 263 F3d at 53; see Dezer Entertainment Concepts, Inc. v City of New York, 8 AD3d 37, 38 [1st Dept 2004]; Supreme Assoc., LLC v Suozzi, 65 AD3d 1219, 1220 [2d Dept 2009].) Respondents have identified no governmental purpose for denying a license to petitioner while granting renewals to other applicants who lost their jobs due to more serious criminal activity. (Liberty v New York State & Local Employees’ Retirement Sys., 85 AD3d at 1288; see Matter of C/S 12th Ave. LLC v City of New York, 32 AD3d 1, 9-10 [1st Dept 2006]; Dezer Entertainment Concepts, Inc. v City of New York, 8 AD3d at 38; Supreme Assoc., LLC v Suozzi, 65 AD3d at 1220.)\nThe record developed regarding the 13 licensees analyzed above is enough to reach this conclusion. (Rudey v Landmarks Preserv. Commn. of City of N.Y., 82 NY2d at 834; McGuinness v Lincoln Hall, 263 F3d at 53; see Castro v New York Univ., 5 AD3d at 136; Daimler Chrysler Co., LLC v Billet, 51 AD3d at 1288; Washington County v New York State Div. of Human Rights, 7 AD3d at 896.) It does not, however, preclude respondents’ consideration of the 15 additional HPBOE licensees whose circumstances petitioner also brought to respondents’ attention with his petition. At least four of these licensees fit squarely into the profile of the 13 described above: Kevin Davies, Michael Donovan, Nicholas Nuziale, and Christopher Robles. Respondents initially denied renewal of their licenses, but then granted licenses to all four, despite Davies’s conviction for offering a false instrument in 2003, Donovan’s conviction for conspiracy to misapply DOE property and to defraud DOE in 2006, and Nuziale’s and Robles’s convictions for theft from a governmental agency receiving federal funds in 2006. (Aff of Marc Assa, Feb. 14, 2013, exhibit B, ¶ 17 [a], [c], [f], [g]; exhibit C, ¶ 9 [a], [c], [f], [g]; supplemental aff of petitioner by Jerold E. Levine, exhibit B at 1-4; Matter of LaSonde v Seabrook, 89 AD3d 132, 137 n 8 [1st Dept 2011]; Matter of L & Q Realty Corp. v Assessor, 71 AD3d 1025, 1026 [2d Dept 2010]; Kingsbrook Jewish Med. Ctr. v Allstate Ins. Co., 61 AD3d 13, 20 [2d Dept 2009].)\nVI. Mandamus to Compel Issuance of the License\nDespite respondents’ disparate treatment of petitioner, the court may not order respondents to award petitioner the HPBOE license as he requests. In a proceeding pursuant to CPLR 7803 (1) for mandamus to compel the performance of a duty enjoined by law, petitioner must establish an unambiguous legal right to the relief requested. (Matter of Council of City of N.Y. v Bloomberg, 6 NY3d 380, 388 [2006]; New York Civ. Liberties Union v State of New York, 4 NY3d 175, 184 [2005]; Matter of Dekom v New York Dept. of Fin. Servs., 110 AD3d 527, 528 [1st Dept 2013]; Matter of Cohen v Engoron, 72 AD3d 446, 447 [1st Dept 2010] .) The performance of the duty petitioner seeks to enforce must be a non-discretionary, compulsory adherence to the law, without allowance for the exercise of judgment. (New York Civ. Liberties Union v State of New York, 4 NY3d at 184; Matter of Brusco v Braun, 84 NY2d 674, 679 [1994]; Matter of Ozdoba v Chelsea Landmark LIC, LLC, 74 AD3d 555, 556 [1st Dept 2010].)\nWhile the record does not rationally support respondents’ conclusion that petitioner lacked moral character compared to other similarly situated licensees who possessed good moral character sufficient to receive an HPBOE license, neither does the record conclusively support petitioner’s requisite moral character. (See Matter of Auringer v Department of Bldgs. of City of N.Y., 24 AD3d 162, 163 [1st Dept 2005].) Respondents retain discretion to determine whether an applicant is fully qualified for issuance of the license under the Administrative Code and its implementing regulations. Under these standards, petitioner fails to demonstrate that the court must compel respondents to grant him the license. (Matter of Lubin v Board of Educ. of City of N.Y., 119 AD2d 497, 500 [1st Dept 1986]; see Dekom v New York Dept. of Fin. Servs., 110 AD3d at 528.)\nVII. Attorney’s Fees and Expenses\nFinally, petitioner seeks attorney’s fees and expenses. In a proceeding pursuant to CPLR article 78:\n“Any restitution or damages granted to the petitioner must be incidental to the primary relief sought by the petitioner, and must be such as he might otherwise recover on the same set of facts in a separate action or proceeding suable in the supreme court against the same body or officer in its or his official capacity.” (CPLR 7806; Metropolitan Taxicab Bd. of Trade v New York City Taxi & Limousine Commn., 115 AD3d 521, 522 [1st Dept 2014].)\nMonetary relief may be incidental to an article 78 proceeding if the relief is contingent on the court’s determination that action by a governmental agency was unlawful, and the damages flow directly from that action. (Matter of Gross v Perales, 72 NY2d 231, 236 [1988]; Hughes Vil. Rest., Inc. v Village of Castletonon-Hudson, 46 AD3d 1044, 1047 [3d Dept 2007].)\nPetitioner’s claim for attorney’s fees and expenses is not incidental to his request for review of respondents’ denial of the HPBOE license, because the fees and expenses do not constitute funds that respondents collected or withheld from petitioner and are obligated to reimburse if the denial is annulled. (Metropolitan Taxicab Bd. of Trade v New York City Taxi & Limousine Commn., 115 AD3d at 522; Matter of Ballance v Finkel, 281 AD2d 320 [1st Dept 2001]; see Gross v Perales, 72 NY2d at 236; Pauk v Board of Trustees of City Univ. of N.Y., 68 NY2d 702, 704 [1986].) Nor are the fees and expenses for any other loss that he necessarily suffered because respondents denied him the license. (Lukas v Ascher, 299 AD2d 262, 263 [1st Dept 2002]; Matter of Oberoi v Dennison, 55 AD3d 1033 [3d Dept 2008]; Murphy v Capone, 191 AD2d 683, 684 [2d Dept 1993]; see Hughes Vil. Rest., Inc. v Village of Castleton-on Hudson, 46 AD3d at 1045, 1047.)\nThe reimbursement petitioner seeks is for losses he chose to incur when prevented from holding the license. Incidental damages reimbursable under CPLR 7806, however, do not encompass any monetary loss incurred by petitioner in his efforts to annul respondents’ denial. (Gross v Perales, 72 NY2d at 237; Metropolitan Taxicab Bd. of Trade v New York City Taxi & Limousine Commn., 115 AD3d at 523.)\nNor does petitioner rely on any contractual, statutory, or regulatory provision that permits an award of attorney’s fees or expenses for prevailing on his claims. (Baker v Health Mgt. Sys., 98 NY2d 80, 88 [2002]; Atlantic Dev. Group, LLC v 296 E. 149th St., LLC, 70 AD3d 528, 529 [1st Dept 2010]; see Flemming v Barnwell Nursing Home & Health Facilities, Inc., 15 NY3d 375, 379 [2010]; TAG 380, LLC v ComMet 380, Inc., 10 NY3d 507, 515 [2008].) Although 42 USC § 1988 would authorize fees and expenses for prevailing on a claim pursuant to 42 USC § 1983 that respondents violated the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution, petitioner nowhere relies on any federal constitutional guarantee or federal statute. (Matter of Guido v New York State Teachers’ Retirement Sys., 94 NY2d 64, 71, 72 [1999]; Matter of New York State Clinical Lab. Assn. v Kaladjian, 85 NY2d 346, 351 [1995]; Jiggetts v Dowling, 3 AD3d 326, 328 [1st Dept 2004]; see Matter of Thomasel v Perales, 78 NY2d 561, 567 [1991].) Nevertheless, he is entitled to costs and disbursements under CPLR 8101 and 8301 if he ultimately prevails in obtaining the license as a result of this proceeding. (E.g. Matter of New York State Urban Dev. Corp. v Nawam Entertainment, Inc., 57 AD3d 249, 251 [1st Dept 2008]; Diaz v Audi of Am., Inc., 57 AD3d 828, 832 [2d Dept 2008]; Grier v Johnson, 232 AD2d 846, 849 [3d Dept 1996]; see Matter of Greer v Wing, 95 NY2d 676, 681 [2001].)\nVIII. Conclusion\nBecause respondents’ July 1, 2011 denial of petitioner’s application for a high pressure boiler operating engineer license is arbitrary in treating petitioner differently from other similarly situated applicants and licensees as set forth above, the court grants the petition to the extent of vacating that denial. (CPLR 7803 [3].) The court remands this proceeding to respondents to reevaluate petitioner’s application considering the dispositions of the licensees who were similarly situated to petitioner or engaged in more serious, immoral misconduct. (CPLR 7806.) They include, at minimum, Mario Arena, Frank Franchi, Michael Fricione, Michael Graffeo, Robert Katz, Kenneth Loeffler, Rickey Lombardi, Pasquale Spinello, Robert Stewart, and Robert Stiles.\nEven as to Daniel Donovan, William Mulvihill, and Robert Schmeidel, whose licenses expired in 2013 without an application for renewal, the years these licensees held their licenses and were granted renewals after engaging in similar or more serious, immoral misconduct than petitioner are to be considered in comparison to the years he has been denied the license. The action taken or not taken against the 15 licensees whom petitioner also brought to respondents’ attention in addition to the 13 above also may be considered, particularly Michael Donovan, Nicholas Nuziale, and Christopher Robles, to whom respondents granted licenses despite their convictions for criminal offenses involving “deception and moral turpitude.” (Verified petition, exhibit B at 2.)\nThe court denies the petition insofar as it seeks the issuance of the license and attorney’s fees and expenses other than costs and disbursements under CPLR 8101 and 8103 upon successful completion of the proceeding after remand. This decision constitutes the court’s order and judgment granting the petition to the extent set forth and otherwise denying the petition and dismissing the proceeding. (CPLR 7803 [3]; 7806.)",
+        "type": "majority",
+        "author": "Lucy Billings, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jerold E. Levine, Valley Stream, for petitioner.",
+      "Zachary W. Carter, Corporation Counsel, New York City (Jacqueline Hui of counsel), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[10 NYS3d 805]\nIn the Matter of Louis Robles, Petitioner, v New York City Department of Citywide Administrative Services et al., Respondents.\nSupreme Court, New York County,\nOctober 20, 2014\nAPPEARANCES OF COUNSEL\nJerold E. Levine, Valley Stream, for petitioner.\nZachary W. Carter, Corporation Counsel, New York City (Jacqueline Hui of counsel), for respondents."
+  },
+  "file_name": "1890-01",
+  "first_page_order": 886,
+  "last_page_order": 900
+}

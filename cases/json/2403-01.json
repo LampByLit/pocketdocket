@@ -1,0 +1,251 @@
+{
+  "id": 12170372,
+  "name": "The People of the State of New York, Plaintiff, v. Eryk Ford, Defendant",
+  "name_abbreviation": "People v. Ford",
+  "decision_date": "2016-07-11",
+  "docket_number": "",
+  "first_page": "318",
+  "last_page": "324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 318"
+    },
+    {
+      "type": "parallel",
+      "cite": "36 N.Y.S.3d 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "156 Misc 2d 192",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        910124
+      ],
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/156/0192-01"
+      ]
+    },
+    {
+      "cite": "96 Misc 2d 147",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1921204
+      ],
+      "pin_cites": [
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/96/0147-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 51516",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Misc 3d 905",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 AD2d 789",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1065077
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/178/0789-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 296",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 NY2d 894",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Misc 2d 48",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        880366
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/181/0048-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "7 Misc 3d 8",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1187423
+      ],
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/7/0008-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75991
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0103-01"
+      ]
+    },
+    {
+      "cite": "2004 NY Slip Op 50869",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Misc 3d 1013",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 NY3d 249",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5715767
+      ],
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0249-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 729",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2348315,
+        2349737,
+        2348155
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0729-02",
+        "/ny-2d/68/0729-03",
+        "/ny-2d/68/0729-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 649,
+    "char_count": 12749,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24693061255694831
+    },
+    "sha256": "cc7886fdb43e14c4b8815cd52bb0eec1df95f2da1644b8d6e33cb4fe675351ce",
+    "simhash": "1:ba379667c823b032",
+    "word_count": 2036
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Eryk Ford, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nArmando Montano, J.\nDefendant is charged with one count of obstructing governmental administration in the second degree (Penal Law § 195.05) and one count of harassment in the second degree (Penal Law § 240.26 [1]).\nDefendant moves for an order: (1) dismissing count one, Penal Law § 195.05, as facially insufficient; (2) suppressing any and all admissions, confessions, or statements allegedly made by defendant, or in the alternative, granting a Huntley/Dunaway hearing; (3) suppressing any in-court or out-of-court identifications of defendant, or in the alternative, granting a WadelDunaway hearing; (4) precluding the introduction of any unnoticed identification evidence; (5) directing the People to furnish defendant with a bill of particulars and a response to his demand to produce; (6) precluding the People from introducing at trial any evidence of defendant’s prior convictions or bad acts; (7) directing the People to disclose all Brady material; and (8) granting defendant the right to make additional pretrial motions and the right to amend and/or supplement this motion if made necessary or appropriate by the People’s future disclosure.\nThe factual allegations in the accusatory instrument sworn to by the deponent, Police Officer J. Jones, read as follows:\n“Deponent is informed by CO JENNIFER DECICEO of Department of Corrections, Shield No. 13723 that [on or about December 29, 2015 at approximately 6:45 AM inside of 1 Halleck Street, County of the Bronx, State of New York], Rikers Island Correctional Facility, George R. Vierno Center (GRVC), Housing Area 13A, informant was dressed in her official correction officer uniform while performing a tour, informant walked past defendant’s cell, defendant stated in sum and substance I’M GOING TO SPLASH YOU at which time defendant threw an unknown liquid substance in the direction of informant and said liquid substance struck informant’s torso area and right arm.\n“Deponent is further informed by informant that informant was unable to perform her scheduled duties due to leaving said location and receiving medical treatment at a local clinic.”\nMotion to Dismiss\nDefendant argues that count one must be dismissed because the accusatory instrument fails to allege adequate facts of an evidentiary character which support all of the elements of the charge, to wit: the performance of an official function by a public servant and the intent on his part to frustrate a public servant in performing a specific function. Defendant asserts that the allegation that Correction Officer (CO) Deciceo was performing a tour while in uniform is akin to an allegation that a police officer was on duty, which has been held to be insufficient to establish the element of an official function. Defendant further avers that his purported intent to frustrate the performance of an official function is supported by nothing more than impermissible conclusory allegations.\nIn opposition, the People assert that the information is facially sufficient in that it provides detailed facts which support the charge of Penal Law § 195.05 and provides suitable notice to defendant to prepare a defense to the offense charged. When given a fair reading, the People argue that all elements of the offense charged are supported by nonhearsay allegations of fact which provide reasonable cause to believe that defendant committed the offense charged. The People point out that the accusatory instrument adequately alleges that defendant deliberately threw an unknown liquid onto CO Deciceo. As a result of defendant’s actions, CO Deciceo was prevented from completing the official function of maintaining order, in that she had to leave her post in order to receive medical attention.\nIt is well settled that an accusatory instrument must contain facts of an evidentiary nature that support or tend to support the crimes charged (CPL 100.15 [3]; People v Dumas, 68 NY2d 729 [1986]) and contain nonhearsay allegations that establish, if true, every element of the crimes charged (CPL 100.40 [1] [c]). Further, an accusatory instrument must provide reasonable cause to believe that the defendant committed the crimes charged. (CPL 100.40 [1] [b]; Dumas, 68 NY2d 729.) Reasonable cause to believe that a defendant committed the crimes charged “exists when evidence or information which appears reliable discloses facts or circumstances which are collectively of such weight and persuasiveness as to convince a person of ordinary intelligence, judgment and experience that it is reasonably likely that such offense was committed and that such person committed it.” (CPL 70.10 [2].) “In order for the reasonable cause standard to be met, the factual portion of the accusatory instrument must describe conduct that constitutes the crime charged.” (People v Hightower, 18 NY3d 249, 254 [2011].)\nIn reviewing an accusatory instrument for facial sufficiency, the court must assume the truth of the factual allegations and consider all favorable inferences drawn therefrom. (CPL 100.40, 100.15; People v Mellish, 4 Misc 3d 1013[A], 2004 NY Slip Op 50869[U] [Crim Ct, NY County 2004].) The facts alleged need only establish the existence of a prima facie case, even if those facts would be insufficient to establish guilt beyond a reasonable doubt. (People v Jennings, 69 NY2d 103 [1986].) “The law does not require that the information contain the most precise words or phrases most clearly expressing the charge, only that the crime and the factual basis therefor be sufficiently alleged.” (People v Sylla, 7 Misc 3d 8, 10 [App Term, 2d Dept, 2d & 11th Jud Dists 2005].) As such, “[s]o long as the factual allegations of an information give an accused notice sufficient to prepare a defense and are adequately detailed to prevent a defendant from being tried twice for the same offense, they should be given a fair and not overly restrictive or technical reading.” (People v Casey, 95 NY2d 354, 360 [2000].)\n“A person is guilty of obstructing governmental administration when he intentionally obstructs, impairs or perverts the administration of law or other governmental function or prevents or attempts to prevent a public servant from performing an official function, by means of intimidation, physical force or interference, or by means of any independently unlawful act” (Penal Law § 195.05).\nA person acts intentionally with respect to a result or conduct “when his conscious objective is to cause such result or to engage in such conduct.” (Penal Law § 15.05 [1].) “Because ‘ “intent” . . . cannot be the subject of a non-hearsay eviden-tiary allegation, it . . .is necessary only that there be alleged evidentiary facts from which intent may be inferred.’ ” (People v Spiegel, 181 Misc 2d 48, 52 [Crim Ct, NY County 1999], quoting People v Leiner, NYLJ, Oct. 15, 1997 at 34, col 5 [App Term, 2d Dept, 2d & 11th Jud Dists 1997], lv denied 91 NY2d 894 [1998].) Intent can be inferred from the defendant’s conduct and/or the surrounding circumstances. (See People v Bracey, 41 NY2d 296 [1977]; People v Collins, 178 AD2d 789 [3d Dept 1991]; People v Hawkins, 1 Misc 3d 905[A], 2003 NY Slip Op 51516[U] [Crim Ct, NY County 2003].)\nPenal Law § 195.05 was “intended to make criminal conduct designed to interrupt or shut down administrative governmental operations.” (People v Offen, 96 Misc 2d 147, 151 [Crim Ct, NY County 1978].) Since “[t]he plain meaning of the statute and the accompanying commentary clearly demonstrate that the mens rea of this crime is an intent to frustrate a public servant in the performance of a specific function” (People v Joseph, 156 Misc 2d 192, 193 [Crim Ct, Kings County 1992]), a facially sufficient information must set forth adequate factual allegations to establish that the public servant was “engaged in a specific action at the time of the physical interference, and not just on duty.” (Id. at 194 [emphasis added].) “The requirement that the People plead a specific function is not an onerous burden. . . . [T]he barest factual allegation of a[n] [official] function would suffice to satisfy this element of the statute.” (Id. at 197.)\nBased on Joseph, this court finds that the People have failed to adequately allege the element of the performance of an official function. The instant information alleges that CO Deciceo was in uniform and performing a tour. Although the phrase “performing a tour” is not further defined in the accusatory instrument, Administrative Code of the City of New York § 9-116 (c) provides in pertinent part that for the Department of Correction, “[t]ours of duty shall commence at midnight, eight o’clock ante meridian and four o’clock post meridian of each consecutive twenty-four hours. Such tours of duty shall . . . he designated as normal tours of duty.” By use of the phrase “performing a tour,” this court can infer that CO Deciceo was merely on duty at the time of the alleged interference. Had the People alleged, as they do in their papers in opposition, that CO Deciceo was prevented from performing the official function of maintaining order, then this court would readily find that the element of an official function had been adequately pleaded. However, the information contains nothing more than an allegation indicating that CO Deciceo was on duty. The absence of any factual allegations identifying an official function necessitates dismissal of the charge of Penal Law § 195.05.\nAdditionally, since the element of an official function has not been alleged, the information fails to establish that defendant, by throwing an unknown liquid at CO Deciceo, acted with the intent to prevent a public servant in the performance of that official function.\nMotion to Suppress Statement Evidence\nDefendant’s motion to suppress statement evidence is granted solely to the extent that a combined Huntley ¡Dunaway hearing shall be held.\nMotion to Suppress Identification Evidence\nBy letter dated July 6, 2016, this court was informed by ADA Scott McDonald that identification notice pursuant to CPL 710.30 (1) was not served because there was no identification procedure performed in this case. Therefore, defendant’s motion to suppress identification evidence is denied.\nMotion to Preclude Identification Evidence\nDefendant’s motion to preclude the introduction of identification evidence for which proper notice was not given is denied, with leave granted for defendant to renew this branch of the motion upon learning that the People intend to introduce any such evidence at trial.\nDiscovery\nDefendant’s motion for an order compelling the People to provide a response to his demand to produce and a bill of particulars is hereby denied as moot as the People served their response and a bill of particulars on April 11, 2016.\nThe People are reminded of their continuing obligation to supply all Brady material.\nPrior Convictions and/or Bad Acts\nDefendant’s motion for an order precluding the People from introducing evidence of his prior convictions and/or bad acts is respectfully referred to the trial judge.\nFuture Motions\nDefendant’s reservation of right to file further motions is unauthorized pursuant to CPL 255.20 (3). Any future motions shall be summarily denied absent a showing of good cause.\nAccordingly, defendant’s motion to dismiss count one, Penal Law § 195.05, as facially insufficient is granted. The People are granted leave to move to amend or otherwise cure the defects in the accusatory instrument consistent with CPL 30.30 and 170.30. Defendant’s motion to suppress statement evidence is granted to the extent that a Huntley/Dunaway hearing shall be held. Defendant’s motion to suppress identification evidence is denied. Defendant’s motion to preclude the introduction of identification evidence for which proper notice was not given is denied, with leave granted for defendant to renew this branch of the motion upon learning that the People intend to introduce any such evidence at trial. Defendant’s motion for an order compelling the People to provide a response to his demand to produce and a bill of particulars is hereby denied as moot. Defendant’s motion for an order precluding the People from introducing evidence of his prior convictions and/or bad acts is respectfully referred to the trial judge. Defendant’s request to file additional motions is denied subject to rights under CPL 255.20 (3) to move for further leave upon good cause shown.",
+        "type": "majority",
+        "author": "Armando Montano, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Law Offices of Emil F. Piedra {Emil F. Piedra of counsel) for defendant.",
+      "Darcel D. Clark, District Attorney (Scott G. McDonald of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[36 NYS3d 374]\nThe People of the State of New York, Plaintiff, v Eryk Ford, Defendant.\nCriminal Court of the City of New York, Bronx County,\nJuly 11, 2016\nAPPEARANCES OF COUNSEL\nLaw Offices of Emil F. Piedra {Emil F. Piedra of counsel) for defendant.\nDarcel D. Clark, District Attorney (Scott G. McDonald of counsel), for plaintiff."
+  },
+  "file_name": "2403-01",
+  "first_page_order": 328,
+  "last_page_order": 334
+}

@@ -1,0 +1,550 @@
+{
+  "id": 12298944,
+  "name": "Eric S. Siegel, Plaintiff, v. Charles A. Garibaldi, Defendant",
+  "name_abbreviation": "Siegel v. Garibaldi",
+  "decision_date": "2016-09-13",
+  "docket_number": "",
+  "first_page": "500",
+  "last_page": "507",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 500"
+    },
+    {
+      "type": "parallel",
+      "cite": "51 N.Y.S.3d 794"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "76 AD2d 955",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3192777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/76/0955-01"
+      ]
+    },
+    {
+      "cite": "39 AD2d 613",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3274594,
+        3261331,
+        3277566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/39/0613-02",
+        "/ad2d/39/0613-03",
+        "/ad2d/39/0613-01"
+      ]
+    },
+    {
+      "cite": "35 AD2d 1042",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3258203,
+        3259269,
+        3258183,
+        3255981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/35/1042-04",
+        "/ad2d/35/1042-01",
+        "/ad2d/35/1042-02",
+        "/ad2d/35/1042-03"
+      ]
+    },
+    {
+      "cite": "21 AD2d 708",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5516456,
+        5514154
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/21/0708-02",
+        "/ad2d/21/0708-01"
+      ]
+    },
+    {
+      "cite": "9 AD2d 1001",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3036480,
+        3007251
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/9/1001-02",
+        "/ad2d/9/1001-01"
+      ]
+    },
+    {
+      "cite": "265 App Div 579",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2650877
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/265/0579-01"
+      ]
+    },
+    {
+      "cite": "289 NY 804",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2054198
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/289/0804-01"
+      ]
+    },
+    {
+      "cite": "264 App Div 449",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2646218
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/264/0449-01"
+      ]
+    },
+    {
+      "cite": "48 AD2d 539",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2945106
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/48/0539-01"
+      ]
+    },
+    {
+      "cite": "262 AD2d 734",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        113037
+      ],
+      "pin_cites": [
+        {
+          "page": "734"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/262/0734-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 335",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5715502
+      ],
+      "pin_cites": [
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0335-01"
+      ]
+    },
+    {
+      "cite": "294 AD2d 785",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        996932
+      ],
+      "pin_cites": [
+        {
+          "page": "786"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/294/0785-01"
+      ]
+    },
+    {
+      "cite": "24 AD3d 846",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        979335
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "847"
+        },
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/24/0846-01"
+      ]
+    },
+    {
+      "cite": "17 NY2d 423",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 AD2d 597",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3164865,
+        3159671
+      ],
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/25/0597-01",
+        "/ad2d/25/0597-02"
+      ]
+    },
+    {
+      "cite": "33 AD2d 975",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3248446
+      ],
+      "pin_cites": [
+        {
+          "page": "976"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/33/0975-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 715",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        712769
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "716"
+        },
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0715-01"
+      ]
+    },
+    {
+      "cite": "14 NY2d 488",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 AD2d 939",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3131241,
+        3118379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/20/0939-02",
+        "/ad2d/20/0939-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 140",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "144"
+        },
+        {
+          "page": "144"
+        },
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 NY2d 912",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0912-01"
+      ]
+    },
+    {
+      "cite": "218 AD2d 872",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1228222
+      ],
+      "pin_cites": [
+        {
+          "page": "873"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/218/0872-01"
+      ]
+    },
+    {
+      "cite": "4 NY3d 621",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        618637
+      ],
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/4/0621-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 535",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4378352
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "544"
+        },
+        {
+          "page": "543-544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0535-01"
+      ]
+    },
+    {
+      "cite": "97 NY2d 147",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1061757
+      ],
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/97/0147-01"
+      ]
+    },
+    {
+      "cite": "46 AD3d 1084",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4056122
+      ],
+      "pin_cites": [
+        {
+          "page": "1084"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/46/1084-01"
+      ]
+    },
+    {
+      "cite": "73 AD3d 1326",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3974058
+      ],
+      "pin_cites": [
+        {
+          "page": "1327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/73/1326-01"
+      ]
+    },
+    {
+      "cite": "160 AD2d 1136",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3619572
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/160/1136-01"
+      ]
+    },
+    {
+      "cite": "302 AD2d 700",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        729407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/302/0700-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 851",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4398011
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0851-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 799,
+    "char_count": 15904,
+    "ocr_confidence": 0.752,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2502325425150269
+    },
+    "sha256": "3e3a9fb43864069cca6ea9eb288ec685292264176baed25fd3ca043a2255c7ad",
+    "simhash": "1:366ae6626edb2797",
+    "word_count": 2627
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric S. Siegel, Plaintiff, v Charles A. Garibaldi, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLisa M. Fisher, J.\nThis matter involves a pedestrian knockdown car accident occurring on February 11, 2014 at approximately 10:45 p.m., wherein plaintiff pedestrian sustained personal injuries when defendant motorist rolled through a stop sign, while on his cell phone, and collided into plaintiff who was in the crosswalk. Now, defendant moves for summary judgment arguing plaintiff is unable to maintain an action against defendant pursuant to Workers’ Compensation Law § 29 (6), which bars plaintiff’s action as workers’ compensation is the exclusive remedy. For the reasons that follow, defendant’s motion is granted and the complaint is dismissed.\nThe facts are undisputed. Both plaintiff and defendant were employees of the Culinary Institute of America and the subject accident occurred on the campus’ premises. Defendant had finished his tasks for the night, entered his vehicle parked on campus, and proceeded along Campus Drive to reach the campus entrance to 9W to go home. The entrance was approximately a quarter of a mile away from where he parked his vehicle. Defendant admitted to rolling through the stop sign and collided with plaintiff in the crosswalk, who had just started his car in the parking lot and was crossing the street to return to work to clock out. After the subject accident, both plaintiff and defendant went to campus security and informed them what happened, and campus security called for police and an ambulance.\nWhile the facts are undisputed, both parties disagree over the applicable law. Defendant contends that the Workers’ Compensation Law applies to the ingress and egress of employees. Even though defendant was off the clock, defendant contends he was still on his employer’s premises leaving the property and in the process of egress thus the Workers’ Compensation Law bars this action. Whereas plaintiff contends that defendant had completed his work-related tasks and was not within the scope of his employment when the subject accident occurred. Plaintiff further contends defendant was on a road open to the public and not furthering his employer’s interests as he had left work.\nTo establish a prima facie entitlement to judgment as a matter of law, a moving party must present proof in admissible form to demonstrate the absence of any triable issues of fact as to each and every allegation in the complaint and bill of particulars. (See Winegrad v New York Univ. Med. Ctr., 64 NY2d 851 [1985]; Zuckerman v City of New York, 49 NY2d 557 [1980]; accord Hollis v Charlew Constr. Co., 302 AD2d 700 [3d Dept 2003]; Balnys v Town of New Baltimore, 160 AD2d 1136, 1136 [3d Dept 1990] [noting the movant must come “forward with competent proof refuting the allegations of the complaint as amplified by the bill of particulars”].) Such “burden may not be met by pointing to gaps in plaintiff’s proof” (DiBartolomeo v St. Peter’s Hosp. of the City of Albany, 73 AD3d 1326, 1327 [3d Dept 2010]; accord Dow v Schenectady County Dept. of Social Servs., 46 AD3d 1084, 1084 [3d Dept 2007]).\nRemedies of employees and subrogation are governed by Workers’ Compensation Law § 29, which provides under subdivision (6) “[t]he right to compensation or benefits under this chapter, shall be the exclusive remedy to an employee . . . when such employee is injured or killed by the negligence or wrong of another in the same employ . . . .” (See Macchirole v Giamboi, 97 NY2d 147, 150 [2001] [“Workers’ compensation qualifies as an exclusive remedy when both the plaintiff and the defendant are acting within the scope of their employment, as coemployees, at the time of injury”].) The Court of Appeals articulated the purpose of the Workers’ Compensation Law as being “designed to insure that an employee injured in course of employment will be made whole and to protect a coemployee who, acting within the scope of his employment caused the injury” (Maines v Cronomer Val. Fire Dept., 50 NY2d 535, 544 [1980]). Thus, “[t]he Workers’ Compensation Law . . . offers the only remedy for injuries caused by the coemployee’s negligence” (Tikhonova v Ford Motor Co., 4 NY3d 621, 624 [2005] [noting such conclusion “flowed directly” from the statutory language of Workers’ Compensation Law § 29 (6)]; see Workers’ Compensation Law § 29 [6]; see also Workers’ Compensation Law § 11).\nHowever, the Court of Appeals also noted that the Workers’ Compensation Law does “not protect! ] the coemployee, even though the injured employee has accepted compensation benefits, when the coemployee was not acting within the scope of his employment at the time he inflicted the injury” (Maines, 50 NY2d at 543-544 [emphasis omitted] [“But the words ‘in the same employ’ as used in the Workers’ Compensation Law are not satisfied simply because both plaintiff and defendant have the same employer”]).\nWhile, generally, traveling to and from work is not deemed to be within the scope of employment (Jacobsen v Amedio, 218 AD2d 872, 873 [3d Dept 1995], citing Matter of Fine v S.M.C. Microsystems Corp., 75 NY2d 912 [1990]), as an employee approaches the site of his employment, “there develops ‘a gray area’ where the risks of street travel merge with the risks attendant with employment and where the mere fact that the accident took place on a public road or sidewalk may not ipso facto negate the right to compensation” (Matter of Husted v Seneca Steel Serv., 41 NY2d 140, 144 [1976]; Matter of Patti v Republic Aviation Corp., 20 AD2d 939 [3d Dept 1964], lv denied 14 NY2d 488 [1964]). Analysis by New York courts has narrowed the test to “whether there is such a relationship existing between the accident and the employment as to bring the former within the range of the latter” (Husted, 41 NY2d at 144).\nAs a result, it is settled that “[w]hile on the employer’s premises, going to or coming from work is generally considered an incident of the employment” (Matter of Arana v Hillside Manor-Nursing Ctr., 251 AD2d 715, 716 [3d Dept 1998], quoting Sicktish v Vulcan Indus. of Buffalo, 33 AD2d 975, 976 [4th Dept 1970]; see Matter of Evans v J.W. Mays, Inc., 25 AD2d 597, 597 [3d Dept 1966], lv denied 17 NY2d 423 [1966]; see also Matter of Mercado v Schenectady City School Dist., 24 AD3d 846, 847 [3d Dept 2005]). Here, defendant was leaving work and less than a quarter of a mile from where he had parked. He was on campus and traveling on Campus Drive; the accident very clearly occurred on the employer’s premises. Following the subject accident, rather than calling police to the spot of the accident, both plaintiff and defendant went to campus security. Both evinced an understanding that the accident was under the guise of the employment and handled by the campus. Defendant has satisfied his prima facie entitlement to summary judgment.\nOnce the movant has made such a showing, the burden shifts to the nonmoving party to produce evidentiary proof in admissible form sufficient to require a trial of material questions of fact. (See Zuckerman, 49 NY2d at 562 [“mere conclusions, expressions of hope or unsubstantiated allegations or assertions are insufficient”].)\n“[I]n deciding a motion for summary judgment, the trial court must view all the evidence in the light most favorable to the party against whom such judgment is sought and, where there is any doubt as to the existence of a triable issue of fact, it should deny the motion since the goal is issue finding rather than issue determination” (Swartout v Consolidated Rail Corp., 294 AD2d 785, 786 [3d Dept 2002] [citations omitted]; see also Ortiz v Varsity Holdings, LLC, 18 NY3d 335, 339 [2011]; Greco v Boyce, 262 AD2d 734, 734 [3d Dept 1999] [holding courts are “to view the evidence in a light most favorable to the nonmoving party, affording that party the benefit of all reasonable inferences, and to ascertain whether a material triable issue of fact exists”]).\nHere, plaintiff does not raise a triable issue of fact or credibility. Plaintiff cites to Groark v Miller (48 AD2d 539 [3d Dept 1975]), which declined application of the Workers’ Compensation Law as a bar to the plaintiff’s action. In Groark, both the plaintiff and defendant were employees of the New York State Department of Transportation. The plaintiff clocked out, entered her car, and exited the parking lot onto a circular road which surrounds the State Campus complex of office buildings where both parties worked. Approximately five minutes and one mile from her place of employment, while still on the circular road around the State Campus, the defendant rear-ended the plaintiff’s vehicle causing personal injuries.\nIn rejecting the application of the Workers’ Compensation Law, the Appellate Division, Third Department, did not find the motor vehicle accident was “within the precincts of their employment” and specifically noted both parties were not in the scope of employment, particularly because “[t]he roadway where the accident occurred cannot be considered within the premises of the employment” (Groark, 48 AD2d at 541 [noting the accident occurred on a public roadway, and not on the employer’s property]). Unlike Groark, plaintiff was still on the clock and on his employer’s premises. The subject accident occurred less than a quarter mile from where defendant left the parking lot, and while on a road shared by the public, still a campus road.\nWhile defendant was not acting in furtherance of his employer’s interests, he was still in the process of egress from the property and still on his employer’s property—unlike in Groark. This distinction is supported by the Court of Appeals decision in Husted (41 NY2d 140), and the thorough analysis of several New York cases used in that decision. The plaintiff in Husted had made a left turn across traffic and towards his employer’s parking lot entrance when he was struck on the right side by an oncoming vehicle. Both the Third Department and Court of Appeals agreed that, even though the plaintiff’s vehicle was not on his employer’s premises and he had not started his shift, an employee is entitled to safe ingress and egress to and from the employer’s premises, thus workers’ compensation applied. (Husted, 41 NY2d at 141.)\nThe Court of Appeals analyzed several cases in arriving at this conclusion, largely focusing on that “gray area” when an employee’s conduct constitutes ingress or egress to employment. All of these cases cited by Husted, and this articulated principle, are distinguishable as both plaintiff and defendant were on their employer’s premises when the subject accident occurred whereas these cases did not.\nFor instance, in Matter of Leatham v Thurston & Braidich (264 App Div 449 [3d Dept 1942], aff'd 289 NY 804 [1943]), the plaintiff’s entry into work was blocked by a truck loading at the loading platform. He climbed up the space between the truck cab and the trailer to squeeze through the opening when he fell and sustained personal injuries. The Third Department and Court of Appeals agreed that, when the ingress and egress brings the accident within the range of employment, the accident cannot be said to be disassociated from the employment and workers’ compensation applies. Similarly in Matter of Cohn v Morningstar Nicol, Inc. (265 App Div 579 [3d Dept 1943]), the plaintiff slipped and fell on the sidewalk directly in front of her employer’s premises as she attempted to step onto the stairs leading to the building. She was found to be entitled to workers’ compensation benefits as she was within the ingress of her employment, even though not on her employer’s premises.\nMore akin to the facts here, in Matter of Rosenwasser v Lanes Lake Success (9 AD2d 1001 [3d Dept 1959]), the plaintiff slipped and fell in a parking lot not owned by her employer or on her employer’s premises. However, employees arriving by the bus were required by the employer to cross the parking lot to reach the business’ rear door. The Third Department found this was compensable under workers’ compensation as part of the ingress and egress to employment. Similarly in Matter of Berry v B. Gertz, Inc. (21 AD2d 708 [3d Dept 1964]), the plaintiff fell on her way to work in a shopping center parking lot used by the public, operated by the owners of the shopping center, but not owned or controlled by her employer. This claim was also found to be within the guise of her ingress and egress to employment, and within the spirit of workers’ compensation.\nThe Court of Appeals in Husted also cited to two similar cases, where the plaintiff fell just outside the butcher shop where he worked (Matter of Podhoretz v Rubinstein, 35 AD2d 1042 [3d Dept 1970]) and where an employee fell on the sidewalk close to the entrance used by employees to enter and exit their place of employment (Matter of Starace v International Term. Operating Co., 39 AD2d 613 [3d Dept 1972]), both finding the respective plaintiffs to be within the process of ingress to their employment. This result was also more recently duplicated in Matter of Arana (251 AD2d at 715), where the plaintiff had clocked out, left her employer’s premises, walked along the sidewalk in front of her employer’s building and then slipped and fell sustaining injuries, but this was still found to be within the guise of workers’ compensation. Even more recently, in Matter of Mercado (24 AD3d at 847), workers’ compensation applied where the plaintiff was approximately 200 feet from the entrance of her employment on a sidewalk not owned by, but maintained by her employer when she slipped and fell.\nMost similar to the instant case is Bagley v Gilbert (76 AD2d 955 [3d Dept 1980]), where the defendant, intending to leave the employer’s premises for lunch, backed up out of his parking spot and struck the plaintiff pedestrian. The plaintiff was still on the clock and had just parked a company tractor-trailer, whereas the defendant was off the clock breaking for lunch in his personal vehicle. Both parties were employees of the same business and on the employer’s premises. Given the strong similarities, the court has trouble rectifying the instant case with Bagley, in only noting that the location of the accident in Bagley was immediately next to the employer’s building whereas the subject accident occurred in the street away from the employer’s buildings but on the same premises.\nFrom the aforementioned cases, the court finds the subject accident to have occurred while defendant was still in the process of egress from the “same employ” of plaintiff, who was still on the clock, and on their employer’s premises. This is different from Groark, where both employees were not clocked in and approximately a mile from employment. The most telling evidence to the court is that it was understood between the employees that the subject accident was within the purview of their employment as they went to campus security, rather than call the police or ambulance from the accident scene.\nTherefore, after careful consideration of the facts and review of the parties’ submissions, and after the court’s thorough independent research, the court finds the Workers’ Compensation Law is the exclusive remedy and bars the complaint. The court’s research did not find any applicable exceptions, and none are argued by plaintiff.\nTo the extent not specifically addressed above, the parties’ remaining contentions have been examined and found to be lacking in merit or rendered academic.\nThereby, it is hereby ordered and adjudged that defendant’s motion is granted, and the complaint and any claims asserted against defendant are dismissed, in their entirety.",
+        "type": "majority",
+        "author": "Lisa M. Fisher, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Alan B. Brill, P.C., Suffern (Sheila S. Rosenrauch of counsel), for defendant.",
+      "Rusk, Wadlin, Heppner & Martuscello, LLP, Kingston (John G. Rusk of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[51 NYS3d 794]\nEric S. Siegel, Plaintiff, v Charles A. Garibaldi, Defendant.\nSupreme Court, Ulster County,\nSeptember 13, 2016\nAPPEARANCES OF COUNSEL\nAlan B. Brill, P.C., Suffern (Sheila S. Rosenrauch of counsel), for defendant.\nRusk, Wadlin, Heppner & Martuscello, LLP, Kingston (John G. Rusk of counsel), for plaintiff."
+  },
+  "file_name": "2800-01",
+  "first_page_order": 500,
+  "last_page_order": 507
+}

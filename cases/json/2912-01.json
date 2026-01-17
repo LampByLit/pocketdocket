@@ -1,0 +1,797 @@
+{
+  "id": 12282160,
+  "name": "In the Matter of 797 Broadway Group, LLC, Petitioner, v. BCI Construction, Inc., Respondent",
+  "name_abbreviation": "797 Broadway Group, LLC v. BCI Construction, Inc.",
+  "decision_date": "2017-07-05",
+  "docket_number": "",
+  "first_page": "391",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "57 Misc. 3d 391"
+    },
+    {
+      "type": "parallel",
+      "cite": "59 N.Y.S.3d 657"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 US Dist LEXIS 43550",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*18"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 1245549",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 USC § 11",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "571 US -, 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "512 Fed Appx 71",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "559 US 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12448443,
+        3582279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/176/0605-01",
+        "/us/559/0662-01"
+      ]
+    },
+    {
+      "cite": "393 US 145",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11311699
+      ],
+      "pin_cites": [
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0145-01"
+      ]
+    },
+    {
+      "cite": "11 AD2d 166",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5455430
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/11/0166-01"
+      ]
+    },
+    {
+      "cite": "9 NY2d 878",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2258689
+      ],
+      "pin_cites": [
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/9/0878-01"
+      ]
+    },
+    {
+      "cite": "20 F3d 1043",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10513661
+      ],
+      "pin_cites": [
+        {
+          "page": "1046-1049"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/20/1043-01"
+      ]
+    },
+    {
+      "cite": "551 US 1114",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 F3d 278",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3761844
+      ],
+      "pin_cites": [
+        {
+          "page": "282-283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/476/0278-01"
+      ]
+    },
+    {
+      "cite": "37 AD2d 531",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3268048,
+        3259831
+      ],
+      "pin_cites": [
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/37/0531-01",
+        "/ad2d/37/0531-02"
+      ]
+    },
+    {
+      "cite": "123 AD3d 1250",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4333182
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/1250-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 946",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 AD2d 155",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        495250
+      ],
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/242/0155-01"
+      ]
+    },
+    {
+      "cite": "73 AD3d 1073",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3970874
+      ],
+      "pin_cites": [
+        {
+          "page": "1074"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/73/1073-01"
+      ]
+    },
+    {
+      "cite": "634 F Supp 2d 342",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3729126
+      ],
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/634/0342-01"
+      ]
+    },
+    {
+      "cite": "748 F Supp 2d 286",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4261574
+      ],
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/748/0286-01"
+      ]
+    },
+    {
+      "cite": "280 AD2d 862",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1290269
+      ],
+      "pin_cites": [
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/280/0862-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 1225",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4004024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/1225-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 50781",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Misc 3d 1217",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "826 F3d 634",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4326592
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/826/0634-01"
+      ]
+    },
+    {
+      "cite": "147 AD2d 786",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3579389
+      ],
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/147/0786-01"
+      ]
+    },
+    {
+      "cite": "137 AD3d 1366",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4177866
+      ],
+      "pin_cites": [
+        {
+          "page": "1368-1369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/1366-01"
+      ]
+    },
+    {
+      "cite": "378 F3d 182",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9212363
+      ],
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/378/0182-01"
+      ]
+    },
+    {
+      "cite": "592 F3d 329",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5686313
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "339"
+        },
+        {
+          "page": "339"
+        },
+        {
+          "page": "339-340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/592/0329-01"
+      ]
+    },
+    {
+      "cite": "648 F3d 68",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3740674
+      ],
+      "pin_cites": [
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/648/0068-01"
+      ]
+    },
+    {
+      "cite": "333 F3d 383",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9110223
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "389"
+        },
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/333/0383-01"
+      ]
+    },
+    {
+      "cite": "808 F2d 930",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1369060
+      ],
+      "pin_cites": [
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/808/0930-01"
+      ]
+    },
+    {
+      "cite": "304 F3d 200",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11399827
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/304/0200-01"
+      ]
+    },
+    {
+      "cite": "64 F Supp 3d 527",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4173568
+      ],
+      "pin_cites": [
+        {
+          "page": "536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/64/0527-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 497",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4264101
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0497-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 31614",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "379 F3d 24",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2180326
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "28"
+        },
+        {
+          "page": "28-29"
+        },
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/379/0024-01"
+      ]
+    },
+    {
+      "cite": "144 P3d 474",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        8461199
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/144/0474-01"
+      ]
+    },
+    {
+      "cite": "664 A2d 357",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7865492
+      ],
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/664/0357-01"
+      ]
+    },
+    {
+      "cite": "2007 US Dist LEXIS 1802",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 WL 62715",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "668 F3d 60",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3718912
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "73"
+        },
+        {
+          "page": "73"
+        },
+        {
+          "page": "76"
+        },
+        {
+          "page": "77"
+        },
+        {
+          "page": "72"
+        },
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/668/0060-01"
+      ]
+    },
+    {
+      "cite": "579 F2d 691",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        874620
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "700"
+        },
+        {
+          "page": "701"
+        },
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/579/0691-01"
+      ]
+    },
+    {
+      "cite": "17 NY3d 912",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3689152
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "914"
+        },
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/17/0912-01"
+      ]
+    },
+    {
+      "cite": "748 F2d 79",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        638443
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "84"
+        },
+        {
+          "page": "84"
+        },
+        {
+          "page": "83-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/748/0079-01"
+      ]
+    },
+    {
+      "cite": "492 F3d 132",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3506818
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "137"
+        },
+        {
+          "page": "137"
+        },
+        {
+          "page": "137"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/492/0132-01"
+      ]
+    },
+    {
+      "cite": "9 USC § 10",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 USC § 1",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1397,
+    "char_count": 30130,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24908073791174698
+    },
+    "sha256": "dbb7c3ee08a8f9c74b6ce5066002f41322f508f935992fef70cd4f8a8ce76fa8",
+    "simhash": "1:e2e5a00e14cc421c",
+    "word_count": 4872
+  },
+  "last_updated": "2024-02-27T23:43:15.280784+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of 797 Broadway Group, LLC, Petitioner, v BCI Construction, Inc., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRichard M. Platkin, J.\nIn this special proceeding brought pursuant to CPLR article 75, petitioner 797 Broadway Group, LLC moves to modify and confirm, as modified, a final arbitral award. Respondent BCI Construction, Inc. (BCI) opposes the application and cross-moves to, among other things, vacate the award.\nBackground\nBroadway is a New York limited liability company that was formed for the purpose of redeveloping a building located at 797 Broadway in the City of Schenectady, Schenectady County. BCI is an Albany-based general building contractor.\nIn the summer of 2006, Schenectady County issued a request for proposals (RFP) for office space to house the Schenectady County Department of Social Services (DSS project). Broadway invited BCI and an architectural firm, Stracher Roth Gilmore Architects (SRG), to assist in developing a proposal. Among the issues considered by Broadway, BCI and SRG was the exterior wall finish. Following a meeting, a decision was made to repair and repaint the exterior stucco. BCI thereafter provided pricing for its work to Broadway, which incorporated the construction costs into a rental rate that became part of Broadway’s RFP response.\nIn the fall of 2007, Broadway was selected as the developer for the DSS project. Contract negotiations then ensued between Broadway and BCI, which resulted in the execution of a lump-sum construction contract in March 2008.\nProblems with the exterior of the building became apparent shortly after the completion of BCI’s work. Stucco that BCI had installed began to detach and fall to the street below due to residual moisture in the brick to which the stucco was attached. When the parties could not resolve the issue of financial responsibility for the problem, Broadway unilaterally replaced the stucco shell with an exterior insulation and finish system (EIFS), a type of exterior cladding.\nIn June 2013, Broadway demanded arbitration to recover the costs associated with repairing the exterior walls of the building. The construction contract included an agreement to arbitrate any disputes in accordance with the Construction Industry Rules of the American Arbitration Association (AAA). The parties further agreed that the agreement to arbitrate shall be governed by the Federal Arbitration Act (FAA) (see 9 USC § 1 et seq.). The matter was submitted to a single arbitrator, John J. Phelan III, a practicing attorney with extensive experience in construction litigation.\nOn July 15, 2016, the arbitrator rendered a partial final award determining, among other things, that BCI had assumed financial responsibility for the failure of its stucco work by entering into a lump-sum contract to repair the exterior walls of the building with knowledge of the moisture in the brick substrate and its effect on stucco application. The arbitrator did find in favor of BCI on the issue of whether Broadway’s application of the EIFS cladding constituted a betterment to the project and declined to include this cost in Broadway’s recoverable damages. The arbitrator awarded Broadway a total of $472,697.60 in compensatory damages, as well as $150,473.24 in interest for the period from January 1, 2013 through the date of the award.\nOn August 25, 2016, the arbitrator issued a final award (award) that granted Broadway the sum of $134,371.48 in attorneys’ fees and other expenses, bringing the total amount of the award to $757,542.32. In addition, the award directed that statutory interest shall run from the date it was issued until paid.\nBroadway commenced this special proceeding in September 2016, seeking confirmation of the award pursuant to CPLR article 75. BCI removed the matter to the United States District Court for the Northern District of New York, where it was consolidated with a separate action filed by BCI seeking vacatur of the award pursuant to the FAA on the ground of arbitrator bias.\nIn a memorandum-decision and order filed March 15, 2017, the Federal District Court (Scullin, J.) granted Broadway’s motion for remand based on the absence of subject matter jurisdiction. On March 21, 2017, Broadway filed an amended petition (petition) seeking to modify the award to “correctly calculate prejudgment interest from the date of [BCI’s] breach of contract” and to confirm the award as so modified (¶ 26). BCI opposes Broadway’s application and cross-moves for discovery directed at the issue of the arbitrator’s alleged bias and, following the completion of such discovery, vacatur of the award.\nAnalysis\nA. Evident Partiality\nBCI contends that Broadway’s motion to confirm the award should be denied and the award vacated due to the evident partiality of the arbitrator. According to BCI, the arbitrator’s partiality is manifested by his undisclosed prior representation of a client in a 2008 lawsuit against BCI, as well as a current client’s dealings with the Galesi Group, an affiliate of Broadway. BCI also cites the arbitrator’s alleged failures to adequately investigate known conflicts and to comply with the AAA’s disclosure rules regarding potential conflicts. Relatedly, BCI seeks to depose the arbitrator “to further demonstrate his evident partiality” (BCI’s mem of law at 12).\nAn arbitration award may be vacated upon the application of a party “where there was evident partiality ... in the arbitrator[ ]” (9 USC § 10 [a] [2]). Evident partiality “ ‘will be found where a reasonable person would have to conclude that an arbitrator was partial to one party to the arbitration’ ” (Applied Indus. Materials Corp. v Ovalar Makine Ticaret Ye Sanayi, A.S., 492 F3d 132, 137 [2d Cir 2007], quoting Morelite Constr. Corp. [Div. of Morelite Elec. Serv., Inc.] v New York City Dist. Council Carpenters Benefit Funds, 748 F2d 79, 84 [2d Cir 1984]; see U.S. Elecs., Inc. v Sirius Satellite Radio, Inc., 17 NY3d 912, 914 [2011] [adopting Second Circuit standard in applying the FAA’s evident partiality standard]). Thus, “[u]nlike a judge, who can be disqualified in any proceeding in which his [or her] impartiality might reasonably be questioned, an arbitrator is disqualified only when a reasonable person, considering all of the circumstances, would have to conclude that an arbitrator was partial to one side” (Applied Indus., 492 F3d at 137 [internal quotation marks and citations omitted; emphasis added]). The burden of proof rests with the party asserting bias (see Matter of Andros Cia. Maritima, S.A. [Marc Rich & Co., A.G.], 579 F2d 691, 700 [2d Cir 1978]).\nMore recently, the Second Circuit has held that an arbitrator’s failure to disclose his or her connections to the parties to an arbitration or the issues in dispute is insufficient to demonstrate evident partiality:\n“The evident-partiality standard is, at its core, directed to the question of bias. Because it was not the purpose of Congress to authorize litigants to submit their cases and controversies to arbitrators who are biased against one litigant and favorable to another, the FAA provides for vacatur of arbitral awards whenever it is evident that an arbitrator was partial to one of the litigating parties. It follows that where an undisclosed matter is not suggestive of bias, vacatur based upon that nondisclosure cannot be warranted under an evident-partiality theory” (Scandinavian Reins. Co. Ltd. v Saint Paul Fire & Mar. Ins. Co., 668 F3d 60, 73 [2d Cir 2012] [internal quotation marks, brackets and citations omitted; emphasis added]).\nThis is true “[e]ven where an arbitrator fails to abide by arbitral or ethical rules concerning disclosure” (id. at 77 n 22). Thus, when faced with an evident-partiality challenge premised on nondisclosure, the court must determine “whether the facts that were not disclosed suggest a material conflict of interest” (id. at 77 [emphasis omitted]; see Positive Software, 476 F3d at 286 [“significant compromising relationship”]).\nIn claiming evident partiality, BCI first relies on the arbitrator’s undisclosed prior representation of an adverse party in a 2008 lawsuit. In the AAA notice of appointment dated August 1, 2013, the arbitrator answered “no” to a question asking whether he had “represented any person against any party to the arbitration.” In fact, the arbitrator’s law firm had represented a client in a 2008 lawsuit against BCI (Columbia Lodge, LLC v University Dev., LLC & BCI Constr. Inc., Sup Ct, Albany County, index No. 4027-08), and BCI submits proof that the arbitrator personally was involved in the litigation matter. BCI therefore contends that the arbitrator’s “failure to disclose . . . his prior litigation history on behalf of a client against . . . BCI was improper and constitutes grounds to set aside the arbitration award” (answer ¶ 38).\nAs an initial matter, the arbitrator’s alleged failure “to abide by arbitral or ethical rules concerning disclosure . . . does not, in itself, entitle [BCI] to vacatur” of the award (Scandinavian, 668 F3d at 77 n 22 [emphasis added]). As explained in Scandinavian, the proper inquiry is whether the undisclosed facts are strongly suggestive of a material conflict of interest that would compel a reasonable person to conclude that the arbitrator was biased (see id. at 73).\nThe litigation file from the 2008 matter, which was submitted by BCI, shows that the case concerned allegations that BCI was interfering with an easement on real property belonging to a party represented by the arbitrator and his law firm. Further, the matter appears to have been pending for only about eight days before being resolved by the parties without the need for judicial intervention. Thus, the 2008 litigation was remote in time, brief in duration, and involved issues entirely dissimilar to those raised in the subject arbitration.\nMoreover, BCI has not shown that the arbitrator had a financial, personal or other direct interest in the arbitration. Nor is there any allegation that the arbitrator was under any continuing duty of loyalty to his client in the 2008 matter that was implicated by the arbitration. Thus, BCI’s claim of evident partiality necessarily rests on a belief that the arbitrator’s professional representation of an adverse party in the 2008 matter somehow left him with a residual bias against BCI that infected an arbitral award rendered eight years later.\nAs the New York Court of Appeals has explained, however, “claims of bias, premised on attenuated matters and relationships, are not sufficient” to warrant vacatur of an arbitral award (U.S. Elecs., 17 NY3d at 915). Proof of the alleged interest or bias “ ‘must be direct, definite and capable of demonstration rather than remote, uncertain, or speculative’ ” (id., quoting Transportes Coal Sea De Venezuela C.A. v SMT Shipmanagement & Transp. Ltd., 2007 WL 62715, *3, 2007 US Dist LEXIS 1802, *9 [SD NY, Jan. 9, 2007, No. 05-CV-9029 (KMK)]; compare Morelite, 748 F2d at 84 [arbitrator’s father was the president of party to the arbitration], with Cellular Radio Corp. v OKI Am., Inc., 664 A2d 357, 361 [DC Ct App 1995] [“not a single reason to doubt (arbitrator’s) impartiality based on the fact of the prior adversary relationships between him and (party’s) counsel”]; Kinn v Alaska Sales & Serv., Inc., 144 P3d 474, 485 [Alaska 2006] [rejecting claim of evident partiality based on relationship between arbitrator and party’s counsel in absence of showing of financial interest or similar reason for loyalty to one side]; see also Lucent Tech. Inc. v Tatung Co., 379 F3d 24, 28 [2d Cir 2004] [no evident partiality where arbitrator failed to disclose his past work as an expert witness for one of the parties]; Field v BDO USA, LLP, 2013 NY Slip Op 31614 [U], *6 [Sup Ct, NY County 2013] [“The alleged relationship between (the arbitrator) and (the party’s counsel) is not direct, pecuniary or personal and in no way suggests bias”], affd 129 AD3d 497 [1st Dept 2015]).\nIn concluding that the arbitrator’s purely professional involvement in a short-lived and unrelated litigation matter from eight years prior is not even remotely suggestive of partiality or bias, the court emphasizes that “[a] principal attraction of arbitration is the expertise of those who decide the controversy. Expertise in an industry is accompanied by exposure, in ways large and small, to those engaged in it” (Andros, 579 F2d at 701). Having selected an arbitrator who has practiced construction law for more than 30 years and serves as the general counsel to a large construction and development family of companies in upstate New York (see infra), the court is troubled at the ease with which BCI is prepared to maintain that the arbitrator’s findings in favor of Broadway are the product of partiality or bias, rather than his honest and conscientious convictions regarding the merits of a dispute upon which reasonable people may disagree.\nAccordingly, given the remoteness of the 2008 matter in relation to the arbitration, the dissimilar nature of the matters, the arbitrator’s brief and limited involvement with the 2008 matter, and the absence of any clearly identified personal, financial or other direct interest of the arbitrator in the arbitration, the court concludes that BCI has not met its heavy burden of establishing that the arbitrator’s undisclosed participation in the 2008 litigation was such that “ ‘[a] reasonable person would have to conclude that an arbitrator who failed to disclose [it] . . . was partial to one side’ ” (Scandinavian, 668 F3d at 76, quoting Applied Indus., 492 F3d at 137).\nBCI’s second argument in support of its evident partiality claim is based on legal work allegedly performed by the arbitrator between his appointment in August 2013 and the commencement of the arbitral hearing in April 2016. According to BCI, the arbitrator and his law firm were representing a client, BBL Construction Services, LLC (BBL), in connection with a hotel project involving Broadway’s affiliate, the Galesi Group. BCI claims that the “Arbitrator . . . and/or his law firm were involved with the arrangements leading to the BBL contract to construct a hotel on property owned by . . . the Galesi Group,” and the arbitrator “never disclosed to . . . BCI that either he or his law firm was involved with representing BBL and working with BBL as to the Galesi Group on the Rivers Casino hotel project” (BCI’s mem of law at 3).\nBCI’s contentions are without merit. In connection with his appointment, the arbitrator disclosed his role as general counsel to the BBL family of companies, that certain BBL principals or employees may be partnering with certain Galesi Group employees and/or principals, and that BBL had worked in the past for the Galesi Group and affiliated entities. Further, in a supplemental disclosure made prior to the commencement of the arbitral hearing, the arbitrator informed the parties that BBL was “actively working with the Galesi Group” (answer, exhibit E at 4). Despite these disclosures, BCI proceeded to the arbitral hearing without making further inquiry, raising any objection, or seeking disqualification of the arbitrator.\nAn arbitral award will not be vacated for evident partiality “where the arbitrator has complied with his [or her] obligation to disclose potential sources of partiality” (Lucent, 379 F3d at 28-29). In the court’s view, the arbitrator’s pre-hearing disclosure that he served as the general counsel to BBL and that BBL actively was working with the Galesi Group accorded BCI more than ample notice that the arbitrator might have been performing legal work for BBL in relation to ongoing Galesi Group projects, including the Rivers Casino hotel (see Scandinavian, 668 F3d at 77; Applied Indus., 492 F3d at 139 [“an arbitrator cannot be expected to provide the parties with his (or her) complete and unexpurgated business biography” (internal quotation marks and citation omitted)]).\nIn any event, BCI’s argument rests on the misconception that the arbitrator (or his law firm) worked on BBL’s behalf with the Galesi Group in connection with the Rivers Casino hotel project. Broadway submits the affidavit of Gerald Henni-gan, a vice-president of the Galesi Group, who avers that neither the arbitrator nor his law firm “ever” represented BBL in connection with the casino hotel project (Hennigan aff f 7). According to Hennigan, the hotel project in which the Galesi Group and a BBL affiliate have had a business relationship is “Courtyard by Mariott,” which is “separate from the so-called ‘Rivers Casino’ development in Schenectady” {id. ¶ 2). In re-spoñse, BCI merely speculates that the arbitrator, as BBL’s general counsel, must have been involved in dealings between BBL and the Galesi Group concerning the Rivers Casino project. “Of course, a showing of evident partiality may not be based simply on speculation” (Scandinavian, 668 F3d at 72 [internal quotation marks and citation omitted]).\nFinally, there is nothing on the face of the award indicative of partiality. As discussed below in connection with BCI’s manifest-disregard challenge, the arbitrator based the award on the testimony and evidence presented to him, and he did not disregard clear and controlling New York law in rendering the award. Moreover, the arbitrator did rule in favor of BCI on a highly consequential issue, finding that Broadway’s installation of the EIFS constituted a non-recoverable betterment (see Stone v Theatrical Inv. Corp., 64 F Supp 3d 527, 536 [SD NY 2014]). In fact, a contrary ruling on this point would have more than doubled the amount of Broadway’s award.\nFor all these reasons, the court concludes that BCI has failed to meet its heavy burden of proving the evident partiality of the arbitrator.\nB, Manifest Disregard\nBCI next contends that the arbitrator acted in manifest disregard of controlling law in holding it fully responsible for the stucco repair costs after finding that BCI had no duty to undertake or perform any architectural or design services under the contract with Broadway. Broadway counters that the arbitrator did not hold BCI responsible for design errors, but rather determined that BCI was liable due to its defective workmanship and assumption of the risk.\n“In addition to the grounds for vacatur explicitly provided for by the [FAA] . . . , an arbitral decision may be vacated when an arbitrator has exhibited a manifest disregard of law” (Westerbeke Corp. v Daihatsu Motor Co., Ltd., 304 F3d 200, 208 [2d Cir 2002] [internal quotation marks and citation omitted]; see Merrill Lynch, Pierce, Fenner & Smith, Inc. v Bobker, 808 F2d 930, 933 [2d Cir 1986]). Judicial review under the doctrine of manifest disregard is “severely limited” and “highly deferential to the arbitral award” (Duferco Intl. Steel Trading v T. Klaveness Shipping A/S, 333 F3d 383, 389 [2d Cir 2003] [internal quotation marks and citation omitted]; see STMicroelectronics, N.V. v Credit Suisse Sec. [USA] LLC, 648 F3d 68, 78 [2d Cir 2011]).\nA party seeking vacatur based on manifest disregard bears a “heavy burden” and must demonstrate “more than error or misunderstanding with respect to the law” or an “arguable difference regarding the meaning or applicability of laws urged upon an arbitrator” (T.Co Metals, LLC v Dempsey Pipe & Supply, Inc., 592 F3d 329, 339 [2d Cir 2010] [internal quotation marks and citation omitted]). Rather, the award is subject to vacatur “only if a reviewing court finds both that (1) the arbitrator [ ] knew of a governing legal principle yet refused to apply it or ignored it altogether, and (2) the law ignored by the arbitrator [ ] was well defined, explicit, and clearly applicable to the case” (Wallace v Buttar, 378 F3d 182, 189 [2d Cir 2004] [internal quotation marks, brackets, ellipsis and citations omitted]; see Duferco, 333 F3d at 389). Thus, an arbitral award must be enforced if there is even a “barely colorable justification for the outcome reached” (T.Co Metals, 592 F3d at 339 [emphasis omitted]).\nBCI cites New York law holding that, absent a contractual agreement to the contrary, a general contractor is under no duty to act as a design professional and cannot be held responsible for the adequacy of the project design (see e.g. Maines Paper & Food Serv., Inc. v Pike Co., Inc., 137 AD3d 1366, 1368-1369 [3d Dept 2016]; Northeastern Plate Glass Corp. v Murray Walter, Inc., 147 AD2d 786, 788 [3d Dept 1989]). Neither Broadway nor the court questions this authority, and, in fact, the arbitrator observed that “[a] review of the contract between BCI and [Broadway] clearly discloses that BCI would have no design obligations for the proposed stucco repair/ replacement” (petition, exhibit 2 at 2).\nThe arbitrator did not stop there, however. He went on to determine that BCI assumed the risk of additional costs for the stucco repair work by entering into a lump-sum contract one month after a meeting at which representatives of Broadway, BCI and SRG discussed the very problem they ultimately encountered on the job: the presence of “water/moisture in the brick substrate” and its effect on the stucco work (id. at 3). BCI’s representative at the meeting, Robert Fortune, was aware of the potential problem, but “assumed that the building’s exposure to summer temperatures would adequately resolve the issue so that the stucco could be safely applied” (id.). Thus, the arbitrator reasoned that “BCI’s decision to go forward on the flawed assumption that the summer months would take care of the issue without the need to ask for additional testing and investigation makes it responsible for the ultimate failure of its work” (id.).\nWhile BCI is entitled to disagree with the arbitrator’s finding that it knowingly assumed the risk of increased costs associated with the stucco repair work by signing a lump-sum contract with knowledge of the potential problem and without requesting further investigation or making further inquiry, there certainly is a more than colorable justification for the award (see Leeward Constr. Co., Ltd. v American Univ. of Antigua—College of Medicine, 826 F3d 634, 640 [2d Cir 2016]). Accordingly, it cannot be said that the award was rendered in manifest disregard of controlling New York law.\nC. Modification\nFinally, Broadway seeks modification of the award with respect to pre-award interest. In particular, Broadway contends that the arbitrator made a “mathematical” error in directing pre-award interest to run from January 1, 2013. According to Broadway, “New York statutory law specifies that in a contract action, prejudgment interest must be calculated from the date of breach” (petition ¶ 23; see CPLR 5001 [a], [b]), and BCI was in breach of the construction contract “no later than October 31, 2008, the date on which BCI’s defective masonry restoration work was certified as complete” (Broadway’s mem of law at 19). BCI dismisses Broadway’s characterization of the alleged error as a mathematical miscalculation, and instead contends that any mistake in this regard is one of law, which does not entitle Broadway to modification.\nThe court concludes that modification is not available because the arbitrator’s failure to award interest from the date of the breach represents a “mistake of law,” rather than a “ ‘miscalculation of figures’ made in the course of attempting to apply the proper legal standard” (Matter of Curtis Lbr. Co. Inc. v American Energy Care Inc., 27 Misc 3d 1217[A], 2010 NY Slip Op 50781 [U], *4-5 [Sup Ct, Albany County 2010], mod on other grounds 81 AD3d 1225 [3d Dept 2011]; cf. Matter of Rothermel [Fidelity & Guar. Ins. Underwriters], 280 AD2d 862, 862 [3d Dept 2001]). There simply is nothing on the face of the award evidencing any sort of mathematical miscalculation; rather, the arbitrator simply states that “the award is entitled to the statutory interest rate commencing January 1, 2013” (petition, exhibit 3 at 4).\nBroadway is, however, entitled to statutory interest from the date of the award to the date of entry of the judgment confirming that award at the rate of nine percent per annum (see CPLR 5002, 5004; Finger Lakes Bottling Co., Inc. v Coors Brewing Co., 748 F Supp 2d 286, 292 [SD NY 2010]; Global Reins. Corp. of Am. v Argonaut Ins. Co., 634 F Supp 2d 342, 351 [SD NY 2009]). Broadway also is awarded costs incurred in this proceeding (see Matter of Perskin v Bassaragh, 73 AD3d 1073, 1074 [2d Dept 2010]; Matter of Meehan v Nassau Community Coll., 242 AD2d 155, 159 [2d Dept 1998], lv dismissed 92 NY2d 946 [1998]).\nConclusion\nBased on the foregoing, the court hereby confirms the final award without modification. Accordingly, it is ordered that the final award is confirmed in its entirety, with costs; and it is further adjudged that Broadway’s petition is granted in part and denied in part, in accordance with the foregoing; and it is further ordered that BCI’s cross motion is denied in all respects; and finally it is ordered that Broadway is awarded post-award prejudgment interest from the date of the final award until the date of entry of the judgment confirming said award at an annual rate of nine percent.\n. Broadway also commenced an action against SRG, but that case was dismissed (see 797 Broadway Group, LLC v Stracher Roth Gilmore Architects, 123 AD3d 1250 [3d Dept 2014]).\n. The partiality of an arbitrator also is a ground for vacatur under New York law (see CPLR 7511 [b] [1] [ii]), but the parties agree that the FAA is controlling here (see Aerojet-Gen. Corp. v Non-Ferrous Metal Ref., 37 AD2d 531, 532 [1st Dept 1971]).\n. The Second Circuit’s ruling that “evident partiality” means “more than a mere appearance of bias” (Morelite, 748 F2d at 83-84) has been adopted by a majority of the federal Courts of Appeal (see Positive Software Solutions, Inc. v New Century Mtge. Corp., 476 F3d 278, 282-283 [5th Cir 2007] [en banc], cert denied 551 US 1114 [2007]). However, the Ninth Circuit continues to rely on an “appearance of partiality” standard (Schmitz v Zilveti, 20 F3d 1043, 1046-1049 [9th Cir 1994]), and a divided New York State Court of Appeals appears to have applied a similar standard in the context of the predecessor to CPLR 7511 (see Matter of Milliken Woolens [Weber Knit Sportswear], 9 NY2d 878, 879 [1961], affg 11 AD2d 166 [1st Dept 1960]).\n. Notably, the entire litigation file consists of a complaint, application for temporary relief and a few letters.\n. BCI does contend that the 2008 matter implicates a financial interest of the arbitrator because “he and his law firm were making money from suing [BCI] ” (BCI’s mem of law in opp at 11), but there is no allegation of any continuing financial interest on the part of the arbitrator that was at stake in the subject arbitration.\n. In light of the substantial sums often at stake in commercial arbitra-tions and the limited avenues for judicial review, there is a powerful incentive for disaffected parties to seize on even the most attenuated of connections to support an evident-partiality challenge. Indeed, one veteran advocate and arbitrator reports a growing “cottage industry in which private investigators are retained by losing arbitration parties to engage in wide-ranging, post facto investigations of arbitrators” (Mark H. Alcott, It Ain’t Over Even When It’s Over: Post-Award Attacks on Arbitrators, 7 [No. 1] Dispute Resolution Inti 5, 10 [May 2013]). Of course, the court does\n“not in any way wish to demean the importance of timely and full disclosure by arbitrators. Disclosure not only enhances the actual and apparent fairness of the arbitral process, but it helps to ensure that process will be final, rather than extended by proceedings like this one. . . . [fit is far better for a potential conflict of interest ‘[to] be disclosed at the outset’ than for it to ‘come to light after the arbitration, when a suspicious or disgruntled party can seize on it as a pretext for invalidating the award’ ” (Scandinavian, 668 F3d at 78, quoting Commonwealth Coatings Corp. v Continental Casualty Co., 393 US 145, 151 [1968, White, J., concurring] [citations omitted]).\nBut even where an arbitrator provides more than ample disclosure of potential conflicts, post-arbitral claims of evident partiality still may ensue (see infra).\n. In view of this conclusion, the court need not reach the issue of whether BCI waived its claim of evident partiality based upon its own knowledge of the 2008 matter (see Lucent, 379 F3d at 28; see also Matter of Milliken Woolens, 11 AD2d at 168).\n. Depositions of an arbitrator will be permitted only “where clear evidence of impropriety has been presented” (Andros, 579 F2d at 702). No such showing has been made here.\n. The doctrine of “manifest disregard” is not among the FAA bases for vacatur of an arbitration award (see 9 USC § 10), and its continuing viability as an independent ground for vacatur is questionable (see Stolt-Nielsen S.A. v AnimalFeeds Intl. Corp., 559 US 662, 672 n 3 [2010]). Nonetheless, the Second Circuit “continue [s] to recognize ‘manifest disregard of the law’ as a valid ground for vacatur as a judicial gloss’ on the grounds specified by . . . the FAA” (Giller v Oracle USA, Inc., 512 Fed Appx 71, 72 [2d Cir 2013], cert denied 571 US —, 134 S Ct 531 [2013], quoting T.Co Metals, LLC v Dempsey Pipe & Supply, Inc., 592 F3d 329, 339-340 [2d Cir 2010]).\n. Although the decision in Matter of Curtis Lbr. Co. Inc. v American Energy Care Inc. was based on CPLR 7511 (c) (1), the court noted that “[t]o similar effect are cases interpreting the [FAA], which allows [a court] to correct an ‘evident material miscalculation of figures’ ” (Matter of Curtis, 2010 NY Slip Op 50781[U], *5, quoting 9 USC § 11 [a]; see also Leeward Constr. Co. v American Univ. of Antigua-Coll. of Medicine, 2013 WL 1245549, *5, 2013 US Dist LEXIS 43550, *18 [SD NY, Mar. 26, 2013, No. 12 Civ 6280(LAK)], affd 826 F3d 634 [2d Cir 2016]).",
+        "type": "majority",
+        "author": "Richard M. Platkin, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Law Offices of Daniel M. Sleasman, Albany (.Daniel M. Sleas-man of counsel), for petitioner.",
+      "Couch White, LLP, Albany (Joel M. Howard, III of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[59 NYS3d 657]\nIn the Matter of 797 Broadway Group, LLC, Petitioner, v BCI Construction, Inc., Respondent.\nSupreme Court, Albany County,\nJuly 5, 2017\nAPPEARANCES OF COUNSEL\nLaw Offices of Daniel M. Sleasman, Albany (.Daniel M. Sleas-man of counsel), for petitioner.\nCouch White, LLP, Albany (Joel M. Howard, III of counsel), for respondent."
+  },
+  "file_name": "2912-01",
+  "first_page_order": 391,
+  "last_page_order": 404
+}

@@ -1,0 +1,131 @@
+{
+  "id": 12297342,
+  "name": "Island Life Chiropractic, P.C., as Assignee of Jack Nazaire, Appellant, v. Infinity Group, Respondent",
+  "name_abbreviation": "Island Life Chiropractic, P.C. v. Infinity Group",
+  "decision_date": "2017-02-08",
+  "docket_number": "",
+  "first_page": "42",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 42"
+    },
+    {
+      "type": "parallel",
+      "cite": "51 N.Y.S.3d 313"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "528 Pa 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829849
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0001-01"
+      ]
+    },
+    {
+      "cite": "671 A2d 681",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862644,
+        461566
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "687"
+        },
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/671/0681-01",
+        "/pa/543/0363-01"
+      ]
+    },
+    {
+      "cite": "543 Pa 363",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461566
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "375"
+        },
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0363-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 201,
+    "char_count": 2192,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25012288361213336
+    },
+    "sha256": "f66b96c298bfe1ff1868767d075856302811f8d9f404cdd66f39415f08c624cc",
+    "simhash": "1:907264d00ea0fe21",
+    "word_count": 351
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Weston, J.P., Aliotta and Elliot, JJ., concur."
+    ],
+    "parties": [
+      "Island Life Chiropractic, P.C., as Assignee of Jack Nazaire, Appellant, v Infinity Group, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorándum.\nOrdered that the order is reversed, with $30 costs, and defendant’s motion for summary judgment dismissing the complaint is denied.\nIn this action by a provider to recover assigned first-party no-fault benefits, defendant moved for summary judgment dismissing the complaint on the ground that, upon the application of Pennsylvania law, there was a lack of coverage due to the rescission, ab initio, of the automobile insurance policy in question. By order entered June 26, 2014, the Civil Court granted defendant’s motion. We note that no issue is raised on appeal regarding the applicability of Pennsylvania law.\nUnder Pennsylvania law, an insurer has a common-law right to rescind a policy of automobile insurance (see 40 Pa Cons Stat §§ 991.2002, 991.2004; Erie Ins. Exch. v Lake, 543 Pa 363, 375, 671 A2d 681, 687 [1996]; Klopp v Keystone Ins. Cos., 528 Pa 1, 595 A2d 1 [1991]). The Pennsylvania Supreme Court has held, however, that while an automobile insurance policy may be retroactively rescinded as to an insured who has made a material misrepresentation, the policy may not be retroactively rescinded with respect to third parties “who are innocent of trickery, and injured through no fault of their own” (see Erie Ins. Exch. v Lake, 543 Pa at 375, 671 A2d at 687). In the case at bar, the papers defendant submitted in support of its motion set forth no facts tending to demonstrate that the assignor was anything other than an innocent third party. Consequently, defendant failed to establish its prima facie entitlement to summary judgment dismissing the complaint as a matter of law.\nAccordingly, the order is reversed and defendant’s motion for summary judgment dismissing the complaint is denied.\nWeston, J.P., Aliotta and Elliot, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Rybak Firm, PLLC, Brooklyn (Damin J. Toell of counsel), for appellant.",
+      "Freiberg, Peck & Kang, LLP, Armonk (Yilo J. Kang of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[51 NYS3d 313]\nIsland Life Chiropractic, P.C., as Assignee of Jack Nazaire, Appellant, v Infinity Group, Respondent.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nFebruary 8, 2017\nAPPEARANCES OF COUNSEL\nThe Rybak Firm, PLLC, Brooklyn (Damin J. Toell of counsel), for appellant.\nFreiberg, Peck & Kang, LLP, Armonk (Yilo J. Kang of counsel), for respondent."
+  },
+  "file_name": "2613-01",
+  "first_page_order": 96,
+  "last_page_order": 97
+}

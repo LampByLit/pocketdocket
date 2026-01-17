@@ -1,0 +1,256 @@
+{
+  "id": 12170969,
+  "name": "In the Matter of New York City Civilian Complaint Review Board, Petitioner, v. Office of the District Attorney for the County of Richmond, Respondent",
+  "name_abbreviation": "New York City Civilian Complaint Review Board v. Office of the District Attorney",
+  "decision_date": "2015-08-20",
+  "docket_number": "",
+  "first_page": "912",
+  "last_page": "921",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Misc. 3d 912"
+    },
+    {
+      "type": "parallel",
+      "cite": "39 N.Y.S.3d 590"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "71 Misc 2d 62",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1250366
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/71/0062-01"
+      ]
+    },
+    {
+      "cite": "139 Misc 799",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        807488
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/139/0799-01"
+      ]
+    },
+    {
+      "cite": "37 Misc 2d 911",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1119836
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/37/0911-01"
+      ]
+    },
+    {
+      "cite": "82 Misc 2d 1029",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1291258
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/82/1029-01"
+      ]
+    },
+    {
+      "cite": "53 AD2d 282",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5433632
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/53/0282-01"
+      ]
+    },
+    {
+      "cite": "293 NY 787",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2062455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/293/0787-01"
+      ]
+    },
+    {
+      "cite": "27 NY2d 229",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2296931
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/27/0229-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 765",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525223
+      ],
+      "pin_cites": [
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0765-01"
+      ]
+    },
+    {
+      "cite": "58 NY2d 436",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391357
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/58/0436-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 436",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4390647
+      ],
+      "pin_cites": [
+        {
+          "page": "443-444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0436-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 750",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333166
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0750-01"
+      ]
+    },
+    {
+      "cite": "58 AD2d 940",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5464888
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/58/0940-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 148",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431428
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0148-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 1032",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4302486
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/1032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 874,
+    "char_count": 21792,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24695995789715924
+    },
+    "sha256": "87b82b222f90848a5986ec7b3cb343675b7a9a5a702a1e67fcd6c81817618a34",
+    "simhash": "1:6c350bb720a30e1f",
+    "word_count": 3586
+  },
+  "last_updated": "2024-02-27T20:51:27.688746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of New York City Civilian Complaint Review Board, Petitioner, v Office of the District Attorney for the County of Richmond, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nWilliam E. Garnett, J.\nThe Civilian Complaint Review Board (hereinafter CCRB) has moved this court to release the testimony and other. evidence presented to the grand jury in the case of the death of Eric Garner on Staten Island on July 14, 2014.\nCapacity to Sue\nIn Matter of James v Donovan (130 AD3d 1032 [2d Dept 2015]), the Appellate Division of the Supreme Court for the Second Department ruled that the Public Advocate did not have the capacity to sue for the disclosure of grand jury minutes pursuant to CPL 190.25 (4) (a). In this proceeding, the District Attorney argues that the CCRB similarly has no capacity to sue.\nThe CCRB is a city agency which makes findings of fact and recommendations to the Police Commissioner concerning allegations of police misconduct. (NY City Charter, ch 18-A, § 440 [c] [1].) By a majority vote of the CCRB, the Board may compel witnesses to attend and order the production of records. (§ 440 [c] [3].) The NY City Charter does not contain express authority for the Board to sue and, although the Board has authority to hire staff with specific duties, the NY City Charter does not mention attorneys as staff members. Thus, the fact that CCRB staff members may be attorneys does not confer on the CCRB the capacity to sue.\nIn Community Bd. 7 of Borough of Manhattan v Schaffer (84 NY2d 148 [1994]), a community board sued to obtain the records of the Department of City Planning under the New York State Freedom of Information Law. The Community Board argued that the records were necessary for the Board to formulate its recommendation under the NY City Charter’s Uniform Land Use Procedure. (NY City Charter, ch 8, § 197-c.)\nThe Court of Appeals reiterated the fundamental principle that “a creature of the State . . . [e.g., a community board] has no power other than that given it by the Legislature, either explicitly or by necessary implication.” (Community Bd. 7 at 156, citing Matter of Pooler v Public Serv. Commn., 58 AD2d 940 [3d Dept 1977], affd 43 NY2d 750 [1977].) In the absence of express authority to sue, the government agency may still have the capacity to sue if such a power is a “necessary implication” of the agency’s powers and responsibilities. (Matter of Department of Personnel of City of N.Y. v City Civ. Serv. Commn., 60 NY2d 436, 443-444 [1983].)\nIn Community Bd. 7, the Court noted that “petitioner’s lack of capacity to bring this suit may readily be inferred from the terms and history of its own enabling legislation, as well as from its limited role in the land use planning process.” (Community Bd. 7 at 157.) As noted earlier, the NY City Charter, does not expressly give the CCRB the power to sue. The CCRB argues that NY City Charter § 440 (c) (3) expressly and by “necessary implication” gives it the power to sue. However, that section does not provide for the enforcement of a CCRB subpoena by court order. In oral argument, the CCRB conceded that it had never before sought grand jury minutes in an investigation. Thus, the history of section 440 (c) (3) does not suggest that the CCRB has the capacity to sue for disclosure pursuant to CPL 190.25 (4) (a).\nIn ruling that Community Board 7 did not have the capacity to sue, the Court of Appeals referred to NY City Charter, chapter 70, § 2800 (e) which mandates that “[e]ach agency shall furnish promptly to each community board on request any information or assistance necessary for the board’s work.” The Court reasoned that this provision demonstrated that the capacity to sue had not been conferred on community boards. This NY City Charter provision is strikingly similar to NY City Charter § 440 (d) (1) and (2) which require the Police Commissioner to provide records, materials and witnesses necessary for the CCRB’s investigation. Just as in Community Bd. 7, these NY City Charter provisions do not support the CCRB’s capacity to sue.\nFinally, in Community Bd. 7, the Court also ruled that the Board’s capacity to sue could not be derived by “necessary implication” as the Board’s role was purely advisory in nature. (iCommunity Bd. 7 at 159.) The CCRB’s findings and recommendations are also “advisory in nature” as the Police Commissioner, ultimately and solely, determines disciplinary matters. (NY City Charter § 440 [e].)\nTherefore, based on the language of the provisions of NY City Charter, chapter 18-A, § 440, the implications of the relevant provisions and the CCRB’s advisory role in the police disciplinary process, the CCRB does not have the capacity to sue to obtain disclosure of the grand jury minutes pursuant to CPL 190.25 (4) (a). Assuming for the sake of argument that the CCRB has the capacity to sue for disclosure of the grand jury minutes, the court will move on to decide whether the CCRB has demonstrated a “compelling and particularized need.”\nGrand Jury Secrecy\nThe power and procedures of the grand jury are delineated in article 190 of the Criminal Procedure Law. Pertinent to this motion is the admonition contained in CPL 190.25 (4) (a) that grand jury proceedings are secret and, in general, no person may disclose the nature or substance of any grand jury testimony without the written approbation of a court.\nDespite this statutory rule, the secrecy of grand jury testimony is not sacrosanct and the minutes of a grand jury may be divulged, in a court’s discretion, in the appropriate case. (Matter of District Attorney of Suffolk County, 58 NY2d 436 [1983].) In general, disclosure is the exception to the rule. (Id. at 444.)\nThe law is bottomed on the “presumption of confidentiality [which] attaches to the record of Grand Jury proceedings.” (People v Fetcho, 91 NY2d 765, 769 [1998].) To overcome the presumption of confidentiality, a movant must initially demonstrate “a compelling and particularized need for access” to the grand jury material. (Matter of District Attorney of Suffolk County, 58 NY2d at 444.) This showing is required to demonstrate how a party has a basis to seek relief from a court. Moreover, the mere fact that disclosure is sought by a government agency will not necessarily warrant the breach of grand jury secrecy. (Matter of District Attorney of Suffolk County at 444-445.)\nOnly after such a showing will a court move on to balance the competing interests in deciding whether to grant disclosure.\n“Compelling and Particularized Need”\nIn those cases in which relief has been granted, the successful movant has demonstrated a nexús between the grand jury minutes and a “compelling and particularized need” for those minutes. (People v Di Napoli, 27 NY2d 229 [1970] [Public Service Commission needed the minutes to adjust rates after a grand jury investigation had revealed evidence of “bid rigging”]; Matter of Quinn [Guion], 293 NY 787 [1944] [limited disclosure was allowed for the purpose of the removal of a village tax collector pursuant to the Public Officers Law]; Matter of Scotti, 53 AD2d 282 [4th Dept 1976] [limited release to State Police Superintendent and Corrections Commissioner for disciplinary actions on motion of a special prosecutor after all criminal charges had been dismissed]; People v Werfel, 82 Misc 2d 1029 [Sup Ct, Queens County 1975] [the New York City Department of Investigation, tasked with investigating the background of a judicial candidate, sought the minutes of a grand jury which had heard testimony about a narcotics case of which the candidate had been the subject]; People v Behan, 37 Misc 2d 911 [Onondaga County Ct 1962] [a special prosecutor appointed to investigate corruption in the prisons was granted access to grand jury minutes]; Matter of Crain, 139 Misc 799 [Ct of Gen Sessions, NY County 1931] [grand jury minutes were disclosed to a commissioner appointed to investigate judicial corruption].)\nThus, in each of these cases, the movants were able to demonstrate a “compelling and particularized need” for disclosure. However, the cases also demonstrate that, where courts have released grand jury minutes, the movants had a “compelling and particularized need” based on the additional fact that each movant was not in a position to investigate the facts at the time the events occurred.\nFor example, in Matter of Scotti, members of the State Police and Corrections Department including supervisors were targets of the investigation and thus could not do a parallel investigation. As explained below, in this case, the CCRB could have used its NY City Charter powers to conduct an investigation of the death of Mr. Garner.\nThe movant also cites Marinetti v State of New York (71 Misc 2d 62 [Ct Cl 1972]). In that case, a private party, obviously with no concurrent power to investigate police behavior, was given the minutes for the purposes of a civil suit. Thus, that case is also distinguishable.\nArgument\nAfter the death of Eric Garner, the CCRB began its investigation by “actively seeking witness statements and evidence.” (Motion papers at 2, para [3].) Subsequently, the Richmond County District Attorney’s Office (hereinafter RCDA) issued a “hold” to the CCRB which requested that the CCRB cease its inquiry until the grand jury investigation had concluded.\nShortly after December 3, 2014, when the grand jury did not vote to indict anyone for the death of Eric Garner, the RCDA lifted the “hold” on the CCRB. Thereafter, the United States Attorney for the Eastern District of New York (hereinafter DOJ) issued a “hold” on the CCRB. The CCRB took no action in this matter until it filed this application on May 15, 2015. Thus, for about 5V2 months, the CCRB did nothing. The fillip for this motion appears to be the imminent release of the results of the New York City Police Department’s (hereinafter NYPD) disciplinary investigation. Further, it appears that the NYPD is honoring a “hold” from the DOJ. Thus, the motivation for this disclosure motion appears to be the CCRB’s fear that its NY City Charter role will be circumvented and it will not have any input on any NYPD disciplinary actions.\nAt oral argument, as noted earlier, the CCRB conceded that it has never before requested grand jury minutes to conduct an investigation. Apparently, based on the motion for disclosure, the CCRB is now willing to act even in light of the DOJ’s “hold,” at least, to the extent of gathering evidence. This fact undermines the CCRB’s argument that a “hold” is binding and mandatory.\nProsecutorial Holds — Voluntary or Mandatory?\nSection 440 of chapter 18-A of the New York City Charter, entitled “Public complaints against members of the police department,” describes the relationship between the Board and the NYPD in investigating complaints against members of the police department. By subdivision (c) (1), the Board is empowered to make “findings and recommend action upon complaints” against police officers. The findings and recommendations are submitted to the Police Commissioner.\nOn a majority vote of the CCRB, the body may subpoena witnesses and documents. (Subd [c] [3].) Pursuant to subdivision (d) (1), the police department has the duty to cooperate with the CCRB by providing assistance, cooperation and records and other materials necessary for the CCRB’s investigation. Subject to departmental procedures, the Commissioner must make officers and employees of the police department available for questioning by the CCRB. (Subd [d] [2].) Ultimately, the findings and recommendations of the CCRB are submitted to the Commissioner who has the sole power to discipline members of the department. (Subd [e].) Thus, the CCRB’s findings and recommendations are not binding on the Commissioner who may accept, reject or consider them. The CCRB’s recommendations are merely advisory.\nIn this matter, despite “holds” issued by the RCDA and the DOJ, the Police Department conducted an investigation of the events which led to the death of Eric Garner. Thus, if the Police Commissioner is honoring the DOJ’s “hold,” the Commissioner did not interpret any “hold” to prevent the investigation of the case but merely to withhold his findings and possible disciplinary actions until the DOJ had completed its investigation. The Police Department did not need the grand jury minutes to conduct its inquiry.\nThe CCRB could have been in that same position if it had followed the actions of the Police Department. Instead, the CCRB decided to do nothing and now finds itself in a position where its NY City Charter role may be meaningless. The Board may be cut out of the disciplinary process.\nThe CCRB argues that the “hold” placed on its investigation was mandatory and cites NY City Charter § 440 (f). Yet, the plain language of this section does not preclude the Board from conducting its own parallel inquiry. Section 440 (f) merely admonishes the Board to avoid hindering or interfering with the investigation and/or prosecution of a police officer by a grand jury or District Attorney. Thus, a CCRB inquiry would not be prohibited as long as any such investigation did not interfere with, hinder or prevent a parallel criminal investigation. Now, apparently, the Board has reconsidered and will move forward despite the DOJ’s current “hold.”\nTherefore, based on the plain language of section 440 (f) and the NYPD’s interpretation of a “hold,” the CCRB was not barred from conducting interviews and gathering other materials from whatever source to fulfill its NY City Charter role. Finally, the CCRB’s decision to interpret the “hold” to preclude any action was a discretionary decision. The CCRB could have proceeded unless its actions interfered with, hindered or prevented the parallel criminal investigation. The CCRB could have interviewed witnesses and gathered evidence. Instead, it deferred to the prosecutors.\nThe simple, and rather obvious, remedy is for the CCRB to request the materials gathered by the NYPD in its investigation to allow the Board to make findings and recommendations. Such cooperation would seem reasonable between two city agencies.\nThe CCRB’s inaction and/or the Police Department’s intransigence should not compel a disclosure of the grand jury minutes. The Board’s need was created by its own lack of diligence. The grand jury minutes are not a quick fix. The disclosure of grand jury minutes should not constitute a stopgap measure.\nThe Board is in the same position today that it was in December of 2014. The Board did not even join the first group of litigants which sought the grand jury minutes. The Board now wishes to suggest its lethargy has created a “compelling and particularized need” for the minutes.\n“Freshest,” Sworn Testimony\nThe CCRB further argues that the “freshest,” sworn testimony about the death of Mr. Garner is the grand jury minutes. This is mere speculation as the court does not know when the Police Department, or even the CCRB, interviewed persons before the grand jury investigation commenced.\nIf the CCRB takes the same docile approach in future cases, then the grand jury evidence will always be the “freshest” account of events. Such an approach would be contrary to the CCRB framework outlined in the NY City Charter. The procedures and mechanisms for gathering evidence and procuring live testimony contained in the NY City Charter portray the CCRB as a proactive body with an important role in the police disciplinary process. Even in cases of this magnitude, the Board should use all of the NY City Charter powers available to it to insure that the CCRB. will have a voice at the appropriate time. The Board does not have to be dormant even in the face of prosecutorial resistance. The CCRB was not created to critique grand jury actions or the investigations of others but to gather evidence by its own means including the assistance of the NYPD to make findings and recommendations to the Police Commissioner. The CCRB may not remain quiescent unless it chooses to do so. The CCRB cannot adopt such a passive posture and then ask for the extraordinary remedy of the disclosure of secret grand jury testimony.\nThe CCRB further argues that the grand jury testimony would be sworn to by the witnesses and thus of more value than any statements that it may receive from the NYPD. The Board could simply call the witnesses and have the witnesses swear to the truth of the contents of the reports of their interviews conducted by the NYPD.\nConclusion\nIt appears that an imminent decision of the Police Commissioner has convinced the CCRB that it now has a “compelling” need for these grand jury minutes. This “crisis” has been created by the Board’s own inaction. Apparently, the NYPD continued its internal investigation despite the prosecutorial “holds.” The Board has done nothing since the RCDA removed its “hold” in early December. The fact that the NYPD has completed its investigation in the face of the RCDA and DOJ “holds” shows that either the requested holds were voluntary or that the NYPD interpreted the “holds” to mean that only the results of its investigation would not be revealed before the “holds” were lifted and that the Police Department could continue to gather evidence. The CCRB has done nothing since early December to clarify the DOJ’s “hold,” continue to gather evidence without announcing any findings or recommendations or to engage in self-help by asking for the assistance of the Police Department. Now on the eve of an anticipated announcement by the Police Commissioner, the CCRB argues that it has a “compelling need” for the grand jury minutes. What was not “compelling” in early December or shortly thereafter became “compelling” in mid-May.\nThis motion by the CCRB is prompted by the expectation of action by the Police Commissioner. Such action would render the CCRB’s recommendations moot as the Commissioner has the final word in disciplining members of the Police Department. The crisis created by the CCRB was of its own making and now, to shortcut the investigative process, the CCRB contends that it has a “compelling and particularized need” for the grand jury minutes. A party cannot demonstrate a “compelling and particularized need” by creating circumstances which place it in desperate straits because of its voluntary forbearance or by its refusal to diligently explore an alternate remedy.\nIf the reason for this application is to preserve the role of the CCRB in the police disciplinary process, the CCRB’s incomplete investigation may easily be completed by invoking the NY City Charter provisions which require the Police Department to provide materials and witnesses to the Board. Thus, the CCRB has a viable alternate remedy. A phone call to the Police Commissioner should suffice. Ultimately, if rebuffed, the Mayor, at whose pleasure the Police Commissioner serves, could demand that the Police Commissioner cooperate with the Board with the understanding that the Police Commissioner would postpone his decision until the CCRB had had the time to review the materials generated by the Department and to make its recommendations. This avenue is clearly available to the CCRB. The disclosure of secret grand jury evidence is permissible only on a showing of a “compelling and particularized need.” The grand jury evidence is not available for the sake of convenience or to save a city agency from embarrassment for having failed to diligently pursue its NY City Charter mandate. Shortcuts and convenience do not constitute “compelling needs.”\nFurther, disclosure to the CCRB would set a bad precedent. In cases of this magnitude, the Board could simply suspend any investigation, wait for the result of the grand jury presentation, argue that it now needs the minutes because they reflect the “freshest,” sworn recollections of the witnesses, critique the action of the grand jury and assess the behavior of the police officers on a cold reading of the grand jury minutes. In this case, the CCRB had and has remedies short of the disclosure of the grand jury minutes. Simply, the CCRB has not presented “compelling” arguments for the disclosure of the grand jury minutes. The Board has failed to aggressively question the breadth of the “holds,” especially since December of 2014, has failed to gather evidence and has failed to seek remedies available to it by the NY City Charter. Now, at the eleventh hour, the CCRB seeks to avoid irrelevance for having failed to make advisory recommendations to the Police Commissioner by requesting the grand jury minutes. Such is not a “compelling” need.\nThe CCRB’s assurance that the minutes would be safe from any public dissemination is unconvincing. There is no way to know how many Board members, investigators and staff would have access to any released minutes. There is also no way to hold anyone directly accountable for unauthorized leaks or negligent disclosures. A leak would simply mean another investigation with uncertain results with no guarantee of any meaningful sanctions. The court has no confidence that a disclosure to the CCRB alone would obviate any risk of widespread disclosure.\nAlthough the court has found that the CCRB has no “compelling or particularized need” for the grand jury minutes and thus will not engage in the balancing of interests, it is important to remember that the DOJ is still investigating this matter.\nThus, based on the foregoing discussions and conclusions, the motion for disclosure is denied.",
+        "type": "majority",
+        "author": "William E. Garnett, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Vasudha Talla and Brian Krist, New York City Civilian Complaint Review Board (Richard Emery, Mina Malik and Jonathan Darche of counsel), for petitioner.",
+      "Michael E. McMahon, District Attorney (Anne Grady and Morrie Kleinbart of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[39 NYS3d 590]\nIn the Matter of New York City Civilian Complaint Review Board, Petitioner, v Office of the District Attorney for the County of Richmond, Respondent.\nSupreme Court, Richmond County,\nAugust 20, 2015\nAPPEARANCES OF COUNSEL\nVasudha Talla and Brian Krist, New York City Civilian Complaint Review Board (Richard Emery, Mina Malik and Jonathan Darche of counsel), for petitioner.\nMichael E. McMahon, District Attorney (Anne Grady and Morrie Kleinbart of counsel), for respondent."
+  },
+  "file_name": "2457-01",
+  "first_page_order": 922,
+  "last_page_order": 931
+}

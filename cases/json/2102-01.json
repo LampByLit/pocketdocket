@@ -1,0 +1,814 @@
+{
+  "id": 4068472,
+  "name": "In the Matter of James Harris et al., Plaintiffs, v. Dutchess County Board of Cooperative Educational Services et al., Defendants",
+  "name_abbreviation": "Harris v. Dutchess County Board of Cooperative Educational Services",
+  "decision_date": "2015-11-04",
+  "docket_number": "",
+  "first_page": "750",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 750"
+    },
+    {
+      "type": "parallel",
+      "cite": "25 N.Y.S.3d 527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "272 AD2d 112",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        263069
+      ],
+      "pin_cites": [
+        {
+          "page": "114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/272/0112-01"
+      ]
+    },
+    {
+      "cite": "192 AD2d 707",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1123414
+      ],
+      "pin_cites": [
+        {
+          "page": "708"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/192/0707-01"
+      ]
+    },
+    {
+      "cite": "170 AD2d 602",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1029400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/170/0602-01"
+      ]
+    },
+    {
+      "cite": "244 AD2d 487",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        402691,
+        403388
+      ],
+      "pin_cites": [
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/244/0487-02",
+        "/ad2d/244/0487-01"
+      ]
+    },
+    {
+      "cite": "62 NY2d 494",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2348427
+      ],
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/62/0494-01"
+      ]
+    },
+    {
+      "cite": "1 NY3d 34",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        1249220
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/1/0034-01"
+      ]
+    },
+    {
+      "cite": "18 AD3d 389",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        516392
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/18/0389-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 553",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734555
+      ],
+      "pin_cites": [
+        {
+          "page": "559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0553-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 790",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4415497,
+        4415611,
+        4415925
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0790-02",
+        "/ny-2d/75/0790-01",
+        "/ny-2d/75/0790-03"
+      ]
+    },
+    {
+      "cite": "151 AD2d 345",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3588821
+      ],
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/151/0345-01"
+      ]
+    },
+    {
+      "cite": "42 AD3d 627",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3553220
+      ],
+      "pin_cites": [
+        {
+          "page": "629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/42/0627-01"
+      ]
+    },
+    {
+      "cite": "289 AD2d 318",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        393232
+      ],
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/289/0318-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 1093",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3756448,
+        3757537,
+        3755004,
+        3755529
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/1093-03",
+        "/ny3d/20/1093-04",
+        "/ny3d/20/1093-01",
+        "/ny3d/20/1093-02"
+      ]
+    },
+    {
+      "cite": "103 AD3d 13",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3709039
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/103/0013-01"
+      ]
+    },
+    {
+      "cite": "36 Misc 3d 230",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3783095
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "251-252"
+        },
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/36/0230-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 43",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109780
+      ],
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0043-01"
+      ]
+    },
+    {
+      "cite": "293 AD2d 598",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        955658
+      ],
+      "pin_cites": [
+        {
+          "page": "599"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/293/0598-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 24",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188922
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "29"
+        },
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0024-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109829
+      ],
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0330-01"
+      ]
+    },
+    {
+      "cite": "52 AD3d 886",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4062291
+      ],
+      "pin_cites": [
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/52/0886-01"
+      ]
+    },
+    {
+      "cite": "71 AD3d 155",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3981051
+      ],
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/71/0155-01"
+      ]
+    },
+    {
+      "cite": "3 NY3d 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        456566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/3/0200-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 616",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3736515
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0616-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 5",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3707716
+      ],
+      "pin_cites": [
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0005-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 20",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4435352
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0020-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 314",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282472
+      ],
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0314-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 608",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        956834
+      ],
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0608-01"
+      ]
+    },
+    {
+      "cite": "71 AD3d 187",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3971301
+      ],
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/71/0187-01"
+      ]
+    },
+    {
+      "cite": "18 NY3d 940",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5714906
+      ],
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0940-01"
+      ]
+    },
+    {
+      "cite": "83 AD2d 866",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3264299,
+        3268420,
+        3250270
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/83/0866-02",
+        "/ad2d/83/0866-03",
+        "/ad2d/83/0866-01"
+      ]
+    },
+    {
+      "cite": "866 F Supp 696",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        9219
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "707"
+        },
+        {
+          "page": "707"
+        },
+        {
+          "page": "707"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/866/0696-01"
+      ]
+    },
+    {
+      "cite": "131 Cal Rptr 854",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "pin_cites": [
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Cal App 3d 814",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6041730
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/60/0814-01"
+      ]
+    },
+    {
+      "cite": "124 Misc 2d 817",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        828065
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "819"
+        },
+        {
+          "page": "819-820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/124/0817-01"
+      ]
+    },
+    {
+      "cite": "89 AD2d 85",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3304776
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/89/0085-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 121",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373412
+      ],
+      "pin_cites": [
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0121-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 357",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331369
+      ],
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0357-01"
+      ]
+    },
+    {
+      "cite": "23 NY2d 483",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2287427
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/23/0483-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 111",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323822
+      ],
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0111-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 440",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4370813
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "444"
+        },
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0440-01"
+      ]
+    },
+    {
+      "cite": "15 AD3d 334",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        843120,
+        842825
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/15/0334-01",
+        "/ad3d/15/0334-02"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 896",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4007322
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/0896-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 449",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        114072,
+        113501
+      ],
+      "pin_cites": [
+        {
+          "page": "451"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0449-02",
+        "/ad2d/306/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1819,
+    "char_count": 56237,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.12898802208159627
+    },
+    "sha256": "2e59e641538dd80a990d684037457ab63b7f4e0b164384a40d72975a46b72cda",
+    "simhash": "1:9a73e600ab1820b1",
+    "word_count": 8825
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of James Harris et al., Plaintiffs, v Dutchess County Board of Cooperative Educational Services et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPaul I. Marx, J.\nIt is ordered that defendants’ motion is granted in part and denied in part for the reasons which follow.\nBackground\nPlaintiffs filed this action against defendants Dutchess County Board of Cooperative Educational Services (BOCES), John Pennoyer, individually and in his official capacity as BOCES district superintendent, Mitchell Shron, individually and in his official capacity as principal/supervisor of BOCES Career & Technical Institute and Stephen O’Connor, instructor, for violation of General Business Law §§ 349 and 350, fraud and negligent misrepresentation in connection with the welding and fabrication program offered by BOCES in 2010 through 2012 (the program). Plaintiffs Timothy Liebrand, Jr. and William Dorr were enrolled in the program during the 2010/2011 and 2011/2012 school years. Plaintiffs James Harris and John Roy Schlessman were enrolled in the program during the 2011/2012 school year. All four plaintiffs successfully completed the program in June 2012.\nPlaintiffs allege that BOCES falsely advertised and promoted the program on its website from 2010 through 2012, by claiming that it offered students the ability to visit production facilities in the Hudson Valley area. Plaintiffs also allege that the advertisement falsely claimed that students would have the opportunity to take the national competency exam administered through the American Welding Society (AWS), a nationally recognized industry and accreditation organization which seeks to advance the science, technology and application of welding and allied joining and cutting processes throughout the world. (Complaint ¶¶ 1, 27.) They further allege that “each of them, [sic] relied on defendants’ website advertisements in deciding to enroll in, remain in and complete the Welding Program.” (Id. ¶ 78.) In addition, plaintiffs allege that defendants Shron and O’Connor represented to them that upon their successfully completing the program and passing the AWS national competency exam administered at BOCES, plaintiffs would receive certification as level 1 or level 2 entry welders from AWS.\nPlaintiffs allege that while enrolled in the program, they did not visit any local production facilities as advertised by BOCES on its website. They further allege that\n“unbeknownst to [them], defendants did not comply with AWS standards and curricula, did not administer the AWS National Competency Exam, did not submit [their] tests or materials to AWS for grading, review or certification and did not provide any avenue for [them] to receive certification from AWS or any other industry organization or body.” (Id. ¶ 30.)\nPlaintiffs allege that O’Connor represented to them that the final exam they took was an AWS exam; but it was not. They allege that upon graduating in June 2012, they did not receive AWS, or any other, certification. They state that plaintiff Liebrand’s father followed up with BOCES in August 2012 regarding his son’s certification, resulting in his being issued a certificate “bearing the AWS logo and indicating that Liebrand had completed the AWS SENSE [School Excelling Through National Skill Standard Education] program and attained ‘Level 1—Entry Welder’ status.” (Complaint ¶ 38.) Plaintiffs state further that Harris’ mother also followed up with several calls to BOCES, beginning in June 2012, and that plaintiff Harris was finally issued a certificate in November 2012 that bore the AWS logo and stated that he attained “Level 1—Entry Welder” status. (Id. ¶¶ 39-46.) Plaintiffs further allege that Mrs. Harris subsequently contacted AWS and learned that it did not authorize BOCES to issue AWS certificates. (Id. ¶ 47.)\nPlaintiffs attached and incorporated by reference into their complaint an assurance of discontinuance entered into between BOCES, through defendant Pennoyer, and the New York State Attorney General. (Notice of motion to dismiss, exhibit A, assurance of discontinuance [attached to complaint].) The assurance of discontinuance resolved an Attorney General’s investigation into claims against BOCES of deceptive business practices and false advertising under General Business Law §§ 349 and 350. BOCES eventually settled with the Attorney General without admitting the Attorney General’s findings that it violated General Business Law §§ 349 and 350 or committed any other wrongdoing, in lieu of legal action being commenced against it.\nThe assurance of discontinuance recites that the program was registered with the AWS and that BOCES was designated as an AWS SENSE school in 2006. The Attorney General found that BOCES’ affiliation with AWS enhanced the appeal of, and attracted prospective students to, the program. The students who enrolled in the program were referred primarily by their school districts in Dutchess County, which paid their tuition. The program was also open to high school graduates seeking additional vocational education, who were required to pay tuition. In 2011-2012, plaintiff Schlessman paid BOCES $4,505 to participate in the program.\nThe assurance of discontinuance states that AWS provides a level 1 welding certificate to graduates of SENSE schools that follow the AWS curriculum and regulations and who pass the national competency exam. The AWS curriculum consists of nine modules, each of which requires a written test at the end of that module and a workmanship sample for certain modules. The participating SENSE school must report the students’ grades on the tests and workmanship samples to AWS at the completion of each module. Defendants did not adhere to the AWS curriculum or regulations for several years and administered an outdated national competency exam to plaintiffs. Defendants never reported student progress on the curriculum to AWS or their results on the national competency exam. Nonetheless, when pressed by the students’ parents, defendants issued certificates to two of the plaintiffs, which included the AWS logo, although defendants were not authorized to issue such certification.\nOn January 9, 2013, defendant Pennoyer executed the assurance of discontinuance on behalf of BOCES. The terms of the settlement required BOCES to pay restitution to the State for the amount of plaintiff Schlessman’s tuition, which was then reimbursed to Schlessman’s family, penalties in the amount of $5,000 and the costs of the Attorney General’s investigation.\nOn July 11, 2013, plaintiffs commenced a special proceeding requesting permission to serve a late notice of claim against defendants. Defendants moved to dismiss the special proceeding, claiming that the General Business Law §§ 349 and 350 and negligent misrepresentation causes of action were barred by the applicable statutes of limitations and that the fraud claim was patently meritless. The court denied defendants’ motion to dismiss by decision and order of Hon. Peter M. Forman, AJSC, dated April 4, 2014, which also granted leave to serve the notice of claim. Justice Forman determined that the plaintiffs’ General Business Law §§ 349 and 350 and negligent misrepresentation causes of action were timely and that their fraud allegations made out a viable claim.\nPlaintiffs subsequently filed this action, alleging in their complaint the same claims contained in their notice of claim. Defendants now move to dismiss the complaint, contending that plaintiffs fail to state causes of action for violation General Business Law §§ 349 and 350, negligent misrepresentation and fraud and failed to plead fraud with particularity.\nDiscussion\nStandard of Review\nIn determining a motion to dismiss for failure to state a cause of action pursuant to CPLR 3211 (a) (7), “the sole criterion is whether the pleading states a cause of action, and if from its four corners factual allegations are discerned which taken together manifest any cause of action cognizable at law. . . .” (Morris v Morris, 306 AD2d 449, 451 [2d Dept 2003] [citation omitted].) The court must construe the pleadings liberally, accepting every factual allegation as true and affording plaintiff the benefit of every favorable inference possible. (Introna v Huntington Learning Ctrs., Inc., 78 AD3d 896, 897 [2d Dept 2010].) On such a motion, the court seeks to ascertain whether the plaintiff has a viable cause of action rather than whether the cause of action is properly pleaded. (Leon v Martinez, 84 NY2d 83, 88 [1994]; Elmore v City of New York, 15 AD3d 334, 335 [2d Dept 2005].)\nEducational Malpractice\nDefendants argue that\n“[plaintiffs’ claims are, in substance, claims that BOCES and the individual defendants did not fulfill their alleged representations to the plaintiffs as to the educational benefits (i.e., an AWS certificate) or educational opportunities (i.e., to visit a local production facility in the Hudson Valley, to take a current AWS National Competency Exam and to be provided with the opportunity to qualify for an AWS certification) offered through the Program.” (Defendants’ mem of law at 7.)\nDefendants contend that plaintiffs’ claims of negligent misrepresentation and alleged violations of General Business Law §§ 349 and 350 are, in essence, reformulated claims of educational negligence or malpractice, which are not actionable in the State of New York as a matter of public policy. Defendants rely primarily on the seminal case of Donohue v Copiague Union Free School Dist. (47 NY2d 440, 444 [1979]) in support of their contention. They concede, however, that intentional torts, such as fraud, are not barred by the State’s public policy.\nPlaintiffs readily acknowledge that New York does not provide redress for claims of educational negligence or malpractice. They assert that they have not alleged such causes of action and argue that their claims should not be characterized as such. They attempt to distinguish their statutory and negligent misrepresentation claims from such prohibited causes of action, also relying on Donohue. Plaintiffs explain that their claims do not require the court to tread into the exclusive province reserved to the legislative and administrative branches to determine the quality of education and the manner in which it was provided by BOCES and its officials.\nDonohue involved a claim by a student that the school district where he attended high school failed in its obligation to educate him, because following graduation he did not have even the basic skills to understand written English so he could complete an employment application. (47 NY2d at 442.) The Court of Appeals explained that although Donohue’s tort claim “might on the pleadings state a cause of action within traditional notions of tort law,” it was not actionable as a matter of public policy, because the Board of Regents and the Commissioner of Education are vested with the task of managing and controlling the educational affairs of the State’s schools, not the courts. (Id. at 444, citing NY Const, art V, § 4; art XI, § 2; Education Law §§ 207, 305; Matter of New York City School Bds. Assn. v Board of Educ. of City School Dist. of City of N.Y., 39 NY2d 111, 116 [1976]; Matter of Ocean Hill-Brownsville Governing Bd. v Board of Educ. of City of N.Y., 23 NY2d 483, 485 [1969].) The purpose of the State’s “general legislative and constitutional system for the maintenance of public schools” is for all matters pertaining to the system to remain within the authority and control of the Department of Education “and to remove the same so far as practicable and possible from controversies in the courts.” (Donohue at 444, quoting James v Board of Educ. of City of N.Y., 42 NY2d 357, 366 [1977].) Therefore, the Court of Appeals refused to allow a claim that the school had failed in its duty to educate Donohue to proceed, because “[t]o entertain a cause of action for ‘educational malpractice’ would require the courts not merely to make judgments as to the validity of broad educational policies—a course we have unalteringly eschewed in the past—but, more importantly, to sit in review of the day-to-day implementation of these policies.” (Id. at 445.)\nThe Court of Appeals affirmed this position in Hoffman v Board of Educ. of City of N.Y. (49 NY2d 121, 125 [1979]), where it rejected the plaintiff’s negligence claims based upon the Board of Education’s alleged failure to properly evaluate his intellectual ability. Plaintiff sued the Board based on its continued use of the results of an evaluation performed by a school psychologist when the plaintiff first entered kindergarten in order to determine all of the plaintiff’s subsequent educational placements. The plaintiff also alleged that the Board failed to follow the school psychologist’s recommendation to retest him within two years of the initial evaluation. In fact, the plaintiff was not reevaluated until he was 18 years old, due to his mother’s insistence that he be retested following his placement in the Queens Occupational Training Center, “a manual and shop training center for retarded youths.” (Id. at 124.) Following the retest, the plaintiff was found, based on his score, to not qualify as “retarded” and was therefore deemed ineligible to complete the program. Thereafter, he brought suit, claiming that the Board’s negligence caused “injury to [his] intellectual and emotional well-being and reduced his ability to obtain employment.” (Id. at 125.)\nThe Court of Appeals reversed the Appellate Division’s decision that the plaintiff’s causes of action were not barred by the public policy prohibiting judicial review of the professional judgments of school officials and educators. The Court of Appeals disagreed with the Appellate Division’s determination that the plaintiff’s case was distinguishable from Donohue, because it “involve[d] an affirmative act of misfeasance,” whereas Donohue was based upon “a failure to educate properly or nonfeasance.” (Hoffman at 126.) The Court of Appeals held that Donohue was dispositive of the plaintiff’s case; therefore, the courts could not review the Board’s assessments of the plaintiff or its placement decisions. The Court of Appeals further found that\n“[i]n order to affirm a finding of liability in these circumstances, [it] would be required to allow the finder of fact to substitute its judgment for the professional judgment of the board of education as to the type of psychometric devices to be used and the frequency with which such tests are to be given. . . . [T]he court system is not the proper forum to test the validity of the educational decision to place a particular student in one of the many educational programs offered by the schools of this State. In our view, any dispute concerning the proper placement of a child in a particular educational program can best be resolved by seeking review of such professional educational judgment through the administrative processes provided by statute.” (Id. at 127, citing Education Law §310 [7].)\nPlaintiffs here assert that their claims do not require the court to review educational policy or the day-to-day implementation of such policies. They object to defendants’ characterization of their causes of action, asserting that their claims are not prohibited by the public policy of this State. They assert that their claims are akin to those which the Court in Paladino v Adelphi Univ. (89 AD2d 85 [2d Dept 1982]) opined might be permissible. Paladino held that a breach of contract action against a school based upon the quality of the education provided would be prohibited; however, “if the contract with the school were to provide for certain specified services, such as for example, a designated number of hours of instruction, and the school failed to meet its obligation, then a contract action with appropriate consequential damages might be viable.” (Paladino at 92.) In Paladino, the plaintiff father alleged a breach of contract cause of action against the Waldorf School attended by his son, claiming that the school “fail[ed] to provide quality education, qualified and expert teachers, necessary tutorial and supportive skills, accurate and factual progress reports; and that it furnished false and misleading progress reports which reflected that [his son] was making satisfactory progress in his studies and promoted him each year to the next grade.” (Paladino at 86.) The father also alleged a cause of action “sounding in deceit based on the allegedly inaccurate progress reports and misrepresentations concerning the quality of the education.” (Id.) In addition, causes of action for breach of contract as a third-party beneficiary and for deceit were brought on the son’s behalf.\nThe Court in Paladino held that the public policy against courts second guessing the professional judgments and decisions of educators and school officials prohibited the plaintiffs’ causes of action against a private school. (Paladino at 92 [“Public policy should similarly prevent a court from interfering with private schools when the controversy requires the examination of the efficacy of the course of instruction”].) The Court declined to allow the plaintiffs’ contract cause of action to proceed, because “the essence of the contract cause of action pleaded [wa]s that the Waldorf School failed to educate [the plaintiff]. The asserted breach . . . requires the fact finder to enter the classroom and determine whether or not the judgments and conduct of professional educators were deficient.” (Id.) That type of judicial inquiry is clearly foreclosed by Donohue and its progeny.\nThe Court left open the possibility that a certain kind of contract cause of action might not be prohibited by public policy. In identifying such a cause of action, the Court stated:\n“If in a case such as this, a private school were simply to accept a student’s tuition and thereafter provide no educational services, an action for breach of contract might lie. Similarly, if the contract with the school were to provide for certain specified services, such as for example, a designated number of hours of instruction, and the school failed to meet its obligation, then a contract action with appropriate consequential damages might be viable.” (Id.; see also Village Community School v Adler, 124 Misc 2d 817, 819 [Civ Ct, NY County 1984] [denying the plaintiff’s motion to dismiss the defendant’s counterclaim for breach of contract based upon a private school’s failure to provide, as promised, faculty that could detect and treat children with learning disabilities. Relying on Paladino, the court found the claim to be permissible, because it was “not required to review any discretionary actions taken as a result of (the school’s) professional judgment”].)\nPlaintiffs assert that their claims are viable under Paladino because their claims are predicated upon defendants’ failure to provide the educational services specified on their website, which were reiterated and expanded by defendants Shron and O’Connor to include AWS certification. Such causes of action, plaintiffs contend, are not predicated upon the quality and adequacy of the course of instruction. Instead, defendants failed to provide what they said they would provide—visits to local facilities and the national competency exam, which could lead to certification. “[T]he gravamen of [their] claims is that defendants deceived, misled and defrauded them into making a consumer choice to enroll in, remain in and complete the Welding Program and thereby forego all other vocational opportunities.” (Mem of law in opposition at 8.) They contend that they were deprived of the benefits of those other opportunities. (Id.)\nConstruing plaintiffs’ pleadings liberally, as required, the court agrees that their claims are not properly characterized as educational malpractice, because they do not concern the quality of the education plaintiffs received from the program or the adequacy of the course of instruction. Plaintiffs’ allegations are akin to the breach of contract cause of action that the Appellate Division suggested in Paladino might be entertained by the courts in this State: the failure to provide certain specified services as promised. (Paladino at 92.) In this case, defendants specified that the program would provide visits to local production facilities and administration of the national competency exam, but it failed to provide these services. Like the contract cause of action described in Paladino, plaintiffs’ claims do not require “the fact finder to enter the classroom and determine whether or not the judgments and conduct of professional educators were deficient.” (Paladino at 92.) However, plaintiffs have not alleged breach of contract causes of action; their claims sound in tort.\nDespite the Court’s suggestion in Paladino that a certain contract cause of action might be viable, it eschewed the viability of any type of negligence claim, even one that was predicated upon the same allegations that the Court found might provide for a viable contract claim. The Paladino plaintiffs alleged that the school misrepresented that it would provide necessary tutorial services and progress reports. (Id. at 93.) Although such allegations arguably would not require a court to assess the efficacy of any educational policy or assess educators’ judgments about the kind or quality of educational services that were provided, the Court disallowed the plaintiffs’ negligent misrepresentation claim, stating somewhat obliquely that “negligent misrepresentations and judgmental errors ought not be actionable . . . .” (Id. at 94, citing Peter W. v San Francisco Unified Sch. Dist., 60 Cal App 3d 814, 827, 131 Cal Rptr 854, 862 [1976].) The Court offered no further elaboration on its rationale and holding as to the negligent misrepresentation claim.\nOther courts have been loathe to allow any claim that is based on negligent acts by school officials and educators, whether or not the allegations invoke the State’s public policy by calling for evaluation of educational policy or judgment. The court in Village Community School (124 Misc 2d at 819-820) allowed the defendant’s counterclaim for breach of contract for failing to provide the tutorial and guidance services it promised, but dismissed her negligent misrepresentation cause of action grounded upon the same allegations. The court held the claim was “immune from review,” because the duty owed was “one owed to the general public.” Citing Donohue and Hoffman, the court stated that “a cause of action based on negligent misrepresentation in the educational context is precluded.” {Id.)\nThe Federal District Court in Moy v Adelphi Inst., Inc. also disallowed the plaintiffs’ negligent misrepresentation claim, even though it acknowledged that it was “not required to review any discretionary actions taken as a result of Defendant’s professional judgment.” (866 F Supp 696, 707 [ED NY 1994], quoting Village Community School at 548.) The court made the same kinds of broad statements that the state courts have made that such a claim “cannot be maintained because New York law does not allow for a cause of action based on negligent misrepresentation in the educational context.” (Id. at 706-707, citing Village Community School, and Washington v City of New York, 83 AD2d 866 [2d Dept 1981].)\nIn fact, no court has yet specifically examined whether the rationale that has been applied to a contract cause of action may apply to a negligence cause of action, choosing instead to simply broaden the application of the stated public policy, which prohibits courts from substituting their judgment for the judgment of professional educators. If a school official or educator negligently represents that certain educational services are provided by the school which are not in fact provided, the court need not review any professional judgment or policy. Leaving aside the question whether the school owed a duty to the particular plaintiffs, the factfinder would merely determine, as it would with the permissible contract cause of action based upon the school’s failure to provide the promised services, whether the services were provided. The factfinder would not, in that instance, be called upon to consider the quality of the services or even the judgment of the school officials in declining to provide the services.\nReturning, however, to Donohue, and the rationale expressed by the Court of Appeals for prohibiting claims that might require the courts to review school officials’ judgments, the expansion of that policy to all types of claims involving alleged negligence by school officials is warranted. Educators and other school officials must be allowed to act within a broad framework without interference by the courts, which are ill equipped to determine what unintended conduct may or may not be justified in the educational context. As the Court of Appeals adroitly pointed out, potential plaintiffs are not without a remedy for injuries allegedly caused by ill-conceived policies or careless conduct. “The Education Law (§ 310, subd 7) permits any person aggrieved by an ‘official act or decision of any officer, school authorities, or meetings concerning any other matter under this chapter, or any other act pertaining to common schools’ to seek review of such act or decision by the commissioner.” (.Donohue at 445.)\nFurthermore, this court is bound by the holding in Paladino when evaluating the viability of plaintiffs’ negligent misrepresentation cause of action, particularly where the allegations which underlie that claim are similar in kind to those that were disallowed in Paladino. Plaintiffs allege that defendants negligently misrepresented that they would provide site visits and administer the national competency exam. Such a claim is barred by the State’s public policy, as further expanded, although it does not require a court to evaluate the wisdom or the efficacy of defendants’ decisions. (Id. at 94; see also Moy v Adelphi Inst., Inc., 866 F Supp 696, 707 [ED NY 1994] [“Plaintiffs may not maintain a cause of action of negligent misrepresentation”].) The reasons that gave rise to formulating the public policy are also applicable to such claims.\nAccordingly, plaintiffs’ negligent misrepresentation cause of action, although not construed as a claim for educational malpractice, is dismissed as barred by the State’s public policy against maintaining negligence based claims against schools and school officials. The court notes that the defect in plaintiffs’ cause of action is not a pleading deficiency, which might be remedied by leave to replead to state a cause of action for which a remedy may be obtained. Hence, leave to amend is not granted.\nGeneral Business Law §§ 349 and 350 and Common-Law Fraud\nCourts have, however, taken a vastly different approach toward intentional torts against school officials, finding that such claims do fall within the judicial ambit. (Paladino at 94.) In Paladino, the Court expressed abhorrence for fraudulent misrepresentation, which it stated “bespeaks an abuse of the trust imparted to our educators and should be entertained by the courts.” (Id.) The Court continued: “Deception has no place in the educational process. . . . [Misrepresentations coupled with the element of scienter should result in the imposition of liability.” (Id.; see also Village Community School at 820 [“Defendant states a viable cause of action because her claim for deceit requires the element of scienter. She can establish a prima facie case if she shows that plaintiff had no intention to fulfill its promise, that its resources were not adequate at the time of the contract or that it never performed such a service before”]; Moy, 866 F Supp at 707 [“our determination that Plaintiffs may not maintain a cause of action of negligent misrepresentation in no way interferes with our holding pertaining to common law fraud”].) Thus, where scienter is alleged as an element of a misrepresentation cause of action, courts have not extended public policy to encompass these type of claims; instead, such claims are allowed to proceed against a school district and its officials.\nAccordingly, plaintiffs’ causes of action for fraud and for violation of General Business Law §§ 349 and 350, to the extent they are based upon intentional conduct, may be maintained against defendants.\nGeneral Business Law §§ 349 and 350\nPlaintiffs allege claims under both General Business Law §§ 349 and 350, which are directed to deceptive practices and advertising in connection with a business or trade. General Business Law § 349 specifically provides that “(a) Deceptive acts or practices in the conduct of any business, trade or commerce or in the furnishing of any service in this state are hereby declared unlawful.” General Business Law § 350 provides that “[flalse advertising in the conduct of any business, trade or commerce or in the furnishing of any service in this state is hereby declared unlawful.” The elements of both causes of action are similar, in that they require allegations of: (1) consumer-oriented conduct that is (2) materially misleading and that (3) resulted in injury to plaintiffs. (Koch v Acker, Merrall & Condit Co., 18 NY3d 940, 941 [2012]; Denenberg v Rosen, 71 AD3d 187, 194 [1st Dept 2010]; Andre Strishak & Assoc. v Hewlett Packard Co., 300 AD2d 608, 609 [2d Dept 2002].) The Attorney General is authorized to take action to redress violations of these provisions; however, the statute also provides for a private right of action. (General Business Law § 349 [h]; see also Goshen v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 323 [2002]; Oswego Laborers’ Local 214 Pension Fund v Marine Midland Bank, 85 NY2d 20 [1995].)\nIn fact, as demonstrated by the assurance of discontinuance, which is incorporated into plaintiffs’ complaint, the Attorney General investigated the same allegations against defendants and concluded that the information contained on the BOCES website was “deceptive, misleading and illegal” and constituted violations of General Business Law §§ 349 and 350. (Notice of motion to dismiss, exhibit A, assurance of discontinuance ¶¶ 6-7.) That determination does not preclude plaintiffs’ General Business Law claims, however, because defendants settled without admitting the Attorney General’s findings and without prejudice to their right to defend against similar claims by third parties.* ***** Moreover, unlike a consumer, the Attorney General stands in a different role with regard to the law. The Attorney General is the guardian of business, trade and commerce within the State. In 1970, when the law was enacted, the Attorney General had sole enforcement power. (Oswego at 25, citing Governor’s Mem approving L 1970, ch 43.) As the legislative history of the law indicates, the Attorney General is empowered to investigate claims of consumer fraud at their inception without waiting for the fraud to become persistent and may enjoin the conduct before any person or entity is actually harmed. The Attorney General may act merely to protect the integrity of the marketplace. (Id. at 25, quoting Mem of Governor Rockefeller, 1970 NY Legis Ann at 472.)\nThe law was amended in 1980 to provide a private right of action to any person injured by a violation of the law. (North State Autobahn, Inc. v Progressive Ins. Group Co., 102 AD3d 5, 15 [2d Dept 2012], citing General Business Law § 349 [h].) The amendment was intended to supplement the Attorney General’s enforcement efforts. (Id.) However, the private right of action is predicated upon and “only permit [s] recovery by one injured ‘by reason of’ a deceptive business practice . . . .” (Id. at 16.) Indeed, the courts have made plain that a plaintiff cannot recover for indirect or derivative injuries sustained by another person or entity. (Id. at 16-17, discussing City of New York v Smokes-Spirits.Com, Inc., 12 NY3d 616 [2009], and Blue Cross & Blue Shield of N.J., Inc. v Philip Morris USA Inc., 3 NY3d 200 [2004].) Accordingly, plaintiffs must still satisfy the pleading requirements of a General Business Law claim, as stated above: (1) consumer-oriented conduct that is (2) materially misleading and that (3) resulted in injury to plaintiffs.\nConsumer-Oriented Conduct\nPlaintiffs allege that defendants’ representations about the AWS exam and the facility visits were consumer oriented because they were placed on the website to attract students to the program. They acknowledge that high school students, who are primarily referred by their school districts which pay their tuition, constitute the primary target audience for the program. However, they allege that the program also targets post-high school graduates, who are required to pay their own tuition. Plaintiffs allege that the representations on the BOCES website, coupled with defendants Shron and O’Connor’s oral representations that participation in the program would culminate in AWS certification, induced them to enroll in the program to their detriment.\nDefendants contend that plaintiffs’ General Business Law §§ 349 and 350 causes of action are limited to the statements made in the BOCES website, because only those representations were made to consumers at large. They argue that the reference in the Quick Reference Guide on their website that contained the entry “National Competency Exam” in one column and “American Welding Society” in the adjacent column merely identified AWS as the source of the exam. They claim that the website did not contain any representations that the program followed the AWS curriculum or that AWS certification could be obtained through the program. They argue that a bare reference on the website to the AWS and the national competency exam would not have led a reasonable consumer to believe that AWS certification could be obtained through the program.\nPlaintiffs refute defendants’ contentions that plaintiffs’ claims are limited to the representations on the website and that Shron and O’Connor’s representations cannot be consumer oriented because they allegedly were made to plaintiffs after they became students. Plaintiffs rely on the Court of Appeals’ decision in Oswego Laborers’ Local 214 Pension Fund v Marine Midland Bank (85 NY2d 20, 27 [1995]) to illustrate that where the challenged conduct is directed at similarly situated consumers and is not a “single-shot transaction” that is restricted to plaintiffs, such conduct qualifies as consumer oriented. In Oswego, the Court found the defendant bank’s conduct to be consumer oriented where the bank’s representative dealt with the plaintiff unions’ representative in the same manner as it would have dealt with any customer that came into the bank to open an account. Because there was nothing about the manner in which the accounts were opened that was unique to the two parties, or was private in nature or amounted to a single transaction between them, the Court of Appeals held that the actions of the bank representative in opening the wrong type of account for plaintiffs was “consumer-oriented in the sense that they potentially affect similarly situated consumers.” (Id. at 27.)\nThe decision in Oswego supports plaintiffs’ contention that defendants’ conduct towards them was consumer oriented. (Id.; see also North State Autobahn at 14 [“the threshold requirement of consumer-oriented conduct may be satisfied where the allegedly deceptive acts are standardized such that ‘they potentially affect similarly situated consumers’ ”], citing Oswego at 27; Wilner v Allstate Ins. Co., 71 AD3d 155, 164 [2d Dept 2010]; Elacqua v Physicians’ Reciprocal Insurers, 52 AD3d 886, 888 [3d Dept 2008].) Defendants’ representations to the plaintiffs were not unique to them or private in nature. The website is directed to the public at large and the representations contained on the website and made by defendants regarding the content of the program were made by them in the same manner as they made to any person interested in pursuing a career in welding and fabrication. Defendants’ practice (and their later provision of unauthorized certificates) was undoubtedly “likely to mislead a reasonable consumer acting reasonably under the circumstances.” (Oswego at 26; see Gaidon v Guardian Life Ins. Co. of Am., 94 NY2d 330, 344 [1999].)\nDefendants’ argument that their conduct could not be consumer oriented because three of the plaintiffs were public school students who did not pay to participate in the program is unavailing. The assurance of discontinuance stated that the tuition for the program was paid by the school district and one of the plaintiffs did pay more than $4,000 to take the course. “[S]ection 349 is a broad, remedial statute and . . . the provision creating a private right of action employs expansive language.” (Blue Cross & Blue Shield of N.J. at 207.)\n“The Court [of Appeals] has never explicitly held that section 349 (h) only confers standing on individual members of the consuming public. To the contrary, the Court has indicated that ‘limiting] the scope of section 349 to only consumers’ would be ‘in contravention of the statute’s plain language permitting recovery by any person injured “by reason of” any violation.’ ” (North State Autobahn at 15, quoting Blue Cross & Blue Shield of N.J. at 207; see also Gaidon at 344 [“the practices before us involved an extensive marketing scheme that had a broader impact on consumers at large” (internal quotation marks omitted)].)\nThus, “the right to bring a private action [is] not limited to those acting in a consumer role, but rather, it was provided to ‘any person who has been injured by reason of any violation of this section.’ ” (North State Autobahn at 19 [emphasis added].)\nAccordingly, plaintiffs’ allegations satisfy the first element of their claims under the statute that defendants’ conduct was consumer oriented.\nMaterially Misleading Conduct\nPlaintiffs have also alleged that such conduct was materially misleading. They have alleged that the program did not offer the opportunity to take the AWS national competency exam, as represented on the website and by defendants Shron and O’Connor. Defendants’ allegedly false representations that the program provided the chance to take an exam that was recognized nationally and could lead to AWS certification in plaintiffs’ field of endeavor is obviously material. Furthermore, defendants’ allegedly false representations that the program provided its students with an opportunity to visit facilities where they could observe welding and fabrication is also material to persons seeking to obtain employment in that field upon completion of the program.\nAccordingly, plaintiffs’ allegations satisfy the second element of their claims under the statute that defendants’ conduct was materially misleading.\nInjury to Plaintiffs\nWith regard to the third element of their claims, plaintiffs alleged that they suffered injury from defendants’ allegedly false advertising and deceptive conduct. Specifically, they state that “they were injured by being misled [into taking] a class which did not provide what they reasonably believed, on the basis of defendants’ representations, would be provided . . . [a]nd thereby, they lost time and opportunities, suffered diminution in employment prospects and psychological damages.” (Mem of law in opposition at 15.) Their prayer for relief seeks “compensatory damages, exemplary and punitive damages . . . the costs of this suit, including reasonable attorney’s fees and litigation expenses . . . and such other and further relief as the Court deems just and proper.” (Notice of motion to dismiss the complaint, exhibit A, verified complaint at 17.) Plaintiffs seek recovery of their “actual damages,” rather than the alternative remedy provided in the statute of “fifty dollars.” Therefore, plaintiffs must allege and prove “actual injury” to recover under General Business Law §§ 349 and 350, although not necessarily pecuniary harm. (Stutman v Chemical Bank, 95 NY2d 24, 29 [2000]; Oswego at 26; Smith v Chase Manhattan Bank, USA, 293 AD2d 598, 599 [2d Dept 2002].)\nDefendants contend that plaintiffs’ allegation that they would not have enrolled in the program if they had known defendants’ representations were false does not constitute “actual injury.” They rely on Small v Lorillard Tobacco Co. (94 NY2d 43, 56 [1999]), wherein the plaintiffs contended “that consumers who buy a product that they would not have purchased, absent a manufacturer’s deceptive commercial practices, have suffered an injury under General Business Law § 349.” The class action plaintiffs claimed that they would never have bought cigarettes if they had known that nicotine was addictive, but they did not claim that they were injured because they became addicted to nicotine. They sought to recover the money they spent buying the cigarettes. The Court of Appeals found the plaintiffs’ “definition of injury [to be] legally flawed . . . [because they did] not allege that the cost of cigarettes was affected by the alleged misrepresentation, nor [did] they seek recovery for injury to their health as a result of their ensuing addiction.” {Id. [citations omitted].) As a result of seeking recovery of only the purchase price of the cigarettes and foregoing “addiction as part of the injury claim, there [was] no connection between the misrepresentation and any harm from, or failure of, the product.” (Id.) The Court of Appeals stated that the alleged deception cannot be both act and injury. (Id.; cf. North State Autobahn at 13-14 [“the deception itself is the harm that the statute seeks to remedy”].) Nor, the Court of Appeals held, can the act of deception be entirely independent or separate from the alleged injury. (Small at 57.) There must be a causal connection between the act and the injury.\nPlaintiffs assert that they have alleged a sufficient causal connection between defendants’ deceptions and their injury, which is the lost “opportunity to obtain AWS certification as represented to them” and loss of “the educational experience appurtenant to . . . visits” to “local production facilities [which were promised to be] part of the curriculum . . . .” (Notice of motion to dismiss, exhibit A, complaint ¶¶ 71-72, 79-80.) Plaintiffs seek to recover compensatory damages for the lost opportunity to enroll in a course of study which they claim would have led them to obtain AWS or equivalent certification and improved their employment prospects.\nPlaintiffs’ allegations of lost or diminished employment opportunities, and any emotional distress occasioned thereby, do not constitute actual injury, because they are speculative. “Under New York law, ‘frustration and disappointed expectations do not of themselves give rise to a cognizable cause of action.’ ” (Gomez-Jimenez v New York Law School, 36 Misc 3d 230, 251-252 [Sup Ct, NY County 2012], affd 103 AD3d 13 [1st Dept 2012], Iv denied 20 NY3d 1093 [2013]; see also Rice v Penguin Putnam, 289 AD2d 318, 319 [2d Dept 2001] [the plaintiff and proposed class did not suffer legally cognizable injury based on their claim that they would not have purchased a certain novel had they known that following the author’s death, the novel was completed by another lesser known author]; Baron v Pfizer, Inc., 42 AD3d 627, 629 [3d Dept 2007] [finding the plaintiff’s claim that “off-label prescription of Neurontin was potentially dangerous . . . asserts a harm that is merely speculative”].)\nPlaintiffs’ claims are similar to the General Business Law claims that were disallowed in Gomez-Jimenez as being remote and speculative. The plaintiffs in Gomez-Jimenez, graduates of New York Law School (NYLS), sued NYLS based upon misleading information it provided about its graduates’ employment profiles. The plaintiffs alleged that the positive employment profiles caused them to decide to attend NYLS; however, after completing law school, they found themselves in disadvantaged employment positions. (36 Misc 3d at 233.) The court stated that the plaintiffs were “essentially asking the court to ‘accept ... as true’ their allegation that a NYLS degree [was] worth less than what NYLS allegedly represented it to be in its marketing materials” and measure their damages in terms of the difference in value. (Id. at 246 [citation omitted].) The court rejected the plaintiffs’ claims as speculative, stating that “[t]he starting point of any such measurement is beyond this court, and perhaps this is why plaintiffs fail to allege any method by which any theoretical damages ever could be calculated.” (Id. at 250; see also Mihalakis v Cabrini Med. Ctr. [CMC], 151 AD2d 345, 346 [1st Dept 1989] [rejecting the plaintiff’s fraud claim based on the hospital’s alleged misrepresentations about its internship program as speculative because any measurement of the value of the program would be speculative], Iv dismissed and denied 75 NY2d 790 [1990].)\nPlaintiffs’ claimed injuries are also speculative. They do not allege that they did not receive adequate training and education through the BOCES program. Instead, they are asking this court to determine that had they obtained AWS certification, their employment prospects would have been greatly enhanced. They do not allege, nor can they, that they would have passed, the national competency exam and received AWS certification, if it had been available, or that AWS certification would have guaranteed them employment as welders. This court would be required to value the employment plaintiffs could have obtained had they earned the AWS certification and practical experience defendants misrepresented to them that they would obtain from the program. That determination is clearly beyond the ability of this court to assess and would require it “to indulge in impermissible speculation to assume that had [plaintiffs] not entered [the] program [they] would have done better in another [program].” (Mihalakis at 346 [citation omitted].)\nAccordingly, plaintiffs’ General Business Law §§ 349 and 350 causes of action are dismissed for failure to allege an essential element of their claims that they suffered actual injury.\nFraud\nDefendants seek dismissal of plaintiffs’ fraud claim, which they concede is not barred by the policy against educational malpractice, claiming that plaintiffs cannot allege a pecuniary loss. A fraud claim requires: (1) a material misrepresentation or omission; (2) known to the defendant and made with the intent to deceive the plaintiff; (3) justifiable reliance by the plaintiff; and (4) damage to the plaintiff caused by the misrepresentation or omission. (See Eurycleia Partners, LP v Seward & Kissel, LLP, 12 NY3d 553, 559 [2009]; Introna v Huntington Learning Ctrs., Inc., 78 AD3d 896 [2d Dept 2010]; J.A.O. Acquisition Corp. v Stavitsky, 18 AD3d 389 [1st Dept 2005].)\nPlaintiffs invoke the doctrine of collateral estoppel, arguing that Justice Forman already decided in the related proceeding for leave to serve a late notice of claim that their fraud claim was viable. (Affirmation of Michael H. Sussman in opposition, exhibit 1, decision and order dated Apr. 4, 2014 [Hon. Peter M. Forman, AJSC].) Plaintiffs contend that both requirements for applying collateral estoppel are met: (1) the issue sought to be precluded by defendants is identical to the issue in the prior proceeding and (2) defendants had a full and fair opportunity to contest the issue in the prior proceeding. (Mem of law in opposition at 24, citing Jeffreys v Griffin, 1 NY3d 34, 39 [2003]; Ryan v New York Tel. Co., 62 NY2d 494, 500 [1984].)\nDefendants argue that collateral estoppel does not apply because the issues of whether plaintiffs’ fraud claim satisfied the particularity requirements of CPLR 3016 (b) or stated a cause of action under CPLR 3211 were not addressed by Justice Forman previously. Defendants continue, arguing that there was no complaint at the time and these CPLR provisions are not applicable to a notice of claim, which is governed by General Municipal Law § 50-e. Under General Municipal Law § 50-e,\n“[t]he key factors in determining whether leave to [serve] a late notice of claim should be granted are whether the [petitioner] has demonstrated a reasonable excuse for failing to serve a timely notice of claim, whether the municipality acquired actual knowledge of the essential facts constituting the claim within 90 days of its accrual (see, General Municipal Law § 50-e [1]) or a reasonable time thereafter, and whether the delay would substantially prejudice the municipality in maintaining its defense on the merits.” (Matter of Morrison v New York City Health & Hosps. Corp., 244 AD2d 487, 487 [2d Dept 1997] [internal quotation marks and citations omitted].)\nOrdinarily, the merits of the claims in the proposed notice of claim should not be delved into by a court determining whether to grant an application for leave to file a late notice of claim (see e.g. Matter of Fritsch v Westchester County Dept. ofTransp., 170 AD2d 602 [2d Dept 1991]), unless the petitioner’s claim is patently meritless. (Matter of Katz v Town of Bedford, 192 AD2d 707, 708 [2d Dept 1993]; see also Caldwell v 302 Convent Ave. Hous. Dev. Fund Corp., 272 AD2d 112, 114 [1st Dept 2000].) Thus, a party opposing a petition to file a late notice of claim may raise the defense that notwithstanding the petitioner’s ability to satisfy the requirements of General Municipal Law § 50-e, leave to serve should be denied because the petitioner’s claim lacks merit.\nDefendants raised that defense with regard to plaintiffs’ fraud claim in their motion to dismiss the petition by plaintiffs to late serve their notice of claim. In their motion to dismiss the petition to file a late notice of claim, defendants challenged plaintiffs’ pleading of the elements of their fraud claim. (Mem of law in opposition, exhibit 3, respondents’ mem of law in support of motion to dismiss at 12-13.) The same argument is made herein. Defendants also asserted in their prior motion that plaintiffs, then petitioners, did not allege that they had suffered damages. (Id. at 14.) Defendants again raise that contention here regarding the allegations of the fraud cause of action stated in the complaint. (Defendants’ reply mem at 23-24.) Justice Forman already considered these arguments and rejected them. Defendants are barred by the doctrine of collateral estoppel from reasserting those arguments. Accordingly, defendants’ motion to dismiss plaintiffs’ fraud claim is denied.\nSummary\nDefendants’ motion to dismiss the complaint is granted in part and denied in part.\nPlaintiffs’ cause of action for negligent misrepresentation is dismissed as barred by the State’s public policy against courts evaluating non-intentional acts of educators and school officials in the educational context. Plaintiffs’ causes of action under General Business Law §§ 349 and 350 are dismissed on the ground that plaintiffs failed to allege actual injury.\nDefendants’ motion to dismiss plaintiffs’ fraud cause of action is denied based upon the doctrine of collateral estoppel.\n. On August 12, 2015, the instant motion was reassigned from Hon. Peter M. Forman, AJSC to the undersigned for disposition.\n. Before determining the motion, the court would like to commend and thank all counsel for their scholarly and professional submissions.\n. The psychologist was unsure of his evaluation of plaintiff, because at that time\n“plaintiff suffered from a severe speech defect which had manifested itself long before [he] entered the school system. Plaintiff’s inability to communicate verbally made it difficult to assess his mental ability by means of the primarily verbal Stanford-Binet Intelligence Test administered by [the psychologist]. As a result, [the psychologist] recommended that plaintiff’s intelligence ‘be re-evaluated within a two-year period so that a more accurate estimation of his abilities [could] be made.’ ”\nCHoffman at 124.)\nAlthough the plaintiff was monitored and given academic “achievement tests” twice a year, he was not reevaluated based upon a test specifically designed to determine intelligence. (Id.)\n. The Court reasoned, citing various provisions of the Education Law, that “the Legislature may in the public interest impose certain requirements upon the operation of private institutions.” (Paladino at 90; e.g. Education Law §§ 3204 [2]; former 5003 [establishing educational quality in private schools]; Education Law §§ 5001, former 5003 [2] [licensing of private schools]; Education Law former § 5003 [1] [regulating standards and the methods of instruction].) Therefore, the Court concluded that “[d]espite the absence of a constitutional or [specific] statutory predicate, the reluctance on the part of the judicial branch to interfere with the educational policies adopted for public schools should be equally applicable to private institutions.” (Id. at 91.)\n. Certain of the plaintiffs, whose education through the program was paid for by their school district, could not maintain a breach of contract cause of action. Only plaintiff Schlessman, who paid $4,505 to enroll in the program, could maintain a contract cause of action. However, none of the plaintiffs has alleged such a claim.\n. “(h) In addition to the right of action granted to the attorney general pursuant to this section, any person who has been injured by reason of any violation of this section may bring an action in his own name to enjoin such unlawful act or practice, an action to recover his actual damages or fifty dollars, whichever is greater, or both such actions. The court may, in its discretion, increase the award of damages to an amount not to exceed three times the actual damages up to one thousand dollars, if the court finds the defendant willfully or knowingly violated this section. The court may award reasonable attorney’s fees to a prevailing plaintiff.” (General Business Law § 349.)\n. The assurance of discontinuance states that although defendant BOCES agrees not to make any public statement denying the Attorney General’s findings, it retains the “right to take legal or factual positions in defense of litigation or other legal proceedings to which the Attorney General is not a party.” (Notice of motion to dismiss, exhibit A, assurance of discontinuance ¶ B [attached to complaint].)\n. The City claimed that it was injured by the defendants’ Internet sales of cigarettes, which they advertised as “tax free,” to city residents, who were required to pay excise taxes on cigarettes purchased for use in the City. The Court of Appeals determined that the City’s injuries were in some sense caused by the defendants’ conduct, but the Court held that more than a “but for” cause was required to state a claim under section 349 (h). (City of New York v Smokes-Spirits.Com at 623.)\n. The Court of Appeals held that the plaintiff insurer could not proceed with its General Business Law cause of action against Philip Morris to recover the amounts the insurer had paid on claims made by its insureds for smoking-related illnesses. (Blue Cross & Blue Shield at 206-207.)\n. Plaintiffs are not required to allege reliance as an element of their General Business Law causes of action. (Stutman v Chemical Bank, 95 NY2d 24, 29 [2000].) “The plaintiff, however, must show that the defendant’s ‘material deceptive act’ caused the injury.” (Id. at 29, citing Oswego at 26.) “Reliance and causation are twin concepts, but they are not identical.” (Id. at 30.)\n. Section 349 (h) states that “any person who has been injured by reason of any violation of this section may bring an action in his own name to enjoin such unlawful act or practice, an action to recover his actual damages or fifty dollars, whichever is greater, or both such actions.”\n. The court acknowledges that a plaintiff is not required to show that they were injured in a specific dollar amount. (North State Autobahn at 14.)",
+        "type": "majority",
+        "author": "Paul I. Marx, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Shaw, Perelson, May & Lambert, LLP, Poughkeepsie (Mark C. Rushfield of counsel), for defendants.",
+      "Sussman & Watkins, Goshen (Michael H. Sussman of counsel), for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[25 NYS3d 527]\nIn the Matter of James Harris et al., Plaintiffs, v Dutchess County Board of Cooperative Educational Services et al., Defendants.\nSupreme Court, Dutchess County,\nNovember 4, 2015\nAPPEARANCES OF COUNSEL\nShaw, Perelson, May & Lambert, LLP, Poughkeepsie (Mark C. Rushfield of counsel), for defendants.\nSussman & Watkins, Goshen (Michael H. Sussman of counsel), for plaintiffs."
+  },
+  "file_name": "2102-01",
+  "first_page_order": 774,
+  "last_page_order": 798
+}

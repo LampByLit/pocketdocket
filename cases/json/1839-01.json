@@ -1,0 +1,107 @@
+{
+  "id": 4317784,
+  "name": "The People of the State of New York, Plaintiff, v. Abdullah Mohammed, Defendant",
+  "name_abbreviation": "People v. Mohammed",
+  "decision_date": "2015-04-16",
+  "docket_number": "",
+  "first_page": "415",
+  "last_page": "418",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 415"
+    },
+    {
+      "type": "parallel",
+      "cite": "6 N.Y.S.3d 460"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "232 AD2d 111",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1175945
+      ],
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/232/0111-01"
+      ]
+    },
+    {
+      "cite": "569 US -, 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 NY2d 288",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4385188
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/56/0288-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 335,
+    "char_count": 5280,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 6.950781921278023e-8,
+      "percentile": 0.4213353751512154
+    },
+    "sha256": "1b0dd7f8e80034cbcd899c4b19989abaa7092b08e8b032086259e3e97a1b22ae",
+    "simhash": "1:eaec620abbfb0ca1",
+    "word_count": 871
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Abdullah Mohammed, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nSteven L. Barrett, J.\nThe People’s motion for an order directing the collection of a saliva sample from defendant is granted and defendant’s motion for a protective order is denied. Based on an affirmation of Assistant District Attorney Jennifer Menna dated January 5, 2015, and a supplemental affirmation of ADA Menna dated March 23, 2015, this court finds that the People’s motion is not untimely and that there exists: (1) probable cause to believe defendant has committed a crime; (2) a clear indication that relevant evidence will be found by taking a DNA sample from defendant; (3) no alternative, less intrusive means of obtaining such evidence; and (4) that taking an oral swab is a safe and reliable method to secure a DNA sample from defendant. (See Matter of Abe A., 56 NY2d 288 [1982].)\nSpecifically, with respect to probable cause, the court notes that it has reviewed the evidence presented to the grand jury and it has determined that the evidence established sufficiently the offenses charged. Moreover, the People also have established that relevant and material evidence will be found as a result of taking defendant’s saliva sample for DNA testing. This is true notwithstanding the fact that defendant’s DNA profile is already contained in the New York State DNA Databank and that the People already possess evidence that the DNA profile developed from crime scene evidence recovered in this case matches the DNA profile of defendant that is contained in the New York State DNA Databank. This is so because the New York City Office of the Chief Medical Examiner (OCME), the agency that maintains the local DNA database, does not have authority to download or otherwise access those DNA profiles maintained in the state or federal DNA databanks. Thus, in order for a criminalist employed by the OCME to render an informed scientific opinion at a trial of this case, she would need a saliva sample from defendant in order to develop his DNA profile and directly compare it to the DNA profile generated from the crime scene evidence. The court, therefore, is satisfied that relevant and material evidence will be found by taking defendant’s saliva sample.\nIn addition, the court finds that neither a statutory nor a constitutional basis exists to grant the protective order sought by defendant insofar as it seeks to limit the use of his DNA profile solely to the comparison of the recovered DNA samples and to prevent OCME from uploading defendant’s DNA profile into the local OCME DNA database for comparison to DNA profiles derived from crime scene evidence pertaining to unsolved cases contained in OCME’s DNA database. As this court has previously held, Executive Law § 995 et seg., only applies to the New York State DNA Databank and does not apply to the OCME local databank. (See People v Hall, Sup Ct, Bronx County, Barrett, J., index No. 1884/12.) Thus, the Executive Law does not prohibit uploading a defendant’s DNA sample into the local OCME DNA database for comparison to DNA profiles in that database. (See also People v Kroutcher, Sup Ct, Bronx County 2013, Carter, J., index No. 3117/2012; People v Boyd, Sup Ct, Kings County 2011, Walsh, J., index No. 2999/ 2010; People v Cleare, NY County 2012, Obus, J., index No. 3605/11.) Contrary to defendant’s contention, the confidentiality section, Executive Law § 995-d, which prohibits disclosure of DNA records without consent, is not applicable to the local OCME database. (See People v Franco, Sup Ct, Bronx County 2014, Mogulescu, J., index No. 3760.13.)\nEqually unavailing is any claim defendant may have that uploading defendant’s DNA profile into the local OCME database in order to compare it to DNA profiles from crime scenes of unsolved crimes in the absence of probable cause is violative of the Fourth Amendment. Indeed, the United States Supreme Court recently held that a Maryland statute that authorized the collection and uploading of DNA profiles into the Maryland DNA databank from those arrested for felonies involving violence did not violate the Fourth Amendment. (Maryland v King, 569 US —, 133 S Ct 1958 [2013].) Moreover, as many of my brethren have concluded in the myriad of trial court decisions appended to the People’s supplemental motion, once a person’s DNA sample has been obtained lawfully, he or she can no longer assert either privacy claims or unreasonable search and seizure arguments with respect to the use of that sample. (See People v King, 232 AD2d 111, 117 [2d Dept 1997].) Thus, here, where defendant has been indicted and all of the requirements set forth in Matter of Abe A. have been satisfied with respect to the taking of defendant’s saliva sample, defendant no longer has a cognizable constitutional claim with respect to the uploading and maintenance of his DNA sample in OCME’s database.\nAccordingly, the People’s motion for an order for a saliva sample is granted and defendant’s motion for a protective order is denied.",
+        "type": "majority",
+        "author": "Steven L. Barrett, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Robert T Johnson, District Attorney (Jennifer Menna of counsel), for plaintiff.",
+      "Legal Aid Society (L. Antonia Codling of counsel) for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[6 NYS3d 460]\nThe People of the State of New York, Plaintiff, v Abdullah Mohammed, Defendant.\nSupreme Court, Bronx County,\nApril 16, 2015\nAPPEARANCES OF COUNSEL\nRobert T Johnson, District Attorney (Jennifer Menna of counsel), for plaintiff.\nLegal Aid Society (L. Antonia Codling of counsel) for defendant."
+  },
+  "file_name": "1839-01",
+  "first_page_order": 413,
+  "last_page_order": 416
+}

@@ -1,0 +1,566 @@
+{
+  "id": 12434406,
+  "name": "In the Matter of Long Island Pine Barrens Society, Inc., et al., Plaintiffs, v. Suffolk County Legislature et al., Defendants",
+  "name_abbreviation": "Long Island Pine Barrens Society, Inc. v. Suffolk County Legislature",
+  "decision_date": "2016-09-28",
+  "docket_number": "",
+  "first_page": "851",
+  "last_page": "866",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 851"
+    },
+    {
+      "type": "parallel",
+      "cite": "39 N.Y.S.3d 710"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "217 App Div 624",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4796347
+      ],
+      "pin_cites": [
+        {
+          "page": "629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/217/0624-01"
+      ]
+    },
+    {
+      "cite": "229 NY 248",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        90817
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/229/0248-01"
+      ]
+    },
+    {
+      "cite": "96 F Supp 2d 195",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11512827
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/96/0195-01"
+      ]
+    },
+    {
+      "cite": "15 NY2d 34",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271458
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0034-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 470",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4097150
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0470-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 212",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734393
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0212-01"
+      ]
+    },
+    {
+      "cite": "49 AD3d 764",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3767613
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/49/0764-01"
+      ]
+    },
+    {
+      "cite": "136 App Div 400",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2533500
+      ],
+      "pin_cites": [
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/136/0400-01"
+      ]
+    },
+    {
+      "cite": "289 AD2d 534",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        394331
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/289/0534-01"
+      ]
+    },
+    {
+      "cite": "30 NY2d 48",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2303990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/30/0048-01"
+      ]
+    },
+    {
+      "cite": "130 AD3d 930",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4303901,
+        4312751
+      ],
+      "pin_cites": [
+        {
+          "page": "932"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0930-02",
+        "/ad3d/130/0930-01"
+      ]
+    },
+    {
+      "cite": "230 AD2d 774",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        316174,
+        315711
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/230/0774-02",
+        "/ad2d/230/0774-01"
+      ]
+    },
+    {
+      "cite": "290 AD2d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        98316
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/290/0001-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 623",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189159
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0623-01"
+      ]
+    },
+    {
+      "cite": "9 Misc 3d 563",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        992762
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/9/0563-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 688",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4313633
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0688-01"
+      ]
+    },
+    {
+      "cite": "72 NY2d 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4408936
+      ],
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/72/0363-01"
+      ]
+    },
+    {
+      "cite": "1 AD3d 480",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 NY2d 89",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        165814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/90/0089-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 41",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4438068
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0041-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 587",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323895
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0587-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 92",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4413960
+      ],
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0092-01"
+      ]
+    },
+    {
+      "cite": "134 AD3d 1369",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368294
+      ],
+      "pin_cites": [
+        {
+          "page": "1372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/134/1369-01"
+      ]
+    },
+    {
+      "cite": "223 AD2d 44",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        673120
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/223/0044-01"
+      ]
+    },
+    {
+      "cite": "28 NY2d 80",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2298993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/28/0080-01"
+      ]
+    },
+    {
+      "cite": "106 AD3d 1076",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3719045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/106/1076-01"
+      ]
+    },
+    {
+      "cite": "108 AD3d 756",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/108/0756-01"
+      ]
+    },
+    {
+      "cite": "54 AD3d 286",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3798634
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/54/0286-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 1020",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3992003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/1020-01"
+      ]
+    },
+    {
+      "cite": "86 AD3d 588",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4026449
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/86/0588-01"
+      ]
+    },
+    {
+      "cite": "131 AD3d 1128",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4338407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/131/1128-01"
+      ]
+    },
+    {
+      "cite": "121 AD3d 960",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4296881,
+        4294870
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/121/0960-01",
+        "/ad3d/121/0960-02"
+      ]
+    },
+    {
+      "cite": "123 AD3d 787",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4333043,
+        4340879
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/0787-01",
+        "/ad3d/123/0787-02"
+      ]
+    },
+    {
+      "cite": "130 AD3d 769",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4303107,
+        4310175
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0769-01",
+        "/ad3d/130/0769-02"
+      ]
+    },
+    {
+      "cite": "16 NY3d 74",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3746494
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0074-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 201",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3702565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0201-01"
+      ]
+    },
+    {
+      "cite": "107 AD3d 850",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3729386
+      ],
+      "pin_cites": [
+        {
+          "page": "851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/0850-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1197,
+    "char_count": 33431,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25630181527957807
+    },
+    "sha256": "b8d8a952ba2f3c6694041d6be45c97b376aec927907528214ec01a2f18f54737",
+    "simhash": "1:eededd18aab3ec84",
+    "word_count": 5378
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Long Island Pine Barrens Society, Inc., et al., Plaintiffs, v Suffolk County Legislature et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nThomas F. Whelan, J.\nIt is ordered that those portions of this motion (No. 005) by the plaintiffs for an order dismissing the affirmative defenses asserted in the amended answer of the County defendants and for summary judgment on its supplemental and amended complaint is granted to the extent set forth below while the remaining portions of the plaintiffs’ motion wherein they seek dismissal of the amended answer served by the County defendants pursuant to CPLR 3126 or for an order compelling further responses is denied; and it is further ordered that the County defendants’ cross motion (No. 006) to dismiss the plaintiffs’ amended complaint is granted to the extent set forth herein; and it is further ordered that the court hereby declares that Local Law Nos. 52-2010 and 44-2013 of the County of Suffolk, adopted by the Suffolk County Legislature and codified as chapter 8 of the Suffolk County Code, are null and void and of no further effect and the defendants are hereby permanently enjoined from granting permits and hardship exemptions to the landowners of future property development rights (PDR) properties or undertaking any future action pursuant to those amendments.\nAt issue in this declaratory judgment/permanent injunction action is the validity of two local laws adopted in 2010 and 2013 by the County Legislature which amended various provisions of chapter 8 of the Suffolk County Code entitled “Development Rights to Agricultural Land.” Chapter 8 of the 1985 Suffolk County Code codified the County of Suffolk’s previously granted authority under a series of local laws, first enacted in 1974, to purchase the development rights portions of agricultural lands in fee from the owners of such lands. In exchange for the County’s purchase of these future development rights, known as “PDRs,” the sellers conveyed to the County the development rights attached to their premises and agreed to restrict the use of their premises to agricultural production or open space by covenanting the County’s right to prohibit or restrict any use of the premises for any purpose other than agricultural production. A portion of the sales tax revenues collected by the County serves as one source of the taxpayer funds expended by the County for its purchase of any PDRs under the terms of each PDR purchase agreement and conveyance.\nFollowing the 1985 codification of Local Law No. 16-1981 as chapter 8 of the Suffolk County Code (hereinafter SCC chapter 8), the provisions thereof were amended in 1992, 1997, 1999, 2010 and 2013. The 2010 amendment enacted by Local Law No. 52-2010 precipitated the commencement of this action, during the pendency of which Local Law No. 44-2013 was adopted and added further amendments to SCC chapter 8. Each of these local laws are challenged by the plaintiffs in five separately dedicated causes of action set forth in their supplemental and amended complaints.\nIn the first and second causes of action, the targeted local laws are challenged as violative of article VIII, § 1 of the New York State Constitution, which prohibits gifts, loans or credit by local political subdivision to persons, entities or causes except as provided therein, and article IX, § 2 (c) of the Constitution which prohibits the adoption of local laws that are inconsistent with any of its provisions. The third and fourth causes of action contain claims that the subject local laws violate the expressed legislative intent of section 247 of the General Municipal Law, while the fifth and sixth causes of action challenge the subject local laws as violative of the public trust doctrine. In the seventh and eighth causes of action, the plaintiffs contend that the targeted local laws are inconsistent with prior versions of the Development Rights Program Law which required voter approval by referendum of any proposed local law that effects an alienation of the County’s purchased development rights. The last two causes of action set forth in the supplemental amended complaint challenge the subject local law as violative of the plaintiffs substantive and procedural due process rights. The plaintiffs thus demand a judgment declaring and setting aside the subject amendments and permanent injunctive relief with respect to further action thereunder.\nThe focus of the plaintiffs’ claims is that the challenged local law amendments of 2010 and 2013 empower the County, through its codefendant, Suffolk County Farmland Committee, to “give back” the County’s previously acquired PDRs. This “give back,” or alienation of PDR rights, is allegedly accomplished by the newly added provisions contained in the local law challenged herein, which allows development of PDR properties by the owners of such properties or their lessees in accordance with permit and hardship exemption processes. These processes were the focus of the 2010 amendments and were expanded upon in the 2013 amendments. All versions of SCC chapter 8 prior to 2010 expressly prohibited the alienation in any manner, of PDRs, except upon the adoption of a local law adopted and approved by a “mandatory” referendum of the electorate. This provision was changed by the first challenged Local Law No. 52-2010 (SCC § 8-6), wherein it was provided that all development rights acquired by the County are inalienable except as provided in the Code. SCC § 8-6 now states, in relevant part, as follows: “Unless authorized by local law recommended by the Committee and approved upon mandatory referendum, development rights acquired by the County to agricultural lands shall not be alienated in any manner, except where provided herein.” (Emphasis added.)\nPrior to 1992, SCC chapter 8 defined the term “Development Right” as follows:\n“As authorized by § 247 of the New York State General Municipal Law, as amended, shall be the permanent legal interest and right to permit, require, to restrict the use of the premises exclusively for agricultural production as that term is presently defined in Section 301 of the NYS Agricultural and Markets Law and the right to prohibit and restrict the use of the premises for any other purposes other than agricultural production” (see SCC § 8 [1981]).\nIn 1992, Local Law 12-1992 expanded the last phrase of the definition “Development Right” to read, in relevant part, as follows: “and the permanent legal right to limit, prohibit and restrict its future development for any other purposes other than agricultural production and operation of a farm stand” (see SCC § 8-2, development right as amended in 1992). Operation of any such farm stand required issuance of a permit therefor by the Farmland Committee. It thus appears from the record before the court, that the permit process was first created by the 1992 amendments, but only with respect to farm stands, and that the Farmland Committee’s powers included the authority to issue such permits to PDR landowners.\nPursuant to the 2010 amendments, SCC § 8-6, numerous new agricultural development permits, special use permits and hardship exemptions were made available to those owning or occupying agricultural lands within the PDR program. Pursuant to these permit and exemption processes, the owners of such lands or their lessees were allowed to expand permitted agricultural uses by the erection or construction of new or additional structures and the installation of amusements and attractions (see Local Law No. 52-2010; SCC ch 8 at §§ 8-8, 8-9, 8-10). Lot coverage limitation and other restrictions are governed by section 8-10 (A) and (B), although relief therefrom is available if a hardship waiver is granted under section 8-10 (C) of the subject resolution. In no event, however, may the lot coverage of any parcel within the program exceed 25% of the lot area. The power to hear, grant and deny such permits and hardship exemptions was vested in the Farmland Committee or its successor. The Committee is comprised of 19 members appointed by the county executive upon approval of the legislature and one from each of the 10 towns in Suffolk County. These permit and hardship exemption processes are alleged to have been intensified and expanded by the second local law challenged herein, namely, Local Law No. 44-2013 which is now codified as SCC chapter 8.\nAccording to the plaintiffs, the sum and substance of the 2010 and 2013 local law amendments is to permit the installation of structures in the form of greenhouses, barns, utilities and alternative energy systems and construction of new or the expansion of existing farm stands, to landowners of agricultural lands, who by contract and conveyance, relinquished their rights to develop their land in such manner in favor of the County. Such development is said to be impermissible under the limited agricultural production use allowed by state and local laws for PDRs and the allowance of such development by the Farmland Committee, alone, effectively destroys the efficacy of the PDRs purchased by the County with taxpayers’ money for the benefit of Suffolk County residents.\nSpecifically, the plaintiffs contend that the permit and hardship exemptions are illegal and otherwise improper for several reasons. First, it is argued that the development rights previously conveyed to the County for the benefit of its citizenry are impaired whenever permits or hardship exemptions are granted. According to the plaintiffs, the grant of any such permit or exemption effects an “alienation,” defined in the code as a “transfer,” of the previously purchased development rights by the County in contravention of the letter, spirit and intent of the prior legislation allowing PDRs, which was approved upon referendum by the people of Suffolk County. Such a transfer or “alienation” violates the pre-amendment Code provisions which unconditionally precluded any such transfer or alienation without approval by “mandatory referendum.” The ability of PDR property owners or lessees to obtain from the Farmland Committee alone, a permit or hardship exemption that authorizes the development of PDR property is thus characterized as a secretive circumvention of the voter referendum approval requirements contained in chapter 8 of the Code prior to the adoption of the challenged amendments.\nSecond, the plaintiffs claim that the adoption of the amendments containing the permit and hardship procedures are inconsistent with the stated legislative objectives of the PDR program and of the enabling statute at section 247 of the General Municipal Law, as the amendments neither foster nor bestow a public benefit, but instead, confer economic and use benefits upon the owners in fee of agricultural properties who were paid good and valuable consideration for their conveyance of future development rights to the County. The plaintiffs allege that this circumstance and others apparent from the record are evidence that the amendments were politically motivated and are thus irrational. Third, the bestowal of such benefits upon the PDR landowners is alleged to be inconsistent with various local laws aimed at conservation and preservation and purportedly defeats the public’s authority to approve or disapprove, by public referendum, the alienation of purchased development rights that was conferred under pre-amendment versions of the original PDR program. The plaintiffs further claim that the vesting of sole authority to grant permits and hardship exemptions in the Farmland Committee is likewise improper and constitutes an improper delegation of legislative authority.\nBy the instant motion, the plaintiffs move to strike the supplemental and amended answer of the defendants pursuant to CPLR 3126 by reason of the defendants’ failure to serve responses to certain discovery demands as directed in an order of this court dated July 8, 2013. In addition, the plaintiffs move, in effect, for an order awarding them summary judgment dismissing the affirmative defenses asserted in that answer and for summary judgment on the claims interposed in the plaintiffs’ supplemental and amended complaint. The defendants oppose in cross-moving papers wherein they seek summary judgment dismissing the supplemental and amended complaint. For the reasons stated, the motion and cross motion are granted to the extent set forth below.\nFirst considered are those portions of the plaintiffs’ motion in which they seek dismissal of the defendants’ supplemental and amended answer due to their failure to furnish responses to outstanding discovery demands which the court previously determined ought to have been provided. It is well established that the failure to comply with court ordered deadlines and to provide good faith responses to discovery demands “impairs the efficient functioning of the courts and the adjudication of claims” (H.R. Prince, Inc. v Elite Envtl. Sys., Inc., 107 AD3d 850, 851 [2d Dept 2013], quoting Arpino v F.J.F. & Sons Elec. Co., Inc., 102 AD3d 201 [2d Dept 2012], quoting Gibbs v St. Barnabas Hosp., 16 NY3d 74, 81 [2010]). Remedies for the failure to comply with court ordered discovery deadlines are provided in CPLR 3124 and 3126. These rules provide, respectively, for the issuance of orders directing the recalcitrant parties to comply with any and all requests, notices or demands and/or for the imposition of sanctions such as orders of preclusion or dismissal of the pleadings served by the party in default.\nHere, the court agrees that the defendants’ failure to furnish the responses that were the subject of the court’s prior directives—until the attachment of such responses as an exhibit to the defendants’ cross-moving papers—suggests a willful and contumacious failure to comply with discovery directives. However, dismissal of the answer is precluded due to the plaintiffs’ failure to earlier move for sanctions rather than as part of their instant motion for summary judgment (see CPLR 3214 [b]), and the plaintiffs’ failure to supply the court with an affidavit of good faith as required by 22 NYCRR 202.7 (see Congregation Beth Shalom of Kingsbay v Yaakov, 130 AD3d 769 [2d Dept 2015]; Ponce v Miao Ling Liu, 123 AD3d 787 [2d Dept 2014]; Perez v Stonehill, 121 AD3d 960 [2d Dept 2014]; see also Krause v Lobacz, 131 AD3d 1128 [2d Dept 2015]). Even if it were otherwise, it has been held that substantial compliance, even where tardy, militates against a finding of a willful and contumacious default in responding to outstanding discovery demands (see Delarosa v Besser Co., 86 AD3d 588 [2d Dept 2011]; LOP Dev., LLC v ZHL Group, Inc., 78 AD3d 1020 [2d Dept 2010]; Arts4All, Ltd. v Hancock, 54 AD3d 286 [1st Dept 2008]). Those portions of the plaintiffs’ motion wherein they seek dismissal of the defendants’ answer pursuant to CPLR 3126 are thus denied. Also denied are the plaintiffs’ alternative demands to compel service of the outstanding disclosure responses, as these demands are now academic.\nNext considered are those portions of the plaintiffs’ motion wherein they seek dismissal of the affirmative defenses asserted in the amended answer of the defendants. A review of the moving papers reveals that the plaintiffs therein established, prima facie, that none of the four affirmative defenses asserted in the amended answer of the defendants, namely, a lack of standing, statute of limitations, failure to state a claim nor legislative power, have merit. It was thus incumbent upon the defendants to raise a genuine question of fact regarding the bona tides of their pleaded affirmative defenses. In this regard, the court notes that, in none of the defendants’ submissions were their pleaded affirmative defenses advanced, as grounds for a denial of the plaintiffs’ motion or in support of the defendants’ cross motion for summary judgment to dismiss. Instead, the defendants chose to attack the merits of the plaintiffs’ claims for relief, directly, or on the basis of defenses not contained in their amended answer, such as no justiciable controversy and the like. Under these circumstances, the court finds that the pleaded affirmative defenses lack merit and/or were abandoned and waived (see New York Commercial Bank v J. Realty F Rockaway, Ltd., 108 AD3d 756 [2d Dept 2013]; Starkman v City of Long Beach, 106 AD3d 1076 [2d Dept 2013]). Accordingly, those portions of the plaintiffs’ motion wherein they seek dismissal of the affirmative defenses asserted in the answer of the defendants are granted.\nLeft for determination are the competing applications for summary judgment on the supplemental and amended complaint, as demanded by the plaintiffs, or for its dismissal due to its lack of merit as demanded by the defendants. For the reasons stated, the plaintiffs’ motion is granted only to the extent set forth below, as is the defendants’ cross motion.\nThe plaintiffs’ first and second causes of action, in which they contend that the amendments violate the Gift and Loan Clause of the New York State Constitution set forth in article VIII, § 1 and, perforce, article IX, § 2 (c) of said Constitution, which prohibits the adoption of local laws that are inconsistent with any of its provisions, are rejected as lacking in merit. This particular Gift and Loan Clause generally prohibits political subdivisions of the State from giving or lending any money or property to, or in aid of, any individual, private corporation or association, or private undertaking. A similar Gift and Loan Clause prohibiting the State from acting in the same manner is contained in article VII, § 8 of the Constitution. Where money is expended in furtherance of a public purpose, it will not be invalidated under this Clause even where an incidental benefit is bestowed upon a private person or entity (see Murphy v Erie County, 28 NY2d 80 [1971]; Imburgia v City of New Rochelle, 223 AD2d 44 [3d Dept 1996]). In addition, it has been held that “if the underlying decision involves the exercise of discretion, the decision itself is not actionable—regardless of the motivation behind it” (Schulz v Silver, 134 AD3d 1369, 1372 [3d Dept 2015]).\nHere, the challenged amendments did not involve the gifting or lending of monies. While there is no question that development rights, standing alone, are valuable components of the “bundle of rights” associated with fee ownership and constitute both a valuable and transferable commodity (see Seawall Assoc. v City of New York, 74 NY2d 92, 109 [1989]; Fred F. French Inv. Co. v City of New York, 39 NY2d 587 [1976]), that which the County gave in the challenged amendments was the opportunity to apply for agricultural development permits, special use permits and hardship exemptions. Since the grant or denial of the requested permits or exemptions are discretionary in nature, the court finds that the possible expansion of the landowners’ rights to use and develop PDR properties does not constitute an impermissible gift of public funds within the contemplation of the Gift and Loan Clause. The defendants are thus awarded summary judgment dismissing the first and second causes of action set forth in the supplemental and amended complaint.\nThe court also finds the plaintiffs’ ninth and tenth causes of action to be without merit. It is therein alleged that the challenged amendments constitute a violation of the substantive due process rights of the plaintiffs under the State and Federal Constitutions. The plaintiffs contend that said amendments are unreasonable and irrational inasmuch as they are unrelated to any legitimate public purpose. The court, however, finds otherwise.\nAs the court stated in its prior order, SCC chapter 8 and the challenged amendments are akin to zoning ordinances and amendments thereto. As such, they are to be measured, for due process purposes, by the police power reasonableness test, as an exercise of the police power to regulate private property which is unreasonable constitutes a deprivation of private property (see Town of Orangetown v Magee, 88 NY2d 41 [1996]; Fred F. French Inv. Co. v City of New York, 39 NY2d 587 [1976]). In addition, a party alleging a deprivation of property must demonstrate the existence of a protectable property interest which has been held not to arise in benefits that are wholly discretionary (see Matter of Daxor Corp. v State of N.Y. Dept. of Health, 90 NY2d 89 [1997]; Huntington Yacht Club v Incorporated Vil. of Huntington Bay, 1 AD3d 480 [2d Dept 2003]). Here, the plaintiffs’ submissions failed to address, let alone establish, that their PDR interests qualify as constitutionally protected property rights for purposes of substantive due process analysis and that the challenged amendments constitute an unreasonable exercise of the County’s police power which deprived the plaintiffs of their PDR interests in violation of the Due Process Clauses. Accordingly, the defendants are awarded summary judgment dismissing the ninth and tenth causes of action advanced in the supplemental and amended complaint.\nNext considered are the plaintiffs’ third, fourth, fifth and sixth causes of action, wherein they seek a nullification of the challenged amendments and to enjoin future diminishment or diversion of the PDRs, pursuant to General Municipal Law § 51 and as violative of the public trust doctrine. In their third and fourth causes of action, the plaintiffs claim that the amendments are violative of General Municipal Law § 247, the purpose of which is the preservation of open spaces and areas by the public’s acquisition of legal rights in interests in such spaces by purchase, with taxpayers’ dollars or other means, so that the public’s use and enjoyment of such spaces in their open and natural states and conditions will remain undisturbed. A viable claim for declaratory and injunctive relief may be pursued under General Municipal Law § 51 if premised upon allegations that the challenged act constituted a waste of or injury to public funds or, alternatively, that the challenged act was both illegal and “imperil [ed] the public interests or [was] calculated to work public injury or produce some public mischief” (Matter of Korn v Gulotta, 72 NY2d 363, 372 [1988]; see Long Is. Pine Barrens Socy., Inc. v County of Suffolk, 122 AD3d 688 [2d Dept 2014]).\nThe plaintiffs further contend in causes numbered fifth and sixth, that the challenged amendments violate the public trust doctrine. Derived first from Roman law and then from the law of England, this common-law doctrine restricts the conveyance or alienation of lands in which the public has rights of use or access such as the foreshore, submerged lands, tidal lands and navigable waterways (see Landmark West! v City of New York, 9 Misc 3d 563 [Sup Ct, NY County 2005]). It was expanded by our courts to restrict dedicated park areas in New York by prohibiting the alienation of parkland by the state and its political subdivisions without express, state legislative approval (see Friends of Van Cortlandt Park v City of New York, 95 NY2d 623 [2001]; Matter of Angiolillo v Town of Greenburgh, 290 AD2d 1 [2d Dept 2001]; Johnson v Town of Brookhaven, 230 AD2d 774 [2d Dept 1996]).\nUnder the more expansive public trust doctrine now recognized by our courts, “a municipality, without specific legislative sanction, may not permit property acquired or held by it for public use to be wholly or partly diverted to a possession or use exclusively private” (Rappaport v Village of Saltaire, 130 AD3d 930, 932 [2d Dept 2015], quoting Matter of Lake George Steamboat Co. v Blais, 30 NY2d 48 [1972]; Kenny v Board of Trustees of Inc. Vil. of Garden City, 289 AD2d 534 [2001]; People ex rel. Swan v Doxsee, 136 App Div 400, 405 [1910]; see also Matter of 10 E. Realty, LLC v Incorporated Vil. of Val. Stream, 49 AD3d 764 [2d Dept 2008], revd on other grounds 12 NY3d 212 [2009]). Nevertheless, state legislative approval is required only when there is a substantial intrusion onto dedicated parkland for non-park purposes, and the substantiality of the intrusion is not measured by the presence or absence of an outright conveyance of title (see Friends of Van Cortlandt Park v City of New York, 95 NY2d 623 [2001]; Matter of Friends of Petrosino Sq. v Sadik-Khan, 126 AD3d 470 [1st Dept 2015]). While a diversion of parklands for non-park purposes will be held to violate the public trust doctrine whenever no park or related public purpose can be found in the diverted use and such use limits the public’s use and enjoyment of the land as parkland or a portion of it (see id.', Miller v City of New York, 15 NY2d 34 [1964]; Matter of 10 E. Realty, LLC v Incorporated Vil. of Val. Stream, 49 AD3d 764 [2008]; see also United States v City of New York, 96 F Supp 2d 195 [ED NY 2000]; cf. Williams v Gallatin, 229 NY 248 [1920]), the incidental use of parkland for a nonpublic use—to the extent it contributes to or facilitates the use and the public’s enjoyment of the park—does not violate the public trust doctrine (see Matter of Friends of Petrosino Sq. v Sadik-Khan, 126 AD3d 470 [2015]; Blank v Browne, 217 App Div 624, 629 [2d Dept 1926] [use of a portion of parkland for parking cars an appropriate incidental use]).\nAs the party asserting the public trust doctrine, it was incumbent upon the plaintiffs to establish its applicability to the 2010 and 2013 local law amendments to SCC chapter 8 and that a violation of the doctrine occurred (see Matter of Angiolillo v Town of Greenburgh, 290 AD2d 1 [2001]). The doctrine is not inapplicable because SCC § 8-3 (1) specifies that park-lands, as opposed to agricultural lands, are not subject to its provisions. As indicated above, the public trust doctrine applies whenever land is acquired or held by a municipality for a public purpose. Accordingly, the court finds that such doctrine is an applicable measure of the validity of the amendments challenged by the plaintiffs in this action.\nWith respect to the claimed violation of the public trust doctrine and the waste claims under General Municipal Law § 51 due to the diminishment or diversion of the PDRs, the court notes that it is undisputed that the 2010 and 2013 amendments vastly expanded the permit and hardship exemption processes providing for the construction and/or installation of structures, now defined as farm stands, greenhouses, processing facilities, alternative energy systems, berms, buildings, irrigation pumps, landscape screens, parking areas, signs, fences, and utilities, and for horse equine boarding operations, processing operations, soil disturbances, amusements, special events, the sale of souvenir items and other things. The amendments further accomplished such expansion by exempting from the previously sole permitted use of PDR land for “agricultural production” which was set forth in previous code definitions of the term “Development Right,” by adding thereto, the phrase “except where specified in this chapter” (see SCC § 8-2, as amended in 2010 and 2013). In addition, the challenged amendments further allow nonagricultural uses and nonagricultural activities, as section 8-14 at subparagraphs (A) and (S), expressly provide that nonagricultural uses and non-agricultural activities are permitted to the extent set forth in the other provisions of SCC chapter 8.\nPrior to the challenged amendments, the public’s rights and interests in the development rights to PDR properties were fixed at the time of each sale and purchase of such rights, except for the limited allowance of farm stands which came with the 1992 amendments that are not challenged herein. The development rights so fixed are, in essence, the right to preclude future development of the PDR properties by the preservation of such properties in the state they were in at the time of the purchase of the development rights by the County.\nThe permit and hardship exemption processes authorized the Farmland Committee to grant a host of carte blanche deviations from the very objectives of General Municipal Law § 247, the enabling state statute, to which SCC chapter 8 is allegedly aligned. It is the preservation of open spaces and open areas through the purchase of such areas by local municipal governing bodies with public funds that is the sole objective of General Municipal Law § 247. The open spaces and areas to be preserved by purchase are defined therein to be places “characterized by (1) natural scenic beauty or, (2) whose existing openness, natural condition, or present state of use, if retained, would enhance the present or potential value of abutting or surrounding urban development, or would maintain or enhance the conservation of natural or scenic resources” (General Municipal Law § 247 [1] [emphasis added]).\nThe issues raised in the third, fourth, fifth and sixth causes of action thus distill into whether the challenged amendments effect a “give back” or other actionable transference of the legal rights and interests in the development rights purchased under General Municipal Law § 247 by a return of development opportunities to the landowners under the expansive permit and exemption processes. The court finds that they do. The development allowed by the agricultural development permits, special use permits and hardship exemption processes constitute a substantial intrusion upon the public’s rights to prohibit development, as the existing openness, natural condition, and present state of use of any purchased PDR property is diminished, if not extinguished, by the erection or installation of the structures, uses and activities, agricultural and non-agricultural that are now authorized by the amendments (see General Municipal Law § 247).\nIt cannot be said that the challenged amendments effected only an incidental intrusion or diversion upon the purchased development rights, as the record is devoid of due proof that the rights of development and uses which the landowners may enjoy under the amendments contribute to or facilitate the public’s use and enjoyment of PDR properties. Instead, it appears that a substantial intrusion or diversion of the County’s purchased development rights was effected by the amendments as they allow the landowners to develop their property for their personal gain, use and enjoyment in contravention of the public’s right to use and enjoy such property as preserved open spaces and/or areas in their natural states as they existed at the time of the purchase. The defendants failed to demonstrate that a park or a related public purpose exists in or is served by the development rights diverted to the landowners under the challenged amendments.\nFor these reasons, the court finds that the plaintiffs established a prima facie showing that the challenged amendments are inconsistent with the public policy expressed in General Municipal Law § 247 and are violative of the public trust doctrine and thus actionable under General Municipal Law § 51. The opposing papers of the defendants failed to rebut that showing. The plaintiffs are thus entitled to summary judgment on their third, fourth, fifth and sixth causes of action for declaratory relief while the defendants’ cross motion for summary judgment dismissing said causes of action is denied.\nLeft for consideration are the plaintiffs’ demands for summary judgment on their seventh and eighth causes of action. Therein, the plaintiffs contend that those portions of the challenged amendments which removed the unqualified requirement that a “mandatory referendum” be put to the people of Suffolk County prior to the alienation of purchased development rights violate previous versions of the code and other local laws and are thus invalid, null and void. To prevail on these claims, the plaintiffs were required to establish that the permit and hardship exemption processes set forth in the challenged amendments constituted an alienation of the County’s PDRs. The term “alienation” is defined in the Code as “[t]he transfer of any development right in real property from the County to another” (see SCC § 8-2). This court finds that the permit and hardship exemption processes set forth in the challenged amendments do, indeed, constitute a “transfer,” within the contemplation of SCC § 8-2, of purchased development rights and that enactment of such amendments without a public referendum violated the SCC chapter 8 provisions thereby rendering the amendments null and void (see Long Is. Pine Barrens Socy., Inc. v County of Suffolk, 122 AD3d 688 [2014]). An award of summary judgment in favor of the plaintiffs on their seventh and eighth causes of action is thus granted, while defendants’ cross motion for summary judgment dismissing such causes of action is denied.\nIn view of the foregoing, the court declares that Local Law Nos. 52-2010 and 44-2013, adopted by the Suffolk County Legislature and codified as chapter 8 of the Suffolk County Code, are null and void and of no further effect. Accordingly, the defendants are hereby permanently enjoined from granting permits and hardship exemptions to the landowners of PDR properties or undertaking any future action pursuant to those amendments. All other relief demanded by the plaintiffs is denied.",
+        "type": "majority",
+        "author": "Thomas F. Whelan, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Gordon & Juengst, PC for plaintiffs.",
+      "Dennis M. Brown, County Attorney (Leonard G. Kapsalis of counsel), for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[39 NYS3d 710]\nIn the Matter of Long Island Pine Barrens Society, Inc., et al., Plaintiffs, v Suffolk County Legislature et al., Defendants.\nSupreme Court, Suffolk County,\nSeptember 28, 2016\nAPPEARANCES OF COUNSEL\nGordon & Juengst, PC for plaintiffs.\nDennis M. Brown, County Attorney (Leonard G. Kapsalis of counsel), for defendants."
+  },
+  "file_name": "2584-01",
+  "first_page_order": 839,
+  "last_page_order": 854
+}

@@ -1,0 +1,768 @@
+{
+  "id": 12298380,
+  "name": "Cornhill LLC, Petitioner, v. Alice Sposato, Respondent",
+  "name_abbreviation": "Cornhill LLC v. Sposato",
+  "decision_date": "2017-05-15",
+  "docket_number": "",
+  "first_page": "364",
+  "last_page": "371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 364"
+    },
+    {
+      "type": "parallel",
+      "cite": "54 N.Y.S.3d 548"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Rochester City Ct.",
+    "id": 9283,
+    "name": "Rochester City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Misc 3d 340",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3799282
+      ],
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/12/0340-01"
+      ]
+    },
+    {
+      "cite": "2007 NY Slip Op 50755",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 NY Slip Op 51222",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Misc 3d 1221",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 USC § 3931",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 AD2d 986",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1227617
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/235/0986-01"
+      ]
+    },
+    {
+      "cite": "23 AD3d 622",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1602082
+      ],
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/23/0622-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 1073",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5663741
+      ],
+      "pin_cites": [
+        {
+          "page": "1074"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1073-01"
+      ]
+    },
+    {
+      "cite": "46 AD3d 63",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4038813
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "67"
+        },
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/46/0063-01"
+      ]
+    },
+    {
+      "cite": "212 AD2d 517",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1202093
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "518"
+        },
+        {
+          "page": "518"
+        },
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/212/0517-01"
+      ]
+    },
+    {
+      "cite": "269 AD2d 355",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        177956
+      ],
+      "pin_cites": [
+        {
+          "page": "355-356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/269/0355-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 51673",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Misc 3d 1230",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 NY Slip Op 50449",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Misc 3d 1237",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 AD2d 773",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3628722,
+        3619740
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/160/0773-01",
+        "/ad2d/160/0773-02"
+      ]
+    },
+    {
+      "cite": "209 AD2d 377",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1188820,
+        1188687
+      ],
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/209/0377-01",
+        "/ad2d/209/0377-02"
+      ]
+    },
+    {
+      "cite": "27 AD3d 630",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2889772
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "631"
+        },
+        {
+          "page": "630-631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/0630-01"
+      ]
+    },
+    {
+      "cite": "39 AD3d 1223",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5490512,
+        5501351
+      ],
+      "pin_cites": [
+        {
+          "page": "1224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/39/1223-01",
+        "/ad3d/39/1223-02"
+      ]
+    },
+    {
+      "cite": "132 AD3d 1376",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4363878
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1377"
+        },
+        {
+          "page": "1376"
+        },
+        {
+          "page": "1376"
+        },
+        {
+          "page": "1376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/132/1376-01"
+      ]
+    },
+    {
+      "cite": "10 NY3d 715",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 AD3d 652",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3526209
+      ],
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/0652-01"
+      ]
+    },
+    {
+      "cite": "148 AD3d 1317",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12294724
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1320"
+        },
+        {
+          "page": "1321"
+        },
+        {
+          "page": "1320-1321"
+        },
+        {
+          "page": "1320-1321"
+        },
+        {
+          "page": "1321"
+        },
+        {
+          "page": "1321"
+        },
+        {
+          "page": "1321"
+        },
+        {
+          "page": "1321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/148/1317-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 51501",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Misc 3d 1207",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 AD3d 414",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5294803
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "415"
+        },
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/34/0414-01"
+      ]
+    },
+    {
+      "cite": "178 Misc 2d 723",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1685952
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/178/0723-01"
+      ]
+    },
+    {
+      "cite": "45 Misc 2d 427",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1151623
+      ],
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/45/0427-01"
+      ]
+    },
+    {
+      "cite": "68 Misc 2d 793",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1238661
+      ],
+      "pin_cites": [
+        {
+          "page": "795"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/68/0793-01"
+      ]
+    },
+    {
+      "cite": "2004 NY Slip Op 51531",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Misc 3d 1024",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 NY Slip Op 51564",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Misc 3d 1124",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Misc 2d 55",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1951072
+      ],
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/107/0055-01"
+      ]
+    },
+    {
+      "cite": "2001 NY Slip Op 40479",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 NY Slip Op 51776",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Misc 3d 126",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Misc 2d 298",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        338326
+      ],
+      "pin_cites": [
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/195/0298-01"
+      ]
+    },
+    {
+      "cite": "26 Misc 3d 954",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3761262
+      ],
+      "pin_cites": [
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/26/0954-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 52380",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Misc 3d 139",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Misc 3d 85",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3190334
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "90"
+        },
+        {
+          "page": "90, 92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/17/0085-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 50096",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Misc 3d 1214",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Misc 3d 61",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1390619
+      ],
+      "pin_cites": [
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/5/0061-01"
+      ]
+    },
+    {
+      "cite": "115 AD2d 586",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3453365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/115/0586-01"
+      ]
+    },
+    {
+      "cite": "92 AD2d 602",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3325579
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "602"
+        },
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/92/0602-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 1083",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5678051,
+        5677575
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1084"
+        },
+        {
+          "page": "1085"
+        },
+        {
+          "page": "1085"
+        },
+        {
+          "page": "1085"
+        },
+        {
+          "page": "1085"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1083-02",
+        "/ad3d/94/1083-01"
+      ]
+    },
+    {
+      "cite": "65 NY2d 739",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 AD2d 746",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3373777,
+        3377587,
+        3381715,
+        3370807
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "748"
+        },
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/102/0746-02",
+        "/ad2d/102/0746-04",
+        "/ad2d/102/0746-03",
+        "/ad2d/102/0746-01"
+      ]
+    },
+    {
+      "cite": "55 Misc 3d 685",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        12434328
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/55/0685-01"
+      ]
+    },
+    {
+      "cite": "225 App Div 403",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4886618
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/225/0403-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 747,
+    "char_count": 15934,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2501966330855583
+    },
+    "sha256": "7057cd6f8aa5ea2d954f993f35d83a93668b40127082108251cfa776a8d59418",
+    "simhash": "1:39786d5d79def6aa",
+    "word_count": 2688
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cornhill LLC, Petitioner, v Alice Sposato, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nEllen M. Yacknin, J.\nIntroduction\nOn January 15, 2016, petitioner Cornhill LLC filed a summary rent nonpayment action under RPAPL article 7 against its tenant, respondent Alice Sposato. Petitioner’s petition sought an immediate warrant of eviction and a money judgment of $4,735 for unpaid rent, late fees, and attorney’s fees.\nRespondent neither answered nor appeared in court on the March 7, 2016 return date. For that reason, this court granted petitioner’s request for a warrant of eviction. Relying on Fourth Department and Monroe County Court precedent, however, this court held that petitioner was not entitled to a default money judgment in this action because respondent had not been served personally with the notice of petition and petition. (See Matter of McDonald [Hutter], 225 App Div 403 [4th Dept 1929]; Dirt v Goldthrite, Monroe County Ct, Oct. 15, 2008, index No. 08/1539.)\nOn appeal, the County Court reversed this court’s decision, finding that the lack of personal service of process in a summary nonpayment proceeding does not, in itself, preclude the entry of a default money judgment. (See Cornhill LLC v Sposato, 55 Misc 3d 685 [Monroe County Ct, Feb. 16, 2017].) The County Court therefore reversed this court’s denial of petitioner’s application for a money judgment and remanded the case to this court for further proceedings. This court must now determine whether petitioner has satisfied the legal prerequisites for the entry of a default money judgment in this action. Legal Discussion\nRespondent in this action was served with petitioner’s nonpayment petition by conspicuous “nail and mail” service pursuant to RPAPL 735 (1). Conspicuous “nail and mail” service is the “least desirable” of the three service methods available under RPAPL 735 (1) because when used, there is a reduced likelihood that a respondent will actually receive process. (Eight Assoc. v Hynes, 102 AD2d 746 [1st Dept 1984], affd 65 NY2d 739 [1985]; see Serraro v Staropoli, 94 AD3d 1083, 1084 [2d Dept 2012].) For that reason, in summary nonpayment and eviction proceedings, New York State courts require sufficient attempts to serve process on a tenant personally before resorting to conspicuous service is permitted.\nTo obtain repossession of property in a summary proceeding, a landlord must demonstrate “reasonable application” in its prior attempts to serve process on the tenant personally before resorting to conspicuous “nail and mail” service is permitted. {See RPAPL 735 [1]; Eight Assoc. v Hynes, 102 AD2d at 748; Brooklyn Hgts. Realty Co. v Gliwa, 92 AD2d 602 [2d Dept 1983].) The “reasonable application” standard requires, at a minimum, that at least one attempt to serve a tenant personally at his or her residence must be made during working hours, and at least one attempt must be made during hours when a working person could reasonably be expected to be home. (See Empress Manor Apts. v Levenson, 115 AD2d 586 [2d Dept 1985]; Brooklyn Hgts. Realty Co. v Gliwa, 92 AD2d at 602; Martine Assoc. LLC v Minck, 5 Misc 3d 61, 62 [App Term, 2d Dept, 9th & 10th Jud Dists 2004]; Tinker Ltd. Partnership v Berg, 26 Misc 3d 1214[A], 2010 NY Slip Op 50096[U], *4 [Nassau Dist Ct 2010].)\nIn contrast, to obtain a money judgment against a defaulting tenant following conspicuous “nail and mail” service, a landlord’s previous attempts to personally serve process must be more extensive than those that are required to obtain possession of premises. As with defaulting defendants in all civil actions, New York courts uniformly hold that to obtain a money judgment against a defaulting tenant following conspicuous service of process, a landlord must have exercised “due diligence” in his or her prior attempts to personally serve process on the tenant. {See 3 Dolan, Rasch’s Landlord and Tenant— Summary Proceedings § 45:14 at 172 [4th ed 1998 & June 2016 Supp] [“(B)efore a landlord can be entitled to a (default) money judgment, it must be established that . . . conspicuous place service was resorted to only after due and diligent efforts to serve it personally met with failure” (citations omitted)]; Scherer & Fisher, Residential Landlord-Tenant Law in New York § 15.12 [Dec. 2016 Update] [“If the tenant defaults in a nonpayment proceeding by failing to appear at all, the petitioner may have only a possessory judgment and not a judgment for rent due unless the respondent was personally served with process, or served in compliance with the CPLR ‘due diligence’ standard” (citations omitted)].)\nFor example, in Augush v Berrahu (17 Misc 3d 85, 90 [App Term, 2d Dept, 9th & 10th Jud Dists 2007]), extensively relied upon by the court above, the court squarely held that where a tenant has been served by conspicuous service, a default money judgment is available only if “[conspicuous] service [was] sufficient to satisfy CPLR 308 (4) . . . Under CPLR 308 (4), con-\nspicuous “nail and mail” service is permitted only when personal service cannot be made with “due diligence.” (Augush v Berrahu, 17 Misc 3d at 90, 92; see Augush v Pascale, 25 Misc 3d 139[A], 2009 NY Slip Op 52380[U], *1 [App Term, 2d Dept, 9th & 10th Jud Dists 2009] [“a monetary (default) award may be made . . . where service upon the tenant was . . . sufficient to support the entry of a money judgment in a plenary action”]; Expressway Vil., Inc. v Denman, 26 Misc 3d 954, 959 [Niagara County Ct 2009] [“I hold that Avgush got it right. Money judgments are available to a landlord in a summary proceeding provided that (prior personal service attempts were) legally sufficient to support the entry of a money judgment in a plenary action”]; Dolan v Linnen, 195 Misc 2d 298, 327 [Civ Ct, NY County 2003] [“the court acquires personal jurisdiction over a defaulting tenant when the petition and notice of petition are served in a summary proceeding using conspicuous-place service after due diligence in attempting personal delivery or substituted service”]; accord Redstone Garage Corp. v New Breed Automotive, Inc., 54 Misc 3d 126[A], 2016 NY Slip Op 51776[U], *1 [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2016]; African Am. Realty Co. v Bebenek, 2001 NY Slip Op 40479[U] [App Term, 1st Dept 2001]; Oppenheim v Spike, 107 Misc 2d 55, 56 [App Term, 1st Dept 1980]; Laskey v Tillotson, 16 Misc 3d 1124[A], 2007 NY Slip Op 51564[U], *3 [Lockport City Ct 2007]; Guevera v Cueva, 5 Misc 3d 1024[A], 2004 NY Slip Op 51531[U], *2 [Nassau Dist Ct 2004]; 1405 Realty Corp. v Napier, 68 Misc 2d 793, 795 [Civ Ct, Bronx County 1971]; Matter of Joseph E. Seagram & Sons v Rossi, 45 Misc 2d 427, 428 [Civ Ct, NY County 1965]; Fleming v Flanagan, 178 Misc 2d 723, 727 [Ramapo Just Ct 1998].)\nAs noted above, the efforts a process server must make to personally serve a tenant under the due diligence test are more comprehensive than those required under the less rigorous “reasonable application” test. (See Eight Assoc. v Hynes, 102 AD2d at 746; Brooklyn Hgts. Realty Co. v Gliwa, 92 AD2d at 602; County of Nassau v Letosky, 34 AD3d 414, 415 [2d Dept 2006]; Hoskob Assoc. LLC v Spanos, 49 Misc 3d 1207[A], 2015 NY Slip Op 51501 [U], *2 [Civ Ct, NY County 2015].) Moreover, the due diligence requirements must be “strictly observed” because of the reduced likelihood that process will actually be received. (Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d 1317, 1320 [3d Dept 2017]; see Serraro v Staropoli, 94 AD3d at 1085.)\nTo determine whether prior attempts to personally serve process satisfy the due diligence requirements, a court must “focus [ ] not on the quantity of the attempts at personal delivery, but on their quality.” (McSorley v Spear, 50 AD3d 652, 653 [2d Dept 2008], lv denied 10 NY3d 715 [2008]; see Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d at 1321.) For this reason, New York appellate courts require that personal service attempts prior to resort to conspicuous service must comply with at least two key prerequisites to satisfy the due diligence test.\nFirst, a minimum of three personal service attempts are required, with at least two attempts on dates and times when it can reasonably be expected that the person to be served will not be at work or in transit. (See Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d at 1320-1321; Matter of Kader v Kader, 132 AD3d 1376, 1377 [4th Dept 2015]; Serraro v Staropoli, 94 AD3d at 1085; Austin v Tri-County Mem. Hosp., 39 AD3d 1223, 1224 [4th Dept 2007]; County of Nassau v Letosky, 34 AD3d at 415; O’Connell v Post, 27 AD3d 630, 631 [2d Dept 2006].) Petitioner’s prior personal service attempts failed to satisfy this prerequisite for due diligence.\nThe process server’s January 22, 2016 affidavit of service in this action alleges that he apparently attempted to personally serve respondent at her home on Tuesday, January 19, 2016 at 10:25 a.m., Wednesday, January 20, 2016 at 4:20 p.m., and Wednesday, January 20, 2016 at 6:36 p.m. These attempts occurred on only two dates, both of which were normal work days. All three attempts at personal service were at times that a person could normally be expected to be at work or in transit from work. As such, these attempts were deficient as a matter of law to satisfy the due diligence requirements. (See e.g. Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d at 1320-1321 [no due diligence where only one of three workday personal service attempts, which was made at 8:59 p.m., was made when it was reasonable to expect a person to be home from work]; O’Connell v Post, 27 AD3d at 630-631 [no due diligence because it is reasonable to expect that a person would be at work or in transit at 7:45 a.m. and 6:16 p.m. on weekdays]; Gantman v Cohen, 209 AD2d 377, 378 [2d Dept 1994] [no due diligence where all three weekday service attempts, at 10:50 a.m., 4:30 p.m., and 6:36 p.m., “were made during normal business hours or at times when it could reasonably (be) expected that the defendant was in transit to or from his place of employment”]; Magalios v Benjamin, 160 AD2d 773 [2d Dept 1990] [no due diligence because it is reasonable to expect that a person would be at work or in transit at 9:00 a.m., 5:30 p.m., and 6:00 p.m. on weekdays]; Powell v Anderson, 34 Misc 3d 1237[A], 2012 NY Slip Op 50449[U], *1 [Mt. Vernon City Ct 2012] [no due diligence where one service attempt was at 7:30 a.m. on one weekday and two service attempts were at 6:10 p.m. and 8:10 p.m. on a second weekday]; CACV of Colo., LLC v McKesey, 24 Misc 3d 1230[A], 2009 NY Slip Op 51673[U], *1-2 [Mt. Vernon City Ct 2009] [no due diligence where all three weekday service attempts, at 12:45 p.m., 1:25 p.m., and 7:00 p.m., were made during normal business hours or “when it could reasonably (be) expected that the defendant was in transit from his job”].)\nPetitioner’s personal service attempts also failed to comply with the second essential prerequisite for due diligence required by New York appellate courts. Specifically, before resorting to conspicuous service, a process server must make “genuine inquiries” to ascertain the party’s place of work so that the party can be served at work, and must attempt to talk to neighbors to find out where the party might be found. (Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d at 1321; see Kader v Kader, 132 AD3d at 1376; Gurevitch v Goodman, 269 AD2d 355, 355-356 [2d Dept 2000]; Moran v Harting, 212 AD2d 517, 518 [2d Dept 1995]; Serraro v Staropoli, 94 AD3d at 1085; Estate of Waterman v Jones, 46 AD3d 63, 67 [2d Dept 2007].) Where the party seeking a default money judgment following conspicuous service of process fails to demonstrate such inquiries, due diligence is not satisfied. (See Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d at 1321; Kader v Kader, 132 AD3d at 1376; Prudence v Wright, 94 AD3d 1073, 1074 [2d Dept 2012]; Serraro v Staropoli, 94 AD3d at 1085; Estate of Waterman v Jones, 46 AD3d at 67.)\nThe process server’s affidavit in this action is devoid of any indication that he made any inquiries, let alone genuine inquiries, to attempt to ascertain respondent’s whereabouts or place of work. His affidavit is devoid of any indication that he made any inquiries of neighbors to attempt to learn where respondent worked or where she might be found. The affidavit does not indicate that he asked petitioner where respondent worked. For this reason as well, petitioner failed to exercise the due diligence necessary to entitle it to a default money judgment against respondent following conspicuous service of process. (See Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d at 1321; Kader v Kader, 132 AD3d at 1376; Moran v Harting, 212 AD2d at 518.)\nConclusion\nPetitioner’s failure to sufficiently attempt to personally serve respondent prior to use of conspicuous service deprives this court of jurisdiction to enter a default money judgment against respondent. (See Harkless v Reid, 23 AD3d 622, 623 [2d Dept 2005]; Moran v Harting, 212 AD2d at 518.) Accordingly, for the reasons stated above, petitioner’s request for the entry of a default money judgment against respondent is denied.\n. The court above analyzed only whether the entry of a default money judgment was barred due to the manner in which process was served in this case. The court did not consider whether petitioner satisfied the mandatory prerequisites for the entry of a default money judgment in this action.\n. See Cornhill LLC v Sposato, 55 Mise 3d at 687-688.\n. The court above also relied on Dolan v Linnen in its legal analysis.\n. Petitioner bears the burden of demonstrating the sufficient exercise of due diligence with respect to personal service attempts to warrant a default money judgment award following conspicuous service of process. (See Greene Major Holdings, LLC v Trailside at Hunter, LLC, 148 AD3d 1317, 1321 [3d Dept 2017]; State of New York Higher Educ. Servs. Corp. v Cada, 235 AD2d 986 [3d Dept 1997].) Following the decision of the court above, this court scheduled a court appearance on March 31, 2017 to discuss further proceedings. At that time, petitioner’s attorney repeatedly declined this court’s invitation to submit further legal arguments or evidence to support his position that petitioner was entitled to a default money judgment in this action.\n. The process server’s January 22, 2016 affidavit of service is incomplete. The affidavit does not state where he attempted to personally serve respondent or whether he affixed the notice of petition and petition to the door of respondent’s actual place of business, her dwelling place, or her usual place of abode. For purposes of this decision, the court will assume that the process server attempted to personally serve respondent at her residence, and affixed the documents to the door of her residence.\n. Petitioner’s pleadings are inadequate to entitle it to a default monetary judgment in another respect. Before a moving party can obtain a default money judgment against another party in a legal proceeding, the moving party must submit proof regarding the defaulting party’s military service status. (See 50 USC § 3931; Military Law § 303; see also Ellis v Fortune, 44 Misc 3d 1221 [A], 2014 NY Slip Op 51222[U], *1-2 [Sup Ct, Suffolk County 2014]; Cassano v Gutkowski, 15 Mise 3d 1118[A], 2007 NY Slip Op 50755[U], *3 [Nassau Dist Ct 2007].) Unlike petitioner’s failure to demonstrate sufficient personal service attempts prior to use of conspicuous service, however, petitioner’s failure to submit a nonmilitary service affidavit is a nonjurisdic-tional defect that can be corrected. (See Cassano v Gutkowski, 2007 NY Slip Op 50755[U], *3; Palisades Acquisition V, LLC v Ibrahim, 12 Misc 3d 340, 343 [Civ Ct, NY County 2006].)",
+        "type": "majority",
+        "author": "Ellen M. Yacknin, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Andrew J. Dick for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[54 NYS3d 548]\nCornhill LLC, Petitioner, v Alice Sposato, Respondent.\nCity Court of Rochester,\nMay 15, 2017\nAPPEARANCES OF COUNSEL\nAndrew J. Dick for petitioner."
+  },
+  "file_name": "2785-01",
+  "first_page_order": 364,
+  "last_page_order": 371
+}

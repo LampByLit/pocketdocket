@@ -1,0 +1,111 @@
+{
+  "id": 4353502,
+  "name": "The People of the State of New York, Plaintiff, v. R.J. Marchhart, II, Defendant",
+  "name_abbreviation": "People v. Marchhart",
+  "decision_date": "2015-07-08",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 345"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Muttontown J. Ct.",
+    "id": 10762,
+    "name": "Justice Court of Village of Muttontown"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "149 AD2d 255",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3582505
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/149/0255-01"
+      ]
+    },
+    {
+      "cite": "149 Misc 2d 430",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        892192
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "433"
+        },
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/149/0430-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 401,
+    "char_count": 8285,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14822524402001816
+    },
+    "sha256": "6ab7e1f499e09b1aca9807cbe63b54564a52645d327877eeeb955ae057c12a5d",
+    "simhash": "1:28248e33360e484f",
+    "word_count": 1296
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v R.J. Marchhart, II, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nStuart Mass, J.\nDefendant is charged, pursuant to uniform traffic ticket BD7319830, with operating a motor vehicle at a speed of 107 miles per hour in a 50 miles per hour zone on Northern Boulevard within the Village of Muttontown. Defendant was served timely with a supporting deposition.\nDefendant has moved to dismiss uniform traffic ticket BD7319830 upon the grounds that the supporting deposition fails to set forth “factual allegations of an evidentiary character.” In the alternative, defendant seeks an order precluding the prosecution from introducing at trial evidence omitted from the supporting deposition.\nDefendant argues that the supporting deposition is legally insufficient because (i) it does not state the model, make, year or type of radar that was allegedly used by the complaining police officer to measure the speed at which defendant was driving; (ii) it is silent as to whether the complaining officer’s vehicle was stationary or moving; (iii) it does not specify the position of the complaining officer’s vehicle on the roadway in relation to defendant’s vehicle; (iv) it does not specify the distance between the vehicles when the radar is alleged to have measured the speed of defendant’s vehicle; (v) it fails to allege that the radar was properly calibrated, serviced and checked; and (vi) it fails to allege that the complaining officer was certified in the use of radar equipment. Defendant concludes that “[t]his factual information is necessary for the defense to prepare its case for trial and for the supporting deposition to satisfy its purpose.”\nDefendant contends that the legal department of the New York State Police, by including on its electronically-generated supporting deposition form a place for identifying the model of radar used to determine a defendant’s speed, demonstrated that it deems this information to be “significantly important.” Defendant does not address said legal department’s decision to omit from its electronically-generated supporting deposition form information relating to (i) whether the complaining officer’s vehicle was stationary or moving; (ii) the position of the complaining officer’s vehicle on the roadway in relation to the defendant’s vehicle; (iii) the distance between the vehicles when the radar is alleged to have measured the speed of defendant’s vehicle; (iv) whether the radar was properly calibrated, serviced and checked; or (v) whether the complaining officer was certified in the use of radar equipment.\nDefendant has also submitted several orders signed by-judicial hearing officers of the Traffic and Parking Violations Agency of Nassau County. Each of these orders are issued on similar, one-page forms indicating only that the respective judicial hearing officers have reviewed the papers submitted in support of the motion identified by the form, and have granted the motion to dismiss the traffic ticket or tickets identified by the form. There are no written opinions accompanying any of these orders. Accordingly, this court declines to make any assumptions as to the bases upon which any of these motions were granted.\nCPL 100.25 (2) requires that a supporting deposition contain “allegations of fact . . . providing reasonable cause to believe that the defendant committed the offense . . . charged.” It does not require that a supporting deposition contain each and every fact that the prosecution will present to prove its case beyond a reasonable doubt.\nCPL 100.20 requires that a supporting deposition contain “factual allegations of an evidentiary character . . . which supplement those of the accusatory instrument and support or tend to support the charge . . . contained therein.” The extent to which a supporting deposition must “supplement” an accusatory instrument, if at all, must be viewed in the context of whether the accusatory instrument, by itself, contains “allegations of fact. . . providing reasonable cause to believe that the defendant committed the offense . . . charged” (CPL 100.25 [2]). If the accusatory instrument meets this test, no supplementation is needed.\nDefendant cites People v Chess (149 Misc 2d 430 [Kensington Just Ct 1991]) in making his argument that a supporting deposition is the only form of pretrial discovery available to a defendant charged with a traffic violation, and is therefore essential to permitting such a defendant to prepare his or her defense. But given the factual differences between Chess and the case at bar, as well as the Chess court’s actual holdings, an application of Chess to this case favors the prosecution.\nIn Chess, both the accusatory instrument and the supporting deposition failed to advise the defendant that the prosecution intended to admit radar evidence. The Chess court found that a defendant should be informed of the manner in which the prosecution intends to establish speed because “[t]his is necessary to permit the defendant to prepare to meet the proof to be presented by the People and subpoena appropriate records if he be so inclined (People v Russo, 149 AD2d 255 [2d Dept 1989])” (149 Misc 2d at 433). In Russo, the Appellate Division held that “if the People rely upon radar evidence to establish the alleged excessive speed of the defendant’s vehicle, then the defendant will be entitled to receive those records, if any, which document the maintenance and testing of the radar device” (149 AD2d at 262). While such records were not available to the defendant through pretrial discovery, the Russo court held that the defendant could subpoena such records on the conditions more particularly set forth in its decision.\nThe Chess court held that “[i]t would be extremely unfair and violative of due process for a defendant in a criminal or quasi-criminal proceeding to be required to proceed to trial completely in the dark” (149 Misc 2d at 433). By failing to disclose the very manner in which the prosecution intended to establish the defendant’s speed, the prosecution had effectively left the defendant “completely in the dark,” and the Chess court precluded the People from presenting radar evidence at trial.\nQuite to the contrary in the case at bar, the supporting deposition clearly identified the manner in which the prosecution intended to establish the defendant’s speed. Defendant’s motion makes clear that this disclosure enabled defendant to identify certain records or information that might be helpful to the preparation of defendant’s defense. The Chess and Russo decisions are instructive as to the circumstances under which defendant might properly obtain disclosure of these items. The supporting deposition did not leave defendant “in the dark.”\nBased upon CPL 100.20 and 100.25, the holdings of the Chess and Russo courts, and the absence of any authority to the contrary known to this court, this court finds that (i) the supporting deposition contains “allegations of fact . . . providing reasonable cause to believe that the defendant committed the offense . . . charged” (CPL 100.25 [2]) and is therefore legally sufficient; (ii) where a supporting deposition identifies radar or laser as a means of measuring the speed of a defendant’s vehicle, the failure of such supporting deposition to designate the model, make, year or type of such radar or laser does not render such supporting deposition legally insufficient; and (iii) where a supporting deposition identifies radar or laser as a means of measuring the speed of a defendant’s vehicle, but fails to designate the model, make, year or type of such radar or laser, the defendant is not thereby entitled to any limitation on the evidence that may be presented at trial by the prosecution.\nAccordingly, defendant’s motion to dismiss uniform traffic ticket BD7319830 or, in the alternative, to preclude the prosecution from presenting at trial any evidence not contained in the supporting deposition, is denied. The Court Clerk is directed to set this matter for trial.",
+        "type": "majority",
+        "author": "Stuart Mass, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jeanne Marie Beckmann, Hempstead, for defendant.",
+      "Carrieri & Carrieri, Mineóla (Joseph R. Carrieri of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 871]\nThe People of the State of New York, Plaintiff, v R.J. Marchhart, II, Defendant.\nJustice Court of the Village of Muttontown, Nassau County,\nJuly 8, 2015\nAPPEARANCES OF COUNSEL\nJeanne Marie Beckmann, Hempstead, for defendant.\nCarrieri & Carrieri, Mineóla (Joseph R. Carrieri of counsel), for plaintiff."
+  },
+  "file_name": "1939-01",
+  "first_page_order": 327,
+  "last_page_order": 331
+}

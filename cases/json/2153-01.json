@@ -1,0 +1,142 @@
+{
+  "id": 4236043,
+  "name": "Compas Medical, P.C., as Assignee of Clarence Dupiton, Appellant, v. Fiduciary Insurance Company of America, Respondent",
+  "name_abbreviation": "Compas Medical, P.C. v. Fiduciary Insurance Co. of America",
+  "decision_date": "2016-02-26",
+  "docket_number": "",
+  "first_page": "66",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 66"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 N.Y.S.3d 734"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2015 NY Slip Op 50164",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 141",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 NY3d 312",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557697
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "317"
+        },
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0312-01"
+      ]
+    },
+    {
+      "cite": "2011 NY Slip Op 51292",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Misc 3d 128",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 AD3d 1168",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4004113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/1168-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 498",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4321542
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0498-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 4752,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1405305869183879
+    },
+    "sha256": "7397b43914a0762529a2b56c30f025d055fa628edee6bf8f32f71526de3f3e89",
+    "simhash": "1:3b624b4edecdbc4b",
+    "word_count": 789
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Pesce, P.J., Weston and Elliot, JJ., concur."
+    ],
+    "parties": [
+      "Compas Medical, P.C., as Assignee of Clarence Dupiton, Appellant, v Fiduciary Insurance Company of America, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is modified by providing that defendant’s cross motion for summary judgment dismissing the complaint is denied; as so modified, the order is affirmed, without costs.\nIn this action by a provider to recover assigned first-party no-fault benefits, plaintiff appeals from an order of the Civil Court which denied plaintiff’s motion for summary judgment and granted defendant’s cross motion for summary judgment dismissing the complaint.\nAs a preliminary matter, because plaintiff failed to establish either that defendant had failed to pay or deny the claim within the requisite 30-day period (see Insurance Law § 5106 [a]; Viviane Etienne Med. Care, P.C. v Country-Wide Ins. Co., 25 NY3d 498 [2015]), or that defendant had issued a timely denial of claim that was conclusory, vague or without merit as a matter of law (see Westchester Med. Ctr. v Nationwide Mut. Ins. Co., 78 AD3d 1168 [2010]; Ave T MPC Corp. v Auto One Ins. Co., 32 Misc 3d 128[A], 2011 NY Slip Op 51292[U] [App Term, 2d Dept, 2d, 11th & 13th Jud Dists 2011]), plaintiff failed to demonstrate its prima facie entitlement to summary judgment.\nDefendant cross-moved for summary judgment, arguing that one ground upon which it had timely denied plaintiff’s claims was that no one on plaintiff’s behalf had complied with 11 NYCRR 65-1.1, which states that written notice of an accident must be “given” to the insurer “as soon as reasonably practicable, but in no event more than 30 days after the date of the accident” (11 NYCRR 65-1.1 [d]; see also Hospital for Joint Diseases v Travelers Prop. Cas. Ins. Co., 9 NY3d 312, 317 [2007] [a claimant must “submit a notice of claim to the insurer as soon as practicable and no later than 30 days after an accident”]). The affidavit of defendant’s no-fault claims manager, submitted in support of defendant’s cross motion, stated that defendant had first learned of the October 14, 2010 accident when it received an NF-2 form on November 15, 2010, thereby demonstrating that defendant had not received written notice of the accident within 30 days after it had occurred.\nPlaintiff argues that mailing written notice of the accident to the insurer on or before the 30th day after the accident will satisfy the 30-day notice requirement of 11 NYCRR 65-1.1. We agree. We note that 11 NYCRR 65-1.1 does not define what it means for a written notice to be “given,” and the Court of Appeals did not elaborate when it stated that a claimant must “submit” a notice of claim (Hospital for Joint Diseases, 9 NY3d at 317). However, 11 NYCRR 65-3.4 (b) requires no-fault insurers to “forward to the applicant the prescribed application for motor vehicle no-fault benefits (NYS form [NF-2]) accompanied by the prescribed cover letter (NYS form [NF-1]),” and the prescribed cover letter included in Appendix 13 to Regulation 68 states that the NF-2 application for no-fault benefits (which satisfies the written notice requirement [see 11 NYCRR 65-3.3 (d)]) “must be sent to [the insurer] within 30 days of the accident date if your original notice to [the insurer] was not in writing.” We hold that mailing the written notice of claim to the insurer within 30 days of the accident satisfies the requirement that written notice be “sent” to the insurer, as instructed by the prescribed cover letter, and that written notice be “given” to the insurer, as required by 11 NYCRR 65-1.1.\nHere, defendant did not demonstrate, prima facie, that timely written notice of the accident had not been mailed to it. Rather, the 30th day after the accident fell on a Saturday, November 13, 2010, making Monday, November 15, 2010 the date on which defendant alleges it first received an NF-2 form, the last date by which written notice of the accident could be timely mailed (see General Construction Law §§ 25, 25-a; VS Care Acupuncture v State Farm Mut. Auto. Ins. Co., 46 Misc 3d 141[A], 2015 NY Slip Op 50164[U] [App Term, 1st Dept 2015]; see also General Construction Law § 20 [providing, in pertinent part, that “(t)he day from which any specified period of time is reckoned shall be excluded in making the reckoning”]). Thus, defendant did not demonstrate its entitlement to summary judgment dismissing the complaint.\nAccordingly, the order is modified by providing that defendant’s cross motion for summary judgment is denied.\nPesce, P.J., Weston and Elliot, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Rybak Firm, PLLC, Brooklyn (Damin J. Toell of counsel), for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[31 NYS3d 734]\nCompas Medical, P.C., as Assignee of Clarence Dupiton, Appellant, v Fiduciary Insurance Company of America, Respondent.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nFebruary 26, 2016\nAPPEARANCES OF COUNSEL\nThe Rybak Firm, PLLC, Brooklyn (Damin J. Toell of counsel), for appellant."
+  },
+  "file_name": "2153-01",
+  "first_page_order": 122,
+  "last_page_order": 125
+}

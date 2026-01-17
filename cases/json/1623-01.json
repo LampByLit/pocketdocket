@@ -1,0 +1,1461 @@
+{
+  "id": 12166611,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. ERIC MARQUEZ, Defendant-Appellant",
+  "name_abbreviation": "State v. Marquez",
+  "decision_date": "2016-06-30",
+  "docket_number": "Docket No. S-1-SC-34418",
+  "first_page": "89",
+  "last_page": "111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMSC-025"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M.",
+    "id": 8835,
+    "name": "Supreme Court of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S. Ct. 64",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702240,
+        12702432,
+        12702433,
+        12584910,
+        12584911,
+        12584912,
+        12584913,
+        12584914,
+        12584915,
+        12704018,
+        12702238,
+        12702239
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/571/0818-11",
+        "/us/571/0832-13",
+        "/us/571/0832-14",
+        "/s-ct/134/0064-01",
+        "/s-ct/134/0064-02",
+        "/s-ct/134/0064-03",
+        "/s-ct/134/0064-04",
+        "/s-ct/134/0064-05",
+        "/s-ct/134/0064-06",
+        "/us/571/0939-06",
+        "/us/571/0818-09",
+        "/us/571/0818-10"
+      ]
+    },
+    {
+      "cite": "2001-NMSC-004",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        352678
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0117-01"
+      ]
+    },
+    {
+      "cite": "2004-NMSC-019",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1428026
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/135/0621-01"
+      ]
+    },
+    {
+      "cite": "2001-NMSC-033",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        183105
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/131/0258-01"
+      ]
+    },
+    {
+      "cite": "306 P.3d 426",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-020",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4335299
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0196-01"
+      ]
+    },
+    {
+      "cite": "284 P.3d 1076",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-027",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4190278
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 12-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0408-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-051",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4002551
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0815-01"
+      ]
+    },
+    {
+      "cite": "2000-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        106493
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶¶ 8, 11"
+        },
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/128/0711-01"
+      ]
+    },
+    {
+      "cite": "2013 CO 51",
+      "category": "reporters:neutral",
+      "reporter": "CO",
+      "case_ids": [
+        6973120
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/309/0943-01"
+      ]
+    },
+    {
+      "cite": "274 P.3d 151",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMCA-034",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4187720
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0472-01"
+      ]
+    },
+    {
+      "cite": "131 S. Ct. 2705",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        4334192,
+        12450500
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/564/0647-01",
+        "/l-ed-2d/180/0610-01"
+      ]
+    },
+    {
+      "cite": "557 U.S. 305",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3657952
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/557/0305-01"
+      ]
+    },
+    {
+      "cite": "294 P.3d 435",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-003",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4191021
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/3/0363-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-041",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4250792
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 49"
+        },
+        {
+          "page": "¶¶ 48-52"
+        },
+        {
+          "page": "¶¶ 48-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0654-01"
+      ]
+    },
+    {
+      "cite": "279 P.3d 747",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-018",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4189500
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0030-01"
+      ]
+    },
+    {
+      "cite": "2006-NMSC-036",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3671970
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0182-01"
+      ]
+    },
+    {
+      "cite": "2004-NMCA-100",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224599
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0337-01"
+      ]
+    },
+    {
+      "cite": "285 P.3d 604",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-030",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4188568
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "¶ 38"
+        },
+        {
+          "page": "¶ 34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0449-01"
+      ]
+    },
+    {
+      "cite": "275 P.3d 110",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-008",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4188256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0535-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-014",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        827365
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0132-01"
+      ]
+    },
+    {
+      "cite": "110 N.M. 76",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        716944
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/110/0076-01"
+      ]
+    },
+    {
+      "cite": "1990-NMSC-049",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "323 P.3d 901",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-011",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4077885
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 26, 29, 38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0730-01"
+      ]
+    },
+    {
+      "cite": "1999-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        106506
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/128/0454-01"
+      ]
+    },
+    {
+      "cite": "114 N.M. 269",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        731614
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/114/0269-01"
+      ]
+    },
+    {
+      "cite": "1992-NMSC-048",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 N.M. 56",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        711403
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/103/0056-01"
+      ]
+    },
+    {
+      "cite": "1985-NMSC-067",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 N.M. 439",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2867583
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/90/0439-01"
+      ]
+    },
+    {
+      "cite": "1977-NMSC-038",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 12-14"
+        },
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007-NMSC-032",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3691675
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0120-01"
+      ]
+    },
+    {
+      "cite": "112 N.M. 554",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720271
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/112/0554-01"
+      ]
+    },
+    {
+      "cite": "1991-NMSC-084",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 14-15"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 N.M. 148",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        322283
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0148-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-043",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        },
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 22"
+        },
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶¶ 12, 18-19"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007-NMSC-021",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3669832
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0801-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-013",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4243054
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0024-01"
+      ]
+    },
+    {
+      "cite": "107 N.M. 540",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1597081
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/107/0540-01"
+      ]
+    },
+    {
+      "cite": "1988-NMCA-068",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 N.M. 111",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566678
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/121/0111-01"
+      ]
+    },
+    {
+      "cite": "1995-NMSC-079",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 N.M. 272",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1584644
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/99/0272-01"
+      ]
+    },
+    {
+      "cite": "1983-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "2005-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2550357
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/138/0365-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-016",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4249805
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 2-3, 8-11"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/150/0110-01"
+      ]
+    },
+    {
+      "cite": "100 N.M. 671",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1588673
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/100/0671-01"
+      ]
+    },
+    {
+      "cite": "1984-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 1
+    },
+    {
+      "cite": "1999-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        106506
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "¶ 21"
+        },
+        {
+          "page": "¶ 2"
+        },
+        {
+          "page": "¶¶ 13, 18, 21"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/128/0454-01"
+      ]
+    },
+    {
+      "cite": "103 N.M. 56",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        711403
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/103/0056-01"
+      ]
+    },
+    {
+      "cite": "1985-NMSC-067",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "90 N.M. 439",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2867583
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/90/0439-01"
+      ]
+    },
+    {
+      "cite": "1977-NMSC-038",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "122 N.M. 148",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        322283
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/122/0148-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-043",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "223 P.3d 3",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 2
+    },
+    {
+      "cite": "491 P.2d 793",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "1998-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        834365
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 33"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/125/0721-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4244712
+      ],
+      "weight": 3,
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/146/0434-01"
+      ]
+    },
+    {
+      "cite": "1997-NMSC-023",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        142194
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/123/0302-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-020",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4247843
+      ],
+      "weight": 3,
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/148/0381-01"
+      ]
+    },
+    {
+      "cite": "299 N.W.2d 304",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "203 P.3d 425",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 2
+    },
+    {
+      "cite": "885 P.2d 1022",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "pin_cites": [
+        {
+          "page": "1028"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "60 S.W.3d 759",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        9461703
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "774-75"
+        },
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/sw3d/60/0759-01"
+      ]
+    },
+    {
+      "cite": "25 S.W.3d 101",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "113",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "867 A.2d 1095",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        853627
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1103",
+          "parenthetical": "stating that the merger doctrine is also referred to as the collateral-felony doctrine"
+        },
+        {
+          "page": "1103-05",
+          "parenthetical": "discussing the conceptual justifications underlying the merger doctrine"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/md/385/0217-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-068",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        322338
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/122/0596-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 361",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "98 N.M. 771",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1582572
+      ],
+      "weight": 2,
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/98/0771-01"
+      ]
+    },
+    {
+      "cite": "1982-NMCA-151",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "275 P.3d 110",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "2012-NMSC-008",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4188256
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm-app/1/0535-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-014",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        827365
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        },
+        {
+          "page": "¶ 24"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/126/0132-01"
+      ]
+    },
+    {
+      "cite": "110 N.M. 76",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        716944
+      ],
+      "weight": 2,
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/110/0076-01"
+      ]
+    },
+    {
+      "cite": "1990-NMSC-049",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 46"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "1999-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        106506
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶¶ 15-21"
+        },
+        {
+          "page": "¶ 18"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/128/0454-01"
+      ]
+    },
+    {
+      "cite": "112 N.M. 554",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720271
+      ],
+      "weight": 2,
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/112/0554-01"
+      ]
+    },
+    {
+      "cite": "1991-NMSC-084",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 2
+    },
+    {
+      "cite": "122 N.M. 148",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        322283
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that the merger doctrine is also referred to as the collateral-felony doctrine"
+        },
+        {
+          "parenthetical": "stating that the merger doctrine is also referred to as the collateral-felony doctrine"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/122/0148-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-043",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 13,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that the merger doctrine is also referred to as the collateral-felony doctrine"
+        },
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶¶ 11-14"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶19"
+        },
+        {
+          "page": "¶25"
+        },
+        {
+          "page": "¶¶ 15, 18"
+        },
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "2007-NMSC-021",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3669832
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nm/141/0801-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2152,
+    "char_count": 75896,
+    "ocr_confidence": 0.794,
+    "pagerank": {
+      "raw": 4.643594115661138e-8,
+      "percentile": 0.2917867026224309
+    },
+    "sha256": "2c6ae38560d17ce75dae8a432c391e094882887c527413de7e06d902492eff47",
+    "simhash": "1:5a32e60ceeca2b6b",
+    "word_count": 12026
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Douglas Driggers, District Judge",
+      "PETRA JIMENEZ MAES, Senior Justice",
+      "CHARLES DANIELS, Chief Justice",
+      "BARBARA VIGIL, Justice",
+      "EDWARD L. CHÁVEZ, Justice, specially concurring",
+      "JUDITH K. NAKAMURA, Justice, dissenting"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. ERIC MARQUEZ, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nMAES, Justice.\n{1} In this case we again address whether shooting at or from a motor vehicle can serve as a predicate for felony murder. We recognize that the collateral-felony rule has generated confusion and hope to clarify its application in this opinion. Following trial, the jury found Defendant Eric Marquez guilty of first-degree felony murder contrary to NMSA 1978, Section 30-2-1 (A)(2) (1994), and shooting from a motor vehicle causing great bodily harm contrary to NMSA 1978, Section 30-3-8(B) (1993). The underlying felony supporting Defendant’s felony murder conviction was the felony of shooting from a motor vehicle. To avoid double jeopardy concerns, the district court vacated Defendant’s conviction of shooting from a motor vehicle. The district court sentenced Defendant to a term of life imprisonment followed by a minimum period of five years of parole supervision. In his direct appeal, Defendant claims that: (1) shooting at a motor vehicle cannot serve as a predicate felony in the context of a felony murder conviction; (2) the court erred in precluding evidence of drive-by shootings at Defendant’s home before 2010; (3) the jury instructions on felony murder and self-defense failed to instruct on the essential elements that Defendant did not act in self-defense or with sufficient provocation; and (4) admission of the Medical Investigator’s testimony violated Defendant’s confrontation rights.\n{2} We hold that the crime of shooting at or from a motor vehicle may not serve as the predicate felony in support of a felony murder charge and vacate Defendant’s felony murder conviction. We reject Defendant’s second, third, and fourth claims. We remand to the district court for entry of an amended judgment reinstating his conviction for shooting from a motor vehicle.\nI. FACTS AND PROCEDURAL HISTORY\n{3} On March 10,2011, J.T. Melendrez, with his girlfriend Angel Ortega in the passenger seat of his car, drove to a gas pump at a local convenience store and parked his car. While Melendrez carried a gun on some occasions, he left the weapon in the car at Ortega’s urging. Melendrez got out of his car and walked toward the store. Suddenly, Defendant drove into the convenience store parking lot, yelling from his truck. Defendant shot the unarmed Melendrez once from inside his vehicle and twice after exiting his vehicle, while yelling “[tjhat’s what you fucking get. You shouldn’t have fucking went past my house, stupid bitch.”\n{4} Ortega ran to Defendant and confronted him. She told Defendant that “it wasn’t [Melendrez’s] fault” because Melendrez had just been picking up Ortega. Defendant said “[tjhat’s what he fucking gets for passing by my house.” Defendant then got in his car and drove away. As he drove toward his home, Defendant called 911 to report what he had done.\n{5} Las Cruces Police Department Agent Gabriel Arenibas was working that evening and was directed to Defendant’s home by dispatch. When Arenibas arrived at Defendant’s address, Defendant was outside and talking on his cellular telephone. Defendant got down on the ground as soon as he saw Arenibas. Defendant was “emotional,” but Arenibas was able to detain him. Other officers responded and Arenibas walked Defendant to the back seat of a marked patrol car. Defendant told Arenibas that he had “messed up his life to protect his family.”\n{6} Detective Mark Meyers, also of the Las Cruces Police Department, was directed to respond to the scene of the shooting. But while he was on his way he learned that Defendanthadbeen apprehended, and Meyers instead went to the police station to meet with Defendant. Defendant waived his Miranda rights and agreed to speak with Detective Meyers. Defendant admitted to shooting Melendrez.\n{7} Defendant told police that he had been eating with his wife at a Subway earlier that evening. While at the Subway, Defendant received a call from a neighbor who said that Melendrez was driving around Defendant’s home. Defendant claimed to have been worried because he believed that Melendrez had been involved in drive-by shootings at Defendant’s home in the past. Defendant thus wanted to go home and check on his property.\n{8} Defendant said that while he was on his way home he saw Melendrez’s truck at a convenience store. Defendant explained that he decided to stop and tell Melendrez to leave his family and his home alone. Defendant claimed that before he got out of his own car Melendrez “made a move” as if to pull a gun from his waistband. And from inside of his own car, Defendant responded by shooting Melendrez with a shotgun. Defendant then got out of his car and shot Melendrez again. Defendant acknowledged that he could have simply driven past the convenience store or driven away without shooting Melendrez. But, Defendant explained, he did not do that because he wanted to tell Melendrez to leave him alone.\n{9} Chief Medical Investigator Dr. Ross Zumwalt assisted in the autopsy of Melendrez’s body. Melendrez had sustained one gunshot wound to his chest and one to his abdomen. Dr. Zumwalt determined that these two gunshot wounds caused Melendrez’s death, and that the manner of death was homicide.\n{10} The jury convicted Defendant of first-degree felony murder contrary to Section 3 0-2-1 (A)(2), and shooting at or from a motor vehicle causing great bodily harm contrary to Section 30-3-8(B). To avoid double jeopardy concerns, the district court vacated Defendant’s conviction of shooting from a motor vehicle. The district court sentenced Defendant to a term of life imprisonment followed by a minimum period of five years of parole supervision. Defendant appealed directly to this Court. N.M. Const, art. VI, § 2 (“Appeals from a judgment of the district court imposing a sentence of death or life imprisonment shall be taken directly to the supreme court.”). Rule 12-102(A)(1)NMRA. In his direct appeal, Defendant claims that: (1) shooting at a motor vehicle cannot serve as a predicate felony in the context of a felony murder conviction; (2) the court erred in precluding evidence of drive-by shootings at Defendant’s home before 2010; (3) the jury instructions on felony murder and self-defense failed to instruct on the essential elements that Defendant did not act in self-defense or with sufficient provocation; and (4) admission of the medical investigator’s testimony violated Defendant’s confrontation rights.\nII. DISCUSSION\nA. Shooting from a motor vehicle was improperly used as a predicate for felony murder in this case\n1. Introduction and standard of review\n{11} The jury found Defendant guilty of first-degree felony murder and shooting from a motor vehicle causing great bodily harm. Defendant argues that the Legislature did not intend to make shooting at or from a motor vehicle a predicate felony for purposes of felony murder and that we should thus reverse his conviction of felony murder. More specifically, Defendant contends that shooting at or from a motor vehicle is in essence a crime of assault or battery and is not independent of or collateral to a murder committed during the course of the shooting. In response, the State argues that shooting at or from a vehicle should uniformly be treated as a collateral felony because, unlike aggravated battery, it is “a crime which itself carries a high degree of risk to people other than the murder victim.”\n{12} Defendant’s arguments raise questions of law, which we review de novo. State v. Rowell, 1995-NMSC-079, ¶ 8, 121 N.M. 111, 908 P.2d 1379. The fundamental principle of any attempt at statutory interpretation is to further the legislative intent and purposes underlying the statute. See Sec. Escrow Corp. v. State Taxation & Revenue Dep't, 1988-NMCA-068, ¶ 6, 107 N.M. 540, 760 P.2d 1306. “In construing a statute, our charge is to determine and give effect to the Legislature’s intent.” Marbob Energy Corp. v. N.M. Oil Conservation Comm’n, 2009-NMSC-013, ¶ 9, 146 N.M. 24, 206 P.3d 135.\n2. New Mexico’s felony murder rule\n{13} There are three types of first-degree murder in New Mexico: (1) willful and deliberate killings; (2) killings committed “in the commission of or attempt to commit any felony,” so-called felony murder; and (3) killings committed by an act greatly dangerous to the lives of others so as to indicate a depraved mind. Section 30-2-l(A). To obtain a conviction of felony murder, the prosecution must prove beyond a reasonable doubt that the defendant committed or attempted to commit a felony, which was either a first-degree felony or was committed under circumstances or in a manner dangerous to human life, that the defendant caused the death of the victim during the commission or attempted commission of the felony, and that the defendant intended to kill or knew that his or her acts created a strong probability of death or great bodily harm. See UJI14-202 NMRA.\n{14} This Court has examined the felony murder doctrine on numerous occasions, and we have repeatedly emphasized that the Legislature intended to limit the application of this crime. See Campos v. Bravo, 2007-NMSC-021, ¶ 9, 141 N.M. 801, 161 P.3d 846; State v. Campos, 1996-NMSC-043, ¶ 22, 122 N.M. 148, 921 P.2d 1266; State v. Ortega, 1991-NMSC-084, ¶¶ 14-15, 112 N.M. 554, 817 P.2d 1196, abrogated on other grounds by State v. Frazier, 2007-NMSC-032, ¶ 1, 142 N.M. 120, 164 P.3d 1; State v. Harrison, 1977-NMSC-038, ¶¶ 12-14, 90 N.M. 439, 564 P.2d 1321, superseded by rule on other grounds by Tafoya v. Baca, 1985-NMSC-067, ¶ 17, 103 N.M. 56, 702 P.2d 1001. Among the many limitations we have placed on which felonies may serve as the predicate to a felony murder conviction, the one that has generated the most confusion is the collateral-felony rule. This rule requires that the predicate felony “be independent of or collateral to the homicide.” Harrison, 1977-NMSC-038, ¶ 9. We have also held that “the predicate felony cannot be a lesser-included offense of second-degree murder.” Campos, 1996-NMSC-043, ¶ 19.\n{15} “The collateral-felony doctrine derived from our concern that the prosecution may be able to elevate improperly the vast majority of second-degree murders to first-degree murders by charging the underlying assaultive act as a predicate felony for felony murder.” Bravo, 2007-NMSC-021, ¶ 10 (internal quotation marks and citation omitted). Thus,\nthe purpose of the collateral-felony limitation to the felony-murder doctrine is to further the legislative intent of holding certain second-degree murders to be more culpable when effected during the commission of a felony — thereby elevating them to first-degree murders — while maintaining the important distinction between the classes of second- and first-degree murders.\nCampos, 1996-NMSC-043, ¶ 22.\n{16} As a result, not all felonies can serve as a predicate for felony murder. For one thing, some felonies are not inherently dangerous to human life or are not committed in a dangerous manner. For another, all or virtually all murders include the commission of some underlying felony in the nature of an assault or battery. See Bravo, 2007-NMSC-021, ¶ 12. The theory of felony murder is that a defendant shall be presumed to have the requisite culpability and mental state for first-degree murder due to the fact that the killing occurred during the dangerous enterprise of committing a felony. See Harrison, 1977-NMSC-038, ¶ 9.\n{17} In order to explain the purpose of the collateral-felony rule, we begin with the relationship between second-degree murder and the crime of battery, which is the prototypical lesser-included offense of murder that fails to meet the collateral-felony requirement. See Bravo, 2007-NMSC-021, ¶ 12. When an individual unlawfully touches or applies force to the person of another in a rude or insolent manner, the individual commits the crime of battery. NMSA 1978, § 30-3-4 (1963). The level of the offense ranges from a petty misdemeanor to a third-degree felony depending on the offender’s mental state, the degree of harm inflicted, and the instrumentality used to commit the battery. See § 30-3-4; NMSA 1978, § 30-3-5 (1969). A battery committed with an intent to injure that results in painful temporary disfigurement or loss of function of a member or organ is a misdemeanor. See § 30-3-4; NMSA 1978, § 30-3-5 (1969). When there is an intent to injure and the battery results in great bodily harm, involves a deadly weapon, or is committed in a manner that could result in great bodily harm, the crime is a third-degree felony. Section 30-3-5(A), (C).\n{18} If a battery results in death, the crime would remain a third-degree felony unless the offender acted with an intent to kill or knowledge of a serious likelihood of death or great bodily harm, in which case the crime is second-degree murder. See State v. Garcia, 1992-NMSC-048, ¶ 20, 114 N.M. 269, 837 P.2d 862; see also State v. Varela, 1999-NMSC-045, ¶ 14, 128 N.M. 454, 993 P.2d 1280 (concluding that the statutory definition of great bodily harm includes death). Although second-degree murder and aggravated battery may differ in resulting harm or mens rea, or both, the offender’s underlying intention to injure the victim is common to both. The crime of aggravated battery does not require a felonious purpose other than injuring the victim and thus cannot be an independent felony for purposes of felony murder. The difference between aggravated battery and second-degree murder is thus a difference of degree, not of kind, which is why aggravated battery is a lesser-included offense of second-degree murder. “[I]t is impossible to commit second degree murder without committing some form of both aggravated assault and aggravated battery.” Campos, 1996-NMSC-043, ¶ 23.\n{19} Our case law requires us to “look, not to the nature of the act, but rather to whether the legislature intended that a particular felony should be able to serve as a predicate to felony murder.” Bravo, 2007-NMSC-021, ¶ 14 (internal quotation marks and citation omitted). For purposes of the collateral-felony rule, legislative intent is better reflected in an assessment of felonious purpose. When a crime’s objective is to injure or kill, the crime cannot be said to be independent of a murder committed during the course of that crime. It is this aspect of a predicate felony, together with its inherent dangerousness and the presence of a second-degree murder mens rea, that elevates the homicide to first-degree murder. We emphasize, however, that this assessment of a predicate felony’s purpose is principally abstract in nature and is based largely on the Legislature’s definition of the crime. It is not the kind of factual assessment of purpose formerly used in California that we expressly rejected in Campos, 1996-NMSC-043, ¶¶ 12, 18-19.\n{20} In Campos, even though we determined that the defendant’s conduct underlying his conviction of criminal sexual penetration (CSP) and felony murder was “unitary,” id. ¶ 48, we held that CSP was properly used as a predicate for felony murder because CSP is not a lesser-included offense of second-degree murder, id. ¶ 25. CSP under NMSA 1978, Section 30-9-11 (2009) requires “engaging in [a] specified act[] or some form of penetration of the genital or anal openings of another” without any mens rea that is similar to the mens rea required for second-degree murder. Campos, 1996-NMSC-043, ¶ 25. The felonious purpose of CSP — other than to injure the victim — can be described as the “imposition of sexual activity on those who are not willing participants in fact or in law.” See State v. Stevens, 2014-NMSC-011, ¶¶ 26, 29, 38, 323 P.3d 901. The legislative intent underlying CSP is the protection of people from unlawful intrusions into enumerated areas of the body. See State v. Pierce, 1990-NMSC-049, ¶ 14, 110 N.M. 76, 792 P.2d 408 (recognizing that the legislative intent underlying CSP of a minor is the protection from unlawful intrusions into enumerated areas of the body). The legislative rationale for enumerating areas of the body is the likelihood that “greater pain, embarrassment, psychological trauma, or humiliation may result from contact with intimate body parts as compared to contact with other parts of the body.” Id. ¶ 15. Unlawful contact with other areas of the body is generally punishable under other statutes. Id. ¶ 16.\n{21} As this Court explained in Campos:\n[I]n those situations in which there is more than one statutory definition of the requisite dangerous felony, a question may arise regarding which of the alternative statutory definitions is applicable for purposes of collateral-felony analysis. ... In such a situation, the correct inquiry is whether it is possible to commit second degree murder without committing some form of the dangerous felony.\n1996-NMSC-043, ¶ 23. Because it is possible to commit second-degree murder without committing some form of CSP, CSP can serve as a predicate felony. Id. ¶ 25.\n{22} Another example of a dangerous felony that has a felonious purpose independent from the purpose of injuring a person is aggravated burglary. In Bravo, 2007-NMSC-021, ¶ 15, we held that aggravated burglary could serve as a predicate felony for a felony-murder conviction reasoning that aggravated burglary required the unauthorized entry of a structure, and the intent to commit a felony therein, elements which are not required for second-degree murder. See id. Further, it did not matter that the intent of the defendant in Bravo to commit a murderous battery was the basis for the commission of the predicate felony of aggravated burglary because it is possible to commit aggravated burglary with a felonious purpose other than physical injury to the victim. Id. Similarly, we held in State v. Duffy that robbery could serve as a predicate felony for felony murder because “the theft of anything of value from the person of another” is an independent felonious purpose apart from assaulting or battering the victim. 1998-NMSC-014, ¶ 25, 126 N.M. 132, 967 P.2d 807 (internal quotation marks and citation omitted), overruled on other grounds by State v. Tollardo, 2012-NMSC-008, ¶ 37 & n.6, 275 P.3d 110.\n{23} In the present case, viewed from this independent-purpose-based perspective, shooting at or from a motor vehicle is “an elevated form of aggravated battery,” State v. Tafoya, 2012-NMSC-030, ¶ 27, 285 P.3d 604, and thus cannot be used as a predicate for felonymurder, see Campos, 1996-NMSC-043, ¶ 23. Shooting from a motor vehicle “consists of willfully discharging a firearm at or from a motor vehicle with reckless disregard for the person of another.” Section 30-3-8(B). “‘Reckless disregard’ requires that Defendant’s conduct created a substantial and foreseeable risk and that Defendant disregarded such risk and was wholly indifferent to the consequences of his conduct and the welfare and safety of others.” State v. Mireles, 2004-NMCA-100, ¶ 38, 136 N.M. 337, 98 P.3d 727 (citing UJI 14-344 NMRA); see also UJI 14-1704 NMRA. However, shooting from a motor vehicle must nevertheless still be committed with reckless disregard for another person’s safety. Section 30-3-8(B). Thus, at its core, Section 30-3-8 is one of a group of statutes that proscribe assault and battery. Much like battery or assault is enhanced when committed with a deadly weapon, see NMSA 1978, §§ 30-3-2(A) (1963) & 30-3-5(C), the act is a greater crime still when committed with both a deadly weapon and a vehicle. In both situations, the Legislature determined that the crime is more serious and a greater threat to human life, not because of any purpose or objective other than the commission of a battery, but because of the use of a dangerous instrumentality. And just as aggravated battery with a deadly weapon cannot be a collateral felony for purposes of felony murder, the crime of shooting at or from a motor vehicle likewise lacks an independent felonious purpose from that required under second-degree murder.\n{24} Accordingly, a dangerous felony may only serve as a predicate to felony murder when the elements of any form of the predicate felony — looked at in the abstract — require a felonious purpose independent from the purpose of endangering the physical health of the victim. See Campos, 1996-NMSC-043, ¶ 23 (“For example, it is impossible to commit second degree murder without committing ‘some form’ of both aggravated assault and aggravated battery. Thus, both of those offenses would always be deemed to be non-collateral even though, under some statutory definitions, aggravated battery and aggravated assault include one or more statutory elements that are not elements of second degree murder.”). In other words, there must be a felonious purpose that is independent from the purpose of endangering the physical health of the victim before the dangerous felony can be used to elevate a second-degree murder to a first-degree murder. Our responsibility is to make certain that, consistent with legislative intent, first-degree murder is reserved only for the most reprehensible murders that are deserving of the most serious punishment under New Mexico law. See Tafoya, 2012-NMSC-030, ¶ 38.\n{25} Here, Defendant’s underlying felony — a form of aggravated battery — did not have a felonious purpose independent from the purpose of endangering the physical health of the victim because shooting from a motor vehicle must be accomplished with reckless disregard for the safety of a person. Defendant’s shooting from the motor vehicle directly resulted in the victim’s death. And by itself, Defendant’s use of a motor vehicle to commit the killing does not automatically elevate his crime of second-degree murder to first-degree murder. Otherwise, the manner and method of killing would be essentially self-enhancing. Using a vehicle to kill another, without more, is no different from killing another with a deadly weapon; in both cases, the instrumentality of choice facilitates the killing, but in neither case can the underlying felony — whether shooting from a motor vehicle contrary to Section 30-3-8 or aggravated battery with a deadly weapon contrary to Section 30-3-5(C) — be reasonably described as inherently independent of the murder.\nB. The district court correctly denied Defendant’s request to introduce evidence about drive-by shootings that occurred before 2010\n{26} Before trial, Defendant filed amotion asking that the State be required to produce “crime scene photographs and other items,” relating to investigations into “gang disturbances and violence initiated by members of the East-Side gang toward the Marquez family.” Specifically, Defendant sought documents from investigations into incidents occurring on August 12, 2005, October 3, 2008, September 19, 2009, and January 1, 2010. Defendant alleged that the police had photographs and in some cases other physical evidence that was relevant to “confirm the history of East-Side gang shootings directed” at Defendant’s home. Defendant also claimed to have evidence that Melendrez had threatened Defendant at least twice. The State filed a motion objecting to the release of photographs and other evidence as irrelevant and inadmissible, and argued that none of the items sought connected Melendrez to any of the incidents at Defendant’s house. The State asked that the court preclude any evidence or testimony relating to these prior incidents.\n{27} Apparently following a hearing, the court granted Defendant’s request, in part. Specifically, while the court denied disclosure of evidence produced or recovered in the August 2005 investigation, the court ordered disclosure of the photographs and other evidence relating to the later incidents. The State then filed a motion in limine seeking to preclude Defendant from relying on evidence from the 2008, 2009, and 2010 incidents. The State argued that the probative value of such evidence was substantially outweighed by the unfair prejudice and that the evidence would confuse and mislead the jury. In support of its argument, the State observed that Melendrez was not mentioned in any of the drive-by shootings at Defendant’s house and that even the most recent of the incidents documented in these reports had taken place over a year before Defendant killed Melendrez.\n{28} The district court issued a written decision again ordering the disclosure of the photographs and other evidence relating to the later incidents and again denying Defendant’s motion with respect to the earliest incident. The State filed an amended motion in limine that same day. In that motion, the State noted that it had complied with the court’s production order but again asked the court to preclude use of that evidence at trial. The State argued that the evidence was not relevant because Melendrez was not mentioned in any of the reports. The State also sought preclusion of any of the victim’s prior bad acts under Rule 11 -404(A) NMRA. The State specifically referenced a charge Melendrez had pending at the time he was killed, as well as exclusion of defense witnesses, as irrelevant.\n{29} Defendant filed his own motion in limine a few days later. In it, Defendant detailed several past incidents that he argued were relevant to his claim of self-defense. Defendant described: (1) a complaint filed by Defendant’s brother Omar on January 15, 2006, about a drive-by shooting at 5010 Ortega Road, before Defendant lived there; (2) an additional complaint filed by Omar about a drive-by shooting on August 24,2006, also before Defendant lived there; (3) a report made by Defendant’s cousin Junie T alamantes about a drive-by shooting on October 3, 2008; (4) a report made by Defendant’s girlfriend Meiley Estupinon concerning a drive-by shooting on September 19, 2009 ; (5) a report by Defendant about a drive-by shooting on January 1, 2010; (6) a January 11, 2011, incident in which Melendrez allegedly assaulted a person named Hector Andrade with a firearm; and (7) a report allegedly made by Arturo Chaves that he saw Melendrez drive by and shoot at Defendant’s residence on March 10, 2011, about thirty minutes before Defendant killed Melendrez. Defendant claimed that each of these incidents was relevant to show his state of mind at the time he killed Melendrez and to show that Defendant reasonably believed thatMelendrez was armed when he was shot and killed by Defendant.\n{30} The court heard argument on the motions on the first day of trial. Defendant again explained what had happened at these incidents and argued that they were all relevant to his claim of self-defense. Defendant claimed that he knew about the drive-by shootings that occurred at the home before he had moved in. Defendant argued that the drive-by shootings were relevant to his state of mind when he confronted Melendrez on March 10, 2011, because he and his family had endured the shootings for so long that Defendant was fearful for himself and his family.\n{31} The district court ruled that evidence concerning drive-by shootings that had occurred before January 1, 2010, would be excluded. The court found that shootings before 2010 were “too remote in time” and that the evidence of drive-by shootings after 2010 provided a sufficient basis for Defendant to present his self-defense claim.\n{32} On appeal to this Court, Defendant argues that the exclusion of this evidence was reversible error. Defendant argues that the evidence was admissible under Rule 11-405(B) NMRA as an element of his self-defense claim — the element of fear of immediate harm. Defendant claims that evidence of a victim’s prior violent conduct can be admitted to show a defendant’s fear of the victim, and that he had a right to “formulate a strategy to defend the charges brought by the State.” Defendant also argues that the New Mexico Rules of Evidence call for the liberal admission of evidence tending to support a criminal defense.\n{33} “In general, we review a trial court’s admission or exclusion of evidence for abuse of discretion. An abuse of discretion arises when the evidentiary ruling is clearly contrary to logic and the facts and circumstances of the case.” State v. Armendariz, 2006-NMSC-036, ¶ 6, 140 N.M. 182, 141 P.3d 526 (citation omitted), overruled on other grounds by State v. Swick, 2012-NMSC-018, ¶ 31, 279 P.3d 747.\nWhen a defendant is claiming self-defense, his or her apprehension of the victim is an essential element of his or her claim. Therefore, under Rule 11 -405(B), evidence of specific instances of the victim’s prior violent conduct of which the defendant was aware may be admitted to show the defendant’s fear of the victim.\nArmendariz, 2006-NMSC-036, ¶ 17.\n{34} In Armendariz, this Court held that Rule 11-405(B) allows evidence of specific instances when the evidence is relevant to an essential element of a charge, claim, or defense. 2006-NMSC-036, ¶ 17. Because a defendant’s fear of the victim is an essential element of a self-defense claim, Rule 11-405(B) allows a defendant to establish that element by presenting “evidence of specific instances of the victim’s prior violent conduct of which the defendant was aware . . . .” See 2006-NMSC-036, ¶ 17. This evidence may not be presented simply to establish the victim’s purportedly violent character, which is not an element of self-defense. Id. Indeed, such evidence is merely “circumstantial evidence that tends to show that the victim acted in conformity with his or her character on a particular occasion.” Id. “Thus, under Rule 11-405(B) NMRA, only reputation or opinion evidence” is admissible to show that the victim was the first aggressor. Armendariz, 2006-NMSC-036, ¶ 17. Evidence of specific instances of conduct is not admissible for that purpose. Id.\n{35} The excluded evidence consisted of photographs and witnesses who would testify about the four incidents reported by people other than Defendant. According to Defendant’s proffer, none of the people who reported drive-by shootings identified Melendrez as the perpetrator. Indeed, the closest these events came to implicating Melendrez was a rumor that Melendrez’s gang was intending a drive-by shooting on the weekend of one incident, and Defendant’s brother, Omar, hearing someone yell the name of the gang immediately after or during another shooting. Defendant failed to proffer any evidence that Melendrez was the person who committed or even prompted the drive-by shootings. Even if the purpose of the excluded evidence was to establish an element of Defendant’s self-defense claim, the district court properly excluded the evidence because Defendant failed to establish that the events were specific instances of Melendrez’s conduct as opposed to the conduct of someone else and Defendant therefore failed to prove the relevance of this evidence to Defendant’s apprehension of Melendrez. See Rule 11-104(B) NMRA (“When the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.”). As a result, the evidence was not admissible as specific instances of Melendrez’s conduct.\n{36} In explaining its decision to exclude the incidents that took place before 2010, the district court observed that Defendant was allowed to present ample testimony about Melendrez’s earlier violent conduct to enable him to present his self-defense claim. The district court permitted Defendant to present evidence of drive-by shootings at his home that occurred on January 1, 2010, in April of 2010, and on another unspecified date in 2010. The court allowed testimony about circumstances in which Melendrez purportedly harassed Defendant and his family. One witness testified on Defendant’s behalf that Melendrez had once driven up to Defendant and said that he was going to kill Defendant. The district court additionally permitted Defendant to present testimony that a neighbor saw Melendrez drive by Defendant’s home and shoot at it about thirty minutes before Defendant killed Melendrez, even though there was no evidence that Defendant knew about that incident before he killed Melendrez.\n{37} In addition to the district court’s generous admission of Defendant’s requested evidence, each of these supposed incidents appeared in the self-defense instruction Defendant tendered. Further, Defendant argued that these incidents caused him to live in fear of more drive-by shootings at his home. This fear, in turn, caused Defendant to “reasonabl[y]” believe that Melendrez was reaching for a gun in the convenience store parking lot, and shooting Melendrez was therefore an act of self-defense. On this record, we simply cannot say that Defendant was denied the opportunity to establish his purported fear of immediate harm from Melendrez given the use of these specific examples of Melendrez’s violent conduct.\n{38} Accordingly, the district court did not abuse its discretion in excluding some of the specific instances of Melendrez’s purported violent conduct. These incidents were remote in time from Defendant’s killing of Melendrez, the excluded evidence established at most the impermissible inference that Melendrez had a character trait for violence, and Defendant failed to show that these specific instances of conduct were perpetrated by Melendrez.\nC. Defendant’s confrontation rights were not violated\n{39} Chief Medical Investigator Dr. Ross Zumwalt assisted in the autopsy of Melendrez’s body. Dr. Zumwalt worked with and supervised Dr. John Burns, a trainee in forensic pathology, in conducting the autopsy. Dr. Zumwalt may have left during part of the autopsy, but he specifically recalled being present for at least part of the procedure and he recalled examining Melendrez’s wounds. In addition to analyzing the wounds, Dr. Zumwalt considered the trajectories of the bullets, and he personally arrived at his own conclusions about both the wounds and their trajectories. At the autopsy, Dr. Zumwalt reviewed Dr. Burns’s conclusions and signed the autopsy report.\n{40} At trial, the defense moved to strike Dr. Zumwalt’s testimony because Defendant was unable to confront Dr. Burns. The district court denied the motion, stating that precedent supported Dr. Zumwalt’s testimony where he was present and supervising during the autopsy and where he had personal knowledge of how the autopsy was conducted.\n{41} “W e generally review Confrontation Clause claims de novo.” State v. Cabezuela, 2011-NMSC-041, ¶ 49, 150 N.M. 654, 265 P.3d 705. Under the Confrontation Clause, “an out-of-court statement that is both testimonial and offered to prove the truth of the matter asserted may not be admitted unless the declarant is unavailable and the defendant had a prior opportunity to cross-examine the declarant.” State v. Navarette, 2013-NMSC-003, ¶ 7, 294 P.3d 435, cert. denied, _ U.S. _, 134 S. Ct. 64 (2013). In Cabezuela, this Court held that the testimony of a supervising pathologist regarding an autopsy performed by a forensic pathology fellow did not violate the Confrontation Clause where the record indicated the supervising pathologist “had personal knowledge of and participated in making the autopsy report findings by virtue of her own independent participation in the microscopic exam, examination of the body and the injuries, and examination of all the photographs.” 2011-NMSC-041, ¶¶ 48-52 (distinguishing Melendez-Diaz v. Massachusetts, 557 U.S. 305 (2009), and Bullcoming v. New Mexico, _ U.S. _, 131 S. Ct. 2705 (2011)); see also State v. Gonzales, 2012-NMCA-034, ¶ 26, 274 P.3d 151 (“After Cabezuela, we know that a pathologist who participated in an autopsy can testify to his or her opinion, including opinions utilizing another participating doctor’s notes.”); Marshall v. People, 2013 CO 51, ¶ 19, 309 P.3d 943 (“Other courts that have considered this question have found that supervisor testimony satisfies the Confrontation Clause when the supervisor prepares or signs the report.”).\n{42} Here, the record indicates that Dr. Zumwalt had personal knowledge of and participated in the autopsy and preparation of the autopsy findings. He reviewed and signed the autopsy report. The Confrontation Clause creates no barrier to Dr. Zumwalt testifying about his own observations from his examination of the body, the wounds, and the bullet trajectories. Under Cabezuela, there was no violation of the Confrontation Clause. 2011-NMSC-041, ¶¶ 48-52.\nD. Defendant’s remaining claims\n{43} At trial, the parties discussed the proposed jury instructions extensively. The State proffered a full version of the instructions while Defendant submitted his own, revised version of the self-defense instruction, which the court accepted. Defendant raised no objection to the State’s proffered instruction on felony murder, and he did not submit his own felony-murder instruction.\n{44} The district court instructed the jury that Defendant killed Melendrez in self-defense if\n1.There was an appearance of immediate danger of death or great bodily harm to the defendant as a result of Julian Melendrez, threatening to kill defendant, engaging in violent and intimidating acts against the defendant, and making a movement toward the defendant that created a belief in defendant’s mind that Julian Melendrez was reaching for a gun to shoot defendant; and\n2. The defendant was in fact put in fear by the apparent danger of immediate death or great bodily harm and killed Julian Melendrez because of that fear; and\n3. A reasonable person in the same circumstances as the defendant would have acted as the defendant did.\nThe court further instructed the jury that “[t]he burden is on the state to prove beyond a reasonable doubt that the defendant did not act in self-defense. If you have a reasonable doubt as to whether the defendant acted in self-defense you must find the defendant not guilty.” The felony-murder jury instructions did not contain an element of unlawfulness; that is, the instructions did not duplicate the language that the State must disprove self-defense beyond a reasonable doubt.\n{45} Defendant argues that, even though the jury was instructed on self-defense in a separate instruction ofhis own authorship, the district court erroneously failed to include a lack of self-defense as an element of felony-murder. Conceding that he failed to preserve the issue, Defendant argues that the district court’s omission of self-defense in the felony-murder instruction constitutes fundamental error.\n{46} Because Defendant did not object to the jury instructions as given or offer his own instructions, we review for fundamental error. State v. Cunningham, 2000-NMSC-009, ¶¶ 8, 11, 128 N.M. 711, 998 P.2d 176. Inareview for fundamental error, we first determine whether an error occurred. State v. Silva, 2008-NMSC-051, ¶ 11, 144 N.M. 815, 192 P.3d 1192, holding modified on other grounds by State v. Guerra, 2012-NMSC-027, ¶¶ 12-15, 284 P.3d 1076. If an error occurred, we determine whether the error was fundamental; we employ the fundamental error exception “very guardedly,” and apply it “only under extraordinary circumstances to prevent the miscarriage of justice.” Silva, 2008-NMSC-051, ¶ 13 (internal quotation marks and citations omitted).\nError that is fundamental must be such error as goes to the foundation or basis of a defendant’s rights or must go to the foundation of the case or take from the defendant a right which was essential to his defense and which no court could or ought to permit him to waive.\nCunningham, 2000-NMSC-009, ¶ 13 (internal quotation marks and citation omitted).\n{47} This Court has outlined special concerns in reviewing for fundamental error in the context of jury instructions. Indeed,\n[wjhere a man’s fundamental rights have been violated, while he may be precluded by the terms of the statute or the rules of appellate procedure from insisting in this court upon relief from the same, this court has the power, in its discretion, to relieve him and to see that injustice is not done.\nId. ¶ 12 (internal quotation marks and citation omitted). “In applying the fundamental error analysis to deficient jury instructions, we are required to reverse when the misinstruction leaves us with no way of knowing whether the conviction was or was not based on the lack of the essential element.” State v. Montoya, 2013-NMSC-020, ¶ 14, 306 P.3d 426 (internal quotation marks and citation omitted).\n{48} The uniform jury instruction for felony murder lists the essential elements of the crime. See UJI 14-202. Self-defense is not included. See id. But the self-defense instruction use notes provide that, “[i]f this instruction is given, add to the essential elements instruction for the offense charged, ‘The defendant did not act in self defense.’” Use Note 1, UJI 14-5171 NMRA. In Cunningham, the defendant claimed that the deliberate-intent murder instruction was fundamentally flawed because the district court had failed to include “unlawfulness” in the instruction. 2000-NMSC-009, ¶ 8 (internal quotation marks and citation omitted). “In order to prove unlawfulness, the State must disprove the defendant’s self-defense claim beyond a reasonable doubt.” State v. Benally, 2001-NMSC-033, ¶ 10, 131 N.M. 258, 34 P.3d 1134. The defendantin Cunningham did not preserve the issue for review, and this Court reviewed his claim for fundamental error. See 2000-NMSC-009, ¶ 8. We held there that fundamental error did not occur because the jury would not have been confused or misdirected where a separate and proper self-defense instruction was provided to the jury. Id. ¶ 14. This Court went on to hold that the separate and accurate self-defense instruction cured the error of not including the element of unlawfulness in the deliberate-intent murder instruction where “a reasonable juror would understand that an acquittal based on self-defense is inconsistent with a guilty verdict on first-degree deliberate-intent murder.” Id. ¶¶ 17, 22. The Court was “convinced that the element of unlawfulness was decided by the jury when they contemplated the separate self-defense instruction.” Id. ¶ 23. We held that “it would be improper for this Court to exercise its inherent power in this case when it is unlikely that the interests of substantial justice would be furthered.” Id.\n{49} Here, Defendant claimed self-defense, and the district court used the self-defense instruction. As a result, the jury should also have been instructed that self-defense was an essential element of felony murder. It was fundamental error to omit this element. The error, however, is the same as the one that was before us in Cunningham. Id. ¶¶ 7-8. Because Defendant did not object to the instructions as given or offer his own instructions, Cunningham makes it plain that the separate, properly submitted self-defense instruction cured any error. Id. ¶¶ 17, 22-23. The jury could not have reached its verdict under the instructions given without finding beyond a reasonable doubt that Defendant did not act in self-defense. See State v. Barber, 2004-NMSC-019, ¶ 29, 135 N.M. 621, 92 P.3d 633 (“Error is not fundamental when the jury could not have reached its verdict without also finding the element omitted from the instructions.”); see also State v. Smith, 2001-NMSC-004, ¶ 40, 130 N.M. 117, 19 P.3d 254 (“Juries are presumed to have followed the written instructions.”). Accordingly, even though the district court erred by not including the essential element of self-defense in the felony-murder jury instruction, the separate properly submitted self-defense instruction cured the error.\n{50} Ordinarily, in a case such as this one, we would remand for the purpose of having the district court vacate Defendant’s felony murder conviction and enter a conviction of second-degree murder. See Tafoya, 2012-NMSC-030, ¶ 34. However, because of the errors committed in the felony-murder jury instruction, we instead remand for the purpose of vacating the felony-murder conviction and reinstatement of the shooting from a motor vehicle conviction.\n{51} Defendant also argues that there was ample evidence to support a finding that he acted with sufficient provocation such as to reduce felony murder to voluntary manslaughter under a theory of imperfect self-defense. Because we are vacating Defendant’s first-degree felony-murder conviction, we do not reach the issue of whether the district court erred by not including the elements of legally-adequate provocation in the felony-murder jury instruction.\nIII. CONCLUSION\n{52} We hold that the crime of shooting at or from a motor vehicle cannot serve as the predicate felony in a felony-murder conviction. We reject Defendant’s remaining claims of error. We remand to the district court with instructions to enter an amended judgment and sentence vacating Defendant’s first-degree felony-murder conviction and reinstating his conviction of shooting from a motor vehicle.\n{53} IT IS SO ORDERED.\nPETRA JIMENEZ MAES, Senior Justice\nWE CONCUR:\nCHARLES DANIELS, Chief Justice\nBARBARA VIGIL, Justice\nEDWARD L. CHÁVEZ, Justice, specially concurring\nJUDITH K. NAKAMURA, Justice, dissenting",
+        "type": "majority",
+        "author": "MAES, Justice."
+      },
+      {
+        "text": "CHAVEZ, Justice\n(specially concurring).\n{54} This case is the first time since the enactment of NMSA 1978, Section 30-3-8(B) (1993) that a defendant has questioned whether the felony shooting at or from a motor vehicle can support a felony-murder conviction without violating the collateral-felony doctrine. I agree with the majority opinion that this felony cannot serve as the predicate felony for felony murder without violating the collateral-felony doctrine, a doctrine that this Court first described in 1977. See State v. Harrison, 1977-NMSC-038, ¶ 9, 90 N.M. 439, 564 P.2d 1321, superseded by rule on other grounds by Tafoya v. Baca, 1985-NMSC-067, ¶ 17, 103 N.M. 56, 702 P.2d 1001. Therefore, a prosecutor who wants to pursue a first-degree murder conviction for a death resulting from a drive-by shooting or shooting into a dwelling may charge the accused with depraved mind murder pursuant to NMSA 1978, Section 30-2-l(A)(3) (1994). This charge has been available to prosecutors since before the 1987 enactment of Section 30-3-8. See generally State v. McCrary, 1984-NMSC-005, 100 N.M. 671, 675 P.2d 120 (concluding that depraved mind murder was upheld when the defendant shot numerous times from a truck into several tractor-trailers and cabs and killed one person, even though the defendant did not know that a person was in the tractor-trailer). Proving depraved mind murder does not require proof that the defendant intended to kill. See Wayne R. LeFave, Criminal Law § 14.4, at 779 (5th ed. 2010). Proof that a defendant killed someone by engaging in “outrageously reckless conduct . . . with ill will, hatred, spite, or evil intent [and with] total indifference for the value of human life” is proof that the defendant acted with a depraved mind. UJI 14-203 NMRA. This Court has recently noted on more than one occasion that drive-by shootings provide a clear example of the type of gravity and depravity required for a depraved mind murder conviction. State v. Dowling, 2011-NMSC-016, ¶¶ 2-3, 8-11, 150 N.M. 110, 257 P.3d 930; State v. Reed, 2005-NMSC-031, ¶ 31, 138 N.M. 365, 120 P.3d 447. It does not matter that the defendant intended to kill a specific person, but instead killed someone else who was in the line of fire. See State v. Sena, 1983-NMSC-005, ¶ 9, 99 N.M. 272, 657 P.2d 128.\n{55} I also agree with Justice Nakamura that having the Legislature “[e]numerat[e] the felonies that may serve as predicate felonies for felony murder will clarify matters greatly.” Dissenting op. ¶ 72. However, even if the Legislature were not to accept this invitation, in my view, the majority opinion does add clarity to how courts should apply the collateral-felony doctrine.\n{56} In State v. Campos, this Court stated that it\nis impossible to commit second degree murder without committing some form ofboth aggravated assault and aggravated battery. Thus, both of those offenses would always be deemed to be non-collateral even though, under some statutory definitions, aggravated battery and aggravated assault include one or more statutory elements that are not elements of second degree murder.\n1996-NMSC-043, ¶ 23, 122 N.M. 148, 921 P.2d 1266. The Legislature categorizes the crimes listed in Chapter 30, Article 3 of the Criminal Code as assault and battery crimes, which includes the crime of shooting at or from a motor vehicle. All of the dangerous felonies that this Court has held support a felony-murder conviction without violating the collateral-felony doctrine, with one notable exception, are crimes not found in Chapter 30, Article 3. See majority op. ¶¶ 20-23 (listing as examples felony murder cases involving criminal sexual penetration, NMSA 1978, § 30-9-11 (2009); aggravated burglary, NMSA 1978, § 30-6-4 (1989); and robbery, NMSA 1978, § 30-16-2 (1973) as appropriate predicate felonies).\n{57} The one notable exception is the crime of willfully shooting at a dwelling. See State v. Varela, 1999-NMSC-045, ¶ 21, 128 N.M. 454, 993 P.2d 1280; see also § 30-3-8(A). In Varela several shots were fired into a mobile home; the bullet struck the owner as he slept, ultimately resulting in his death. 1999-NMSC-045, ¶ 2. The Varela Court held that shooting at a dwelling may serve as a predicate felony without violating the collateral-felony doctrine because Section 30-3-8 prohibits any shooting at a dwelling and not\nevery instance of shooting at a dwelling which results in death is automatically felony murder. If a defendant shoots into a dwelling, believing it to be abandoned, and kills an occupant, then he or she would be guilty of the felony [shooting at a dwelling], but would not necessarily be guilty of felony murder. In such a fact pattern, a jury might find the requisite mens rea for second degree murder absent, precluding a conviction for felony murder.\n1999-NMSC-045, ¶¶ 13, 18, 21. Therequisite mens rea for second-degree murder requires the defendant to “know that his or her acts create a strong probability of death or great bodily harm,” and therefore an accidental killing would not satisfy the mens rea for second degree murder. Id. ¶ 18. Because the felony of shooting at a dwelling does not have a mens rea similar to the mens rea for second-degree murder, it can be used as a predicate felony for felony-murder purposes. Id.\n{58} The crime of shooting at a dwelling is complete once a person willfully shoots into a dwelling, whether occupied or not. Since its enactment, the crime of shooting at a dwelling has never required that the dwelling be occupied. In its original version Section 30-3-8 read, in relevant part: “[s]hooting at [an] inhabited dwelling . . . consists of willfully discharging a firearm at an inhabited dwelling house .... As used in this section, ‘inhabited’ means currently being used for dwelling purposes, whether occupied or not.” Id. (1987). In 1993 the Legislature simply removed “inhabited” from the statute, making it a crime to willfully shoot at a dwelling — a place where a person lives.\n{59} By contrast, when the Legislature enacted the crime of shooting at or from a motor vehicle in 1993, it included an element not required for shooting at a dwelling or occupied building. Section 30-3-8(B) provides that “[sjhooting at or from a motor vehicle consists of willfully discharging a firearm at or from a motor vehicle with reckless disregard for the person of another.” Id. (1993). The crime of “shooting at a dwelling” does not require that the shooter discharge the firearm with reckless disregard for another person. To find Defendant guilty of the second-degree felony of shooting from a motor vehicle, the jury had to find that he willfully shot a firearm from a motor vehicle with reckless disregard for another person and caused great bodily harm to the victim. See UJI 14-344 NMRA. To find that Defendant acted in reckless disregard, the jury had to find that he “knew that his conduct created a substantial and foreseeable risk, that he disregarded that risk and that he was wholly indifferentto the consequences ofhis conduct and the welfare and safety of others.” See UJI 14-1704 NMRA (as modified).\n{60} In my opinion, the additional element sufficiently distinguishes shooting at or from a motor vehicle from the crime of shooting at a dwelling for purposes of the collateral-felony doctrine. When one willfully discharges a firearm with reckless disregard for another person, the circumstances known to the shooter are such that the shooter knows that his or her act of willfully shooting — not driving or riding in a motor vehicle — is what creates a strong probability of death or great bodily harm. Thus, I conclude that like a form of aggravated battery or aggravated assault (i.e., assault while wearing a mask contrary to NMSA 1978, Section 30-3-2(B) (1963)), the crime of shooting from a motor vehicle cannot be used as a collateral felony, although it includes a statutory element — the motor vehicle — that is not an element of second-degree murder.\n{61} Although I respect both the majority and the dissenting opinions in this case, I am persuaded that the majority opinion is consistent with the collateral-felony doctrine and its purposes. I therefore concur with the majority opinion.\nEDWARD L. CHÁVEZ, Justice\nIf the evidence supports the charge, a prosecutor may also charge an accused with premeditated murder under Section 30-2-l(A).\nState v. Varela, 1999-NMSC-045, ¶ 21, 128 N.M. 454, 993 P.2d 1280 did not address shooting at an occupied building.",
+        "type": "concurrence",
+        "author": "CHAVEZ, Justice"
+      },
+      {
+        "text": "NAKAMURA, Justice\n(dissenting).\n{62} Shooting at or from a motor vehicle, a violation of NMSA 1978, Section 30-3-8(B) (1993), is a collateral felony and may serve as a predicate felony for felony murder. Defendant’s felony-murder conviction should be affirmed. Because I disagree with the central holding of the majority’s opinion, I do not join or offer any comments as to the other conclusions reached by the majority opinion.\n{63} The majority opinion reaches the conclusion that shooting at or from a motor vehicle is not a collateral felony by departing from settled law without justification. Consequently, greater confusion in an already difficult area of law is likely. But the true source of the confusion in this area of law lies with our felony-murder statute itself. This Court’s attempts to make clear and precise that which is vague and inexact have not and are unlikely to provide the type of succinct guidance our bench and bar require as to the applicability of our felony-murder rule. As a majority of other states have done, our Legislature could elect to enumerate the felonies that may serve as predicate felonies and greatly help clarify this area of law. See John O’Herron, Felony Murder without a Felony Limitation: Predicate Felonies and Practical Concerns in the States, 46 No. 4 Crim. Law Bull., art. 4, 668 (2010) (“Thirty-five states have felony murder statutes that enumerate predicate felonies.”); see also State v. Willis, 1982-NMCA-151, ¶ 8, 98 N.M. 771, 652 P.2d 1222 (“The power to define crimes and to establish criminal penalties is a legislative function.”); cf. People v. Farley, 210 P.3d 361, 411 (Cal. 2009) (observing that the policy concerns animating the Legislature to enumerate a particular felony offense as a predicate felony for first-degree felony murder “remain within the Legislature’s domain,” and acknowledging the judiciary’s limited authority to narrow or modify the plain language of a validly enacted criminal statute).\nI. THIS COURT’S COLLATERAL-FELONY JURISPRUDENCE COMPELS THE CONCLUSION THAT SHOOTING AT OR FROM A MOTOR VEHICLE IS A COLLATERAL FELONY\n{64} New Mexico’s felony-murder statute prohibits the killing of one human being by another “in the commission of or attempt to commit any felony . . . .” NMSA 1978, § 30-2-1(A)(2) (1994) (emphasis added). Yet it is not true in New Mexico that “any felony” may serve as a predicate felony for felony murder. See generally State v. Yarborough, 1996-NMSC-068, ¶ 11, 122 N.M. 596, 930 P.2d 131 (observing that a strict reading of the “any felony” language ofSection 30-2-l(A)(2) is inappropriate, and stating that “[w]e look beyond the literal word of the statute to the common-law concept most likely intended by the legislature to be embodied in the statute”). Through the development of an elaborate body of case law, this Court has turned New Mexico’s “broad felony-murder statute into one of the most narrow felony-murder rules in the country.” O’Herron, supra, at 679. The collateral-felony rule is but one of the limitations we have placed on our felony-murder rule. The majority opinion seeks to clarify the purpose and application of this doctrine, but only makes matters more obscure. The contention that our collateral-felony rule derived from concern that the vast majority of second-degree murders might be improperly elevated to first-degree murders, Maj. Op. ¶ 15, does not correctly explain the origins of the collateral-felony rule. Additionally, the majority opinion’s explanation of the rule’s purpose is incomplete. See id. ¶ 17.\n{65} The collateral-felony rule “is more commonly referred to as the merger doctrine because the predicate felony and the homicide are said to merge.” State v. Campos, 1996-NMSC-043, ¶ 8 n.1, 122 N.M. 148, 921 P.2d 1266; see also Roary v. State, 867 A.2d 1095, 1103 (Md. 2005) (stating that the merger doctrine is also referred to as the collateral-felony doctrine); State v. Williams, 25 S.W.3d 101, 113 (Mo. Ct. App. 2000) (same). This Court elected not to use the phrase “merger doctrine,” however, but embraced the phrase “collateral-felony rule” instead to avoid any possible confusion that might arise from duplicative terminology usage. See, e.g., State v. Pierce, 1990-NMSC-049, ¶ 46, 110 N.M. 76, 792 P.2d 408 (observing that, in the double jeopardy context, “[tjhe rule of merger precludes an individual’s conviction and sentence for a crime that is a lesser included offense of a greater charge upon which defendant has also been convicted.”) (emphasis added).\n{66} The merger doctrine is not widely accepted, but has been adopted in jurisdictions, like New Mexico, where the Legislature has not expressly enumerated the felonies capable of supporting a felony-murder conviction. State v. Godsey, 60 S.W.3d 759, 774-75 (Tenn. 2001). The doctrine is a principle for discerning legislative intent. Id. at 774. It is a judicially-created mechanism for assessing whether the Legislature intended to permit a particular felony to serve as a predicate felony for felony murder. State v. Duffy, 1998-NMSC-014, ¶ 23, 126 N.M. 132, 967 P.2d 807, overruled on other grounds by State v. Tollardo, 2012-NMSC-008, 275 P.3d 110. The doctrine’s purpose becomes clearer still when the function of the doctrine in application is considered.\n{67} The merger doctrine prevents “the felony-murder rule from being improperly expanded to encompass nearly all killings, rather than just killings occurring in the course of an independent felony.” 1 Paul H. Robinson, Criminal Law Defenses § 103(a) at 496 (1984). The doctrine “restricts acceptable predicate felonies by treating certain felonies as inseparable from the homicides to which they give rise. The paradigm case is the killing that takes place in the course of an assault.” Claire Finkelstein, Merger and Felony Murder, in Defining Crimes: Essays on the Special Part of the Criminal Law, 219 (R.A. Duff & Stuart Green eds., 2005). Because the vast majority of homicides are predicated on an initial felonious assault, “every felonious assault ending in death automatically would be elevated to murder in the event a felonious assault could serve as the predicate felony for purposes of the felony-murder doctrine.” People v. Hansen, 885 P.2d 1022, 1028 (Cal.1994), overruled by People v. Sarun Chun, 203 P.3d 425 (2009). Absent the merger limitation, two serious problems arise. First, “application of the felony-murder doctrine would allow for conviction of the defendant for murder without the prosecution having to prove the existence of malice.” Campos, 1996-NMSC-043, ¶ 10. Such a result is inconsistent with basic principles of Anglo-American criminal law. See generally People v. Aaron, 299 N.W.2d 304, 317 (Mich. 1980) (criticizing the felony-murder rule on grounds that it “completely ignores the concept of determination of guilt on the basis of individual misconduct . . . [and] erodes the relation between criminal liability and moral culpability.” (internal quotation marks and citations omitted)). Second, the felony-murder rule “would eliminate the mens-rea requirement for murder in most homicide cases and circumvent the legislative gradation system for classes of homicides.” Campos, 1996-NMSC-043, ¶ 10. It is fair to infer that no Legislature would intend its own criminal penalty scheme to be circumvented, and avoiding this outcome is one of the primary policy rationales cited to justify the existence and adoption of the merger doctrine. See generally Roary, 867 A.2d at 1103-05 (discussing the conceptual justifications underlying the merger doctrine).\n{68} While there is agreement about the underlying purposes of the merger doctrine, courts that have adopted it are divided on how it is to be applied. As one treatise notes, “[t]he difficulty arising from the merger doctrine lies in determining which underlying felonies should merge.” 1 Robinson, supra at 498. In Campos, we noted three distinct methods utilized in varying jurisdictions: the independent felonious purpose test; the same act test; and deference to legislative intent. 1996-NMSC-043, ¶¶ 11-14. We rejected all three approaches because “New Mexico has a distinct version of the felony-murder doctrine, which calls for a different formulation of the” merger doctrine. Id. ¶ 16. Our distinct form of felony murder is an outgrowth of this Court’s holding in State v. Ortega, 1991-NMSC-084, 112 N.M. 554, 817 P.2d 1196, abrogated on other grounds as recognized by Kersey v. Hatch, 2010-NMSC-020, 148 N.M. 381, 237 P.3d 683.\n{69} This Court’s decision in Ortega was a significant turning point in our felony-murder jurisprudence. Ortega held that the prosecution must demonstrate “that the defendant intended to kill (or was knowingly heedless that death might result from his conduct)” to secure a felony-murder conviction. Id. ¶ 25. The significance of this determination, with respect to our continued adherence to the merger doctrine, has been largely overlooked. Requiring, as Ortega does, the prosecution to prove the defendant acted with the mens rea commensurate with second-degree murder to secure a felony-murder conviction remedied the central ills the merger doctrine (as traditionally conceived) was adopted to cure. After Ortega, there is no concern a defendant can be convicted of murder without the State proving malice. See Campos, 1996-NMSC-043, ¶ 17. And Ortega largely foreclosed the possibility that the felony-murder doctrine might frustrate our Legislature’s scheme of graduated penalties for the different classes of homicides. See Campos, 1996-NMSC-043, ¶ 17 (“Our felony-murder rule only serves to raise second-degree murder to first-degree murder when the murder is committed in the course of a dangerous felony.”). Having significantly restricted the sweep of our felony-murder rule in Ortega, this Court in Campos realized that the merger doctrine served only a limited function after Ortega. The Campos Court explained that “the appropriate limitation imposed by the collateral-felony doctrine [i.e., the merger doctrine] in New Mexico is simply that the predicate felony cannot be a lesser included offense of second-degree murder.” 1996-NMSC-043, ¶ 19 (emphasis added).\n{70} To determine if a particular predicate felony is a lesser-included offense of second-degree murder, we apply the strict-elements test. Id. ¶ 22. We did not select this test arbitrarily; rather, we embraced the strict-elements test because we determined that it is a reliable tool “for inferring whether the legislature intended to authorize separate application of each criminal statute.” Id. ¶ 20 (internal quotation marks and citation omitted). In addition, the strict-elements test is most sensible in the wake of Ortega because the felony-murder doctrine applies only where the state can “prove the elements of second degree murder as well as an independent felony.” State v. Varela, 1999-NMSC-045, ¶ 20, 128 N.M. 454, 993 P.2d 1280; see also State v. McGruder, 1997-NMSC-023, ¶ 16, 123 N.M. 302, 940 P.2d 150 (concluding that the strict-elements test is the appropriate analytical tool to determine whether a particular felony may serve as a collateral felony), abrogated on other grounds by State v. Chavez, 2009-NMSC-035, 146 N.M. 434, 211 P.3d 891. We have expressly rejected invitations to utilize other means to discern legislative intent in this area. Varela, 1999-NMSC-045, ¶ 19.\n{71} Under the strict-elements test, an offense is “a lesser-included offense of another only if the statutory elements of the lesser offense are a sub-set of the statutory elements of the greater offense such that it would be impossible ever to commit the greater offense without also committing the lesser offense.” Campos, 1996-NMSC-043, ¶ 20 (internal quotation marks and citation omitted). A slightly clearer articulation of the strict-elements test appears in Duffy, 1998-NMSC-014, ¶ 24. In Duffy, we explained that, under the strict elements test,\nan offense is deemed to be a lesser-included offense of another only if all of the statutory elements of the lesser offense are completely embodied within the statutory elements of the greater offense such that it would be impossible ever to commit the greater offense without also committing the lesser offense.\nId. (internal quotation marks and citation omitted). When applying the strict-elements test, we do not consider the facts of a particular case but look to the elements of the offense in the abstract. Varela, 1999-NMSC-045, ¶ 17.\n{72} The majority opinion complicates matters by stating that the collateral-felony rule requires that the predicate felony be independent of the homicide and then by noting that this Court has held that the predicate felony cannot be a lesser-included offense of second-degree murder. Maj. Op. ¶ 14. This suggests that there is some analytical distinction between these two propositions. But there is not. This Court has already made clear that a collateral felony is just an offense that is not a lesser-included offense of second-degree murder. Campos, 1996-NMSC-043, ¶19.\n{73} In Varela, we considered whether shooting at a dwelling in violation of Section 3 0-3-8(A) is a collateral felony. 1999-NMSC-045, ¶¶ 15-21. We observed that “[t]he crime of shooting at a dwelling requires willfully shooting at a dwelling, which is not an element of second degree murder.” Id. ¶ 18. Accordingly, we concluded that “shooting at a dwelling is not a lesser included offense of second degree murder.” Id. This straight-forward analysis applies with equal force to Section 30-3-8(B) and these principles have a clear and easy application in this case.\n{74} “Shooting at or from a motor vehicle consists of willfully discharging a firearm at or from a motor vehicle with reckless disregard for the person of another.” Section 30-3-8(B). Just as shooting at a dwelling is not an element of second-degree murder, Varela, 1999-NMSC-045, ¶ 18, shooting at or from a motor vehicle is also not an element of second-degree murder. See NMSA 1978, § 30-2-1 (B). Accordingly, Section 30-3-8(B) is a collateral felony and may serve as a predicate felony for felony murder. This conclusion is supported by our collateral-felony case law. See Campos v. Bravo, 2007-NMSC-021, ¶ 15, 141 N.M. 801, 161 P.3d 846 (concluding that aggravated burglary is a collateral felony because two elements of the offense — (1) the unauthorized entry of a structure, and (2) the intent to commit a felony therein — are not elements of second-degree murder); Duffy, 1998-NMSC-014, ¶ 25 (concluding that robbery is a collateral felony because the elements of the offense — theft of anything of value from the person of another by use or threatened use of violence — are not elements of second-degree murder); Campos, 1996-NMSC-043, ¶25 (concluding that first-degree criminal sexual penetration is a collateral felony because the elements of the offense — some form of penetration of the genital or anal openings of another — are not elements of second-degree murder).\nII. THE MAJORITY OPINION DEPARTS FROM SETTLED LAW WITHOUT JUSTIFICATION AND ADOPTS AN UNWORKABLE STANDARD FOR OUR COLLATERAL-FELONY RULE\n{75} The majority opinion abandons our previous approach to the collateral-felony rule and states that “a dangerous felony may only serve as a predicate to felony murder when the elements of any form of the predicate felony — looked at in the abstract — require a felonious purpose independent from the purpose of endangering the physical health of the victim.” Maj. Op. ¶ 24. The majority opinion clarifies that “there must be a felonious purpose that is independent from the purpose of endangering the physical health of the victim before the dangerous felony can be used to elevate a second-degree murder to first-degree murder.” Id. Upon what grounds does the majority opinion base this new development in our collateral-felony jurisprudence? The majority opinion explains that “[f]or purposes of the collateral-felony rule, legislative intent is better reflected in an assessment of felonious purpose. When a crime’s objective is to injure or kill, the crime cannot be said to be independent of a murder committed during the course of that crime.” Id. ¶ 19. But this is entirely inconsistent with Campos where this Court determined that the strict elements test most accurately reflects legislative intent for purposes of determining whether a felony is collateral. Why the majority adopts this new formulation and abandons our existing collateral-felony jurisprudence is unclear. No reason is expressly stated or readily discernible. See Trujillo v. City of Albuquerque, 1998-NMSC-031, ¶ 33, 125 N.M. 721, 965 P.2d 305 (stating that the principle of stare decisis does not require this Court to always follow precedent nor preclude us from overruling precedent, but it does require that we provide justification when we depart from precedent).\n{76} Whether or how the majority opinion’s new approach remains tethered to the underlying purpose of the merger doctrine — to determine legislative intent and further that intent — is also unclear. The majority opinion’s new formulation of our collateral-felony rule utilizes terminology associated with and rooted in the independent felonious purpose test. Under this test, courts focus on the defendant’s underlying purpose and hold that the predicate felony and homicide merge unless the predicate felony was committed with an independent felonious purpose from the killing. See Finkelstein, supra at 223; see also People v. Burton, 491 P.2d 793, 801 (Cal. 1971) (“[Tjhere is a very significant difference between deaths resulting from assaults with a deadly weapon, where the purpose of the conduct was the very assault which resulted in death, and deaths resulting from conduct for an independent felonious purpose, such as robbery or rape . . . .”), disapproved of on other grounds by People v. Lessie, 223 P.3d 3 (2010). This Court expressly rejected the independent felonious purpose test in Campos because the test was developed in jurisdictions where accidental homicides can result in felony murder charges, and the test necessarily permits such charges in its application. We thus deemed the test incompatible with our unique approach to felonymurder. Campos, 1996-NMSC-043, ¶¶ 15, 18 (rejecting the independent felonious purpose test, and other related tests, because an accidental killing cannot constitute second degree murder and, therefore, would not implicate New Mexico’s unique felony murder statute). Even ignoring this fact, commentators have persuasively shown that the independent felonious purpose test is analytically unsound. See Finkelstein, supra at 224 (“The independent felonious purpose test is not even compelling as applied to assault. A defendant who intends to harm his victim by beating him up very likely does not have the purpose of inflicting sufficient harm on him to kill him. And if this is so, then how can this test maintain that the felonious purpose in this case — which involves wounding — is not independent of the homicide ...\n{77} If the majority opinion’s intention is to rectify the confusion our collateral-felony rule has generated, see Maj. Op. ¶¶ 1, 14, it is doubtful that the adoption of a body of law we previously rejected as incompatible with our unique felony-murder jurisprudence is likely to achieve this end. And if any doubt exists that the majority opinion’s new approach to the collateral-felony rule is likely to cast our felony-murder jurisprudence into disarray, we need look no further than our existing precedent to dispel that doubt.\n{78} The majority opinion attempts to illustrate how its new approach to the collateral-felony rule functions by examining several felony offenses we have previously determined to be collateral. Maj. Op. ¶¶ 21-23. In Campos, this Court concluded that first-degree criminal sexual penetration (CSP), NMSA 1978, § 30-9-11 (2009), is a collateral offense and, thus, may serve as a predicate felony for felony murder. Campos, 1996-NMSC-043, ¶ 25. The majority opinion’s new approach leads to the conclusion that CSP is not collateral and cannot serve as a predicate offense, despite the majority opinion’s assertion to the contrary.\n{79} While the majority opinion claims that unauthorized carnal knowledge or the imposition of sexual activity upon those who are not willing participants in sexual activity are the purportedly independent felonious purposes of CSP, Maj. Op. ¶ 20, this analysis is doubtful at best. To suggest that unauthorized carnal knowledge or the imposition of unwanted sexual activity upon another is not somehow inextricably associated with an intent to injure another does not withstand scrutiny. Such conduct is undoubtedly injurious and can only be carried out with an intent to harm. The majority opinion perhaps recognizes this and states that CSP is a collateral offense because it is possible to commit second-degree murder without committing some form of CSP. Id. ¶ 21. But this is the traditional collateral-felony analysis (i.e., the strict-elements test) which the majority opinion abandons. The majority opinion’s new approach to our collateral-felony doctrine is unworkable and likely to only further confuse this already difficult area of law.\nIII. CONCLUSION\n{80} A violation of Section 30-3-8(B) is a collateral felony and may serve as a predicate felony for felony murder. The majority opinion avoids this conclusion by fundamentally altering our collateral-felony jurisprudence. Confusion and uncertainty are the likely outcomes of the majority’s opinion. As this dissent lacks the force of law, clarity in this area of law must come from our Legislature. Enumerating the felonies that may serve as predicate felonies for felony murder will clarify matters greatly.\n{81} For the forgoing reasons, I respectfully dissent.\nJUDITH K. NAKAMURA, Justice",
+        "type": "dissent",
+        "author": "NAKAMURA, Justice"
+      }
+    ],
+    "attorneys": [
+      "Bennet J. Baur, Chief Public Defender William A. O’Connell, Assistant Appellate Defender Santa Fe, NM for Defendant-Appellant",
+      "Hector H. Balderas, Attorney General M. Victoria Wilson, Assistant Attorney General Albuquerque, NM for Plaintiff-Appellee"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE SUPREME COURT OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMSC-025\nFiling Date: June 30, 2016\nDocket No. S-1-SC-34418\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. ERIC MARQUEZ, Defendant-Appellant.\nDouglas Driggers, District Judge\nBennet J. Baur, Chief Public Defender William A. O’Connell, Assistant Appellate Defender Santa Fe, NM for Defendant-Appellant\nHector H. Balderas, Attorney General M. Victoria Wilson, Assistant Attorney General Albuquerque, NM for Plaintiff-Appellee"
+  },
+  "file_name": "1623-01",
+  "first_page_order": 105,
+  "last_page_order": 127
+}

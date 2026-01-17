@@ -1,0 +1,89 @@
+{
+  "id": 4236433,
+  "name": "Ford Motor Credit Company, Plaintiff, v. Kisho Franklyn, Defendant",
+  "name_abbreviation": "Ford Motor Credit Co. v. Franklyn",
+  "decision_date": "2016-03-30",
+  "docket_number": "",
+  "first_page": "645",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 645"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 N.Y.S.3d 839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 9129,
+    "name": "New York City Civil Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "78 AD3d 904",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4004273
+      ],
+      "pin_cites": [
+        {
+          "page": "905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/0904-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 2501,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14055607102962372
+    },
+    "sha256": "ace533ed4cb32d2d516a65c3e1a0294c38a4bba9ca10c3a5ec2ceb465294694b",
+    "simhash": "1:944fe14dfabb740e",
+    "word_count": 389
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ford Motor Credit Company, Plaintiff, v Kisho Franklyn, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAdam Silvera, J.\nIt is ordered that this motion by plaintiff Ford Motor Credit Company, for installment payments against defendant, is denied for the reasons set forth below.\nBackground\nPlaintiff commenced this action against defendant and obtained a judgment in 2004. Plaintiff now files the instant motion seeking an order for installment payments.\nDiscussion\nCPLR 5226 permits a judgment creditor to move, by motion, for an order for installment payments to satisfy the judgment, “where it is shown that the judgment debtor is receiving or will receive money from any source, or is attempting to impede the judgment creditor by rendering services without adequate compensation.” The judgment creditor bears the initial burden of establishing such facts. An affidavit by the judgment creditor or his attorney, without adequate proof or evidence of the judgment debtor’s source of income or services rendered, is insufficient to award an installment payment. (See 11-5226 Weinstein-Korn-Miller, NY Civ Prac CPLR ¶ 5226.11.) Where the judgment creditor fails to meet its burden of proof, “the burden never shift[s] to the judgment debtor to prove what part of any such money might be necessary in order for him to pay for his ‘reasonable requirements.’ ” (Krebs v Cabrera, 78 AD3d 904, 905 [2d Dept 2010].)\nHere, through an attorney affirmation, plaintiff argues that, as defendant is a self-employed photographer, “[defendant derives income from one or more sources which are partially or fully exempt under New York Civil Practice Law and Rules from execution,” and that a customary income execution cannot be issued. (Fisher affirmation ¶¶ 7, 8.) To support its motion, plaintiff proffers only such attorney affirmation and a printout of the website of Kisho L Franklyn Photography. However, such printout, which does not include any pricing information, fails to establish that this is defendant’s business, that defendant derives income from such business, or that defendant is rendering services without adequate compensation. As such, plaintiff fails to meet its initial burden of establishing its prima facie case and this motion is denied.\nAccordingly, it is ordered that plaintiff’s motion is denied in its entirety.",
+        "type": "majority",
+        "author": "Adam Silvera, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Solomon & Solomon, P.C., Albany, for plaintiff.",
+      "Kisho Franklyn, defendant pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[27 NYS3d 839]\nFord Motor Credit Company, Plaintiff, v Kisho Franklyn, Defendant.\nCivil Court of the City of New York, Kings County,\nMarch 30, 2016\nAPPEARANCES OF COUNSEL\nSolomon & Solomon, P.C., Albany, for plaintiff.\nKisho Franklyn, defendant pro se."
+  },
+  "file_name": "2206-01",
+  "first_page_order": 657,
+  "last_page_order": 659
+}

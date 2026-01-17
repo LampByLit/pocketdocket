@@ -1,0 +1,67 @@
+{
+  "id": 12298410,
+  "name": "The People of the State of New York, Plaintiff, v. Nicholas R. Koerner, Defendant",
+  "name_abbreviation": "People v. Koerner",
+  "decision_date": "2017-02-10",
+  "docket_number": "",
+  "first_page": "372",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 372"
+    },
+    {
+      "type": "parallel",
+      "cite": "52 N.Y.S.3d 828"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Suffolk Dist. Ct.",
+    "id": 9259,
+    "name": "Suffolk County District Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 316,
+    "char_count": 4992,
+    "ocr_confidence": 0.727,
+    "sha256": "59ca93cbcd063d66c22ab462f91c4640ceb73d2f48db1c16fecbcd8ee7213496",
+    "simhash": "1:a8fb4a02b7fadb48",
+    "word_count": 791
+  },
+  "last_updated": "2023-07-14T16:20:03.292202+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Nicholas R. Koerner, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nChris Ann Kelley, J.\nThe defendant is charged with driving while intoxicated (Vehicle and Traffic Law § 1192 [2], [3]) and speeding (Vehicle and Traffic Law § 1180 [d]). The defendant previously moved, inter alia, to dismiss count two charging a violation of Vehicle and Traffic Law § 1192 (2) or, in the alternative, to preclude or suppress the Intoxilyzer 9000 results on the ground that there exists a jurisdictional or legal impediment to conviction. The gravamen of the defendant’s argument is that the Intoxilyzer 9000 is not a chemical testing device approved for use in the State of New York. By order of the court dated February 3, 2016 the matter was set down for a hearing unless, prior to the hearing date, the People furnished the court with proof in evi-dentiary form demonstrating that they would be able to lay the necessary foundation for admitting the Intoxilyzer 9000 test results at trial. The People have now furnished the court with additional documentation for purposes of meeting such burden and, as such, a formal hearing was not held.\nThis court has reviewed the documents supplied by the People, which include a December 20, 2016 affidavit of Nirav R. Shah, M.D., M.P.H., the former Commissioner of the New York State Department of Health; a July 7, 2015 affidavit of Jill Taylor, Ph.D., the Director of the Wadsworth Center for Laboratories and Research of the New York State Department of Health; and a December 28, 2016 affidavit of Michael P. Ryan, Ph.D., the Director of the New York State Department of Health’s Wadsworth Center’s Division of Laboratory Quality Certification and Director of the Wadsworth Center’s Breath Alcohol Permit Program.\nPursuant to the provisions of 10 NYCRR 59.4 (a), “[t]he commissioner [of Health] approves, for use in New York State, breath analysis instruments found on the Conforming Products List of Evidential Breath Alcohol Measurement Devices as established by the U.S. Department of Transportation/National Highway Traffic Safety Administration (NHTSA), published in the Federal Register on March 11, 2010.” The parties herein agree that the Intoxilyzer 9000 is not on that list. However, the pertinent regulation also provides that “at the request of a training agency, the commissioner may approve a breath analysis instrument that has been accepted by NHTSA but is not on the Conforming Products List published in the Federal Register on March 11, 2010, if the commissioner determines that approval of such instrument is appropriate.” The People contend that the Intoxilyzer 9000 was approved for use in New York State by means of this alternative method.\nThe documents in question reveal that, on October 12, 2012, Dr. Shah as Commissioner of Health delegated pursuant to Public Health Law § 206 (8) authority to Jill Taylor “to assist [him] in directing the operations of the Wadsworth Center, and in enforcing the Public Health Law with respect to programs regulated by the Wadsworth Center.” Specifically, Dr. Shah avers that he delegated the authority to “execute documents, certifications, agreements, contracts, and findings necessary to effectuate the Public Health Law.” (Emphasis added.) Jill Taylor avers that she, in turn, “delegated] breath alcohol permit, training, and instrument certification execution and related authority” to Michael P. Ryan. (See Taylor aff f 10.) Michael Ryan avers that, on July 17, 2013, he “approved the breath alcohol permit, training, and instrument certification for the Suffolk County Police Department” and that such certification “meant that. . . the Intoxilyzer 9000 was approved for use in the State of New York as of, and indefinitely beyond, July 17, 2013.” Michael Ryan’s approval “was based on [his] review of the United States Department of Transportation National Highway Traffic Safety Administration’s (‘NHTSA’) previous statement that the Volpe Transportation Systems Center had evaluated the Intoxilyzer 9000 and found that it met required model specifications for use.” (Ryan aff ¶ 5.) A copy of the NHTSA approval letter directed to CMI, Inc., the manufacturer of the device, has also been furnished to the court.\nAfter careful review of the People’s submissions, particularly the proof in evidentiary form now furnished, it is the opinion of this court that the People have adequately demonstrated that, in accordance with the provisions of 10 NYCRR 59.4 (a), the Intoxilyzer 9000 has been approved for use by the Suffolk County Police Department as a breath testing instrument. Accordingly, the defendant’s motions to dismiss pursuant to CPL 170.30 (1) (f) or to suppress the results of the chemical test are denied.",
+        "type": "majority",
+        "author": "Chris Ann Kelley, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Wayne J. Donovan, Lindenhurst, for defendant.",
+      "Thomas J. Spota III, District Attorney (.Daniel Fischer of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[52 NYS3d 828]\nThe People of the State of New York, Plaintiff, v Nicholas R. Koerner, Defendant.\nDistrict Court of Suffolk County, First District,\nFebruary 10, 2017\nAPPEARANCES OF COUNSEL\nWayne J. Donovan, Lindenhurst, for defendant.\nThomas J. Spota III, District Attorney (.Daniel Fischer of counsel), for plaintiff."
+  },
+  "file_name": "2786-01",
+  "first_page_order": 372,
+  "last_page_order": 375
+}

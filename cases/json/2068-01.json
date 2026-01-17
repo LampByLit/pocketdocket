@@ -1,0 +1,261 @@
+{
+  "id": 4069652,
+  "name": "In the Matter of Lisa Broad, Petitioner, v. New York City Board/Department of Education, Respondent",
+  "name_abbreviation": "Broad v. New York City Board/Department of Education",
+  "decision_date": "2015-10-20",
+  "docket_number": "",
+  "first_page": "384",
+  "last_page": "401",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 384"
+    },
+    {
+      "type": "parallel",
+      "cite": "18 N.Y.S.3d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "104 AD3d 415",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3712404
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/104/0415-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 446",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4300320,
+        4290931,
+        4302278
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0446-02",
+        "/ad3d/117/0446-03",
+        "/ad3d/117/0446-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 416",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4135297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0416-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 946",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4317942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0946-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 424",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734614
+      ],
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0424-01"
+      ]
+    },
+    {
+      "cite": "250 AD2d 122",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        721730
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/250/0122-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 975",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4404986
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0975-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 502",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4277789
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/0502-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 31694",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 NY Slip Op 34200",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 NY2d 279",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338164
+      ],
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0279-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 436",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4406426
+      ],
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0436-01"
+      ]
+    },
+    {
+      "cite": "51 AD3d 563",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3598416
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "567"
+        },
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/51/0563-01"
+      ]
+    },
+    {
+      "cite": "280 AD2d 365",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1290361
+      ],
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/280/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1434,
+    "char_count": 39762,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.666970501906556e-8,
+      "percentile": 0.2928288483228173
+    },
+    "sha256": "949eaf3c792af45a2e79399656728132b180ab6d80e2ef97904ef4ea713d4af9",
+    "simhash": "1:78f319a27582a91a",
+    "word_count": 6137
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Lisa Broad, Petitioner, v New York City Board/Department of Education, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAlice Schlesinger, J.\nPetitioner Lisa Broad, a former New York City schoolteacher, commenced this CPLR article 78 proceeding to challenge her termination by respondent the New York City Board/ Department of Education (BOE). Petitioner was terminated following a hearing held before Michael S. Lazan, Esq. pursuant to Education Law § 3020-a regarding 23 specifications asserted by BOE regarding the 2011-2012 and 2012-2013 school years (the school years).,\nPetitioner, who is married with two young children, earned undergraduate and graduate teaching degrees from St. John’s University. At the time of her termination, she was a tenured elementary schoolteacher with over 27 years of service in the New York City public school system. Petitioner had been teaching at Public School 2 (PS 2), in Jackson Heights, Queens for approximately 13 years. Before that, petitioner worked at two different public schools: one in Brooklyn, and one in Queens.\nPrior to the school years at issue, petitioner received satisfactory ratings for all but one of her school years. In 2009-2010, the lone school year petitioner received an unsatisfactory rating before the school years at issue, petitioner proved that she could remediate herself by earning a satisfactory rating in the next school year, 2010-2011. In addition to her nearly immaculate track record up to that point, the 1,000-plus pages worth of testimony taken at the hearing demonstrates that petitioner was devoted to her teaching and loved her students. The record also shows that petitioner’s students reciprocated these warm feelings.®\nJoseph Taddeo is PS 2’s principal, and has held this position since 2003. He has worked at PS 2 since 1998, first as a teacher, then as an assistant principal, and finally as principal. The assistant principals during the school years were Amy Goldman and Gerard Palazzolo. Palazzolo is no longer an assistant principal, and has “since gone back to being a teacher after differences with Mr. Taddeo” (Lazan decision at 6).\nPetitioner taught a second-grade class during the 2011-2012 school year, and a kindergarten class during the 2012-2013 school year. BOE asserted 23 specifications (i.e., charges) against petitioner on May 21, 2013. The specifications followed formal and informal observations by the PS 2 administration, as well as investigations by Taddeo based on inquiries from two of petitioner’s students’ parents. Each of the specifications is discussed in the Discussion section, infra.\nAs discussed in detail below, this court vacates Lazan’s decision on the grounds that his findings, set forth to support his conclusion that petitioner was an incompetent teacher, were arbitrary and capricious, and/or without a rational basis. Further, even if certain of Lazan’s findings find support in the evidence, the penalty of termination is grossly disproportionate to such findings.\nThe Hearing\nBOE called Taddeo, Goldman, and Palazzolo as witnesses at the hearing in support of its case-in-chief.\nPetitioner called the following witnesses in support of her case-in-chief: Rosann Maccio (a former PS 2 teacher; however, Maccio did not teach at PS 2 during the school years in question), Posr Posr (a process server), M.R. (a parent of one of petitioner’s kindergarten students), Daniel Tenebruso (a former PS 2 family caseworker), petitioner, and Sanija Handan (a parent of one of petitioner’s third-grade students prior to the school years in question).\nIn rebuttal, respondent called Le. Du. (a parent of one of petitioner’s former second-grade students who also testified anonymously), Goldman and Taddeo.\nIn surrebuttal, petitioner again testified on her own behalf.\nArguments\nPetitioner argues that her termination was the culmination of a campaign by Taddeo to force her out of teaching simply because he did not like her or approve of her teaching style. The campaign consisted of specifications based on subjective findings by PS 2 administration which, in petitioner’s view, demonstrate nothing more than the existence of ideological differences in teaching styles between her and Taddeo. Petitioner also contends that Lazan made numerous errors at the hearing, including the following: using inconsistent reasoning; finding that certain specifications were substantiated when they were actually based on hearsay or speculation; and imposing a draconian penalty of termination.\nAdditionally, petitioner contends that Lazan erred in sustaining a majority of the specifications based on petitioner not using or following Taddeo’s lesson plan formats. She claims that Lazan disregarded the governing collective bargaining agreement between the teachers’ union and BOE, which forbids administration from implementing a specific lesson plan format. In other words, she argues that she had the discretion to establish her own lesson plans.\nFurther, petitioner claims that Lazan’s findings, in reality, were based on a finding that she was insubordinate to Taddeo. However, Lazan explicitly based his decision on a finding that petitioner was incompetent, not insubordinate. On this note, petitioner argues that the record does not support a finding of incompetence and that Lazan inappropriately conflated these two concepts. She further argues that any finding of “insubordination” was based on unfairly regimented protocols forced upon her by Taddeo.\nPetitioner also maintains that Lazan improperly applied the burden of proof to her on a majority of the specifications, rather than tasking BOE with this burden.\nIn contrast, BOE contends that the specifications were supported by documentation and credible witness testimony. It argues that despite extensive professional development given to petitioner, she did not improve. BOE also argues that Lazan, who has the authority to make findings as to witness credibility, did not exceed his authority in finding BOE’s witnesses to be more credible than petitioner’s.\nDiscussion\nThe court will now set forth the relevant case law, followed by the specifications asserted by BOE, Lazan’s findings, and the court’s analysis of those findings.\nLegal Standards\nEducation Law § 3020-a (5) provides that judicial review of a hearing officer’s findings must be conducted pursuant to CPLR 7511. Under such review an award may only be vacated on a showing of “misconduct, bias, excess of power or procedural defects.” (Austin v Board of Educ. of City School Dist. of City of N.Y., 280 AD2d 365, 365 [1st Dept 2001].)\nNotwithstanding, where, as here, the parties have submitted to compulsory arbitration, judicial scrutiny is stricter than that for a determination rendered where the parties have submitted to voluntary arbitration. (See Lackow v Department of Educ. [or “Board”] of City of N.Y., 51 AD3d 563, 567 [1st Dept 2008].) The determination must be in accord with due process and supported by adequate evidence, and must also be rational and satisfy the arbitrary and capricious standards of CPLR article 78. (Id.) The party challenging an arbitration determination has the burden of showing its invalidity. (Id.)\nAn arbitrator’s determinations of credibility in a compulsory arbitration are “largely unreviewable because the hearing officer observed the witnesses and was ‘able to perceive the inflections, the pauses, the glances and gestures—all the nuances of speech and manner that combine to form an impression of either candor or deception.’ ” (Lackow, 51 AD3d at 568, quoting Matter of Berenhaus v Ward, 70 NY2d 436, 443 [1987].)\nThe standard for reviewing a penalty imposed after a hearing held pursuant to Education Law § 3020-a is whether the punishment of termination was so disproportionate to the offenses as to be “shocking” to the court’s sense of fairness. (See Matter of Harris v Mechanicville Cent. School Dist., 45 NY2d 279, 283 [1978].) One factor to be considered is the petitioner’s pre-incident disciplinary history. (See Khouma v City of New York, 2011 NY Slip Op 34200[U] [Sup Ct, NY County 2011] [petitioner’s lack of prior disciplinary history during 20-year career with the New York City Department of Education warranted a punishment less severe than termination for substantiated incidents at issue].)\nMoreover, a tenured teacher (such as petitioner) is entitled to “very definite rights” that “must be scrupulously respected.” (See Matter of Suker v New York City Bd./Dept. of Educ., 2013 NY Slip Op 31694[U], *13-14 [Sup Ct, NY County 2013], affd 129 AD3d 502 [1st Dept 2015].) In this regard, BOE had the burden to prove the subject specifications at the hearing by a preponderance of the evidence. (See Matter of Martin v Ambach, 67 NY2d 975 [1986].)\nThe Specifications and This Court’s Conclusions\nAt the outset, the court notes that virtually every specification begins with the same introductory language.\n“Specification Two: [Petitioner] neglected her duties, used poor judgment, engaged in unprofessional conduct and/or failed to fulfill her professional responsibilities, in that she provided false and inaccurate grades on students’ report cards, as referenced in a letter dated November 21, 2011.”\nThis specification pertained to students’ grades in their library class. Taddeo testified that teachers were to consult with the school librarian before issuing such grades. He further testified that he believed that the librarian was not consulted before petitioner issued her library class grades. As a result, Lazan sustained this specification.\nLazan’s findings here were arbitrary and capricious, and lacking a rational basis, because there is no evidence that petitioner provided “false or inaccurate” grades, as charged. Indeed, Lazan notes that BOE “did not show that [the records at issue] necessarily impacted the student’s reading grade.” Thus, at worst, petitioner failed to follow Taddeo’s protocol of consulting the librarian before issuing library class grades. The record certainly does not show that petitioner was an incompetent teacher in this regard.\nAdditionally, Lazan’s findings were based solely on hearsay in Taddeo’s testimony—BOE never produced the librarian referenced by Taddeo at the hearing. Although hearsay can form a sufficient basis to sustain specifications under the relaxed rules of evidence applicable to an administrative hearing, there was no way for petitioner to meaningfully confront her accuser. Moreover, Lazan arbitrarily applied this concept in his decision, as he sustained this specification based entirely on hearsay, yet dismissed a different specification (specification six) on the ground that it was based entirely on hearsay.\n“Specification Three: [Petitioner] neglected her duties, used poor judgment, engaged in unprofessional conduct and/or failed to fulfill her professional responsibilities, in that she failed to properly complete students’ report cards, as referenced in a letter dated March 8, 2013.”\nOn this charge, Lazan found that several of petitioner’s kindergarten students’ report cards contained “grammatical and content errors.” He thus concluded that petitioner “failed to properly complete” students’ report cards, and sustained this specification.\nThis finding, however, is arbitrary and capricious, and must be set aside. In his analysis, Lazan acknowledged that petitioner “has a point” that the administration also had the responsibility of proofreading report cards, yet did not do so. Further, Lazan made a finding in petitioner’s favor, by noting that the “samples provided by [BOE] are not sloppy or unprofessional in many respects.” The court finds it hard to fathom Lazan’s conclusion here, that in part, termination should be ordered based on grammatical errors in report cards, especially when Taddeo’s own administration also missed them.\n“Specification Four: [Petitioner] neglected her duties, used poor judgment, engaged in unprofessional conduct and/or failed to fulfill her professional responsibilities, in that she included false and/or inaccurate information on her students’ running records/ as referenced in a letter dated November 21, 2011.\n“Specification Five: [Petitioner] used poor judgment, engaged in unprofessional conduct and/or failed to fulfill her professional responsibilities, in that she provided false information to school administrators regarding her completion of students’ assessments, as referenced in a letter dated November 21, 2011.”\nLazan sustained these specifications based on his review of running records submitted by BOE. Lazan concluded that “[i]t is apparent from these attachments that the records sheets were not filled out correctly” in that some lacked dates or word counts, which Taddeo required.\nHowever, even assuming that petitioner erred in compiling certain of the running records in this manner, here Lazan conflates insubordination with incompetence. There is no evidence linking petitioner’s supposed inadequacy regarding her students’ running records with the children ultimately suffering any deleterious scholastic consequences. Thus, Lazan’s findings as to specifications four and five are set aside.9 “Specification Six: [Petitioner] neglected her duties, used poor judgment, engaged in unprofessional conduct and/or failed to fulfill her professional responsibilities, in that she failed to properly and/or timely provide parents with her students’ graded exams, exam scores, and/or information regarding students’ academic progress, as referenced in a letter dated January 24, 2012.”\nAs referenced above, this specification was dismissed by Lazan for a lack of evidence, as BOE failed to call as a witness a certain parent to support this charge.\n“Specification Seven: [Petitioner] neglected her duties, used poor judgment, engaged in unprofessional conduct and/or failed to fulfill her professional responsibilities, in that she failed to properly and/or timely provide parents with her students’ graded exams, exam scores and information regarding students’ academic progress, as referenced in a letter dated March 23, 2012.”\nThis specification was dismissed by Lazan based on his finding that BOE’s witness called to prove this charge (Le. Du.) was not credible, due to inconsistencies within her testimony.\n“Specification Eight: [Petitioner] neglected her duties, failed to follow directives, and/or failed to fulfill her professional responsibilities, in that she failed to timely provide parents with students’ progress reports, as referenced in a letter dated January 18, 2013.”\nLazan sustained this charge based on his finding that for the 2012-2013 school year, petitioner’s progress reports were due on January 11, 2013, and that as of January 18, 2013, “Taddeo observed that the report cards had not been submitted by [petitioner].” He further found that “[petitioner] did not directly address this contention during testimony, but argued in closing that the charge was not proven.”\nLazan’s findings here should be set aside. Lazan improperly shifted the burden on this specification to petitioner. A contention is not evidence, and it was thus not petitioner’s burden to refute a contention. Further on this point, under section 3020-a of the Education Law, an employee is not required to testify against herself in a proceeding in which her job rights are in jeopardy. (See Matter of Board of Educ. of City School Dist. of City of N.Y. v Mills, 250 AD2d 122 [3d Dept 1998].) Moreover, one week late is, at worst, an example of de minimis harm.\n“Specification Nine: [Petitioner] failed to follow directives and/or engaged in unprofessional conduct, in that she failed to timely complete students’ running records, as referenced in a letter dated February 17, 2012.”\nThis charge, sustained by Lazan, has no rational basis. The record shows that Goldman granted petitioner an extension of time in which to complete the running records at issue. Further, Goldman, in her testimony, confirmed that petitioner submitted completed running records in satisfaction of the modified deadline. BOE does not address this fact in any of its submissions. As such, Lazan’s findings as to this specification are particularly hard to make sense of.\n“Specification Ten: [Petitioner] used poor judgment and/or engaged in unprofessional conduct, in that she brought a knife to school on March 7, 2012.”\nAlthough petitioner did bring a five-inch-long knife to school on this date, and BOE policy prevents the bringing of “weapons” to school grounds, the record is clear that petitioner did so only to cut a cucumber at her lunch. Lazan justified his sustaining of this specification in part based on his statement that “it is hard to see why such a large knife was necessary if the only purpose was to cut a cucumber.”\nThe statement somehow implies that petitioner had improper or dangerous motives for bringing a knife to school, yet the record is devoid of anything suggesting that. Apparently, the knife was in a paper bag which had a hole in it. The knife fell out onto the front stairs of the building. It was found and turned in. Later that day, petitioner reclaimed it. It is offensive to suggest, even with an inference, that the knife was brought for some nefarious reason. Clearly, it was not.\n“Specification Eleven: [Petitioner] neglected her duties, used poor judgment, and/or engaged in unprofessional conduct, in that she failed to completely and/or properly use her instructional period on March 20, 2012.”\nThis specification was based on Palazzolo’s informal “pop-in” observation of petitioner’s class on this date. Palazzolo entered petitioner’s first class of the day (which ran from 8:00 a.m. to 8:50 a.m.) at approximately 8:25 a.m. He based his negative review of this class period almost entirely on the fact that some students were still settling into their seats at this time.\nHowever, Palazzolo did not observe before 8:25 a.m. or after, since he left shortly after he dropped in. Moreover, Lazan failed to appreciate a reality of parenting young children (which petitioner pointed out)—that parents are often tardy in dropping their children off to school. Without proof that all of the purportedly unsettled children (seen at 8:25 a.m.) were in fact dropped off at 8:00 a.m. or immediately thereafter, Palazzolo’s observation has little value.\nLazan sustained the remainder of the charge based on Palazzolo’s observation that petitioner’s “Flow of the Day” (a list of the day’s assignments and topics) did not have teaching points corresponding to each period of the day. This assertion does not seem to impact this first class, nor, even if accepted as true, does it go to establish that petitioner ineffectively taught on that day or any other. At most, it shows that petitioner may not have complied with some administrative requirement. The specification is set aside.\n“Specification Twelve: [Petitioner] failed to follow directives, engaged in insubordinate conduct and/or neglected her duties, in that she failed to follow the administration’s directive to complete her lesson plans using a specific format, as referenced in a letter dated March 27, 2012.\n“Specification Thirteen: [Petitioner] failed to follow directives, engaged in insubordinate conduct and/or neglected her duties, in that she failed to follow the administration’s directive to complete her lesson plans using a specific format, as referenced in a letter dated October 3, 2012.\n“Specification Fourteen: [Petitioner] failed to follow directives, engaged in insubordinate conduct and/or neglected her duties, in that she failed to follow the administration’s directive to complete her lesson plans using a specific format, as referenced in a letter dated April 5, 2012.\n“Specification Fifteen: [Petitioner] failed to follow directives, engaged in insubordinate conduct and/or neglected her duties, in that she failed to follow the administration’s directive to complete her lesson plans using a specific format, as referenced in a letter dated April 17, 2012.”\nThese specifications were based on the aftermath of a meeting between Palazzolo and petitioner on March 19, 2012, which apparently was held to “provide more structure to [petitioner’s] weekly lesson plans.” A dispute ensued as to whether the administration had the authority to dictate the template for teacher lesson plans. Taddeo testified that the administration could do this if the teacher at issue received an Unsatisfactory rating in the school year immediately prior to the school year in question. Lazan dismissed specifications 12, 14 and 15 because those charges concerned lesson plans for the 2011-2012 school year, and petitioner received a Satisfactory rating for the 2010-2011 school year.\nHowever, Lazan sustained specification 13 because it was related to the 2012-2013 school year, and immediately followed the 2011-2012 school year when petitioner was rated Unsatisfactory. He based his finding on Taddeo’s testimony, and noted that “[n]o alternate construction was posited by either side.”\nBut Lazan erred in this finding, as he ignored Palazzolo’s testimony—the witness he found most credible—that the administration could only dictate lesson plan formats if the teacher in question had received Unsatisfactory ratings two years in a row before the subject school year. Moreover, petitioner testified that her union had advised her that pursuant to the Collective Bargaining Agreement, she was not required to use specific formats for lesson plans given to her by the administration. Thus, Lazan’s statement lacks a rational basis and his finding as to specification 13 should be set aside.\n“Specification Sixteen: [Petitioner] used poor judgment and engaged In unprofessional and/or insubordinate conduct, in that she provided false information to a school administrator regarding her students drafting and/or completing writing pieces, as referenced in a letter dated May 25, 2012. “Specification Seventeen: [Petitioner] neglected her duties and/or failed to follow school policy, in that she failed to follow the school’s grade 2 Writing Curriculum, as referenced in a letter dated May 25, 2012.\n“Specification Eighteen: [Petitioner] neglected her duties and/or used poor judgment, in that she failed to execute lessons that corresponded to her written lesson plans, as referenced in a letter dated May 25, 2012.”\nThese specifications (specifications 16 and 18 were sustained; specification 17 was dismissed) were based on petitioner’s alleged misrepresentation to Palazzolo that her students had been working on writing humorous fiction, when they had not. Palazzolo testified that on May 21, 2012, he collected notebooks which were supposed to contain such writing, but that they either: did not contain any such writing from April 26-May 21; the work in the notebooks did not correspond to petitioner’s lesson plans; or she was teaching a different unit than teachers were supposed to be working on.\nHowever, the record shows that several of the collected notebooks contained content entered in the temporal period mentioned above, and included the word “funny” in the entries (suggesting that the students were attempting to write humorous material). Moreover, as to the issue of lesson plans, BOE did not submit the lesson plans to Lazan with which the students’ work allegedly conflicted. And, even assuming petitioner was teaching a different unit than teachers were supposed to be at (i.e., assuming she was behind in the curriculum), Palazzolo testified that teachers were to progress at a pace conducive to their students and adjust accordingly.\nThis last point is another example of Lazan’s conflation of incompetence with not following administrative protocols. The mere fact that petitioner might teach at a different pace than that set forth by the administration does not indicate that she is a bad teacher. In fact, many would argue that by adjusting to the unique needs of the students actually before her, petitioner’s ability to teach at different speeds suggests that she is a competent teacher, and not an indifferent drone. Here, Lazan proceeds under the assumption (implied by Taddeo and BOE) that there is only one speed to teach at: Taddeo’s speed, from which any deviation is proof of incompetence.\nIn any event, Lazan’s findings as to specifications 16 and 18 are set aside as they lack a rational basis.\n“Specification Nineteen: [Petitioner] used poor judgment, engaged in unprofessional conduct and/or theft of service, in that she left the school for two hours without following proper procedure and/or notifying school administrators on June 27, 2012.”\nThis specification was based on the fact that on June 27, 2012, the last day of the 2011-2012 school year, petitioner left campus for approximately two hours starting at 12:00 p.m. without first getting permission.\nLazan’s findings here lack a rational basis. It is undisputed that petitioner’s classes for the day ended at 12:00 p.m., and that teachers were permitted to be off campus for lunch from 12:00 to 12:50. Lazan also noted that BOE “did not clearly identify any work for [petitioner] to do during the time period in question.” This specification is petty and requires an overly formalistic view of the facts. The record shows that petitioner caused no harm to any of her students by leaving campus on the last day of school after her classes for the day had ended. This finding cannot support termination and should be set aside.\n“Specification Twenty: [Petitioner] used poor judgment, failed to follow school policy and/or engaged in unprofessional conduct, in that she improperly used student ‘community service monitors’ to clean her classroom, as referenced in a letter dated December 3, 2012.\n“Specification Twenty-One: [Petitioner] used poor judgment, failed to follow school policy and/or engaged in unprofessional conduct, in that she hugged a student, as referenced in a letter dated December 3, 2012.\n“Specification Twenty-Two: [Petitioner] used poor judgment, failed to follow school policy and/or engaged in unprofessional conduct, in that she failed to monitor and/or observe students’ behavior while they were in her classroom, as referenced in a letter dated December 3, 2012.”\nLazan dismissed specifications 20 and 22, but sustained specification 21. This charge resulted from an incident on December 3, 2012, in which another teacher saw a fifth-grade student classroom monitor removing a dollar from petitioner’s pocketbook. The other teacher confronted the young girl, who became very upset, began to cry, and seemed as if she were close to suffering an anxiety attack.\nAt this point the record diverges from Lazan’s findings. Lazan found that petitioner “hugged” the student in violation of school policy prohibiting teachers from touching students. But the record clearly indicates that petitioner merely patted the student on the back. Moreover, Lazan added that the parent of the student, who worked at the school, approved of this intervention by petitioner.\nWhen a finding is based on a misunderstanding of the essential facts underlying it, it must be set aside. One could see why the administration would more strictly enforce a policy against touching if a teacher were seen hugging a student. But patting a child, who was near a panic attack, on the back? This, a fundamentally different, innocuous action, cannot be lumped in with what admittedly would be a more controversial (though, under the circumstances here, still harmless) act.\n“Specification One: [Petitioner] failed to properly, adequately and/or effectively plan and/or execute lessons during the [school years], as observed on: a. November 17, 2011; b. March 27, 2012; c. April 2, 2012; d. November 9, 2012; e. January 10, 2013; f. March 15, 2013.\n“Specification Twenty-Three: [Petitioner] failed, during the [school years], to fully and/or consistently implement directives and/or recommendations for pedagogical improvement and professional development, provided in observation conferences with administrators and/or outside observers, instructional meetings, action plans, one-on-one meetings with administrators, school based coaches and/or outside observers, as well as, school-wide professional development, with regard to: a. proper planning, pacing and execution of lessons; b. using appropriate methods and techniques during lessons; c. including differentiation of instruction in lessons; d. proper assessment of students’ progress; e. proper classroom management; f. implementing appropriate classroom rituals and routines; g. incorporating higher order thinking into lessons; and h. providing meaningful feedback to students.”\nThese two specifications, the first and the last, are kind of a catchall or summing-up of claims against Ms. Broad. They pertain by and large to the ideological and academic split between petitioner and the administration. The negative marks petitioner received supporting these specifications are based on subjective opinions by petitioner’s supervisors that relate generally to the way in which petitioner was able to implement Taddeo’s and his assistants’ preferred style of teaching.\nBut Lazan’s decision is devoid of any findings or evidence that Ms. Broad’s students suffered any harm as a result of her teaching methods. There is no evidence, for example, that any of petitioner’s students were held back a grade during or following the school years in question, or required remedial tutoring or attention. Therefore, to the extent these specifications go to petitioner’s purported incompetency, Lazan’s findings should be set aside.\nGeneral Conclusions Applicable to All Specifications\nThe court will now evaluate Lazan’s overall conclusion as to petitioner’s conduct, which is set forth as follows:\n“The charges that were proven are substantial and directly related to [petitioner’s] competency to teach and her ability to provide her students with a valid educational experience. The evidence demonstrates that [she] is a teacher who has not provided appropriate, professional educational services to her students. In particular, [she] has been unwilling or unable to consistently provide her students with appropriately written lesson plans, appropriately executed lesson plans, appropriately differentiated instruction, rigorous instruction, engaging instruction, appropriate assessments, and appropriate feedback. She also has not managed her classroom appropriately in terms of establishing rituals and routines, orderliness, neatness, noise levels, and student behavior.”\nThe issue of how to best teach children in public schools is and has been hotly contested with near religious fervor, and is discussed in various media on a near-daily basis. There are two prevailing, contrasting positions, implicitly discussed in the record and in the parties’ submissions now, which the court will summarize briefly.\nThe first, which has surfaced in more recent days, seeks a transition to a more standardized and rigid system of teaching and evaluation; i.e., the so-called “core curriculum.” The other is the more traditional method of teaching in which a teacher is given the freedom to forge her own particular path to the ultimate destination of learning, by adapting uniquely to each class and student before her.\nAs of this decision, there is no consensus on what “the right way” to teach or run a school is. This, in turn, means that the concept of “incompetence” in teaching remains up for debate. In other words, BOE’s position—that by petitioner not following the administration’s directives, she is automatically a bad teacher—does not necessarily follow.\nPS 2 is a public school, and petitioner’s students were kindergarten and second-grade students. They were not plebes at West Point. Applying this concept here, Lazan cites no authority for his approval of Taddeo’s regime, which evaluated the competency of kindergarten and second-grade teachers solely on how well they could assert boundless, militaristic control over classrooms of four-to-eight-year-old children. But Taddeo’s criteria for evaluation ignores factors such as the teacher’s work ethic, dedication, devotion to her students, and whether her students successfully transitioned into higher grades. Certainly, a consideration of these qualities calls Lazan’s conclusions into serious question.\nIn this regard, Palazzolo—a BOE witness whom Lazan found to be the most credible witness before him—testified to the following exchanges between petitioner’s counsel and Palazzolo:\n“Q: Every teacher has a different style. Is that correct? I assume you have a different style than the other 29 in the school as Ms. Broad has a different style. Isn’t that correct?\n“A: Yes.\n“Q: Okay. Does a teacher—in your experience both as a teacher and an administrator—sort of embellish on the plan as they’re going through the lesson where they don’t necessarily] say, And at this point in time do this?’ They just do it? I’m ta[l]king an experienced teacher.\n“A: Yes, we make adjustments as you go.\n“Q: Yeah, exactly. It doesn’t have to be in the lesson plan, does it, for it to be an effective lesson?\nA: No.” (TV 810.)\n“Q: When you observed the classes, what was the rapport between Ms. Broad and her students?\nA: Ms. Broad was very kind to her students.\n“Q: Okay, thank you. And did you experience the children really loved her?\nA: Yes.” (TV 816.)\n“Q: With regard to younger students, kindergarten to second grade, is rapport a very important aspect of the—of the teaching, to support the teaching between the student and the teacher?\nA: Yes.\n“Q: Thank you. And you did say that Ms. Broad had an excellent rapport with the students?\nA: Yes.” (TV 818.)\nThus, Lazan’s entire decision should be set aside, as there is no rational basis in the record that petitioner was incompetent. At the very least, the penalty of termination, which never should have been implemented, shocks this court’s conscience given the nature of the specifications at issue. Petitioner, a beloved teacher who had 27 years of experience under her belt, virtually all of which was Satisfactory, should be reinstated as a teacher (and perhaps reassigned to a different school) forthwith, with full back pay. There would seem to be no reason petitioner could not succeed under a different administration.\nAccordingly, it is hereby ordered and adjudged that the petition filed in this matter is granted in accordance with the court’s memorandum decision.\n. The hearing was held over 11 separate days from June 3, 2014 to September 18, 2014. Both BOE and petitioner were represented by counsel at the hearing and presented evidence and arguments in support of their respective positions.\n. Petitioner, who was originally pro se, obtained counsel at the time of oral argument on the petition. Following oral argument, the court permitted petitioner’s counsel and BOE to submit supplemental memoranda of law.\n. These facts are not merely derived from petitioner’s testimony, but also from the testimony of Gerard Palazzolo, an assistant principal and one of petitioner’s supervisors, who was called to testify on BOE’s behalf. As discussed below, Lazan found Palazzolo to be the most credible witness at the hearing.\n. Thereafter, petitioner filed a motion to dismiss, arguing that an arbitrator lacked jurisdiction to decide the matter based on her contention that BOE did not convene an executive session to determine probable cause. However, a different arbitrator, Marc Winters, Esq., to whom this matter was previously assigned, denied petitioner’s motion at an August 22, 2013 prehearing conference. In his decision, Lazan sustained Winters’s decision, finding that section 2590-h of the Education Law granted the New York City Schools’ Chancellor’s authority to principals so as to permit principals to initiate specifications against tenured teachers. Although petitioner initially raised this issue in her petition, she abandoned the issue in her final submission, a supplemental memorandum of law dated July 29, 2015. The court will not further discuss this issue, and declines to disturb Lazan’s finding in this regard.\n. Petitioner called this witness in support of her position that Taddeo improperly interfered with subpoenas intended to be served on PS 2 staff to obtain testimony at the hearing. Because this court can rule on the merits of the instant petition in petitioner’s favor, it declines to address petitioner’s argument in this regard.\n. Petitioner further maintains that Lazan was biased in favor of BOE in this matter, but the court rejects this line of argumentation. There is no evidence suggesting that Lazan was biased in this matter. Although the court ultimately takes issue with his findings, the fact that he gave more credit to the testimony supporting BOE’s position than that supporting petitioner’s does not suggest that he was “biased” in some way in favor of BOE.\n. With respect to the provisions of article 78,\n“[a]n action is arbitrary and capricious when it is taken without sound basis in reason or regard to the facts. If the court finds that the determination is supported by a rational basis, it must sustain the determination even if the court concludes that it would have reached a different result than the one reached by the agency. Further, courts must defer to an administrative agency’s rational interpretation of its own regulations in its area of expertise.” (Matter of Peckham v Calogero, 12 NY3d 424, 431 [2009] [citations omitted].)\n. Except for specifications 1 and 23, the specifications are discussed in order.\n9. A “running record” is an assessment of a student’s reading ability by evaluating his or her skills at comprehension, accuracy and vocabulary to determine the child’s reading level. It is to be done three times per year, and teachers were to keep such records for comparison.\n. In any event, termination based on this charge, even if Lazan’s finding is accepted, would be inappropriate.\n11. Palazzolo testified that “higher order thinking” refers to a dialogue between a teacher and students that is more than “short recall responses,” and which requires development of a conceptual understanding of the content being taught.\n. Additionally, Palazzolo testified that Taddeo was a very difficult supervisor to work for, so much so that he gave up his assistant principal position to return to teaching. His testimony in this regard supports petitioner’s claim that Taddeo was an insatiable superior.\n. Further, the decisions cited in BOE’s legal memoranda are distinguishable. Matter of Russo v New York City Dept. of Educ. (25 NY3d 946 [2015]) consists of a one sentence opinion that does not address any of the issues before this court aside from stating that termination in that matter did not shock the Court’s conscience. Moreover, a review of the First Department’s decision in Russo shows that the petitioner therein did not dispute several of the serious charges asserted against him (Matter of Russo v New York City Dept. of Educ., 119 AD3d 416 [2014]). That is not the case here. Similarly, in Matter of Davies v New York City Dept. of Educ. (117 AD3d 446 [1st Dept 2014]), the petitioner did not challenge many of the specifications asserted against her. Lastly, Matter of Asch v New York City Bd./Dept. of Educ. (104 AD3d 415 [1st Dept 2013]) is inapposite because that matter concerned allegations of serious sexual harassment/misconduct.",
+        "type": "majority",
+        "author": "Alice Schlesinger, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Stagg, Terenzi, Confusione & Wabnik, LLP, Garden City 0Candice L. Deaner and Debra L. Wabnik of counsel), for petitioner.",
+      "Zachary W. Carter, Corporation Counsel, New York City (.Maxwell D. Leighton and Ryan T. Mangum of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[18 NYS3d 306]\nIn the Matter of Lisa Broad, Petitioner, v New York City Board/Department of Education, Respondent.\nSupreme Court, New York County,\nOctober 20, 2015\nAPPEARANCES OF COUNSEL\nStagg, Terenzi, Confusione & Wabnik, LLP, Garden City 0Candice L. Deaner and Debra L. Wabnik of counsel), for petitioner.\nZachary W. Carter, Corporation Counsel, New York City (.Maxwell D. Leighton and Ryan T. Mangum of counsel), for respondent."
+  },
+  "file_name": "2068-01",
+  "first_page_order": 408,
+  "last_page_order": 425
+}

@@ -1,0 +1,98 @@
+{
+  "id": 12297401,
+  "name": "The People of the State of New York, Respondent, v. William Cullen, Appellant",
+  "name_abbreviation": "People v. Cullen",
+  "decision_date": "2017-04-27",
+  "docket_number": "",
+  "first_page": "45",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 45"
+    },
+    {
+      "type": "parallel",
+      "cite": "55 N.Y.S.3d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2008 NY Slip Op 51465",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Misc 3d 133",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Misc 3d 67",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3305736
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/22/0067-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 222,
+    "char_count": 2677,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2501275170869035
+    },
+    "sha256": "bd26b390bdcb28b8cc67cfe0fcb573f7d11d187db0d764f967392c29720ef389",
+    "simhash": "1:a9de61e2ad1edcf4",
+    "word_count": 428
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Tolbert, J.R, Garguilo and Brands, JJ., concur."
+    ],
+    "parties": [
+      "The People of the State of New York, Respondent, v William Cullen, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the judgment of conviction is reversed, on the law, and, as a matter of discretion in the interest of justice, the accusatory instrument is dismissed.\nThis criminal action was brought based upon defendant’s alleged violations of the Code of the Village of Pelham Manor (Code) by having changed the use and occupancy of a “carriage house” located at 50 Shore Road, Pelham Manor, New York without obtaining a “permit” therefor (Code § 210-5 [C]) and without obtaining a certificate of occupancy therefor (Code § 210-30), and by using/occupying the premises for a purpose other than an accessory and/or special accessory building (Code § 210-31 [B], [C]). The factual allegations set forth in the “information” and “supporting deposition” to support the charges were merely that Steven H. Ruhs and/or Jill M. Ferrara have been residing in the “carriage house.” After the matter had been transferred to the City Court of New Rochelle, the People moved for “summary judgment.” The City Court granted the motion and imposed a sentence of a conditional discharge.\nThe three counts contained in the “information” are “deemed misdemeanors” (Code § 210-8 [B]). There is no authority for a criminal court to render a judgment of conviction pursuant to a pretrial motion for summary judgment since, with rare exceptions, the CPLR is inapplicable to criminal proceedings (see CPLR 101; CPL 1.10 [1]; UCCA 2001; People v Manupelli, 22 Misc 3d 67 [App Term, 2d Dept, 9th & 10th Jud Dists 2008]), and the Criminal Procedure Law does not include a provision for accelerated judgment such as is available to civil litigants pursuant to CPLR 3212. Consequently, the motion for “summary judgment” should have been denied.\nUpon a review of the accusatory instrument, we conclude that the counts charged therein must be dismissed on the ground that the instrument is jurisdictionally defective. The factual allegations that Ruhs and Ferrara have been residing in the “carriage house” are conclusory, rather than evidentiary (see People v Curíale, 20 Misc 3d 133[A], 2008 NY Slip Op 51465 [U] [App Term, 2d Dept, 9th & 10th Jud Dists 2008]), and the instrument’s allegations do not establish the elements of the offenses charged.\nAccordingly, the judgment of conviction is reversed and the accusatory instrument is dismissed.\nTolbert, J.R, Garguilo and Brands, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "David S. Delbaum for appellant.",
+      "Anthony M. Napoli for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[55 NYS3d 584]\nThe People of the State of New York, Respondent, v William Cullen, Appellant.\nSupreme Court, Appellate Term, Second Department, 9th and 10th Judicial Districts,\nApril 27, 2017\nAPPEARANCES OF COUNSEL\nDavid S. Delbaum for appellant.\nAnthony M. Napoli for respondent."
+  },
+  "file_name": "2752-01",
+  "first_page_order": 93,
+  "last_page_order": 95
+}

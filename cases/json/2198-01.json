@@ -1,0 +1,658 @@
+{
+  "id": 4235152,
+  "name": "In the Matter of State of New York, Petitioner, v. Jason C., Respondent",
+  "name_abbreviation": "State v. Jason C.",
+  "decision_date": "2016-01-22",
+  "docket_number": "",
+  "first_page": "553",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 553"
+    },
+    {
+      "type": "parallel",
+      "cite": "26 N.Y.S.3d 423"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Ariz 470",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        208642
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "480",
+          "parenthetical": "\"Frye is inapplicable when a qualified witness offers relevant testimony or conclusions based on experience and observation about human behavior for the purpose of explaining that behavior\""
+        },
+        {
+          "page": "123",
+          "parenthetical": "\"Frye is inapplicable when a qualified witness offers relevant testimony or conclusions based on experience and observation about human behavior for the purpose of explaining that behavior\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/196/0470-01"
+      ]
+    },
+    {
+      "cite": "6 Cal Rptr 3d 415",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "419-420",
+          "parenthetical": "Frye hearing not required where actuarial test was merely starting point and not sole basis for psychologist's opinion regarding offender's risk of recidivism"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Cal App 4th 609",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2226013
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "615-616",
+          "parenthetical": "Frye hearing not required where actuarial test was merely starting point and not sole basis for psychologist's opinion regarding offender's risk of recidivism"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/113/0609-01"
+      ]
+    },
+    {
+      "cite": "800 NE2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "132",
+          "parenthetical": "noting that \"a psychologist's or psychiatrist's opinion as to an individual's future dangerousness is generally admissible when that opinion is based upon clinical observation or the evaluator's personal experience\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 Ill App 3d 1223",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3719447
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1228",
+          "parenthetical": "noting that \"a psychologist's or psychiatrist's opinion as to an individual's future dangerousness is generally admissible when that opinion is based upon clinical observation or the evaluator's personal experience\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/343/1223-01"
+      ]
+    },
+    {
+      "cite": "549 P2d 1240",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal 3d 24",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2292819
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/17/0024-01"
+      ]
+    },
+    {
+      "cite": "83 Cal Rptr 2d 828",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "831",
+          "parenthetical": "\"Kelly-Frye applies to cases involving novel devices or processes, not to expert medical testimony, such as a psychiatrist's prediction of future dangerousness or a diagnosis of mental illness\" [citing People v Kelly, 17 Cal 3d 24, 549 P2d 1240 (1976)]"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Cal App 4th 368",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        585046
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "373",
+          "parenthetical": "\"Kelly-Frye applies to cases involving novel devices or processes, not to expert medical testimony, such as a psychiatrist's prediction of future dangerousness or a diagnosis of mental illness\" [citing People v Kelly, 17 Cal 3d 24, 549 P2d 1240 (1976)]"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/71/0368-01"
+      ]
+    },
+    {
+      "cite": "767 So 2d 637",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        11227106
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "657-658",
+          "parenthetical": "\"The admission of expert testimony from psychologists and psychiatrists for the purpose of predicting future dangerousness caused by mental illness or abnormalities is nothing new or novel to the law\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/767/0637-01"
+      ]
+    },
+    {
+      "cite": "890 A2d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8990802,
+        5654462
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/890/0372-01",
+        "/pa/586/0054-01"
+      ]
+    },
+    {
+      "cite": "586 Pa 54",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654462
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0054-01"
+      ]
+    },
+    {
+      "cite": "2004 PA Super 38",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "¶ 17",
+          "parenthetical": "agreeing with out-of-state cases and holding \"that psychological or psychiatric testimony of an expert at an SVP proceeding is not novel scientific evidence subject to Frye\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "843 A2d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9281337
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1245",
+          "parenthetical": "agreeing with out-of-state cases and holding \"that psychological or psychiatric testimony of an expert at an SVP proceeding is not novel scientific evidence subject to Frye\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/843/1241-01"
+      ]
+    },
+    {
+      "cite": "767 NE2d 314",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 Ill 2d 63",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        58941
+      ],
+      "pin_cites": [
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/199/0063-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 498",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4069016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0498-01"
+      ]
+    },
+    {
+      "cite": "189 Cal Rptr 3d 886",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "238 Cal App 4th 1059",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6055849
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/238/1059-01"
+      ]
+    },
+    {
+      "cite": "133 AD3d 672",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4366537
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/133/0672-01"
+      ]
+    },
+    {
+      "cite": "247 AD2d 765",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        693728
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/247/0765-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 449",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5689076
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0449-01"
+      ]
+    },
+    {
+      "cite": "593 F3d 556",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3516344
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "580"
+        },
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/593/0556-01"
+      ]
+    },
+    {
+      "cite": "8 NE3d 650",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "pin_cites": [
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 P3d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "pin_cites": [
+        {
+          "page": "595-596"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wash App 374",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4013251
+      ],
+      "pin_cites": [
+        {
+          "page": "379-380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/160/0374-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004708
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0174-01"
+      ]
+    },
+    {
+      "cite": "599 F3d 602",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223730
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "616"
+        },
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0602-01"
+      ]
+    },
+    {
+      "cite": "50 Misc 3d 512",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4069405
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/50/0512-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 416",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724837
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0416-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 111",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320308
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0111-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 50",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215951
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0050-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 769",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407334
+      ],
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0769-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 430",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4392368
+      ],
+      "pin_cites": [
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0430-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 455",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4372495
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0455-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 935",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "272 AD2d 186",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        262345,
+        262114
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/272/0186-01",
+        "/ad2d/272/0186-02"
+      ]
+    },
+    {
+      "cite": "28 AD3d 42",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3013065
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0042-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 417",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2354529
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "422"
+        },
+        {
+          "page": "439"
+        },
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0417-01"
+      ]
+    },
+    {
+      "cite": "293 F 1013",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        11720199
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/293/1013-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2394,
+    "char_count": 74931,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 9.733802220600991e-8,
+      "percentile": 0.5306637568445111
+    },
+    "sha256": "09c2b77b12d54f033e0ef71a90d6833aed46c7da6941706aadd5af4fdfff0ae9",
+    "simhash": "1:fce9b8a198199768",
+    "word_count": 12002
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of State of New York, Petitioner, v Jason C., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDineen A. Riviezzo, J.\nIssue Presented\nIn this proceeding under article 10 of the Mental Hygiene Law, the respondent, Jason C., moved by motion, dated November 21, 2013, for an order precluding all testimony at trial concerning the diagnosis that forms the basis of the petition for civil commitment filed by the State of New York on June 7, 2013. Specifically, respondent alleges that the diagnosis, paraphilia, not otherwise specified (nonconsent) (paraphilia, NOS [nonconsent]), is not a diagnosis generally accepted by the relevant scientific community and thus, the use of expert testimony for that purpose should be precluded under Frye v United States (293 F 1013 [DC Cir 1923]). Petitioner opposed the motion. Another judge of this court granted a Frye hearing on the respondent’s specific diagnosis described in that court’s February 19, 2015 opinion as “Other Specified Paraphilic Disorder (non-consent)” or “OSPD (nonconsent)” in recognition of the change in nomenclature from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) from “paraphilia, NOS” to “Other Specified Paraphilic Disorder.”\nThis court held extensive hearings, at which six experts were called. The State called three experts: (1) Dr. Robin Wilson, a forensic psychologist with extensive clinical experience in the treatment of sex offenders, including work as the clinical director of the Florida Civil Commitment Center, as the first Sex Offender Treatment Specialist with the Federal Correctional Service of Toronto, Canada, and as the research director at the Clarke Institute of Psychiatry (a prominent psychiatric teaching hospital in Toronto, Canada); (2) Dr. Christopher Kunkle, Director and Chief Psychiatric Examiner of the Bureau of Institutional Sex Offender Treatment for the New York State Office of Mental Health (OMH) who oversees the psychiatric examiners who conduct evaluations for the State of New York pursuant to Mental Hygiene Law article 10; and (3) Dr. David Thornton, Director of the Sand Ridge Secure Treatment Center, the sex offender treatment facility of the State of Wisconsin, and one of the developers of the Static-99, a prominent risk assessment instrument.\nRespondent also called three experts: (1) Dr. Leonard Bard, a clinical and forensic psychologist based in Massachusetts, now in private practice who has conducted over 1,200 forensic examinations of sexually dangerous persons under Massachusetts General Law, chapter 123A and 128 (the equivalent New York State Mental Hygiene Law art 10); (2) Dr. Raymond Knight, the Mortimer Gryzmish professor of psychology at Brandéis University and the developer of leading typological models for rapists and child molesters; and (3) Dr. Cynthia Calkins, associate professor of psychology at John Jay College of Criminal Justice whose professional research and peer reviewed publications focus on sexual violence policies such as the efficacy of civil confinement laws, community notifications and GPS monitoring and the clinical functioning of sex offenders subjected to those laws.\nArgument of the Parties\nRespondent argues that the State has failed to prove that the diagnosis of OSPD (nonconsent) is a reliable diagnosis that has been accepted by the relevant scientific community. Specifically, respondent argues that there is no established criteria for the diagnosis, or consensus as to its definition, nor has the diagnosis been subject to vigorous scientific research published in peer reviewed publications which could be duplicated and tested—a necessary prerequisite to any diagnosis gaining general scientific acceptance. Respondent also emphasizes that the diagnosis was rejected for inclusion in the latest version of the DSM-5 after rigorous review which, respondent argues, is strong evidence of its rejection by the relevant scientific community. Finally, respondent notes that the diagnosis is used almost exclusively by state evaluators in sexually violent predator proceedings—a population which does not reflect the general psychiatric community.\nThe State argues that it has met its burden to prove that the general category of “Other Specified Paraphilic Disorder” is generally accepted in the relevant scientific community, as well as the additional qualifying diagnosis of “nonconsent” also known as “paraphilic coercive disorder.” The State provided to the court three New York State Supreme Court opinions issued in the context of article 10 proceedings which denied an application for a Frye hearing for OSPD (nonconsent) on the grounds that the respondents in those cases failed to make a prima facie showing. Further, the State listed 17 states in which this diagnosis is used in the context of those state’s sexually violent predator (SVP) laws.\nFrye Hearing: Elements and Burden of Proof\nIn general, the inquiry under Frye is “whether the accepted techniques, when properly performed, generate results accepted as reliable within the scientific community generally” (People v Wesley, 83 NY2d 417, 422 [1994]). The burden of proving general acceptance in the relevant scientific community rests upon the proponent of the disputed testimony (see Zito v Zabarsky, 28 AD3d 42 [2d Dept 2006]; People v Kanani, 272 AD2d 186 [1st Dept 2000], lv denied 95 NY2d 935 [2000]). Admissibility under Frye requires a showing that:\n1. the expert is competent in the field of expertise which he or she purports to address at trial. This element is not disputed in this case;\n2. the testimony is based on scientific principles or procedures which have been sufficiently established to have gained general acceptance in the particular field involved. In this regard, the hearing court does not determine whether or not a novel scientific theory is reliable, but only whether it is generally accepted in the relevant scientific community. The emphasis is on “counting scientists’ votes” (Wesley, 83 NY2d at 439 [Kaye, Ch. J., concurring]).\n3. the proffered expert testimony is “beyond the ken” of the jury (see Matott v Ward, 48 NY2d 455, 459 [1979]; People v Cronin, 60 NY2d 430, 433 [1983]). It is not disputed by the parties, and it is evident, that the subject of a DSM diagnosis is beyond the ken of the ordinary person; and,\n4. the testimony is relevant to the issues and facts of the individual case, and more probative than prejudicial. Evidence is relevant if it has any tendency in reason to prove the existence of any material fact, i.e., if it makes determination of the action more probable or less probable than it would be without the evidence. However, even if relevant, the probative value must outweigh the prejudice to the other side. A trial court may exercise its discretion and preclude “technically relevant” evidence “if its probative value is substantially outweighed by the danger that it will unfairly prejudice the other side or mislead the jury” (People v Scarola, 71 NY2d 769, 777 [1988]).\nIn engaging in a Frye analysis, the court may consider scholarly articles on the subject matter for the purpose of understanding “general acceptance.” Both sides, indeed, submitted numerous writings and journal articles on the subject of paraphilic disorders. Because Frye is concerned with “head counting” of experts, the state of knowledge in the profession is at issue and scholarly articles and journals are, therefore, admissible as reflecting those matters which are generally accepted in the relevant scientific community (see e.g. People v Wernick, 215 AD2d 50, 52 [2d Dept 1995], affd 89 NY2d 111 [1996]; Fraser v 301-52 Townhouse Corp., 57 AD3d 416 [1st Dept 2008] [plaintiffs placed in evidence nearly 40 articles, treatises and other published studies concerning the relationship between building dampness and mold and sickness in humans; defendants placed approximately 15 such publications in evidence]).\nWhile the court found that all of the experts were credible witnesses and acknowledges their extensive knowledge, experience and passion for their work, it did not, as is explained in more detail below, concur with all of their opinions. The court has made factual findings based upon only those portions of the testimony relevant to its legal conclusions. In addition, the court considered the post-hearing written submissions of the parties, and consulted numerous scholarly articles that were both received into evidence and mentioned or relied upon by the experts. For the reasons which follow, the court holds that the general diagnosis of “Other Specified Paraphilic Disorder” is a generally accepted diagnosis in the relevant scientific community. As to the specifier at issue here, “nonconsent,” the court holds that the State has not met its burden to prove under Frye that the respondent’s specific diagnosis of OSPD (nonconsent) is generally accepted in the relevant scientific community.\nRespondent’s Criminal History\nRespondent’s criminal history includes four convictions for sexual assault. On December 19, 1994, respondent forcibly raped his former girlfriend when the victim was 13 years old and he was 19 years old. Respondent punched her repeatedly on her face and stomach, choked her, and threatened her with a metal cane and a gun that he had placed on the table. While that case was pending, on January 13, 1996, respondent approached a 16-year-old stranger on a subway platform, grabbed her and forced her to his apartment two blocks away. He locked her in a room, repeatedly slapped her, forced her to perform oral sex on him, and attempted to rape her. On March 15, 1996, he pleaded guilty to two counts of sexual abuse in the first degree to satisfy both indictments and received a sentence of 1 to 3 years’ incarceration concurrent on both. Respondent was paroled on September 11, 1998 and discharged from parole on March 11, 1999.\nOnly eight months later, on October 26, 1999, respondent forced a 19-year-old girl to perform oral sex on him while he punched and slapped her, placed his finger in her anus and threatened to snap her neck while claiming he was in possession of a gun. While the State’s petition for civil confinement asserts that the victim was unknown to the respondent, respondent describes her as a “paramour” (respondent’s notice of motion to preclude expert testimony at 2). On August 9, 2000, he pleaded guilty to attempted sexual assault in the first degree and was sentenced to 1 to 3 years’ incarceration which he completed on October 30, 2002.\nIn the spring of 2004, respondent raped at knife point a 12-year-old girl he knew from the neighborhood who had come over to his house. He blindfolded her, slapped her, raped her, placed his penis in her mouth, orally penetrated her and placed his fingers in her anus. He was not arrested until 2008. He was convicted on January 21, 2009 of attempted rape in the first degree and sentenced to six years’ incarceration and five years’ postrelease supervision. The State subsequently filed the petition for civil commitment on October 24, 2013 based on this qualifying offense.\nRespondent’s Diagnoses\nAccording to the petition for civil commitment, the psychiatric examiner who initially evaluated the respondent and diagnosed him with a mental abnormality was Dr. Trevor Floyd, a licensed psychologist for the New York State Office of Mental Health. After reviewing respondent’s criminal history, documents in the possession of OMH and the New York State Department of Corrections and Community Supervision and conducting a three-hour and 20-minute interview with the respondent, Dr. Floyd concluded that respondent suffers from the following disorders listed in the DSM-5: antisocial personality disorder (ASPD) and alcohol use disorder, severe, in a controlled environment. Dr. Floyd considered, but did not assign, sexual sadism disorder.\nSubsequently, pursuant to Mental Hygiene Law § 10.06 (e), the State had court-appointed examiner John A. Thomassen, Ph.D., evaluate respondent. Dr. Thomassen also reviewed the relevant documents and conducted a 2V2-hour interview with the respondent. Dr. Thomassen agreed that respondent suffered from a mental abnormality but concluded that respondent’s DSM-5 diagnoses were ASPD and OSPD (nonconsent). He also ruled out a diagnosis of sexual sadism.\nPoint I\nThe DSM-5 Diagnosis of “Other Specified Paraphilic Disorder” is Generally Accepted in the Psychological Community\nThis court previously ruled in a Frye hearing conducted just a few months prior to this one that the DSM-5 diagnosis of “Other Specified Paraphilic Disorder,” formerly called paraphilia, not otherwise specified in the DSM-IV, is generally accepted in the psychological community (Matter of State of New York v Mercado, 50 Misc 3d 512 [Sup Ct, Kings County, Aug. 11, 2015]). Respondent offered no testimony in this Frye hearing that would cause this court to change its ruling and, indeed, the respondent has not argued as such in his post-hearing briefs.\nAs this court noted in Mercado, with regard to these “catchall” diagnoses, the DSM-5 makes clear that they are legitimate, indeed, necessary diagnoses. The DSM-5, in fact, instructs in its prefatory chapter that “[w]hen full criteria are not met, clinicians should consider whether the symptoms presentation meets criteria for an ‘other specified’ or ‘unspecified’ designation.” (American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders at 21 [5th ed 2013].) Within the chapter on paraphilic disorders, which is at issue here, the DSM-5 authors confirm that while only eight specific paraphilic disorders are listed with criteria in the DSM-5:\n“Many dozens of distinct paraphilias have been identified and named, and almost any of them could, by virtue of its negative consequences for the individual or for others, rise to the level of a paraphilic disorder. The diagnoses of other specified and unspecified paraphilic disorders are therefore indispensable and will be required in many cases.” (Id. at 685.)\nIndeed, even respondent’s expert, Dr. Bard, testified that “not otherwise specified” and “other specified disorders” are categories that are useful in clinical practice and especially in the context of paraphilias where it is used with the “lesser or rarely seen paraphilias” along with a specifier (Bard tr at 381-382).\nPoint II\nThe State’s Evidence in Support of OSPD (Nonconsent)\nA. The Definition of OSPD (Nonconsent)\nThe State’s three experts began their analysis with the general definition of a paraphilic disorder. The DSM-5 defines a paraphilia as “any intense and persistent sexual interest other than sexual interest in genital stimulation or preparatory fondling with phenotypical normal physically mature consenting human partners” (Wilson tr at 103, citing American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders at 685 [5th ed 2013]). According to Dr. Wilson, stated another way, a paraphilia is a “recurrent, intense sexual arousing fantasy or urge or behavior that involves either children, inanimate objects or non-consenting persons” (Wilson tr at 96). Similarly, Dr. Kunkle described a paraphilia as “an abnormal, persistent and intense sexual interest, arousal or behaviors involving either the pain and suffering of another, children or other non-consenting persons, or inanimate non-human objects” (Kunkle tr at 19). For the paraphilia to be a disorder, however, the paraphilic interest must cause distress or impairment to the individual such that it interferes with their work or family life or results in trouble with the law or harm to others (Wilson tr at 97).\nDr. Wilson opined that the very definition of what constitutes a paraphilic disorder encompasses a “paraphilic rape disorder” in that an interest in non-consenting human partners is a disorder (Wilson tr at 104-105). Dr. Wilson further explained: “There is a construct within the science that shows, consistently, that, there is a group of offenders who engage in their behavior specifically because it’s the non-consenting element of the victim that causes them the sexual arousal that they are seeking to obtain.” (Wilson tr at 105.) Dr. Wilson opined that there is not a paraphilia specifically named “nonconsent,” but rather the disorder goes by the name of “biastophilia” which he defined as a paraphilia in which “the specific reason for engaging in that behavior is that the individual is sexually aroused by the fact that the person he’s being sexually involved with is not consenting to the behavior. So, it’s the non-consenting element that makes him most sexually aroused” (Wilson tr at 105-106). According to Dr. Wilson, other names that describe the same condition are “paraphilic rapism” and “paraphilic coercive disorder or PCD” (id. at 106). Dr. Wilson testified that the proposal to include PCD in the DSM-5 contained the exact same definition as OSPD (nonconsent), namely,\n“people who are being aroused by the coercive element of the sexual interaction. That meaning, that, the person is not consenting, is putting up some degree of fight to the behavior and it’s the fact that the person is not interested in being sexually involved with the client and that they are fighting back, such that they have to be coerced that’s the part that the individual finds most sexually arousing.” (Wilson tr at 106.)\nThe State’s experts opined that OSPD (nonconsent) is on a spectrum or dimension with other paraphilic disorders already mentioned in the DSM-5. In Dr. Wilson’s opinion, there is a “lot of kind of dimensionality with respect to a number of different classes of disorders” in the DSM, an example is depression (Wilson tr at 107). There are many degrees of being depressed (id.). Similarly, he opined that there is a spectrum or dimension to sexual interactions between people with consensual sex at one end of the spectrum and sexual sadism at the other (id.). Sexual sadism is a disorder with a set of criteria within the chapter on paraphilic disorders in the DSM-5 (American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders at 695 [5th ed 2013]). Sexual sadism involves an extreme level of brutality and physical harm that is arousing to the actor, while the victim is “absolutely terrified” (Wilson tr at 109). Dr. Wilson explained,\n“[i]f you sort of toned down the violence, there is a point at which the focal aspect of the paraphilic interest is the fact that the person is not consenting and that they are putting up some degree of a struggle, but the violence that’s being used is only the amount of violence necessary to ensure compliance.” (Wilson tr at 109-110.)\nDr. Wilson set PCD within the construct of “courtship disorders,” which he described as disorders that are based upon the stages of courtship common to animals and humans alike (Wilson tr at 111). He testified that this “courtship disorder hypothesis” figures prominently in the DSM-5 “in terms of trying to explain how certain paraphilic disorders tend to cluster together” (Wilson tr at 113). According to Dr. Wilson, the first stage of courtship is identifying the partner with whom you wish to be sexual (Wilson tr at 111). The second stage is attracting that partner’s attention (id. at 111-112). Dr. Wilson explained that this is why male birds have brighter feathers (id. at 112). The third stage is precoital tactile interaction, such as holding hands, petting, and kissing (id.). The fourth stage is sexual intercourse (id.).\nThe paraphilias, Dr. Wilson argued, “map on quite nicely,” so that a dysfunction in the first stage of courtship produces voyeurism—“peeping into window, you know, sort of trying to surreptitiously view others” (Wilson tr at 112-113). A dysfunction in the second phase, trying to attract the attention of others, would relate to exhibitionism and the third phase would be frotteurism, which is sexual urges or behaviors involving touching and rubbing against non-consenting persons (Wilson tr at 113). Dr. Wilson concluded that “the absence of any courtship behavior would be rape; which means that you don’t, actually, go through these first three stages. You iust go straight to the end” (Wilson tr at 113).\nDr. Wilson explained that there is a co-occurrence of these courtship disorder paraphilias, meaning that these paraphilias co-occur more often with each other than with other paraphilias (Wilson tr at 172). He testified that while the DSM-5 does not contain a paraphilic rape disorder, there is support for the courtship disorder hypothesis in the preamble of the paraphilic disorder chapter in the DSM-5 that calls voyeurism, exhibitionism and frotteurism “courtship disorders” as a means to distinguish them from the other five paraphilic disorders listed in the chapter (Wilson tr at 174-175, citing American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders at 685 [5th ed 2013]).\nFinally, Dr. Kunkle defined OSPD (nonconsent) as follows: “the intense or persistent sexual interest would be in sexual encounters where there is a lack of consent from the person, the other person. In essence they would be resistant to or coerced, forced into sexual contact. That is the underline [sic] interest of the perpetrator.” (Kunkle tr at 20.)\nB. Support for the Diagnosis in the Literature\nDr. Thornton’s testimony focused primarily on the three types of studies that have been conducted on the diagnosis of OSPD (nonconsent): studies using a penile plethysmograph, rating scale studies and self-report studies (Thornton tr at 250-251).\ni. Penile Plethysmograph or PPG Studies\nStudies using a penile plethysmograph or PPG involve placing a sensor on a man’s penis to measure his erectile response while he is exposed to different sexual stimuli (Thornton tr at 250-251). Dr. Thornton described a meta-analysis conducted by Martin L. Lalumiére and others in which groups of men were exposed to two different sets of stimuli—one that depicts two adults engaged in mutually consenting sexual activity and the other of a man raping a woman against her will (see Martin L. Lalumiére, Vernon L. Quinsey, Grant T. Harris, Marnie E. Rice & Caroline Trautrima, Are Rapists Differentially Aroused by Coercive Sex in Phallometric Assessments?, 989 Ann NY Acad Sci 211 [2003]). According to Dr. Thornton, the study demonstrated that the “normal” population of men show much stronger erectile responses to depictions of consenting sex than to depictions of rape (Thornton tr at 253). Convicted rapists, on average, show indifference to those two stimuli. However, a look amongst the convicted rapists demonstrates that between one third and one half will show stronger responses to depictions of rape than they will to depictions of consenting sex (id.). This, Dr. Thornton argues, is evidence that these individuals are aroused by stimuli associated with nonconsent such that their responses to the rape stimuli are greater than their responses to the consenting stimuli (Thornton tr at 255). This is measured by a positive rape index which is the ratio of the PPG responses to stimuli associated with coercive sexual encounters relative to the PPG responses to stimuli showing consensual sexual encounters (id.).\nIn addition to this meta-analysis, Dr. Thornton also examined the files of 33 convicted rapists confined in the Sand Ridge Secure Treatment Center, all of whom had been subjected to PPG testing using three sets of stimuli: consensual sex, a rape scenario and a third, more brutal rape scenario involving physical battery or even murder which corresponds with the DSM-5 diagnosis for sexual sadism (Thornton tr at 258-259). According to Dr. Thornton, fifty percent of the participants showed a preference for consensual sex, twenty percent for coercion and twenty percent for brutality (Thornton tr at 259; David Thornton, Evidence Regarding the Need for a Diagnostic Category for a Coercive Paraphilia, 39 Arch Sex Behav 411 [2009]).\nii. Rating Scale Study\nIn addition to his PPG study, Dr. Thornton detailed a study he presented at the Association for the Treatment of Sexual Abusers (ATSA) conference in 2011 involving 65 patients convicted of rape who were also confined at the Sand Ridge Secure Treatment Center (Thornton tr at 260). The purpose of the study was to attempt to establish the inter-rater reliability of clinicians distinguishing the diagnosis of OSPD (nonconsent) from sexual sadism (Thornton tr at 263, 268). Dr. Thornton created a checklist or a rating scale for “what (he) then called paraphilic rape, which means much the same as nonconsent” and the study was also meant to establish the internal consistency of the checklist (Thornton tr at 260, 267-268). According to Dr. Thornton, the paraphilic rape checklist was based on “research literature and on my experiences on what the clinicians used to make inferences” that a rape-related paraphilia existed that was not sexual sadism (Thornton tr at 260-261). His list of items suggesting the presence of a rape-related paraphilia less than severe sexual sadism was: (1) evidence of planning; (2) evidence of a script being repeated; (3) history of three or more rapes/sexual assaults that use threats of violence to gain control of an unwilling victim; (4) history of carrying out one or more rapes when consensual sex was available; (5) evidence of salient coercion or behavior deliberately designed to induce fear, suffering or injury, beyond that required to control the victim during sexual assaults; (6) history of sadistic/rape elements in consensual sexual behavior (e.g. pretend rape, strangling sexual partners during sex act); (7) PPG data indicating preferential arousal to coercion or arousal to sadistic themes; and (8) self-report of rape or sadistic fantasy/urges (Thornton tr at 261-263).\nDr. Thornton testified that this paraphilia rape checklist was compared to a sexual sadism checklist that he “largely borrowed” from a published study by J. Nitschke and colleagues (Thornton tr at 263; Joachim Nitschke, Michael Osterheider & Andreas Mokros, A Cumulative Scale of Severe Sexual Sadism, 21 Sexual Abuse: J of Res & Treatment 262 [2009]). Dr. Thornton’s severe sexual sadism checklist is a seven-item cumulative scale: (1) offender tortures the rape victim, inflicts intense pain substantially beyond that intrinsic to being raped (inserting needles, hanging victim); (2) humiliates rape victim beyond that intrinsic to being raped (use of bodily secretions or excretions); (3) mutilates sexual body parts of victim; (4) mutilates non-sexual body parts of victim; (5) uses physical object to inflict pain to the sexual areas of the rape victim’s body; (6) makes threats designed to terrify rather than coerce the victim; and (7) strangles, cuts or stabs victim prior to or during the sex act (Thornton tr at 263).\nIn Dr. Thornton’s study, two clinicians, one of whom was the treating physician and the other an independent clinician, were asked to go through patient files “with the idea that if you had several of these items [from the paraphilic rape checklist] present this would be the kind of picture which would lead a clinician normally to infer that paraphilic rape was present” (Thornton tr at 261). Dr. Thornton testified that the two scales had “a fairly high level of internal consistency” and there was about two-thirds agreement between independent raters—a reasonable reliability (Thornton tr at 267, 269). According to Dr. Thornton, the study was meant to answer the question, does the paraphilic rape checklist measure something which is independent of sexual sadism? (Thornton tr at 270.) Of the 65 participants, 20 had at least four signs present on the paraphilic rape checklist (Thornton tr at 272). Of those 20, eight had no signs of sexual sadism and six had clear evidence of sexual sadism (id.). The remaining six were in the middle— showing some signs of severe sexual sadism but not enough for a complete diagnosis (id.). This demonstrated to Dr. Thornton that eight individuals among 65 convicted of rape confined within this facility met his own definition of OSPD (nonconsent) as a separate diagnosis from sexual sadism (Thornton tr at 274).\niii. Self-Report Study\nDr. Thornton testified that the most reliable form of a self-report study is under research conditions that guarantee anonymity or confidentiality (Thornton tr at 275). He cited one such study coauthored by the respondent’s expert, Dr. Raymond A. Knight, which Dr. Thornton testified offered support that arousal to coercion is on a continuum with severe sexual sadism (Thornton tr at 276, citing Raymond A. Knight, Judith Sims-Knight, & Jean-Pierre Guay, Is a Separate Diagnostic Category Defensible for Paraphilic Coercion?, 41 J Crim Just 90 [2013]). At the hearing, Dr. Thornton proffered table 3 from that study which contained 17 items on a continuum ranging from least sadistic type behaviors, such as “having thoughts about forcing sex” and “making a female do what I want turns me on” to the most sadistic behaviors such as “beating a woman while having sex” (Thornton tr at 276). Dr. Thornton concluded that “other specified paraphilic disorder (nonconsent) could also be understood as just a lesser form of the things that are being characterized under severe sexual sadism” (Thornton tr at 282). Dr. Thornton later testified on cross-examination that he and Dr. Knight, the respondent’s expert, had proposed replacing the diagnosis of sexual sadism in the DSM-5 with a diagnosis called the “agonistic continuum” which would recognize that these disorders, OSPD (nonconsent) and sexual sadism, are on a continuum and not distinct categories (Thornton tr at 354-355). Nonetheless, Dr. Thornton acknowledged the importance of separating out the two groups for purposes of treatment needs and to minimize the greater prejudicial effect of the “sadist” label in the courts (Thornton tr at 285-286).\nLastly, Dr. Thornton explained that his unit records every diagnosis made by state evaluators in sexually violent predator proceedings in Wisconsin (Thornton tr at 282). One in five patients were given the diagnosis of paraphilia (nonconsent) in 2014 (Thornton tr at 283). Of the 345 persons confined at the Sand Ridge Secure Treatment Center, twenty percent meet the criteria for OSPD (nonconsent) (Thornton tr at 317).\nPoint III\nThe Specifier “Nonconsent” or “Paraphilic Coercive Disorder” is Not Generally Accepted within the Psychological Community\nWhile the general category of other specified paraphilic disorder is generally accepted in the scientific community, this Frye hearing made clear that the specifier that is attached to the general diagnosis must be carefully scrutinized for its general acceptance.\nA. There is No Clear Definition or Criteria for the Proposed Disorder\nOther than giving the general definition of what this proposed disorder is, namely arousal to nonconsent, the State has not provided this court with a clear understanding of what the agreed upon criteria is for the diagnosis. Each of the State’s experts proffered his own understanding of how it would be diagnosed. Further, it was also very clear from the literature that there is no agreed upon criteria for this condition even among SVP practitioners. As a starting point then, the court cannot find a diagnosis “generally accepted” when there is not, at the very least, a generally accepted criteria that defines the condition. In this context, a judicial finding that this diagnosis is generally accepted would provide no clarity as to what “this diagnosis” actually is—other than in name and general definition.\nFirst, there have been various terms for this proposed disorder throughout the years and the State’s experts did not agree as to whether or not all of the terms are synonymous. While Dr. Wilson and Dr. Kunkle said the terms are synonymous or essentially the same, (Wilson tr at 105-106; Kunkle tr at 43), Dr. Thornton explained that while this condition has been called biastophilia, paraphilia (nonconsent) and paraphilia coercive disorder, these definitions are not synonymous, but, in fact, overlap and are all attempts to describe the same thing at different times corresponding to the creation of the DSM IV-TR and DSM-5 (Thornton tr at 304). Dr. Thornton testified, without further explanation, that in his estimation the criteria for biastophilia was more accurate and more in line with the criteria he testified to, discussed above, than the criteria that was proposed for paraphilic coercive disorder (Dr. Thornton tr at 305-306). Dr. Knight also explained that each of these proposed disorders, including the additional terms “preferential rape” and “sexual assault disorder,” had “very different operational definitions” and are “largely non-overlapping criteria” in that they would not cover the exact same group although they were “targeting the same area, which is an area of having fantasies of coercing a particular individual” (Knight tr at 471).\nMoreover, each of the State’s experts proffered his own diagnostic criteria. For example, Dr. Kunkle defines OSPD (nonconsent) as “a pattern of sexual interests, arousal or behaviors involving non-consenting sexual encounters” (Kunkle tr at 21). He formed this definition from “the literature and research that I have reviewed and my experience in evaluating, treating sex offenders” (Kunkle tr at 48). Dr. Kunkle explained his diagnostic criteria as follows:\n1. a “pattern of convictions or charges related to forced sexual encounters either by physical force, coercion, trickery, threats where the victim of those acts shows evidence of lack of consent” (Kunkle tr at 22-23). However, he acknowledged that not every serial rapist meets this criteria and the practitioner would have to rule out other causes (id.);\n2. a “pattern of rapes or forced sexual encounters that first of all had a pretty clear, reasonably clear, sign of the implication that there wasn’t going to be consent” such as “evidence of planning” or a “stranger abduction” (Kunkle tr at 23-24). On cross-examination, Dr. Kunkle opined that he would start with the general rule of three rapes but depending on other factors two rapes or even one rape would be enough “if the person is admitting to those types of acts or arousal patterns” (Kunkle tr at 47);\n3. the frequency of the behavior, e.g. “I will be considering whether an individual has been charged with previous acts of that sort and how quickly they returned to that behavior” (Kunkle tr at 24);\n4. a “recognizable pattern of behavior that speaks to the person’s paraphilic interest” such as scripted fantasies (Kunkle tr at 25); and\n5. a report by the individual that he is interested in nonconsent or is having fantasies about raping women (Kunkle tr at 25).\nDr. Thornton’s eight criteria from his paraphilic rape checklist, summarized above, had elements that differed from Dr. Kunkle’s such as “having coercive sex when consensual sex was available.” Dr. Knight demonstrated that Dr. Thornton’s criteria in his paraphilic rape checklist came from a variety of sources such as previously published papers of other researchers, and opined that three of the items on the checklist were “unique” to Dr. Thornton (Knight tr at 557).\nIn arguing for its inclusion in the DSM-5 as a stand-alone diagnosis, Dr. Thornton published yet another set of proposed criteria in a 2009 article that had three criteria: (1) over a period of at least six months, recurrent, intense sexually arousing fantasies or sexual urges focused on sexual coercion, as indicated by self-report, laboratory testing or behavior; (2) the person is distressed or impaired by these attractions, or has sought sexual stimulation from forcing sex on three or more non-consenting persons on three occasions; (3) the diagnosis would not be made if patient meets the diagnosis for sexual sadism disorder (David Thornton, Evidence Regarding the Need for a Diagnostic Category for a Coercive Paraphilia, 39 Arch Sex Behav 411 [2009]).\nDr. Wilson’s diagnosis criteria was focused more on distinguishing OSPD (nonconsent) from sexual sadism (Wilson tr at 133). Dr. Wilson testified that he “would want to know that, first and foremost, the victim was not consenting; that, there was some degree of force, that she was either restrained or that she was maybe tied up, maybe she was given some sort of intoxicant that would reduce her overall ability to fight back” (Wilson tr at 133). Dr. Wilson described an evaluation he conducted where the victim reported that there were times when the perpetrator “seemed to experience somewhat less arousal . . . [during] times when she wasn’t crying as hard or where she wasn’t struggling as much” (Wilson tr at 134). He also would include in the definition, the rapist who incapacitates the victim using drugs because the drugs would be a way to overcome the victim’s resistance (Wilson tr at 193). Dr. Wilson opined that the rapist who preys upon mentally incapacitated individuals who are not capable of consenting could be similarly diagnosed with OSPD (nonconsent) although he would need more information (Wilson tr at 195-196). Dr. Wilson would even include pedophiles in the definition if the child was struggling and fighting back and the perpetrator was aroused by that struggle (Wilson tr at 197). Thus, Dr. Wilson would include in the definition any perpetrator aroused by the non-consensual nature of the encounter regardless of how it came to be that the person has manifested the nonconsent (Wilson tr at 202).\nWhile both Dr. Thornton and Dr. Kunkle testified that a criteria of three rapes would help define the disorder, Dr. Wilson testified that the number of rapes would not be the “biggest indicator for me” in distinguishing sexual sadism from OSPD (nonconsent), but rather he would “want to know more about what happened, what the experience was for the victim, what the nature of the behavior was on the part of the offender” (Wilson tr at 182).\nWithin the research literature, it was clear that there were differing criteria even among those working within the SVP community, which is where this diagnosis is being used if not exclusively, than clearly predominantly. For example, Dr. Denis Doren, who is a recognized leader in the field of civil confinement, published a book with nine criteria for the diagnosis (see Calkins tr at 612; Knight tr at 470, 551). Dr. Doren, in fact, testified at an SVP hearing in Wisconsin that he developed this diagnosis himself to “fill a purported gap” (Brown v Watters, 599 F3d 602 [7th Cir 2010]). Dr. Knight testified about another proposed scale presented at an ATSA conference in 2010 by Drs. Gary Zinik and Jesus Padilla that has 18 criteria (Knight tr at 470, 551, 556, 563).\nSome of the proposed criteria are in-and-of-themselves controversial. For example, Dr. Calkins testified that there is nothing pathological about rape fantasies and that even “normal” adult men and women have such fantasies (Calkins tr at 615). Dr. Knight testified that males in general have a very high prevalence of these kinds of coercive fantasies (Knight tr at 583). Dr. Bard testified that rape fantasies are about control and domination and are not deviant (Bard tr at 402). Dr. Wilson also, perhaps inadvertently, identified another problem with this criteria. He testified that about 50 times or so back in the 1980s men would come into his office and acknowledge or admit that they are aroused by nonconsent type scenarios or videos (Wilson tr at 186). However, he said, that “pretty rarely” happens now due to changes in the law that have made it harder for individuals to self-present and get help {id.). In fact, Dr. Wilson testified that such self-reports have not happened in the last 10 years (Wilson tr at 186). And yet, the State’s evidence demonstrated that these self-reports of rape fantasies or urges are the primary way to distinguish the paraphilic rapist from the rapist motivated by nonparaphilic reasons such as violence, control, antisociality or cognitive distortions.\nFinally, Dr. Knight testified, in greater detail than is necessary to summarize here, that many of the criteria proposed— such as “the frequency of the occurrence of rape” and “the planning of the offenses”—have no correlation to each other (Knight tr at 552-553). Other proposed criteria such as “at the time of the crime, consensual sex was available” appear to have no data to support it (Knight tr at 555-556). And yet, for other criteria, such as “rape fantasies” discussed above, clinicians lack sufficient details such as the nature of the fantasies and their duration (Knight tr at 583).\nThe fact that this proposed diagnosis is still evolving and has yet to have a recognizable and generally accepted set of criteria was apparent in Dr. Kunkle’s testimony about the use of this diagnosis at the Office of Mental Health (OMH) in the context of article 10 proceedings. From March 2007 to February 2015, there were 13,000 cases referred to OMH for possible civil confinement (Kunkle tr at 28). Of those, 1,100 were referred for a psychiatric evaluation (thus, approximately 12,000 cases were reviewed and deemed not to meet the criteria for civil confinement) (Kunkle tr at 29). Of the 1,100 cases, 124 had paraphilia, NOS (nonconsent) or OSPD (nonconsent) as the specifier (Kunkle tr at 29). However, half of those diagnoses were given in the first two years of the enactment of Mental Hygiene Law article 10 (Kunkle tr at 30). The remaining approximately 60 diagnoses were in the subsequent seven years from 2009 to the present at approximately 11 per year (Kunkle tr at 30-31). Of the 124 diagnoses, only 112 were actually petitioned for civil commitment (Kunkle tr at 31-32).\nWhen asked by the court why half of the total paraphilia nonconsent diagnoses occurred in only the first two years of the program, as compared to the second half occurring over the subsequent nine years, Dr. Kunkle speculated that within the first two years of the program, OMH was using contractors or evaluators that were not within the sex offender program (Kunkle tr at 68). He stated that “whereas over the years we have better defined and better trained people on assigning the diagnosis” (Kunkle tr at 68).\nFinally, the State’s experts did not agree with each other about where this purported diagnosis fits among other diagnoses more commonly accepted. For example, Dr. Thornton called Dr. Wilson’s proposed courtship disorder a “hypothesis” (Thornton tr at 363) and that “I have always been rather skeptical about whether or not that this courtship disorder hypothesis is correct. It’s a way of making sense of these things, but I’ve never been entirely convinced that this was the correct way of understanding these behaviors.” (Thornton tr at 364.)\nB, This Proposed Diagnosis Cannot be Reliably Distinguished from Other Motivations for Rape such as Antisociality or Sexual Sadism\nAll six experts agreed on the importance of determining the motivation for rape whether it is anger, vindictiveness, an antisocial or psychopathic personality type (a disregard for the law and rules and rights of others), or cognitive distortions which are “faulty thinking patterns that might cause somebody to think things like, you know, she was asking for it” (Calkins tr at 625). The difference is important in order to properly treat the offender. As Dr. Wilson explained, “for someone who is fundamentally antisocial” the focus would be “more on their values and attitudes about the world, because they are engaging in rape behavior as a consequence of not having much regard for others, being a sort of, generally callous and—you know, not considering of others” (Wilson tr at 136). Different motivations for rape might also effect determinations about risk management and interventions (Wilson tr at 136-137).\nAbsent an admission by a patient to having nonconsent fantasies or urges, the State’s experts did not explain how they would distinguish the paraphilic rapists from those who rape out of anger or cognitive distortion or for psychopathic or antisocial reasons since all of the suggested criteria discussed above are equally applicable to non-paraphilic rapists (see e.g. Wilson tr at 114). For example, Dr. Wilson believes that there is a “small but distinct group of people who the reason why they engage in that behavior is, specifically, because they want to be having sex with someone who is not consenting” (Wilson tr at 122). However, he further acknowledged that a man who rapes for paraphilic reasons needs to be distinguished from a man who is “more antisocially inclined” as in one who rapes because he is “sexually aroused, he wants to have sex and he doesn’t really care whether or not the other person consents. If the other person did consent, he’d be perfectly happy to have sex with them” (Wilson tr at 123). Dr. Wilson further described the thoughts of a person who rapes for reasons of antisociality as: “I’m always angry at women. I just take sex from anyone I can get it from. I don’t really care whether she says yes or no. It’s all about me. It’s my needs first” (Wilson tr at 184). While Dr. Wilson opined that raping because one is angry at women, in general, can still suggest paraphilic behavior so that if that anger leads to sexual arousal the paraphilia might still be “on the table to look at,” he did not describe how that distinction could be made (id.).\nBefore the Court of Appeals’ decision in Matter of State of New York v Donald DD. (24 NY3d 174 [2014]) this distinction might not have mattered because either motivation for rape, whether a cognitive distortion related to antisocial personality disorder or a paraphilia, could have conceivably formed the basis of a mental abnormality. However, because ASPD alone is now not enough to form the basis of a mental abnormality, this distinction is now vitally important to separate out those subject to civil commitment from those who now are not. What the court found most convincing was the testimony and research that demonstrated that the proposed disorder of OSPD (nonconsent) cannot be reliably distinguished from the recognized disorder in the DSM-5 of sexual sadism. Sexual sadism was defined by Dr. Wilson as “people who derive sexual pleasure from inflicting pain and suffering on others” (Wilson tr at 179). He continued that “the level of pain and suffering is, in most cases, quite severe” (id.). Dr. Wilson testified that on this spectrum of OSPD (nonconsent) to sexual sadism, “on the low end” would be “some degree of restraint, some degree of pain or perhaps humiliation” (Wilson tr at 135). While on the high end of the spectrum, one might find things like “cutting, strangling, terrorizing, brutalizing” (id.). He acknowledged that “the main problem is that somewhere between those two, there is, kind of DMZ or ‘demilitarizing zone’ ” (Wilson tr at 135, 181).\nAs noted above, Dr. Thornton initially believed as recently as 2009 that OSPD (nonconsent) was a freestanding construct from sexual sadism. In fact, in his 2009 article, Dr. Thornton proposed two different criteria sets for what he called paraphilic coercive disorder, one as a distinct diagnosis cited above and the other as a form of sexual sadism (David Thornton, Evidence Regarding the Need for a Diagnostic Category for a Coercive Paraphilia, 39 Arch Sex Behav 411 [2009]). However, since then he has changed his mind and in the article he coauthored with Dr. Knight in 2011 he now believes that these two are related on a continuum that they call the “agonistic continuum” (Knight tr at 525, 528, 530-532; Thornton tr at 354-355; Raymond A. Knight & David Thornton, A Dialogue on Paraphilic Coercive Disorder: Moving Toward an Empirically Based Consensus, 12 Sex Offender L Rep 33 [2011]).\nAs Dr. Knight wrote in a separate article, “[t]he preponderance of the evidence supports a dimensional latent structure for the components of rape and argues against the proposition that there exists a paraphilic, sexualized or preferential taxon that could serve as a foundation for a distinct diagnostic category” (Raymond Knight, Is a Diagnostic Category for Paraphilic Coercive Disorder Defensible?, 39 Arch Sex Behav 419, 423 [2010]). A taxon is naturally occurring category that has cutoffs provided by nature (Knight tr at 533-534). As Dr. Knight testified since paraphilic coercive disorder appears to be on a spectrum or dimension with sexual sadism, then “any criteria that were proposed to identify the cutoff for a diagnostic category for PCD would likely be arbitrary” (Raymond Knight, Is a Diagnostic Category for Paraphilic Coercive Disorder Defensible?, 39 Arch Sex Behav 419, 423 [2010]). The result being that any criteria set would be necessarily over or under inclusive, have no established validity, and would result in great error in its application (Knight tr at 533-538, 542). As Dr. Knight testified, this idea that paraphilic coercive disorder is on a scale with sexual sadism is a hypothesis or theory that “we’re just starting to do the research” such that this theory is “not ready for prime time” (Knight tr at 525-526).\nThe State relied heavily on the PPG studies to support their claim that OSPD (nonconsent) exists, can be reliably measured, and is, therefore, generally accepted. However the testimony and literature demonstrated that even PPG testing cannot reliably distinguish the purported OSPD (nonconsent) diagnosis from antisociality, psychopathy and sexual sadism.\nFor example, Dr. Wilson acknowledged that the PPG cannot consistently distinguish between OSPD (nonconsent) and sexual sadism because there are times when sexual sadists will respond to the coercive stimuli the same way the “non-consent people do” (Wilson tr at 126). When asked about the state of the research and literature in terms of precisely differentiating between OSPD (nonconsent) and sexual sadism, Dr. Wilson again acknowledged that “there’s a lot of gray space between these two” (Wilson tr at 181). And clinically, Dr. Wilson continued that it matters because “we might treat these two populations somehow differently” when it comes to decisions concerning the allocation of resources, release decisions and issues of sentencing (Wilson tr at 130).\nEven the 2003 PPG meta-analysis that the State relied upon which was conducted by some of the undisputed leading researchers of the causes of rape (Lalumiére, Quinsey, Harris et al.) concluded that an interesting question for future research is to distinguish among “three theoretically distinct sexual arousal patterns as they apply to rapists’ phallometric responses” (see Martin L. Lalumiére, Vernon L. Quinsey, Grant T. Harris, Marnie E. Rice & Caroline Trautrimas, Are Rapists Differentially Aroused by Coercive Sex in Phallometric Assessments?, 989 Ann NY Acad Sci 221 [2003] [emphasis added]). “The first hypothetically possible profile reflects biastophilia— sexual arousal to sexual activities involving a nonconsenting, struggling, resisting, but not necessarily injured or physically suffering, victim. The second possibility is sadism . . . The third possibility is simply general antisociality.” (Id.) Thus, the authors recognized that the PPG is measuring all three of these potential causes of arousal.\nIn an article that he coauthored with Dr. Knight in 2011, Dr. Thornton acknowledged the problem with using the PPG to distinguish between this proposed paraphilia and antisociality or psychopathy (Raymond A. Knight & David Thornton, A Dialogue on Paraphilic Coercive Disorder: Moving Toward an Empirically Based Consensus, 12 Sex Offender L Rep 33 [2011]). “The major empirical data for admitting PCD (paraphilic coercive disorder) as a paraphilia derive from PPG studies, which ... do not adequately differentiate the excitation aspect of sexual responsivity from the inhibitory mechanisms” (id. at 45). Meaning that for any given individual “it may be unclear how far their rape index (or indeed sexual arousal during a rape) reflects coercion cues, abnormally exciting sexual arousal, versus coercion cues, abnormally failing to inhibit sexual arousal” (id.). The rape index is the ratio of sexual arousal to coercive stimuli to the sexual arousal to consensual stimuli (Knight tr at 504). So where “normal” men would find the distress of the victim as inhibiting, some men responding to the rape scenarios with a positive rape index might not find the coercion exciting or arousing, but rather, lack the ability to be inhibited by the stress cues of the victim (Knight tr at 504, 508). This lack of inhibition, Dr. Knight testified, indicates the presence of psychopathy, in that the rapist lacks the ability to respond to distress cues of his victims (Knight tr at 514).\nIn a 2012 follow-up study to the 2003 PPG study, Lalumiére acknowledged that this “antisociality explanation does not posit a preference for violence or nonconsent, only a relative absence of inhibition in sexual response to these cues” since the antisocial rapists are “more likely to be indifferent to the feelings of others” (Michael C. Seto, Martin L. Lalumiére, Grant T. Harris, & Meredith L. Chivers, The Sexual Responses of Sexual Sadists, 12 J Abnorm Psychol 739, 740 [2012]).\nUltimately, this court was convinced that the data does not yet exist to demonstrate that those who do rape are doing so for a paraphilic reason related to sexual sadism—or a so-called lesser form of sexual sadism, OSPD (nonconsent)—rather than out of opportunity or for antisocial reasons (Knight tr at 524-525). As Dr. Thornton stated “the research evidence indicates that there’s a real phenomenon there and that, at least, some time, under some condition, people could describe it with reasonable accuracy” (Thornton tr at 358). The State simply has not proved to this court under what condition and at what time the phenomenon could be accurately diagnosed such that it can be considered generally accepted in the relevant scientific community.\nC. The Studies Offered by the State to Support the Diagnosis Do Not Reflect a Wide, Significant, Well-Rounded Body of Research That Supports the Validity of This Diagnosis\nDr. Knight testified that other than himself and Dr. Thornton there have been very few researchers who have published on this proposed diagnosis in peer reviewed journals (Knight tr at 480-481). The import of this is that there has been little peer review on the two major considerations that apply to both psychological research and general science—the reliability and validity of a diagnosis (Knight tr at 482).\nWith respect to a diagnosis’ validity, Dr. Calkins testified that the “validity of (a) construct or idea . . . it’s, in a sense, it’s truth. And validity gives us an understanding or tries to help us establish whether this thing that we believe is a disorder really and truly exists” (Calkins tr at 602). Dr. Calkins explained that “predictive validity” can be important when establishing the validity of a diagnosis. Predictive validity “refers to what we might expect or be able to predict down the road or down the line if somebody is diagnosed with a disorder” (Calkins tr at 603). Dr. Calkins continued,\n“we would want, with the disorders, to be able to predict certain things and be able to distinguish groups down the line. So, if we weren’t able to do that, that might give us some indication that this diagnosis or the construct that we have is not clear, because we’re not able to make predictions about what—whether, for example, that person might recidivate or not in the future, whether they would respond favorably to treatment or not, perhaps, what kind of treatment they might respond most favorably to. So all of this would help us really to establish that this diagnostic construct exists.” (Calkins tr at 604.)\nHere, there have been no “long term follow-up studies” where, for example, individuals diagnosed with this condition were compared with a group who were not and the clinicians would “follow them up five or ten or twenty years down the road, again, to see how well they performed in treatment or whether or not they recidivated” (id.). Dr. Knight mentioned only one such study by Hanson & Morton-Bourgon that indicated that a sexual interest in rape and violence has a very low predictive validity for recidivism (R. Karl Hanson & Kelly MortonBourgon, Public Safety and Emergency Preparedness Canada, Predictors of Sexual Recidivism: An Updated Meta-Analysis 2004-02 at 491-492 [2004]).\nReliability is essentially “[c]an we make error free judgments? It, in its essence, is consistency. Is there something that exists that either we can agree upon or that we can demonstrate exists over time or if we make measure for it that all of those measures corollate [sic] with each other?” (Knight tr at 482-483). Inter-rater reliability is a measure of how much different raters agree with the greatest agreement being the most reliable (Knight tr at 483). The Kappa coefficient is a measure that takes into account the chance agreement between raters and gives you a measure for how much those raters agree (Knight tr at 483). Dr. Thornton testified that the inter-rater reliability for his Sand Ridge Secure Treatment Center study, summarized above, was .50, which as Dr. Knight testified is, at best, moderate to fair (Knight tr at 484). As Dr. Knight opined, such studies, conducted in a very controlled situation, reflect higher reliability than what would occur “in the field” (Knight tr at 485). Even Dr. Thornton acknowledged that the study within Sand Ridge Secure Treatment Center is of select samples of a population which, as Dr. Thornton acknowledged are “higher risk and have more mental disorders ... I suppose it is a little bit like saying, if you went into a hospital, you would find people were sick” (Thornton tr at 302).\nDr. Bard concurred: “[W]e don’t have for this diagnosis . . . valid, empirically, validated criteria that have been subject to cross validations in a number of different settings in order to gain general acceptance” (Bard tr at 396). Dr. Bard further pointed out that there have been no assessments of real life offenders in an attempt to understand what motivates them. He distinguished these types of “real-life” studies from the PPG studies which are phallometric assessments done in a controlled laboratory setting (Bard tr at 421-423). Dr. Bard testified that the current understanding of what motivates rapists was developed from doing assessments on real-life offenders. This subtyping of the motivation of offenders has been developed starting in the 1990s and none of this historical research into the motivations for rape have never suggested or included a paraphilic disorder (Bard tr at 421-423; Calkins tr at 621-626).\nPoint IV\nOther States’ Use of OSPD (Nonconsent) is Not Compelling\nAs evidence that the diagnosis of OSPD (nonconsent) is a generally accepted diagnosis in the psychological community, the State argues that 17 other states have used the diagnosis in SVP proceedings (petitioner’s brief at 6; Wilson tr at 137). The court has, therefore, surveyed decisions from these other states in an attempt to determine whether the diagnosis was deemed admissible after a Frye hearing, or similar evidentiary hearing, as was conducted by this court. After an extensive search of the case law, this court has not found, nor has the State provided, one case that reports that a Frye or Daubert hearing has been conducted to determine the admissibility of paraphilia, NOS (nonconsent) or OSPD (nonconsent). Rather, this court notes that there has been very little direct challenge to the validity of the diagnosis in the states cited by the petitioner (see Christopher M. King, Lindsey E. Wylie, Eve M. Brank, & Kirk Heilbrun, Disputed Paraphilia Diagnoses and Legal Decision Making: A Case Law Survey of Paraphilia NOS, Nonconsent, 20 Psychol Pub Pol’y & L 294 [2014]).\nMost notably, the courts of at least six states have held that “expert testimony from psychologists and psychiatrists about a sex offender’s mental illness or abnormality is not subject to Frye” (see In re Detention of Berry, 160 Wash App 374, 379-380, 380 n 15, 248 P3d 592, 595-596, 595 n 15 [2011]). Therefore, any diagnosis offered is exempt from preliminary judicial review in these states.\nOther courts, like those in Illinois and New Jersey, have repeatedly denied requests for Frye hearings on the diagnosis of paraphilia, NOS (nonconsent) by taking judicial notice of “unequivocal and undisputed prior judicial decisions or technical writings on the subject” (see e.g. In re Detention Hayes, 8 NE3d 650, 657, 2014 IL App [1st] 120364, ¶ 35 [2014]). However, after an exhaustive search of the case law, this court was unable to determine any case in those states, such as New Jersey, that originated the basis for admissibility. For example, courts in Illinois and Wisconsin have relied on two Seventh Circuit decisions, McGee v Bartow (593 F3d 556, 580 [7th Cir 2010]) and Brown v Watters (599 F3d 602 [7th Cir 2010]), which were both habeas corpus proceedings. In McGee, the Seventh Circuit held that “the diagnosis of a paraphilic disorder related to rape is not so unsupported by science that it should be excluded absolutely from consideration by the trier of fact” (McGee, 593 F3d at 580 [emphasis added]). In Brown, the Seventh Circuit reaffirmed its holding in McGee reasoning that the diagnosis of paraphilia, NOS (nonconsent) is not so unfounded or insufficient as to violate due process and that, therefore, the validity of the diagnosis is proper consideration for the factfinder in weighing the evidence (Brown, 599 F3d at 616). In either articulation, this standard differs greatly from the “general acceptance” standard set forth in Frye. Thus, the State’s reliance on these decisions from other states that have not conducted Frye hearings to determine the admissibility of the “nonconsent” diagnosis overlooks New York State’s specific jurisprudence that encourages the admission of expert testimony only once it has met the requirements of Frye (see People v LeGrand, 8 NY3d 449 [2007]; People v Wesley, 83 NY2d 417, 423 [1994]; People v Wernick, 89 NY2d 111, 116 [1996]; People v Rogers, 247 AD2d 765 [1998]).\nThis court also cannot ignore the concern expressed by the Court of Appeals in Matter of State of New York v Donald DD. (24 NY3d 174 [2014]), that in general, the paraphilia, NOS diagnoses may not meet the requirements of Frye. Since Donald DD., the Second Department has specifically held that a Frye hearing must be conducted to resolve the question of whether the diagnosis of paraphilia, NOS (nonconsent) has achieved general acceptance in the psychiatric and psychological communities so as to make expert testimony on that diagnosis admissible (Matter of State of New York v Richard S., 133 AD3d 672 [2d Dept 2015]; see also Matter of State of New York v Mercado, 50 Misc 3d 512 [Sup Ct, Kings County, Aug. 11, 2015]).\nThis court has found only one other case outside of New York State that has now ordered a Frye hearing on this purported diagnosis (People v LaBlanc, 238 Cal App 4th 1059, 189 Cal Rptr 3d 886 [July 22, 2015]). In LaBlanc, the Court of Appeals of California, Fourth Appellate District concluded that a defendant made a colorable, nonfrivolous showing that his diagnosis of paraphilic coercive disorder is not scientifically valid and thus, a Frye hearing was warranted (id.).\nFinally, the State, here, urges this court to rely on three New York State Supreme Court opinions which admitted testimony on paraphilia, NOS (nonconsent) by a finding that the diagnosis was generally accepted based upon written submission, thus denying a Frye hearing (see Matter of State v Todd L., Sup Ct, Queens County, Sept. 21, 2015, Aloise, J., index No. 13814/00; Matter of State v Alfred B., Sup Ct, Nassau County, Sept. 28, 2015, Corrigan, J., SP No. 000012X-2014; Matter of State v Daryl W., 50 Misc 3d 498 [Sup Ct, Dutchess County 2015]). However, in the context of Frye, “relying exclusively upon prior judicial decisions to establish general scientific acceptance can be a ‘hollow ritual’ if the underlying issue of scientific acceptance has not been adequately litigated” (Donaldson v Central Illinois Public Service Co., 199 Ill 2d 63, 84, 767 NE2d 314, 328 [2002]).\nPoint V\nLimited Use in Only SVP Proceedings is Not General Acceptance by the Relevant Scientific Community\nThe State has not convinced this court that the relevant scientific community is just those engaged in SVP proceedings or that a greater extended community of psychological or psychiatric practitioners find this diagnosis to be generally accepted. Dr. Bard testified that he has only seen the diagnoses used by government experts in SVP proceedings (Bard tr at 416-417). Dr. Knight similarly testified that this condition is “mostly diagnosed in either the institutions that have been created for civil confinement or in the areas in which you are doing civil commitment considerations” (Knight tr at 478). Nothing in the State’s case contradicts Dr. Knight’s conclusion and the State’s three experts, who are tremendously respected in their field and by this court, have also worked extensively in the context of SVP proceedings.\nThe court found the article co-written by Thornton and Knight very instructive on this point. (Raymond A. Knight & David Thornton, A Dialogue on Paraphilic Coercive Disorder: Moving Toward an Empirically Based Consensus, 12 Sex Offender L Rep 33, 33-48 [2011]). The authors acknowledge that the diagnosis is being used extensively in SVP proceedings and that clinicians there are “seeking ways of describing what they believe to be real clinical phenomena” but there are still no generally accepted criteria for diagnosing OSPD (nonconsent) even among those in the field using it (id. at 44).\nThis court cannot help but ask, if this disorder exists, why there is not convincing evidence that it exists outside the realm of civil confinement? If this disorder is a matter of the human condition, then should not this paraphilia be seen in a context outside of SVP proceedings? The State’s primary evidence that this diagnosis can been seen outside of SVP proceedings was Dr. Wilson’s testimony that he has “probably interacted with ten to twelve thousand sex offenders in the last thirty-one years” (Wilson tr at 160) and of those, he estimated that approximately two to three thousand had OSPD (nonconsent) (Wilson tr at 163-164). However, he acknowledged that this is a “higher than average preponderance of these sorts of diagnoses” because he worked in a research department tasked with finding out the diagnostic parameters around “odd paraphilias” (Wilson tr at 162).\nOn the other hand, Dr. Bard testified for the respondent that in his 30 years of clinical work and having evaluated more than 1,500 individuals, he has never had a patient tell him that he is motivated to rape because of the non-consensual nature of the rape (Bard tr at 394-395, 417). Dr. Bard rejects both continuum suggested by both Dr. Thornton and Dr. Wilson as not supported by the research (Bard tr at 400). Dr. Bard opined that men rape because of: cognitive distortions, “because they have perceived needs for domination over women, control over women, feeling more masterful, feeling more adequate,” or when “things go wrong in their lives, when they can’t sustain relationships, when they feel rejected or demeaned or inferior. There’s nothing paraphilic about that” (Bard tr at 395, 400). As evidence of this, he says every treatment program he has ever reviewed—New York, Virginia, Washington—focuses on cognitive distortions, intimacy problems, and general self-control problems (Bard tr at 401).\nPoint VI\nThe Rejection of This Proposed Diagnosis from Inclusion in the DSM-5\nRespondent argues that the repeated rejection of some form of this paraphilia nonconsent diagnosis for inclusion as a disorder in the DSM is evidence that the diagnosis is not generally accepted. As Dr. Knight explained in his history of the creation of the DSM, some form of paraphilia (nonconsent) was proffered starting with the DSM-III in the 1980s to the present version of the DSM-5, however each rendition was rejected for apparently different reasons ranging from fear that perpetrators could use the diagnosis at criminal trials to mount an insanity defense to concerns about its scientific validity (Knight tr at 464-466). Dr. Knight himself, having been involved with the DSM-III-R and the DSM-5, initially voted to include some version of the proposed disorder in the DSM-III-R but vehemently opposed its inclusion in the DSM-5 (Knight tr at 466). Dr. Knight believes that in the history of the DSM, “this might hold the record of the most rejected disorder in the history of the DSM” (id.). The respondent argues that these repeated proposals at the time of each DSM revision constitute a “peer review” of the proposed diagnosis, and is evidence of the diagnosis not being generally accepted by the scientific community.\nHowever, ultimately, this court does not find this argument very compelling because as this hearing demonstrated, the DSM is a political document that rarely changes and the reasons for inclusion or exclusion of any particular diagnosis are complex.\nDr. Calkins acknowledged that “the general approach to the DSM and to each edition of the DSM is a specially conservative approach” (Calkins tr at 645). In fact, it was her understanding that for the DSM-5 there were “maybe 100 or so disorders proposed and most of these, the large majority, were rejected” (id.). Dr. Thornton confirmed that the revision of the DSM is a “conservative process” and that the “same diagnoses from the very beginning maybe 50 years ago—carried on with it” (Thornton tr at 362).\nIt was also clear from the testimony and the research literature that, similar to the passing of local, state and national legislation, the process of editing and drafting updated versions of the DSM is, as both Dr. Knight and Dr. Thornton acknowledged, a political process. (Knight tr at 447, 454; Thornton tr at 368). For example, a 2008 paper in the Journal of American Academy of Psychiatry and Law reported that the American Psychiatric Association—the authors of the DSM— “has taken a strong position in opposition to SVP commitment laws” and in fact filed amicus curiae briefs in opposition to the constitutionality of SVP laws in the two cases in which the United States Supreme Court upheld such laws (Thomas K. Zander, Commentary: Inventing Diagnosis for Civil Commitment of Rapists, 36 J Am Acad Psychiatry L 459, 460 [2008]). Thus, it comes as no surprise to this court that while the paraphilic sub-work group recommended that OSPD (nonconsent) be added to the DSM-5, the American Psychiatric Association chose not to include it (Calkins tr at 648-649; Knight tr at 465-466).\nConclusion\nIt comports with the testimony, the research literature and in some regard common sense that there are persons on a sexual sadism scale who are sexually excited by the use of force and violence but to a degree that is less than what would be currently diagnosed as sexual sadism. The court commends efforts by Drs. Thornton, Knight and Wilson to set uniform criteria by which this purported diagnosis can be used in the SVP setting to avoid its overuse. While this court deeply appreciates the potential import of this decision, the State has proved at this point in time that this diagnosis is only a working hypothesis—a theory—one not yet generally accepted or in the words of Dr. Knight “not ready for prime time.”\nRespondent’s motion is granted.\n. As the Brown court wrote in its opinion:\n“On cross-examination, Dr. Doren admitted that the indicators used to reach a diagnosis of paraphilia NOS nonconsent were not identified in the DSM; instead, they were indicators Dr. Doren himself had identified to ‘bridge the gap or deficiency [that] . . . exist [s] in the DSM[ ]’ that he had ‘offered to the field’ in his own book on the subject of civil commitment. Wis. R.95, Tr.AA at 32, 34. When asked for a professional organization that accepted his clinical indicators for the diagnosis of paraphilia NOS nonconsent, Dr. Doren further admitted that there ‘isn’t a single one.’ ” (Brown v Watters, 599 F3d 602, 606 [2010] [citations omitted].)\n. Petitioner’s brief lists the following states, without citation, as jurisdictions that have permitted the diagnosis of paraphilia, NOS (nonconsent) and OSPD (nonconsent): Arizona, California, Florida, Illinois, Iowa, Kansas, Massachusetts, Minnesota, Missouri, New Jersey, North Dakota, Pennsylvania, South Carolina, Texas, Virginia, Washington, and Wisconsin.\n. Footnote 15 cites the following cases: see e.g. Commonwealth v Dengler, 843 A2d 1241, 1245, 2004 PA Super 38, ¶ 17 (2004) (agreeing with out-of-state cases and holding “that psychological or psychiatric testimony of an expert at an SVP proceeding is not novel scientific evidence subject to Frye”), affd 586 Pa 54, 890 A2d 372 (2005); Westerheide v State, 767 So 2d 637, 657-658 (Fla Dist Ct App 5th Dist 2000) (“The admission of expert testimony from psychologists and psychiatrists for the purpose of predicting future dangerousness caused by mental illness or abnormalities is nothing new or novel to the law”); People v Ward, 71 Cal App 4th 368, 373, 83 Cal Rptr 2d 828, 831 (1999) (“Kelly-Frye applies to cases involving novel devices or processes, not to expert medical testimony, such as a psychiatrist’s prediction of future dangerousness or a diagnosis of mental illness” [citing People v Kelly, 17 Cal 3d 24, 549 P2d 1240 (1976)]); see also In re Detention of Bolton, 343 Ill App 3d 1223, 1228, 800 NE2d 128, 132 (2003) (noting that “a psychologist’s or psychiatrist’s opinion as to an individual’s future dangerousness is generally admissible when that opinion is based upon clinical observation or the evaluator’s personal experience”); People v Therrian, 113 Cal App 4th 609, 615-616, 6 Cal Rptr 3d 415, 419-420 (2003) (Frye hearing not required where actuarial test was merely starting point and not sole basis for psychologist’s opinion regarding offender’s risk of recidivism); Logerquist v McVey, 196 Ariz 470, 480, 1 P3d 113, 123 (2000) (“Frye is inapplicable when a qualified witness offers relevant testimony or conclusions based on experience and observation about human behavior for the purpose of explaining that behavior”).",
+        "type": "majority",
+        "author": "Dineen A. Riviezzo, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Mental Hygiene Legal Service, Brooklyn (Melissa Mazzitelli and Janet McFarland of counsel), for respondent.",
+      "Eric T. Schneiderman, Attorney General, New York City (Kent Sprotbery of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[26 NYS3d 423]\nIn the Matter of State of New York, Petitioner, v Jason C., Respondent.\nSupreme Court, Kings County,\nJanuary 22, 2016\nAPPEARANCES OF COUNSEL\nMental Hygiene Legal Service, Brooklyn (Melissa Mazzitelli and Janet McFarland of counsel), for respondent.\nEric T. Schneiderman, Attorney General, New York City (Kent Sprotbery of counsel), for petitioner."
+  },
+  "file_name": "2198-01",
+  "first_page_order": 565,
+  "last_page_order": 596
+}

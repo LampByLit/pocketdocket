@@ -1,0 +1,688 @@
+{
+  "id": 4317167,
+  "name": "The People of the State of New York, Plaintiff, v. Christopher Irizarry, Defendant",
+  "name_abbreviation": "People v. Irizarry",
+  "decision_date": "2014-08-07",
+  "docket_number": "",
+  "first_page": "171",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 171"
+    },
+    {
+      "type": "parallel",
+      "cite": "991 N.Y.S.2d 748"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Westchester Cty. Ct.",
+    "id": 9019,
+    "name": "County Court of New York, Westchester County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "49 AD3d 160",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3757316
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/49/0160-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 576",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4063793,
+        4065771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0576-01",
+        "/ad3d/118/0576-02"
+      ]
+    },
+    {
+      "cite": "112 AD2d 321",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3440600,
+        3436508
+      ],
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/112/0321-02",
+        "/ad2d/112/0321-01"
+      ]
+    },
+    {
+      "cite": "98 AD2d 678",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3349945,
+        3359697
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/98/0678-02",
+        "/ad2d/98/0678-01"
+      ]
+    },
+    {
+      "cite": "135 AD2d 42",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3539543
+      ],
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/135/0042-01"
+      ]
+    },
+    {
+      "cite": "159 AD2d 541",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3614222
+      ],
+      "pin_cites": [
+        {
+          "page": "541-542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/159/0541-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 191",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323944
+      ],
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0191-01"
+      ]
+    },
+    {
+      "cite": "397 US 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "pin_cites": [
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "211 AD2d 733",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1198700,
+        1199116
+      ],
+      "pin_cites": [
+        {
+          "page": "734"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/211/0733-01",
+        "/ad2d/211/0733-02"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 33168",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 AD3d 909",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3999662
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/0909-01"
+      ]
+    },
+    {
+      "cite": "2013 NY Slip Op 51589",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Misc 3d 1205",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 NY2d 490",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75978
+      ],
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0490-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 888",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2559128,
+        2557044
+      ],
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0888-02",
+        "/ny3d/7/0888-01"
+      ]
+    },
+    {
+      "cite": "523 US 614",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11504035
+      ],
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0614-01"
+      ]
+    },
+    {
+      "cite": "125 AD2d 43",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5689945
+      ],
+      "pin_cites": [
+        {
+          "page": "45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/125/0043-01"
+      ]
+    },
+    {
+      "cite": "156 AD2d 844",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3615349
+      ],
+      "pin_cites": [
+        {
+          "page": "845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/156/0844-01"
+      ]
+    },
+    {
+      "cite": "134 AD2d 428",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3530856,
+        3539127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/134/0428-02",
+        "/ad2d/134/0428-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 758",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 NY2d 1015",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4402447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/1015-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 934",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3483895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0934-01"
+      ]
+    },
+    {
+      "cite": "111 AD3d 56",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3738152
+      ],
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/0056-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 154",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2339478
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0154-01"
+      ]
+    },
+    {
+      "cite": "152 AD2d 406",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5707626
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/152/0406-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 648",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        319969
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0648-01"
+      ]
+    },
+    {
+      "cite": "839 F2d 918",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/839/0918-01"
+      ]
+    },
+    {
+      "cite": "588 F Supp 2d 388",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3189650
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/588/0388-01"
+      ]
+    },
+    {
+      "cite": "154 F Supp 2d 706",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9495744
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/154/0706-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4293940
+      ],
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0095-01"
+      ]
+    },
+    {
+      "cite": "618 F3d 142",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3775952
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/618/0142-01"
+      ]
+    },
+    {
+      "cite": "456 US 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "477 US 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209907
+      ],
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0478-01"
+      ]
+    },
+    {
+      "cite": "2011 US Dist LEXIS 26177",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*29"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 WL 915321",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 F3d 147",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9138934
+      ],
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/391/0147-01"
+      ]
+    },
+    {
+      "cite": "513 US 298",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1333576
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0298-01"
+      ]
+    },
+    {
+      "cite": "246 AD2d 410",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        690726
+      ],
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/246/0410-01"
+      ]
+    },
+    {
+      "cite": "350 US 950",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12086918,
+        12087079,
+        12086793,
+        12086829,
+        12086740,
+        12086872,
+        12086969
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/350/0950-05",
+        "/us/350/0950-07",
+        "/us/350/0950-02",
+        "/us/350/0950-03",
+        "/us/350/0950-01",
+        "/us/350/0950-04",
+        "/us/350/0950-06"
+      ]
+    },
+    {
+      "cite": "309 NY 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2238912
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/309/0208-01"
+      ]
+    },
+    {
+      "cite": "1 Misc 3d 531",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1237563
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/1/0531-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 12",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4248429
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0012-01"
+      ]
+    },
+    {
+      "cite": "28 USC § 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 NY2d 615",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "298 AD2d 600",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        271769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/298/0600-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1645,
+    "char_count": 46743,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14565578919852085
+    },
+    "sha256": "ee680cb1ae286f2ea9decae0813d3c5cb59af2bf89235bdcd72df111293bcc59",
+    "simhash": "1:a06fb20cf7c2b0d3",
+    "word_count": 7645
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Christopher Irizarry, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDavid S. Zuckerman, J.\nRecent media reports have depicted numerous prisoners being exonerated after many years of incarceration. Often, the exonerations turn on newly discovered evidence, DNA examinations, misidentifications, and/or witness recantations.\nThe instant defendant has been incarcerated for 15 years and asserts that he, too, was wrongfully convicted. He seeks postjudgment relief on two grounds: that he is actually innocent of the crimes charged and that he has obtained newly discovered evidence which would have changed the result had it been presented at his trial.\nProcedural History\nOn February 19, 1998, the Westchester County grand jury voted a true bill charging the defendant with seven crimes:\n1. Burglary in the first degree (Penal Law § 140.30 [4]),\n2. Robbery in the first degree (Penal Law § 160.15 [4]),\n3. Robbery in the first degree (Penal Law § 160.15 [4]),\n4. Robbery in the second degree (Penal Law § 160.10 [1]),\n5. Robbery in the second degree (Penal Law § 160.10 [1]),\n6. Grand larceny in the fourth degree (Penal Law § 155.30 [1]), and\n7. Grand larceny in the fourth degree (Penal Law § 155.30 [1]).\nThe charges arose from an incident which occurred on December 1, 1997 at approximately 7:00 p.m., in Yonkers, NY. The indictment alleged that the defendant had acted in concert with two unapprehended others to burglarize and rob Dembo Ceesay and his wife, Juanita Lamb.\nOn February 20, 1998, in Westchester County Court, the defendant was arraigned on the indictment. He pleaded not guilty.\nDefendant’s trial began on September 2, 1998, and concluded on September 15, 1998. He was convicted on each of the first five counts. On October 29, 1998, after his CPL 330.30 motion was denied, defendant was sentenced to 20 years’ incarceration on the first three counts and 15 years’ incarceration on counts four and five with all five sentences to be served concurrently.\nIn November 2001, defendant filed his direct appeal to the Appellate Division, Second Department, raising three basic arguments: ineffective assistance of counsel, failure of the trial court to give an alibi charge, and failure of the court to bar testimony from one prosecution witness. On October 28, 2002, the Second Department affirmed defendant’s conviction finding that trial counsel’s representation on the whole was effective, that the lack of an alibi charge was unpreserved, and that the objection to the prosecution testimony was without merit. (People v Irizarry, 298 AD2d 600 [2d Dept 2002].) Four months later, the Court of Appeals denied defendant’s application for leave to appeal. (People v Irizarry, 99 NY2d 615 [2003].)\nIn March 2002, while his direct appeal was pending, defendant filed a CPL article 440 motion arguing ineffective assistance of counsel. That motion was denied in April 2002, based in part on the then-pendency of the defendant’s direct appeal. In an unreported decision dated June 21, 2002, leave to appeal the denial of that CPL article 440 motion was denied. (People v Irizarry, 2d Dept, June 21, 2002, Adams, J., docket No. 2002-04281.)\nIn 2004, defendant filed a petition for habeas corpus, pursuant to 28 USC § 2254, in the United States District Court for the Southern District of New York. In this action, defendant again argued that he was denied effective assistance of counsel and was prejudiced by the absence of an alibi charge. In August 2004, the petition, and defendant’s application for a certificate of appealability were denied. (Irizarry v Conway, US Dist Ct, SD NY, 03 Civ 8637, Brieant, J., 2004.) In 2005, his petition for leave to appeal to the Second Circuit Court of Appeals was likewise denied. (Irizarry v Conway, US Ct App, 2d Cir, 04-5076, 2005. )\nIn September 2012, defendant, now represented by new counsel, moved again pursuant to CPL article 440 for an order vacating his conviction. He asserted two bases for relief: newly discovered evidence and actual innocence. The newly discovered evidence includes his assertion that another person, Jason Brown, had recently admitted to committing the 1997 burglary/ robbery. Annexed to the moving papers is an affidavit from Brown in which he swears that defendant was not present at any time during the crime. Also annexed to the moving papers is a notarized statement from John Clark asserting that, at all times relevant to the burglary/robbery, he was with the defendant in the latter’s apartment. The prosecution, responding in November 2012, argued the irrelevance of some of the proffered new evidence, but conceded that a CPL article 440 hearing on the issue of newly discovered evidence was warranted. Thereafter, another judge of this court ordered a CPL article 440 hearing solely on the issue of newly discovered evidence.\nWhile the instant motion was pending before another court, the People filed a motion in limine to prohibit defendant from calling Clark as a witness at the hearing. The People argued that Clark’s alibi testimony should be precluded because, since trial counsel was aware of this information and chose not to call Clark as a trial witness, the testimony does not qualify as newly discovered evidence under CPL article 440.\nDefendant made two arguments in response:\n1. At the time of defendant’s trial, Clark had been indicted for an unrelated drug charge and, therefore, was unavailable to testify. Now, Clark has no such restriction and, defendant argued, his testimony should qualify as newly discovered evidence; and\n2. Defendant’s CPL article 440 motion also seeks relief for actual innocence. Therefore, Clark’s testimony is admissible at the hearing for that purpose.\nThe People responded that trial counsel’s failure to call Clark as an alibi witness at trial was a tactical decision based upon his then pending drug indictment. Notably, the People did not argue that Clark’s alibi testimony should be precluded in the event that the court entertained defendant’s actual innocence claim.\nSubsequently, the case was transferred to this court. Prior to commencement of the previously ordered article 440 hearing, the Appellate Division, Second Department decided People v Hamilton (115 AD3d 12 [2d Dept 2014]). Hamilton was the first New York State appellate decision recognizing postjudgment relief for a freestanding assertion of actual innocence.\nOn January 31, 2014, this court issued a decision and order partially granting the People’s motion in limine. In it, the court precluded Clark from testifying in connection with defendant’s CPL article 440 motion for newly discovered evidence. Relying in large part on Hamilton, however, the court permitted Clark to testify in support of defendant’s claim of actual innocence.\nThe Hearing\n1. Burdens of Proof\nAlthough another court had previously granted defendant’s request for a CPL article 440 hearing to determine his claim of newly discovered evidence, in the wake of Hamilton, this court expanded the hearing to include defendant’s claim of actual innocence. Although both claims are grounded in CPL 440.10, the burdens of proof and remedies are different.\nAs discussed, supra, New York State appellate courts did not recognize postjudgment relief for freestanding actual innocence claims until the January 15, 2014 Second Department decision in Hamilton. Prior to that, a handful of trial level courts had recognized freestanding actual innocence claims but none had granted relief on those grounds. (See e.g. People v Cole, 1 Misc 3d 531 [Sup Ct, Kings County 2003].) Thus, other than Hamilton, there is no appellate guidance applicable to hearings for postjudgment actual innocence claims.\nIn Hamilton, the Court held that, to prevail on an actual innocence claim, the defendant must prove innocence by clear and convincing evidence. If the defendant prevails, the remedy is for the hearing court to dismiss the indictment. (See CPL 440.10 [4].) Significantly, the Hamilton Court added that “[a]t the hearing, all reliable evidence . . . should be admitted.” (People v Hamilton at 27 [emphasis added].)\nIn contrast, for a claim of newly discovered evidence, the defendant shoulders a lower burden of proof — a preponderance of the evidence. (CPL 440.30 [6].) The seminal case for determining the existence of newly discovered evidence is People v Salemi (309 NY 208 [1955], cert denied 350 US 950 [1956]). In Salemi, the Court identified six factors which must be present to justify vacatur of a judgment based on newly discovered evidence:\n1. It must be such as will probably change the result if a new trial is granted,\n2. It must have been discovered since the trial,\n3. It must be such as could not have been discovered before the trial by the exercise of due diligence,\n4. It must be material to the issue,\n5. It must not be cumulative to the former issue, and\n6. It must not be merely impeaching or contradicting the former evidence. (See also People v Taylor, 246 AD2d 410, 411 [1st Dept 1998].)\nIf the defendant establishes all six Salemi factors, the remedy is for the hearing court to grant a new trial. In addition, in a hearing to determine defendant’s claim of newly discovered evidence, the Hamilton mandate requiring that “all reliable evidence” be admitted does not apply. (Hamilton at 27.)\n2, The Hearing Evidence\nAt the outset, both parties stipulated that the entire 1998 trial transcript be admitted into evidence for the purposes of the CPL article 440 hearing. The court heard testimony on March 31, 2014, April 1-2, 2014, April 5, 2014, and April 7-9, 2014. Defendant testified on his own behalf and called four additional witnesses. The People presented four witnesses. In addition, 12 of defendant’s exhibits and 18 prosecution exhibits were admitted into evidence.\nA. The Trial Evidence\nOn or about December 1, 1997, Ceesay and Lamb were the victims of a gunpoint robbery in their residence, 440 Warburton Avenue, apartment 6K, Yonkers, NY. They testified that the three perpetrators of the robbery included the defendant, Christopher Irizarry (the other two were not apprehended). Irizarry was known to Lamb for well over 10 years, and to Ceesay for over five years, as a resident of the same apartment building (along with his mother). In fact, they all lived on the same floor. According to both Ceesay and Lamb, they recognized the defendant immediately at the time of the crime.\nThe robbery commenced when Lamb entered the building at approximately 7:00 p.m. to bring groceries up to her sixth-floor apartment. Defendant held the door for her as she entered. Soon thereafter, Ceesay came down from their apartment to assist her. As Ceesay was returning upstairs, defendant and two others, one armed with a handgun, accosted him in the building elevator. At that time, the defendant removed U.S. currency from Ceesay’s wallet. The robbery continued into the apartment which Ceesay, Lamb, and their young child shared. Lamb gave, when demanded at gunpoint, U.S. currency to the unapprehended gunman, while defendant removed additional U.S. currency from Ceesay’s pants pocket. The third perpetrator remained outside the apartment. After acquiring the U.S. currency from Lamb and Ceesay, the perpetrators left.\nCeesay and Lamb reported the robbery to the Yonkers Police Department some 15 minutes later. They did not, however, immediately identify defendant as one of the perpetrators. Later, they gave two reasons for their omission: fear of being victimized again by a fellow resident of their building (defendant) and their desire to approach defendant’s mother to resolve the theft without intervention by the police. They did, however, tell the president of the building tenant’s association of defendant’s involvement shortly after the incident. The following night, after seeing defendant (and the unapprehended gunman) in the vicinity of a local store and confronting him about the robbery, Ceesay and Lamb reported defendant’s involvement to Yonkers police and identified him in a photo array. Defendant was the only person ever arrested.\nAt his 1998 trial, defendant did not testify. He called his mother and father as alibi witnesses. Both stated, inter alia, that on the night of the robbery, defendant was at home in the company of his friend, John Clark. Defendant’s mother added that she was present in the lobby of the building shortly after 7:00 p.m. when Lamb entered but that defendant was already in their apartment upstairs at that time. Defendant’s mother added that her son had not returned to the lobby by the time she left the building at 7:30 p.m.\nB. Defendant’s Hearing Evidence\nDefendant’s first hearing witness was Jason Brown. Presently incarcerated after a 2005 conviction for criminal sale of a controlled substance in the third degree and criminal possession of a controlled substance in the third degree, he is serving a sentence of 12V2 to 25 years as a second felony offender. Brown is a lifelong criminal. Beginning with a youthful offender adjudication for robbery at the age of 14 or 15, Brown’s criminal history includes convictions for gun possession, drug sale and possession, robbery, and leaving the scene of an accident. He has convictions in New York and Florida. He admitted to relocating to Florida for the sole purpose of selling crack/ cocaine. When arrested there, he gave a fictitious name to avoid being treated as an adult. He admitted committing gunpoint robberies in Florida. He also testified that he paid $900 (that he earned selling crack/cocaine) to purchase a Tec 9, which he described as a “little machine gun” that held 32 rounds. Upon his return to New York, he would “rent out” this handgun to others so that they, too, could use it to commit armed robberies.\nOn the day of the robbery, Brown was, as usual, selling crack/ cocaine. In the “mid-evening” or “late evening,” he went to 440 Warburton Avenue, Yonkers, NY to see his friend, Donald Byrd. He was accompanied by another friend, Anthony Smith. Brown had committed a number of robberies with Smith. They were joined in the lobby by Giovanni Chaney. Brown had known Chaney for many years. They had worked together selling crack/cocaine and had committed gunpoint robberies together. Chaney would regularly “borrow” Brown’s handgun and pay him to use it.\nBrown testified that he, Chaney, and Smith entered the elevator with Ceesay. Inside, Chaney pulled out the gun that he had gotten from Brown and hit Ceesay with it. Chaney then took a little black bag from Ceesay and grabbed a chain from his neck. He later gave the black bag to Brown, who kept the contents for himself. Upon arriving at the Ceesay/Lamb apartment, Ceesay opened the door and told Lamb that they were being robbed. According to Brown, Lamb immediately screamed and ran into the living room, past a black leather couch, and into the back of the apartment. Chaney and Smith chased her while Brown exited. He later saw them with a woman’s pocketbook. Chaney paid Brown $300 from the robbery proceeds and $100 for use of the gun. Brown was never charged with the robbery.\nLess than two weeks later, Brown heard that Chaney had been killed. On January 8, 1998, he was charged with the murder. On September 27, 1998, Brown was acquitted. A few weeks after his release from jail, he was rearrested on drug charges and, ultimately, sentenced to 2V2 to 5 years. He was released in 2003.\nIn June 2009, Brown was serving a I2V2 to 25 years sentence for selling drugs. While in Coxackie prison, he saw the defendant. When the defendant informed him that he was incarcerated for an armed robbery at 440 Warburton Avenue, Yonkers, NY, committed on December 1, 1997, Brown stated that it was impossible since he had committed the robbery with two others. Brown subsequently signed an affidavit to that effect.\nDefendant’s second hearing witness was Delores Busby. Busby has known the defendant since he was four months old. Beginning in 1997 or 1998, Busby became very close with the defendant’s mother. She related that the families would regularly spend time together. The defendant referred to her as “auntie” and Busby’s children referred to the defendant’s mother in the same way. She has visited the defendant in prison three or four times, each time accompanied by the defendant’s mother.\nBusby testified that, on December 1, 1997, sometime between 7:10 and 7:40 p.m., she called the defendant’s home to speak to his mother. The defendant answered the call. Within a few days of the defendant’s arrest, Busby told the defendant’s mother about speaking to him by telephone on the night of the incident. She was never called to testify at his trial.\nDefendant’s third hearing witness was John Clark. Clark first met the defendant in 1989 or 1990. They became good friends, regularly frequenting each others’ houses — including sleepovers. Clark referred to the defendant as his best friend.\nClark related that he started selling crack/cocaine with the defendant in 1994. At that time, Clark was 14 years old. In the summer of 1997, Clark went to Florida to sell drugs. Approximately two weeks after arriving, he was arrested for possession of drugs as well as a .25 caliber handgun. He gave the police a false name and fake North Carolina identification. Unable to post bail, he remained incarcerated until October 1997, when he was sentenced to time served.\nUpon his release in Florida, Clark took a bus back to Yonkers. Upon his return, he saw the defendant every day, smoking marijuana together daily.\nClark testified that, on December 1, 1997, he and the defendant met each other. As usual, they smoked marijuana together. Later in the day, they decided to go to the defendant’s house. Before arriving, they saw Brown, Chaney and Smith. After a brief conversation, Clark and the defendant continued to the latter’s apartment. Arriving at approximately 7:00 p.m., they saw the defendant’s mother in front of the building. After a brief conversation with her, they were buzzed into the building by the defendant’s father. They took the elevator to the sixth floor and entered the defendant’s apartment. Clark stayed until approximately 11:00 p.m., watching television and playing video games.\nClark first heard about the defendant’s arrest from the defendant’s mother. In 1998, Clark testified in the grand jury as an alibi witness on defendant’s behalf. Later that year, at the time of the defendant’s trial, Clark had new criminal charges pending. As a result, defendant’s trial attorney did not call Clark to testify.\nIn 2003, Clark pleaded guilty to felony drug possession in Rockland County Court. In 2006, Clark was convicted in United States District Court of conspiracy to distribute cocaine. He is presently incarcerated, unable to post bail, due to a new indictment in Westchester County.\nDefendant’s fourth hearing witness was Juanita Lamb, one of two robbery victims from the December 1, 1997 incident. Lamb testified that she lived in the same building as the defendant (440 Warburton Avenue, Yonkers, NY) and has known him since he was three or four years old. At the time of the robbery, she lived in apartment 6K with her husband, “Tony” Ceesay and their two-year-old child.\nThe robbery occurred on that day at approximately 7:00 to 7:30 p.m. There were three perpetrators. They entered Lamb’s apartment with one of them pointing a gun at her husband. Although the defendant was wearing a ski band around his nose and mouth, Lamb immediately recognized him by his braided hair, extremely thick eyebrows, and “nice set of eyes.”\nShortly after entering, the gunman instructed the defendant to take Lamb’s pocketbook. He complied.\nAt 7:46 p.m., after the three robbers left her apartment, Lamb called 911. When she spoke to the police that night, she did not inform them that the defendant had been one of the men who robbed her. The next evening, Lamb saw the defendant with the gunman in the vicinity of a local food store. Lamb approached the defendant and asked him to return her pocketbook. The defendant denied knowing anything about the robbery.\nIn striking contrast to Brown’s testimony, Lamb testified that she never had a black leather couch in her apartment. In a photograph of the interior of the apartment admitted into evidence, Lamb pointed out where, on the night of the burglary/ robbery, her two-year-old son was sleeping on the fabric covered sectional couch. It clearly was not covered in leather and was not black in color. Lamb also testified that, contrary to Brown’s rendition of the robbery, she never ran into the back of the apartment because the gunman was pointing a gun at her husband. In contrast to the other witnesses called by the defendant, the court found Lamb to be extremely credible.\nDefendant’s last hearing witness was the defendant. He denied any involvement in the robbery. He claimed that he did not know his neighbors, “Tony” Ceesay or Juanita Lamb. His history includes:\n• In 1994, punched one Patrick Keegan in the back of the head,\n• October 1994, with one other, returned to the scene of an argument with a gun. Although the defendant was not the shooter, upon his arrest, he threatened the arresting officers and kicked in the windows of a police car. He pleaded guilty to attempted assault in the second degree and received a sentence of one year’s incarceration,\n• On January 21, 1996, he ran from the police because he had a gun in a holster and crack/cocaine in his pocket. He pleaded guilty to criminal possession of a weapon in the third degree and was sentenced to two years’ incarceration, and\n• On July 7, 1996, while incarcerated, he possessed marijuana that had been smuggled into the facility. He pleaded guilty to attempted promotion of prison contraband.\nIn addition, since his 1998 conviction in the instant matter:\n• On October 24, 2000, he pleaded guilty to attempted possession of prison contraband for possessing a “shank,”\n• On September 14, 2010, he pleaded guilty to attempted assault in the second degree and was sentenced to 2 to 4 years’ incarceration consecutive to his present sentence, and\n• He has had numerous misbehavior reports, cavalierly stating “I never counted.”\nIn addition to the above, the defendant admitted that, when not incarcerated, he regularly sold crack/cocaine with his friend, Clark.\nThe defendant testified that, on December 1, 1997, he had gone to Clark’s house. At about 6:00 to 6:30 p.m., they left to go to the defendant’s building. Just before arriving, he saw Brown and Chaney outside a nearby Chinese restaurant. When they got to 440 Warburton Avenue, he saw his mother waiting in the lobby. He then went upstairs to his apartment, 6E, entering at about 7:15 to 7:30 p.m. While there, he answered the telephone and spoke to his mother’s friend, Delores Busby. That evening, he spent about four hours in his apartment with Clark watching television, never leaving each others’ presence. He added that his father was home the entire evening.\nThe next day, Lamb approached him and stated that she did not care about the stolen money — she only wanted her pocketbook returned to her. The defendant responded that he did not know what she was talking about.\nThe defendant further testified that, four or five days later, he confronted Chaney who admitted that he had robbed some people in the defendant’s building. About two weeks thereafter, the defendant learned that the police were looking for him. On December 15, 1997, he voluntarily went to the police station sometime after 12:00 a.m. and denied any involvement in the robbery. He did not, however, tell the police that Chaney had admitted that he had committed the robbery.\nIn 2009, while serving a 20-year sentence in Coxsackie prison for the instant robbery, the defendant saw Jason Brown. Brown stated that he had committed the robbery and would do anything to help vindicate the defendant.\nC. The People’s Hearing Evidence\nThe People’s first hearing witness was Donald Byrd. Byrd is a customer service representative for Delta Airlines. He also started a nonprofit organization whose goal is to build a multipurpose sports facility in Yonkers, NY where 5- to 18-year-old children would be taught life skills. He has lived at 440 Warburton Avenue, Yonkers, NY for over 30 years.\nIn December 1997, Byrd had two jobs. He was a lot attendant for Enterprise Rent-A-Car and a district supervisor for the Journal News. Earlier in the hearing, Brown had testified that, on the night of the burglary/robbery, he had gained entry to the building when Byrd buzzed him in. Byrd’s limited testimony suggested that he would not have done so.\nThe People’s second hearing witness was Margaret Alexander. Alexander has lived in Yonkers since 1980. She has known the defendant for many years as he used to spend time with her children. The defendant had visited her home on a number of occasions.\nOver the past 10 years, Alexander has only spoken to the defendant once. One day, Alexander was with a young woman who had dated the defendant and happened to be speaking to him on the telephone from prison. Alexander had a short telephone conversation with the defendant. In it, the defendant stated to her that he had been “railroaded.” He added that, at the time of the robbery, he had been on the elevator with Brown and Chaney who had “used him” because he lived in the building. Of course, this is in stark contrast to the defendant’s testimony that he had been in his apartment with Clark at the time of the robbery.\nThe People’s third hearing witness was Vincent Camera. Camera is a captain and investigator for the Westchester County Department of Correction. He has worked there for 25 years.\nCamera testified that, from January 28, 1998 to May 15, 1998, Brown and the defendant were incarcerated in the Westchester County jail. While they were housed in different units, they could easily have communicated with each other.\nThe People’s final hearing witness was complainant Dembo “Tony” Ceesay. Ceesay clearly is still strongly affected by the robbery. He testified that, on December 1, 1997, at about 7:00 p.m., he was home at 440 Warburton Avenue, apartment 6K, in Yonkers. At that time, his wife came home with groceries and Ceesay went downstairs to assist her. After parking their car, he reentered the building followed by three males. Of the three, he immediately recognized the defendant as a neighbor who lived on the same floor with him. The three males followed Ceesay into the elevator and one of them pulled out a gun. He demanded that Ceesay give him his wallet and Ceesay complied. The gunman then gave the wallet to the defendant. Upon arriving at the sixth floor, all three followed Ceesay out of the elevator. When Ceesay entered his apartment, the gunman and the defendant followed him. Ceesay immediately informed Lamb that they were being robbed. The gunman demanded money and, when Ceesay dropped a pocketbook, the defendant picked it up and left with it. Before leaving, the gunman ripped the telephone wire out of the jack.\nCeesay added that, in contrast to Brown’s testimony, no one had left the living room area or run into the rear bedroom. Ceesay also testified that his two-year-old son was asleep on the living room couch during the robbery.\nWhen Ceesay called the police, he did not inform them that the defendant, his neighbor, had robbed him because, he explained, he wanted to handle it as a “family matter.” The next day, Ceesay was driving with Lamb near their building when he saw the defendant and the gunman standing in front of the nearby grocery store. Lamb exited the vehicle and approached the defendant inside the store. When Lamb returned, they immediately drove to St. John’s Hospital to call the police. While there, they saw a police officer and informed him that they had just seen two of the males who had robbed them the previous night. He later went to the precinct and identified the defendant as one of the robbers.\nD. Admission of “All Reliable Evidence”\nDuring the hearing, the court made a number of evidentiary rulings based upon the Hamilton mandate that “all reliable evidence . . . should be admitted” at a post-conviction hearing on a claim of actual innocence. (People v Hamilton at 27.) One such ruling was made when defendant sought to introduce into evidence a certain writing which suggested that he had passed a polygraph examination.\nAs with the freestanding actual innocence claim itself, however, there are no reported New York State appellate court decisions defining the “all reliable evidence” standard. “Reliable” has been defined as “[trustworthy, worthy of confidence” (Black’s Law Dictionary 1160 [5th ed 1979]), and “dependable in achievement, accuracy, honesty, etc.” (Webster’s Encyclopedic Unabridged Dictionary of the English Language 1628 [New Deluxe ed 2001]).\nFor a number of years, federal courts have been addressing the reliability standard applicable to freestanding actual innocence claims. In Schlup v Delo (513 US 298, 324 [1995]), the Court held, “[t]o be credible, such a claim requires petitioner to support his allegations of constitutional error with new reliable evidence” (emphasis added). In reviewing an actual innocence determination, the Second Circuit held, “[b]ecause Schlup also requires that any new evidence of actual innocence be reliable, the habeas court must analyze not only whether the new evidence throws the pre-existing evidence into doubt, but whether the new evidence itself may be considered reliable in light of the pre-existing evidence.” (Doe v Menefee, 391 F3d 147, 172 [2004] [emphasis added]; see also Sonachansingh v Lee, 2011 WL 915321, *9, 2011 US Dist LEXIS 26177, *29 [ND NY, Mar. 15, 2011, No. 9:10-cv-00491-JKS] [post-conviction actual innocence claim rejected because petitioner failed to offer “any new reliable evidence”].) In the context of post-conviction relief on different grounds, the Supreme Court has added that procedural restrictions “must yield to the imperative of correcting a fundamentally unjust incarceration.” (Murray v Carrier, 477 US 478, 495 [1986], quoting Engle v Isaac, 456 US 107, 135 [1982].) On the other hand, the Supreme Court has not decided whether there is a federal constitutional right to be released for actual innocence. (Friedman v Rehal, 618 F3d 142 [2d Cir 2010].)\nNew York courts, however, have not specifically addressed evidentiary reliability in the context of postjudgment claims. Prior to Hamilton, one New York State jurist suggested that “a court conducting a hearing on a claim of innocence should admit into evidence any reliable evidence whether in admissible form or not.” (People v Cole at 543.) In contrast, the Court of Appeals has held that due process “protects against the admission of unreliable hearsay evidence, where such hearsay is more prejudicial than probative.” (Matter of State of New York v Floyd Y., 22 NY3d 95, 98 [2013] [emphasis added].)\nIn the context of an accused presenting trial evidence, courts have recognized a constitutionally based exception to the hearsay rule. Here, too, the touchstone is whether the evidence is reliable. In Morales v Portuondo (154 F Supp 2d 706 [SD NY 2001]), the court approved the defendant’s introduction of unsworn statements of a deceased witness. The court held that the obvious hearsay statements were admissible because they were vital to the defense and bore sufficient indicia of reliability. (See also Espinal v Bennett, 588 F Supp 2d 388 [ED NY 2008]; Rosario v Kuhlman, 839 F2d 918 [1988] [defendant satisfied two-part test; hearsay evidence was reliable and the declarant was unavailable]; People v Robinson, 89 NY2d 648 [1997] [sufficient reliability for admission of hearsay evidence]; People v Esteves, 152 AD2d 406 [2d Dept 1989] [due process may require admission of hearsay statements which do not otherwise qualify as an exception]; accord People v Settles, 46 NY2d 154 [1978] [exculpatory evidence subject to a more lenient standard for admissibility]; compare People v Thompson, 111 AD3d 56, 65 [2d Dept 2013] [exculpatory evidence admitted to challenge “the consistency and accuracy of the victim’s identification”], with People v Bradley, 99 AD3d 934 [2d Dept 2012] [exculpatory hearsay statements should have been admitted for their truth].)\nDuring the instant hearing, defendant sought to introduce into evidence a document which suggested that, prior to his trial, he had passed a polygraph examination. The printed document was not a report detailing polygraph results. Rather, it bore an unattributed handwritten entry suggesting that defendant had passed the test. Its exact meaning, however, was unknown. Nonetheless, defendant contended that the suggestion in the document that he had passed a polygraph examination compelled the court to admit it into evidence in support of his freestanding actual innocence claim.\nApplying the above decisions, the court denied admission of the document into evidence, finding that it did not satisfy the relaxed “all reliable evidence” test set forth in Hamilton. The court found that, in fact, there was no evidence of reliability whatsoever. At the very least, the author was unknown and it was not corroborated in any way. Moreover, even if the document itself was somehow shown to be reliable, the Court of Appeals has specifically determined that the results of a polygraph examination are not. (People v Shedrick, 66 NY2d 1015 [1985], rearg denied 67 NY2d 758 [1986]; Matter of Aryeh-Levi K., 134 AD2d 428 [2d Dept 1987].) Therefore, notwithstanding the direction in Hamilton that the hearing court consider “all reliable evidence,” the court denied admission of the writing for purposes of the instant actual innocence hearing.\nE. Sources\nAt the close of the hearing, the court granted both parties’ requests for time to submit memoranda of law. In determining this motion, the court has considered:\n1. Defendant’s CPL 440.10 motion, dated September 17, 2012;\n2. People’s affirmation in opposition with memorandum of law, dated November 9, 2012;\n3. The 1998 trial transcript;\n4. The CPL article 440 hearing testimony along with the admitted hearing exhibits;\n5. Defendant’s post-hearing memorandum of law, dated June 16, 2014;\n6. People’s post-hearing memorandum of law, dated July 15, 2014; and\n7. Defendant’s post-hearing reply memorandum of law, dated July 31, 2014.\nDiscussion\n1. Defendant’s Actual Innocence Claim\nTo prevail on this prong of his motion, defendant must prove “actual innocence” by clear and convincing evidence. (People v Hamilton.) “Between ‘a fair preponderance of the evidence’ and ‘proof beyond a reasonable doubt’ is an intermediate standard of proof by ‘clear and convincing evidence.’ ” (Prince, Richardson on Evidence § 3-205 at 104 [Farrell 11th ed 1995].) The standard has been described as requiring that the proponent present sufficient evidence to establish that a fact is “highly probable.” (Home Ins. Co. of Ind. v Karantonis, 156 AD2d 844, 845 [3d Dept 1989]; Ausch v St. Paul Fire & Mar. Ins. Co., 125 AD2d 43, 45 [2d Dept 1987].)\nAs the Supreme Court has stated, however, “claims of actual innocence are rarely successful.” (Schlup v Delo at 324.) This is partially because the Court has also held that “ ‘actual innocence’ means factual innocence, not mere legal insufficiency.” (Bousley v United States, 523 US 614, 623 [1998].) Or, as a preHamilton court held, to prevail on a freestanding actual innocence claim, the defendant must establish that “no reasonable juror could convict the defendant of the crimes for which [he or she] was found guilty.” (People v Cole at 543 [denying the defendant’s CPL 440.10 motion after a hearing].)\nDefendant argues that he satisfied his burden by presenting Brown’s testimony (he committed the robbery and defendant was not present), alibi witnesses (including those who testified at his trial), and the weakness of the People’s case (although they claimed to know defendant for many years, the complainants did not identify him to the police until the next day). Defendant also argues, as he did to the trial jury, that it was wholly unreasonable to believe that he burglarized and robbed two people who lived on the same floor as he did.\nThe People respond that defendant’s hearing witnesses, other than when he called one of the complainants, were not credible. They add that the defendant’s alibi witnesses’ testimony was equivocal and that the prosecution’s case was, in fact, strong.\nDetermination of the instant motion hinges upon the court’s evaluation of the witnesses presented at the hearing. The court was in a unique position to observe each witness as they testified. As the Court of Appeals has noted, “those who see and hear the witnesses can assess their credibility and reliability in a manner that is far superior to that of reviewing judges.” (People v Lane, 7 NY3d 888, 890 [2006]; see also People v Bleakley, 69 NY2d 490, 495 [1987] [“Great deference is accorded to the fact-finder’s opportunity to view the witnesses, hear the testimony and observe demeanor”].)\nHere, the court finds that defendant’s primary witness, Jason Brown, was not credible. His demeanor, as well as the substance of his testimony, cast significant doubt upon his veracity. The factual inconsistencies in his story are impossible to reconcile. Moreover, his lifetime avocation as one who routinely disregards the law and tells the truth only when it suits him, coupled with his conviction of numerous serious offenses, compels this court to discredit his testimony.\nFrom the outset, Brown’s testimony was questionable. He began by saying that, on December 1, 1997, he went to 440 Warburton Avenue, in the “mid-evening” or “late evening.” There is no dispute that the instant burglary/robbery occurred between 7:00 p.m. and 7:30 p.m. Brown also testified that, when he robbed Ceesay and Lamb, there was a black leather couch inside their apartment and that there was no one on it. This is in sharp contrast to Lamb’s testimony that the couch was covered with beige fabric and, more importantly, at the time of the crime, her two-year-old son was asleep on the couch. During the hearing, Brown was unable to identify a photograph of the interior of the apartment.\nIn addition, Brown testified that Ceesay was pistol-whipped and a chain taken from his neck in the elevator. Curiously, Ceesay’s rendition of the events did not include these seemingly traumatic events. Also, crediting Brown’s testimony would require the court to accept that the two robbery cohorts he identified, Smith and Chaney, coincidentally, just happen to have died prior to the hearing.\nThe court further notes that Brown’s testimony is given well after expiration of the statute of limitations for the burglary/ robbery. “Courts have routinely questioned the reliability of exculpatory statements made years after the crime, especially, when the individuals making such statements are fellow inmates of the defendant moving to have his or her judgment of conviction vacated.” (People v McKee, 41 Misc 3d 1205[A], 2013 NY Slip Op 51589[U], *4 [Sup Ct, Bronx County 2013]; e.g. People v Medina, 79 AD3d 909 [2d Dept 2010]; People v Santiago, 2010 NY Slip Op 33168[U] [Sup Ct, Kings County 2010]; People v Robinson, 211 AD2d 733, 734 [2d Dept 1995] [“credibility shortcomings inherent in evidence of this nature”; CPL article 440 motion denied without a hearing].)\nLastly, during his hearing testimony, Brown made some particularly telling statements. First, he conceded that he only tells the truth if there is a benefit to himself. Later on, he testified that he lies when it is to his advantage to do so; even if he has taken an oath to tell the truth.\nDefendant’s two alibi witnesses were similarly unworthy of belief. Delores Busby has known the defendant almost since birth. He addresses her as “auntie.” Ms. Busby has also been a very close friend of the defendant’s mother for many years. As a result, she has a clear bias towards the defendant. Moreover, she did not credibly address the specific time frame of the robbery. Her frame of reference, a particular concert, was actually held on a number of different days over 16 years ago. Lastly, even if believed, Busby’s alibi testimony does not preclude the possibility that the defendant committed these crimes. In fact, her testimony puts him in the building at the time of the incident.\nThe testimony of defendant’s “new” alibi witness was similarly unpersuasive. John Clark is a lifelong drug dealer, beginning his criminal career at the age of 14. He has been convicted in Florida, New York and federal courts. He has used aliases and false identification. When not incarcerated, he smokes marijuana daily. He also was the defendant’s best friend.\nCuriously, while Clark claims that he did not testify at defendant’s trial due to a pending drug indictment, he felt free to testify at the instant hearing notwithstanding that he is similarly awaiting trial on a drug indictment. As is the case with Busby, Clark’s testimony puts the defendant in the same building at the time of the crime. Lastly, since defendant presented other alibi witnesses at his trial (a defense that was rejected by the jury), Busby and Clark’s testimony would merely be cumulative to that.\nAs the Court held in Hamilton, “[m]ere doubt as to the defendant’s guilt, or a preponderance of conflicting evidence as to the defendant’s guilt, is insufficient, since a convicted defendant no longer enjoys the presumption of innocence, and in fact is presumed to be guilty.” (People v Hamilton at 27.) Here, defendant has not met his burden of establishing by clear and convincing evidence that he is actually innocent of the burglary and robbery for which the trial jury found him guilty in 1998. Therefore, his motion to vacate his conviction for actual innocence is denied.\n2. Defendant’s Claim of Newly Discovered Evidence\nTo prevail on this branch of his motion, defendant must satisfy the six Salemi factors (see above) by a preponderance of the evidence. This burden of proof requires that defendant’s evidence persuade the court “that the existence of a fact is more probable than its nonexistence.” (In re Winship, 397 US 358, 371 [1970, Harlan, J. concurring].) Or, as defined by the Court of Appeals, “[i]f, at the close of the proofs, the evidence as a matter of logical necessity is equally balanced, [the proponent] has failed to meet his burden and the cause of action is not made out.” (Rinaldi & Sons v Wells Fargo Alarm Serv., 39 NY2d 191, 196 [1976].) The Second Department has held that preponderance of the evidence requires that the movant prove that a fact is “more probable than not”; a burden somewhat less than proof to “a substantial probability.” (Dempsey v Methodist Hosp., 159 AD2d 541, 541-542 [2d Dept 1990].)\nIn the context of post-conviction motions, the Third Department has held that “ [t] o warrant a new trial, the newly discovered evidence must be such as to probably, not merely possibly, change the result if a retrial is had.” (People v Penoyer, 135 AD2d 42, 44 [3d Dept 1988].) The First Department has held that the mere possibility that the newly discovered evidence might have changed the verdict is insufficient. (People v Suarez, 98 AD2d 678 [1st Dept 1983].)\nApplying this standard to the instant case, defendant’s hearing evidence falls short because, as discussed above, his witnesses are simply not worthy of belief. Their credibility shortcomings compel this court to conclude that defendant has not met the lesser preponderance of the evidence burden.\nMoreover, the alibi evidence presented at the hearing was cumulative to that presented at the trial. During the hearing, Busby and Clark testified that the defendant was in his apartment (on the same floor where the burglary/robbery occurred) at the time of the incident. At his 1998 trial, defendant’s alibi witnesses (his parents) testified to the same effect. Thus, the proposed newly discovered evidence would be cumulative to the issue. (People v Latella, 112 AD2d 321, 323 [2d Dept 1985] [“Since the newly discovered evidence was merely cumulative and served no other purpose than to bolster testimony previously discredited, such evidence falls outside the scope of CPL 440.10 (1) (g)”].)\nIn sum, defendant has not established that his claimed newly discovered evidence is not cumulative or that the result will probably change were the court to grant him a new trial. Therefore, defendant’s motion to set aside his conviction on the grounds of newly discovered evidence is denied.\nBased upon the foregoing, it is hereby ordered that defendant’s motion to vacate his judgment of conviction is, in all respects, denied.\n. See e.g. Frances Robles & Stephanie Clifford, 3 Exonerated in Cases Tied to a Detective, NY Times, May 6, 2014, § A at 1, col 5; Barry C. Scheck, NY Can Prevent Wrongful Convictions, Newsday, May 20, 2014, § A at 29, col 1.\n. The court did not submit the grand larceny in the fourth degree counts to the jury.\n. Also, assumedly known to trial counsel, Clark had testified as an alibi witness on defendant’s behalf in the grand jury.\n. Ironically, when he testified at the instant CPL article 440 hearing, Clark was again incarcerated due to his indictment on a new unrelated matter in which he was unable to post bail.\n. On June 19, 2014, in People v Bryant (118 AD3d 576 [1st Dept 2104]), the First Department likewise recognized a freestanding actual innocence claim under article 440.\n. In 2007, in People v Tankleff (49 AD3d 160 [2d Dept 2007]), the Second Department left open the question of postjudgment relief for actual innocence. Nonetheless, the Tankleff Court presaged its Hamilton decision by noting that “[i]t is abhorrent to our sense of justice and fair play to countenance the possibility that someone innocent of a crime may be incarcerated or otherwise punished for a crime which he or she did not commit.” (Id. at 177.)\n. According to Brown, Smith died in 2003 or 2004 after swallowing crack/cocaine.\n. For the purposes of defendant’s newly discovered evidence claim, the only alibi evidence considered by the court was the testimony of Delores Busby and, arguably, Jason Brown’s testimony that the defendant was not present when he committed the burglary/robbery. The court previously ruled that John Clark’s alibi testimony was not newly discovered evidence and, therefore, was only admitted to support defendant’s freestanding actual innocence claim.",
+        "type": "majority",
+        "author": "David S. Zuckerman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Irving Cohen, New York City, for defendant.",
+      "Janet DiFiore, District Attorney, White Plains (Julia Cornachio and Lisa Denig of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[991 NYS2d 748]\nThe People of the State of New York, Plaintiff, v Christopher Irizarry, Defendant.\nCounty Court, Westchester County,\nAugust 7, 2014\nAPPEARANCES OF COUNSEL\nIrving Cohen, New York City, for defendant.\nJanet DiFiore, District Attorney, White Plains (Julia Cornachio and Lisa Denig of counsel), for plaintiff."
+  },
+  "file_name": "1812-01",
+  "first_page_order": 169,
+  "last_page_order": 191
+}

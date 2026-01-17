@@ -1,0 +1,152 @@
+{
+  "id": 6788946,
+  "name": "Citibank, N.A., Plaintiff, v. Dominga Castillo, Defendant",
+  "name_abbreviation": "Citibank, N.A. v. Castillo",
+  "decision_date": "2016-03-14",
+  "docket_number": "",
+  "first_page": "636",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 636"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "34 AD3d 438",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5307485
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/34/0438-01"
+      ]
+    },
+    {
+      "cite": "2016 NY Slip Op 50252",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Misc 3d 1224",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 AD3d 982",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4061453
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0982-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 1121",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4041232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/1121-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 980",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5684498,
+        5670428
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/0980-01",
+        "/ad3d/94/0980-02"
+      ]
+    },
+    {
+      "cite": "130 AD3d 861",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4304702
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/130/0861-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 6131,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18250369036959296
+    },
+    "sha256": "3454bc1b596d421a0dbff82d9c93c8d072900140cff108256119b8a6e8d4f25a",
+    "simhash": "1:6660a5370ad005ad",
+    "word_count": 1034
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Citibank, N.A., Plaintiff, v Dominga Castillo, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLawrence H. Ecker, J.\nPlaintiff seeks to collect $48,093.60 from defendant, claimed to be owing and due pursuant to a promissory note signed by defendant in connection with a home equity loan of credit. That plaintiff has elected to proceed on the note rather than to commence a foreclosure action, which is its option, is not disputed; nor does plaintiff dispute the authenticity of the note. Rather, defendant has raised evidentiary issues concerning what is claimed to be a failure of proof on the amount owing and due, based upon a hearsay objection, relative to the representations made in the affidavit in support of the motion sworn to by Jennifer Coleman, identified as a document control officer of Citibank, N.A. She states the note in issue is kept by plaintiff in the ordinary course of business, and that in accordance with that note, the payment history maintained by plaintiff shows that defendant has made payments during the term since her execution of the note, but that presently there is an amount owing and due, as to which written demand has been made, and that remains outstanding.\nSpecifically, Coleman states she has access to account information and records concerning defendant’s loan ending in 189, which matches the account number on the loan document (exhibit A), and has access to the “Account’s history,” which includes interest and/or fees assessed (exhibit E).\nIn opposition, defendant claims in her affidavit that the copy of the note is not a business record, that the Coleman affidavit does not reference exhibit E and does not sufficiently state the facts of the default, and that exhibit E shows a zero balance as of August 30, 2011. As to that last assertion, alongside the date and zero balance is a description that sets forth: “Foreclosure Writeoff Recoverable.”\nThe default letter is dated April 5, 2011 and states that the loan is 56 days in default, and requires a payment of $855.98 to be made by July 5, 2011. The letter further warns, “If this matter is not resolved within 90 days from the date this notice was mailed, we may commence legal action against you . . . .” (Exhibit B.)\nThe balance shown on exhibit E, as of August 30, 2011, was $51,657.56, which plaintiff’s attorney states in his affirmation has been reduced to the amount demanded in the complaint, and in this motion, namely $48,093.60.\nDefendant cites Citibank, N.A. v Cabrera (130 AD3d 861 [2d Dept 2015]) in support of her argument that the Coleman affidavit does not provide a proper foundation under the business record exception to the hearsay rule (CPLR 4518). In that case, the affidavit in support of the lender’s motion was made by “a business operations analyst for CMI, Inc., a company which serviced the defendant’s loan on behalf of the plaintiff” (130 AD3d at 861). Here, Coleman is an employee of plaintiff, and therefor presumably competent to speak of her company’s, i.e., the actual lender, customary business practices. Hence, the court finds Citibank, N.A. v Cabrera is not the rule to be followed under these facts. The court accepts the validity of the statements in the Coleman affidavit.\nHowever, there is an issue that neither party has addressed, namely, paragraph 6 (E) of the home equity loan note (notice of default), which entitles the borrower to written notice telling her that she is in default, and that the noteholder may accelerate payment of her loan, i.e., the full amount of principal and all accrued and unpaid interest that she owes, plus any other fees and charges of any kind. Further, it expressly states, “The date that the Note Holder requires you to pay the balance due under this Note must be at least 30 days after the date on which the notice of acceleration is delivered to you.”\nThe notice sent on April 5, 2011 (exhibit B) makes no mention of acceleration of the principal balance due, but only that the bank may commence legal action against defendant if the matter is not resolved in 90 days. Where, as here, it is alleged that the debt was accelerated by demand, that fact must be communicated in a clear and unequivocal manner. (Wells Fargo Bank, N.A. v Burke, 94 AD3d 980 [2d Dept 2012]; Goldman Sachs Mtge. Co. v Mares, 135 AD3d 1121 [3d Dept 2016].) Here, the lender has elected to proceed on the note rather than to bring a foreclosure action, as is its right. Nevertheless, the note remains the operative document from which each party’s rights and obligations are delineated. Here, defendant was entitled to a notice of default under paragraph 6 (E) that included the acceleration payment warning. It is not in dispute that she did not receive that notice.\nThe court finds that providing a notice of default with an acceleration payment warning, as required under the note, whether when suing on the note: alone, or in a foreclosure action, is a condition precedent to the maintenance of the action. (Wells Fargo Bank, N.A. v Eisler, 118 AD3d 982 [2d Dept 2014]; Wells Fargo Bank, N.A. v Tessler, 50 Misc 3d 1224[A], 2016 NY Slip Op 50252[U] [2016].) Notwithstanding defendant’s failure to raise this issue in her opposition, the court finds that the interests of justice require that it address the issue sua sponte based upon the clear weight of authority in this regard.\nAccordingly, it is hereby ordered that the motion of defendant for summary judgment, made pursuant to CPLR 3212, is denied; and it is further ordered that the complaint is dismissed, without prejudice.\n. As to the quantum of proof that must support the sending of that notice, the court need not reach that issue, or the sufficiency or manner of introducing the documentation relied upon.\n. This is particularly relevant in this case when the only notice sent was in April 2011, payments were made thereafter, and this action was not filed until March 4, 2013. (Sarva v Chakravorty, 34 AD3d 438 [2d Dept 2006].)",
+        "type": "majority",
+        "author": "Lawrence H. Ecker, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Forster & Garbus, LLP, Commack, for plaintiff.",
+      "Galgano & Associates, White Plains, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 441]\nCitibank, N.A., Plaintiff, v Dominga Castillo, Defendant.\nSupreme Court, Westchester County,\nMarch 14, 2016\nAPPEARANCES OF COUNSEL\nForster & Garbus, LLP, Commack, for plaintiff.\nGalgano & Associates, White Plains, for defendant."
+  },
+  "file_name": "2331-01",
+  "first_page_order": 628,
+  "last_page_order": 631
+}

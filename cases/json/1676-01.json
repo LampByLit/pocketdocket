@@ -1,0 +1,833 @@
+{
+  "id": 12167191,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellant, v. MAYRA GUTIERREZ, Defendant-Appellee",
+  "name_abbreviation": "State v. Gutierrez",
+  "decision_date": "2016-06-27",
+  "docket_number": "Docket No. 33,165",
+  "first_page": "416",
+  "last_page": "429",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-077"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "273 P.3d 1227",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12313406
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1237-39",
+          "parenthetical": "stating that notwithstanding that conviction of a drug offense is deportable, cancellation of removal is available under 8 U.S.C. § 1229b(a)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/haw/126/0541-01"
+      ]
+    },
+    {
+      "cite": "868 N.W.2d 93",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        4342201
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/364/0063-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. § 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "(48)(A)(i)",
+          "parenthetical": "stating that a plea of guilty constitutes a conviction"
+        },
+        {
+          "page": "(a)(43)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. § 1227",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "(a)(2)(B)(i)",
+          "parenthetical": "providing that a non-citizen's conviction for violating the law of a state relating to a controlled substance, other than a single offense of possession for personal use, thirty grams or less of marijuana, is a deportable offense"
+        },
+        {
+          "page": "(a)(2)(B)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006-NMCA-141",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3671936
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶¶ 15-16"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0688-01"
+      ]
+    },
+    {
+      "cite": "333 P.3d 240",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-023",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4239332
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0308-01"
+      ]
+    },
+    {
+      "cite": "2007-NMCA-160",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3783538
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0096-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "345 P.3d 1074",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-029",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4240777
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "¶ 5"
+        },
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0464-01"
+      ]
+    },
+    {
+      "cite": "1998-NMCA-105",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        834180
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0739-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 1068",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-016",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4239185
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0174-01"
+      ]
+    },
+    {
+      "cite": "2001-NMSC-014",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        352481
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0227-01"
+      ]
+    },
+    {
+      "cite": "2003-NMCA-085",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        77177
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/134/0077-01"
+      ]
+    },
+    {
+      "cite": "93 N.M. 89",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1568802
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/93/0089-01"
+      ]
+    },
+    {
+      "cite": "1979-NMSC-052",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 N.M. 343",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2768763
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/84/0343-01"
+      ]
+    },
+    {
+      "cite": "1972-NMSC-076",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 N.E. 500",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 3,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "501-02"
+        },
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 N.E.2d 883",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "886"
+        },
+        {
+          "page": "886",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "252 So. 2d 662",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        1722204
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala-app/47/0240-01"
+      ]
+    },
+    {
+      "cite": "331 P.2d 338",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        5011100
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "340",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/214/0537-01"
+      ]
+    },
+    {
+      "cite": "2013 Ark. 217",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        6960193
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "3-4"
+        },
+        {
+          "page": "675"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/427/0673-01"
+      ]
+    },
+    {
+      "cite": "536 F.3d 85",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5763511
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/536/0085-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 673",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1704398
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "677",
+          "parenthetical": "recognizing disparate holdings"
+        },
+        {
+          "page": "677, 679",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/353/0100-01"
+      ]
+    },
+    {
+      "cite": "267 P.3d 815",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011-NMCA-111",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4187110
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        },
+        {
+          "page": "¶ 10"
+        },
+        {
+          "parenthetical": "holding that coram nobis relief under Rule 1-060(B) is not available unless a defendant demonstrates that habeas corpus relief under Rule 5-802 is not available or is otherwise inadequate"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0029-01"
+      ]
+    },
+    {
+      "cite": "2006-NMCA-043",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        2544519
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/139/0341-01"
+      ]
+    },
+    {
+      "cite": "137 N.M. 442",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        929260
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/137/0442-01"
+      ]
+    },
+    {
+      "cite": "2005-NMCA-056",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        929260,
+        2542149
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/137/0442-01",
+        "/nm/139/0524-01"
+      ]
+    },
+    {
+      "cite": "2004-NMCA-107",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224665
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0272-01"
+      ]
+    },
+    {
+      "cite": "2005-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        2550981
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/138/0441-01"
+      ]
+    },
+    {
+      "cite": "76 N.M. 449",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        8502847
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/76/0449-01"
+      ]
+    },
+    {
+      "cite": "1966-NMSC-126",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 N.M. 342",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2870375
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/90/0342-01"
+      ]
+    },
+    {
+      "cite": "1977-NMCA-021",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 N.M. 294",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1575512
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/95/0294-01"
+      ]
+    },
+    {
+      "cite": "1980-NMSC-135",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009-NMCA-010",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4242025
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "¶¶ 8, 10"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0487-01"
+      ]
+    },
+    {
+      "cite": "343 P.3d 178",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4241025
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 2"
+        },
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0231-01"
+      ]
+    },
+    {
+      "cite": "311 P.3d 1213",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-102",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077581
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0084-01"
+      ]
+    },
+    {
+      "cite": "103 P.3d 799",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004-NMSC-036",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1224634
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0533-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1460,
+    "char_count": 43305,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24681554793348956
+    },
+    "sha256": "1945fa8938e9233546faa3009d2c5c48488c1788dbe9cb66a04dd5a8548bf31a",
+    "simhash": "1:8b4eede36f830e46",
+    "word_count": 7069
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Jennifer E. DeLaney, District Judge",
+      "MICHAEL D. BUSTAMANTE, Judge",
+      "MICHAEL E. VIGIL, Chief Judge",
+      "JONATHAN B. SUTIN, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellant, v. MAYRA GUTIERREZ, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nBUSTAMANTE, Judge.\n{1} Defendant, who is not a United States citizen, pled guilty to a drug offense. The district court then granted Defendant’s motion to withdraw her guilty plea and vacated her conviction on grounds that defense counsel did not advise Defendant of the immigration consequences associated with the plea as required by our Supreme Court in State v. Paredez, 2004-NMSC-036, 136 N.M. 533, 103 P.3d 799. We affirm.\nI. BACKGROUND\n{2} On November 7, 2010, Defendant was arrested after entering the United States through the Port of Entry at Columbus, New Mexico with nineteen bricks of marijuana weighing more than twenty-one pounds concealed in her vehicle. At the time of her arrest, Defendant was subjected to an immigration hold. Defendant is a citizen of Mexico, but her father is a United States citizen, and she has two children that are United States citizens as well. Defendant does not speak English and all communications in court took place through an interpreter. Defendant was released after posting bond in the magistrate court and the magistrate judge noted that the “parents will deal with immigration hold.”\n{3} After waiving a preliminary hearing, a criminal information was filed in the Luna County District Court charging Defendant with distribution of marijuana (100 pounds or less). The Honorable Gary Jeffreys presided over the proceedings from arraignment through sentencing. At her arraignment on January 27, 2011, Defendant told the district court through an interpreter that the United States Immigration and Customs Enforcement (ICE) was “holding her papers” and asked for assistance in getting her green card released. Defendant’s attorney said he would “work with [Defendant] on that.” The bond posted in the magistrate court was continued, and Defendant’s conditions of release were amended to allow her to travel outside of Luna County to receive obstetrical care due to problems with her pregnancy.\n{4} Trial was set for May 26,2011. However, the day before the scheduled trial, the parties entered into a plea and disposition agreement in which Defendant agreed to plead guilty to possession of eight ounces or more of marijuana, knowing that it was marijuana. In addition, the parties agreed to an eighteen-month suspended sentence to be served on supervised probation.\n{5} During the plea hearing, as the district court sought to ensure that the record indicated a knowing and voluntary plea, there was a discussion between the district court, counsel, and Defendant concerning Defendant’s immigration status. When asked by Judge Jeffreys at the plea hearing about the “possibility [of] being deported,” Defendant (as translated) responded: “[Defense counsel] advised me that with respect to this case there was a possibility that I might be deported but it is up to the Immigration and Naturalization Department if I am deported or not.” Defense counsel added:\nShe understands there’s a high likelihood that she will be deported. At least with these charges that she’s pleading to, she will get a hearing before the court. Her other children are [United States] citizens and she has some — at least a remote chance — of staying. She understands it’s not a great chance.\n{6} In response to the district coirrt’s question if there was an immigration hold on Defendant, the prosecutor reported that ICE was aware of the plea hearing, but it was not taking Defendant into custody at that time and would summon her to a hearing instead. Defendant was eight months pregnant and ICE was concerned about liability issues associated with a detainee having a baby while in custody. Defense counsel said that ICE technically had a hold on Defendant and that it was relying on the bond posted in the magistrate court to secure her appearance. The district court found that Defendant’s guilty plea was freely and voluntarily made, but reserved approving the plea and disposition agreement. At Defendant’s request, sentencing was postponed until July 11,2011.\n{7} Defendant’s July 11, 2011, sentencing date was continued to July 14, 2011, then to August 15, 2011. When the parties appeared for sentencing on August 15,2011, Defendant asked for a further continuance because her immigration attorney needed more time “to get her citizenship straightened out.” Defense counsel explained that Defendant was eligible for citizenship because her father was a United States citizen, but her citizenship had not yet been formalized. Defendant told the district court that her immigration attorney had told her the resolution of her immigration status might take “one day or a year.” The State opposed a further continuance because the plea agreement specifically addressed Defendant’s lack of citizenship and that Defendant would suffer adverse immigration consequences as a result of her crime.\n{8} The district court remarked that resolution of Defendant’s citizenship status was material to approval of the plea and disposition agreement because if Defendant was not a United States citizen, it would remand Defendant to ICE for removal and not impose the agreed-upon suspended sentence. The district court agreed to continue sentencing for an additional thirty days and made it clear that if Defendant’s citizenship was not resolved by that time, or if Defendant was not a United States citizen, it would reject the plea and disposition agreement unless Defendant agreed to be remanded to ICE.\n{9} At the sentencing hearing on September 15, 2011, Defendant’s attorney told the district court that Defendant’s immigration attorney advised him that as long as Defendant was not sentenced to a term of incarceration, Defendant’s conviction should not have a negative impact on her immigration case, but that Defendant needed to understand “there are no guarantees.” When asked, Defendant told the district court that she understood what her attorney had said and that she understood there were no guarantees that she would not be deported. The district court thereupon imposed the suspended sentence agreed upon in the plea agreement, adding that if Defendant was deported, supervised probation would revert to unsupervised probation with the sole condition that Defendant not reenter the United States illegally. The judgment and sentence was filed on October 3, 2011.\n{10} Almost nineteen months later, after Defendant had completely servedher sentence of probation, she was detained by ICE in El Paso, Texas facing deportation as a result of her conviction. Defendant filed a “motion for relief from judgment and to withdraw plea and request for evidentiary hearing.” Defendant asserted that her trial counsel was ineffective because counsel had not adequately advised her of the immigration consequences of her plea, and as a consequence, her guilty plea was not knowingly, intelligently, and voluntarily made. In pertinent part, Defendant alleged that (1) she only recalled being told that she could possibly be deported as a result of the plea; (2) when the district court asked her if she was aware of the consequences of her guilty plea, she responded that she was told she could possibly face deportation; (3) she did not recall any conversation in which she was informed “with exactitude” that if she entered into the plea agreement and was convicted, she would be removed from the United States and denied discretionary relief during the removal process; (4) her attorney did notrecall specifically informing Defendant that she would surely be deported as a result of the guilty plea; and (5) had she known the immigration consequence of her plea agreement, “she would not have entered into the plea agreement.”\n{11} Judge Jeffreys having retired, the motion was heard and ruled upon by the Honorable Jennifer DeLaney. In addition, Defendant was represented by new counsel. Hereinafter, we refer to the lawyer who represented Defendant in connection with entry of the plea agreement as “trial counsel” and to Judge Delaney as the “district court.”\n{12} At the hearing on Defendant’s motion to withdraw the plea on July 15, 2013, trial counsel testified that he remembered that Defendant and her father were in the process of formalizing Defendant’s citizenship status, and that he met with Defendant’s immigration attorney but he could not remember when. In regard to advising a client about immigration consequences of a guilty plea, trial counsel testified that his practice was to try to be as thorough as possible, but he could not recall specifics of his conversation with Defendant. He could not “recall a specific conversation” in which he advised Defendant “with exactitude that she would be deported, lose her discretionary rights, . . . not be able to bond out, [and] not be able to come back to the United States.”\n{13} Defendant testified she was being held by ICE at the detention center in El Paso and that an immigration judge told her she was being deported because of her conviction in this case. She remembered going before Judge Jeffreys to plead guilty and a few months later for sentencing. She also remembered speaking to her immigration attorney after pleading guilty because she was told she could become a United States citizen. Defendant testified that she did not recall talking with trial counsel about her immigration status before pleading guilty. However, when asked if trial counsel told her she was going to be deported if she pled guilty, Defendant answered, “absolutely not.”\n{14} Defendant argued that case law requires it must be shown on the record “that a defendant is aware, with exactitude, of all immigration consequences which [she will] face, prior to entering into a plea, or the plea is not knowing[ly], intelligently, and voluntarily given.” The State argued that trial counsel’s lack of memory of specifically what happened and when was not sufficient to establish ineffective assistance of counsel, and in any event, Defendant had not testified that, but for the advice given to her by trial counsel, she would not have pled guilty. The district court delayed its ruling on the motion to review the record of Defendant’s plea and sentencing hearings and to review case law.\n{15} Four days later, the district court announced its decision at a hearing. Agreeing with defense counsel that the operative date to consider whether adequate advice was given was the date of the plea hearing, the district court ruled:\nIt is my finding that [trial counsel] through the statements made to the court on the May 25th 2013 plea date was effective ... and adequately advised his client of the high probability of deportation. And the fact that she would be able to have a hearing before the immigration court to determine whether that was going to happen. And based on that, I find the motion asking for the plea to be withdrawn is denied.\n{16} Defendant immediately asked the district court to reconsider, asserting that it could consider what transpired at the sentencing hearing as well as the plea hearing. In response, the district court stated, “I did have major concerns with the way in which the sentencing hearing took place[, bjecause it was a complete reversal of what was indicated[,]” even though Judge Jeffreys had indicated “that there were no guarantees[.]” The district court then reversed its initial ruling and granted Defendant’s motion. The State appeals.\nII. DISCUSSION\nA. Jurisdictional Issues\n{17} We must determine at the outset whether we have jurisdiction over the State’s appeal. See State v. Favela, 2013-NMCA-102, ¶ 6, 311 P.3d 1213, aff’d on other grounds by 2015-NMSC-005, ¶ 2, 343 P.3d 178. Our review of the jurisdictional question is de novo. Id. ¶ 6.\n{18} We are faced with two jurisdictional questions. The first is whether Defendant’s motion to withdraw her plea was timely. The State contends that, since Defendant’s motion was not a timely motion to withdraw the guilty plea under NMSA 1978, Section 39-1-1 (1917) or Rule 5-304 NMRA, the district court did not have jurisdiction to hear it, and its order granting the motion is a nullity. Defendant counters that her motion was filed pursuant to Rule 1-060(B)(4) NMRA, not Section 39-1-1 or Rule 5-304, and therefore was timely.\n{19} The second jurisdictional issue is whether the district court’s order withdrawing the plea is a final, appealable order. Defendant argues that it is not because the district court order simply allowed Defendant to withdraw her plea and the case must still be tried. The State responds by asserting that it has a “constitutionally[]guaranteed and statutorily[]recognized right to appeal from [an] order [granted under Rule 1-060(B)(4)].”\n{20} We begin with the first issue. The district court ruled that it had jurisdiction over this matter pursuant to State v. Tran, 2009-NMCA-010, 145 N.M. 487, 200 P.3d 537, and Rule 1-060(B)(4), which provides for relief from a judgment when it is void. In Tran, the defendant, who had been discharged from his sentences, 2009-NMCA-010, ¶¶ 8, 10, sought to set aside his convictions on the ground that he was inadequately advised of the immigration consequences of his guilty pleas. Id. ¶¶ 11-12. His motion was denied and the defendant appealed. Id. Although the defendant styled his motion as a petition for a writ of coram nobis, this Court considered the defendant’s motion as falling under Rule 1-060(B)(4). Tran, 2009-NMCA-010, ¶ 17. We also noted that “there is no limitation of time within which a motion must be filed under the provisions of Rule [1 -060(B)(4)].” Tran, 2009-NMCA-010, ¶ 16 (internal quotation marks and citation omitted); In re Estate of Baca, 1980-NMSC-135, ¶ 10, 95 N.M. 294, 621 P.2d 511 (“A judgment which is void is subject to direct or collateral attack at any time.”). Here, like in Tran, after completing her sentence, D efendant sought to set aside her conviction due to her attorney’s failure to advise her of the immigration consequences of a guilty plea. We conclude that the district court properly considered Defendant’s motion under Rule 1-060(B)(4), that the motion was timely, and that the district court’s order is not a nullity. See State v. Lucero, 1977-NMCA-021, ¶ 4, 90 N.M. 342, 563 P.2d 605 (“Although Rule [1 -0]60[(B)]) is a civil rule, State v. Romero, [1966-NMSC-126, 76 N.M. 449, 415 P.2d 837,] . . . held that where a prisoner had served his sentence and had been released, this civil rule could be utilized to seek relief from a criminal [judgment] claimed to be void.”).\n{21} We turn to the second issue: whether the district court’s order granting the Rule 1-060(B)(4) motion to withdraw Defendant’s plea is a final order from which the State may appeal. “As a general rule, an order or judgment is not considered final unless it resolves all of the factual and legal issues before the court and completely disposes of the case.” State v. Heinsen, 2005-NMSC-035, ¶ 14, 138 N.M. 441, 121 P.3d 1040. The doctrine of “practical finality” is an exception to the general principle of finality that is applied sparingly to permit review in certain cases. For instance, the appellate courts “will review a court’s decision when an order effectively disposes of the issues in a case, even though supplementary proceedings are necessary to enforce the order[, and] where . . . the issue raised on appeal will not be available for review if the state is deprived of an immediate appeal.” Id. ¶ 15 (citation omitted).\n{22} Because Rule 1-060 is silent as to who may appeal and how and when an appeal is taken, we must rely on other sources for our analysis. In a case similar to that here, this Court held that the district court’s order permitting withdrawal of a plea “createfd] no finality in that the charges against [the defendant . . . [were] not . . . dismissed. If anything, all cases [were] reinstated and set for trial on the merits.” State v. Griego, 2004-NMCA-107, ¶ 17, 136 N.M. 272, 96 P.3d 1192. We rejected the state’s arguments for an exception to the finality rule based on practical finality because “[n]ot to limit the doctrine of practical finality would allow the exception to fast swallow the rule.” Id. (internal quotation marks and citation omitted). We also rejected the state’s argument that it was entitled to appeal under the New Mexico Constitution, which “guarantees the [sjtate’s right to appeal a disposition that is contrary to law if the [sjtate is aggrieved by that disposition.” Id. ¶ 21; see N.M. Const, art. VI, § 2. Based on the lack of factual support in the record, we stated that “the [s]tate’s interest in enforcing plea agreements and the [s]tate’s ability to proceed to trial after a significant lapse of time are not compelling enough to justify an exception to the final judgment rule.” Griego, 2004-NMCA-107, ¶ 21.\n{23} A different result was reached in Collado v. New Mexico Motor Vehicle Division, 2005-NMCA-056, 137 N.M. 442, 112 P.3d 303. In that case, two drivers signed uniform traffic citations pleading guilty to traffic offenses. Id. ¶¶ 2-3. Contending that they misunderstood the implications of signing the citations with the “guilty” box checked, the drivers filed petitions for a writ of mandamus in the district court asking that their pleas be withdrawn and for an order that the Motor Vehicle Division (MVD) return their citation to the metropolitan court for a trial on the merits. Id. The district court granted the relief sought in both cases, and the MVD appealed. Id. ¶¶ 1,2, 4. The district court orders did not end the cases, but remanded them to the metropolitan court. Id. ¶ 6. Nevertheless, we concluded that the orders were sufficiently final to invoke our jurisdiction under the practical finality rule because the MVD would otherwise be unable to have the propriety of the remand orders heard. Id.\n{24} Neither of these cases is entirely analogous to the present facts. In Griego, the defendant had not completed his sentence. Here, in contrast, Defendant’s motion was filed after she had completed a sentence imposed after entry of the plea. Thus, the underlying criminal case had terminated, and the motion initiated a collateral attack on the criminal judgment. In Collado, the state’s issue on appeal challenged the district court’s jurisdiction based on procedural inadequacies in the petitions for writ of mandamus. 2005-NMCA-056, ¶ 8; see Heinsen, 2005-NMSC-035, ¶ 19 (discussing Collado). The issue did not pertain to the state’s ability to appeal the district court’s order to withdraw the pleas on the merits. Although instructive, we conclude that neither Griego nor Collado is dispositive here.\n{25} Having determined that Griego and Collado do not resolve the issue, we examine the nature of Defendant’s motion itself. Cf. State v. Roybal, 2006-NMCA-043, ¶ 17, 139 N.M. 341, 132 P.3d 598 (“[I]tis the substance of the motion, and not its form or label, that controls.”). The Court in Tran noted that a motion to withdraw a plea based on a deficiency in counsel that rendered the judgment void was essentially a petition for a writ of coram nobis. 2009-NMCA-010, ¶ 15. The writ of coram nobis was a common law procedure utilized in criminal cases by “one who, though convicted, is no longer in custody, to provide relief from collateral consequences of an unconstitutional conviction due to errors of . . . such a fundamental character that the proceeding itself [was] rendered invalid, permitting the court to vacate the judgment.” Id. ¶¶ 14-15; see also State v. Barraza, 2011-NMCA-111, ¶ 4, 267 P.3d 815 (describing in general terms the development and use of the writ of coram nobis). However, with the adoption of Rule 1-060, “[w]rits of coram nobis, coram vobis, audita querela, and bills of review and bills in the nature of a bill of review, [were] abolished[,]” Rule 1-060(B)(6). Even so, “it was the intent to retain all the substantive rights protected by [these] old common law writs . . ., but to eliminate the niceties of form of these writs.” Romero, 1966-NMSC-126, ¶ 15. “The purpose of the rule was to substitute in place of these writs a simplified procedure whereby the same questions of right could now be raised by motion.” Id.\n{26} At common law, the state’s right to appeal the grant of a writ of coram nobis depended on whether the proceedings were independent of the underlying action. See 18 Am. Jur. Trials 1 § 45 (originally published in 1971) (“The right to appeal a judgment or order denying coram nobis relief depends to a great extent on whether the coram nobis proceeding is considered to be a separate proceeding or whether it is viewed as part of the original criminal proceeding.”). This is because the order entered in a separate civil proceeding is considered to finally dispose of that proceeding and therefore is a final order subject to appeal, even though it may not completely resolve the underlying case. Cf. NMSA 1978, § 39-3-2 (1966) (permitting appeal by an aggrieved party from “any final judgment or decision, any interlocutory order or decision which practically disposes of the merits of the action, or any final order after entry of judgment which affects substantial rights[.]”). Although it appears that many courts consider a coram nobis proceeding to be an independent proceeding, others have held that it is part of the original criminal matter. See 24 C.J.S. Criminal Law § 2264 (2016) (“Authorities differ as to whether a proceeding for the writ is a new and independent one or is part of the original criminal proceeding.”); Ruby v. State, 724 A.2d 673, 677 (Md. 1999) (recognizing disparate holdings). For instance, the Court of Appeals for the First Circuit held that “coram nobis proceedings are appealable as civil matters. Thus, the government, like any other party, may appeal the grant or denial of the writ as a final order.” Trenkler v. United States, 536 F.3d 85, 95 (1st Cir. 2008). Similarly, the Maryland Court of Appeals, concluding that the state failed to appeal the grant of the writ, held that “[a]t common law, a proceeding on a writ of error coram nobis was a civil matter procedurally independent of the underlying judgment being contested.” Ruby, 724 A.2d at 677, 679 (emphasis omitted); see also State v. Tejeda-Acosta, 2013 Ark. 217, at 3-4, 427 S.W.3d 673, 675 (noting that the state’s appeal from an order granting a writ of error coram nobis was proper because the case was not required to satisfy criteria for appeals in criminal cases). In contrast, the Oregon Supreme Court held that “a motion in the nature of coram nobis is not, like habeas corpus, a new case, civil in nature, but simply a part of the original criminal proceeding.” State v. Endsley, 331 P.2d 338, 340 (Or. 1958) (en banc); see also State v. Bibby, 252 So. 2d 662, 665 (Ala. Crim. App. 1971) (stating that “absent an express authorization by the [l]egislature of some specific officer, an appeal on behalf of the [s]tate cannot be entertained where the judgment below grants a convict relief from a judgment of conviction by way of the writ of error, coram nobis”).\n{27} Romero seems to indicate that coram nobis proceedings, if they still exist, are separate proceedings. 1966-NMSC-126, ¶ 13 (“At common law such writs ... were and still are generally considered to be civil in nature, even though used to question a judgment and sentence in a criminal case.”). The Court cited to People v. Kemnetz, 15 N.E.2d 883 (Ill. App. Ct. 1938), which expressly stated:\nIt has been repeatedly held that a motion or petition filed in the nature of a writ of error coram nobis stands as a declaration or complaint in a new suit, and it is only because the proceeding so instituted is civil in character that the right of the state to appeal from the judgment entered in such proceeding has been generally recognized by the authorities.\nId. at 886. The Kemnetz court also referred to and quoted from People ex rel. Courtney v. Green, 189 N.E. 500 (Ill. 1934). In Green, the Illinois Supreme Court noted that while its procedural rules had abolished the common law writ of coram nobis, those rules also provided that errors which might have been corrected by that writ could still be reached by motion and that “[sjuch motion or petition is the commencement of a new suit.” Id. at 501-02. Kemnetz relied on the ruling in Green to hold that, in a proceeding brought by such a motion,\n[t]he issue made and the judgment sought concern only the setting aside of the original judgment entered. The order made on such motion is a final order and directly reviewable as a final judgment. . . . Since the judgment entered upon such proceeding is final and the proceeding is civil in its nature, either the state or the defendant is entitled to a review of the judgment of the court entered on such motion or petition.\nKemnetz, 15 N.E.2d at 886 (internal quotation marks omitted) (quoting Green, 189 N.E. at 502).\n{28} In spite of these citations, Romero only explicitly addressed whether the district court properly considered the defendant’s petition for a writ of coram nobis under Rule 1-060(B)(4). It did not address whether the proceeding was a separate, independent proceeding or whether the state would have had a right to appeal the grant of the writ. See Sangre de Cristo Dev. Corp. v. City of Santa Fe, 1972-NMSC-076, ¶ 23, 84 N.M. 343, 503 P.2d 323 (“The general rule is that cases are not authority for propositions not considered.”). Hence, we conclude that Romero, as well as the out-of-state cases addressing appeal of the grant of a coram nobis writ, are at best persuasive authority for allowing the State’s appeal, although they are hardly definitive on the matter.\n{29} We therefore approach the question a third way: by review of a similar rule. As a collateral attack on a judgment, a petition for writ of coram nobis, even when filed under the auspices of Rule 1-060(B)(4), is similar to a petition for a writ ofhabeas corpus. See Rule 5-802 NMRA (governing petitions for a writ ofhabeas corpus); Tran, 2009-NMCA-010, ¶ 18 (referring to a motion to set aside a judgment based on an attorney’s failure to advise of immigration consequences as a collateral attack). Since both habeas corpus and coram nobis writs may be used to challenge a judgment on the ground of ineffective assistance of counsel, the main distinction between a writ of coram nobis and a writ of habeas corpus lies in whether the defendant is in custody. Barraza, 2011-NMCA-111, ¶ 10. Habeas corpus applies if the defendant is in custody, whereas coram nobis applies when the defendant is no longer in custody. Id. (holding that coram nobis relief under Rule 1-060(B) is not available unless a defendant demonstrates that habeas corpus relief under Rule 5-802 is not available or is otherwise inadequate). The habeas corpus rule provides that “if the writ [ofhabeas corpus] is granted, the state may appeal as of right pursuant to the Rules of Appellate Procedure[.]” Rule 5-802(L)(l). The similarities between the two writs suggest that they should function similarly, i.e., the State should enjoy the same right to appeal in coram nobis proceedings as in habeas proceedings. On the other hand, Rule 5-802 expressly provides for the state’s appeal, whereas Rule 1-060(B) does not.\n{30} The final piece of the puzzle is found in a recent rule promulgated by our Supreme Court. In December 2014, the Supreme Court adopted Rule 5-803 NMRA to govern petitions for post-sentence relief. Rule 5-803 is “effective for all cases filed on or after December 31, 2014.” N.M. S. Ct. Order No. 14-8300-014. Rule 5-803(I)(l), like the habeas corpus rule, expressly provides for state appeal of the grant of a petition: “if the petition [for post-conviction relief] is granted, the state may appeal as of right to the Court of Appeals under the Rules of Appellate Procedure.” Moreover, the Committee Commentary to Rule 5-803 states that “[Rule 5-803] is deemed to have superseded former Rule 1-060(B) ... for post-sentence matters involving criminal convictions, including the writ of coram nobis.” (Emphasis added.) Thus, Rule 5-803 clarifies post-sentence petitions in criminal matters significantly. In addition, it is consistent with the rules for habeas corpus petitions. We recognize that Rule 5-803 was not in effect at the time of Defendant’s motion. Nevertheless, it is an indication of the Supreme Court’s intent to permit appeals in cases similar to the one at hand of such motions and to resolve the confusion engendered by use of Rule 1-060(B)(4) in criminal matters.\n{31} Although each of the foregoing analyses, standing alone, fails to completely settle the question, taken together in light of the Supreme Court’s recent rule change, they militate in favor of allowing the State’s appeal. We conclude that the State has a right to appeal the grant of Defendant’s motion.\nB. Validity of the Plea\nStandard of Review\n{32} This case comes to us in a rather unusual procedural posture. It is rare to see the State appeal from an order allowing a defendant to withdraw from a plea agreement. It is rarer still to see the State appeal from the grant of such a motion filed pursuant to Rule 1-060(B). This posture affects our standard of review. We review Rule 1-060(B) orders under the abuse of discretion standard. Desjardin v. Albuquerque Nat’l Bank, 1979-NMSC-052, ¶ 12, 93 N.M. 89, 596 P.2d 858 (“The setting aside of a final judgment under Rule [1-060(B)] is within the discretion of the district court.”). “Where the court’s discretion is fact-based, we must look at the facts relied on by the trial court as a basis for the exercise of its discretion, to determine if these facts are supported by substantial evidence.” Apodaca v. AAA Gas Co., 2003-NMCA-085, ¶ 60, 134 N.M. 77, 73 P.3d 215 (internal quotation marks and citation omitted). Under that standard, we review the factual record in the light most favorable to the district court’s decision. State v. Barrera, 2001-NMSC-014, ¶ 12, 130 N.M. 227, 22 P.3d 1177 (“[Appellate Courts] resolve[] all disputed facts and draw[] all reasonable inferences in favor of the successful party and disregard^ all evidence and inferences to the contrary, viewing the evidence in the light most favorable to the trial court’s decision.”).\n{33} In addition, Defendant’s motion below was premised on her prior counsel’s asserted failure to adequately advise her concerning the immigration consequences flowing from her plea. Based on our Supreme Court’s decision in Paredez, Defendant’s motion of necessity asserted that her prior counsel provided her ineffective assistance. We review claims of ineffective assistance under a mixed standard of review, viewing the factual record in the light most favorable to the court’s ruling but deciding de novo whether counsel was ineffective as a matter of law. State v. Crocco, 2014-NMSC-016, ¶ 11, 327 P.3d 1068. Thus, under both standards of review, we defer to the district court’s findings of fact when they are supported by the record.\nAnalysis\n{34} Where “a defendant is represented by an attorney during the plea process and enters a plea upon the advice of that attorney, the voluntariness and intelligence of the defendant’s plea generally depends on whether the attorney rendered ineffective assistance [of counsel].” State v. Barnett, 1998-NMCA-105, ¶ 12, 125 N.M. 739, 965 P.2d 323, quoted in State v. Tejeiro, 2015-NMCA-029, ¶ 5, 345 P.3d 1074. New Mexico follows Strickland v. Washington, 466 U.S. 668 (1984), in evaluating claims of ineffective assistance of counsel. Favela, 2015-NMSC-005, ¶ 10. Under Strickland, to prove a claim of ineffective assistance of counsel, a defendant must show: “(1) that counsel’s performance fell below that of a reasonably competent attorney[,] and (2) that [the defendant was prejudiced by the deficient performance.” State v. Martinez, 2007-NMCA-160, ¶ 19, 143 N.M. 96, 173 P.3d 18. A failure to comply with Paredez renders the attorney’s performance deficient — which satisfies the first prong of Strickland. 466 U.S. at 687; Paredez, 2004-NMSC-036, ¶ 19.\n{35} We therefore begin our analysis with Paredez, in which our Supreme Court held:\n[Criminal defense attorneys are obligated to determine the immigration status of their clients. If a client is a non-citizen, the attorney must advise that client of the specific immigration consequences of pleading guilty, including whether deportation would be virtually certain. Proper advice will allow the defendant to make a knowing and voluntary decision to plead guilty. .. . An attorney’s failure to provide the required advice regarding immigration consequences will be ineffective assistance of counsel if the defendant suffers prejudice by the attorney’s omission.\n2004-NMSC-036, ¶ 19. Our Supreme Court has subsequently reaffirmed on two separate occasions that Paredez requires defense counsel to determine the immigration status of a client and advise a client, who is not a United States citizen, of the specific immigration consequences of a guilty plea, including whether the guilty plea is virtually certain to result in the client’s deportation. See Pavela, 2015-NMSC-005, ¶ 10; Ramirez v. State, 2014-NMSC-023, ¶ 7, 333 P.3d 240.\n{36} In State v. Carlos, 2006-NMCA-141, ¶¶ 15-16, 140 N.M. 688, 147 P.3d 897, this Court concluded that merely advising a client in general about the possible immigration consequences of pleading guilty and of the range of different things that can happen at a deportation hearing fails to satisfy Paredez. Because Paredez requires an attorney to provide “a definite prediction as to the likelihood of deportation based on the crimes to which a defendant intends to plead and the crimes listed in federal law for which a defendant can be deportedf,]” Carlos, 2006-NMCA-141, ¶ 14, we interpreted Paredez “to require at a minimum that the attorney advise the defendant of the specific federal statutes which apply to the specific charges contained in the proposed plea agreement and of consequences, as shown in the statutes, that will flow from a plea of guilty.” Carlos, 2006-NMCA-141, ¶ 15.\n{37} In Tejeiro, this Court listed examples of inadequate advice of counsel. If an attorney (1) fails to provide any advice of the consequences, (2) provides incorrect advice, (3) misrepresents the consequences, (4) fails to provide a definite prediction as to the likelihood of deportation based on the crime(s) to which the defendant intends to plead, (5) fails to inform the defendant of the consequences short of deportation, or (6) fails to provide guidance even in cases in which implications for immigration are not truly clear, then the obligation imposed by Paredez is not satisfied. Tejeiro, 2015-NMCA-029, ¶ 7. We therefore held that it was incumbent upon counsel to be well informed and to advise the defendant that he could face deportation irrespective of whether the defendant successfully completed a conditional discharge after pleading guilty to a single count of drug trafficking. Id. ¶ 12.\n{38} Defendant pled guilty to possession of eight ounces or more of marijuana, knowing it was marijuana, a fourth degree felony, in violation of NMSA 1978, Section 30-31-23(B)(3) (2011). As such, Defendant was convicted of a deportable offense under 8 U.S.C. § 1227(a)(2)(B)(i) (2014) (providing that a non-citizen’s conviction for violating the law of a state relating to a controlled substance, other than a single offense of possession for personal use, thirty grams or less of marijuana, is a deportable offense); 8 U.S.C. § 1101(48)(A)(i) (2014) (stating that a plea of guilty constitutes a conviction). However, because Defendant was not convicted of an “aggravated felony” as defined in 8 U.S.C. § 1101(a)(43) (2014), it appears she may have been eligible for cancellation of removal at the discretion of the attorney general under 8 U.S.C. § 1229b(a)(3) (2014). See State v. Shata, 2015 WI74, ¶¶ 59-60, 868 N.W.2d 93 (stating that although a controlled substance conviction makes a non-citizen deportable, such a conviction will not necessarily result in deportation due to the government’s prosecutorial discretion and immigration policies that provide avenues for aliens to avoid deportation); Cun-Lara v. State, 273 P.3d 1227, 1237-39 (Haw. Ct. App. 2012) (stating that notwithstanding that conviction of a drug offense is deportable, cancellation of removal is available under 8 U.S.C. § 1229b(a)).\n{39} Given the district court’s grant of Defendant’s motion to withdraw the plea, we infer that the district court found that Defendant did not clearly or properly appreciate the actual immigration consequences of her plea. Viewed in the light most favorable to this ruling, the record supports this finding. For example, when asked by Judge Jeffreys at the plea hearing about the “possibility [of] being deported,” Defendant (as translated) responded: “[trial counsel] advised me that with respect to this case there was a possibility that I might be deported but it is up to the Immigration and Naturalization Department if I am deported or not.” This response indicates clearly that Defendant was under the impression that deportation was a “possibility” rather than a “probability” or “virtual certainty.” Given the provisions of the applicable federal provisions, Defendant’s deportation was a “virtual certain[ty]” given the crime to which she was pleading. Paredez, 2004-NMSC-036, ¶ 19; 8 U.S.C. § 1227(a)(2)(B)(i) (2014).\n{40} In addition, Defendant’s counsel spoke to the district court after Defendant’s response, asserting that “[Defendant] understands there is a high likelihood that she will be deported. At least with this charge that she is pleading to . . . she has some, at least a remote chance, she understands it’s not a great chance.” Defendant’s expression of her understanding of the potential effect of the plea stands in high contrast with counsel’s statements. Despite the contrast, the district court did not pursue the matter further.\n{41} Finally, Defendant’s trial counsel provided an affidavit in support of the motion for relief from judgment. Trial counsel asserted in the affidavit that in his discussions with Defendant about the case and the plea bargain, he did “not recall a conversation wherein I, with specificity, explained to [Defendant] that she would without a doubt [be] removed from the United States of America.”\n{42} From Defendant’s statements during the plea hearing and trial counsel’s shifting statements about the advice he gave her, the district court could reasonably have concluded that Defendant did not understand that her plea made deportation a “virtual certainty.” The district court could also have reasonably concluded that Defendant’s lack of understanding was due to her counsel’s failure to explain the consequences to her well or clearly enough.\n{43} This view of the record is bolstered by the colloquy between the court, Defendant, and trial counsel at the sentencing hearing. Judge Jeffreys inquired about the status of the effort to acquire citizenship for Defendant. In response, trial counsel explained that the matter was still in process but that the immigration attorney handling the matter for Defendant had stated that if Defendant was not actually imprisoned, the plea should have no negative effect on the effort. This statement likely further misled Defendant as to the consequences of the plea.\n{44} During argument on the motion for relief from judgment, the district court noted that she was concerned about certain statements made at the sentencing hearing. The exchange described above could reasonably be seen as further evidence that Defendant had not been properly and clearly advised about the effect of her plea — before the plea and thereafter. That is, read in the light most favorable to permitting withdrawal of the plea, the record supports the view that Defendant was not advised that deportation was a virtual certainty given the charges to which she was pleading. Rather, the district court could have reasonably concluded that Defendant was left with the impression that deportation was only a “possibility” or perhaps at worst a “good” possibility.\n{45} As for the second prong of the Strickland test, the district court also could have reasonably concluded that “[defendant was prejudiced by the deficient performance.” Martinez, 2007-NMCA-160, ¶ 19. Defense counsel made clear to the district court early on that Defendant’s father was a United States citizen and that two of her children are United States citizens. See Carlos, 2006-NMCA-141, ¶ 21 (considering the defendant’s ties to this country in the analysis of prejudice). Throughout the months leading up to the entry of the plea, it was also clear that Defendant was seeking United States citizenship. As early as the arraignment, Defendant sought the district court’s assistance in getting ICE to release her green card. Roughly seven months later, in August 2011, the issue was still unresolved, and Defendant requested a continuance of the sentencing hearing in order “to get her citizenship straightened out.” Recognizing that her immigration status was uncertain, the district court noted that resolution of Defendant’s citizenship status was material to approval of the plea and disposition agreement and agreed to continue sentencing. “[This] record indicates that there is a distinct possibility that ... if Defendant had been properly advised, [s]he would not have pleaded guilty” and supports the district court’s conclusion that the second prong was satisfied. Paredez, 2004-NMSC-036, ¶ 22.\n{46} Given the facts in the record supporting the district court’s implicit findings of fact, affirmance is required. In this area of law, we are fortunate to have a clear expression of the standard to which competent counsel are held. Paredez makes clear that “when a defendant’s guilty plea almost certainly will result in deportation, an attorney’s advice to the client that he or she ‘could’ or ‘might’ be deported would be misleading and thus deficient.” Id. ¶ 15. Our Supreme Court in Paredez also made clear that “criminal defense attorneys are obligated to determine the immigration status of their clients. If a client is a non-citizen, the attorney must advise that client of the specific immigration consequences of pleading guilty, including whether deportation would be virtually certain.” Id. ¶ 19. Under the applicable federal statute, Defendant’s deportation was “virtually certain” after her plea. Any advice that did not convey that message was deficient. The district court having apparently' — and reasonably— concluded that the appropriate message was not conveyed to Defendant clearly, the order must be affirmed.\nIII. CONCLUSION\n{47} The order of the district court is affirmed.\n{48} IT IS SO ORDERED.\nMICHAEL D. BUSTAMANTE, Judge\nWE CONCUR:\nMICHAEL E. VIGIL, Chief Judge\nJONATHAN B. SUTIN, Judge",
+        "type": "majority",
+        "author": "BUSTAMANTE, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Yvonne M. Chicoine, Assistant Attorney General Santa Fe, NM for Appellant",
+      "Bennett J. Baur, Chief Public Defender Nicole S. Murray, Assistant Appellate Defender Santa Fe, NM for Appellee"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-077\nFiling Date: June 27, 2016\nDocket No. 33,165\nSTATE OF NEW MEXICO, Plaintiff-Appellant, v. MAYRA GUTIERREZ, Defendant-Appellee.\nJennifer E. DeLaney, District Judge\nHector H. Balderas, Attorney General Yvonne M. Chicoine, Assistant Attorney General Santa Fe, NM for Appellant\nBennett J. Baur, Chief Public Defender Nicole S. Murray, Assistant Appellate Defender Santa Fe, NM for Appellee"
+  },
+  "file_name": "1676-01",
+  "first_page_order": 432,
+  "last_page_order": 445
+}

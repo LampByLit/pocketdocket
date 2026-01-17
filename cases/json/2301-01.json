@@ -1,0 +1,784 @@
+{
+  "id": 6788103,
+  "name": "Joanne Scuteri, Plaintiff, v. 7318 13th Ave. Corp. et al., Defendants",
+  "name_abbreviation": "Scuteri v. 7318 13th Ave. Corp.",
+  "decision_date": "2016-04-27",
+  "docket_number": "",
+  "first_page": "391",
+  "last_page": "399",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 391"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "76 NY2d 220",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2350879
+      ],
+      "pin_cites": [
+        {
+          "page": "226-227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0220-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 579",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2352963
+      ],
+      "pin_cites": [
+        {
+          "page": "585-586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0579-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 898",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4012608
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0898-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 781",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326415
+      ],
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0781-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 343",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        202912
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0343-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 136",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282479
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "138"
+        },
+        {
+          "page": "138-139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0136-01"
+      ]
+    },
+    {
+      "cite": "2012 NY Slip Op 31986",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 AD2d 536",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1534556,
+        1534013
+      ],
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/241/0536-01",
+        "/ad2d/241/0536-02"
+      ]
+    },
+    {
+      "cite": "39 AD3d 811",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5513323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/39/0811-01"
+      ]
+    },
+    {
+      "cite": "2008 NY Slip Op 33534",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 AD3d 638",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 AD3d 988",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3935055
+      ],
+      "pin_cites": [
+        {
+          "page": "989"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/62/0988-01"
+      ]
+    },
+    {
+      "cite": "213 AD2d 339",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1205257
+      ],
+      "pin_cites": [
+        {
+          "page": "339-340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/213/0339-01"
+      ]
+    },
+    {
+      "cite": "76 AD3d 508",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 NY Slip Op 50813",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Misc 3d 1224",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 AD3d 780",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4242033
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/138/0780-01"
+      ]
+    },
+    {
+      "cite": "226 AD2d 271",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        700440,
+        699722
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/226/0271-01",
+        "/ad2d/226/0271-02"
+      ]
+    },
+    {
+      "cite": "260 AD2d 564",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        894088
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/260/0564-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 833",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4049092
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/0833-01"
+      ]
+    },
+    {
+      "cite": "90 AD3d 633",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4038045
+      ],
+      "pin_cites": [
+        {
+          "page": "634"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/90/0633-01"
+      ]
+    },
+    {
+      "cite": "91 AD3d 822",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4047843
+      ],
+      "pin_cites": [
+        {
+          "page": "822-823"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/91/0822-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 449",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4438677
+      ],
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0449-01"
+      ]
+    },
+    {
+      "cite": "100 AD3d 745",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3489897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/100/0745-01"
+      ]
+    },
+    {
+      "cite": "39 Misc 3d 371",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3786413
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/39/0371-01"
+      ]
+    },
+    {
+      "cite": "2010 NY Slip Op 50208",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Misc 3d 1222",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007 NY Slip Op 51570",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Misc 3d 1125",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 NY Slip Op 30911",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 AD3d 542",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4005930
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0542-01"
+      ]
+    },
+    {
+      "cite": "88 AD3d 853",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4037939
+      ],
+      "pin_cites": [
+        {
+          "page": "855"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/88/0853-01"
+      ]
+    },
+    {
+      "cite": "298 NY 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2074131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/298/0320-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 619",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3998832,
+        4013004
+      ],
+      "pin_cites": [
+        {
+          "page": "620"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/0619-02",
+        "/ad3d/81/0619-01"
+      ]
+    },
+    {
+      "cite": "92 AD3d 857",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4049956,
+        4047919
+      ],
+      "pin_cites": [
+        {
+          "page": "858"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/92/0857-02",
+        "/ad3d/92/0857-01"
+      ]
+    },
+    {
+      "cite": "94 AD3d 1054",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5673669
+      ],
+      "pin_cites": [
+        {
+          "page": "1055"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/94/1054-01"
+      ]
+    },
+    {
+      "cite": "103 AD3d 682",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3706541,
+        3704655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/103/0682-01",
+        "/ad3d/103/0682-02"
+      ]
+    },
+    {
+      "cite": "106 AD3d 766",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3724091
+      ],
+      "pin_cites": [
+        {
+          "page": "767"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/106/0766-01"
+      ]
+    },
+    {
+      "cite": "109 AD3d 862",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3725820
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0862-01"
+      ]
+    },
+    {
+      "cite": "6 AD3d 380",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        71126
+      ],
+      "pin_cites": [
+        {
+          "page": "380-381"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/6/0380-01"
+      ]
+    },
+    {
+      "cite": "35 AD3d 340",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3727739
+      ],
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/35/0340-01"
+      ]
+    },
+    {
+      "cite": "2012 NY Slip Op 30216",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "245 AD2d 273",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        407259,
+        406518
+      ],
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/245/0273-02",
+        "/ad2d/245/0273-01"
+      ]
+    },
+    {
+      "cite": "74 AD3d 1128",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5736547
+      ],
+      "pin_cites": [
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/74/1128-01"
+      ]
+    },
+    {
+      "cite": "26 NY3d 66",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4130436
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "84"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/26/0066-01"
+      ]
+    },
+    {
+      "cite": "61 AD3d 735",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3933925
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/0735-01"
+      ]
+    },
+    {
+      "cite": "84 AD3d 863",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4019883
+      ],
+      "pin_cites": [
+        {
+          "page": "864-865"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/84/0863-01"
+      ]
+    },
+    {
+      "cite": "304 NY 268",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2227368
+      ],
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/304/0268-01"
+      ]
+    },
+    {
+      "cite": "54 AD3d 746",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3789573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/54/0746-01"
+      ]
+    },
+    {
+      "cite": "61 AD3d 813",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3925941
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/0813-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 677",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3952666
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/0677-01"
+      ]
+    },
+    {
+      "cite": "90 NY2d 976",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        165673
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "977"
+        },
+        {
+          "page": "977"
+        },
+        {
+          "page": "978"
+        },
+        {
+          "page": "977"
+        },
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/90/0976-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 953,
+    "char_count": 18178,
+    "ocr_confidence": 0.769,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1824774340125621
+    },
+    "sha256": "331ede89cbaabbae2e852a4d5c32145d8a206a4467e646608744225bf1ea7203",
+    "simhash": "1:2d724706f71daaf1",
+    "word_count": 3096
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joanne Scuteri, Plaintiff, v 7318 13th Ave. Corp. et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDebra Silber, J.\nDefendants, the property owners on February 2, 2012, the date of the plaintiff’s accident (Joseph Caruana and Laura Caruana), and the commercial tenant at the property (Dr. Joseph A. Caruana Medical PC.), all move for summary judgment. Although the court indicated on the record at oral argument that movants were seemingly entitled to summary judgment, the court later discovered, while in the process of writing the decision, that the \"facts” stated on the record by counsel as to which defendants owned the property on the date of plaintiff’s accident were incorrect, and so, for the reasons stated herein, grants summary judgment to defendant Dr. Joseph A. Caruana Medical P.C. and denies summary judgment as to defendants Joseph Caruana and Laura Caruana.\nPreviously, the City of New York was dismissed as a party defendant pursuant to Administrative Code of the City of New York § 7-210, and the other named defendants have not answered and no default has been taken against them. Thus, this action has been abandoned as to 7318 13th Avenue Corp., Caruana and Manna and the Family Medical Center. CPLR 3215 requires a plaintiff to enter a default judgment within one year after the default occurs.\nMovants aver that, if there was a defect in the sidewalk, it was trivial, and that for this reason, their motion should be granted. The court finds that because this accident took place in New York City, counsel’s analysis is erroneous as the Administrative Code prevents the court from reaching the conclusion urged by movants.\nGenerally, whether a dangerous or defective condition exists depends on the particular facts of each case, and is properly a question of fact for the jury unless the defect is demonstrated to be trivial as a matter of law. (See Trincere v County of Suffolk, 90 NY2d 976, 977 [1997]; Fisher v JRMR Realty Corp., 63 AD3d 677 [2d Dept 2009]; DeLaRosa v City of New York, 61 AD3d 813 [2d Dept 2009].) Property owners may not be held liable for trivial defects. (See Trincere v County of Suffolk, 90 NY2d 976, 977 [1997]; DeLaRosa v City of New York, 61 AD3d 813 [2009]; Shiles v Carillon Nursing & Rehabilitation Ctr., LLC, 54 AD3d 746 [2d Dept 2008].)\nIn determining whether a defect is trivial as a matter of law, the court must examine all of the facts presented, including the width, depth, elevation, irregularity and appearance of the defect, along with the time, place and circumstances of the accident. “Circumstances” has been interpreted to include, but not be limited to, the sufficiency of the lighting, and the existence of rain, snow, leaves or debris. (Trincere v County of Suffolk, 90 NY2d 976, 978 [1997], citing Caldwell v Village of Is. Park, 304 NY 268, 274 [1952]; Fontana v Winery, 84 AD3d 863, 864-865 [2d Dept 2011].) There is no “minimum dimension test” or “per se rule” that the condition must be of a certain height or depth in order to be actionable. (See Trincere v County of Suffolk, 90 NY2d 976, 977 [1997]; Ricker v Board of Educ. of Town of Hyde Park, 61 AD3d 735 [2d Dept 2009].)\nThe Court of Appeals has further clarified its intent with regard to the “trivial defect doctrine” in the recently decided Hutchinson v Sheridan Hill House Corp. (26 NY3d 66, 84 [2015]), which addressed three different cases appealed on the issue of alleged trivial defects, stating\n“Trincere stands for the proposition that a defendant cannot use the trivial defect doctrine to prevail on a summary judgment motion solely on the basis of the dimensions of an alleged defect, and that the reviewing court is obliged to consider all the facts and circumstances presented when it decides the motion ... in deciding whether a defendant has met its burden of showing prima facie triviality, a court must — except in unusual circumstances not present here — avoid interjecting the question of whether the plaintiff might have avoided the accident simply by placing his feet elsewhere.”\nDefendants herein have not made a prima facie showing that, as a matter of law, the allegedly defective condition was merely a non-actionable trivial defect. (See e.g. DePascale v E&A Constr. Corp., 74 AD3d 1128, 1131 [2d Dept 2010] [one-quarter inch is trivial]; Lopez v New York City Hous. Auth., 245 AD2d 273, 274 [2d Dept 1997].) A defendant seeking dismissal of a complaint on the basis that the alleged defect is trivial must make a prima facie showing that the defect is, under the circumstances, physically insignificant and that the characteristics of the defect or the surrounding circumstances do not somehow increase the risk it poses. Only then does the burden shift to the plaintiff to establish an issue of fact. (Hutchinson v Sheridan Hill House Corp., 26 NY3d 66, 79 [2015].)\nWhat must be stated in unambiguous terms is that it is not possible to make a prima facie case for dismissal in New York City on the grounds that a sidewalk defect is trivial when the Administrative Code states that the very same condition is a “substantial defect” which permits the City to issue a violation to the property owner, and then, if it is not promptly corrected, the City may repair the condition and bill the property owner.\nWith regard to the duty to repair, section 19-152 (a) provides that a property owner is required to repair “a defective sidewalk flag in front of or abutting such property,” which “contains a substantial defect.” A substantial defect is defined to include a height differential between sidewalk flags of one-half inch or more.\nDefendants herein do not provide any evidence that the alleged height differential between the sidewalk flags where plaintiff tripped is less than one half of an inch and thus not a violation of Administrative Code § 19-152. (See Rossy v Miracle Pentecostal Church, 2012 NY Slip Op 30216[U] [Sup Ct, NY County 2012].) In fact, the defendants’ claims adjuster provides an affidavit (signed and notarized in Nassau County) which states that the sidewalk flag is raised “less than one inch,” and he provides a photograph of the raised flag next to a ruler, which, while fuzzy, indicates that the sidewalk flag was raised almost one inch from the adjacent one. This does not establish that the alleged defect is trivial in New York City as a matter of law. (See e.g. Cohen v Tuneway Co., 35 AD3d 340, 341 [2d Dept 2006]; Corrado v City of New York, 6 AD3d 380, 380-381 [2d Dept 2004].) The plaintiff provides a letter from an engineer which was not submitted in admissible (affidavit) form, so it could not be considered.\nThe evidence in the instant case is that, pursuant to plaintiff’s examination before trial testimony, it was a bright sunny day, and her vision was not obstructed, but the evidence also reveals (photo) a defect which ran from the tree well across virtually the entire width of the sidewalk. This was a defect which was “difficult for a pedestrian to . . . pass over safely on foot in light of the surrounding circumstances.” (Hutchinson v Sheridan Hill House Corp., 26 NY3d 66, 80 [2015].)\nIn conclusion, the photographs, the claims adjuster’s affidavit and plaintiff’s deposition testimony, are insufficient to demonstrate as a matter of law that the alleged defect is trivial and therefore not actionable. (See Cardona-Torres v City of New York, 109 AD3d 862 [2d Dept 2013]; Brenner v Herricks Union Free Sch. Dist., 106 AD3d 766, 767 [2d Dept 2013]; Devlin v Ikram, 103 AD3d 682 [2d Dept 2013]; Guidone v Town of Hempstead, 94 AD3d 1054, 1055 [2d Dept 2012]; Rogers v 575 Broadway Assoc., L.P., 92 AD3d 857, 858 [2d Dept 2012]; Perez v 655 Montauk, LLC, 81 AD3d 619, 620 [2d Dept 2011].)\nAs defendants have not made out a prima facie case for dismissal, the court is not required to consider the sufficiency of the plaintiffs papers in opposition.\nTo be clear, it has long been the law in this state that whether a dangerous or defective condition exists is properly a question of fact for the jury unless the alleged defect is trivial as a matter of law. (See Loughran v City of New York, 298 NY 320 [1948]; Cardona-Torres v City of New York, 109 AD3d 862 [2013]; Milewski v Washington Mut., Inc., 88 AD3d 853, 855 [2d Dept 2011]; Trincere v County of Suffolk, 90 NY2d 976, 977 [1997].)\nSection 7-210 of the Administrative Code provides in pertinent part:\n“It shall be the duty of the owner of real property abutting any sidewalk ... to maintain such sidewalk in a reasonably safe condition. Notwithstanding any other provision of law, the owner of real property abutting any sidewalk . . . shall be liable for any injury to property or personal injury, including death, proximately caused by the failure of such owner to maintain such sidewalk in a reasonably safe condition. Failure to maintain such sidewalk in a reasonably safe condition shall include, but not be limited to, the negligent failure to install, construct, reconstruct, repave, repair or replace defective sidewalk flags and the negligent failure to remove snow, ice, dirt or other material from the sidewalk.”\nThe 2003 amendments to this section of the Administrative Code transferred all liability for sidewalk defects from the City to the property owner, except owners of one- to three-family homes that are either wholly or partially owner-occupied and used exclusively for residential purposes. Defendants, the property owners herein, are not exempt, as the first floor is used for commercial purposes.\nSection 7-210 thus shifts tort liability from the City to property owners who breach the requirements imposed by section 19-152. That is, the scope of a property owner’s responsibility regarding the repair and maintenance of sidewalks imposed by section 7-210 “mirrors the duties and obligations of property owners with regard to sidewalks set forth in Administrative Code section[ ] 19-152” (Rep of Comm on Transp at 4, Local Law Bill Jacket, Local Law No. 49 [2003] of City of NY). Therefore, section 7-210 must be read in conjunction with section 19-152.\nThe Administrative Code provides a basis for finding that the property owner’s failure to maintain a sidewalk in a reasonably safe condition, in the face of a non-delegable duty on the owner’s part to maintain and repair the sidewalk, is both subject to issuance of a violation and is actionable. (Collado v Cruz, 81 AD3d 542 [1st Dept 2011].)\nAdministrative Code § 19-152, which lists nine categories of “substantial defects” that the Commissioner of Transportation may issue violations for, has been viewed as a guidepost for determining the scope of an owner’s duty to repair and maintain a sidewalk. (See Brooks v Employees Only LLC, 2013 NY Slip Op 30911 [U] [Sup Ct, NY County 2013]; King v Alltom Props., Inc., 16 Misc 3d 1125[A], 2007 NY Slip Op 51570[U] [Sup Ct, Kings County 2007]; Calise v Millennium Partners, 26 Misc 3d 1222[A], 2010 NY Slip Op 50208[U] [Sup Ct, NY County 2010]; Langston v Gonzalez, 39 Misc 3d 371 [Sup Ct, Kings County 2013].) Municipal codes have been held to impose tort liability upon owners of real property when they create a duty to maintain adjacent sidewalks in a safe condition. (See Wright v Blumberg, 100 AD3d 745 [2d Dept 2012]; Hausser v Giunta, 88 NY2d 449, 453 [1996]; Hevia v Smithtown Auto Body of Long Is., Ltd., 91 AD3d 822, 822-823 [2d Dept 2012]; Reyderman v Meyer Berfond Trust #1, 90 AD3d 633, 634 [2d Dept 2011].) A defendant who seeks to show the inapplicability of the Administrative Code must demonstrate the inapplicability of those provisions through photographs and/or expert affidavits or deposition testimony. (See Ramirez v City of New York, 93 AD3d 833 [2d Dept 2012].) In this action, however, the claims adjuster states he went to the site of the accident and took the measurements himself, and thereby acknowledges that the height differential between the sidewalk flags is more than half of an inch. His statements defeat the motion.\nIt is further noted that the only post-1995 appellate decisions in which a sidewalk flag differential of a half inch or more in New York City was found to be trivial as a matter of law were cases decided under the prior version of the Administrative Code. For example, Riser v New York City Hous. Auth. (260 AD2d 564 [2d Dept 1999]) involves an accident which took place in 1990 or earlier (1990 index number) and Morales v Riverbay Corp. (226 AD2d 271 [1st Dept 1996]) involves a trial court decision entered in February 1995. The effective date of Local Law No. 64 (1995) of City of New York § 3 was in August of 1995. This law amended Administrative Code § 19-152 (4) (a) to define a “substantial defect” as the nine defects itemized therein, including (as is applicable here) “a trip hazard, where the vertical grade differential between adjacent sidewalk flags is greater than or equal to one half inch.”\nIt is noted that while Kam Lin Chee v DiPaolo (138 AD3d 780 [2d Dept 2016]), decided one day before the instant motion was argued, may appear to require a contrary result, it is distinguishable. In Chee, a height differential between sidewalk flags of just over one inch was found, under the factual circumstances in that case, to be a trivial defect. However, the incident in Chee took place in Nassau County, Village of New Hyde Park. While section 165.40 (1) of the Code of the Village of New Hyde Park does impose upon landowners a duty to\n“at all times keep and maintain the entire width and length of each public sidewalk adjoining or otherwise near and proximate to the boundary lines of such lands, including but not limited to the paved flat or gradient portions of any driveway or handicapped-accessible walkway or curb cut located adjacent thereto, in a good state of repair and free and clear of any physical defects or other unsafe, hazardous or dangerous obstructions, encumbrances or conditions therein,” it does not contain any provision defining a substantial defect in a sidewalk, nor is there any mention of a specific height differential which would be a violation of the code.\nThus, whether a defect is trivial or not requires an analysis of applicable local law as well as decisional law in the State of New York.\nHowever, the action must be dismissed as against the defendant commercial tenant, “Dr. Joseph A. Caruana, P.C. a/k/a Dr. Joseph A. Caruana Medical P.C.” for a different reason. The Administrative Code does not impose any duty on a commercial tenant, leaving that issue to the property owner and his contract (lease) with the tenant. Administrative Code § 7-210, combined with § 19-152, imposes a non-delegable duty upon property owners to maintain and repair the sidewalk abutting their property, and specifically imposes liability upon property owners for injuries resulting from a violation of the Administrative Code. (See Collado v Cruz, 81 AD3d 542 [2011]; Stein v 1394 Hous. Corp., 31 Misc 3d 1224[A], 2011 NY Slip Op 50813[U] [Sup Ct, NY County 2011]; Green v City of New York, 76 AD3d 508 [2d Dept 2010].)\nThus, a commercial tenant at the property herein would only be a proper party if it actually created the condition that caused plaintiffs accident. (See Collado v Cruz, 81 AD3d 542 [2011]; Otero v City of New York, 213 AD2d 339, 339-340 [1st Dept 1995]; Williams v Azeem, 62 AD3d 988, 989 [2d Dept 2009] [water valve cap].) There is no such claim here. A commercial tenant leasing all or part of the ground floor of a building has been held liable to third parties, for example, when they were found to have left the sidewalk cellar doors open, and the plaintiff fell into the cellar. (Figueroa v Gueye, 66 AD3d 638 [2d Dept 2009]; Epps v Marco Polo Caterers, LLC, 2008 NY Slip Op 33534[U] [Sup Ct, NY County 2008]; Fobbs v Rahimzada, 39 AD3d 811 [2d Dept 2007].) Here, the commercial tenant is a professional corporation, admittedly set up by one of the two individual property owners who is a doctor, which professional corporation rents a medical office, and there is nothing in the papers to indicate the plaintiff fell because of some “special use” on the sidewalk which this defendant created.\nFurther, even if the lease between the property owner and the commercial tenant was included in the papers, and even if the lease said the tenant would make needed repairs to the sidewalk, the lease does not create a duty which runs from the tenant to the plaintiff, a pedestrian. (See Collado v Cruz, 81 AD3d 542 [2011]; DeCurtis v T.H. Assoc., 241 AD2d 536, 537 [2d Dept 1997]; Leslie v Shanik Bros. Inc., 2012 NY Slip Op 31986[U] [Sup Ct, Queens County 2012].) Because a finding of negligence must be based on the breach of a duty, a threshold question in tort cases is whether the alleged tortfeasor owed a duty of care to the injured party. (See Espinal v Melville Snow Contrs., 98 NY2d 136, 138 [2002]; Darby v Compagnie Natl. Air France, 96 NY2d 343, 347 [2001]; Pulka v Edelman, 40 NY2d 781, 782 [1976]; Izzo v Proto Constr. & Dev. Corp., 81 AD3d 898 [2d Dept 2011].) The existence and scope of a duty is a question of law. (See Palka v Servicemaster Mgt. Servs. Corp., 83 NY2d 579, 585-586 [1994].)\nUnder the applicable decisional law, a lease obligation, standing alone, will generally not give rise to tort liability in favor of a third party. (See Eaves Brooks Costume Co. v Y.B.H. Realty Corp., 76 NY2d 220, 226-227 [1990].) As a matter of public policy, the state’s courts have generally declined to impose liability to that degree. (Espinal v Melville Snow Contrs., 98 NY2d 136, 138-139 [2002].)\nTherefore, defendant Dr. Joseph A. Caruana Medical P.C., as a tenant, is entitled to dismissal of the complaint insofar as asserted against it by the plaintiff. The property owners’ motion for summary judgment is denied. The caption is amended to reflect that the sole defendants are Joseph Caruana and Laura Caruana.\nThis entity took title to the property after the plaintiff’s accident, as verified on the New Y)rk City Automated City Register Information System.",
+        "type": "majority",
+        "author": "Debra Silber, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jacobson & Schwartz LLP, Jericho, for defendants.",
+      "Calcagno & Associates PLLC, Staten Island, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 447]\nJoanne Scuteri, Plaintiff, v 7318 13th Ave. Corp. et al., Defendants.\nSupreme Court, Kings County,\nApril 27, 2016\nAPPEARANCES OF COUNSEL\nJacobson & Schwartz LLP, Jericho, for defendants.\nCalcagno & Associates PLLC, Staten Island, for plaintiff."
+  },
+  "file_name": "2301-01",
+  "first_page_order": 383,
+  "last_page_order": 391
+}

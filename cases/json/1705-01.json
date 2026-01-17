@@ -1,0 +1,719 @@
+{
+  "id": 12167611,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. JOHN MONAFO, Defendant-Appellant",
+  "name_abbreviation": "State v. Monafo",
+  "decision_date": "2016-07-28",
+  "docket_number": "No. S-1-SC-36054; Docket No. 33,639",
+  "first_page": "558",
+  "last_page": "568",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-092"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S. Ct. 530",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12593411
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0530-01"
+      ]
+    },
+    {
+      "cite": "417 F.3d 654",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8942467
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "655",
+          "parenthetical": "\"Whether you stand still or move, drive above, below, or at the speed limit, you will be described by the police as acting suspiciously should they wish to stop or arrest you.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/417/0654-01"
+      ]
+    },
+    {
+      "cite": "149 N.M. 439",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Whether you stand still or move, drive above, below, or at the speed limit, you will be described by the police as acting suspiciously should they wish to stop or arrest you.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011-NMSC-009",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4249607
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "¶ 24",
+          "parenthetical": "\"Whether you stand still or move, drive above, below, or at the speed limit, you will be described by the police as acting suspiciously should they wish to stop or arrest you.\""
+        },
+        {
+          "parenthetical": "\"Whether you stand still or move, drive above, below, or at the speed limit, you will be described by the police as acting suspiciously should they wish to stop or arrest you.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0435-01"
+      ]
+    },
+    {
+      "cite": "2004-NMCA-127",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224593
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0521-01"
+      ]
+    },
+    {
+      "cite": "118 N.M. 410",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1563451
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/118/0410-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-087",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009-NMCA-028",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4242622
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0757-01"
+      ]
+    },
+    {
+      "cite": "2002-NMSC-019",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        260756
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/132/0326-01"
+      ]
+    },
+    {
+      "cite": "2003-NMSC-012",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        15542
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/133/0763-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-036",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3692732
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0083-01"
+      ]
+    },
+    {
+      "cite": "357 P.3d 958",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4362278
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0707-01"
+      ]
+    },
+    {
+      "cite": "117 N.M. 155",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1552750
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/117/0155-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-012",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "335 P.3d 244",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-094",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4240243
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0667-01"
+      ]
+    },
+    {
+      "cite": "1999-NMCA-097",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        257624
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/127/0695-01"
+      ]
+    },
+    {
+      "cite": "2001-NMCA-014",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        352499
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 30"
+        },
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0274-01"
+      ]
+    },
+    {
+      "cite": "2010-NMCA-048",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4247957
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 33, 35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0811-01"
+      ]
+    },
+    {
+      "cite": "1997-NMCA-006",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        322243
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0809-01"
+      ]
+    },
+    {
+      "cite": "645 F.2d 85",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1213145
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "86-87",
+          "parenthetical": "concluding that where an officer acted on a mistaken belief that consent had been given, a Fourth Amendment violation was not flagrant misconduct"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/645/0085-01"
+      ]
+    },
+    {
+      "cite": "62 F.3d 323",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415520
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "325",
+          "parenthetical": "acknowledging that, where an officer acted upon mistaken belief in violating the Fourth Amendment, such conduct did not rise to the level of flagrant misconduct in attenuation analysis"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/62/0323-01"
+      ]
+    },
+    {
+      "cite": "111 F.3d 515",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11912832
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "523",
+          "parenthetical": "concluding violation was not flagrant where there was no evidence of bad faith police conduct"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/111/0515-01"
+      ]
+    },
+    {
+      "cite": "474 F.3d 1105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5712284
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1113",
+          "parenthetical": "concluding that where police conduct was a \"mistaken exercise of otherwise legitimate police investigation,\" seizure was \"more innocuous than damning\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/474/1105-01"
+      ]
+    },
+    {
+      "cite": "564 F.3d 964",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4239756
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "973",
+          "parenthetical": "concluding that a traffic stop initiated as part of patrol but based on an unreasonable mistake was not the type of blatantly unconstitutional or flagrant behavior condemned in Brown"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/564/0964-01"
+      ]
+    },
+    {
+      "cite": "439 F.3d 490",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        31264
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/439/0490-01"
+      ]
+    },
+    {
+      "cite": "79 F.3d 973",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9052155
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "980"
+        },
+        {
+          "page": "980",
+          "parenthetical": "acknowledging that acts such as issuing Miranda warnings, telling the defendant he is free to leave, and advising the defendant that he may refuse consent \"may satisfy the requirement of intervening circumstances\" (internal quotation marks and citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/79/0973-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 590",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9639
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "603-04"
+        },
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0590-01"
+      ]
+    },
+    {
+      "cite": "2005-NMCA-129",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        2548568
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/138/0544-01"
+      ]
+    },
+    {
+      "cite": "371 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "weight": 4,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "491",
+          "parenthetical": "concluding that releasing the petitioner on his own recognizance rendered \"the connection between the arrest and the [evidence] ... 'so attenuated as to dissipate the taint.' \" (internal quotation marks and citation omitted)"
+        },
+        {
+          "page": "488"
+        },
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-046",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4245815
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0134-01"
+      ]
+    },
+    {
+      "cite": "94 N.M. 436",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1573244
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/94/0436-01"
+      ]
+    },
+    {
+      "cite": "1980-NMSC-066",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 N.M. 713",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        322249
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0713-01"
+      ]
+    },
+    {
+      "cite": "318 P.3d 180",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-021",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4078371
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0433-01"
+      ]
+    },
+    {
+      "cite": "119 N.M. 788",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1561306
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/119/0788-01"
+      ]
+    },
+    {
+      "cite": "1995-NMCA-028",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1290,
+    "char_count": 30690,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24682674549751743
+    },
+    "sha256": "29ddae56280c707b947e47c803591f44dc863cab4fe0844ac9f4fe7b46c7597c",
+    "simhash": "1:33d0e22668021ea2",
+    "word_count": 4972
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Freddie J. Romero, District Judge",
+      "RODERICK T. KENNEDY, Judge",
+      "MICHAEL D. BUSTAMANTE, Judge",
+      "TIMOTHY L. GARCIA, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. JOHN MONAFO, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nKENNEDY, Judge.\n{1} Appellee has filed a motion for rehearing in this matter, which has been considered by the original panel, and is hereby granted. The opinion filed July 5, 2016, is hereby withdrawn, and this Opinion is filed in its stead.\n{2} Immediately after releasing Defendant from a traffic stop, officers twice pulled him over to investigate ownership of a van he was towing. As a result, Defendant entered a conditional plea to unlawful taking of a motor vehicle, reserving his right to contest the constitutionality of the second stop and search of a receipt book. We agree with the district court that the second stop was sufficiently attenuated from the first. The deputy’s review of the entire receipt book, however, was not completely justified by the limited extent of Defendant’s consent to search.\nI. BACKGROUND\n{3} On July 1, 2011, Defendant, John Monafo, was driving a flat-bed tow truck, towing a van in Chaves County, New Mexico. Deputy James Seely stopped Defendant, believing Defendant had committed a traffic violation. The reasons for, and facts of, that stop are not material to this appeal. At some point, Francisco Castro arrived at the scene of his own accord. In a side conversation with another officer on the scene, Castro stated that he owned the van on the truck and that he had not given permission for anyone to remove it from his property. It seems from the record that this conversation took place while Deputy Seely was dealing with Defendant.\n{4} Deputy Seely, apparently unaware of Castro’s conversation with the other officer on scene, released Defendant from the stop. Deputy Seely began driving away from the scene. Once on the road, he received a dispatch from the scene informing him of Castro’s claims regarding the van, and he returned to the scene just as Defendant was pulling out onto the road. Deputy Seely activated his emergency lights, and Defendant pulled over immediately, stopping only a short distance away from where he had initially been stopped.\n{5} After conversing with Castro and the other officers on the scene, Deputy Seely approached Defendant’s driver’s side door and asked Defendant for a “bill of lading” or “manifest” for the van. Defendant retrieved a receipt book containing several receipts, opened it to the one relevant to the van, and gave it to Deputy Seely. Deputy Seely inquired about Cheri Loya, the individual who, according to the bill, consented to the removal of the van, and he requested a check of the driver’s license number listed in the bill. Deputy Seely then left the driver’s side door and walked toward the rear of the truck where two other officers were standing. Together, the officers first scrutinized the information on the bill, eventually looking through the other entries in the receipt book and finding another entry authorized by Ms. Loya. The signatures on the two bills appeared different, despite allegedly belonging to the same individual. Deputy Seely then discovered that the driver’s license number listed in the receipt for the van belonged to a woman with a different name and address than Loya’s. Deputy Seely arrested Defendant for the unlawful taking of a vehicle, contrary to NMSA 1978, § 30-16D-1 (2009).\nA. Procedural History\n{6} Traffic violations arising from the first stop were charged separately from the unlawful taking of a vehicle charge arising from the second stop. Defendant proceeded pro se in both cases. Having been convicted of the traffic violations in magistrate court, Defendant appealed those convictions, on which he was acquitted, after a de novo trial in the district court.\n{7} In this case, Defendant filed a motion to suppress the contents of the receipt book. The district court denied the motion, concluding that once Defendant gave Deputy Seely the receipt book, Deputy Seely “certainly [was] able to get into the items that he ha[d] in his hands.” Defendant also filed a motion to dismiss, which the district court characterized as a Foulenfont motion pursuant to State v. Foulenfont, 1995-NMCA-028, 119 N.M. 788, 895 P.2d 1329. Defendant’s motion suggested that the van did not qualify as a “vehicle” or “motor vehicle” under Section 30-16D-1, and instead was a “nonrepairable vehicle” outside the purview of the statute charged. After a hearing, the district court denied the motion to dismiss, reasoning that the facts could fit either definition, and concluding that it was for the jury to decide which definition was applicable in this case.\n{8} Defendant acquired counsel who filed another motion to suppress, asserting that all evidence obtained through the second stop should be suppressed, as no attenuation existed between the first illegal stop and the subsequently acquired evidence. The district court held a hearing on the motion. Denying Defendant’s motion to suppress, the district court held that sufficient attenuation existed because of Castro’s “fortuitous arrival.” Defendant ultimately entered a conditional plea, reserving the right to appeal previous orders of the district court. Defendant timely filed a notice of appeal.\nII. DISCUSSION\n{9} Defendant contests the district court’s denial of both motions to suppress and insists that the van in question is not a “vehicle” within the definition provided in the Motor Vehicle Code (the Code). Defendant asks that we suppress all evidence obtained as a result of the second stop, or, in the alternative, suppress all contents of the receipt book aside from the receipt for the van. Defendant requests suppression based on a lack of attenuation between the stops and an impermissible expansion of the scope of Defendant’s consent. The State urges that sufficient attenuation exists between the stops to justify admitting evidence obtained during the second stop.\nA. Suppression of Evidence Obtained During Second Stop\n{10} When reviewing a district court’s denial of a motion to suppress, appellate courts draw all reasonable inferences in favor of the district court’s ruling and defer to the district court’s findings of fact, so long as they are supported by substantial evidence. See State v. Murry, 2014-NMCA-021, ¶ 10, 318 P.3d 180. Rather than being limited to the record made on a motion to suppress, appellate courts “may review the entire record to determine whether there was sufficient evidence to support the trial court’s denial of the motion to suppress.” State v. Johnson, 1996-NMCA-1 17, ¶ 21, 122 N.M. 713, 930 P.2d 1165 (citing State v. Martinez, 1980-NMSC-066, ¶ 16, 94 N.M. 436, 612 P.2d 228 (holding that appellate courts consider the entire record on appeal, not just evidence presented during a suppression hearing, in affirming the denial of a motion to suppress)).\n{11} The parties do not dispute the invalidity of Deputy Seely’s first stop of Defendant, as found by the district court. Rather, the parties disagree on the effect that the first, unconstitutional stop has on subsequent events. Defendant argues, under the Fourth Amendment of the United States Constitution and Article II, Section 10 of the New Mexico Constitution, that all evidence obtained subsequent to the initial stop should be suppressed under the “fruit of the poisonous tree” doctrine, as there was no attenuation between the unconstitutional stop and the evidence in this case. The State argues that the evidence need not be excluded as the “fruit” of an illegal search.\n1. Fruit of the Poisonous Tree Doctrine\n{12} The “fruit of the poisonous tree” doctrine provides for suppression of “evidence that is obtained not only ‘during’ but ‘as a direct result of an unlawful seizure” when there are two distinct investigatory seizures by the police. See Garcia, 2009-NMSC-046, ¶ 23. The main inquiry under this doctrine is “ ‘whether . . . the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.’ ” Wong Sun v. United States, 371 U.S. 471, 488 (1963). In order to be purged of a taint of initial illegality, “there must be a break in the causal chain between the illegality and the consent.” State v. Monteleone, 2005-NMCA-129, ¶ 17, 138 N.M. 544, 123 P.3d 777. A break in the causal chain, or attenuation, from initial illegality provides an exception to the fruit of the poisonous tree doctrine’s bar to admitting evidence legally obtained through past police illegalities. See id. Attenuation is measured using three factors: (1) the temporal proximity of the illegal stop and the consent, (2) the presence ofintervening circumstances, and (3) the flagrancy of the official misconduct. See Brown v. Ill., 422 U.S. 590, 603-04 (1975); Monteleone, 2005-NMCA-129, ¶ 17.\n2. Attenuation Under the Fourth Amendment\n{13} Regarding the first Brown factor, the two stops were very close in both time and place. The initial, illegal stop finished less than a minute before Deputy Seely stopped Defendant for a second time. However, the first stop had finished, Deputy Seely had left, Defendant had put his car in motion to leave, and Castro’s story had not yet given rise to a request to detain him again. As such, the first Brown factor weighs only slightly in Defendant’s favor if at all. This segues neatly into the second Brown factor, by which we look at whether there was an intervening event that isolated Defendant from the coercive effects of the original illegal stop. See United States v. Gregory, 79 F.3d 973, 980 (10th Cir. 1996). Defendant argues that there was no intervening event, insisting that Castro’s arrival was not adequate to constitute an intervening circumstance. In our view, another, more persuasive, fact lends itself to our conclusion that an intervening event occurred in this case.\n{14} The parties are in agreement that Deputy Seely released Defendant from the first stop. They disagree, however, on whether Defendant’s actions in attempting to leave created sufficient attenuation between the first and second stop. It hardly matters here, as Deputy Seely himself had departed the stop prior to Defendant. Defendant began driving away from the scene, though he did not get far before being stopped for the second time. Because Deputy Seely’s release of Defendant, and Defendant’s departure resulting from that release, occurred after the illegal stop but prior to the second stop and Defendant’s consent, we conclude it constitutes an intervening circumstance under the Fourth Amendment. See, e.g., Gregory, 79 F.3d at 980 (acknowledging that acts such as issuing Miranda warnings, telling the defendant he is free to leave, and advising the defendant that he may refuse consent “may satisfy the requirement of intervening circumstances” (internal quotation marks and citation omitted)); cf. Wong Sun, 371 U.S. at 491 (concluding that releasing the petitioner on his own recognizance rendered “the connection between the arrest and the [evidence] ... ‘so attenuated as to dissipate the taint.’ ” (internal quotation marks and citation omitted)). The second Brown factor therefore weighs in the State’s favor.\n{15} To fulfill the third Brown factor, Defendant would have to establish purposeful and flagrant official misconduct where: (1) the impropriety was obvious, or the official knew his conduct was likely unconstitutional but continued nonetheless; or (2) the misconduct was investigatory in design and purpose. United States v. Simpson, 439 F.3d 490, 496 (8th Cir. 2006); Brown, 422 U.S. at 605. There is no evidence of misconduct with regard to Castro’s arrival at the scene, and Defendant concedes that the district court’s finding that C astro ’ s arrival was fortuitous and unanticipated is supported by the evidence. Defendant hints at purposeful investigatory misconduct in the facts of the first stop. We have previously affirmed the district court’s decision regarding the first stop in a memorandum opinion, State v. Monafo, No. 32,315, mem. op. (N.M. Ct. App. Nov. 15, 2012) (non-precedential), based not on intentional misconduct but a mistake of law. It is not necessary here to take up Defendant’s invitation to re-visit the facts and legal issues presented therein.\n{16} Though Deputy Seely’s mistake of law in making the first stop of Defendant may have been objectively unreasonable, an unreasonable mistake alone is not sufficient to establish flagrant misconduct in an attenuation analysis. E.g., United States v. Barnum, 564 F.3d 964, 973 (8th Cir. 2009) (concluding that a traffic stop initiated as part of patrol but based on an unreasonable mistake was not the type of blatantly unconstitutional or flagrant behavior condemned in Brown); United States v. Herrera-Gonzalez, 474 F.3d 1105, 1113 (8th Cir. 2007) (concluding that where police conduct was a “mistaken exercise of otherwise legitimate police investigation,” seizure was “more innocuous than damning”); United States v. Green, 111 F.3d 515, 523 (7th Cir. 1997) (concluding violation was not flagrant where there was no evidence of bad faith police conduct); United States v. Boone, 62 F.3d 323, 325 (10th Cir. 1995) (acknowledging that, where an officer acted upon mistaken belief in violating the Fourth Amendment, such conduct did not rise to the level of flagrant misconduct in attenuation analysis); United States v. Pimental, 645 F.2d 85, 86-87 (1st Cir. 1981) (concluding that where an officer acted on a mistaken belief that consent had been given, a Fourth Amendment violation was not flagrant misconduct). The exclusionary rule exists to discourage police misconduct. Application of the rule when police action, though erroneous, was not undertaken in a flagrant and purposeful violation of the suspect’s protected rights does nothing to further that purpose. Thus, absent any evidence of bad faith, knowledge, or investigatory purpose, we conclude that Deputy Seely’s first stop of Defendant, while a Fourth Amendment violation, was neither flagrant nor purposeful misconduct for purposes of our attenuation analysis. The third Brown factor therefore weighs in favor of the State.\n{17} Weighing the three Brown factors together, we conclude that Defendant’s Fourth Amendment claim must fail. As such, we turn to an analysis of whether Defendant fares better under Article II, Section 10 of the New Mexico Constitution.\n3. Attenuation Under Article II, Section 10\n{18} Defendant suggests that under Article II, Section 10, we should afford the third Brown factor “little or no value.” In support of this position, Defendant argues that the third factor embodies the purpose of the exclusionary rule under the United States Constitution and that it differs so significantly from the purposes driving the exclusionary rule in New Mexico that the third Brown factor is rendered superfluous. Under the facts of this case, even if we were to assume arguendo Defendant’s analysis is correct, he would not prevail; we therefore do not need to address Defendant’s contention.\n{19} Removing consideration of the third Brown factor would result in an analysis based solely on the temporal proximity and intervening event factors alone because, as Defendant claims in his brief, those factors “have more to do with establishing a causal connection” anyway. Here, the temporal proximity of the illegal acts and the evidence sought to be suppressed is a minute at best. However, the intervening event of Defendant’s release and his beginning to leave weighs strongly in the State’s favor, just as it did in the Fourth Amendment analysis. See State v. Hernandez, 1997-NMCA-006, ¶ 34, 122 N.M. 809, 932 P.2d 499 (finding no attenuation where the defendant was in constant custody between the illegal detention and her giving consent to search despite no independent jurisdiction on the part of the police to do so). Following Defendant’s proposed interpretation of attenuation, we are’therefore left to balance these two factors, neither of which weighs in favor of Defendant.\n{20} Evaluating attenuation is a highly fact-specific process. In State v. Figueroa, we noted that evaluating intervening circumstances was limited to the facts of the case: “A different result may occur where an officer is careful to clearly establish a transformation in the encounter.” 2010-NMCA-048, ¶¶ 33, 35, 148 N.M. 811, 242 P.3d 378. An officer could not more clearly impress upon a suspect that his encounter with a police officer has terminated than allowing him to leave, as Deputy Seely did here. Though Defendant’s freedom to leave the stop was short-lived, he was unquestionably released from the encounter, and had put his truck in motion to leave when Deputy Seely was called back to the scene. Here, where there was a complete end to the first stop and a clear beginning to the subsequent stop, attenuation between the two stops, in both time and purpose, is complete. The short amount of time between the two is not significant to our analysis here.\n{21} Taking all of the circumstances surrounding the incident into consideration, id. ¶ 33, we conclude that the existence of an intervening event outweighs the importance of any temporal proximity under the facts of this case because the attenuation analysis is, above all, aimed at preventing exploitation of an illegality. Wong Sun, 371 U.S. at 488. Not only is there no evidence of such exploitation in this case, Deputy Seely’s release of Defendant is evidence that he harbored no expectation that he would any longer obtain any evidence “as a direct result of’ the first stop. Id. at 485. Thus, Deputy Seely returned Defendant to the position that he would have been in had his rights not been violated, i.e., traveling down the road of his own free will, before the second stop. When Defendant was stopped the second time, the basis for the stop was unrelated to the first encounter as if the first had not occurred. See Wagoner, 2001-NMCA-014, ¶ 30 (stating purpose of state exclusionary rule is accomplished by “doing no more than return the parties to where they stood before the right was violated.” (internal quotation marks and citation omitted)). Because Defendant does not prevail on this issue, we need not address the State’s additional argument that evidence obtained during the second stop should not be excluded because of the independent source doctrine.\nB. Consent to Search the Receipt Book\n{22} Having concluded that evidence obtained during the second stop need not be excluded as fruit of a poisonous tree, we next address Defendant’s assertion that the district court erred in denying his motion to suppress the contents of the receipt book, save the single receipt for the van that he was towing. The State asserts that Defendant consented to Deputy Seely’s search of the entire receipt book by handing it over during the stop without qualifying or limiting that consent.\n{23} The scope of a consensual search is defined by, and limited to, the actual consent given. State v. Garcia, 1999-NMCA-097, ¶ 9, 127 N.M. 695, 986 P.2d 491. The scope of consent is an objective inquiry, constrained by the bounds of reasonableness. State v. Mosley, 2014-NMCA-094, ¶ 24, 335 P.3d 244. Courts may rely on social norms when determining “what a reasonable person would have understood by the exchange between the officer and the suspect.” Garcia, 1999-NMCA-097, ¶ 9. Courts must also consider “what a police officer could reasonably interpret the consent to encompass.” Id. ¶ 13 (internal quotation marks and citation omitted). A search is invalid if it exceeds the scope of the consent given. Id. ¶ 9.\n{24} The evidence shows that Deputy Seely approached Defendant’s truck and requested documentation specific to the van in tow: “Can you show me a bill of lading again? Your manifest to pick this up?” Defendant complied. While looking at the receipt specific to the van, Deputy Seely questioned Defendant as to the information it contained and ran a check on the driver’s license number listed on the receipt. Still holding the receipt book, Deputy Seely walked away from Defendant’s driver’s side door, joined two other officers at the rear of the truck, and began leafing through the receipt book.\n{25} The State asks us to conclude that Defendant’s failure to limit or qualify his consent constitutes a broad, sweeping statement of consent that encompassed the entire receipt book. We decline to draw such a conclusion under the facts of this case. Deputy Seely made a specific request to see the receipt for a specific vehicle, and Defendant complied with that request by opening the receipt book to the relevant page. A reasonable person in that situation would have understood Defendant’s consent to have been limited to that specific page or document. It was not reasonable for Seely to assume that physical possession of the receipt book, which was given to facilitate a close inspection of the information on the receipt, allowed him to flip through the entire receipt book and examine the contents of all pages. Deputy Seely asked only for the single receipt rather than the entire receipt book, and he received the specific page he requested. We therefore conclude that Defendant’s consent was limited to the receipt for the van, and that Seely impermissibly expanded the scope of that consent. As such, the contents of the receipt book, and evidence obtained therefrom, should be suppressed. However, because Deputy Seely obtained the receipt with Defendant’s consent, the single receipt for the van need not be suppressed.\n{26} That said, our decision regarding the exclusion of the receipt book does not remove Deputy Seely’s probable cause for arrest, as it appears from the evidence that Deputy Seely ran a check on the (ultimately false) driver’s license number on the receipt before flipping through the rest of the receipt book. Thus, when Deputy Seely discovered that the license number did not match the name and address given on the receipt, he had probable cause to believe Defendant had committed a felony and exigency could be presumed. See Campos v. State, 1994-NMSC-012, ¶ 14, 117 N.M. 155, 870 P.2d 117 (stating that for a warrantless arrest to be reasonable, the arresting officer must have probable cause and some exigency must exist; where an officer “observes the person arrested committing a felony, exigency will be presumed”); State v. Paananen, 2015-NMSC-031, ¶ 26, 357 P.3d 958 (holding that “there are other situations in which an exigency not necessarily amounting to an imminent threat of danger, escape, or lost evidence will be sufficient to render reasonable a warrantless public arrest supported by probable cause under the totality of the circumstances”); Section 30-16D-l(A) (listing the “taking of a vehicle or motor vehicle” as a felony offense).\nC. Definition of “Vehicle” Under NMSA 1978, § 66-1-4.12(B) (2007, amended 2016)\n{27} Defendant’s appeal also raises the question of whether the terms “vehicle” or “motor vehicle” can be interpreted to cover the van involved in this case. Defendant first raised this issue in his pro se motion to dismiss, which the district court interpreted as a motion under Foulenfont, 1995-NMCA-028, ¶ 5 (deeming it proper for the district court to dismiss criminal charges on purely legal grounds when the district court assumes the facts underlying the charges are true). The district court denied the motion, deeming the issue a question of fact for the jury to decide. See State v. Hughey, 2007-NMSC-036, ¶ 11, 142 N.M. 83, 163 P.3d 470 (stating the rule that “where a motion involves factual matters that are not capable of resolution without a trial on the merits, the trial court lacks the authority to grant the motion prior to trial”). If the State could reasonably assert the availability of additional evidence, pretrial dismissal under Rule 5-601(B) NMRA is inappropriate. State v. Gomez, 2003-NMSC-012, ¶ 7, 133 N.M. 763, 70 P.3d 753. We review issues of statutory interpretation de novo. State v. Carbajal, 2002-NMSC-019, ¶ 3, 132 N.M. 326, 48 P.3d 64. When a statute “specifically defines a term, we interpret the statute according to those definitions, because those definitions reflect legislative intent.” State v. Smith, 2009-NMCA-028, ¶ 13, 145 N.M. 757, 204 P.3d 1267.\n{28} Defendant asserts that the van in question in this case is a “nonrepairable vehicle” under the Code, Section 66-1-4.12(B), rather than a “vehicle” or “motor vehicle” as named in Section 30-16D-1. The State asserts that the van satisfies the definition of “vehicle” under the Code. Section 30-16D-1(A) prohibits the unlawful taking of a vehicle or motor vehicle. It defines an unlawful taking as “a person taking any vehicle or motor vehicle as defined by the Motor Vehicle Code . . . intentionally and without consent of the owner.” Id. The Code defines a “vehicle” as “every device in, upon or by which any person or property is or may be transported or drawn upon a highway, including any frame, chassis, body or unitized frame and body of any vehicle or motor vehicle, except devices moved exclusively by human power or used exclusively upon stationary rails or tracks}.]” NMSA 1978, § 66-1-4.19(B) (2005). The Code defines a “motor vehicle” as “every vehicle that is self-propelled and every vehicle that is propelled by electric power obtained from batteries or from overhead trolley wires, but not operated upon rails[.]” NMSA 1978, § 66-1-4.11(H) (2015). A “nonrepairable vehicle” is “a vehicle of a type otherwise subject to registration that: (1) has no resale value except as a source of parts or scrap metal” and has been “irreversibly designat[ed]” as such; or (2) has been stripped as a result of theft and “has little or no resale value other than its worth as a source of a vehicle identification number that could be used illegally))]” Section 66-1-4.12(B)(1)-(2).\n{29} The evidence contained in the record reveals that Castro purchased the van knowing that its engine was not working, but with an eye toward making repairs that would eventually render it operable. The van had a smashed window, was missing headlights, and the previous owner had used it for parts. The State asserted that Castro may have changed his mind regarding this issue, butbefore acting to fix or stip the van, the van was taken from his possession without his consent. The State further pointed out in its motion that there was no “nonrepairable vehicle certificate” for the vehicle in question.\n{30} Based on the facts in the record, this is a matter to be resolved by the fact-finder during trial. The statutory definitions and the limited evidence presented prior to trial reveal that the fact-finder could reasonably conclude that the van was a vehicle or a nonrepairable vehicle. Because it is not clear what evidence could be presented at trial or how the fact-finder would weigh the evidence presented, it is inappropriate for this Court to speculate as to the outcome of this factual issue. See Hughey, 2007-NMSC-036, ¶ 16 (“It.is the role of the fact[-]finder to judge the credibility of witnesses and determine the weight of evidence.”). We therefore affirm the district court’s denial of Defendant’s motion.\nIII. CONCLUSION\n{31} There was sufficient attenuation between the first and second stop to purge any taint resulting from the illegal first stop. Evidence obtained from the receipt book, except the receipt for the van, however, must be excluded because Deputy Seely only obtained consent for the receipt alone. As such, flipping through the rest of the receipt book was an impermissible expansion of the scope of Defendant’s consent. We partially reverse the district court’s denial of Defendant’s motion to suppress the receipt book, excluding that greater portion of the book other than the receipt relevant to the vehicle in question, permitted by Defendant’s consent. Based on this reversal, we remand to the district court to afford Defendant a chance to withdraw his plea, should he deem it prudent to do so. See State v. Hodge, 1994-NMSC-087, ¶ 20, 118 N.M. 410, 882 P.2d 1 (stating the rule that if a defendant prevails on appeal, he is allowed to withdraw his plea).\n{32} IT IS SO ORDERED.\nRODERICK T. KENNEDY, Judge\nWE CONCUR:\nMICHAEL D. BUSTAMANTE, Judge\nTIMOTHY L. GARCIA, Judge\nThe district court’s decision states that the stop occurred on December 11,2010.\norder to promote clarity, wo follow the district court’s lead in referring to these items as the receipt, and refer to the book in which it, and others like it, is kept as the receipt book.\nThough immaterial to our consideration of this case, we note that a “regrettable” mistake of law on the officer’s part may not invalidate a traffic stop under the Fourth Amendment. Heien v. N.C.,_U.S._,_, 135 S. Ct. 530, 540 (2014).\nNew Mexico case law is inconsistent regarding whether “all taint” must be removed, or whether purging the evidence of the “primary taint” is sufficient. Compare e.g., State v. Prince, 2004-NMCA-127, ¶ 20, 136 N.M. 521, 101 P.3d332 (holding consent must be purged from all taint) with e.g., State v. Wagoner, 2001-NMCA-014, ¶ 22, 130 N.M. 274, 24 P.3d 306 (noting that evidence unassociated with the “primary taint” may be admissible).\nAs support for this contention, Defendant points to the length of the detention and the nature of the traffic citations issued, as evidence that Deputy Seely was fishing for additional violations.\nWith regard to the State’s suggestion that consent must be exactly and conclusively limited, requiring such a qualification seems unrealistic in light of the stark reality that such statements could give rise to the “suspicious” or “furtive” behavior that often gives rise to probable cause or reasonable suspicion. See State v. Leyva, 2011-NMSC-009, ¶ 24, 149 N.M. 439, 250 P.3d 861 (quoting United States v. Broomfield, 417 F.3d 654, 655 (7th Cir. 2005) (“Whether you stand still or move, drive above, below, or at the speed limit, you will be described by the police as acting suspiciously should they wish to stop or arrest you.”)).\nThe Code requires nonrepairable vehicle certificates, which is a “vehicle ownership document conspicuously labeled ‘NONREPAIRABLE’ issued to the owner[.]” Section 66-l-4.12(C).",
+        "type": "majority",
+        "author": "KENNEDY, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM W alter Hart, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Bennett J. Bauer, Chief Public Defender Matthew J. O’Gorman, Assistant Appellate Defender Santa Fe, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, September 22, 2016,\nNo. S-1-SC-36054\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-092\nFiling Date: July 28, 2016\nDocket No. 33,639\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. JOHN MONAFO, Defendant-Appellant.\nFreddie J. Romero, District Judge\nHector H. Balderas, Attorney General Santa Fe, NM W alter Hart, Assistant Attorney General Albuquerque, NM for Appellee\nBennett J. Bauer, Chief Public Defender Matthew J. O’Gorman, Assistant Appellate Defender Santa Fe, NM for Appellant"
+  },
+  "file_name": "1705-01",
+  "first_page_order": 574,
+  "last_page_order": 584
+}

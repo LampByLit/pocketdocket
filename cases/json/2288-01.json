@@ -1,0 +1,1291 @@
+{
+  "id": 6787715,
+  "name": "In the Matter of Brennan Center for Justice at NYU School of Law et al., Petitioners, v. New York State Board of Elections, Respondent",
+  "name_abbreviation": "Brennan Center for Justice v. New York State Board of Elections",
+  "decision_date": "2016-03-16",
+  "docket_number": "",
+  "first_page": "246",
+  "last_page": "269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 246"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 N.Y.S.3d 758"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "100 NY2d 801",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579643
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0801-01"
+      ]
+    },
+    {
+      "cite": "58 NY2d 679",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391091
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/58/0679-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 224",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374473
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0224-01"
+      ]
+    },
+    {
+      "cite": "285 NY 272",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045398
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/285/0272-01"
+      ]
+    },
+    {
+      "cite": "5 NY2d 780",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2250432,
+        2250466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/5/0780-01",
+        "/ny-2d/5/0780-02"
+      ]
+    },
+    {
+      "cite": "4 NY2d 777",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2248347,
+        2248293
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/4/0777-02",
+        "/ny-2d/4/0777-01"
+      ]
+    },
+    {
+      "cite": "2 AD2d 34",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2912188
+      ],
+      "pin_cites": [
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/2/0034-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 527",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331611
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0527-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 889",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4377924
+      ],
+      "pin_cites": [
+        {
+          "page": "891"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0889-01"
+      ]
+    },
+    {
+      "cite": "212 AD2d 293",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1201678
+      ],
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/212/0293-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 411",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4415398
+      ],
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0411-01"
+      ]
+    },
+    {
+      "cite": "246 AD2d 217",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        690666
+      ],
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/246/0217-01"
+      ]
+    },
+    {
+      "cite": "112 AD3d 1174",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3759603
+      ],
+      "pin_cites": [
+        {
+          "page": "1176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/112/1174-01"
+      ]
+    },
+    {
+      "cite": "369 US 186",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166554
+      ],
+      "pin_cites": [
+        {
+          "page": "208-237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0186-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2344751
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "535"
+        },
+        {
+          "page": "535"
+        },
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0525-01"
+      ]
+    },
+    {
+      "cite": "256 NY 298",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1996230
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "305"
+        },
+        {
+          "page": "305"
+        },
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/256/0298-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4421427
+      ],
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0158-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436029
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0382-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 913",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 NY2d 588",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4386599
+      ],
+      "pin_cites": [
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/57/0588-01"
+      ]
+    },
+    {
+      "cite": "470 US 1075",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11325909,
+        11325994,
+        11326075,
+        11325853
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/1075-02",
+        "/us/470/1075-03",
+        "/us/470/1075-04",
+        "/us/470/1075-01"
+      ]
+    },
+    {
+      "cite": "63 NY2d 424",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393920
+      ],
+      "pin_cites": [
+        {
+          "page": "441"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/63/0424-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 997",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4416953,
+        4418157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0997-01",
+        "/ny-2d/75/0997-02"
+      ]
+    },
+    {
+      "cite": "16 NY3d 360",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3746867
+      ],
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0360-01"
+      ]
+    },
+    {
+      "cite": "332 US 747",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        365478,
+        365079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/332/0747-01",
+        "/us/332/0747-02"
+      ]
+    },
+    {
+      "cite": "332 US 194",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        365064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/332/0194-01"
+      ]
+    },
+    {
+      "cite": "303 NY 46",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2225423
+      ],
+      "pin_cites": [
+        {
+          "page": "50-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/303/0046-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 222",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311764
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "231"
+        },
+        {
+          "page": "230-235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0222-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 753",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4420036
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "757"
+        },
+        {
+          "page": "757"
+        },
+        {
+          "page": "758"
+        },
+        {
+          "page": "758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0753-01"
+      ]
+    },
+    {
+      "cite": "23 NY3d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4226957
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0001-01"
+      ]
+    },
+    {
+      "cite": "38 NY2d 6",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2321376
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "11"
+        },
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/38/0006-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 716",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 AD3d 1064",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        516298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/18/1064-01"
+      ]
+    },
+    {
+      "cite": "5 AD3d 593",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        86937
+      ],
+      "pin_cites": [
+        {
+          "page": "593-594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/5/0593-01"
+      ]
+    },
+    {
+      "cite": "124 AD2d 911",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5694041
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/124/0911-01"
+      ]
+    },
+    {
+      "cite": "54 AD2d 337",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3001831
+      ],
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/54/0337-01"
+      ]
+    },
+    {
+      "cite": "62 AD2d 416",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5497675
+      ],
+      "pin_cites": [
+        {
+          "page": "417-418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/62/0416-01"
+      ]
+    },
+    {
+      "cite": "25 AD3d 172",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1007590
+      ],
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/25/0172-01"
+      ]
+    },
+    {
+      "cite": "93 NY2d 273",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        188399
+      ],
+      "pin_cites": [
+        {
+          "page": "278-279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/93/0273-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 579",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725020
+      ],
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0579-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 1290",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4009582
+      ],
+      "pin_cites": [
+        {
+          "page": "1291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/1290-01"
+      ]
+    },
+    {
+      "cite": "497 US 871",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220451
+      ],
+      "pin_cites": [
+        {
+          "page": "883"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0871-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 406",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        76032
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "413"
+        },
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0406-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 401",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189101
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "409-410"
+        },
+        {
+          "page": "409-410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0401-01"
+      ]
+    },
+    {
+      "cite": "50 AD3d 1296",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3529196
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1297"
+        },
+        {
+          "page": "1297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/50/1296-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 1202",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4135411
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1203"
+        },
+        {
+          "page": "1203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/1202-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 1276",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4277381
+      ],
+      "pin_cites": [
+        {
+          "page": "1277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/1276-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 207",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 NY2d 761",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418497
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "769"
+        },
+        {
+          "page": "769"
+        },
+        {
+          "page": "769"
+        },
+        {
+          "page": "774"
+        },
+        {
+          "page": "778"
+        },
+        {
+          "page": "774"
+        },
+        {
+          "page": "773-774"
+        },
+        {
+          "page": "774"
+        },
+        {
+          "page": "778"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0761-01"
+      ]
+    },
+    {
+      "cite": "275 AD2d 557",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        505858
+      ],
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/275/0557-01"
+      ]
+    },
+    {
+      "cite": "2014 NY Slip Op 31532",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 NY2d 39",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2314405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/35/0039-01"
+      ]
+    },
+    {
+      "cite": "24 AD3d 544",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        979452
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/24/0544-01"
+      ]
+    },
+    {
+      "cite": "79 AD3d 207",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3995573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/79/0207-01"
+      ]
+    },
+    {
+      "cite": "43 NY2d 493",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0493-01"
+      ]
+    },
+    {
+      "cite": "159 NYS2d 6",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 AD3d 1398",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4047691
+      ],
+      "pin_cites": [
+        {
+          "page": "1400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/90/1398-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 30",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984157
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "34"
+        },
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0030-01"
+      ]
+    },
+    {
+      "cite": "237 AD2d 718",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        187187
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "720-721"
+        },
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/237/0718-01"
+      ]
+    },
+    {
+      "cite": "76 NY2d 779",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2350812
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0779-01"
+      ]
+    },
+    {
+      "cite": "150 AD2d 45",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3585411
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "53"
+        },
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/150/0045-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 186",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5689171
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "194"
+        },
+        {
+          "page": "194"
+        },
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0186-01"
+      ]
+    },
+    {
+      "cite": "63 AD3d 1416",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3935830
+      ],
+      "pin_cites": [
+        {
+          "page": "1418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/63/1416-01"
+      ]
+    },
+    {
+      "cite": "244 AD2d 823",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        402940
+      ],
+      "pin_cites": [
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/244/0823-01"
+      ]
+    },
+    {
+      "cite": "55 NY2d 216",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4384370
+      ],
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/55/0216-01"
+      ]
+    },
+    {
+      "cite": "173 AD2d 60",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1040870
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "63"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/173/0060-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 357",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331369
+      ],
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0357-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 402",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338151
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "408"
+        },
+        {
+          "page": "408"
+        },
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0402-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 990",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2324155
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "992"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0990-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374385
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0161-01"
+      ]
+    },
+    {
+      "cite": "26 NY3d 301",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4130329
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "311"
+        },
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/26/0301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1905,
+    "char_count": 54396,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 6.380125665320789e-8,
+      "percentile": 0.39397625112506557
+    },
+    "sha256": "d57977795a1efd52621931bb2b8329519478f8c1ea889277c6589546e715667d",
+    "simhash": "1:08ff561593177979",
+    "word_count": 8675
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Brennan Center for Justice at NYU School of Law et al., Petitioners, v New York State Board of Elections, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLisa M. Fisher, J.\nPetitioners, comprised of both a not-for-profit, nonpartisan public policy and law institute, and several former, current, and aspiring politicians who are New York residents and registered voters representing multiple party lines, commenced this hybrid CPLR article 78 proceeding/declaratory judgment action to challenge the action taken at respondent’s Commissioners’ meeting held on April 16, 2015. The pertinent part of such meeting involved campaign finance laws and limited liability companies (hereinafter LLCs).\nFactual Background\n1996 Opinion\nThis matter involves the infamously dubbed “LLC Loophole” and the campaign finance laws of the State of New York. Respondent New York State Board of Elections’ 1996 opinion (1996 Ops State Bd of Elections No. 1 [hereinafter 1996 Opinion]), dated January 30, 1996, is credited with birthing the “LLC Loophole.” The 1996 Opinion found that LLCs, which at the time were a recent creation of the legislature, were not subject to the corporate contribution limits in article 14 of the Election Law because the definitions contained in the Limited Liability Company Law distinguished them from corporations, partnerships and trusts, and other business organizations.\nThe 1996 Opinion continued stating, “[hjaving determined that limited liability companies are not subject to the corporate contribution limits of Article 14, it is appropriate that we determine what limits do apply to these business organizations. Federal Election Commission [FEC] Advisory Opinion 1995-11 is instructive for these purposes.” The 1996 Opinion noted the 1995-11 Advisory Opinion previously found that the definition of limited liability companies supported a finding that they were deemed “persons” subject to the individual contribution limits. Coupled with the definition from Limited Liability Company Law § 102 (w), the 1996 Opinion found that LLCs should be treated as persons and LLCs “may make contributions in their own right subject to the limit[ations] applicable to other individuals as enumerated in Article 14.”\nIn 1999, after essentially being affirmed five times (see Federal Election Commn Advisory Ops 1998-15, 1998-11, 1997-17, 1997-4, 1996-13), FEC Advisory Opinion 1995-11 and progeny were superseded. The FEC adopted new regulations that addressed the treatment of LLCs for the purposes of the Federal Election Campaign Act. (64 Fed Reg 37397-01 [1999], codified at 11 CFR 110.1 [g].) The new rules provided that LLCs will be treated as either partnerships or corporations, which is consistent with the tax treatment they select under the Internal Revenue Code. (64 Fed Reg 37397-01 [1999], codified at 11 CFR 110.1 [g].)\nIn 2007, a number of organizations solicited respondent to revisit the 1996 Opinion in light of the changed position from the FEC. Respondent replied that it would “undertak[e] a review of this issue and the relevant statutes,” but that “[a]n initial review indicates that a change in policy would require a statutory amendment.” No further action was taken.\nApril 2015 Decision\nIn 2015, respondent was again urged to revisit the 1996 Opinion. On April 16, 2015, respondent took up a motion by Cochair Commissioner Douglas Kellner, who prescribed “[t]he motion I want to put before the Commissioners is that the Commissioners direct our counsels to prepare an opinion that will rescind opinion 1996-1 and provide updated guidance on the applicability of article 14 to limited liability companies.” The motion was seconded by Cochair Commissioner Peter Kosinski.\nCochair Commissioner Kellner noted the impetus for this motion was at the requests of numerous organizations and individuals concerned over the classification of LLCs for campaign finance purposes. He proposed that LLCs should be treated as partnerships, and recounted how respondent handled partnerships before article 14 of the Election Law addressed them, to wit: Respondent set a threshold contribution amount per partnership before contributions had to be attributed to individual members, contrary to the manner in which the 1996 Opinion treated LLCs. Cochair Commissioner Kellner “urge[d] that we adopt a resolution to have our Counsels draft a new opinion on this subject” (emphasis added).\nCommissioner Andrew Spano then presented statistical findings and cited to public opinion sources. He noted that his position was not one of legality and the acceptance or nonacceptance of money, but based on notions of fairness and the state of campaign finances. Cochair Commissioner Kosinski acknowledged several individuals and entities were present, and permitted several individuals to speak.\nLawrence Norden, from petitioner Brennan Center for Justice at New York University (NYU) School of Law, remarked that the last election highlighted how LLCs are being used to circumvent individual contribution lists. He further noted that the Moreland Commission to Investigate Public Corruption identified this loophole as one of the problems in New York State’s campaign finance laws and that it was inapposite to the purpose of the campaign finance laws — that is, to prevent corruption.\nRachel Fauss, from Citizens Union which submitted the 2007 request to respondent, surmised that over 8,000 New Yorkers have written to respondent expressing the opinion that the loophole should be changed. She reiterated that there is significant public support for such a change.\nSusan Webber, a volunteer coordinator for MoveOn.org and member of the Board of Directors of the Albany Museum of Political Corruption, requested that respondent follow through and close the loophole. She opined that very few people vote because they do not think it matters when “big people” buy the policies which reflect their desires, not the desires of the voters.\nCochair Commissioner Kosinski presented his position that the 1996 Opinion was premised on New York State law, particularly the Limited Liability Company Law, and not the FEC Advisory Opinion which was superseded. He reasoned that, since the applicable statute has not been changed since 1996, the 1996 Opinion should not be changed. Kosinski opined that this is an issue for the capital and the legislature, “not a matter for an administrative agency, the State Board of Elections to decide.” Continuing, he stated, “[i]f the state legislature feels that limited liability companies should be limited in their contributions further than what they already are then that’s their prerogative to do so as they’ve done with corporations.” He recognized that many groups present at the meeting have spent considerable time at the legislature petitioning for such changes, but the legislature has declined to do so.\nFurther, Cochair Commissioner Kosinski opined:\n“it would be inappropriate for a state agency, a bureaucratic agency[,] to usurp the legislative prerogative and to administratively impose a new limit on an entity that’s been around for 20 years and that has been treated a certain way, that the legislature has chosen not to change despite a great deal of discussion over these many years about the potential change . . .\nHe believes respondent’s role is to administer the law, not make the law, and from his experience working in the legislature, he understands that the campaign finance contribution limits are a part of a “very complex scheme” which should be left to the legislature to determine and the respondent to enforce. Kosin-ski concluded by recognizing campaign contribution limits affect First Amendment rights in this country, which are state and federal constitutional issues that should not be manipulated by a state agency.\nCommissioner Gregory Peterson noted that he also spent many years in elected office. He acknowledged the considerable work and public sentiment presented at the meeting, but noted he now is in “an appointed office and this is an administrative body and if we were to work in an ultra vires manner meaning beyond our authority we are really short circuiting the responsibility of our elected officials.” Peterson stated that this public support for change should be focused on the elected officials and presented to them, who have a responsibility and duty to make changes in the law. He concluded by noting, “[w]e live in a democratic society, we have elected officials whose responsibility it is to make those changes.” Given that, Peterson stated he “can’t usurp the authority of our legislators and so I can’t support a change at this level. It’s the wrong place, it’s the wrong venue.”\nCommissioner Spano responded by noting that the initial ruling — which classified LLCs in the 1996 Opinion — was made by respondent and not the legislature. Cochair Commissioner Kosinski replied that the respondent was interpreting state law at the time. Spano questioned the process and history after the 1996 Opinion was issued. Both Kosinski and Kellner noted there were other unsuccessful requests made since the 1996 Opinion was issued to revisit or change it.\nCommissioner Spano called for a vote, to which Cochair Commissioner Kosinski responded first and noted that, since “nothing has changed statutorily since 1996 that would warrant changing what was said in 1996,” he believed the 1996 Opinion was still valid because it is respondent’s job to interpret the statute.\nIn response, Commissioner Spano noted the Commissioners are free to interpret the statute differently now if there is different evidence and support presented. Kosinski denied seeing any evidence or changes that would impact the analysis made in the 1996 Opinion. Spano disagreed, and indicated he was in favor of revisiting the 1996 Opinion.\nCommissioner Kellner agreed with Spano and believed that, because section 14-120 of the Election Law requires campaign contributions to be under the true name of the contributor, he thought it was illegal and a crime to use an entity as a mere conduit for a contribution. Thus, he believed that contributions through LLCs by an individual were a crime. He again urged that LLCs be treated as partnerships for the purposes of article 14 of the Election Law and voted in favor of the motion.\nCommissioner Kosinski voted no, clarifying his position is because it “has to do with who has the authority to render the applicable laws related to contribution limits in this state, and that’s something the state legislatures does [sic], not the State Board of Elections.” Commissioner Peterson agreed and also voted no. This resulted in a 2-2 vote which caused the motion to fail, and ended the public session of the Commissioners’ meeting (hereinafter April 2015 decision).\nPresent Application\nIn the instant CPLR article 78, petitioners argue that respondent’s April 16, 2015 “[d]ecision affirming the LLC Loophole was arbitrary and capricious and infected by errors of law.” Specifically, petitioners argue that it “undermines the central purpose of the State’s campaign finance scheme by allowing virtually unlimited and undisclosed contributions from LLCs that flout the Legislative scheme to limit the influence of special interests in general and artificial business entities in particular.” Petitioners claim that respondent’s decision renders LLCs unique among other business entities in New York, and there is no statutory justification for doing so. Petitioners also claim that the April 2015 decision “nullifies part of the statutory text of the Limited Liability Company Law, which requires examining the context when determining regarding how LLCs should be treated.” Additionally, petitioners note that respondent “failed to give effect to this language” and did not even quote it. Further, they claim that respondent has ignored the “weight of context” how LLCs are treated by other state agencies. As such, petitioners “request that this Court enter an order invalidating the April 2015 Decision, rescinding the 1996 Opinion, and Ordering [Respondent] to issue a new opinion or regulation consistent with the text and purpose of the Election and LLC Laws.” Petitioners also assert a second cause of action for a declaratory judgment.\nRespondent submitted a verified answer, asserting the following four affirmative defenses: (1) the four-month statute of limitations relative to the 1996 determination has expired; (2) the petition is barred by the doctrine of justiciability because it solely raises a political question reserved by the State Constitution for the legislative branch; (3) failure to state a claim; and (4) the actions of respondent, its Commissioners, and employees have been and at all relevant times were in full compliance with all applicable federal and state constitutional provisions, statutes, and regulations. Respondent also submits objections in points of law which further elaborate upon the affirmative defenses. More specifically, respondent contends that the court cannot usurp respondent’s discretionary power to maintain the status quo ante when a motion fails because such action was not arbitrary and capricious. Respondent further argues petitioners are without the power to compel respondent to perform an official duty clearly imposed by law and involving no exercise of discretion. As such, respondent claims that the court does not have the power to “cast” the “deciding vote” in this controversy. Moreover, respondent argues that petitioners have failed to name necessary parties, thereby warranting dismissal.\nIntervenors Edward Cox and the New York Republican State Committee (hereinafter collectively intervenors) also submitted a verified answer. They repeat respondent’s affirmative defenses, and also contend the relief sought by the petition violates principles of free speech and association of the New York State Constitution.\nDouglas Kellner and Andrew Spano submitted an amicus curiae brief (hereinafter collectively amicus curiae) in their official capacities as Democratic Commissioners of the respondent State Board of Elections. The amicus curiae brief joins with petitioners’ application in its entirety. In addition to repeating petitioners’ argument, they maintain there is “great public interest” standing in this matter. They further argue that all necessary parties have been properly added as the Commissioners are a part of respondent and do not need to be named individually since they face no individual liability.\nPetitioners submitted a reply, and contend that since the determination on April 2015 was to review and rescind the 1996 Opinion, the 1996 Opinion is also properly challengeable. Further, petitioners argue that the 1996 Opinion is a “continuing harm,” which tolls the statute of limitations. According to petitioners, if they were disqualified due to standing, the result would render respondent’s determination “completely shielded” from judicial review.\nFurthermore, petitioners’ reply contends whether the “LLC Loophole” is an arbitrary, capricious, or legally erroneous rule is a justiciable question and the entire purpose of this article 78. They note that, unlike respondent’s allegations — and those of the amicus curiae — the petition is not framed as a mandamus to compel. Rather, petitioners stress that it is a mandamus to review under CPLR 7803 (3), which has a different standard than what was argued by respondent (and the amicus curiae). As such, petitioners maintain this is not a political question, but a question of “pure legal interpretation” well within the court’s power. Petitioners further argue that closing the “LLC Loophole” would not infringe on any First Amendment rights given the federal case law and treatment of other organizations by New York law.\nThe court held oral argument on December 16, 2015 and narrowly focused the discussion on only standing and justicia-bility (political question). All parties that provided submissions were represented at the oral argument. It was also brought to the court’s attention that, after final submission of the papers but before oral argument, the Court of Appeals issued a decision regarding standing which was relevant to the present application (Matter of Sierra Club v Village of Painted Post, 26 NY3d 301, 311 [2015]). As such, the parties requested to review, brief, and submit arguments as to Matter of Sierra Club. The court permitted petitioners and the amicus curiae to submit a supplemental brief regarding only standing and justiciability, respondents and the intervenors to submit a supplemental brief, and then petitioners and amicus curiae to submit a supplemental reply.\nPetitioners submitted a supplemental brief arguing that they have standing under the “public interest doctrine.” Respondent’s supplemental brief argues that petitioners cannot properly allege or demonstrate that the failed, ministerial motion in April 2015 constitutes a determination opening up the 1996 Opinion for collateral attack.\nThe intervenors’ supplemental brief elaborates on respondent’s point, i.e., that the action before respondent was a motion to draft a proposed opinion that will rescind the 1996 Opinion. Stated otherwise, there was no proposed opinion to be voted on yet. In the intervenors’ view, respondent’s “action” was nothing more than a motion to assign counsel to begin the drafting process, which would result in the preparation of a draft that could be amended, reamended, and changed any number of times before a final vote. There was no new opinion as to the “LLC Loophole.” As to the alleged and perceived harms suffered by petitioner politicians, the intervenors note that the LLCs and other legislators are free to associate with whomever they want and can properly exclude another legislator from meetings, such as one of the petitioner politicians, simply because they “did not like her” or find another “repugnant.” Furthermore, they claim petitioners do not qualify for “great public interest” standing because they have no mandatory duty that they seek to compel, nor can there be grounds to compel because this is an exercise of judgment or discretion.\nPetitioners submitted a supplemental reply brief. In addition to reiterating prior points, they argued that a non-vote is a determination which is properly subject to review, and such determination was on the merits, thus permitting the court to address the 1996 Opinion.\nLegal Analysis\nAllocation of Resources and Statute of Limitations\nThere are differing views from petitioners and respondent as to what the challenged action is. In order to address this application, the court must first make this determination. Petitioners have painted the picture that respondent’s action was a failed vote on a motion to rescind and revise the 1996 Opinion to close the “LLC Loophole.” In contrast, respondent has portrayed it as a failed vote to assign counsel to begin the drafting process, which would result in the preparation of a draft that could be amended, reamended, and changed any number of times before a final vote.\nAccording to the transcript of the April 15, 2015 meeting, Cochair Commissioner Kellner stated the “motion I want to put before the Commissioners is that the Commissioners direct our counsels to prepare an opinion that will rescind opinion 1996-1 and provide updated guidance on the applicability of article 14 to limited liability companies.”\nTherefore, while the court agrees with petitioners that the motion was to rescind and revise the 1996 Opinion, the court also agrees with respondent that it was a vote to assign counsel to begin the drafting process of a new opinion. However, the position taken by petitioners is one of absolutes, namely that a successful vote would have closed the “LLC Loophole.” This is not true. On a successful vote, respondent was to rescind the 1996 Opinion and provide “updated guidance” on the applicability of article 14 and LLCs. In that updated guidance, respondent was free to issue another advisory opinion resulting in the same conclusion thus preserving the “LLC Loophole.” Petitioners’ construction of this motion into a dispositive dissolution of the “LLC Loophole” is a fiction the court will not accept as proper; the motion was merely a means to the end, but not necessarily the end as petitioners portray it to be.\nThus, the action being contested was nothing more than the ministerial act of directing respondent’s counsel to redraft a new opinion which could preserve, modify, or eliminate the “LLC Loophole.” As respondent and the intervenors point out, the court does not have any supervisory power over “acts of appointive and elective officials involving questions of judgment, discretion, allocation of resources and priorit[y]” (Matter of Lorie C., 49 NY2d 161, 171 [1980]; see Matter of Abrams v New York City Tr. Auth., 39 NY2d 990, 992 [1976] [“Here questions of judgment, discretion, allocation of resources and priorities inappropriate for resolution in the judicial arena are lodged in a network of executive officials, administrative agencies and local legislative bodies. To allow such actions would in effect attempt displacement, or at least overview by the courts and the plaintiffs in litigations, of the lawful acts of appointive and elective officials charged with the management of . . . public enterprises”]; accord Jones v Beame, 45 NY2d 402, 408 [1978] [“the judicial process is not designed or intended to assume the management and operation of the executive enterprise”]; James v Board of Educ. of City of N.Y, 42 NY2d 357, 368 [1977]).\nAs such, the article 78 branch of the petition must fail because the April 2015 decision is nothing more than a motion to begin drafting “updated guidance” on a new advisory opinion, which this court finds to be an allocation of resources and, thus, outside the purview of this court.\nThe court need not go any further as to the first cause of action under article 78.\nHowever, the court finds it important to note that, while petitioners’ challenge to respondent’s April 2015 action is timely, this does not allow petitioners to bootstrap the 1996 Opinion into the realm of judicial review. This appears to be petitioners’ manufactured purpose both in their papers and at oral argument. Nevertheless, the submissions from petitioners and the amicus curiae do not provide any cognizable theory as to how this is possible.\nThat is because it cannot be. Practically speaking, drafting a letter to an agency asking it to consider an advisory opinion from almost two decades ago cannot possibly revive the statute of limitations. To hold otherwise would eviscerate the finality afforded to litigants by the statute of limitations. No administrative agency’s decision would be safe from challenge. In fact, a position similar to that taken by petitioners has been rejected before by the Third Department. (See Matter of New York State Conference of Blue Cross & Blue Shield Plans v Cooper, 173 AD2d 60, 63 [3d Dept 1991] [finding petitioner’s letter request on Oct. 20, 1989 to an agency which failed to delete a paragraph in a trust agreement on Nov. 15, 1985 “did not serve to revive the already expired limitations period”]; see also Matter of De Milio v Borghard, 55 NY2d 216, 220 [1982] [finding where the petitioner sent a letter requesting reconsideration by an agency because the agency’s decision allegedly misconstrued certain facts, “(an) application for reconsideration of (an) administrative determination did not serve to extend the four-month limitations period”].)\nNor would it be just and equitable to condemn respondent for entertaining the request at the Commissioners’ meeting. Holding such review as a trigger to refresh the statute of limitations would create a chilling effect on agencies receiving future requests by concerned citizens — something petitioners certainly do not advocate for.\nSince the motion on April 16, 2015 was to rescind the 1996 Opinion and provide updated guidance on the applicability of article 14 of the Election Law on LLCs, a challenge to the 1996 Opinion is improper as time-barred. The limitations of time in a proceeding against a body or officer is governed by CPLR 217 (1), which requires such proceeding to be “commenced within four months after the determination to be reviewed becomes final and binding upon the petitioner.” The statute of limitations begins to run when the claim accrues. (CPLR 203 [a].) It is well-settled that the period accrues “when an aggrieved party is notified of an administrative determination that is unambiguous and certain in its effect” (see Matter of New York State Radiological Socy. v Wing, 244 AD2d 823, 825 [3d Dept 1997]; see also Matter of Town of Olive v City of New York, 63 AD3d 1416, 1418 [3d Dept 2009] [noting the accrual when the challenged determination “inflicts an ‘actual, concrete injury’ upon the petitioner” (citations omitted), quoting Walton v New York State Dept. of Correctional Servs., 8 NY3d 186, 194 (2007)]).\nHowever, where the petition challenges an agency’s quasi-legislative function, such as the issuance of regulations or decisions/opinions, New York courts have consistently held the accrual date to be the date of such promulgation or issuance rather than the date the individual petitioner was aggrieved by such regulation or opinion’s application. (See Matter of Owners Comm. on Elec. Rates v Public Serv. Commn. of State of N.Y., 150 AD2d 45, 53 [3d Dept 1989, Levine, J., dissenting], revd on dissenting op by 76 NY2d 779 [1990] [agreeing with dissenting opinion].) Here, no one contests that more than four months have elapsed since issuance of the 1996 Opinion, which is when it was “final and binding” (see Matter of New York State Rehabilitation Assn. v State of N.Y., Off. of Mental Retardation & Dev. Disabilities, 237 AD2d 718, 720-721 [3d Dept 1997] [holding that “official promulgation of the amended . . . regulations constituted notice to petitioners that the elimination of the rate appeals process, by which they were clearly aggrieved, was final and binding upon them for CPLR article 78 purposes”]; see also Walton, 8 NY3d at 194 [finding quasi-legislative acts and decisions of administrative agencies are subject to the four-month statute of limitations which begins to run when the agency’s actions are complete]; Matter of Best Payphones, Inc. v Department of Info. Tech. & Telecom. of City of N.Y., 5 NY3d 30, 34 [2005] [noting the statute of limitations begins to run when the agency “reached a definitive position”]). Therefore, any challenge to the 1996 Opinion would have had to occur four months after it was issued.\nPetitioners’ argument that the “LLC Loophole” is a continuing harm that tolls the statute of limitations is without merit. All but one of the cases they rely on involves appointments under the Civil Service Law which are inapplicable here. (See e.g. Matter of City of Saratoga Springs v City of Saratoga Springs Civ. Serv. Commn., 90 AD3d 1398, 1400 [3d Dept 2011]; Walsh v Police Commr. of City of N.Y., 159 NYS2d 6 [Sup Ct, NY County 1956, McGivern, J.]; Matter of Grossman v Rankin, 43 NY2d 493 [1977].) The only case not involving appointments was Town of Huntington v County of Suffolk (79 AD3d 207 [2d Dept 2010]). In Town of Huntington, the Appellate Division, Second Department, found the limitations period was “inapplicable” as the relief sought could not be granted on its face. The Second Department did not provide any analysis as to the viability of the continuing harm argument tolling the statute of limitations, but rather cited the general rule from Matter of Askew v New York City Dept. of Envtl. Protection (24 AD3d 544 [2d Dept 2005]). The Matter of Askew again involves appointments under the Civil Service Law, and cited to the seminal case articulating the continuing harm rule in the context of appointments under the Civil Service Law: Matter of Burke v Sugarman (35 NY2d 39 [1974]).\nIndeed, the continuing harm theory has been flatly rejected in contexts outside of appointments, and particularly so in the context of contesting a decision by an administrative agency. (See Jaronczyk v Nassau County Interim Fin. Auth., 2014 NY Slip Op 31532[U], *15 [Sup Ct, Nassau County 2014, Diamond, J.]. [“The continuing violation theory has consistently been rejected by the Courts of this State and, indeed, here, the harm alleged by the petitioners (each wage freeze) emanates from the distinct acts of passing two Resolutions for each separate wage freeze .... This Court will not allow a finding that a continuing harm flowed from what were fully completed, separate, and discrete acts to infinitely extend the Statute of Limitations”].) Further, the Appellate Division, Third Department, has made it clear that the enactment and implementation of a regulation does not allow a petitioner to claim they suffered a “continuing harm” (see Federation of Mental Health Ctrs. v DeBuono, 275 AD2d 557, 560 [3d Dept 2000] [“To allow an alleged continuing harm which flows from a fully completed, separate, discrete act to infinitely extend the Statute of Limitations, as petitioner seeks here, would vitiate the purpose underlying the limitations period”]; accord Matter of New York State Conference of Blue Cross & Blue Shield Plans v Cooper, 173 AD2d 60, 63 [3d Dept 1991] [rejecting the petitioner’s argument that agency’s action of improperly adopting a paragraph to set insurance rates was a continuing wrong]).\nTherefore, as it relates to petitioners’ attempt to challenge the 1996 Opinion, their application fails as untimely and their attempt to bootstrap the 1996 Opinion back into the realm of judicial review is without is merit.\nStanding\n“That an issue may be one of Vital public concern’ does not entitle a party to standing. Courts surely do provide a forum for airing issues of vital public concern, but so do public hearings and publicly elected legislatures, both of which have functioned here. By contrast to those forums, a litigant must establish its standing in order to seek judicial review.” (Society of Plastics Indus. v County of Suffolk, 77 NY2d 761, 769 [1991].)\n“Standing is a threshold determination, resting in part on policy considerations, that a person should be allowed access to the courts to adjudicate the merits of a particular dispute that satisfies the other justiciability criteria” (Society of Plastics Indus., 77 NY2d at 769). “Whether a person [or entity] seeking relief is a proper party to request an adjudication is an aspect of justiciability which, when challenged, must be considered at the outset of any litigation” (Society of Plastics Indus., 77 NY2d at 769).\nThe two-part test for determining standing is well-established under New York law. “First, a plaintiff must show ‘injury in fact,’ meaning that plaintiff will actually be harmed by the challenged administrative action” (New York State Assn. of Nurse Anesthetists v Novello, 2 NY3d 207, 211 [2004]; see Society of Plastics Indus., 77 NY2d at 774; see also Matter of Park Manor Rehabilitation & Health Care Ctr., LLC v Shah, 129 AD3d 1276, 1277 [3d Dept 2015]). The injury in fact must be based on more than “conjecture or speculation” (Matter of Animal Legal Defense Fund, Inc. v Aubertine, 119 AD3d 1202, 1203 [3d Dept 2014]; see Nurse Anesthetists, 2 NY3d at 211; see also Society of Plastics Indus., 77 NY2d at 778 [requiring “concrete injury”]). Petitioner must show that it “would suffer direct harm, injury that is in some way different from that of the public at large” (Matter of Save the Pine Bush, Inc. v Planning Bd. of Town of Clifton Park, 50 AD3d 1296, 1297 [3d Dept 2008], quoting Society of Plastics Indus., 77 NY2d at 774). Thus, such injury must be “special damage, different in kind and degree from the community generally” (Matter of Colella v Board of Assessors of County of Nassau, 95 NY2d 401, 409-410 [2000], quoting Matter of Sun-Brite Car Wash v Board of Zoning & Appeals of Town of N. Hempstead, 69 NY2d 406, 413 [1987]).\n“Second, the injury a plaintiff asserts must fall within the zone of interests or concerns sought to be promoted or protected by the statutory provision under which the agency has acted” (Nurse Anesthetists, 2 NY3d at 211, citing Society of Plastics Indus., 77 NY2d at 773-774, citing Lujan v National Wildlife Federation, 497 US 871, 883 [1990]; see Matter of Colella, 95 NY2d at 409-410; see also Matter of Diederich v St. Lawrence, 78 AD3d 1290, 1291 [3d Dept 2010]; Matter of Save the Pine Bush, 50 AD3d at 1297). The zone of interests “prerequisite ensures that a group or an individual ‘whose interests are only marginally related to, or even inconsistent with, the purposes of the statute cannot use the courts to further their own purposes at the expense of the statutory purposes’ ” (Matter of Transactive Corp. v New York State Dept. of Social Servs., 92 NY2d 579, 587 [1998], quoting Society of Plastics Indus., 77 NY2d at 774).\nAdditionally, there is a well-established test for associational and organizational standing, which requires that a petitioner “must show ... at least one of its members would have standing to sue, that it is representative of the organizational purpose [ ] it asserts and that the case would not require the participation of individual members” (Nurse Anesthetists, 2 NY3d at 211; accord Rudder v Pataki, 93 NY2d 273, 278-279 [1999]).\nHere, none of the petitioners have established that respondent’s tie vote on April 16, 2015 has caused them any injury-in-fact. As noted above, respondent’s action was to rescind and provide “updated guidance” in a new advisory opinion which, even if it had been a successful vote, would not guarantee closing the “LLC Loophole.” It would be far too speculative to hold otherwise. As also noted above, any assault on the 1996 Opinion is barred as untimely. Therefore, the first step of the standing test is not met.\nEven assuming arguendo that the vote was to close the “LLC Loophole” like petitioners contend, none of the petitioners have suffered any direct harm or injury including under the associational or organizational test. The argument that a candidate would have won or had a viable campaign if not for the “LLC Loophole” is grossly “conjecture or speculation” which cannot create standing. (Matter of Animal Legal Defense Fund, 119 AD3d at 1203; see Nurse Anesthetists, 2 NY3d at 211; Society of Plastics Indus., 77 NY2d at 778.) This is particularly true in the realm of political elections. Nor can it account for the fact that, like individuals, corporations, partnerships, or other entities, an LLC can donate to any candidate it so chooses. Merely because one candidate does not receive a donation that his or her opponent receives cannot create a “concrete injury” which confers standing; any donor to a candidate would be susceptible to litigation from the donee’s opponent. And just as an individual or other entity can associate with whomever it so chooses, which includes participating in a meeting with some candidates or politicians and excluding others, so can an LLC. As to the claim by prospective candidates, the “harm” allegedly suffered is nothing different than the public at large and community generally, as all individuals aspiring to be a part of the political process are following the same rule — albeit, some are not getting the benefit of it — but that does not afford them standing in an article 78 matter. Moreover, a petitioner cannot manufacture an injury-in-fact by declining to accept donations from LLCs where there is no legal prohibition to accepting them; certainly a petitioner who does not accept money from corporations would not be able to create standing in such a fashion either. Said differently, a self-inflicted injury cannot create standing.\nNor can petitioners maintain this action under the “great public interest” standard, as such is afforded in matters of a mandamus to compel not, like here, in a mandamus to review. (See Matter of Hebel v West, 25 AD3d 172, 176 [3d Dept 2005] [“Further, we have previously stated that in matters of ‘great public interest,’ a ‘citizen may maintain a mandamus proceeding to compel a public officer to do his (or her) duty ”], quoting Police Conference of N.Y. v Municipal Police Training Council, 62 AD2d 416, 417-418 [3d Dept 1978] [compelling compliance (internal quotation marks omitted)], quoting Albert Elia Bldg. Co. v New York State Urban Dev. Corp., 54 AD2d 337, 341 [4th Dept 1976] [compelling compliance]; see also Matter of Schenectady County Sheriff's Benevolent Assn. v McEvoy, 124 AD2d 911 [3d Dept 1986] [compelling compliance].)\nPetitioners argue for the first time in their post-oral argument supplemental brief that they have competitive standing. “Competitive injury, in and of itself, does not confer standing upon a petitioner unless such injury falls within the zone of interest of the controlling statute” (Matter of C.L.B. Check Cashing v McCaul, 5 AD3d 593, 593-594 [2d Dept 2004]; see Matter of Dorsett-Felicelli, Inc. v County of Clinton, 18 AD3d 1064 [3d Dept 2005], lv denied 5 NY3d 716 [2005]; see also Nurse Anesthetists, 2 NY3d at 211; Matter of Dairylea Coop. v Walkley, 38 NY2d 6, 11 [1975]). Thus, “where a statute reflects an overriding legislative purpose to prevent destructive competition, an injured competitor has standing to require compliance with that statute.” (Matter of Dairylea Coop., 38 NY2d at 11.)\nAlthough the legislative purpose of Election Law, particularly article 14, is preventing destructive competition in campaign financing, it still cannot be said that any of the petitioners were an “injured competitor” in a tie vote to allocate resources (counsel). Again, the petition is not — and legally cannot be— contesting the 1996 Opinion as it is barred by the statute of limitations. The only issue within the purview of the court is the April 2015 decision on the tie vote for a motion at an administrative meeting. Further, as noted above, it cannot be said that the “LLC Loophole” has created an injury different for petitioners than the public at large, or caused an “injury” that is not “speculative or conjecture.”\nWhile the court is mindful that application of standing rules “should not be heavy-handed” (Matter of Sun-Brite Car Wash, 69 NY2d at 413) or “in an overly restrictive manner where the result would be to completely shield a particular action from judicial review” (Matter of Association for a Better Long Is., Inc. v New York State Dept. of Envtl. Conservation, 23 NY3d 1, 6 [2014]; see also Matter of Sierra Club v Village of Painted Post, 26 NY3d 301, 311 [2015]), the court’s holding does not do so. First, the April 2015 decision is reviewable here if it was affected by an error or law, arbitrary and capricious, or an abuse of discretion to the vote. Second, the 1996 Opinion was readily appealable four months after it was issued. Petitioners’ papers take the position, at least implicitly, that it is unfair for them to be bound to a 19-year-old opinion they did not have an opportunity to contest. However, the law is clear on agency promulgation and issuance of regulations or decisions that the statute of limitations begins to accrue on the date of promulgation or issuance of the decision. (See Matter of Owners Comm. on Elec. Rates v Public Serv. Commn. of State ofN.Y., 150 AD2d 45, 53 [3d Dept 1989, Levine, J., dissenting], revd on dissenting op by 76 NY2d 779 [1990] [agreeing with dissenting opinion]; Matter of New York State Rehabilitation Assn., 237 AD2d at 720; Walton, 8 NY3d at 194; Matter of Best Payphones, Inc., 5 NY3d at 30.)\nMerits of Article 78\nIn addition to several procedural flaws, the petition fails on the merits. The petition moves pursuant to CPLR 7803 (3) and requests that the court review “whether a determination was made in violation of lawful procedure, was affected by an error of law or was arbitrary and capricious or an abuse of discretion . . . Petitioners’ reply brief further clarified they were seeking mandamus to review, not to compel.\nIn a mandamus to review proceeding, “a court examines an administrative action involving the exercise of discretion” (Matter of Scherbyn v Wayne-Finger Lakes Bd. of Coop. Educ. Servs., 77 NY2d 753, 757 [1991]). “Mandamus to review resembles certiorari, except that in a certiorari proceeding a quasi-judicial hearing normally is required and the reviewing court has the benefit of a full record” (Matter of Scherbyn, 77 NY2d at 757). Whereas in a mandamus to review, “no quasi-judicial hearing is required; the petitioner need only be given an opportunity ‘to be heard’ and to submit whatever evidence he or she chooses and the agency may consider whatever evidence is at hand, whether obtained through a hearing or otherwise” (Matter of Scherbyn, 77 NY2d at 757-758). Therefore, as established in CPLR 7803 (3), the standard of review in a mandamus to review proceeding is “whether the agency determination was arbitrary and capricious or affected by an error of law” (Matter of Scherbyn, 77 NY2d at 758; see CPLR 7803 [3]). “Arbitrary action is without sound basis in reason and is generally taken without regard to the facts” (Matter of Pell v Board of Educ. of Union Free School Dist. No. 1 of Towns of Scarsdale & Mamaroneck, Westchester County, 34 NY2d 222, 231 [1974] [noting further that rationality is the underlying basis]).\nIt has been established as a fundamental rule of administrative law that a reviewing court, in dealing with a determination an administrative agency alone is authorized to make, “must judge the propriety of such action solely by the grounds invoked by the agency. If those grounds are inadequate or improper, the court is powerless to affirm the administrative action by substituting what it considers to be a more adequate or proper basis” (Matter of Barry v O’Connell, 303 NY 46, 50-51 [1951], citing SEC v Chenery Corp., 332 US 194 [1947], reh denied 332 US 747 [1947]; see Matter of Scherbyn, 77 NY2d at 758; see also Matter of National Fuel Gas Distrib. Corp. v Public Serv. Commn. of the State of N.Y., 16 NY3d 360, 368 [2011]; Matter of Aronsky v Board of Educ., Community School Dist. No. 22 of City of N.Y., 75 NY2d 997 [1990]; Matter of Consolidated Edison Co. of N.Y. v Public Serv. Commn., 63 NY2d 424, 441 [1984], appeal dismissed 470 US 1075 [1985]; Matter of Trump-Equitable Fifth Ave. Co. v Gliedman, 57 NY2d 588, 593 [1982]; Matter of Montauk Improvement v Proccacino, 41 NY2d 913 [1977]). Thus, “[a] [c]ourt’s role in reviewing an agency action is not to determine if the agency action was correct or to substitute its judgment for that of the agency, but rather to determine if the action taken by the agency was reasonable” (Matter of Chemical Specialties Mfrs. Assn. v Jorling, 85 NY2d 382, 396 [1995]; see Matter of Pell, 34 NY2d at 230-235; see also New York State Assn. of Counties v Axelrod, 78 NY2d 158, 166 [1991]).\nHere, it cannot be said that respondent’s April 2015 decision was affected by an error of law, was arbitrary and capricious, or an abuse of discretion. Unquestionably, the Election Law empowers respondent to address issues of campaign fairness and contribution limits. These powers of the respondent are enumerated in Election Law § 3-102, which notably provides under subdivision (1) that respondent shall “issue instructions and promulgate rules and regulations relating to the administration of the election process, election campaign practices and campaign financing practices consistent with the provisions of law.” Further, Election Law § 3-102 (11) requires respondent to “recommend such legislation or administrative measures as it finds appropriate to promote fair, honest and efficiently administered elections, including, but not limited to, legislation to adjust . . . contribution limitations set forth in article fourteen of this chapter.” Under Election Law § 3-100 (4), “[flor the purposes of meetings, three commissioners shall constitute a quorum. The affirmative vote of three commissioners shall be required for any official action of the state board of elections.”\nWhat petitioners complain of here was performed by respondent per the Election Law. The four Commissioners reviewed the 1996 Opinion and the provisions of law it interpreted. (See Election Law § 3-102 [1].) Commissioners Kosinski and Peterson found that the 1996 Opinion is consistent with provisions of the law which has not been substantively changed since the 1996 Opinion was rendered. They noted that the FEC Opinion — which was superseded — was only “instructive” and was not used as a decisive holding. The 1996 Opinion still interpreted the Limited Liability Company Law and made such a finding independently on that basis — the decision specifically stated it made this determination prior to addressing the FEC Advisory Opinion. (See 1996 Opinion at 1 [“Having determined that limited liability companies are not subject to the corporate contribution limits of Article 14, it is appropriate that we determine what limits do apply to these business organizations. Federal Election Commission Advisory Opinion 1995-11 is instructive for these purposes” (emphasis added)].) The 1996 Opinion then reviewed the Limited Liability Company Law definitions again and arrived at the same conclusion as the FEC Advisory Opinion. Commissioners Kosinski and Peterson, both former members of the legislature, also recommended that formal legislation was needed to adjust contribution limitations set forth in article 14 of the Election Law — not through agency action. (See Election Law § 3-102 [11].) After addressing these considerations, the vote was tied 2-2, which fails to establish a quorum; therefore the vote failed. (See Election Law § 3-100 [4].)\nThe court has carefully reviewed the 1996 Opinion and the April 2015 decision, including the full transcript. It cannot be said that respondent or its agents (the Commissioners) acted outside the purview of the Election Law in declining the motion, and such declination was not without any sound basis in reason. The court cannot substitute its own judgment. Therefore, respondent’s decision was not affected by an error of law, made in an arbitrary and capricious manner, or an abuse of discretion warranting judicial intervention.\nAs it relates to petitioners’ claim for an “error of law” argument, which encompasses statutory interpretation that the court can hear, the April 2015 decision did not need to perform any statutory interpretation. It is clear from the transcript that two of respondent’s Commissioners expressly relied on the fact that no part of the statute interpreted in 1996 has been substantively changed, thus the interpretation would not change either. Petitioners attempt to use respondent’s failure to cite or quote the statute in its April 2015 decision as a sword, but it really just demonstrates petitioners’ lack of understanding as to what actions were and were not occurring on April 16, 2015, to wit: The 1996 Opinion was not being contested, but rather the potential for “updated guidance” was at stake. Nonetheless, respondent’s clear review of the legislative history of the applicable statute before the meeting more than suffices.\nDeclaratory Judgment\nThe second cause of action in the petition seeks a declaration pursuant to CPLR 3001 et seq. “that the Board’s policy is unlawful, invalid, and unenforceable and null and void ab initio as an ultra vires and illegal action of Respondents [sic].” On its face, this application does not sufficiently state a cause of action because it is ambiguous as to what policy petitioners are challenging, i.e., the April 2015 decision, or the 1996 Opinion. Since Election Law § 3-100 (4) is clear that a quorum requires three Commissioners, the court presumes this is not the “policy” that petitioners are contesting. Nonetheless, the act of voting on April 16, 2015 was not affected by an error of law, arbitrary and capricious, or an abuse of discretion. Thus, the court surmises that petitioners are attacking the “policy” of the 1996 Opinion. For the reasons that follow, the court declines to render a declaratory judgment on the grounds of statute of limitations.\nDeclaratory judgments are governed by CPLR 3001, which provides that “[t]he supreme court may render a declaratory judgment having the effect of a final judgment as to the rights and other legal relations of the parties to a justiciable controversy . . . .” (Emphasis added.) “The general purpose of the declaratory judgment is to serve some practical end in quieting or stabilizing an uncertain or disputed jural relation either as to present or prospective obligations” (James v Alderton Dock Yards, 256 NY 298, 305 [1931]).\n“The difficulty in determining what is ‘justiciable’ arises in part from the nebulous quality of that concept” (Klostermann v Cuomo, 61 NY2d 525, 535 [1984]). “It is a far-reaching term that incorporates, among other things, political questions . . . .” (Klostermann, 61 NY2d at 535; see Jones v Beame, 45 NY2d 402, 408 [1978].) “Even within a particular category of justiciability, as with political questions, the line separating the justiciable from the nonjusticiable has been subtle . . . .” (Jones, 45 NY2d at 408; see e.g. Baker v Carr, 369 US 186, 208-237 [1962]; see also Klostermann, 61 NY2d at 535 [“The paramount concern is that the judiciary not undertake tasks that the other branches are better suited to perform”]; accord Vanderhoef v Silver, 112 AD3d 1174, 1176 [3d Dept 2013].)\nNonjusticiable decisions include challenges to “policy and the allocation of local resources” (Matter of Save Our Forest Action Coalition v City of Kingston, 246 AD2d 217, 220 [3d Dept 1998], citing Jiggetts v Grinker, 75 NY2d 411, 415 [1990] [“Broad policy choices, which involve the ordering of priorities and the allocation of finite resources, are matters for the executive and legislative branches of government and the place to question their wisdom lies not in the courts but elsewhere”], citing Jones, 45 NY2d 402; Matter of Abrams v New York City Tr. Auth., 39 NY2d 990 [1976]). Whereas a “justiciable controversy” has been distilled to mean\n“one solvable by a court rather than some other forum and, with regard to the separation of powers doctrine, it has to do with whether a matter is resolvable by the judicial branch of government by way of interpreting or enforcing a statutory mandate or by the executive and/or legislative branches in the exercise of their purely political function” (Matter of Schulz v Silver, 212 AD2d 293, 295 [3d Dept 1995]).\nIt has further been well-established that “[t]he granting of declaratory relief is discretionary” (Board of Educ. of Freeport Union Free School Dist. v Nyquist, 50 NY2d 889, 891 [1980]; James, 256 NY at 305; see New York Pub. Interest Research Group v Carey, 42 NY2d 527, 529 [1977]; see also Guibord v Guibord, 2 AD2d 34, 36 [1st Dept 1956] [“There is no absolute right to a declaratory judgment such as exists in other forms of actions seeking to establish existing legal rights”], mot denied 4 NY2d 777 [1958], rearg denied 5 NY2d 780 [1958]; New York Foreign Trade Zone Operators, Inc. v State Liq. Auth., 285 NY 272, 275 [1941] [“The power to grant or deny a declaratory judgment rests in the discretion of the Supreme Court”]). Such “discretion must be exercised judicially and with care,” thus the use of a declaratory judgment should only be exercised where it would be “useful and necessary” (James, 256 NY at 305). Therefore, “[i]f [a] court declines to render such a judgment it shall state its grounds.” (CPLR 3001.)\nHere, there have been numerous attempts made within the legislature to effectively close the “LLC Loophole.” (See 2015 NY Assembly Bill A2614 [Sponsor Kavanagh; no action taken]; 2015 NY Senate Bill S02052 [Sponsor Squadron; no action taken]; 2015 NY Assembly Bill A05089 [Sponsor Simon; no action taken]; 2015 NY Senate Bill S05093A [Sponsor Squadron; no action taken]; 2015 NY Senate Bill S00060B [Sponsor Squadron; notice of committee consideration requested Mar. 7, 2016]; 2015 NY Assembly Bill A06975C [Sponsor Kavanagh; passed Assembly, died in Senate, and then returned to Assembly for third reading Jan. 6, 2016].)\nWhile this application has all the hallmarks of a political question best suited for resolution through legislative action, and this application is attacking a “policy” and allocation of resources which are both nonjusticiable, ultimately the court finds it unnecessary to analyze these fatal flaws as the statute of limitations has long expired.\nGenerally, the statute of limitations for declaratory relief is governed under CPLR 213 (1), which provides a six-year limitation where there is “no limitation . . . specifically prescribed by law.” However, there is a lineage of cases applying the four-month statute of limitations period under CPLR 217 for similar matters such as this. (See Solnick v Whalen, 49 NY2d 224 [1980]; accord Lenihan v City of New York, 58 NY2d 679 [1982]; cf. Saratoga County Chamber of Commerce v Pataki, 100 NY2d 801 [2003] [declining to apply four-month statute of limitations because the relief sought is not obtained under article 78].)\nRegardless of the statute of limitations period applied, the 1996 Opinion is untimely. As discussed above, no tolls apply. Therefore, the court declines to issue a declaration pursuant to CPLR 3001.\nTo the extent not specifically addressed above, the parties’ remaining contentions have been examined and found to be lacking in merit or rendered academic.\nThereby, it is hereby ordered and adjudged, that the petition is dismissed and all relief requested therein is denied in its entirety.\nThe court preserved the order of filing/last word per the CPLR. Accordingly, petitioners were permitted to provide two supplements post-oral argument.",
+        "type": "majority",
+        "author": "Lisa M. Fisher, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Emery Celli Brinckerhoff & Abady LLP, New York City (Elizabeth S. Saylor of counsel), for petitioners.",
+      "Kimberly A. Galvin, Albany, for New York State Board of Elections, respondent.",
+      "Sinnreich, Kosakoff & Messina, LLP, Central Islip (John Ciampoli of counsel), for Edward Cox and another, intervenors.",
+      "New York State Board of Elections, Albany (Kathleen O’Keefe of counsel), for Commissioners and others, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[29 NYS3d 758]\nIn the Matter of Brennan Center for Justice at NYU School of Law et al., Petitioners, v New York State Board of Elections, Respondent.\nSupreme Court, Albany County,\nMarch 16, 2016\nAPPEARANCES OF COUNSEL\nEmery Celli Brinckerhoff & Abady LLP, New York City (Elizabeth S. Saylor of counsel), for petitioners.\nKimberly A. Galvin, Albany, for New York State Board of Elections, respondent.\nSinnreich, Kosakoff & Messina, LLP, Central Islip (John Ciampoli of counsel), for Edward Cox and another, intervenors.\nNew York State Board of Elections, Albany (Kathleen O’Keefe of counsel), for Commissioners and others, amicus curiae."
+  },
+  "file_name": "2288-01",
+  "first_page_order": 238,
+  "last_page_order": 261
+}

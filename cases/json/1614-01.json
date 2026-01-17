@@ -1,0 +1,938 @@
+{
+  "id": 12166524,
+  "name": "BARBARA SHERRILL, Plaintiff-Appellant, v. FARMERS INSURANCE EXCHANGE, Defendant-Appellee",
+  "name_abbreviation": "Sherrill v. Farmers Insurance Exchange",
+  "decision_date": "2016-03-22",
+  "docket_number": "Docket No. 33,859",
+  "first_page": "41",
+  "last_page": "55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-056"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "117 N.M. 434",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1552588
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/117/0434-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-038",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2001-NMCA-081",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        183119
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "¶¶ 13-14"
+        },
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/131/0128-01"
+      ]
+    },
+    {
+      "cite": "106 N.M. 726",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        707293
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/106/0726-01"
+      ]
+    },
+    {
+      "cite": "1988-NMSC-012",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4242274
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0542-01"
+      ]
+    },
+    {
+      "cite": "2004-NMSC-004",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1427961
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 13, 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/135/0106-01"
+      ]
+    },
+    {
+      "cite": "2004-NMCA-132",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224612
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0552-01"
+      ]
+    },
+    {
+      "cite": "1999-NMSC-006",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        257638
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 37"
+        },
+        {
+          "page": "¶ 35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/127/0001-01"
+      ]
+    },
+    {
+      "cite": "84 N.M. 229",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2767731
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/84/0229-01"
+      ]
+    },
+    {
+      "cite": "1972-NMCA-098",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶¶ 38-39"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 N.M. 423",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2867773
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/89/0423-01"
+      ]
+    },
+    {
+      "cite": "1976-NMCA-076",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 44"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 N.M. 661",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2809804
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/77/0661-01"
+      ]
+    },
+    {
+      "cite": "1967-NMSC-094",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶¶ 16-17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 N.M. 757",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2823331
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/86/0757-01"
+      ]
+    },
+    {
+      "cite": "1974-NMSC-081",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003-NMCA-062",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        15664
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 48-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/133/0669-01"
+      ]
+    },
+    {
+      "cite": "162 F.3d 576",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11803470
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/162/0576-01"
+      ]
+    },
+    {
+      "cite": "102 N.M. 28",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1580183
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/102/0028-01"
+      ]
+    },
+    {
+      "cite": "1984-NMSC-107",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1998-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        18498
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/124/0624-01"
+      ]
+    },
+    {
+      "cite": "314 P.3d 681",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-109",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077147
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0164-01"
+      ]
+    },
+    {
+      "cite": "2009-NMCA-011",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4244001
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 22"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "parenthetical": "alterations, internal quotation marks, and citation omitted"
+        },
+        {
+          "page": "¶ 38"
+        },
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0223-01"
+      ]
+    },
+    {
+      "cite": "2002-NMCA-089",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        260727
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/132/0675-01"
+      ]
+    },
+    {
+      "cite": "107 N.M. 9",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1597049
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/107/0009-01"
+      ]
+    },
+    {
+      "cite": "1988-NMSC-025",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        },
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C. § 1011",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1428059
+      ],
+      "weight": 8,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "¶¶ 18, 19"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 14"
+        },
+        {
+          "page": "¶ 29"
+        },
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/135/0397-01"
+      ]
+    },
+    {
+      "cite": "629 F. Supp. 1403",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3839079
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/629/1403-01"
+      ]
+    },
+    {
+      "cite": "911 N.E.2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "375",
+          "parenthetical": "internal quotation marks and citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 N.M. 293",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        725469
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/115/0293-01"
+      ]
+    },
+    {
+      "cite": "1993-NMSC-015",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 33"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶¶ 25, 28"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 N.M. 710",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566666
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/121/0710-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-032",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "421 N.E.2d 876",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "878-79",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2000-NMSC-033",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1217135
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/129/0698-01"
+      ]
+    },
+    {
+      "cite": "108 N.M. 643",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1592853
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/108/0643-01"
+      ]
+    },
+    {
+      "cite": "1989-NMSC-050",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 N.M. 687",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1586479
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/101/0687-01"
+      ]
+    },
+    {
+      "cite": "1984-NMSC-090",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 N.M. 682",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1580114
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/102/0682-01"
+      ]
+    },
+    {
+      "cite": "1983-NMCA-082",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶¶ 29-30"
+        },
+        {
+          "page": "¶¶ 19, 25-27"
+        },
+        {
+          "page": "¶ 29"
+        },
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "¶ 35"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 N.M. 470",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1594919
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/104/0470-01"
+      ]
+    },
+    {
+      "cite": "1986-NMCA-061",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶¶ 2-3"
+        },
+        {
+          "page": "¶¶ 2-3"
+        },
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 N.M. 455",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566646
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "463"
+        },
+        {
+          "page": "270",
+          "parenthetical": "Bustamante, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/121/0455-01"
+      ]
+    },
+    {
+      "cite": "1996-NMCA-033",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        },
+        {
+          "page": "¶ 17"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 N.M. 19",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        707228
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/106/0019-01"
+      ]
+    },
+    {
+      "cite": "1987-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002-NMSC-004",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        183092
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/131/0607-01"
+      ]
+    },
+    {
+      "cite": "365 P.3d 037",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016-NMCA-013",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        12166837
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/9/0262-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-035",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246569
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0713-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-002",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3669263
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1573,
+    "char_count": 46888,
+    "ocr_confidence": 0.789,
+    "pagerank": {
+      "raw": 4.5330875625009783e-8,
+      "percentile": 0.2844555802288087
+    },
+    "sha256": "49f90142fbe792e031cf473f4018e6dedc84a9a2c34c72ca93fdc22efb66a0d9",
+    "simhash": "1:df3ef1b48dd1ff43",
+    "word_count": 7412
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Sheri A. Raphaelson, District Judge",
+      "M. MONICA ZAMORA, Judge",
+      "MICHAEL D. BUSTAMANTE, Judge",
+      "J. MILES HANISEE, Judge"
+    ],
+    "parties": [
+      "BARBARA SHERRILL, Plaintiff-Appellant, v. FARMERS INSURANCE EXCHANGE, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nZAMORA, Judge.\n{1} Plaintiff Barbara Sherrill appeals the district court’s grant of summary judgment in favor of Defendant Farmers Insurance Exchange (Farmers) on her claim of retaliatory discharge. The district court determined that neither NMSA 1978, Section 59A-16-20 (1997), nor the implied covenant of good faith and fair dealing, constituted clearly mandated public policies that could support Sherrill’s claim of retaliatory discharge. The district court further concluded that Sherrill did not demonstrate the necessary causal connection between her protected actions and her discharge. We affirm in part and reverse in part.\nI. BACKGROUND\n{2} Sherrill was employed by Farmers as a claims adjuster between 2007 and 2010. Sherrill’s employment duties included adjusting personal injury and insurance claims in the first and third party contexts. As part of its liability strategy and standards, Farmers requires that adjusters make early contact with claimants. Farmers also requires its adjusters to contact claimants by telephone within twenty-four to forty-eight hours of receiving a claim, and to set up an early face-to-face meeting with the claimants. The practice of requiring claims adjusters to meet with claimants is referred to as the in-person contact program (IPC).\n{3} Another component of Farmers’ liability strategy and standards is the requirement that a certain percentage of unrepresented bodily injury claims be settled within sixty days for $1,500 or less. This claims settlement practice is referred to as early claims settlement (ECS). Farmers provides adjusters with ECS objectives, advising adjusters that failure to meet those objectives could result in employee discipline. Sherrill expressed concerns regarding the ECS process to at least one of her supervisors. In March 2010 Farmers informed Sherrill that her claims settlement numbers failed to meet the ECS objectives set for her and terminated Sherrill’s employment.\n{4} After her termination, Sherrill filed suit against Farmers for retaliatory discharge and prima facie tort. Sherrill also sought a declaratory judgment that Farmers violated Section 59A-16-20 of the Trade Practices and Frauds Act (Article 16) ofthe Insurance Code, and the New Mexico Mandatory Financial Responsibility Act, NMS A 1978, §§ 66-5-201 to -239 (1978, as amended through 2015). Sherrill requested damages under NMS A 1978, Section 59A-16-30 (1990) and punitive damages. The district court granted Farmers’ motion to dismiss Sherrill’s declaratory judgment claims and claim for damages under Section 59A-16-20, pursuant to Rule 1-012(B)(6) NMRA. The district court also granted Farmers’ motion for summary judgment on Sherrill’s claim for prima facie tort.\n{5} The parties filed competing summary judgment motions on Sherrill’s remaining retaliatory discharge claim. Sherrill argued that Farmers terminated her employment in retaliation for her refusal to carry out unfair and illegal claims practices, including ECS and IPC, which Sherrill claimed violated New Mexico law and public policy. Specifically, Sherrill argued that ECS and IPC violated the Release Act, NMS A 1978, §§ 41-1-1 to -2 (1971), Section 59A-16-20, and the implied covenant of good faith and fair dealing. Farmers argued that its claims practices did not violate New Mexico law, nor did they violate any clear mandate of public policy. Farmers further argued that Sherrill had not expressed any objection to IPC specifically, therefore, IPC could not have been the basis for retaliatory discharge.\n{6} The district court granted Farmers’ motion for summary judgment. The reasoning employed by the district court regarding Sherrill’s claim related to the ECS program is best discerned from its statements at the conclusion of the motion hearing it held. Addressing Sherrill’s contention that her discharge resulted from her objection to and refusal to participate in the ECS program, in violation of New Mexico public policy, the district court stated:\nI can’t find that there is a clear mandate of New Mexico public policy found in [Section 59A-16-20] or in the covenant of good faith and fair dealing that has been violated. Even looking at everything most favorable to the plaintiff ... if everything she’s saying is true, [it] really just comes down to the legal question of whether there’s a clear mandate in those two policies that would make it actionable and my conclusion is there isn’t.\nConcerning Sherrill’s claim regarding IPC as the basis for retaliatory discharge, the district court stated “I don’t see anything, looking at all the evidence in the light most favorable to her, I don’t see that she ever complained about IPC[,] so there is no way she could have been fired for that.” The district court entered an order granting summary judgment in favor of Farmers and dismissing the case with prejudice. This appeal followed.\nII. DISCUSSION\n{7} In this appeal we consider: (1) whether there are clearly mandated public policies embodied in Section 59A-16-20 and the covenant of good faith and fair dealing to support a claim for retaliatory discharge, and (2) whether there are questions of fact precluding summary judgment.\nStandard of Review\n{8} “An appeal from the grant of a motion for summary judgment presents a question of law and is reviewed de novo.” Montgomery v. Lomos Altos, Inc., 2007-NMSC-002, ¶ 16, 141 N.M. 21, 150 P.3d 971. “Summary judgment is appropriate where there are no genuine issues of material fact and the movant is entitled to judgment as a matter of law.” Id. (internal quotation marks and citation omitted); see Rule 1-056(C) NMRA. We “view the facts in a light most favorable to the party opposing summary judgment and draw all reasonable inferences in support of a trial on the merits.” Romero v. Philip Morris Inc., 2010-NMSC-035, ¶ 7, 148 N.M. 713, 242 P.3d 280 (internal quotation marks and citation omitted). “When the district court’s grant of summary judgment is grounded upon an error of law, however, the case may be remanded so that the issues may be determined under the correct principles of law.” Centex/Worthgroup, LLC v. Worthgroup Architects, L.P., 2016-NMCA-013, ¶ 15, 365 P.3d 037 (alterations, internal quotation marks, and citation omitted).\nRetaliatory Discharge\n{9} As a general rule, employment at will can be terminated by either the employer or the employee for any reason, or for no reason at all. See Trujillo v. N. Rio Arriba Elec. Coop., Inc., 2002-NMSC-004, ¶ 22, 131 N.M. 607, 41 P.3d 333. “A retaliatory discharge cause of action [is] recognized in New Mexico as a narrow exception to the terminable at-will rule[.]” Silva v. Albuquerque Assembly & Distribution Freeport Warehouse Corp., 1987-NMSC-045, ¶ 13, 106 N.M. 19, 738 P.2d 513. Under this cause of action, an employee must (1) identify a specific expression of public policy which the discharge violated; (2) demonstrate that he or she acted in furtherance of the clearly mandated public policy; and (3) show that he or she was terminated as a result of those acts. See Lihosit v. I & W, Inc., 1996-NMCA-033, ¶ 7, 121 N.M. 455, 913 P.2d 262; Maxwell v. Ross Hyden Motors, Inc., 1986-NMCA-061, ¶ 20, 104 N.M. 470, 722 P.2d 1192; Vigil v. Arzola, 1983-NMCA-082, ¶¶ 29-30, 102 N.M. 682, 699 P.2d 613, rev’d in part on other grounds, 1984-NMSC-090, 101 N.M. 687, 687 P.2d 1038, overruled on other grounds by Chavez v. Manville Prods. Corp., 1989-NMSC-050, ¶ 16, 108 N.M. 643, 777 P.2d 371.\n{10} In the present case, Sherrill claims that she was discharged in retaliation for her objection to and her failure to comply with two of Farmers’ claims processing practices: ECS, which requires adjusters to settle a percentage of unrepresented bodily injury claims within sixty days for $1,500 or less; and IPC, which requires adjusters to contact claimants by telephone within forty-eight hours of receiving a claim, and to set up early face-to-face meetings with the claimants. Because the district court stated different grounds for its grant of summary judgment on Sherrill’s retaliatory discharge claim as it pertained to ECS and IPC, we will address Sherrill’s retaliatory discharge claim as it relates to each practice separately.\nRetaliatory Discharge Related to ECS\n{11} ■ Sherrill contends that the ECS program violated New Mexico’s clear public policy requiring insurers to act in good faith and deal fairly with insureds and claimants. Sherrill claims thatFarmers’ program targeted unrepresented claimants from lower economic areas for early claim resolution and limited the settlement amount to $1,500, thereby promoting premature settlements for vulnerable injured claimants. According to Sherrill, Farmers set unfair and arbitrary ECS quotas, which forced adjusters to coerce claimants to settle prematurely for unreasonably low amounts and to put the financial interests of Farmers above the interests of Farmers’ insureds and claimants.\n{12} Sherrill claims that she was discharged for objecting to and failing to meet the objectives of Farmers’ ECS program, contrary to: (1) Section 59A-16-20(E), which defines unfair trade practices to include “not attempting in good faith to effectuate prompt, fair and equitable settlements of an insured’s claims in which liability has become reasonably clear”; and (2) the covenant of good faith and fair dealing, which requires that insurance companies “act honestly and in good faith in the performance of the contract” giving “equal consideration to its own interests and the interests of the policyholder.” UJI 13-1701 NMRA. The district court determined, as a matter of law, that neither Section 59A-16-20 nor the implied covenant of good faith and fair dealing embodied a clear mandate of public policy on which Sherrill could base her claim for retaliatory discharge. We disagree.\n{13} Whether a clear mandate of public policy exists is a question of law, which we review de novo. See Ponder v. State Farm Mut. Auto. Ins. Co., 2000-NMSC-033, ¶ 6, 129 N.M. 698, 12 P.3d 960 (“[T]he legal consequences flowing from the historical facts will be subject to de novo review if the question involves matters of public policy with broad precedential value beyond the confines of the particular case.” (internal quotation marks and citation omitted)).\n{14} In adopting the retaliatory discharge cause of action, New Mexico has “followed the theoretical approach of cases such as Palmateer v. International Harvester Co., [421 N.E.2d 876 (1981)].” Lihosit, 1996-NMCA-033, 121 N.M. at 463, 913 P.2d at 270 (Bustamante, J., dissenting); see Vigil, 1983-NMCA-082, ¶¶ 19, 25-27; see also Garrity v. Overland Sheepskin Co. of Taos, 1996-NMSC-032, ¶ 17, 121 N.M. 710, 917 P.2d 1382; Shovelin v. Cent. N.M. Elec. Co-op., Inc., 1993-NMSC-015, ¶ 33, 115 N.M. 293, 850 P.2d 996. In Palmateer, the Illinois Supreme Court discussed the meaning of “clearly mandated public policy”:\nThere is no precise definition of the term. In general, it can be said that public policy concerns what is right and just and what affects the citizens of the [s]tate collectively. . . . Although there is no precise line of demarcation dividing matters that are the subject of public policies from matters purely personal, a survey of cases in other [sjtates involving retaliatory discharges shows that a matter must strike at the heart of a citizen’s social rights, duties, and responsibilities before the tort will be allowed.\n421 N.E.2d at 878-79 (citation omitted); accord Black’s Law Dictionary 1426 (lOthed. 2014) (defining “public policy” as “[t]he collective rules, principles, or approaches to problems that affect the commonwealth or [especially] promote the general good; [specifically], principles and standards regarded by the [Legislature or by the courts as being of fundamental concern to the state and the whole of society”).\n{15} “A clear mandate of public policy sufficient to support a claim of retaliatory discharge may be gleaned from the enactments of the [L]egislature and the decisions of the courts and may fall into one of several categories.” Shovelin, 1993-NMSC-015, ¶ 25. A statute may: (1) provide both that an employer may not terminate employees on particular grounds and a remedy in the event of such termination, (2) prohibit an employer from firing an employee on specified grounds without providing a specific remedy for an employee who has been so terminated, or (3) define a public policy that governs the employee’s conduct, but does not provide the employee with either a right not to be terminated in violation of that policy, or a remedy for such termination in which case the employee must seek judicial recognition of both the right and the remedy. Spe id. Where no legislative enactment directly addresses the employee’s conduct, the judiciary may determine that, based on other relevant statutes or an implicit public policy, both a right and a remedy should be recognized. See id.\n{16} In the absence of a clearly mandated public policy, the employer retains the right to terminate workers at will. See Vigil, 1983-NMCA-082, ¶ 29. The Illinois Supreme Court discussed the importance of requiring retaliatory discharge claims to rest on well-recognized and clear public policies:\nAny effort to evaluate the public policy exception with generalized concepts of fairness and justice will result in an elimination of the at-will doctrine itself. Further, generalized expressions of public policy fail to provide essential notice to employers. The phrase ‘clearly mandated public policy’ implies that the policy will be recognizable simply because it is clear. An employer should not be exposed to liability where a public policy standard is too general to provide any specific guidance or is so vague that it is subject to different interpretations.\nTurner v. Mem’l Med. Ctr., 911 N.E.2d 369, 375 (2009) (internal quotation marks and citations omitted). Similarly, in New Mexico, when an employee is discharged, contrary to a clear mandate of public policy, that employee has a cause of action for retaliatory discharge. Chavez, 1989-NMSC-050, ¶ 16; Vigil, 1983-NMCA-082, ¶ 27.\n{17} In order to succeed on a retaliatory discharge claim in New Mexico, the plaintiff “must identify a specific expression of public policy which the discharge violated.” Maxwell, 1986-NMCA-061, ¶ 20; see Vigil, 1983-NMCA-082, ¶ 35 (“A general allegation that the discharge contravened public policy is insufficient; to state a cause of action for retaliatory or abusive discharge the employee must identify a specific expression of public policy.”). Where the asserted public policy is too amorphous, the employee fails to state a claim of retaliatory discharge. See, e.g., Salazar v. Furr’s, Inc., 629 F. Supp. 1403, 1409 (D.N.M. 1986) (holding that the employee’s claim that she was terminated in violation of “the public policies underlying ERISA” was specific enough to state a claim for retaliatory discharge, whereas her claim that her termination violated “the public policy that encourages ‘family unity and the maintenance of family discipline’ ” was not).\n{18} In sum, when evaluating whether an expression of public policy constitutes a “clear mandate of public policy” for purposes of a retaliatory discharge claim, we consider: (1) the specificity with which the employee has identified the policy; (2) whether the identified policy promotes the general good and reflects the principles and standards regarded by our Legislature and our courts as being of fundamental importance to the citizens of the state; and (3) whether the policy is well-recognized and clear in the sense that it provides specific guidance and is not overly vague or ambiguous.\n{19} Sherrill has identified two specific expressions of public policy, which form the bases for her retaliatory discharge claim: (1) Section 59A-16-20(E), which defines unfair trade practices to include “not attempting in good faith to effectuate prompt, fair and equitable settlements of an insured’s claims in which liability has become reasonably clear”; and (2) the covenant of good faith and fair dealing, which requires that insurance companies “act honestly and in good faith in the performance of the contract” giving “equal consideration to its own interests and the interests of the policyholder.” UJI 13-1701. Farmers does not dispute that Sherrill has 1 identified these policies with enough specificity to state a claim of retaliatory discharge. Instead, Farmers contends that the policies themselves are too generalized and do not provide guidance as to prohibited conduct. We disagree.\nSection 59A-16-20 and the Implied Covenant of Good Faith and Fair Dealing Embody Clear Mandates of Public Policy\nSection 59A-16-20\n{20} The current version of Section 59A-16-20 is part of the Trade Practices and Frauds Act (Article 16) of the Insurance Code. NMSA 1978, §§ 59A-16-1 to -30 (1984, as amended through 2013). The Insurance Code as a whole is a “comprehensive and public-spirited” legislative effort intended “to protect anyone injured by unfair insurance practices.” Hovet v. Allstate Ins. Co., 2004-NMSC-010, ¶¶ 18, 19, 135 N.M. 397, 89 P.3d 69. The purpose of Article 16 is “to regulate trade practices in the insurance business” to further the public interest. Section 59A-16-2; see 15 U.S.C. § 1011 (1945).\n{21} The insurers’ statutory duty of good faith is codified in Section 59A-16-20. The insurers’ statutory duty of good faith reflects principles and standards regarded by our Legislature and our courts as being of fundamental importance to the citizens of the state and promotes the general welfare. In adopting the current version of the Insurance Code in 1984, the Legislature created a private right of action against insurers that commit the unfair claims practices defined in Article 16. See § 59A-16-30 (“Any person covered by [Article 16 ] who has suffered damages as a result of a violation of that article by an insurer or agent is granted a right to bring an action in district court to recover actual damages.”).\n{22} Section 59A-16-20(E) also defines unfair insurance claims practices to include “not attempting in good faith to effectuate prompt, fair and equitable settlements of an insured’s claims in which liability has become reasonably clear[,]” where the insurer does so “knowingly [and] with such frequency as to indicate a general business practice.” This language has been included in the New Mexico Insurance Code since 1975; however, prior versions of the statute did not provide a private right of action for insurers’ bad faith. See NMSA 1978, § 59-11-13(1) (1973) (repealedin 1984);NMSA 1953, § 58-9-25(1) (1973) (Vol. 8, Repl., Part 2, 1975 Pocket Supp.).\n{23} In Russell v. Protective Insurance Co., 1988-NMSC-025, ¶ 22, 107 N.M. 9, 751 P.2d 693, superseded by statute as stated in Meyers v. Western Auto, 2002-NMCA-089, 132 N.M. 675, 54 P.3d 79, and Hovet, 2004-NMSC-010, ¶ 14, our Supreme Court held that Article 16 should be broadly construed to allow third-party claimants to bring a private action against an insurer for Article 16 violations, including unfair practices and bad faith. In Russell, the Court considered whether Section 59A-16-30 allows a private cause of action “against workers’ compensation insurers for bad faith refusal to pay compensation benefits to workers.” Russell, 1988-NMSC-025, ¶ 1. The Court rejected the insurer’s argument that only the employer, as the first party insured, could bring a private right of action under Section 59A-16-30, and concluded that the language of the Legislature intended to expand the notion of insured to “parties other than those who may have signed a written contract of insurance beneath a blank reading ‘insured.’” Russell, 1988-NMSC-025, ¶ 14.\n{24} In Hovet, the Court considered whether an automobile accident victim had a cause of action against an automobile liability insurer for unfair claims practices under Article 16. Hovet, 2004-NMSC-010, ¶ 9. The Court stated that “the general policy of the Insurance Code [is] to protect anyone injured by unfair insurance practices.” Id. ¶ 19. The Court outright rejected the insurer’s argument that a third-party claimant with a direct interest in fair settlement practices may not sue under Article 16. See id. ¶ 18 (“We decline to ascribe such a sterile intent to a legislative effort as comprehensive and public-spirited as the Insurance Code. Therefore, we conclude that the Legislature intended both the insured and the third-party claimant to be protected under Section 59A-16-20.”). The Court explained, “[i]n creating a separate statutory action [for those injured by an insurer’s unfair claims practices], the Legislature had a remedial purpose in mind: to encourage ethical claims practices within the insurance industry.” Hovet, 2004-NMSC-010, ¶ 14. “A private right of action for third-party claimants enforces [this] policy.”Id. ¶ 17. The Court concluded that the intention of the Legislature was to protect both the insured and the third-party claimant. Id. ¶ 18.\n{25} In 2001, the Legislature broadened the definition of “insurer,” for purposes of the unfair trade practices section, “to include entities and individuals that are not within the definition of [the] insurer elsewhere in the Insurance Code.” Martinez v. Cornejo, 2009-NMCA-011, ¶ 9, 146 N.M. 223, 208 P.3d 443. In Martinez, this Court held that the amendment in effect broadened the scope of the private right of action in Section 59A-16-30, such that individual employees of insurance companies could be held personally liable for violations of the unfair trade practices section. Martinez, 2009-NMCA-011, ¶ 22. We recognized that the result was “entirely consistent with the express purpose and spirit of the [unfair trade practices section], which is to promote ethical settlement practices within the insurance industry.” Id. (internal quotation marks and citation omitted). Just as “the private right of action is one means toward the end of encouraging ethical claims practices within the insurance industry[, t]he Legislature’s decision to expand the scope of the private right of action by broadening the definition of insurer is just one other means toward that same end.” Id. (alterations, internal quotation marks, and citation omitted).\n{26} Our Supreme Court has provided the following guidance regarding the parameters of an insurers’ duty under Section 59A-16-20:\nWe ... emphasize that the Insurance Code does not impose a duty to settle in all instances, nor does it require insurers to settle cases they reasonably believe to be without merit or overvalued. A violation occurs for ‘not attempting in good faith to effectuate prompt, fair and equitable settlements of an insured’s claims in which liability has become reasonably clearf.]’ Section 59A-16-20(E). The insurer’s duty is founded upon basic principles of fairness. Any insurer that objectively exercises good faith and fairly attempts to settle its cases on a reasonable basis and in a timely manner need not fear liability under the Code.\nHovet, 2004-NMSC-010, ¶ 29.\n{27} In the present case, Farmers contends that because the question of whether an insurer has violated Section 59A-16-20 must be determined subjectively on a case-by-case basis, the statute does not express a clear or well-defined public policy. In support of this argument Farmers relies on this Court’s decisions in Maxwell, and Rist v. Design Center at Floor Concepts, 2013-NMCA-109, 314 P.3d 681. Farmers’ reliance on these cases is misplaced. At issue in both Maxwell unáRist was the sufficiency of the employees’ complaints to state a claim for retaliatory discharge. See Maxwell, 1986-NMCA-061, ¶¶ 2-3.\n{28} In Maxwell, the employee’s complaint was pending in the district court when this Court issued its decision in Vigil, recognizing the tort of retaliatory discharge for the first time. See Maxwell, 1986-NMCA-061, ¶¶ 2-3. We held that Vigil did not apply retrospectively to provide relief for the employee in Maxwell. Maxwell, 1986-NMCA-061, ¶ 13. We further held that even if the employee could overcome the prospectivity hurdle, the employee was not entitled to relief under retaliatory discharge. Id. ¶¶ 23-24.\n{29} The employee’s complaint in that case, which was filed one and one-half years prior to the final decision in Vigil, alleged that the employee was terminated “willfully, wrongfully, maliciously, and in bad faith, without just cause and for no legitimate business reason.” Id. ¶¶ 1, 6 (internal quotation marks omitted). The employee argued, for the first time on appeal, that the public policy of full employment expressed in New Mexico’s unemployment compensation statute reflected the legislative intent “to limit the ability of an employer to discharge an employee-at-will for no legitimate business reason or without just cause.” Id. ¶ 27 (internal quotation marks omitted). We rejected that argument, explaining that “[t]he [Ljegislature’s recognition of the problems of unemployment and that body ’ s commitment to encouraging employers to provide stable employment does not amount to the specific expression of public policy mandated by Vigil” Maxwell, 1986-NMCA-061, ¶ 26. We concluded that the complaint, which did not allege any conduct on his part that precipitated his termination and did not identify any expression of public policy, which the termination contravened, was insufficient to state a cause of action for retaliatory discharge. Id. ¶¶ 23-24.\n{30} Similarly, in Rist, the employees’ complaint did not allege retaliatory discharge. 2013-NMCA-109, ¶ 1. The employees filed suit under the New Mexico Human Rights Act (NMHRA), NMSA 1978, §§ 28-1-1 to -15 (1969, as amended through 2007), alleging religious discrimination. Rist, 2013-NMCA-109, ¶ 1. On appeal, the employees argued that “a violation of the NMHRA is a violation of public policy actionable under Vigil.\" Rist, 2013-NMCA-109, ¶ 23. This Court held that this general assertion could not be the basis for reading a retaliatory discharge claim into the complaint, where the complaint did not include such a claim. Id. ¶¶ 22-23. The present case is distinguishable from both Maxwell and Rist, in that the sufficiency of Sherrill’s complaint and the specificity with which she identified specific expressions ofpublic policy were not challenged in the district court and are not challenged on appeal.\n{31} Farmers also cites Shovelin to support its argument that retaliatory discharge claims must be based on an expression of public policy that defines objectively unlawful conduct. However, we do not agree that Shovelin stands for the proposition for which it is cited by Farmers. In Shovelin, our Supreme Court discussed categories of statutes that may support a retaliatory discharge claim. 1993-NMSC-015, ¶¶ 25, 28. While the potential sources of clearly mandated public policies included statutes that clearly identify unlawful conduct, Shovelin does not limit these sources of public policy to statutes that identify objectively unlawful conduct. Id.\n{32} To the contrary, Shovelin provides examples of several potential sources of clearly mandated public policies, not all of which provide an objective standard for determining prohibited conduct. Our Supreme Court set forth several types of prospective categories from which a sufficiently clear mandate ofpublic policy may be gleaned from enactments of the Legislature and decisions of the courts:\nFirst, legislation may define public policy and provide a remedy for a violation of that policy. Second, legislation may provide protection of an employee without specifying a remedy, in which case an employee would seek an implied remedy. Third, legislation may define a public policy without specifying either a right or a remedy, in which case the employee would seek judicial recognition of both. Finally, there may, in some instances, be no expression of public policy, and here again the judiciary would have to imply a right as well as a remedy.\nId. ¶ 25 (alteration, internal quotation marks, and citation omitted).\n{33} Although analyzing claims under Section 59A-16-20 may require a subjective case-by-case analysis, the language of the statute and cases applying New Mexico law illustrate that the statute embodies a strong public policy in favor of protecting the public from unfair and deceptive insurance claims practices — a policy whose parameters are not too vague or ambiguous to provide guidance on prohibited conduct. See Hovet, 2004-NMSC-010, ¶ 22 (holding that by enacting Sections 59A-16-20 and -30 “[o]urLegislature created both the right and the remedy” for members of the public who “are twice made victims, first by actionable negligence of an insured . . . and then by an insurance company’s intransigence”). We conclude that Section 59A-16-20 embodies a clear mandate of the public policy sufficient to support a claim of retaliatory discharge.\nThe Implied Covenant of Good Faith and Fair Dealing\n{34} Under the common law, all insurance contracts include “an implied covenant of good faith and fair dealing that the insurer will not injure its policyholder’s right to receive the full benefits of the contract.” Dairyland Ins. Co. v. Herman, 1998-NMSC-005, ¶ 12, 124 N.M. 624, 954 P.2d 56; Ambassador Ins. Co. v. St. Paul Fire & Marine Ins. Co., 1984-NMSC-107, ¶ 11, 102 N.M. 28, 690 P.2d 1022. The common law duty of good faith embodied in the implied covenant is distinct from the statutory duty of good faith imposed by Section 59A-16-20. See Martinez, 2009-NMCA-011, ¶ 38. “The key principle underlying the covenant of good faith in an insurance contract is that the insurer treat the interests of the insured equally to its own interests.” City of Hobbs v. Hartford Fire Ins. Co., 162 F.3d 576, 582 (10th Cir. 1998).\n{35} Implying a covenant of good faith in an insurance contract serves to enforce the contractual obligation of the insurer to avoid exposing the insured to personal liability. See Martinez, 2009-NMCA-011, ¶ 40. The implied covenant is aimed at making effective the insurer’s obligation under the insurance contract and cannot be applied to override express provisions addressed by the terms of an integrated, written contract. Azar v. Prudential Ins. Co. of Am., 2003-NMCA-062, ¶¶ 48-51, 133 N.M. 669, 68 P.3d 909. And “[bjecause the implied covenant of good faith and fair dealing depends upon the existence of an underlying contractual relationship,” plaintiffs may not recover for bad faith occurring prior to the existence of the insurance contract. Id. ¶ 53.\n{36} New Mexico has long recognized an insurer’s common law duty to deal in good faith with its insured. See Dairyland, 1998-NMSC-005, ¶ 12; State Farm Gen. Ins. Co. v. Clifton, 1974-NMSC-081, ¶ 8, 86 N.M. 757, 527 P.2d 798; Modisette v. Found. Reserve Ins. Co., 1967-NMSC-094, ¶¶ 16-17, 77 N.M. 661, 427 P.2d 21; Chavez v. Chenoweth, 1976-NMCA-076, ¶ 44, 89 N.M. 423, 553 P.2d 703; Lujan v. Gonzales, 1972-NMCA-098, ¶¶ 38-39, 84 N.M. 229, 501 P.2d 673. This duty arises from the nature of the insurance relationship, which is characterized by elements of adhesion, public interest, and fiduciary responsibility. See Allsup’s Convenience Stores, Inc. v. N. River Ins. Co., 1999-NMSC-006, ¶ 37, 127 N.M. 1, 976 P.2d 1; Dellaira v. Farmers Ins. Exch., 2004-NMCA-132, ¶ 14, 136 N.M. 552, 102 P.3d 111 (stating that the “relationship between insurer and insured” is recognized as special and unique due to “the inherent lack of balance in and adhesive nature of the relationship, as well as the quasi-public nature of insurance and the potential for the insurer to unscrupulously exert its unequal bargaining power at a time when the insured is particularly vulnerable” (internal quotation marks and citations omitted)). The common law bad faith action sounds in both contract and tort. Sloan v. State Farm Mut. Auto. Ins. Co., 2004-NMSC-004, ¶¶ 13, 23, 135 N.M. 106, 85 P.3d 230. This reflects New Mexico’s public policy in favor of restoring balance to the contractual relationship between the insurer and the insured, and enforcing insurers’ public obligation.\n{37} New Mexico cases provide guidance concerning the insurers’ duty under the implied covenant of good faith and fair dealing in insurance contracts. For example, in Dairyland, our Supreme Court held that the “implied obligation of good faith and fair dealing requires the insurer to settle in an appropriate case although the express terms of the policy do not impose such a duty.” Dairyland, 1998-NMSC-005, ¶ 13 (internal quotation marks and citation omitted). “[W]hen there is a substantial likelihood of recovery in excess of limits, an insurer’s unwarranted refusal to settle is a breach of the implied covenant of good faith and fair dealing.” Id. ¶ 15. The Court explained that “when damages are likely to exceed policy limits, the insurer risks exposing its insured to even greater liability by going to trial rather than settling.” Id. The Court concluded, “[t]he courts of this state will not permit insurers to profit by their own wrongs.” Id. “Should an insurer, in violation of its duty of good faith, refuse to accept a reasonable settlement offer within policy limits, it will be liable for the entire judgment against the insured, including the amount in excess of policy limits.” Id.\n{38} In Ambassador, our Supreme Court considered whether a common law cause of action against insurers for negligent failure to settle is recognized in New Mexico. 1984-NMSC-107, ¶ 3. The Court determined that negligent failure to settle may evince an insurer’s breach of the implied covenant of good faith under the insurance contract, but is not recognized in New Mexico as an independent cause of action. See id. ¶ 12. In reaching this conclusion, the Court considered that “the insurer has, by its insurance contract, taken over the duty to defend a case against the insured.” Id. ¶ 11.\n{39} The Court stated that an insurer’s exercise of this duty should be “accompanied by considerations of good faith.” Id. (internal quotation marks and citation omitted). When determining whether to settle a claim, the duty of good faith requires that the insurer base its decision “upon a knowledge of the facts and circumstances upon which liability is predicated, and upon a knowledge of the nature and extent of the injuries so far as they reasonably can be ascertained.” Id. (internal quotation marks and citation omitted). Thus, the implied covenant of good faith in an insurance contract requires insurers to properly investigate an insured’s claim. Id. ¶ 12. In this context, insurer conduct is measured by “basic standards of competency .. . and the insurer is charged with knowledge of the duty owed to its insured.” Id.\n{40} Our Supreme Court has also held that the covenant of good faith and fair dealing can impose upon the insurer an affirmative duty to act where a failure to act would result in a denial of an insured’s rights under the insurance contract. Allsup’s, 1999-NMSC-006, ¶ 35. In Allsup’s, the insurer and insured agreed to a retrospective premium plan under which the amount of the premium was to be determined at the end of the policy year based on the actual amount of claims paid. Id. ¶ 3. The Court determined that since having the premium tied directly to competent claims-handling was a benefit of the contract, the insurer had a duty under the implied covenant of good faith to disclose any mishandling of claims to the insured due to its effect on the insured’s premiums. Id. ¶¶ 33-36.\n{41} This Court has also recognized that the covenant of good faith and fair dealing imposes upon an insurer “[a] duty of disclosure!, which] is premised on the principle of fundamental fairness.” Salas v. Mountain States Mut. Cas. Co., 2009-NMSC-005, ¶ 16, 145 N.M. 542, 202 P.3d 801. The good faith duty to disclose “dictates that an insurer must notify a known insured of the scope of available insurance coverage and the terms and conditions governing that coverage.” Id. “Accordingly, if an insurer fails to disclose to its insured the existence of an exclusionary provision contained in the insurance contract, then the covenant of good faith and fair dealing precludes the insurer from relying on the provision to limit or deny the insured’s right to coverage.” Id. ¶ 13.\n{42} In the present case, Farmers argues ttiat Melnick v. State Farm Mutual Automobile Insurance Co., 1988-NMSC-012, 106 N.M. 726, 749 P.2d 1105, and Kropinak v. ARA Health Services, Inc., 2001-NMCA-081, 131 N.M. 128, 33 P.3d 679, stand for the proposition that the implied covenant of good faith and fair dealing is decidedly not a clear mandate of public policy sufficient to support a claim for retaliatory discharge. Farmers’ reliance on Melnick and Kropinak is misplaced and improperly expands the holdings of those cases beyond their own language.\n{43} In Melnick, our Supreme Court declined to “recognize a cause of action for breach of an implied covenant of good faith and fair dealing in an at-will employment relationship.” 1988-NMSC-012, ¶ 13. This Court has read Melnick to hold “that when parties have entered into a clear and unambiguous at-will employment agreement, it is improper to invoke the implied covenant of good faith and fair dealing to vary the at-will termination provision in the written agreement.” Kropinak, 2001-NMCA-081, ¶ 11. In Kropinak, we reiterated the holding in Melnick, acknowledging that where an employer discharges an employee in violation of a clear mandate of public policy the employee may not assert breach of the employment contract, or breach of the implied covenant of good faith and fair dealing, however, the employee may assert a tort action for retaliatory discharge. See Kropinak, 2001-NMCA-081, ¶¶ 13-14.\n{44} These cases are inapposite for two reasons. First, the duty of good faith in an employment relationship is not analogous to the special relationship between insurer and insured. See Bourgeous v. Horizon Healthcare Corp., 1994-NMSC-038, ¶ 17, 117 N.M. 434, 872 P.2d 852 (“[T]he employment relationship is not sufficiently similar to that of insurer and insured to warrant judicial extension of the proposed additional tort remedies in view of the countervailing concerns about economic policy and stability, the traditional separation of tort and contract law, and finally, the numerous protections against improper termination already afforded employees.” (internal quotation marks and citation omitted)). Thus, the public policy served by the implied covenant of good faith and fair dealing in an employment contract differs significantly from the policy furthered by the implied covenant in the insurer/insured context.\n{45} Second, neither Melnick nor Kropinak precluded a retaliatory discharge claim based on the implied covenant of good faith and fair dealing between employer and employee. Rather, it appears from the language in Kropinak that the question of whether the covenant of good faith and fair dealing in an employment contract is a clear mandate of public policy sufficient to support a claim for retaliatory discharge is left unanswered by our law. See 2001-NMCA-081, ¶ 14 (“[W]hen the termination is based on an express, unambiguous, and clear at-will termination right, such conduct is only actionable to the extent it constitutes the tort of retaliatory discharge}.]”).\n{46} New Mexico cases analyzing the implied covenant of good faith and fair dealing in insurance contracts reflect a strong public policy in favor of enforcing insurers’ public obligation and restoring balance to the contractual relationship between the insurer and the insured. These cases also help define the parameters of the insurers’ duty of good faith under the contract of insurance and provide guidance for insurers. We therefore conclude that the implied covenant of good faith and fair dealing is a clear mandate of public policy sufficient to support a claim of retaliatory discharge.\nQuestions of Fact Preclude Summary Judgment on Retaliatory Discharge Related to ECS\n{47} Farmers contends that Sherrill has not raised a factual issue concerning whether she acted in furtherance of public policy. Specifically, Farmers claims that as a matter of law ECS does not contravene either Section 59A-16-20, or the implied covenant of good faith and fair dealing, therefore, Sherrill’s objection to and failure to meet the objectives of the ECS program did not further either policy. Farmers also denies that Sherrill was terminated because of her objections to the ECS program. However, with regard to both of these elements of retaliatory discharge the evidence presented at summary judgment raises factual questions.\n{48} Attached to her response to Farmers’ motion for summary judgment, Sherrill produced memoranda she received from her Farmers supervisor, which showed that Sherrill was formally reprimanded numerous times between July 2009 and March 2010 for failing to meet ECS quotas. Notes from an October 27, 2009, meeting between Sherrill and a Farmers supervisor indicated that Sherill was “boycotting” required ECS reporting. Sherill was placed on probation on March 5, 2010, in part for her continued failure to meet ECS quotas. The notice of Sherrill’s termination cited her failure to show significant improvement in her ECS quotas as one of the reasons for her termination. This is sufficient to raise a factual issue as to whether Sherrill was terminated as a result of her opposition to the ECS program.\n{49} Memoranda from Farmers to Sherrill indicate that in March 2010 Farmers’ expectation was that forty-eight percent of claims would be settled through the ECS program. In portions of Sherrill’s deposition testimony that were provided with her response to Farmers’ summary judgment motion, Sherrill testified that she did not meet Farmers’ ECS expectations, because to do so would have required her to settle some claims unfairly and in a manner that was not in the best interest of the claimant. Sherrill testified that there were many claims that she was asked to settle under ECS for which the ECS guidelines would have resulted in unfair settlements. She gave one specific example of a claim that she was instructed to settle through ECS for which she believed ECS would have resulted in a premature, undervalued settlement.\n{50} Sherrill provided an affidavit of a former Farmers claims supervisor, who worked for Farmers from July 2007 through June 2010. In that affidavit, the former Farmers claims supervisor stated that she worked under the same conditions as Sherrill; when she left Farmers the ECS expectation was to settle fifty-four percent of the claims through ECS. According to the former supervisor, the ECS requirement forces claims adjusters to try to settle claims prematurely.\n{51} Sherrill also provided an affidavit of an insurance claims consultant. This claims consultant worked for Farmers, as a claims employee, from June 19 8 7 to August 2001. In his affidavit, the insurance consultant stated that setting quotas for claims to be settled under the guidelines of ECS can result in a conflict between the interests of the insurer and the interests of the insured. According to the consultant, claims that are settled prematurely can be hazardous for accident victims. The consultant stated that when adjusters face pressure to settle a percentage of claims early and for a fixed sum, it increases the potential for adjusters to use undue influence over claimants who are typically financially, physically, and/or emotionally vulnerable. We conclude that this evidence is sufficient to raise a factual question with regard to whether Sherrill’s resistance to ECS objectives furthered the policies embodied in Section 59A-16-20, and the implied covenant of good faith and fair dealing.\nQuestions of Fact Do Not Preclude Summary Judgment on Retaliatory Discharge Related to IPC\n{52} To establish the causation element necessary to sustain a claim for retaliatory discharge, the employee must demonstrate the employer had knowledge that the employee engaged in protected activity. See Lihosit, 1996-NMCA-033, ¶ 17. An employer, “[a]s a matter of logic and of fact,... cannot make an adverse, retaliatory decision based upon information of which [it] is unaware.” Id. (internal quotation marks and citation omitted).\n{53} In the present case, Farmers asserts that Sherrill cannot prove retaliatory discharge based on her opposition to IPC because she did not explicitly complain to Farmers about the IPC program prior to her termination. Sherrill does not dispute Farmers’ contention that she did not directly object to IPC prior to her termination. Rather, she argues that her opposition to the IPC program was implicit in her complaints about the ECS program and her general objection to the unfair and inequitable claims practices that Farmers used to obtain ECS settlements. In other words, Sherrill suggests that her objections concerning Farmers’ ECS requirements were sufficient to put it on notice of her objections to the IPC program. Sherrill points to no evidence indicating that Farmers had actual knowledge of her opposition to the IPC program prior to her termination, and our review of the record discloses none. Id. ¶ 17. “[T]he employer’s motive is a key element[.]” Id. ¶ 12. “[A]n employer cannot fire an employee in retaliation for actions of which the employer is unaware.” Id. (internal quotation marks and citation omitted). Because a key consideration in retaliation cases is the employer’s actual knowledge and motive for the termination, constructive notice is insufficient to “create actual intent to retaliate.” Id. ¶ 15 (internal quotation marks and citation omitted). Accordingly, we conclude that there is no factual issue regarding the causal link between Sherrill’s opposition to the IPC program and her termination.\nIII. CONCLUSION\n{54} For the foregoing reasons, we affirm the district court’s determination that Sherrill failed to establish the necessary causal connection between her opposition to the IPC program and her termination. We reverse the district court’s determination that Sherrill failed to identify a clearly mandated public policy sufficient to support a claim of retaliatory discharge and remand for proceedings consistent with this Opinion.\n{55} IT IS SO ORDERED.\nM. MONICA ZAMORA, Judge\nWE CONCUR:\nMICHAEL D. BUSTAMANTE, Judge\nJ. MILES HANISEE, Judge",
+        "type": "majority",
+        "author": "ZAMORA, Judge."
+      }
+    ],
+    "attorneys": [
+      "O’Friel and Levy, P.C. Daniel J. O’Friel Pierre Levy Aimee Bevan Santa Fe, NM for Appellant",
+      "Lewis Roca Rothgerber, LLP Steven J. Hulsman Ross L. Crown Matthew W. Park Albuquerque, NM for Appellee"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-056\nFiling Date: March 22, 2016\nDocket No. 33,859\nBARBARA SHERRILL, Plaintiff-Appellant, v. FARMERS INSURANCE EXCHANGE, Defendant-Appellee.\nSheri A. Raphaelson, District Judge\nO’Friel and Levy, P.C. Daniel J. O’Friel Pierre Levy Aimee Bevan Santa Fe, NM for Appellant\nLewis Roca Rothgerber, LLP Steven J. Hulsman Ross L. Crown Matthew W. Park Albuquerque, NM for Appellee"
+  },
+  "file_name": "1614-01",
+  "first_page_order": 57,
+  "last_page_order": 71
+}

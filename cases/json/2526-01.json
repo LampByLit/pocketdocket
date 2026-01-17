@@ -1,0 +1,83 @@
+{
+  "id": 12298266,
+  "name": "State Farm Mutual Automobile Insurance Company, as Subrogee of Darci Plumbing Co., Inc., Plaintiff, v. Ruth D. Pender et al., Defendants",
+  "name_abbreviation": "State Farm Mutual Automobile Insurance Co. v. Pender",
+  "decision_date": "2016-10-17",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Misc. 3d 345"
+    },
+    {
+      "type": "parallel",
+      "cite": "41 N.Y.S.3d 396"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 NY3d 416",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        1249152
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/1/0416-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 271,
+    "char_count": 4283,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.250188138381813
+    },
+    "sha256": "7cd8bb9b43d264204f79c35a02334487d1c5866da9c194cd5edfb815a1716a9f",
+    "simhash": "1:1923f1bd8cc6797d",
+    "word_count": 643
+  },
+  "last_updated": "2024-02-27T22:01:30.398291+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State Farm Mutual Automobile Insurance Company, as Subrogee of Darci Plumbing Co., Inc., Plaintiff, v Ruth D. Pender et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJodi Orlow, J.\nDefendants’ motion pursuant to CPLR 3211 (a) (1) and (5) dismissing plaintiff’s complaint and plaintiffs cross motion for sanctions are decided as follows:\nPlaintiff commences this subrogation action to recover $15,200 in additional personal injury protection benefits (APIP) paid to plaintiffs subrogor. Prior to the commencement of this action a workers’ compensation hearing was held on November 24, 2008 determining that Kareem Atkins, the claimant, was in the course of employment with subrogor, Darci Plumbing Co., Inc., and was awarded basic economic loss as a result of an auto accident which occurred on March 17, 2008. Defendants now move to dismiss the complaint pursuant to CPLR 3211 (a) (1) on the ground that defendants’ defense is founded upon documentary evidence and CPLR 3211 (a) (5) on the ground that plaintiff’s cause of action cannot be maintained because of collateral estoppel and res judicata. Plaintiff also cross-moves for sanctions against the defendants pursuant to CPLR 8303-a for frivolous and unethical motion practice.\nIn support of the motion defendants submit the decision of the Workers’ Compensation Board awarding claimant, who is plaintiff’s subrogor’s employee, basic economic loss benefits as a result of the car accident of March 17, 2008. Defendants argue that the workers’ compensation benefits were the exclusive source of coverage for first-party benefits. Defendants also claim that the workers’ compensation decision was res judicata. Plaintiff subrogee claims in opposition that it paid APIP to the claimant, which was in addition to the statutory basic economic loss paid by the workers’ compensation award and therefore its right to subrogate these additional payments was reserved.\nNew York’s No-Fault Law requires that an owner of a vehicle has insurance coverage providing first-party benefits consisting of reimbursement for basic economic loss (health expenses, loss of earnings and other reasonable and necessary expenses) to the extent specified by statute. Where workers’ compensation insurance coverage exists for an injured motorist, the workers’ compensation insurer must pay the injured motorist’s basic economic loss up to $50,000 in lieu of statutory no-fault benefits. (Insurance Law §§ 5102 [a], [b]; 5103 [a].) There is no dispute in this matter that workers’ compensation was required to pay the basic economic loss for the accident. However, in this matter plaintiff subrogee paid APIP to claimant pursuant to its contract of insurance with subrogor, claimant’s employer. The issue at bar is whether APIP payments are synonymous with the statutory basic economic loss benefit or a contractual benefit in addition to the statutory basic economic loss benefit.\n11 NYCRR 65-1.3 defines APIP benefits as:\n“Additional first-party benefits are payments equal to extended economic loss reduced by: . . .\n“(b) amounts recovered or recoverable on account of personal injury to an eligible injured person under State or Federal laws providing . . . workers’ compensation benefits . . . which amounts have not been applied to reduce first-party benefits recovered or recoverable under basic economic loss.”\nSince an insured’s subrogation rights with regard to payment of APIP benefits are equitable rather than statutory in nature, they exist under common law. (Allstate Ins. Co. v Stein, 1 NY3d 416 [2004].) The workers’ compensation award in this matter may be distinguishable from the APIP benefits. Therefore the workers’ compensation award was not res judicata and plaintiff is not precluded from asserting its subrogation rights for any amounts paid in addition to the statutory basic economic loss benefits paid by workers’ compensation in lieu of first-party benefits. Accordingly, defendants’ motion to dismiss is denied in its entirety.\nPlaintiff’s cross motion seeking sanctions against the defendants is further denied.",
+        "type": "majority",
+        "author": "Jodi Orlow, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Kim, Patterson & Sciarrino, P.C., Bayside, for defendants. Serpe, Andree, & Kaufman, Huntington, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[41 NYS3d 396]\nState Farm Mutual Automobile Insurance Company, as Subrogee of Darci Plumbing Co., Inc., Plaintiff, v Ruth D. Pender et al., Defendants.\nCivil Court of the City of New York, Queens County,\nOctober 17, 2016\nAPPEARANCES OF COUNSEL\nKim, Patterson & Sciarrino, P.C., Bayside, for defendants. Serpe, Andree, & Kaufman, Huntington, for plaintiff."
+  },
+  "file_name": "2526-01",
+  "first_page_order": 333,
+  "last_page_order": 335
+}

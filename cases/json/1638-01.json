@@ -1,0 +1,660 @@
+{
+  "id": 12166687,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. CHARLES SUSKIEWICH, Defendant-Appellant",
+  "name_abbreviation": "State v. Suskiewich",
+  "decision_date": "2015-09-28",
+  "docket_number": "No. 35,560; Docket No. 33,979",
+  "first_page": "176",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "2011-NMCA-046",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4248994
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 28"
+        },
+        {
+          "page": "¶ 29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0536-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-020",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4243581
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0251-01"
+      ]
+    },
+    {
+      "cite": "100 N.M. 694",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1588669
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/100/0694-01"
+      ]
+    },
+    {
+      "cite": "1983-NMCA-150",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2000-NMCA-033",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1217108
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/129/0047-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-033",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4248627
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 34"
+        },
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0506-01"
+      ]
+    },
+    {
+      "cite": "1996-NMSC-073",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        322297
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 35"
+        },
+        {
+          "parenthetical": "stating that evidence of intoxication \"may not be used ... to reduce second}] degree murder to voluntary manslaughter, or involuntary manslaughter or to completely excuse a defendant from the consequences of his unlawful act\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0724-01"
+      ]
+    },
+    {
+      "cite": "2007-NMCA-095",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3692177
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0267-01"
+      ]
+    },
+    {
+      "cite": "2009-NMCA-052",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4244137
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0208-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-018",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4250024
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶¶ 16-18"
+        },
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0294-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-105",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4251180
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 28"
+        },
+        {
+          "page": "¶30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0683-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-030",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4248919
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 18"
+        },
+        {
+          "page": "¶ 18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0498-01"
+      ]
+    },
+    {
+      "cite": "2006-NMCA-100",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3671000
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 9"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/140/0258-01"
+      ]
+    },
+    {
+      "cite": "1997-NMSC-006",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        322282
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 19-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/122/0777-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 630",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5856668
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0630-01"
+      ]
+    },
+    {
+      "cite": "339 P.3d 614",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2007-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3670038
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0178-01"
+      ]
+    },
+    {
+      "cite": "345 P.3d 1103",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-032",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4240653
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0493-01"
+      ]
+    },
+    {
+      "cite": "348 P.3d 1057",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-056",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4241213
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶ 32"
+        },
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/7/0751-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-074",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4250449
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0415-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-038",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4243125
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "¶21"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "¶ 12"
+        },
+        {
+          "page": "¶ 35"
+        },
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0499-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 302",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204451
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "313",
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "315"
+        },
+        {
+          "page": "315-16"
+        },
+        {
+          "page": "315"
+        },
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0302-01"
+      ]
+    },
+    {
+      "cite": "2003-NMCA-048",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        15780
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/133/0495-01"
+      ]
+    },
+    {
+      "cite": "2009-NMCA-074",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4243104
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0594-01"
+      ]
+    },
+    {
+      "cite": "283 P.3d 272",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-023",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4189768
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0264-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 514",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9139028
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "530"
+        },
+        {
+          "page": "533",
+          "parenthetical": "\"[Tjhese factors have no talismanic qualities; courts must . . . engage in a difficult and sensitive balancing process.\""
+        },
+        {
+          "page": "530",
+          "parenthetical": "\"Until there is some delay which is presumptively prejudicial, there is no necessity for inquiry into the other factors that go into the balance.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0514-01"
+      ]
+    },
+    {
+      "cite": "2015-NMCERT-008",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-081",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4362236
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        },
+        {
+          "page": "¶ 4"
+        },
+        {
+          "page": "¶ 7"
+        },
+        {
+          "page": "¶ 5"
+        },
+        {
+          "page": "¶ 27"
+        },
+        {
+          "page": "¶ 29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0340-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1275,
+    "char_count": 35788,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24680415730801294
+    },
+    "sha256": "dfc35afdd009dd32ab3302f54e59dbb41ae5691fee88ad753aa294a36310fb3c",
+    "simhash": "1:b90eb451e7a10fcb",
+    "word_count": 5693
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MICHAEL D. BUSTAMANTE, Judge",
+      "JAMES J. WECHSLER, Judge",
+      "JONATHAN B. SUTIN, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. CHARLES SUSKIEWICH, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nBUSTAMANTE, Judge.\n{1} Defendant Charles Suskiewich appeals his conviction for second degree murder on the ground that he was deprived of his right to a speedy trial. He also argues that his sentence of twelve years incarceration is cruel and unusual punishment. We disagree and affirm.\nBACKGROUND\n{2} Defendant was arrested on December 25, 2011, for the fatal shooting of Dylan Breternitz. He was indicted on January 19, 2012, for first degree murder, tampering with evidence, and receiving stolen property. He was convicted of second degree murder after a jury trial in January 2014. The total time elapsed between December 25, 2011, and the first day of trial, January 13, 2014, was twenty-four months and nineteen days. Defendant was incarcerated throughout this period. Additional facts are included in our discussion of Defendant’s arguments.\nDISCUSSION\n{3} On appeal, Defendant makes two main arguments. First, he maintains that he was denied a speedy trial in violation of the United States and New Mexico Constitutions. See U.S. Const, amend VI; N.M. Const, art. II, § 14. Second, he maintains that his twelve-year sentence denied him due process and subjected him to cruel and unusual punishment. We begin with Defendant’s speedy trial argument.\nA. Defendant’s Right to a Speedy Trial Was Not Violated\n{4} Both the United States and New Mexico Constitutions provide for a speedy trial. U.S. Const, amend. VI (stating that “the accused shall enjoy the right to a speedy and public trial”); N.M. Const, art. II, § 14 (stating that the accused has a right to “a speedy public trial”). “It is ultimately the state’s responsibility to bring a defendant to trial in a timely manner.” State v. Flores, 2015-NMCA-081, ¶ 3, _ P.3d _ (alterations, internal quotation marks, and citation omitted), cert. denied, 2015-NMCERT-008, _ P.3d _. Whether a defendant’s right to a speedy trial has been violated depends on analysis of four factors: the “[Ijength of delay, the reason for the delay, the defendant’s assertion of his right, and prejudice to the defendant.” Barker v. Wingo, 407 U.S. 514, 530 (1972). “Each of these factors is weighed either in favor of or against the State or the defendant, and then balanced to determine if a defendant’s right to a speedy trial was violated.” State v. Spearman, 2012-NMSC-023, ¶ 17, 283 P.3d 272; see Barker, 407 U.S. at 533 (“[Tjhese factors have no talismanic qualities; courts must . . . engage in a difficult and sensitive balancing process.”). Speedy trial claims are assessed on a case-by-case basis. State v. Palacio, 2009-NMCA-074, ¶ 9, 146 N.M. 594, 212 P.3d 1148. In each case, we defer to the district court’s factual findings but assess the weight of each factor de novo. Flores, 2015-NMCA-081, ¶ 4.\nLength of Delay\n{5} We assess the length of delay for two purposes. First, we consider whether the period from arrest to trial is presumptively prejudicial as defined by our Supreme Court: “A delay of trial of one year is presumptively prejudicial in simple cases, fifteen months in intermediate cases, and eighteen months in complex cases.” Spearman, 2012-NMSC-023, ¶ 21; see Barker, 407 U.S. at 530 (“Until there is some delay which is presumptively prejudicial, there is no necessity for inquiry into the other factors that go into the balance.”). Here, the district court determined that the case was of intermediate complexity, and the parties appear to agree with this assessment. See State v. Plouse, 2003-NMCA-048, ¶ 42, 133 N.M. 495, 64 P.3d 522 (“We give due deference to the district court’s findings as to the level of complexity.”). We therefore employ the presumptively prejudicial threshold of fifteen months.\n{6} We pause here to note that the district court did not include in its calculation of the time between arrest and trial, the five months during which the State’s interlocutory appeal was under review. Since it excluded this period, the district court calculated the length of the delay as nineteen months (four months beyond the presumptively prejudicial threshold) instead of twenty-four (nine months beyond the presumptively prejudicial threshold). W e disagree that this period should be excluded altogether from a speedy trial analysis. In United States v. Loud Hawk, the Court held that “[ujnder Barker, delays in bringing the case to trial caused by the Government’s interlocutory appeal may be weighed in determining whether a defendant has suffered a violation of his rights to a speedy trial.” Loud Hawk, 474 U.S. 302, 316 (1986). In Flores, this Court included a sixteen-month period related to the state’s appeal in its calculation of the length of delay and in its assessment of the reasons for delay. 2015-NMCA-081, ¶ 7 (stating that the delay was sixty-two months); id. ¶¶ 27-29 (discussing whether the period on appeal weighed against the State). We conclude that the district court should have included the time spent in the appellate process in its calculation of the length of delay in the present case.\n{7} The parties agree on appeal that approximately twenty-four months elapsed between Defendant’s arrest and trial. Thus, the delay here exceeds the presumptively prejudicial threshold by approximately nine months. The fifteen-month threshold period having been exceeded, we proceed to assess the Barker factors, including the weight of the length of delay beyond the threshold. State v. Garza, 2009-NMSC-038, ¶21, 146 N.M. 499, 212 P.3d 387 (stating that “a ‘presumptively prejudicial’ length of delay is simply a triggering mechanism, requiring further inquiry into the Barker factors”). “[W]e consider how long the delay extends beyond [the] presumptively prejudicial period, because the greater the delay the more heavily it will potentially weigh against the state.” Flores, 2015-NMCA-081, ¶ 5 (alteration, internal quotation marks, and citation omitted).\n{8} In other intermediate complexity cases, we have held that a delay of six months beyond the threshold weighed only slightly against the state. State v. Montoya, 2011-NMCA-074, ¶ 17, 150 N.M. 415, 259 P.3d 820. We have also held that a delay of twelve months beyond the threshold weighed “moderately to heavily” against the state. State v. Montoya, 2015-NMCA-056, ¶ 15, 348 P.3d 1057. We conclude that here the nine-month delay beyond the fifteen-month threshold weighs moderately against the State.\nReasons for Delay\n{9} Defendant argues that the delay in proceedings was caused by (1) “the State’s failure to timely and adequately produce discovery,” (2) “the State’s motion for reconsideration of the [district] court’s suppression of . . . evidence,” and (3) the State’s appeal of the district court’s suppression of evidence. Different reasons for delay are assigned different weights. State v. Lujan, 2015-NMCA-032, ¶ 15, 345 P.3d 1103. “There are three types [of delay]: (1) deliberate or intentional delay; (2) negligent or administrative delay; and (3) delay for which there is a valid reason.” Id. (internal quotation marks and citation omitted). The first type weighs “heavily against the government[,]” whereas “[negligent or administrative delay weighs against the [s]tate, though not heavily.” Id. (internal quotation marks and citation omitted).\n{10} We begin with a review of the events leading to trial. After arraignment, trial was set for August 2012. All told, trial was subsequently postponed four times until it was finally held in January 2014. The first continuance (from August 2012 to November 2012) was at the request of Defendant with the State’s concurrence. At the May 2012 hearing, at which Defendant first requested the continuance, Defendant stated that he would “waive all time limits” but the written motion to continue did not include any waiver of Defendant’s speedy trial rights. The ground for Defendant’s motion was “that discovery is continuing and the parties anticipate requiring additional time to complete discovery.” The trial was postponed to November 26, 2012. The day after the May hearing, Defendant filed a demand for discovery.\n{11} When the State did not respond to Defendant’s demand for discovery, Defendant sent two follow-up letters in June and July 2012. The State did not respond. Defendant then filed a motion to compel discovery and requested an expedited hearing on the motion. The hearing was held in October 2012. Defendant stated at the hearing that some of the items requested had been provided and enumerated those still pending. The State explained that it was awaiting receipt of some of the remaining items from law enforcement. The district court granted the motion to compel, ordered Defendant to draft an order listing the missing items, and set a deadline for receipt of the materials or an explanation for their unavailability. Defendant notified the district court that a second continuance might be necessary due to the delay in discovery. On November 13, 2012, the State filed a stipulated motion for continuance, citing a need for time for both discovery and “evaluation of] the [district c]ourt’s ruling on [a] motion to suppress [evidence].” The November 2012 trial date was continued.\n{12} From November 2012 through February 2013, the case took a number of interesting twists and turns. First, in December 2012 Judge Andria L. Cooper granted Defendant’s motion to suppress evidence, including a gun found in Defendant’s home and inculpatory statements Defendant made to officers. Shortly thereafter, Judge Cooper, who had been assigned to the case from its inception but who was not retained in the general election, was replaced by Judge Jeff F. McElroy. January 2013 saw a flurry of activity. The State moved for reconsideration of the suppression of evidence. Judge McElroy reset the trial for May 21, 2013. On January 17, 2013, Defendant exercised his right to excuse Judge McElroy and Judge Sarah C. Backus was assigned the case. The day after the assignment, Judge Backus recused herself. The case was then assigned to Judge John M. Paternoster, but he was excused on motion by the State. Finally, on February 15, 2013, the Supreme Court appointed Judge James A. Hall to oversee the case.\n{13} After a scheduling conference in March 2013 in which the State represented that it could be ready for trial in July 2013 and Defendant agreed with the State that “July-August might be reasonable” for trial, Judge Hall continued the trial a third time, setting it for July 22, 2013. After reviewing the record developed before Judge Cooper regarding the suppression motion, Judge Hall denied the State’s motion for reconsideration in April 2013. That same month, the State filed an appeal of the denial of its reconsideration motion. The notice of appeal stated that it was “not taken for the purpose of delay, and that the evidence is a substantial proof of a fact material in the proceeding.”\n{14} But the State erroneously filed the notice of appeal with this Court rather than with the Supreme Court, which has jurisdiction over interlocutory appeals in cases in which “a defendant may possibly be sentenced to life imprisonment or death.” State v. Smallwood, 2007-NMSC-005, ¶ 11, 141 N.M. 178, 152 P.3d 821. After Defendant pointed out the error to the State, the matter was transferred to the Supreme Court, which did not occur until June 5, 2013. State v. Suskiewich, 2014 NMSC 040, ¶ 4, 339 P.3d 614 (decision). The Supreme Court dismissed the appeal on September 12, 2013, holding that “the State may ask the district court to reconsider a suppression order while at the same time preserving the State’s right to appeal the suppression order, provided that the State files its motion to reconsider within ten days of the filing of the suppression order.” Id. ¶ 1. Since the State did not file its motion to reconsider within that time period, “the State failed to preserve its right to appeal.” Id. The Court did not address the merits of the State’s appeal. Id.\n{15} When the State filed its appeal in this case, the district court lost jurisdiction over the case and the July 2013 trial date was necessarily vacated while the appeal was pending. See Flores, 2015-NMCA-081, ¶ 27. The case was remanded to the district court in October 2013 and within two weeks, was set for trial to be held January 13, 2014.\n{16} We turn now to Defendant’s arguments. Although Defendant concurred in three of the trial continuances, he maintains that the continuances were only necessary because the State deliberately failed to provide him with required discovery despite his repeated requests. He argues that therefore this delay should weigh heavily against the State. See Garza, 2009-NMSC-038, ¶ 25 (stating that “a deliberate attempt to delay the trial in order to hamper the defense should be weighted heavily against the government.” (alteration, internal quotation marks, and citation omitted)). But Defendant acknowledged in hearings in the district court that the parties were “working cooperatively” to review the evidence and that he was aware that the State was having difficulty obtaining the requested evidence from law enforcement. Moreover, in the scheduling conference leading to the third continuance, Defendant agreed with the State’s proposal to reset the trial and stated that some of the outstanding items requested from the State were “minor.” On appeal, he points to no evidence that the State “had intentionally held back in its prosecution of [the defendant] to gain some impermissible advantage at trial.” Id. (internal quotation marks and citation omitted).\n{17} We conclude that, even if these continuances were the result of the State’s failure to provide discovery, they fall into the “negligent or administrative” category of delay, which weighs against the State. See id. ¶ 28 (holding that since “[tjhere [was] nothing in the record to suggest that the [s]tate caused [a] four-month delay intentionally or in bad fhith[,]” the “delay was negligent and weighs against the [s]tate”). “Our toleration of such negligence varies inversely with its protractedness, and its consequent threat to the fairness of the accused’s trial.” Id. ¶ 26 (alteration, internal quotation marks, and citation omitted). In Garza, the Court held that administrative delay weighed only slightly against the State where the length of the delay was just over ten months in a simple case. Id. ¶¶ 23, 30. Similarly, here, the delay attributed to these continuances was approximately eleven months and, therefore, we weigh it only slightly against the State.\n{18} Defendant next argues that the State failed to file a timely motion to reconsider the district court’s suppression of evidence and that it “instead movfed] to reconsider the suppression order not before the judge who issued the order but before a fellow [prosecutor-turned-judge, Judge McElroy] who . . . took over the case in an effort to reopen the issue and introduce evidence it had a full opportunity to introduce at the suppression hearing.” But Defendant does not explain how the State’s motion for reconsideration delayed his trial. The State’s motion for an evidentiary hearing on the suppression issue was denied, as was the motion to reconsider. Even if the State deliberately sought to have the motion to reconsider heard before the prosecutor-turned-judge, that plan was thwarted when Defendant peremptorily excused that judge.\n{19} Finally, Defendant argues that the State deliberately delayed the case by “appealing the denial of its motion to reconsider in an effort to circumvent the statutory time limits for appealing the suppression order, which was the heart of the State’s appeal.” “The assurance that motions to suppress evidence or to dismiss an indictment are correctly decided through orderly appellate review safeguards both the rights of defendants and the rights of public justice. ” Loud Hawk, 474 U.S. at 313 (internal quotation marks and citation omitted) .In Loud Hawk, the Supreme Court held that “an interlocutory appeal by the Government ordinarily is a valid reason that justifies delay.” Id. at 315. However, “a delay resulting from an appeal would weigh heavily against the Government if the issue were clearly tangential or frivolous.” Id. at 315-16. When reviewing whether a delay caused by an appeal is justified, we may consider “the strength of the Government’s position on the appealed issue, the importance of the issue in the posture of the case, and—in some cases—the seriousness of the crime.” Id. at 315. “Moreover, the charged offense usually must be sufficiently serious to justify restraints that may be imposed on the defendant pending the outcome of the appeal.” Id. at 316.\n{20} Here, Defendant argued in his motion to suppress, among other things, that Article II, Section 15 of the New Mexico Constitution provides greater protections than the Fifth Amendment of the U.S. Constitution. More specifically, he argued that the reasoning in United States v. Patane, 542 U.S. 630 (2004), was flawed and inconsistent with the New Mexico Constitution. See State v. Gomez, 1997-NMSC-006, ¶¶ 19-20, 122 N.M. 777, 932 P.2d 1 (adopting “the interstitial approach” to interpretation of state constitutions and stating that under this approach “[a] state court . . . may diverge from federal precedent for three reasons: a flawed federal analysis, structural differences between state and federal government, or distinctive state characteristics”). Patane holds that, under the United States Constitution, “the failure to give Miranda warnings did not require suppression of evidence that was the fruit of a suspect’s unwarned but voluntary statements.” State v. Adame, 2006-NMCA-100, ¶ 10, 140 N.M. 258, 142 P.3d 26. The district court agreed with Defendant and concluded that the reasoning in Patane was flawed and also that the New Mexico Constitution had distinct characteristics that provide greater protections than the United States Constitution. It concluded that “it is clear that Article II, Section 15 [of the New Mexico Constitution] provides that physical evidence obtained as a result of a Miranda violation should be suppressed.”\n{21} In its motion to reconsider the suppression of evidence, the State argued that “Patane is valid law in New Mexico[,]” citing State v. Olivas, 2011-NMCA-030, ¶ 18, 149 N.M. 498, 252 P.3d 722, and that several recent New Mexico cases state that Article II, Section 15 has not been interpreted to provide more protections than the Fifth Amendment, citing State v. Randy J., 2011-NMCA-105, ¶ 28, 150 N.M. 683, 265 P.3d 734, and State v. Quinones, 2011-NMCA-018, ¶¶ 16-18, 149 N.M. 294, 248 P.3d 336. Olivas, however, contains no mention of Article II, Section 15 and its discussion of Patane cites to Adame, in which this Court expressly stated that its analysis was based only on the United States Constitution. See Olivas, 2011-NMCA-030, ¶ 18; see also Adame, 2006-NMCA-100, ¶ 9 (stating that it considered the issue “solely as a question of federal law because [the defendant did not argue at trial and does not argue on appeal that Patane should not be followed as a matter of state constitutional law”). In Randy J., the Court declined to review the appellant’s arguments regarding greater protections under Article II, S ection 15 because they were undeveloped. 2011-NMCA-105, ¶30. Similarly, in Quinones, this Court stated that the defendant there “provide[d] us with no specific argument as to why the existing federal analysis is flawed” and that “[the defendant also [did] not argue that there are any structural differences between our state and the federal government or that distinctive New Mexico characteristics would militate in favor of greater protections under our state constitution.” 2011-NMCA-018, ¶ 17. Neither Randy J. nor Quinones stands for the proposition that Article II, Section 15 will never be interpreted more expansively than its federal counterpart.\n{22} Further, none of the six New Mexico cases that cite Patane addresses whether Article II, Section 15 requires the suppression of physical evidence obtained as a result of a Miranda violation. See, e.g., State v. Mark, No. 34,025, dec. ¶ 18 n.1 (N.M. Sup. Ct. Apr. 13, 2015) (nonprecedential) (assessing the suppression of physical evidence obtained as a result of unwarned statements, applying Patane, and noting that the Court’s analysis was based only on federal law because the defendant did not argue that the New Mexico Constitution provided him with greater protections); State v. Garcia, No. 33,756, dec. ¶ 41 (N.M. Sup. Ct. June 26, 2014) (nonprecedential) (relying on Olivas and not addressing Article II, Section 15); Olivas, 201 l-NMCA-030, ¶ 18 (relying on Adame and not addressing Article II, Section 15); State v. Perry, 2009-NMCA-052, ¶ 31, 146 N.M. 208, 207 P.3d 1185 (stating that “[the d] efendant [did] not demonstrate!] that Article II, Section 15 ofthe New Mexico Constitution requires investigators to clarify whether a suspect has invoked the right to remain silent”); State v. Verdugo, 2007-NMCA-095, ¶ 17, 142 N.M. 267, 164 P.3d 966 (referencing only the Fifth Amendment); Adame, 2006-NMCA-100, ¶ 9 (addressing whether unwarned statements can be the basis for a search warrant and addressing it “solely as a question of federal law because [the defendant did not argue at trial and does not argue on appeal that Patane should not be followed as a matter of state constitutional law”).\n{23} We provide this discussion of the State’s arguments not to address them on the merits, but to point out that one of the bases for the district court’s suppression of the evidence rested on an issue of law not yet resolved in New Mexico. The fact that the Supreme Court ultimately dismissed the appeal as untimely has no bearing on whether the appeal was frivolous or not. Thus, we agree with the district court that the State’s appeal ofthatdecision addressed a question of law that was not frivolous. We conclude that the five-month period during which the State’s appeal was pending therefore does not weigh against either party. See Flores, 2015-NMCA-081, ¶ 29.\nAssertion of Speedy Trial Right\n{24} “In determining the weight to assign to a defendant’s assertion of his speedy trial right, we assess the timing of the defendant’s assertion and the manner in which the right was asserted.” Lujan, 2015-NMCA-032, ¶ 17 (internal quotation marks and citation omitted). The State argues that Defendant first asserted the right in his motion to dismiss, and the district court so found. Defendant appears to concede that he did not make an explicit demand for trial or assertion of his right before the motion to dismiss was filed, but counters that he nevertheless adequately asserted his speedy trial right by moving to compel discovery, “[talcing] it upon himself to notify the State when it filed its appeal in the wrong appellate court” and moving to dismiss the State’s appeal. In Lujan, this Court held that the defendant adequately asserted his right “by filing his motion to dismiss about nine months after the [s]tate refiled the charges against him and about five months before he was scheduled to go to trial.” Id. ¶ 19. We noted that “a motion to dismiss based on speedy trial grounds is an assertion of the right that is weighed against the government, although it is generally not weighed heavily.” Id. ¶ 18. Even if we construe Defendant’s other actions as efforts to move the case to trial, we conclude that this factor weighs only slightly in his favor.\nPrejudice to Defendant\n{25} “The heart of the right to a speedy trial is preventing prejudice to the accused.” Garza, 2009-NMSC-038, ¶ 12. There are “three interests under which we analyze prejudice to the defendant: (i) to prevent oppressive pretrial incarceration; (ii) to minimize anxiety and concern of the accused; and (iii) to limit the possibility that the defense will be impaired.” Id. ¶ 35 (internal quotation marks and citation omitted). “The evidence must . . . establish that the alleged prejudice occurred as a result of the delay in trial beyond the presumptively prejudicial threshold as opposed to the earlier prejudice arising from the original indictment.” Montoya, 2015-NMCA-056, ¶ 25. Defendant argues that he was prejudiced because he suffered from anxiety and concern, and his defense was impaired because “two of the eight potential defense witnesses who could have provided testimony essential to [his] defense . . . were no longer available to testify.”\n{26} Recognizing that “some degree of oppression and anxiety is inherent for every defendant who is jailed while awaiting trial},]” we consider only the anxiety that is “undue.” Garza, 2009-NMSC-038, ¶ 35 (alterations, internal quotation marks, and citation omitted). At the hearing on the motion to dismiss, Defendant presented testimony by Dr. Kotsch, a psychologist who treated Defendant while he was incarcerated. Dr. Kotsch testified about the effects of forced idleness on inmates, including uncertainty, a sense of loss and hopelessness, and a lack of purpose. He stated that Defendant was experiencing anxiety due to the lack of routine and uncertainty while incarcerated. Critically, Defendant did not present evidence that his anxiety increased over time or was tied to the nine-month delay in the trial date beyond the fifteen-month threshold. See Montoya, 2015-NMCA-056, ¶ 32 (distinguishing between anxiety caused by indictment and anxiety caused by delay and stating that in that case the “initial harm [caused by indictment] was unnecessarily prolonged by the [sjtate’s failure . . . to . . . move this case forward to a timely trial”).\n{27} The district court found that the anxiety suffered by Defendant was not greater than that suffered by any person awaiting trial on similar charges. Defendant argues that the district court’s analysis was flawed because “[a] defendant is not required to show that he experienced greater anxiety and concern than that attending most criminal prosecutions.” Id. ¶ 25 (internal quotation marks and citation omitted). Instead, “[t]he operative question is whether the anxiety and concern, once proved, has continued for an unacceptably long period.” Id. (internal quotation marks and citation omitted). In Montoya, the Court held that prejudice was demonstrated where the defendant “had become depressed, paranoid, and isolated;... his participation in his church and his relationship with his children deteriorated; [and] he lost about thirty pounds due to the anxiety of the pending charges.” Id. ¶ 31. These effects continued for an “unacceptably long period” because the state “fail[ed] over the course of fourteen months to make its witnesses available to the defense.” Id. ¶¶ 31-32. The Court agreed with the district court that the defendant’s showing of prejudice weighed “slightly to moderately” in his favor. Id. ¶ 32.\n{28} We agree with the district court that Defendant failed to demonstrate that the anxiety he suffered was undue, because Defendant failed to show that the anxiety he suffered was due to the State’s failure to prosecute the case, and not due to the indictment itself, stipulated continuances, or the State’s appeal, which we have already concluded was taken in good faith. We note further that even in Montoya, where the defendant demonstrated substantial anxiety due to the delay and that the delay was due to the state’s failure to move the case along, the Court nevertheless weighed the prejudice only “slightly to moderately” in his favor. Id.\n{29} Finally, Defendant argues that his defense was impaired by the delay. Specifically, he maintains that two defense witnesses were unavailable at the time of trial due to the delay. Defendant states on appeal that these witnesses “could have provided testimony essential to [his] defense of inability to form specific intent].]” After hearing testimony by an investigator about what he learned from the witnesses, the district court found that it was speculative whether the witnesses would have been available to testify earlier and that other witnesses could testify to Defendant’s intoxication around the time of the shooting. “[W]e defer to the district court’s factual findings concerning each [Barker] factor as long as they are supported by substantial evidence[.]” Montoya, 2015-NMCA-056, ¶ 12.\n{30} Furthermore, although Defendant was charged with first degree murder, the jury found that he did not have the requisite specific intent required for that charge and instead convicted him of second degree murder. See State v. Brown, 1996-NMSC-073, ¶ 35, 122 N.M. 724, 931 P.2d 69 (“We hold that evidence of intoxication may be considered to reduce first}] degree depraved mind murder to second[]degree murder.”). Even without these witnesses, Defendant’s defense based on lack of specific intent was obviously successful to reduce first degree murder to second degree murder. But since Defendant conceded at trial that he shot Breternitz and intoxication is not a defense to second degree murder, additional testimony on Defendant’s intoxication would not have had an impact on the outcome of the trial. Id. (stating that evidence of intoxication “may not be used ... to reduce second}] degree murder to voluntary manslaughter, or involuntary manslaughter or to completely excuse a defendant from the consequences of his unlawful act”). The unavailability of these two defense witnesses therefore was not prejudicial to Defendant’s defense. “}W]e hold that [the defendant failed to make a particularized showing of prejudice that is cognizable under the prejudice factor.” Parrish, 2011-NMCA-033, ¶ 34.\nBalancing the Factors\n{31} In sum, the length of delay weighs moderately in Defendant’s favor, while the reasons for delay and Defendant’s assertion of the speedy trial right weigh slightly in his favor. Nevertheless, because Defendant has failed to demonstrate that he was prejudiced by the delay, we conclude that his right to a speedy trial was not violated. Garza, 2009-NMSC-038, ¶ 40 (holding that where “[the defendant failed to show prejudice, and the other factors do not weigh heavily in [the defendant's favor . . . [the Supreme Court could not] conclude that [the defendant's right to a speedy trial was violated”); Montoya, 201 l-NMCA-0744 24 (“Thus, [the defendant’s failure to make an affirmative showing of particularized prejudice precludes a determination that his speedy trial right was violated because the other three factors weigh only slightly against the [s]tate.”).\nB. Defendant’s Sentence Was Legally and Constitutionally Sound\n{32} The basic sentence for second degree murder is fifteen years. NMSA 1978, § 30-2-1(B) (1994); NMSA 1978, § 31-18-15(A)(4) (2007). The sentence may be enhanced by one year if it involves the use of a firearm. NMSA 1978, § 31-18-16(A) (1993). If the district court finds aggravating or mitigating circumstances, the sentence may deviate from these guidelines. State v. Cumpton, 2000-NMCA-033, ¶ 8, 129 N.M. 47, 1 P.3d 429.\n{33} Here, the district court sentenced D efendant to sixteen years, but suspended four years, for a total sentence of twelve years of incarceration followed by two years of parole. Defendant argues that, although his sentence was legal, it was cruel and unusual and denied him due process. See U.S. Const. amends. V, VIII, XIV; N.M. Const. art. II, §§ 13, 18. While acknowledging that the sentence was “similar to sentences imposed for the same offense in New Mexico},]” Defendant argues that “his punishment is excessive in light of the fact that he took responsibility for his actions, was completely remorseful, and was deemed a candidate for rehabilitation” in several evaluations.\n{34} Apparently conceding that this issue was not preserved below and relying on State v. Sinyard, Defendant maintains that “[a]n unconstitutional sentence is an illegal sentence that may be challenged for the first time on appeal.” See 1983-NMCA-150, ¶ 1, 100 N.M. 694, 675 P.2d 426. Defendant’s reliance is misplaced. In State v. Chavarria, the Court noted that Sinyard’s challenge was to the legality of the sentence under a statute, not the constitutionality of the sentence. 2009-NMSC-020, ¶ 14, 146 N.M. 251, 208 P.3d 896. The Chavarria Court reiterated that “a sentence authorized by statute, but claimed to be cruel and unusual punishment under the state and federal constitutions, does not implicate the jurisdiction of the sentencing court and, therefore, may not be raised for the first time on appeal.” Id. Since Defendant’s argument was not preserved, we review it only for fundamental error. State v. Castillo, 2011-NMCA-046, ¶ 28, 149 N.M. 536, 252 P.3d 760 (recognizing that “an appellate court may consider jurisdictional questions and questions involving fundamental error even where the party failed to preserve those issues”); Rule 12-216(B)(2) NMRA.\n{35} “The doctrine of fundamental error applies only under exceptional circumstances and only to prevent a miscarriage of justice. The error must shock the conscience or implicate a fundamental unfairness within the system that would undermine judicial integrity if left unchecked.” Castillo, 2011-NMCA-046, ¶ 29 (internal quotation marks and citations omitted). Because the Legislature is charged with defining crimes and setting penalties, “in almost all cases a statutorily lawful sentence does not constitute cruel and unusual punishment.” Id. ¶ 31 (internal quotation marks and citation omitted).\n{36} The essence ofDefendant’s argument is that the district court refused to mitigate his sentence. But the district court heard from nine witnesses on Defendant’s behalf, including Defendant. The fact is that, after hearing this evidence, the district court “merely did not mitigate.” Cumpton, 2000-NMCA-033, ¶ 9. To decline to mitigate is within the district court’s discretion. Id. ¶ 12 (“There is no obligation on the part of a judge to depart from the basic sentence. The opportunity for a district court to mitigate a sentence depends solely on the discretion of the court and on no entitlement derived from any qualities of the defendant.”). Moreover, because Defendant’s sentence was consistent with the governing statutes, we discern no fundamental error. “Defendant is entitled to no more than a sentence prescribed by law, and he received one in this case.” Id.\nCONCLUSION\n{37} Having found no violation of Defendant’s right to a speedy trial and that the sentence imposed was legally and constitutionally sound, we affirm Defendant’s conviction and sentence.\n{38} IT IS SO ORDERED.\nMICHAEL D. BUSTAMANTE, Judge\nWE CONCUR:\nJAMES J. WECHSLER, Judge\nJONATHAN B. SUTIN, Judge\nThe latter two charges were dismissed prior to trial.\nAlthough Defendant does not make an argument related to any delay related to multiple reassignments of judges, wo note that any delay caused by the shuffle of judges in January and February 2013 is an administrative delay that weighs only slightly against the State. Id. ¶¶ 29-30. But see State v. Parrish, 2011-NMCA-033, ¶ 25, 149 N.M. 506, 252 P.3d 730 (weighing the period in which judges were reassigned neutrally where the State “produced discovery, identified witnesses, and requested discovery from [the djefendant” and “the case progressed with customary promptness during this period”).",
+        "type": "majority",
+        "author": "BUSTAMANTE, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM Kenneth H. Stalter, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Jorge A. Alvarado, Chief Public Defender Kathleen T. Baldridge, Assistant Appellate Defender Santa Fe, NM for Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, November 17, 2015,\nNo. 35,560\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-004\nFiling Date: September 28, 2015\nDocket No. 33,979\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. CHARLES SUSKIEWICH, Defendant-Appellant.\nHector H. Balderas, Attorney General Santa Fe, NM Kenneth H. Stalter, Assistant Attorney General Albuquerque, NM for Appellee\nJorge A. Alvarado, Chief Public Defender Kathleen T. Baldridge, Assistant Appellate Defender Santa Fe, NM for Appellant"
+  },
+  "file_name": "1638-01",
+  "first_page_order": 192,
+  "last_page_order": 202
+}

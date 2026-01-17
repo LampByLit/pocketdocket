@@ -1,0 +1,467 @@
+{
+  "id": 12434270,
+  "name": "Robert McGregor, Plaintiff, v. Arnold McGregor, Defendant",
+  "name_abbreviation": "McGregor v. McGregor",
+  "decision_date": "2017-02-07",
+  "docket_number": "",
+  "first_page": "586",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Misc. 3d 586"
+    },
+    {
+      "type": "parallel",
+      "cite": "48 N.Y.S.3d 877"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "146 AD3d 869",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        12306597
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/146/0869-01"
+      ]
+    },
+    {
+      "cite": "77 NY2d 761",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0761-01"
+      ]
+    },
+    {
+      "cite": "42 AD3d 239",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3553536
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/42/0239-01"
+      ]
+    },
+    {
+      "cite": "37 AD2d 959",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3264034
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/37/0959-01"
+      ]
+    },
+    {
+      "cite": "59 AD3d 439",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3916211
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/59/0439-01"
+      ]
+    },
+    {
+      "cite": "121 AD3d 823",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4292502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/121/0823-01"
+      ]
+    },
+    {
+      "cite": "120 AD2d 903",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3479864
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/120/0903-01"
+      ]
+    },
+    {
+      "cite": "2007 NY Slip Op 51914",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Misc 3d 1110",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 AD2d 379",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1198379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/211/0379-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 36",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8593587
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0036-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 249",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282621
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0249-01"
+      ]
+    },
+    {
+      "cite": "299 NY 22",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2076674
+      ],
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/299/0022-01"
+      ]
+    },
+    {
+      "cite": "82 AD2d 877",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3250701,
+        3241623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/82/0877-02",
+        "/ad2d/82/0877-01"
+      ]
+    },
+    {
+      "cite": "103 AD2d 732",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5642137
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/103/0732-01"
+      ]
+    },
+    {
+      "cite": "194 AD2d 656",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1131930
+      ],
+      "pin_cites": [
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/194/0656-01"
+      ]
+    },
+    {
+      "cite": "120 AD2d 868",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3485435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/120/0868-01"
+      ]
+    },
+    {
+      "cite": "208 AD2d 582",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1184609,
+        1185283
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "583"
+        },
+        {
+          "page": "583"
+        },
+        {
+          "page": "583"
+        },
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/0582-01",
+        "/ad2d/208/0582-02"
+      ]
+    },
+    {
+      "cite": "28 AD3d 900",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3006590
+      ],
+      "pin_cites": [
+        {
+          "page": "902"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/28/0900-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 233",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338160
+      ],
+      "pin_cites": [
+        {
+          "page": "241"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/45/0233-01"
+      ]
+    },
+    {
+      "cite": "97 AD3d 730",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3473112
+      ],
+      "pin_cites": [
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0730-01"
+      ]
+    },
+    {
+      "cite": "95 AD3d 955",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5675586
+      ],
+      "pin_cites": [
+        {
+          "page": "958"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/95/0955-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 43",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109780
+      ],
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0043-01"
+      ]
+    },
+    {
+      "cite": "55 AD3d 855",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3882072
+      ],
+      "pin_cites": [
+        {
+          "page": "857"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/55/0855-01"
+      ]
+    },
+    {
+      "cite": "95 AD3d 1185",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5678174
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/95/1185-01"
+      ]
+    },
+    {
+      "cite": "88 AD3d 964",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4034864
+      ],
+      "pin_cites": [
+        {
+          "page": "966"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/88/0964-01"
+      ]
+    },
+    {
+      "cite": "41 AD3d 662",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3515942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/41/0662-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 927",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4100843
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0927-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 875,
+    "char_count": 18315,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2562809646431124
+    },
+    "sha256": "f4446a7f9100d7b99c7bb7e6122ed0d6a7797f26f58599f21f9c4f7c70cb78ed",
+    "simhash": "1:894bf610f00ff698",
+    "word_count": 3003
+  },
+  "last_updated": "2024-02-27T18:07:29.389262+00:00",
+  "provenance": {
+    "date_added": "2018-10-24",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert McGregor, Plaintiff, v Arnold McGregor, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nFrancois A. Rivera, J.\nThe following is the decision, order and judgment after a non-jury trial in the above captioned matter on the plaintiff’s claim for damages against the defendant Arnold McGregor.\nThe Parties\nPlaintiff Robert McGregor (hereinafter plaintiff) is the brother of the defendant Arnold McGregor (hereinafter defendant).\nBackground\nOn March 27, 2012, plaintiff commenced the instant action by filing a summons, complaint and notice of pendency with the Kings County Clerk’s office. The complaint contains 22 allegations of fact in support of three causes of action. The first cause of action alleges fraud. The second cause of action is for an accounting. The third cause of action is for conversion. On December 5, 2012, defendant joined issue by verified answer.\nEssentially the subject of this action is a property located at 355 South 5th Street, Brooklyn, New York (hereinafter the subject property) which was owned at one time by James Mc-Gregor (hereinafter the decedent). Plaintiff has alleged that the decedent is his and the defendant’s half brother. Plaintiff has also alleged that the defendant fraudulently and improperly conveyed the subject property from the decedent to himself by using an invalid power of attorney.\nPrior to his death on August 22, 2010, the decedent executed two separate power of attorney forms authorizing the defendant to act on his behalf. With the decedent’s knowledge and consent the defendant utilized one of the power of attorney forms to execute a deed transferring the subject property from the decedent to himself. Plaintiff alleges that the power of attorney did not confer upon the defendant the authority to transfer the property to himself. The plaintiff contends that the transfer was invalid and that he, as a distributee of the decedent’s estate, is entitled to a proportionate share of the subject property.\nThe Trial\nOn July 22 and 30 of 2015, the court conducted a trial. The plaintiff, the defendant and their mother, Gloria Herminia Davis (hereinafter Davis), testified. At the close of all evidence the court directed the parties to submit requests for findings of fact pursuant to CPLR 4213. Plaintiff included as an annexed exhibit a certified copy of the decedent’s death certificate with the proposed findings of fact.*\nAt the close of evidence the defendant moved to conform the pleadings to the proof and assert an affirmative defense of lack of standing. By order dated February 2, 2016 the court granted the defendant’s motion. Both parties submitted posttrial memorandums of law on the issue of standing.\nPlaintiff’s Testimony\nPlaintiff testified that he met the decedent as an adult when the decedent introduced himself as a brother. The decedent did not provide him with anything showing that they were actually brothers. Plaintiff had been told by his mother that his father had apparently had children with someone else.\nPlaintiff traveled to New York at the defendant’s request when the decedent was admitted to the hospital. He stayed a few weeks in New York assisting with the needs of the decedent including cleaning up the subject property and assisting with medical treatment of the decedent.\nThe decedent was competent at all times prior to his death. Plaintiff and defendant each attempted to persuade the decedent to execute a power of attorney so that one of them could assist him with his affairs. Plaintiff did not want to be the attorney-in-fact and asked the defendant to accept the responsibility. Once the decedent died the defendant made all arrangements for the funeral and related costs. The plaintiff returned to Jamaica. The decedent never discussed the distribution of his estate with the plaintiff. He found out that the subject property had been transferred to the defendant sometime after the decedent’s death. The plaintiff brought the instant action in his individual capacity. The plaintiff did not petition the Surrogate’s Court for letters of administration for the decedent’s estate.\nDefendant’s Testimony\nThe defendant testified that he met the decedent as an adult. The decedent visited the defendant in his home in the State of Georgia. The decedent believed that the two men were brothers. After meeting the decedent the two men began a relationship which included traveling together and visiting one another in their respective states. The two treated each other as brothers. The defendant did not have any nor did he ask for proof of kinship.\nAt some point the decedent became ill. The defendant came to New York to assist him with his health and personal affairs. The defendant cleaned the decedent’s properties, visited him in the hospital and cared for him when he was released to his home. After the defendant was granted the power of attorney from the decedent he took care of building violations and banking, as well as other personal business matters for the decedent. The decedent told the defendant that he wanted to deed the subject property to the defendant in gratitude for all of the assistance the defendant had given him.\nDavis’ Testimony\nDavis testified that she is the mother of the plaintiff and defendant. She further testified that Arnold James McGregor (hereinafter McGregor) is the father of the plaintiff and defendant. McGregor died when she was pregnant with the defendant. Anecdotally, Davis testified that McGregor introduced her to two children that he claimed were his from another woman. Davis had no further contact with the children.\nFindings of Fact\nThe plaintiff and defendant are full brothers. The parties were under the impression that they had additional half-siblings but did not know them nor meet them. The parties met the decedent as adults and assumed that he was their brother. The parties both maintained a relationship with the decedent after they met him. The defendant’s relationship with the decedent included visiting, traveling, and sharing celebrations, as well as assisting the decedent with his personal affairs.\nThe decedent executed two power of attorney forms authorizing the defendant to take certain actions on his behalf. The first power of attorney form was dated February 25, 2010. The second power of attorney form was dated April 2, 2010 and appointed the defendant as the decedent’s attorney-in-fact. On May 4, 2010, during the decedent’s lifetime, the defendant executed the deed to the subject property as attorney-in-fact to transfer ownership to himself. The deed was notarized after the decedent’s death. On December 29, 2010, the deed was recorded. The decedent died intestate.\nLaw and Application\nThe burden of proof at trial rests on the plaintiff (Collado v Jiacono, 126 AD3d 927 [2d Dept 2015]). In a trial without a jury the judge is both trier of fact and decider of law (Lelekakis v Kamamis, 41 AD3d 662 [2d Dept 2007]). Additionally, resolving questions of credibility, determining the accuracy of witnesses, and reconciling the testimony of witnesses are for the trier of fact (Kahan v Spira, 88 AD3d 964, 966 [2d Dept 2011]). The plaintiff asserts three causes of action for fraud, for an accounting and for conversion. The gravamen of the plaintiff’s claims is that the defendant utilized an allegedly invalid power of attorney to wrongfully transfer the subject property which belonged to the decedent and which effectively denied the plaintiff his share in an inheritance. Each cause of action will be analyzed separately.\nFraud\nThe elements of a fraud are that (1) the defendant made a false representation of fact, (2) the defendant had knowledge of the falsity, (3) the misrepresentation was made in order to induce the plaintiff’s reliance, (4) there was justifiable reliance on the part of the plaintiff, and (5) the plaintiff was injured by the reliance (Pace v Raisman & Assoc., Esqs., LLP, 95 AD3d 1185 [2d Dept 2012]).\nTo make out a prima facie case of fraud, the complaint must contain allegations of a representation of material fact, falsity, scienter, reliance and injury (Apollo H.V.A.C. Corp. v Halpern Constr., Inc., 55 AD3d 855, 857 [2d Dept 2008], citing Small v Lorillard Tobacco Co., 94 NY2d 43, 57 [1999]).\nIn the instant matter the plaintiff did not testify to any of the elements required to find that the defendant committed a fraud. Plaintiff’s testimony did not include any misrepresentation made by the defendant to the plaintiff. Accordingly, the cause of action for fraud is unsupported by the testimony and evidence and it is dismissed.\nAccounting\nThe right to an accounting is premised upon the existence of a confidential or fiduciary relationship and a breach of the duty imposed by that relationship respecting property in which the party seeking the accounting has an interest (Lawrence v Kennedy, 95 AD3d 955, 958 [2d Dept 2012]). To achieve equity and avoid unjust enrichment, the courts apply these factors flexibly rather than rigidly (Mei Yun Chen v Mei Wan Kao, 97 AD3d 730, 730 [2d Dept 2012], citing Simonds v Simonds, 45 NY2d 233, 241 [1978], and Moak v Raynor, 28 AD3d 900, 902 [3d Dept 2006]).\nSuch a relationship is created where one party entrusts to another some money or property with respect to which such other is bound to reveal his or her dealings (Byrd v Brown, 208 AD2d 582, 583 [2d Dept 1994]; Kastle v Steibel, 120 AD2d 868 [3d Dept 1986]). Generally, evidence of a friendship, without more, between the plaintiffs decedent and the defendant would be insufficient to demonstrate the existence of a confidential relationship between them (Byrd v Brown, 208 AD2d 582, 583 [1994], citing Prado v De Latorre, 194 AD2d 656, 657 [1993], Bontecou v Goldman, 103 AD2d 732 [1984], and Penato v George, 82 AD2d 877 [2d Dept 1981]). However, the four factors are not an unyielding formula which limits a court’s freedom to fashion this equitable remedy and the requirements are not to be rigidly applied (Byrd v Brown, 208 AD2d 582, 583 [1994]). “Rather, [a] constructive trust will be erected whenever necessary to satisfy the demands of justice” (Byrd v Brown, 208 AD2d 582, 583 [1994] [internal quotation marks omitted]; Latham v Father Divine, 299 NY 22, 26 [1949]).\nThe first step in determining whether an accounting should be ordered is to find whether the relationship between the plaintiff and defendant could be characterized as confidential. In the instant action, the parties do not dispute that they are full brothers. However, the existence of a familial relationship is insufficient in itself to create a confidential relationship. There was no testimony or other evidence proffered that supports a finding that the parties were in a confidential relationship. There was no evidence that the plaintiff entrusted to the defendant some money or property such that the defendant was bound to reveal his dealings. In fact, there is not even a claim that the defendant was entrusted with the plaintiff’s property. There can be no breach of duty when there has been no fiduciary relationship nor an entrustment of property. Accordingly, the plaintiff has not established that he is entitled to an accounting.\nConversion\nConversion is the unauthorized exercise of the right of ownership over property belonging to another to the exclusion of the owner’s rights (State of New York v Seventh Regiment Fund, 98 NY2d 249 [2002], citing Vigilant Ins. Co. of Am. v Housing Auth. of City of El Paso, Tex., 87 NY2d 36 [1995]). Money can be the subject of conversion when it can be described, identified, or segregated in the manner that a specific chattel can be and when it is subject to an obligation to be returned (see generally Republic of Haiti v Duvalier, 211 AD2d 379 [1st Dept 1995]; see also Hebrew Inst. for the Deaf & Exceptional Children v Kahana, 17 Misc 3d 1110[A], 2007 NY Slip Op 51914[U] [Sup Ct, Kings County 2007]). Furthermore, a person may be liable for conversion by conniving with another in an act of conversion (id., citing Ahles v Aztec Enters., 120 AD2d 903 [3d Dept 1986]).\nThe two essential elements of conversion are that the plaintiff has a possessory right or interest in the property in dispute and that the defendant’s dominion over the property in dispute or interference with it is in derogation of plaintiff’s rights. The mere right to payment cannot be the basis of a cause of action for conversion (see Barker v Amorini, 121 AD3d 823 [2d Dept 2014]; see also Zendler Constr. Co., Inc. v First Adj. Group, Inc., 59 AD3d 439 [2d Dept 2009]). As stated by the Appellate Division, Second Department, a cause of action for conversion must allege “legal ownership or an immediate right of possession to specifically identifiable funds” on the part of the plaintiff and must further allege “that the defendant! ] exercised an unauthorized dominion over such funds to the exclusion of the plaintiff’s rights”; “[t]he mere right to payment cannot be basis of a cause of action for conversion” (Zendler Constr. Co., Inc. v First Adj. Group, Inc., 59 AD3d 439, 440 [2d Dept 2009]). In addition, a wrongful intention to possess the property is not an essential element of conversion (General Elec. Co. v American Export Isbrandtsen Lines, 37 AD2d 959 [2d Dept 1971]).\nThe testimony and evidence presented did not establish that the defendant exercised the unauthorized right of ownership over any of the plaintiff’s property. In fact, plaintiff claims that the defendant took property belonging to the decedent but that the plaintiff had an expectation that he would inherit a proportionate share of such property once the actual owner died. This type of tangential hope of ownership interest is insufficient to establish a cause of action under conversion. The plaintiff has failed to establish that the defendant converted any property that the plaintiff had legal ownership of or an immediate right of possession to. Accordingly, the cause of action for conversion must be dismissed.\nStanding\nAs discussed above, the defendant was permitted to amend the pleadings to conform to the proof to assert that the plaintiff lacked standing to bring the instant action. Both parties understood this to mean that a familial relationship had to be proved for the plaintiff to have a viable claim. However, the concept of standing is broader than that limited understanding. Standing requires an inquiry into whether the litigant has an interest in the claim at issue in the lawsuit that the law will recognize as a sufficient predicate for determining the issue at the litigant’s request (Wells Fargo Bank Minn., N.A. v Mastropaolo, 42 AD3d 239 [2d Dept 2007]). Where standing is put into issue by a defendant’s answer, a plaintiff must prove its standing if it is to be entitled to relief (id.; see also Society of Plastics Indus. v County of Suffolk, 77 NY2d 761 [1991] [standing is an aspect of justiciability which, when challenged, must be considered at the outset of any litigation]).\nThe plaintiff has brought the instant action in his individual capacity asserting that the property he had hoped to inherit from his purported brother was transferred by the defendant unlawfully. The plaintiff relies upon his allegation that the power of attorney granted to the defendant by the decedent failed to bestow the power to transfer gifts. Accordingly, plaintiff asserts that the transfer was invalid and the subject property should revert to the estate to be distributed among the heirs.\nThe court need not reach the issue of standing based on a familial relationship nor the broader concept of having an interest in the claims because plaintiff has failed to establish his right to recovery under the causes of action pleaded in the complaint. However, as it was asserted, the plaintiff had an obligation to prove that he possessed standing to commence the action (see Wells Fargo Bank Minn., N.A. v Mastropaolo, 42 AD3d 239 [2007]). Furthermore, as both parties briefed the issue of standing it is appropriate that the court address it as well.\nThe General Obligations Law governs power of attorney forms including the language required, acts authorized by and liabilities arising out of the agency relationship (see General Obligations Law § 5-1501 et seq.). The General Obligations Law provides who may challenge a power of attorney and the mechanism to do so.\nThe performance of the obligations outlined by the General Obligations Law may be challenged. The class of people who may challenge the power of attorney and the procedure for that challenge are provided for in the statute (see General Obligations Law § 5-1510). The statute provides that a special proceeding may be commenced by “the agent, the spouse, child or parent of the principal, the principal’s successor in interest, or any third party who may be required to accept a power of attorney” (§ 5-1510 [3]).\nIn the instant action, the statutory procedure was not followed and the plaintiff is not one of the enumerated individuals permitted to challenge a power of attorney. There has been no testimony nor allegation that the plaintiff was an agent of the decedent. The plaintiff clearly does not fit into any other category delineated in the General Obligations Law. Accordingly, he lacks standing to pursue the instant action which is based solely on an allegedly defective power of attorney.\nConclusion\nThe plaintiff has failed to meet his burden of establishing the plaintiff’s claims for damages arising out of fraud and conversion against the defendant Arnold McGregor nor his right to an accounting.\nAccordingly, the complaint is dismissed.\nPlaintiff did not admit the death certificate into evidence at the trial. Trial courts have the power to permit a litigant to reopen a case under appropriate circumstances such as when the movant has provided a sufficient offer of proof, the opposing party is not prejudiced, and there will not be a significant delay in the trial if the motion is granted (Lieberman-Massoni v Massoni, 146 AD3d 869 [2d Dept 2017]). Nor did plaintiff seek permission to reopen the case to admit it. It is, therefore, disregarded.",
+        "type": "majority",
+        "author": "Francois A. Rivera, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jaroslawicz & Jaros, LLC, New York City (Michelle Holman of counsel), for plaintiff.",
+      "Law Office of Sean H. Rooney, Brooklyn, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[48 NYS3d 877]\nRobert McGregor, Plaintiff, v Arnold McGregor, Defendant.\nSupreme Court, Kings County,\nFebruary 7, 2017\nAPPEARANCES OF COUNSEL\nJaroslawicz & Jaros, LLC, New York City (Michelle Holman of counsel), for plaintiff.\nLaw Office of Sean H. Rooney, Brooklyn, for defendant."
+  },
+  "file_name": "2677-01",
+  "first_page_order": 610,
+  "last_page_order": 619
+}

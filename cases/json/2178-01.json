@@ -1,0 +1,81 @@
+{
+  "id": 4234972,
+  "name": "The People of the State of New York, Plaintiff, v. Joseph S. Lewis, Defendant",
+  "name_abbreviation": "People v. Lewis",
+  "decision_date": "2015-09-21",
+  "docket_number": "",
+  "first_page": "372",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 372"
+    },
+    {
+      "type": "parallel",
+      "cite": "28 N.Y.S.3d 762"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Nassau Cty. Dist. Ct.",
+    "id": 11496,
+    "name": "Nassau County District Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "49 USC § 30102",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 USC § 2085",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 411,
+    "char_count": 6659,
+    "ocr_confidence": 0.754,
+    "sha256": "fd92ea7bc3f833b5c9891ae93c4c3eb27ecac0db9e4f0d4698ff4a829632461a",
+    "simhash": "1:3802214a0d5a37b5",
+    "word_count": 1102
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Joseph S. Lewis, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nTricia M. Ferrell, J.\nThe defendant is charged with eight violations of the Vehicle and Traffic Law and now moves for an order dismissing all the charges. The defendant alleges that the “vehicle” involved in this case is a motorized bicycle pursuant to 15 USC § 2085, and not a motor vehicle; the charged violations all regulate operation related to a motor vehicle so it’s the defendant’s position that he’s been wrongfully charged. The defendant is also seeking a dismissal in the interest of justice; he argues several points including the following: no harm was caused by the incident, the vehicle involved is not regulated under the statutes charged, he hasn’t violated the terms of his probation, this case has no complainant and a conviction serves no useful purpose. Notwithstanding the secondary application being made, the pivotal issue in this case is what type of vehicle did the defendant operate.\nPursuant to Vehicle and Traffic Law § 125, a motor vehicle is every vehicle operated or driven upon a public highway which is propelled by any power other than muscular power, except (a) electronically-driven mobility assistance devices operated or driven by a person with a disability, (a-1) electric personal assistive mobility devices operated outside a city with a population of one million or more, (b) vehicles which run only upon rails or tracks, (c) snowmobiles as defined in article 47 of the Vehicle and Traffic Law and (d) all terrain vehicles as defined in article 48-b of the Vehicle and Traffic Law. Pursuant to section 102 of the Vehicle and Traffic Law a bicycle is every two-or three-wheeled device upon which a person or persons may ride, propelled by human power through a belt, a chain or gears, with such wheels in a tandem or tricycle, except that it shall not include such a device having solid tires and intended for use only on a sidewalk by pre-teenage children.\nAccording to the simplified traffic informations the motor vehicle alleged was a class B motorcycle. Section 123 of the Vehicle and Traffic Law defines a motorcycle as every motor vehicle having a seat or saddle for the use of the rider and designed to travel on not more than three wheels in contact with the ground, but excluding a tractor. Section 121-b of the Vehicle and Traffic Law defines a class B limited use motorcycle as a motorcycle having a maximum performance speed of more than 20 miles per hour but not more than 30 miles per hour. The defendant states the “bicycle” cannot exceed 20 miles per hour when operated by him based upon his weight; however, the law doesn’t provide for such allowances to be made; therefore whether the vehicle is a limited use motorcycle is a question of fact that can’t be resolved based upon what’s been presented to the court.\nNoticeably absent from the description of the vehicle on the simplified traffic information is the year, model number and vehicle identification number. If the prosecution is privy to this information it should be readily ascertainable whether this vehicle can travel at the speeds dictated by the statute. If the prosecution is aware that they have no factual basis to support the conclusion that the vehicle is in fact a class B motorcycle, justice requires the prosecution to disclose such information and move to dismiss this case. If the Department of Motor Vehicles will not register this vehicle for failure to possess a vehicle identification number and the prosecution is aware that this circumstance exists, justice requires the prosecution to move to dismiss this case. A visual inspection of the vehicle in question should easily resolve the issue of whether it’s a bicycle or motor vehicle.\n15 USC § 2085 defines a “low-speed electric bicycle” as a two- or three-wheeled vehicle with fully operable pedals and an electric motor of less than 750 watts whose maximum speed on a paved level surface, when powered solely by such a motor while ridden by an operator who weighs 170 pounds, is less than 20 miles per hour. This provision states that it supercedes any state requirement with respect to low-speed electric vehicles however it doesn’t nullify the federal definition of motor vehicle found in 49 USC § 30102 which is almost identical to the New York State definition of motor vehicle. It is possible, based upon the foregoing, that a low-speed electronic bicycle can also be a motor vehicle according to both state and federal laws.\nThe defendant represents in his papers that this vehicle was unable to be registered at the Department of Motor Vehicles because it’s a bicycle. According to the Department of Motor Vehicles website you cannot register and operate any of the motorized devices, including a motor-assisted bicycle, on any street, highway, parking lot, sidewalk or other area that allows public motor vehicle traffic. In order for a low-speed vehicle to be registered in New York it must meet federal motor vehicle safety standard 500, its maximum performance speed must be certified by the manufacturer and it must appear on the list of approved limited use vehicles. There’s even a number to contact the Department of Motor Vehicles Technical Services Department (518-474-5282, option No. 4) to determine whether a particular low-speed vehicle is certified and approved. It is unknown whether the prosecution has made such an attempt to confirm whether this vehicle appears on the list mentioned above.\nJustice is not served by a dismissal of these charges pursuant to Criminal Procedure Law § 170.30 if this bicycle is a motor vehicle. The defendant’s license was suspended based upon a prior conviction related to operating a motor vehicle while intoxicated. As part of this conviction the defendant was ordered to install an ignition interlock mechanism on any vehicle he owns or operates and his license was revoked. These sentencing requirements were not for an indefinite period of time and once the statutory time period has elapsed the defendant must pay the requisite fees and is then free to reapply for a license. Without sufficient information presented to the court to prove this vehicle is not in fact a motor vehicle the court must consider whether this was an intentional attempt by the defendant to circumvent the penalties associated with his prior conviction.\nBased upon the foregoing, the defendant’s application is denied.",
+        "type": "majority",
+        "author": "Tricia M. Ferrell, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Paul R. Delle, Hempstead, for defendant.",
+      "Madeline Singas, District Attorney, Mineóla, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[28 NYS3d 762]\nThe People of the State of New York, Plaintiff, v Joseph S. Lewis, Defendant.\nDistrict Court of Nassau County, First District,\nSeptember 21, 2015\nAPPEARANCES OF COUNSEL\nPaul R. Delle, Hempstead, for defendant.\nMadeline Singas, District Attorney, Mineóla, for plaintiff."
+  },
+  "file_name": "2178-01",
+  "first_page_order": 384,
+  "last_page_order": 387
+}

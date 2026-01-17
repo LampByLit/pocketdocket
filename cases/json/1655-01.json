@@ -1,0 +1,972 @@
+{
+  "id": 12166946,
+  "name": "NEW MEXICO STATE INVESTMENT COUNCIL, as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. DANIEL WEINSTEIN, VICKY L. SCHIFF, WILLIAM HOWELL, and MARVIN ROSEN, Defendants-Appellees. and GARY BLAND, et al., Defendants; (Consolidated with) NEW MEXICO STATE INVESTMENT COUNCIL, as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. SAUL MEYER and RENAISSANCE PRIVATE EQUITY PARTNERS, LP, d/b/a ALDUS EQUITY PARTNERS, LP, Defendants-Appellees, and GARY BLAND, et al., Defendants; (Consolidated with) NEW MEXICO STATE INVESTMENT COUNCIL as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. ELLIOT BROIDY, Defendant-Appellee, and GARY BLAND, et al., Defendants",
+  "name_abbreviation": "New Mexico State Investment Council v. Weinstein",
+  "decision_date": "2016-04-28",
+  "docket_number": "No. S-1-SC-35943; Docket Nos. 33,787, 34,042 & 34,077 (Consolidated)",
+  "first_page": "287",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-069"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "98 N.M. 540",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1582485
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/98/0540-01"
+      ]
+    },
+    {
+      "cite": "1982-NMSC-099",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008-NMCA-131",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4242168
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0040-01"
+      ]
+    },
+    {
+      "cite": "272 P.3d 700",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMCA-023",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4188332
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0317-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-048",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246371
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0157-01"
+      ]
+    },
+    {
+      "cite": "2008-NMSC-058",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4243258
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 6, 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0077-01"
+      ]
+    },
+    {
+      "cite": "100 N.M. 246",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1588555
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/100/0246-01"
+      ]
+    },
+    {
+      "cite": "1983-NMSC-068",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009-NMCA-095",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4243481
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0853-01"
+      ]
+    },
+    {
+      "cite": "105 N.M. 670",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1599020
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/105/0670-01"
+      ]
+    },
+    {
+      "cite": "1987-NMCA-044",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 N.E.2d 1211",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1214",
+          "parenthetical": "stating that the \"plaintiffs would have no standing to challenge [the] defense counsel's ability to represent [two defendants] without some showing that this representation adversely affects their interests\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 N.M. 533",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720219
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/112/0533-01"
+      ]
+    },
+    {
+      "cite": "1991-NMSC-093",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 N.M. 236",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        720275
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/112/0236-01"
+      ]
+    },
+    {
+      "cite": "1991-NMCA-028",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 36"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 A.L.R. 6th 563",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 6th",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "§ 2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "306 P.3d 447",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMSC-029",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4333941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/4/0402-01"
+      ]
+    },
+    {
+      "cite": "270 P.3d 1281",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMCA-018",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4188719
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0274-01"
+      ]
+    },
+    {
+      "cite": "107 N.M. 38",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1597119
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/107/0038-01"
+      ]
+    },
+    {
+      "cite": "1988-NMCA-014",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 30"
+        },
+        {
+          "page": "¶ 31"
+        },
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "283 P.3d 853",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-026",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4190412
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0324-01"
+      ]
+    },
+    {
+      "cite": "2003-NMCA-102",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        77157
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/134/0283-01"
+      ]
+    },
+    {
+      "cite": "117 N.M. 181",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1552645
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/117/0181-01"
+      ]
+    },
+    {
+      "cite": "1994-NMCA-010",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "287 P.3d 364",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMCA-104",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4189957
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/2/0667-01"
+      ]
+    },
+    {
+      "cite": "97 N.M. 88",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1555225,
+        1555134
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/97/0088-02",
+        "/nm/97/0088-01"
+      ]
+    },
+    {
+      "cite": "1981-NMCA-044",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 52"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 N.M. 63",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1580208
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/102/0063-01"
+      ]
+    },
+    {
+      "cite": "1984-NMCA-109",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006-NMCA-004",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        2548665
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶¶ 2-3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/138/0761-01"
+      ]
+    },
+    {
+      "cite": "118 N.M. 500",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1563456
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/118/0500-01"
+      ]
+    },
+    {
+      "cite": "1994-NMSC-103",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 4758040",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "stating that \"[t]he fundamental question is whether the district [court] has sufficient facts before [it] to intelligently approve or disapprove the settlement\" (internal quotation marks and citation omitted)"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 F.R.D. 143",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        7850480
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/133/0143-01"
+      ]
+    },
+    {
+      "cite": "2007-NMCA-158",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        3783842
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 43"
+        },
+        {
+          "page": "¶ 52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/143/0158-01"
+      ]
+    },
+    {
+      "cite": "2009 WL 637137",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004 WL 1091032",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "956 F. Supp. 2d 1",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3822977
+      ],
+      "weight": 4,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "10-11"
+        },
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/956/0001-01"
+      ]
+    },
+    {
+      "cite": "2015 WL 9598315",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 1327015",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "*13",
+          "parenthetical": "order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 F.3d 925",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9037753
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "935"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/397/0925-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. § 3730",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(2)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "321 P.3d 128",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-036",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4078244
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0632-01"
+      ]
+    },
+    {
+      "cite": "2011-NMSC-011",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4249767
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0064-01"
+      ]
+    },
+    {
+      "cite": "104 N.M. 793",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1595006
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/104/0793-01"
+      ]
+    },
+    {
+      "cite": "1986-NMCA-105",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999-NMCA-029",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        827366
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0717-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. §§ 3729-3733",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "892 F. Supp. 2d 341",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4276818
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "343-45",
+          "parenthetical": "recognizing that a settlement agreement in a separate qui tam action may extinguish a qui tam plaintiffs claims and holding that such a settlement was an \"alternate remedy\" under Section 3730(c)(5) of the False Claims Act (FCA), 31 U.S.C. §§ 3729-3733 (2012)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/892/0341-01"
+      ]
+    },
+    {
+      "cite": "1998-NMCA-078",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        834202
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0242-01"
+      ]
+    },
+    {
+      "cite": "113 N.M. 231",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        723241
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/113/0231-01"
+      ]
+    },
+    {
+      "cite": "1992-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 N.M. 426",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        727686
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/116/0426-01"
+      ]
+    },
+    {
+      "cite": "1993-NMSC-061",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "297 P.3d 357",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-043",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4191651
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 1, 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/3/0631-01"
+      ]
+    },
+    {
+      "cite": "355 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMSC-025",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4362716
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        },
+        {
+          "page": "¶ 44"
+        },
+        {
+          "page": "¶¶ 16, 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0253-01"
+      ]
+    },
+    {
+      "cite": "2003-NMCA-119",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        77140
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/134/0394-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2333,
+    "char_count": 86690,
+    "ocr_confidence": 0.782,
+    "pagerank": {
+      "raw": 5.3827484134403454e-8,
+      "percentile": 0.3371737116719932
+    },
+    "sha256": "79e74d4fa4038d76c328dcc7831150a1f2170680535ed0fa25e98a729290e00d",
+    "simhash": "1:19468b27609b3e43",
+    "word_count": 13643
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Sarah M. Singleton, District Judge",
+      "MICHAEL D. BUSTAMANTE, Judge",
+      "MICHAEL E. VIGIL, Chief Judge",
+      "M. MONICA ZAMORA, Judge"
+    ],
+    "parties": [
+      "NEW MEXICO STATE INVESTMENT COUNCIL, as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. DANIEL WEINSTEIN, VICKY L. SCHIFF, WILLIAM HOWELL, and MARVIN ROSEN, Defendants-Appellees. and GARY BLAND, et al., Defendants. (Consolidated with) NEW MEXICO STATE INVESTMENT COUNCIL, as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. SAUL MEYER and RENAISSANCE PRIVATE EQUITY PARTNERS, LP, d/b/a ALDUS EQUITY PARTNERS, LP, Defendants-Appellees, and GARY BLAND, et al., Defendants. (Consolidated with) NEW MEXICO STATE INVESTMENT COUNCIL as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. ELLIOT BROIDY, Defendant-Appellee, and GARY BLAND, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nBUSTAMANTE, Judge.\n{1} Appellants’ motion for rehearing is denied. The opinion filed in this case on March 24, 2016, is withdrawn and this Opinion is substituted in its place.\n{2} Intervenors Frank Foy, Suzanne Foy, and John Casey (Appellants) appeal the district court’s approval of settlements between the New Mexico State Investment Council (NMSIC) and three sets of defendants. Having consolidated the three appeals, we consider whether the district court’s approval of the settlements was consistent with the Fraud Against Taxpayers Act and whether NM SIC’s Litigation Committee complied with the Open Meetings Act, among other arguments. We affirm the district court’s approval of the settlements.\nBACKGROUND\n{3} Most of the following facts are derived from the district court’s findings of fact. Appellants do not specifically challenge any of these findings. “An unchallenged finding of the trial court is binding on appeal.” Seipert v. Johnson, 2003-NMCA-119, ¶ 26, 134 N.M. 394, 77 P.3d 298; see Rule 12-213(A)(4) NMRA (“The argument shall set forth a specific attack on any finding, or such finding shall be deemed conclusive.”).\nA. The Parties\n{4} Appellants are qui tarn plaintiffs in two actions filed in 2008 and 2009 under the New Mexico Fraud Against Taxpayers Act (FATA), NMSA 1978, §§ 44-9-1 to -14 (2007, as amended through 2015). State ex rel. Frank C. Foy v. Vanderbilt Capital Advisors, LLC, No. D-101-CV-2008-1895 (Vanderbilt); State ex rel. Frank C. Foy v. Austin Capital Mgmt. Ltd., No. D-101-CV-2009-1189 {Austin). Foy is the former chief investment officer at New Mexico’s Educational Retirement Board (ERB).\n{5} NMSIC is a state agency that serves as trustee of, and is responsible for investing, among other funds, the Land Grant Permanent Fund and the Severance Tax Permanent Fund, which are established under the New Mexico Constitution for the benefit of citizens of New Mexico. N.M. Const. art VIII, § 10, art. XII, §§ 2, 7; NMSA 1978, §§ 6-8-2 to -7 (1957, as amended through 2015); NMSA 1978, § 7-27-3.1 (1983).\n{6} The defendants in the present suit are three groups of individuals and entities alleged to have engaged in misconduct related to NMSIC’s management of the funds. Each of the three groups is named and discussed in more detail below. For ease of reference we refer to the defendants collectively as Defendants.\nB. The Qui Tam Actions\n{7} We begin with a discussion of the Appellants’ qui tam actions under FATA because they form the backdrop against which we consider the three cases now before us. Section 44-9-5(A) of FATA permits the filing of a “qui tam action,” which is “an action . . . that allows a private person to sue for a penalty, part of which the government will receive.” State ex rel. Foy v. Austin Capital Mgmt., Ltd. {Austin II), 2015-NMSC-025, ¶ 3, 355 P.3d 1 (alterations, internal quotation marks, and citation omitted). A qui tam plaintiff is required to serve the complaint and a disclosure of supporting evidence under seal to the attorney general, who “may intervene and proceed with the action within sixty days after receiving the complaint and the material evidence and information.” Section 44-9-5(C). If the attorney general declines to intervene in the action, the qui tam plaintiff may proceed with the action. Section 44-9-5(D). “Notwithstanding [these] provisions ... , the attorney general or political subdivision may elect to pursue the state’s or political subdivision’s claim through any alternate remedy available” and “[a] finding of fact or conclusion of law made in the other proceeding that has become final shall be conclusive on all parties to an action under [FATA].” Section 44-9-6(H). If the attorney general initiates an alternate proceeding, “the qui tam plaintiff shall have the same rights in such a proceeding as the qui tam plaintiff would have had if the action had continued pursuant to [FATA].” Id. As to the qui tam action, the state or political subdivision may choose to settle the action “notwithstanding any objection by the qui tam plaintiff if the court determines, after a hearing providing the qui tam plaintiff an opportunity to present evidence, that the proposed settlement is fair, adequate[,] and reasonable under all of the circumstances.” Section 44-9-6(C).\n{8} In their qui tam actions, Appellants alleged that Vanderbilt Capital Advisors, LLC and Austin Capital Management, Ltd., as well as other defendants, made false claims to the ERB and to NMSIC about the risks associated with, and performance of, certain financial instruments and hedge funds. They also alleged that there was “pay-to-play” at the ERB and NMSIC.\n{9} Vanderbilt and Austin were heard by two different judges. Judge Pfeffer, presiding over Vanderbilt, dismissed some of the Appellants’ claims on the ground that retroactive application of FATA to conduct occurring before its effective date would violate the ex post facto clauses in both the United States and New Mexico Constitutions. U.S. Const.-art. 1, § 10; N.M. Const, art. II, § 19. Judge Pope entered a similar order in Austin. This Court declined to hear an interlocutory appeal in Vanderbilt, but later allowed an interlocutory appeal of this issue m Austin and affirmed. See State ex rel. Foy v. Austin Capital Mgmt., Ltd. (Austin I), 2013-NMCA-043, ¶¶ 1, 3, 297 P.3d 357.\n{10} At the time the district court approved the settlements in the cases now before us, the Supreme Court had granted certiorari but had not yet decided the question. In June 2015 the Supreme Court reversed, holding that the treble damages available under FATA “are predominantly compensatory [and] do not violate the ex post facto clause[s] and may be awarded for conduct occurring prior to the effective date of FATA.” Austin II, 2015-NMSC-025, ¶ 44. It also held that, as to the civil penalties available under FATA, “[i]t is ... conceivable that the amount awarded in civil penalties could be punitive in effect, particularly if the trial judge awards the maximum [of] $10,000 per violation” and that, consequently, “[i]t is not practical to make that determination without knowing the actual amount assessed with full briefing on appeal addressed to a specific dollar figure.” Id. ¶ 49. Hence, the Supreme Court declined to decide “whether the civil penalties awarded under FATA are punitive and violate ex post facto principles until there is a definitive amount awarded.” Id.\nC. NMSIC’s Plan and the Present Suit\n{11} While the Appellants’ qui tam actions were proceeding as just described, NMSIC developed its own plan to recover from those involved in pay-to-play schemes, including some of the defendants in Vanderbilt and Austin. NMSIC is pursuing recovery using theories of liability other than FATA, focusing first on individuals involved in the schemes. Using information gleaned from these individuals, NMSIC plans to pursue the entities involved. NMSIC anticipates greater recoveries from the entities than from individual defendants.\n{12} Consistent with this plan, NMSIC took several actions. First, it declined to intervene in Appellants’ qui tam suits and moved to dismiss the pay-to-play claims involving NMSIC — but only those claims — from Vanderbilt and Austin. See § 44-9-6(B) (“The state or political subdivision may seek to dismiss the action for good cause notwithstanding the objections of the qui tam plaintiff if the qui tam plaintiff has been notified of the filing of the motion and the court has provided the qui tam plaintiff with an opportunity to oppose the motion and to present evidence at a hearing.”). The motions to dismiss did not address Appellants’ claims regarding nondisclosure of investment risks in Vanderbilt and Austin, nor did they address the claims of pay-to-play at the ERB. NMSIC’s motion to dismiss the pay-to-play claims from Vanderbilt were granted. It appears that as of June 2015 the district court had not yet ruled on the motion to dismiss these claims from Austin.\n{13} Second, because it wanted to pursue recovery for pay-to-play in NMSIC’s investment process through non-F ATA claims, NMSIC initiated the present suit, alleging breach of fiduciary duty, aiding and abetting breach of fiduciary duty, breach of contract, and unjust enrichment. Although the present suit involves different claims than those in Austin, fifteen of the seventeen named defendants in this suit are also named in Austin. The district court granted Appellants’ motion to intervene. See Rule 1-024 NMRA.\n{14} The parties agree that the present suit is an “alternate remedy” under FATA and that, therefore, Appellants are entitled to the same rights in this suit as they enjoy in Austin, including the right to a hearing on the fairness, adequacy, and reasonableness of settlements. See § 44-9-6(C).\n{15} Third, NMSIC adopted a Recovery Litigation Settlement Policy (Settlement Policy). The Settlement Policy, which is discussed in more detail below, also created a Litigation Committee with the power to “actively participate in settlement negotiations, as appropriate, with the authority of [NMSIC] for settlement resolution and related decisions.” Over objection by Appellants, the district court adopted a discovery plan meant to facilitate settlement discussions. Under this plan, only discovery essential for settlement discussions was permitted.\n{16} Pursuant to the Settlement Policy and the district court’s discovery plan, Day Pitney LLP, a firm engaged by NMSIC, initiated settlement negotiations with some of the defendants, all of whom are represented by experienced attorneys. It also began an investigation of the possible recoveries against individuals and entities. As part of this investigation, Day Pitney reviewed (1) over 2.5 million pages of documents from the SEC, (2) 130,000 pages of documents from third parties, (3) desktop or laptop data from twenty-two NMSIC employees, (4) 70,000 paper documents from NMSIC, (5) complete images of NMSIC file and email servers, (6) sixty-eight server backup tapes, (7) complete copies of server folders used by NMSIC employees to store investment-related documents through December 2010, (8) updated email files for NMSIC employees through December 2010, (9) server home directories for twenty-two NM SIC employees, (10) email files for email addresses used by NMSIC investment groups, and (11) audio recordings of NMSIC and subcommittee meetings. Its document review was facilitated by e-discovery techniques of predictive coding, concept grouping, near-duplication detection, and email threading. Day Pitney also conducted interviews with twenty-three individuals, including over a dozen NMSIC employees. Discovery was obtained from NMSIC, the SEC, and third parties, as well as from some of the defendants.\nD. The Path to the Present Appeals\n{17} Each of the three cases now on appeal took similar but slightly different routes through the district court. We begin with the district court’s review of the settlements with the Weinstein Defendants because (1) of the settlements now on appeal, they were the first approved, and (2) the procedures adopted by the district court for considering these settlements set the stage for its consideration of the subsequent settlements. The cases on appeal are also discussed in the order in which the district court considered the settlement agreements.\n1. The Weinstein Defendants\n{18} In April 2013 NMSIC reached settlement agreements with Daniel Weinstein, Vicky L. Schiff, Marvin Rosen, and William Howell (the Weinstein Defendants). In these agreements, the Weinstein Defendants agreed to provide information and answer questions about pay-to-play practices at NMSIC, make themselves available to do so, execute affidavits truthfully setting forth their knowledge of such practices, appear without subpoena to provide testimony at depositions or at other civil actions NMSIC may initiate, and appear without subpoena at trial. The Weinstein Defendants agreed to payments to NMSIC ranging from $100,000 to $300,000. In return, NMSIC agreed to release these Defendants from any claim “arising out of or relating to the investments by NMSIC.” Importantly, the district court found that NMSIC’s release “does not cover claims relating to [the] ERB.” The settlement agreements were executed by a member of NMSIC’s Litigation Committee.\n{19} On April 18, 2013, NMSIC moved for the district court’s approval of the settlements and dismissal of the Weinstein Defendants. See § 44-9-6(C) (“The state . . . may settle the action with the defendant notwithstanding any objection by the qui tam plain tiff if the court determines, after shearing providing the qui tam plaintiff an opportunity to present evidence, that the proposed settlement is fair, adequate},] and reasonable under all of the circumstances.”). Appellants filed an objection to the settlements, but did not argue that the settlements were unfair, inadequate, or unreasonable, and did not request an evidentiary hearing. At a hearing on July 15, 2013, Appellants first challenged the fairness, adequacy, and reasonableness of the settlements and requested an evidentiary hearing, claiming that they had “enough of the things that [they] put together independently that” a hearing was appropriate. The district court ordered Appellants to submit a memorandum within two weeks stating the grounds for their objections and identifying supporting evidence. It also ordered NMSIC to prepare an order memorializing its oral orders. But Appellants did not file a memorandum as directed by the district court. Instead, Appellants filed objections to the proposed order prepared by NMSIC and requested a stay in the proceedings pending the Supreme Court’s decision in Austin II. The district court denied the motion to stay the proceedings and Appellants’ objections to the proposed order.\n{20} In August 2013 the district court scheduled an evidentiary hearing for November 25 and 26, 2013, on Appellants’ objections to the settlements. On September 1, 2013, the district court entered an order defining the procedures for briefing and other issues related to Appellants’ objections to the settlements. We refer to this order as the Settlement Process Order. Appellants were required to file “a memorandum that sets forth the basis for their position that the proposed settlements . . . are not fair, adequate[,] and reasonable under all [of] the circumstances and identifies the evidence upon which they will rely at the hearing.” The order noted that Appellants must overcome a presumption that the settlements are fair, adequate, and reasonable. It also set out factors under which the fairness and adequacy of the settlements would be assessed. Finally, the order mandated that a similar memorandum would be required for all future motions for dismissal based on settlement with other defendants.\n{21} When Appellants failed to file the required memorandum by the date set by the district court, NMSIC moved to dismiss the Weinstein Defendants without a hearing. The district court denied NMSIC’s motion and extended the deadline for Appellants’ memorandum by approximately two weeks. Although Appellants filed a memorandum by this later deadline, it did not address the specific points listed by the district court’s order.\n{22} On November 1, 2013, Appellants represented at a motion hearing that they had evidence to support their opposition to the settlements but argued that they needed information about gains and losses on particular investments that NMSIC had withheld from them for years. Appellants argued that they needed to see the figures for “cash out, cash in.” Counsel for Appellants stated that they “want[ed] to ask somebody from [NMSIC],..., what was the gain or loss on this particular investment.” Approximately two weeks later, NMSIC served a response to the Appellants’ oral discovery request that provided gain and loss information on all thirteen of the investments associated with the Weinstein Defendants, together with a chart showing “cash in, cash out,” and, where applicable, residual values.\n{23} At the November 25-26, 2013, evidentiary hearing, NMSIC presented the testimony of six witnesses by affidavit and direct testimony. These witnesses included a member of the Litigation Committee and a Day Pitney attorney, as well as the four Weinstein Defendants. After the witnesses attested that their affidavits were an accurate representation of their testimony and provided the foundation for exhibits, Appellants were afforded an opportunity to cross-examine them. Appellants did not testify, nor did they present evidence related to the investment loss information they had requested.\n{24} After the hearing, the district court entered seventy-three findings of fact and forty-nine conclusions of law. In a subsequent order, it granted NMSIC’s motion to dismiss the W einstein Defendants. The findings of fact and conclusions of law are discussed more fully in the context of Appellants’ arguments on appeal.\n2. The Meyer Defendants\n{25} A few months after reaching agreement with the Weinstein Defendants, NMSIC reached a settlement agreement with Saul Meyer and Renaissance Private Equity Partners, LP, d/b/a Aldus Equity Partners, LP (the Meyer Defendants) in July 2013. The provisions of this settlement agreement substantially mirrored those with the Weinstein Defendants. This settlement agreement also was signed by a member of the Litigation Committee.\n{26} NMSIC moved for approval of the settlement with the Meyer Defendants on January 10, 2014. The motion included the settlement agreement and sworn financial statements from the Meyer Defendants. Appellants filed a response to the motion objecting to the settlement and requesting an evidentiary hearing. The district court held a two-hour hearing on June 19, 2014, on NMSIC’s motion to dismiss and Appellants’ motion for an evidentiary hearing, and ruled that Appellants had failed to file a memorandum consistent with the Settlement Process Order. No evidence was presented at this hearing.\n{27} Roughly a month later, the district court granted the motion to dismiss the Meyer Defendants noting that “[Appellants] were given the opportunity to identify the evidence they would present in opposition to the settlements but] indicated at the . . . hearing that they had no evidence to present in opposition to the settlement.” It therefore concluded that an evidentiary hearing was unnecessary and denied Appellants’ motion. The district court acknowledged Appellants’ argument that further discovery was necessary to obtain evidence to support their position but concluded that Appellants were not entitled to full discovery because “[t]he extent of discovery appropriate in connection with a settlement approval hearing is limited to whether the settlement is fair, adequate, and reasonable.” It concluded, “[the Meyer] Defendants have admitted liability, have agreed to cooperate with [NMSIC], and have demonstrated that they have limited financial means[,]” and found that the settlements were fair, adequate, and reasonable. The Meyer Defendants were dismissed.\n3. The Broidy Defendants\n{28} Elliott Broidy (Broidy) was the founder and chairman of Markstone Capital Group, LLC (Markstone) (collectively, the Broidy Defendants). NMSIC alleged that Broidy secured an investment from NMSIC in Markstone’s private equity fund by making undisclosed and illegal quid pro quo payments to another defendant, thereby aiding other defendants in breaching their fiduciary duties to NMSIC. In June 2014 NMSIC and Markstone reached a settlement agreement. In exchange for a payment of $1,000,000 by Markstone, NMSIC released Markstone and Broidy from “any and all claims . . . arising out of, [or] in connection with, or relating to any activities by . . . Markstone [and Broidy] . .. with respect to . . . NMSIC ..., including NMSIC’s investments in the Markstone Fund.” The agreement with the Broidy Defendants did not require Broidy or Markstone to cooperate in NMSIC’s civil actions against other defendants. This agreement was signed by Governor Susana Martinez as Chair of NMSIC. See § 6-8-2(B) (stating that the chair of NMSIC shall be the Governor).\n{29} Shortly thereafter, NMSIC filed a motion to dismiss the Broidy Defendants asserting that Appellants had no standing to object to the dismissal because they had not named Broidy or Markstone in their qui tarn actions. Nevertheless, Appellants filed a response to the motion to dismiss stating their objections to the settlement. The district court decided that no hearing was necessary because the cases on which Appellants relied to establish standing to challenge the Broidy Defendants’ dismissal were all distinguishable, and because Appellants’ objections to the settlement had been previously rejected and Appellants presented no new reasons to change the district court’s decision. NMSIC’s motion to dismiss Broidy was granted.\n{30} Appellants now appeal the district court’s approval of the settlements and dismissal of the Weinstein Defendants, the Meyer Defendants, and Defendant Broidy from NMSIC’s suit.\nDISCUSSION\nA. Preliminary Matters\n1. Finality\n{31} To the extent that Appellants argue that the district court’s orders dismissing the Defendants were not final appealable orders, we disagree. See Rule 1-054(B)(2) NMRA. Appellants argue that the orders are not final because they “do[] not adjudicate all issues relating to these . . . [Defendants, because [they] do[] not adjudicate the [twenty-five] to [thirty percent] share of the settlement [that] goes to [Appellants], or the amount of attorney fees [that will be] paid by these [D]efendants.” Appellants’ argument is based on NMSA 1978, Section 44-9-7 (2015), which sets out how a qui tam plaintiff may be compensated when the state prevails in a FATA action. Section 44-9-7(A)-(C) guides how much a qui tam plaintiff may recover. Section 44-9-7(D) provides that “[a]ny award to a qui tam plaintiff shall be paid out of the proceeds of the action or settlement, if any. The qui tam plaintiff shall also receive an amount for reasonable expenses incurred in the action plus reasonable attorney fees that shall be paid by the defendant.”\n{32} Here, Appellants never filed a motion for the statutory award and attorney fees, and the district court did not hold a hearing on these issues. The orders dismissing Defendants do not address the statutory award or attorney fees. We disagree with Appellants that the pendency of these issues renders the dismissal orders non-final for two reasons.\n{33} First, the language of FATA itself contemplates resolution of the merits of the action before determination of the qui tam plaintiffs award and attorney fees. Section 44-9-7 provides for such awards when the state “prevails in the action” and when there are “proceeds of the action or settlement.” This language indicates that calculation of the qui tam plaintiff’s award is subsequent to and supplementary to adjudication of the merits of the action or resolution by settlement. See Valley Improvement Ass’n v. Hartford Accident & Indem. Co., 1993-NMSC-061, ¶ 11, 116 N.M. 426, 863 P.2d 1047 (distinguishing between attorney fees that are an integral part of compensatory damages and attorney fees that are “analogous to costs” and thus “supplementary to relief on the merits”).\n{34} Second, our Supreme Court has held that “[w]here a postjudgment request, such as one for attorney}] fees, raises issues ‘collateral to’ and ‘separate from’ the decision on the merits, such a request will not destroy the finality of the decisionf.]” Kelly Inn No. 102, Inc. v. Kapnison, 1992-NMSC-005, ¶ 21, 113 N.M. 231, 824 P.2d 1033. Here, by approving the settlements and dismissing Defendants, the district court’s orders “declarefd] the rights and liabilities of the parties to the underlying controversy,” i.e., the settlement amounts and terms. Id. Any determination as to the Appellants’ proper share of the settlement amount and attorney fees “will not alter},] .. . moot orrevise” the district court’s approval of the rights and liabilities set out in the settlement agreements. Id. Hence, the proceedings to determine Appellants’ share of the settlements are “collateral to” and “separate from” the approval of the settlements. Id.\n2. Jurisdictional Limits\n{35} Appellants also argue briefly that the district court acted beyond its jurisdiction in approving the settlements (1) because the settlements released Defendants from the FATA claims in Austin, which was presided over by another judge, and (2) because those claims could not be released while the Austin case was stayed pending appeal. For the most part, Appellants provide no authority for these contentions or to support their argument that the district court’s jurisdiction here is limited by proceedings in an entirely separate case. Generally, this Court will not consider propositions that are unsupported by citation to authority. ITT Educ. Servs., Inc. v. Taxation & Revenue Dep’t, 1998-NMCA-078, ¶ 10, 125 N.M. 244, 959 P.2d 969.\n{36} In any case, we are unpersuaded that the district court exceeded its jurisdiction. There is no dispute that the district court had jurisdiction over this case. The fact that a decision in this case may have an impact on another pending proceeding does not diminish its jurisdiction here. Indeed, Section 44-9-6(H) states that “[a] finding of fact or conclusion of law made in the other proceeding that has become final shall be conclusive on all parties to an action under [FATA].” Thus, this provision appears to contemplate the disposal of claims in a qui tam action by decisions rendered in an alternate remedy proceeding. See In re Pharm. Indus. Average Wholesale Price Litig., 892 F. Supp. 2d 341, 343-45 (D. Mass. 2012) (recognizing that a settlement agreement in a separate qui tam action may extinguish a qui tam plaintiffs claims and holding that such a settlement was an “alternate remedy” under Section 3730(c)(5) of the False Claims Act (FCA), 31 U.S.C. §§ 3729-3733 (2012)).\n3. Violation of Stay\n{37} Appellants also argue that the stay was violated because the district court released the FATA claims before the Supreme Court had a chance to rule on the constitutional/retroactivity issue in Austin II and that, consequently, the Supreme Court’s authority was “usurpfed].” But the district court assumed that FATA was constitutional, an assumption that favored Appellants’ position because, generally speaking, the longer the period of alleged misconduct, the weaker the settlements appear. Conversely, if the Supreme Court had decided that the retroactivity provision of FATA was unconstitutional, then the period encompassing the alleged misconduct would have been shorter, which would have weighed in favor of the adequacy of the settlements and against Appellants’ position. We conclude that the district court properly assessed the settlements in light of the pending appeals in Austin and did not usurp the Supreme Court’s authority.\nB. Appellants Do Not Have Standing to Challenge the Dismissal of Defendant Broidy\n{38} The district court held that Appellants did not have standing to challenge the settlement with the Broidy Defendants because they were not named as defendants in Appellants’ qui tam actions. The district court reasoned that, because Appellants’ rights in the present action stem solely from their rights in their qui tam actions, Appellants’ failure to name the Broidy Defendants there means that they had no rights as to them here.\n{39} Although Appellants appealed the district court’s decision and dismissal of the Broidy Defendants, they did not address the legal principles of standing in their brief in chief nor specifically argue that the district court’s ruling was incorrect. Nor did they address this issue in their reply brief even after NMSIC raised it in its answer brief. “In this circumstance, such a failure to respond constitutes a concession on the matter.” Delta Automatic Sys., Inc. v. Bingham, 1999-NMCA-029, ¶ 31, 126 N.M. 717, 974 P.2d 1174. “This Court has no duty to search the record or research the law to ‘defend’ in a civil case a party that fails to defend itself on an issue.” Id. This issue having been waived, we turn to Appellants’ substantive arguments as to the district court’s approval of the settlements with the Weinstein and Meyer Defendants.\nC. Appellants’ Substantive Arguments as to the Weinstein and Meyer Defendants\n{40} In these two appeals, Appellants raise the same four arguments. First, they maintain that the district court erred in limiting discovery before approving the settlements. Second, they argue that the district court’s rulings violate FATA. Third, they argue that NMSIC violated the Open Meetings Act (OMA),NMSA 1978, §§ 10-15-1 to -4 (1974, as amended through 2013), the Inspection of Public Records Act (IPRA), NMSA 1978, §§ 14-2-1 to -12 (1947, as amended through 2013), and the statute governing NMSIC, Section 6-8-2. Finally, Appellants contend that the district court erred in ruling that they lacked standing to raise issues related to alleged conflicts of interest of the former attorney general, Gary King, and his staff. We address the first two arguments together, then the third and fourth in turn.\n1. The District Court Did Not Abuse its Discretion as to Discovery nor Violate FATA\n{41} Appellants argue that the district court erred when it “refused to allow discovery” and “refused to allow the [Appellants] to take any depositions... [o]r to propound any interrogatories ... [o]r to serve any requests for production.” In essence, they maintain that they were denied the opportunity to present evidence that the settlements were unfair and unreasonable — an opportunity to which they are entitled by statute — because they were unduly limited in their ability to propound discovery. See § 44-9-6(C). “Although the rules favor the allowance of liberal pretrial discovery, the trial court is vested with discretion in determining whether to limit discovery.” DeTevis v. Aragon, 1986-NMCA-105, ¶ 10, 104 N.M. 793, 727 P.2d 558 (citation omitted). Hence, “[a] trial court’s ruling limiting discovery is subject to reversal only upon a showing of an abuse of discretion.” Id.\n{42} We begin by addressing Appellants’ argument that, because of the differences between FATA and the FCA, it is inappropriate to rely on federal cases construing the FCA in construing FATA. They point to San Juan Agricultural Water Users Ass’n v. KNME-TV, in which the Supreme Court stated that “[t]he differences in substantive text and legislative purposes [between a federal statute and a New Mexico statute] make the application of federal... law inappropriate when construing [thatNew Mexico statute].” 2011-NMSC-011, ¶ 38, 150 N.M. 64, 257 P.3d 884. We therefore consider whether differences between the FCA and FATA make federal case law inapposite.\n{43} Our courts have recognized that “FAT A closely tracks the longstanding federal [FCA] ” and that “cases construing FATA’s federal analogue, the [FCA], [are] helpful in understanding the context and purpose of FATA.” Austin II, 2015-NMSC-025, ¶¶ 16, 25; see State ex rel. Peterson v. Aramark Corr. Servs., LLC, 2014-NMCA-036, ¶ 4, 321 P.3d 128 (recognizing that FATA is similar'to the FCA). Appellants argue that this principle is inapplicable because the differences between FATA and the FCA indicate that the New Mexico Legislature intended to afford qui tarn plaintiffs broader protections than those provided under the FCA. They derive this idea from the fact that, whereas the FCA permits settlement “after a hearing,” FATA permits settlement “after a hearing providing the qui tain plaintiff an opportunity to present evidence.” Compare 31 U.S.C. § 3730(c)(2)(B), with § 44-9-6(C) (emphasis added).\n{44} Under the FCA, a qui tarn plaintiff may request an evidentiary hearing, which “should be granted only upon a showing by the [qui tarn plaintiff] of ‘substantial and particularized need.’ ” Claire M. Sylvia, The False Claims Act: Fraud Against the Government § 11:127 (2d ed. 2015); see Ridenour v. Kaiser-Hill Co., 397 F.3d 925, 935 (10th Cir. 2005); Nasuti ex rel. United States v. Savage Farms, Inc., No. 12-30121-GAO, 2014 WL 1327015, at *13 (D. Mass. Mar. 27, 2014) (order), aff’d, No. 14-1362, 2015 WL 9598315 (Mar. 12, 2015). Thus, the opportunity to present evidence at a hearing is permissible under the FCA upon a sufficient showing, but required under FATA. Federal case law addressing when an evidentiary hearing should be granted is therefore likely inapposite to Section 44-9-6(C) of FATA. Once granted, however, we see no reason why federal case law addressing the conduct of the evidentiary hearing itself is inapplicable to evidentiary hearings under FATA.\n{45} In addition to federal case law addressing the FCA, the law governing review of class action settlements is also instructive here. In United States ex rel. Schweizer v. Océ North America Inc., the court held that case law addressing the fairness, adequacy, and reasonableness of class action settlements is analogous to the same analysis under the FCA. 956 F. Supp. 2d 1, 10-11 (D.D.C. 2013); see Fed. R. Civ. P. 23(e)(2) (stating that class action settlements may be approved “only after a hearing and on finding that it is fair, reasonable, and adequate”). This approachhas been adopted by other federal courts. See, e.g., United States ex rel. Nudelman v. Int’l Rehab. Assocs., Inc., No. CIV A 00-1837, 2004 WL 1091032, at *1 n.1 (E.D. Pa. May 14, 2004) (order); United States ex rel. Resnick v. Weill Med. Coll. of Cornell Univ., No. 04 CIV 3088(WHP), 2009 WL 637137, at *2 (S.D.N.Y. Mar. 5, 2009).\n{46} Similarly, in New Mexico, class action settlements are evaluated by the district court for their fairness, adequacy, and reasonableness. See Rivera-Platte v. First Colony Life Ins. Co., 2007-NMCA-158, ¶ 43, 143 N.M. 158, 173 P.3d 765 (stating that the settlement proponents bear the burden of demonstrating that the settlement is fair, adequate, and reasonable). Given the similarity between the standards for approval of settlement of false claims actions and class actions, we look to class action law for guidance on FATA settlement hearings.\n{47} Having concluded that federal case law governing objections to settlements under the FCA and case law on class action settlements is applicable, we next examine that law. In Schweizer, the court considered whether a qui tam plaintiff “who objects to a proposed [FCA] settlement reached between the government and the defendant [is] entitled to full-blown discovery on her claims in order to prove that the settlement [is] inadequate[.]” 956 F. Supp. 2d at 11. The court concluded that the hearing required by statute “serves a . . . limited purpose of forcing the government to provide some reasoning behind its decision to settle the case and giving the plaintiff-relators an opportunity to direct the court’s attention to facts or allegations that would suggest the settlement was not ‘fair, adequate],] and reasonable under all the circumstances].]’ ” Id. Based on this limited purpose, it further concluded that “allowing full-blown discovery as of right would risk transforming the [FCA settlement] hearing into a trial on the merits of [the qui tam] plaintiff’s claims and the government’s estimations of the litigation risks. It would put the cart before the horse, in essence making trial a precondition of settlement.” Id. Although it held that there was no right to full discovery, the court noted that limited discovery would be appropriate when “the government has not adequately explained its reasoning behind the settlement.” Id.; see United States ex rel. McCoy v. Cal. Med. Review, Inc., 133 F.R.D. 143, 149 (N.D. Cal. 1990) (stating that although a qui tam plaintiff is entitled “to discovery on the fairness of the proposed settlement, the discovery must be limited to effectuate the goal of allowing plaintiffs meaningful participation in the fairness hearing without unduly burdening the United States or the defendants or causing unnecessary delay”); 5B Fed. Proc., L. Ed. § 10:73 (2004) (“The qui tam plaintiffs may be allowed limited discovery to enable them to play an active role in hearings on a proposed settlement agreement.”); cf. 32B Am. Jur. 2d Federal Courts § 1870 (2016) (stating that “formal discovery is not a prerequisite to the approval of a [class action] settlement as long as the plaintiffs’ negotiators had access to sufficient information regarding the facts of the case, and if the terms of the settlement are fair, the court may reasonably conclude that counsel performed adequately in obtaining a working knowledge of the case”).\n{48} The Schweizer holding is paralleled in Rivera-Platte, in which this Court considered whether “the settlement process was unfair because [the objectors’] . . . requests for discovery were denied.” 2007-NMCA-158, ¶ 52. We rejected the objectors’ argument that “informal” discovery was inadequate to permit the court to evaluate the settlement, id. ¶ 49, and that they had “an absolute right to discovery.” Id. ¶ 94 (internal quotation marks and citation omitted). Instead, we stated that informal discovery is appropriate so long as it is sufficient “to fairly evaluate the merits of [the defendants’ positions during settlement negotiations.” Id. ¶ 49. We also noted that “[o]ne of the major reasons courts encourage settlement is to reduce the cost of litigation” and that because settlement is “an extra judicial process, informality in the discovery of information is desired.” Id. ¶ 51 (internal quotation marks and citation omitted). Although in Rivera-Platte we reversed the district court’s denial of discovery, we held that “the district court would not have abused its discretion in denying discovery if it had sufficient information before it to determine whether to approve the settlement.” Id. ¶ 95; accord Hershey v. ExxonMobil Oil Corp., No. 07-1300-JTM, 2012 WL 4758040, at *2 (D. Kan. Oct. 5, 2012) (stating that “[t]he fundamental question is whether the district [court] has sufficient facts before [it] to intelligently approve or disapprove the settlement” (internal quotation marks and citation omitted)).\n{49} Consistent with these principles, the district court here properly concluded that “[Appellants] are not entitled to conduct or complete full-blown discovery prior to proposed settlement approval.” Hence, we reject Appellants’ contention that the district court violated FATA by limiting discovery before settlement.\n{50} We turn next to Appellants’ argirments that the way the district court limited discovery unduly hindered their ability to challenge the settlements contrary to FATA. Appellants argue that they were improperly denied any discovery. They also argue that the district court improperly ruled that damages calculations were not important for evaluation of the settlements and therefore denied their request for discovery as to damages. Neither of these contentions is supported by the record.\n{51} Contrary to their statement that they were denied all discovery, we note that Appellants were provided with all of the discovery obtained by NMSIC from Defendants. Also, Appellants conceded in the district court that they had received some discovery from NMSIC, that they were “satisifed” with NMSIC’s response, and that there was “no dispute with the [q]ui [t]am [p]laintiffs and [NMSIC] with [how] they have responded to discovery,” and the district court entered an order stating that Appellants were entitled to receive any further materials that were produced to NMSIC counsel by Defendants. In addition, the district court ordered that “basic documents relating to the transactions at issue in this case” must be produced by Defendants to both NMSIC and Appellants. The district court also ordered that personal financial information for Defendants should be produced to Appellants. Finally, the district court ordered that “each [Defendant shall provide to [Appellants]... a copy of any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in this suit or to indemnify or reimburse any defendant for payments made to satisfy any judgment in this suit.”\n{52} Given the production of the above described discovery, we understand Appellants’ argument to be that their other specific requests for discovery were improperly denied. Appellants requested “the name and . . . address ... of each individual likely to have discoverable information” about the case; copies of “all documents, electronically stored information, and tangible things that the disclosing party” might “use to support its claims or defenses”; “a computation of each category of damages claimed by the disclosing party”; and a “copy of any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment.” They argued below and on appeal that these four requests “track[] the list in Rule 1-026(B)(3) [NMRA] ” and in its federal counterpart, Fed. R. Civ. P. 26(a)(1)(A), and that this information is “part of the minimal due diligence and competence that is required in every case.” In addition, they asked Defendants to “describe all communications between you and any of the other parties to this lawsuit,” “[p]rovide a copy of all documents, electronically stored information, and tangible things that record or reflect any [such] communications,” and “[p]rovide a copy of all documents, electronically stored information, and tangible things relating to the transactions giving rise to this lawsuit.”\n{53} Defendants objected to these requests and some sought protective orders. The district court issued an order preventing Appellants from promulgating the requested discovery on Defendants, with the exception of the materials discussed in paragraph 50. In its oral remarks, the district court stated that “[it did] not believe that due diligence requires answers to the mandatory . . . disclosures” in Rule 1-026(B)(3) andthatthe answers to those requests were not necessary for it to evaluate the settlements.\n{54} We conclude that the district court did not abuse its discretion in limiting Appellants’ discovery as it did. In the Settlement Process Order, the district court notified Appellants that they must demonstrate that\n(1) there is a low risk of... failing to establish liability against [the] [sjettling [defendants under FATA,\n(2) there is a low risk of... failing to establish damages against [the settling defendants] under FATA,\n(3) the settlement amounts are not within the range of reasonableness in light of the best possible recovery[,] and\n(4) the settlement amounts are not within the range of reasonableness in light of all. . . the attendant risks of litigation.\n{55} Appellants did not demonstrate to the district court, and do not demonstrate on appeal, how their broad discovery requests were related to the factors the district court considered to assess the settlements. As discussed above, in the months leading up to the evidentiary hearing on the settlements with the Weinstein Defendants, Appellants were given multiple opportunities to present the evidence they claimed they already had and to state why the settlements were not fair, adequate, orreasonable. Considering the stage of the proceedings, the amount of discovery produced to Appellants, Appellants’ multiple opportunities to present evidence they claimed to have, and Appellants’ opportunity to cross-examine the witnesses presented by NMSIC, it was within the district court’s discretion to curb Appellants’ discovery.\n{56} Appellants next argue that the district court erred by ruling that calculation of damages was not important to evaluation of the settlements. They glean this argument from an exchange at a motion hearing after Appellants stated that they wanted “all documents relating to the various investments” in order “to do a real calculation with admissible evidence as to what the loss or gain ... might be on a particular investment.” They stated that “the best way of doing that is cash out, cash in.”\nCounsel for Appellants: So there is complexity there. And without simply having had discovery, we don’t have that information.\nCourt: Mr. Marshall, to me, the issue at this hearing is not whether you had the ability to make that calculation now, but... whether somebody who is making the decision to settle considered those facts.\nCounsel for Appellants: I want the facts, Your Honor.\nCourt: I understand you want the facts, but that’s not important for settlement purposes.\nCounsel for Appellants: I want to ask somebody from the [NMSIC], . . . what was the gain or loss on this particular investment. W e don’t know that information.\nCourt: I don’t think you need to know that at this stage.\n{57} Appellants misinterpret the district court’s ruling. The district court did not decide that calculation of damages was irrelevant to the fairness, adequacy, and reasonableness of the settlements: it ruled that it was not critical to evaluation of the settlements that Appellants have the information on which NMSIC’s damages calculations were based, so long as NMSIC could demonstrate to the district court that it adequately considered the potential damages. See Hershey, 2012 WL 4758040, at *2 (stating that “[t]he fundamental question is whether the district [court] has sufficient facts before [it] to intelligently approve or disapprove the settlement.” (internal quotation marks and citation omitted)).\n{58} Furthermore, Appellants’ contention that the district court did not consider the potential damages is contradicted by the record. The district court made several findings of fact related to potential damages. Additionally, in its conclusions of law, the district court noted that assessment of the settlement included examination of “the range of reasonableness of the settlement fund in light of the best possible recovery.” It further concluded that NMSIC had conducted sufficient discovery to “fairly evaluate the . . . range of [best] possible recovery.” In other conclusions, the district court considered the “complexity of establishing damages,” recognized that Appellants estimated damages to be in excess of $300,000,000 based on investment losses, and contemplated the possible types of damages available under FATA. These findings and conclusions indicate that the district court properly considered damages in its assessment of the settlements.\n{59} Appellants also argue that the district court deprived them of their rights under FATA, specifically the “right to [Appellants’] reward and attorney fees, the right to intervene and participate as a party in the alternate action, and the right to present evidence in the alternate action.” But Appellants were permitted to intervene as parties and, as already discussed, were permitted to present evidence at the fairness hearing. Because the propriety of the settlements is on appeal, Appellants’ right to a reward and attorney fees has yet to be litigated. Thus, Appellants have not been deprived of these rights.\n{60} Appellants’ general arguments that the district court violated FATA by “rubber-stamping” the settlements are unpersuasive. As discussed above, the district court requested memoranda on Appellants’ opposition to the settlements multiple times, held several hearings, and conducted a two-day evidentiary hearing. It issued seventy-three detailed findings of fact. In its evaluation, the district court indulged several presumptions in Appellants’ favor. For example, although the issue of the constitutionality of FATA’s retroactivity provision was on appeal to the Supreme Court, the district court assumed that it was constitutional. In spite of its reservations about whether Appellants had a right to object to settlements with defendants on whom process was not served in their qui tarn actions, it also presumed that Appellants had a right to object to those settlements. Moreover, although Appellants “ha[d] not articulated a viable FATA claim against any of the [Weinstein] Defendants,” the district court nevertheless assumed that Appellants might yet do so and therefore assumed they had a right to object to settlements with those defendants. The district court did not “rubber-stamp” the settlement agreements.\n{61} Finally, Appellants argue that the district court violated NMSA 1978, Section 6-8-24 (2011). This statute provides that “[njothing in this 2011 act shall prejudice or impair the rights of a qui tarn plaintiff pursuant to [FATA].” Since we have determined that Appellants’ rights under FATA were not infringed, we further conclude thatno violation of Section 6-8-24 occurred. Appellants also make several statements that because of the inadequate discovery “the proposed settlement amounts are grossly inadequate.” Other than these statements, however, Appellants do not challenge the district court’s factual findings or conclusions as to adequacy, fairness, or reasonableness, which involved a number of findings and conclusions on the settling defendants’ resources, the likelihood of success at trial, and the role of the settlements in the State’s litigation plan, among others. In the absence of particularized challenges to these findings and conclusions, we do not address Appellants’ general assertions that the settlements are inadequate. See Rule 12-213(A)(4) (stating that “[t]he argument shall set forth a specific attack on any finding, or such finding shall be deemed conclusive”).\n{62} We conclude that the district court did not abuse its discretion in limiting discovery, nor did it fail to adequately assess the settlements. In addition, we discern no violation of FATA by the district court.\n2. The Settlement Agreements are Valid as of May 2015\n{63} Appellants, together with Amici New Mexico Foundation for Open Government (NMFOG) and New Mexico Press Association, argue that the settlements are void for three reasons. First, NMSIC did not have the power to delegate authority to settle with Defendants to the Litigation Committee. Second, even if settlement authority was properly delegated, the Litigation Committee was a public body subject to the requirements of the OMA and failed to comply with those requirements. Section 10-5-1. Third, the Litigation Committee was improperly constituted because it did not conform with NMSIC’s settlement policy or Section 6-8-2(B), which states that “[a]ll actions of the [NMSIC] shall be by majority vote, and a majority of the members shall constitute a quorum.”\n{64} Appellants made these arguments in the district court as well. The district court disagreed and held that NMSIC properly delegated settlement authority to the Litigation Committee and that the OMA does not require litigation decisions, including settlement decisions, to be made in a public meeting. See § 10-15-1 (H)(7) (excluding “meetings subject to the attorney-client privilege pertaining to threatened or pending litigation in which the public body is or may become a participant” from the scope of the OMA). In reaching this conclusion, the district court relied in part on the fact that NMSIC delegated authority to the Litigation Committee in its Settlement Policy, which was voted on and approved by NMSIC at a public meeting.\n{65} NMSIC’s position on appeal is multifaceted. First, NMSIC argues that Appellants “implicitly conceded” that delegation of settlement authority to the Litigation Committee was proper, and thus the issue is not preserved for appeal. Next, it argues that “the actions of the Litigation Committee are the very type of attorney-client privileged litigation decision-making exempted by [the] OMA.” In addition, it argues that “[e]ven if the Litigation Committee were subject to the OMA, the processes followed here satisfied [the] OMA’s purposes and therefore did not violate [the] OMA.” Finally, it maintains that any violation of the OMA was cured by NMSIC’s ratification of the settlements in a properly-noticed public meeting held in May 2015, approximately thirty months after the Litigation Committee approved the first settlements, and that, therefore, this issue is moot.\n{66} We begin by addressing NMSIC’s preservation and mootness arguments. The district court’s conclusion that the issue of whether settlement authority was properly delegated was “implicitly conceded” is based on a pleading in which Appellants argued that there were no records of such a delegation and requested that any records of delegation be produced. But Appellants also stated in that pleading that “a blanket delegation [of settlement authority] to the [state investment officer] . . . would be in derogation of the statutory and fiduciary obligations of [NMSIC] members themselves” and that decisions about “settlement of actual or potential litigation . . . must be made by the . . . [NMSIC] itself, by vote.” By making these arguments, Appellants sufficiently apprised the district court of their contention that the authority to settle litigation rests solely with NMSIC. Thus, this argument was sufficiently preserved for appeal.\n{67} As to NMSIC’s argument that this Courtneed not address Appellants’ arguments as to the OMA because the May 2015 meeting cured any OMA violations, we disagree. Even if an issue is moot as between the parties, we may address it if it is an issue “of substantial public interest, and capable of repetition, yet evading review.” Howell v. Heim, 1994-NMSC-103, ¶ 7, 118 N.M. 500, 882 P.2d 541 (internal quotation marks and citation omitted). The present matter satisfies both of these criteria. In promulgating the OMA, the New Mexico Legislature has evinced a strong interest in transparency in government and agency compliance with the OMA is an issue of substantial public interest. Furthermore, the problems in NMSIC’s processes here are capable of repetition by it and other agencies. See Paragon Found., Inc. v. State Livestock Bd., 2006-NMCA-004, ¶ 10, 138 N.M. 761, 126 P.3d 577 (stating that “the implication of the OMA is an important policy issue that is likely to occur again if the issue is not directly addressed” and examining the OMA issues even though the matter was moot).\n{68} We move on to the parties’ substantive arguments, which present a series of questions. First, are the actions of the Litigation Committee void, because either (1) NMSIC improperly delegated authority to settle with Defendants, or (2) the Litigation Committee failed to comply with the OMA? Second, did the May 2015 meeting cure any improper delegation or violation of the OMA such that the settlements are now valid?\na. Actions of the Litigation Committee Were Void\n{69} As to the first question, we agree with Appellants and Amici that the Litigation Committee’s actions were void because the Committee did not have the authority to settle with Defendants. In addition, even if settlement authority was properly delegated, the Litigation Committee’s meetings did not comply with the OMA and hence were invalid. We address the delegation issue first.\n{70} In pertinent part, the Settlement Policy states that the Litigation Committee “may actively participate in settlement negotiations, as appropriate, with the authority of the [NMSIC] for settlement resolution and related decisions.” It also states that “the authority to settle legal matters rests not with the [State Investment Officer] but with [NMSIC’s L]itigation [C]ommittee.” The Settlement Policy specifies that the Litigation Committee “shall be comprised of at least three [NMSIC] members” and permits the Governor’s general counsel to serve on the committee. Pursuant to the Settlement Policy, a Litigation Committee consisting of two NMSIC members and the Governor’s general counsel met “seven or eight” times to discuss the settlement negotiations with Defendants. The Litigation Committee approved the settlement agreements with Defendants without obtaining a vote on the final decision by NMSIC. These settlement agreements were signed on behalf of NMSIC by Litigation Committee members.\n{71} As a creature of statute, NMSIC functions solely within the powers granted by the Legislature. Chalamidas v. Envtl. Improvement Div., 1984-NMCA-109, ¶ 13, 102 N.M. 63, 691 P.2d 64. NMSIC’s powers are limited by Section 6-8-2(B) and Section 6-8-7(A) and (E). Under Section 6-8-2(B), u[a]ll actions of the council shall be by majority vote, and a majority of the members shall constitute a quorum.” (Emphasis added). The only mention of NMSIC’s ability to delegate its responsibilities states that “[t]he [NMSIC] may delegate administrative and investment-related functions to the state investment officer.” Section 6-8-7(A). Section 6-8-7(E) provides that NMSIC may “form and use committees,” but only to “study and make recommendations to [NMSIC].” Notwithstanding the Settlement Policy, these provisions do not permit NMSIC to delegate authority to settle litigation to a committee. Indeed, read together, they prohibit such delegation. Cf. Kerr-McGee Nuclear Corp. v. N.M. Envtl. Improvement Bd., 1981-NMCA-044, ¶ 52, 97 N.M. 88, 637 P.2d 38 (stating that “[administrative bodies and officers cannot delegate power, authority and functions which under the law may be exercised only by them, which are quasi-judicial in character, or which require[] the exercise of judgment”). Because the Litigation Committee did not have the authority to do so, its approval of the settlements in 2013 and 2014 was without any binding effect.\nb. Litigation Committee Was Subject to the OMA\n{72} Even if NMSIC’s delegation of settlement authority to the Litigation Committee had been proper, the Litigation Committee violated the OMA’s requirements for closed meetings. Hence, its actions are void for that reason as well. We explain.\n{73} The OMA embodies the Legislature’s declaration that “[the] public policy of this state [is] that all persons are entitled to the greatest possible information regarding the affairs of government and the official acts of those officers and employees who represent them.” Section 10-15-1 (A). In keeping with this policy, we construe the OMA’s provisions broadly and their exceptions narrowly. Cf. State ex rel. Toomey v. City of Truth or Consequences, 2012-NMCA-104, ¶ 22, 287 P.3d 364 (“We emphasize, however, that [the] IPRA should be construed broadly to effectuate its purposes, and courts should avoid narrow definitions that would defeat the intent of the Legislature.”); see also NMSA 1978, § 14-2-5 (1993) (stating that, under the IPRA, “it is declared to be the public policy of this state, that all persons are entitled to the greatest possible information regarding the affairs of government and the official acts of public officers and employees[,]” which is nearly identical to the policy declaration in the OMA).\n{74} The OMA provides that\nAll meetings of a quorum of members of any board, commission, administrative adjudicatory body or other policy[-]making body of any state agency . . . , held for the purpose of formulating public policy, . . . discussing public business or taking any action within the authority of or the delegated authority of any board, commission or other policy[]making body are declared to be public meetings open to the public at all times, except as otherwise provided in the constitution of New Mexico or the [OMA],\nSection 10-15-1 (B) (emphasis added).\n{75} We conclude that this provision applied to the Litigation Committee because the Litigation Committee was intended to be a “policy [-Jmaking body” and its meetings were for the purpose of taking an action within the authority of NMSIC. NMSIC, which is unquestionably subject to the OMA, attempted to delegate its authority to take action on the settlements to the Committee. It is patently contrary to the OMA’s purpose to permit a public body to avoid the OMA’s requirements simply by delegating its responsibilities to a smaller body. Indeed, Section 10-15-l(B) states that“[n]o public meeting once convened that is otherwise required to be open pursuant to the [OMA] shall be closed or dissolved into small groups or committees for the purpose of permitting the closing of the meeting.” We agree with a 1990 Advisory Opinion by the then-Attorney General that “it is the nature of the act performed by the committee, not its makeup or proximity to the final decision, which determines whether an advisory committee is subject to open meetings statutes.” N.M. Att’y Gen. Op. 90-27 (1990). The current Attorney General’s Open Meetings Act Compliance Guide echoes this thinking, stating,\neven a non-statutory committee appointed by a public body may constitute a “policy[-Jmaking body” subject to the [OMAJ if it makes any decisions on behalf of, formulates recommendations that are binding in any legal or practical way on, or otherwise establishes policy for the public body. A public body may not evade its obligations under the [OMAJ by delegating its responsibilities for making decisions and taking final action to a committee.\np. 9 (8thed. 2015) http://www.nmag.gov/oma- and-ipra-nm-sunshine-laws.aspx.\n{76} In Paragon Foundation, Inc., this Court considered whether the acts of an individual on behalf of a public agency were subject to the OMA. 2006-NMCA-004, ¶¶ 2-3. After a federal district court ordered the plaintiffs to remove their livestock from United States Forest Services land, the Forest Service and the executive director of the New Mexico Livestock Board (Board) entered into a memorandum of understanding (MOU) governing how the livestock would be removed. Id. The plaintiffs filed suit, alleging that the MOU violated the OMA because “no public meeting of the Board was held and a majority of the Board did not approve or authorize the MOU before the MOU was executed by” the executive director. Id. ¶ 4. The Board moved for summary judgment on the ground that the MOU was not voted on or executed by a quorum of the Board and that, because the Board did not so act, the OMA did not apply. Id. ¶ 5. The district court granted the motion for summary judgment. Id. ¶7.\n{77} On appeal, we affirmed. Relying on Section 10-15-1(B), quoted above, we held that “[ujnder the law, if a quorum of the Board members did not act on the MOU, the OMA was inapplicable, there was no OMA violation, and summary judgment was proper.” Paragon Found., Inc., 200 6-NMC A-004, ¶¶ 12, 13. We also noted that the executive director’s “largely unilateral action [in signing the MOU was] non-binding and meaningless, as he can only act pursuant to those powers delineated in the Code.” Id. ¶ 24.\n{78} Importantly, we noted that the executive director “did not have the authority or approval of the Board to enter into the MOU” and that the “MOU was not approved or authorized by a quorum of the Board in public or private meetings.” Id. ¶¶ 15, 16. We repeatedly reiterated the fact that members of the Board had limited or no knowledge of the MOU before it was signed, and that some members were “surprised” when presented with it after its execution. Id. ¶¶ 17-22. These facts clearly distinguish Paragon Foundation, Inc. from the present matter. Unlike in that case, here, NMSIC unanimously approved the Settlement Policy, purportedly giving the Litigation Committee authority to act on its behalf. See Signed Minutes, pg. 5-7, NMSIC Meeting June 26, 2012, available at http ://www. sic. state ,nm.us/up lo ads/F ileLinks /39153cc7c39a496c823e7a6fdba7dad6/6_26 _12_SIC_SIGNED_MINUTES.pdf. Itis clear that NMSIC fully endorsed the actions of the Litigation Committee and intended it to take action that would be subject to the OMA if acted on by the full NMSIC.\nc. Litigation Committee Actions Were Subject to the OMA\n{79} Having determined that the Litigation Committee was a body subject to the OMA, we turn to whether the Litigation Committee’s actions were subject to the OMA. NMSIC relies on Board of County Commissioners v. Ogden to argue that the Litigation Committee’s approval of the settlements falls within an exception to the OMA. 1994-NMCA-010, 117 N.M. 181, 870 P.2d 143. The focus of the Ogden opinion is on construction of Section 10-15-1(H)(7) (the litigation exception), which states that “meetings subject to the attorney-client privilege pertaining to threatened or pending litigation in which the public body is or may become a participant” are not subject to the OMA. Ogden, 1994-NMCA-010, ¶ 13. There, the issue was whether the “threatened or pending litigation” exception included the Board of Commissioners’ decision to sue the defendants. Id. The Court concluded “that ‘pending’ or ‘threatened’ litigation can include litigation that the public body may initiate and legal disputes that have not yet reached the courts” and that “under [this exception], [the Board of Commissioners] could properly discuss and decide to file suit against [the defendants in a closed session.” Id. ¶¶ 15-16.\n{80} More pertinent to our purposes is the Court’s rejection of the argument that “even if [the Board of Commissioners was] allowed to obtain legal advice in closed session, [it] was required to make its decision to sue [the defendants in an open meeting.” Id. ¶ 17. We reasoned that, unlike some of the other exceptions, the litigation exception “does not require that a decision regarding litigation be made in an open meeting.” Id.; see, e.g., § 10-15-1(H)(6) (actual approval of certain purchases must be made in open meeting).\n{81} Amici argue that the holding in Ogden has been overruled by the Board of Commissioners of Doña Ana County v. Las Cruces Sun-News, in which this Court stated that “settlement agreements entered into between parties are outside the privilege” addressed by the litigation exception. 2003-NMCA-102, ¶ 25, 134 N.M. 283, 76 P.3d 36, overruled on other grounds by Republican Party of N.M. v. N.M. Taxation & Revenue Dep't, 2012-NMSC-026, ¶ 16, 283 P.3d 853. But the focus of that case was on whether executed settlement agreements involving a public entity were subject to public disclosure under the IPRA. Id. ¶¶ 1, 25. The holding that settlement agreements are disclosable under the IPRA does not contradict the Ogden holding that the decision to settle may be made in a closed meeting. Based on Ogden, we conclude that the district court did not err in holding that the OMA was not violated by the Litigation Committee’s approval of the settlement agreements in private meetings.\n{82} However, the district court’s analysis did not go far enough because other provisions of the OMA were violated. For instance, Section 10-15-1 (I)(l) states that\nif [the decision to hold a closed session is] made in an open meeting, [it] shall be approved by a majority vote of a quorum of the policy[-jmaking body; the authority for the closure and the subject to be discussed shall be stated with reasonable specificity in the motion calling for the vote on a closed meeting; the vote shall be taken in an open meeting; and the vote of each individual member shall be recorded in the minutes.\n{83} Section 10-15-1 (I)(2) provides that when the decision to hold a closed session is not made in a public meeting, “the closed meeting shall not be held until public notice, appropriate under the circumstances, stating the specific provision of the law authorizing the closed meeting and stating with reasonable specificity the subject to be discussed is given to the members and to the general public.” Finally, Section 10-15-1 (J) states that\nthe minutes of the open meeting that was closed or the minutes of the next open meeting if the closed meeting was separately scheduled shall state that the matters discussed in the closed meeting were limited only to those specified in the motion for closure or in the notice of the separate closed meeting. This statement shall be approved by the public body ... as part of the minutes.\n{84} The parties do not direct us to evidence in the record that NMSIC and the Litigation Committee complied with these requirements. Thus, these provisions of the OMA were violated and the Litigation Committee’s approval of the settlement agreements was invalid.\nd. May 2015 Meeting Cured OMA Violations\n{85} The final question is whether the settlement agreements became valid when nine of the eleven members of NMSIC voted to approve them in May 2015. Assuming NMSIC has the power to enter into such agreements, we conclude that the May 2015 vote rectified the delegation issue.\n{86} We also conclude that the May 2015 meeting cured the OMA violations. “[P]rocedural defects in [compliance with the OMA] may be cured by taking prompt corrective action.” Kleinberg v. Bd. of Educ. of Albuquerque Pub. Sch., 1988-NMCA-014, ¶ 30, 107 N.M. 38, 751 P.2d 722. Previous cases have affirmed the cure of the OMA violations where the curing actions were taken four days later, see id. ¶ 15, and eleven months later. See Palenick v. City of Rio Rancho, 2012-NMCA-018, ¶ 1, 270 P.3d 1281, rev’d on other grounds by, 2013-NMSC-029, 306 P.3d 447. Here, the curing meeting occurred thirty months after the first settlement was approved by the Litigation Committee. Although thirty months stretches the bounds of “prompt” remedial action as contemplated in Kleinberg, we conclude that it was sufficient to remedy the Litigation Committee’s improper action because “the legislature did not intend to unduly burden the appropriate exercise of governmental decision-making and ability to act.” 1988-NMCA-014, ¶ 31. “To rule otherwise would improperly elevate form over substance” and wreak havoc on a process already fraught with complexity. Id. Most importantly, the May 2015 meeting was preceded by proper notice to the public, included a public agenda and was open to the public, NMSIC members publicly voted on the settlements, and minutes of the meeting were published online. See http://www.sic.state.nm.us/state-investment-council.aspx (providing access to NMSIC meeting calendar, and agendas and minutes of NMSIC meetings) (last visited Mar. 17, 2016). The purpose of the OMA was thus achieved by this public meeting. See Kleinberg, 1988-NMCA-014, ¶ 31 (concluding that an OMA violation was cured where “[t]he local board, in affording [the plaintiff] a full and fair hearing in compliance with due process guarantees, and ultimately, in taking a public vote and openly announcing its decision in a forum where the interested public could observe the action, carried out the intent and purpose of the [OMA] ”).\n{87} We recognize that our holding could be seen as stretching the notion of prompt remedial action beyond the breaking point, effectively giving license to public agencies to flout OMA standards without penalty. We caution strongly against any such reading and emphasize that our decision to not invalidate the settlements is driven by the fact that they were subjected to reasonable and appropriate review by the district court. That independent review—which we have approved—provides us assurance that the public fisc has been protected. Without the presence of judicial review we would not be tolerant of the delay seen here. In addition, we are confident that our ruling as to the reach and effect of the OMA in situations such as we review here will result in suitable caution by public agencies of all stripes. To the extent public agencies fail to meet their obligations under the OMA, the public — including Amici — will have strong authority to enforce compliance.\n{88} We also emphasize that the ratification ofthe settlements attheMay 2015 meeting does not operate retroactively to make the settlement agreements valid as of the date they were originally signed. See Palenick, 2012-NMCA-018, ¶ 9 (stating that “no authority in New Mexico supports the [defendant’s] attemptto retroactively make the prior invalid action valid and effective as of the date it was taken”). The settlement agreements became valid only at the May 2015 meeting.\n{89} Given this holding, the district court considered and approved settlements that were void at the time. The question arises whether this requires that the entire matter be remanded for reconsideration. We conclude that remand for what would be a hearing of form only is not in the best interests of the public, the courts, or the parties. The district court approved the settlements on their merits. W e have found no error in its process or final decision, with the exception of the delegation and the OMA issues. These issues do not speak to the merits of the settlements. Requiring reconsideration of the substance of the settlements would serve no purpose at this point.\ne. No IPRA Violation Shown by Appellants\n{90} Finally, in the course of their arguments, Appellants also make several references to violations of the IPRA and argue that the settlement agreements were “kept secret for months.” The district court concluded that “[t]here is no evidence of any attempt to shield these settlements from the IPRA. Moreover, the [settlement [ajgreements have been publicly filed in this action and the [district c]ourt has held a public hearing about them.” We agree with the district court. The IPRA provides for public access to records; it does not require public entities to provide records in the absence of a request for them. See NMSA 1978, § 14-2-8(A) (2009) (stating the procedures for requesting public records). On appeal, Appellants do not argue that they requested records from NMSIC and were denied. See NMSA 1978, § 14-2-12(A)(2) (1993) (stating that “[a]n action to enforce the [IPRA] may be brought by ... a person whose written request has been denied”). Appellants have failed to demonstrate that the IPRA was violated here.\n{91} In sum, the Litigation Committee did not have the authority to settle with Defendants here and we reverse the district court’s conclusion to the contrary. We also hold that the Litigation Committee meetings violated the OMA’s notice and documentation requirements. However, the settlement agreements were validated when they were approved by NMSIC in an open meeting in May 2015. We affirm the district court’s conclusion that Appellants have not shown a violation of the IPRA.\n3. The District Court did not Err in Denying Appellants’ Motion to Disqualify the Attorney General’s Office\n{92} Finally, Appellants argue that the district court erred in dismissing their motion to disqualify former Attorney General, Gary King, for conflicts of interest involving representation by his office of NMSIC. They maintain that the district court erroneously ruled that they lacked standing to raise these issues. In fact, the district court rejected Appellants’ motion on its merits as to two of their three allegations.\n{93} As to the third allegation, the district court ruled that Appellants lacked standing to move for disqualification of the Attorney General’s office based on the fact that a member of that office had served as counsel to NMSIC. Generally speaking, “only a current or former client has standing to move for disqualification of counsel based on an alleged conflict of interest.” Eric C. Surette, Annotation, Standing of Person, Other than Former Client, to Seek Disqualification of Attorney in Civil Action, 72 A.L.R. 6th 563 § 2 (2012); cf. Sanchez v. Siemens Transmission Sys., 1991-NMCA-028, ¶ 36, 112 N.M. 236, 814 P.2d 104 (stating that “[t]o the extent that employer[/respondent] attempts to raise [a conflict of interest between the petitioner and her attorney] on claimant’sf/petitioner’s] behalf, however, we fail to see how employer has standing”), rev’d in part on other grounds by, 1991-NMSC-093, 112 N.M. 533, 817 P.2d 726. However, a nonclient party may have standing to move for disqualification when “the nonclient establishes that the conflict prejudices or injures the nonclient’s own rights.” Surette, supra, at § 2; cf. Evink v. Pekin Ins. Co., 460 N.E.2d 1211, 1214 (Ill. App. Ct. 1984) (stating that the “plaintiffs would have no standing to challenge [the] defense counsel’s ability to represent [two defendants] without some showing that this representation adversely affects their interests”).\n{94} Here, the district court held a hearing on Appellants’ motion to disqualify. After the hearing, it concluded that Appellants did not have standing to challenge a conflict of interest between the Attorney General’s office and NMSIC. We infer from this ruling that the district court determined that Appellants failed to demonstrate that their interests were sufficiently adversely affected by the alleged conflict of interest to overcome the general rule. Neither a transcript of the hearing nor a CD recording of it is in the record on appeal. In the absence of a transcript or CD, we presume the district court’s ruling is supported by the evidence. Michaluk v. Burke, 1987-NMCA-044, ¶ 25, 105 N.M. 670, 735 P.2d 1176 (“Where the record on appeal is incomplete, the ruling of the trial court is presumed to be sirpported by the evidence.”); see Sandoval v. Baker Hughes Oilfield Operations, Inc., 2009-NMCA-095, ¶ 65, 146 N.M. 853, 215 P.3d 791 (“It is the duty of the appellant to provide a record adequate to review the issues on appeal.”). We conclude that the district court did not err in denying Appellants’ motion.\nCONCLUSION\n{95} Although we reverse the district court’s ruling as to the delegation of settlement authority to NMSIC’s Litigation Committee and its conclusion that the OMA was not violated, we conclude that the settlements are now valid because they have been approved by NMSIC at a public meeting. We discern no error in the district court’s other rulings. We therefore affirm the district court’s approval of the settlements with the Weinstein, Meyer, and Broidy Defendants.\n{96} IT IS SO ORDERED.\nMICHAEL D. BUSTAMANTE, Judge\nWE CONCUR:\nMICHAEL E. VIGIL, Chief Judge\nM. MONICA ZAMORA, Judge\nIn an announcement of 2010 rules addressing the practices, the Securities and Exchange Commission (SEC) stated that “pay-to-play” practices involve “[e]lected officials who allow political contributions to play a role in the management of [public pension plan] assets and who use these assets to reward contributors” and “investment advisers that seek to influence government officials’ awards of advisory contracts by making or soliciting political contributions to those officials.” See Release No. IA-3043, Pobtical Contributions by Certain Investment Advisers p. 6 (July 1, 2010) https://www.sec.gov/rules/final/2010/ia-3043.pdf; see 17 CFR 275.206(4)-5 (2012).\nAlthough Appellants maintain on appeal that they never received this information, the district court found that “NMSIC served a response to [Appellants’] oral discovery request that provided current... gain and loss information on all [thirteen] of the investments associated with the [Weinstein] Defendants, together with a chart showing cash in, cash out, and, where applicable, residual values.” We defer to this finding because it is supported by the record. See Phelps Dodge Corp. v. N.M. Emp’t Sec. Dep’t, 1983-NMSC-068, ¶ 8, 100 N.M. 246, 669 P.2d 255 (“If . . . substantial evidence [to support a finding] appears in the record, the district court’s findings will not be disturbed.”). In a motion for rehearing, Appellants point out that, in later proceedings relating to settlement with another defendant, the district court found that NMSIC had failed to provide documents elucidating the data as ordered. However, the district court also found that NMSIC’s “failure to produce did not prevent the consideration of the reasonableness of the settlement [with that defendant].” Although they point to NMSIC’s failure to produce these documents, Appellants do not demonstrate that the failure prevented the district court from considering the reasonableness of the settlements with the Weinstein, Meyer, or Broidy Defendants either.\nAppellants argue before this Court that Day Pitney “has disqualifying conflicts of interest.” We decline to address this issue because it was never considered in the first instance by the district court. Appellants’ motions to supplement the record on appeal related to this argument are denied.\nThe 2013 amendments to the OMA were effective June 14,2013, after some of the settlements were signed by the Litigation Committee. The 2013 amendments do not alter our analysis.\nWe note that Appellants relied on FCA cases in other contexts in the district court and thus appear to recognize that FCA cases are useful to construe FATA when the specific provisions at issue in the two statutes are similar.\nAppellants argue that Rivera-Platte cannot be relied upon because the Supreme Court deemed it of no “force or effect” after all the parties “[sought] to implement the district court’s [f]inal [o]rder in the interest of achieving a class-wide settlement.” Platte v. First Colony Life Ins. Co., 2008-NMSC-058, ¶¶ 6, 8, 145 N.M. 77, 194 P.3d 108. Although this Court’s order was deemed of no force or effect as to the parties, the legal propositions set out in the Opinion remain precedential and have been cited in other cases, including by our Supreme Court. See, e.g., Davis v. Devon Energy Corp., 2009-NMSC-048, ¶ 38, 147 N.M. 157, 218 P.3d 75; Atherton v. Gopin, 2012-NMCA-023, ¶ 7, 272 P.3d 700; State v. Pacheco, 2008-NMCA-131, ¶ 34, 145 N.M. 40, 193 P.3d 587.\nSince we conclude that the Litigation Committee did not have the authority to act on the settlements, we need not address whether it was properly constituted.\nGiven our resolution of the delegation issue we could perhaps avoid discussion of the OMA issues. We have determined to give the OMA issues full consideration because they are squarely presented and because it is important to fill out our OMA law as it applies to policy-making subcommittees of public entities.\nWe note that there is nothing in the statutes governing NMSIC explicitly indicating that it has the authority to settle litigation either. Compare NMSA 1978, §§ 6-8-1 to -24 (1957, as amended through 2015), with NMSA 1978, § 58-24-5(A) (1983) (stating that the Industrial and Agricultural Finance Authority “shall have all the powers necessary or convenient to carry out and effectuate the purposes and provisions of the Industrial and Agricultural Finance Authority Act, including, ... the power ... to sue and be sued”), and NMSA 1978, § 72-14-21 (1955) (stating that the Interstate Stream Commission “shall have power to institute in any of the courts of this state, or in any other state, or in any of the federal courts of this state or any other state, any actions, suits and special proceedings necessary to enable it to acquire, own and hold title to lands for dam sites,” and other sites), arid NMSA 1978, § 36-1-19(B) (1985) (stating that “a board of county commissioners may contract with private counsel for legal assistance to or representation of the county” and that “[s]uch private counsel shall have the same powers of compromise, satisfaction or release in civil proceedings as are held by district attorneys”). NMSIC states in its brief that the power to settle litigation is vested in the Attorney General and that the Attorney General delegated such power to NMSIC or to NMSIC’s counsel, but conceded at oral argument that the record does not reflect such delegation. See § 36-1-19 and NMSA 1978, § 36-1-22 (1875-1876) (stating that the Attorney General represents the state and that the Attorney General has the authority to settle matters involving the state). Moreover, the settlement agreements were signed by members of the Litigation Committee or the Governor, not the New Mexico Attorney General’s Office or NMSIC counsel. Other than this brief statement, both parties predicate their arguments on the assumption that NMSIC has settlement authority. We therefore do not address this issue further and assume for the purposes of this opinion that NMSIC had authority to settle with the defendants. In re Doe, 1982-NMSC-099, ¶ 3, 98 N.M. 540, 650 P.2d 824 (stating that “courts risk overlooking important facts or legal considerations when they take it upon themselves to raise, argue, and decide legal questions overlooked by the lawyers who tailor the case to fit within their legal theories.” (alteration, internal quotation marks, and citation omitted)).\nAt the time of the Ogden decision, the litigation exception was Section 10-15-1(E)(5).",
+        "type": "majority",
+        "author": "BUSTAMANTE, Judge."
+      }
+    ],
+    "attorneys": [
+      "New Mexico State Investment Council Brace A. Brown, Special Assistant Attorney General Santa Fe, NM",
+      "Day Pitney LLP Kenneth W. Ritt, Special Assistant Attorney General Stamford, CT for Plaintiff-Appellee",
+      "Victor R. Marshall & Associates, P.C. Victor R. Marshall Albuquerque, NM for Appellants",
+      "Scheuer Yost & Patterson Mel E. Yost Santa Fe, NM White & Case LLP Owen C. Pell Joshua D. Weedman New York, NY for Defendant-Appellee Rosen",
+      "Butt Thornton & Baehr PC Rodney L. Schlagel Emily A. Franke Albuquerque, NM for Defendant-Appellee Howell",
+      "Sommer, Udall, Sutin, Hardwick & Hyatt, PA Eric M. Sommer Santa Fe, NM for Defendants-Appellees Weinstein and Schiff",
+      "Daniel Yohalem Santa Fe, NM for Amici Curiae New Mexico Foundation for Open Government and New Mexico Press Association"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, July 20, 2016,\nNo. S-1-SC-35943\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-069\nFiling Date: April 28, 2016\nDocket Nos. 33,787, 34,042 & 34,077 (Consolidated)\nNEW MEXICO STATE INVESTMENT COUNCIL, as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. DANIEL WEINSTEIN, VICKY L. SCHIFF, WILLIAM HOWELL, and MARVIN ROSEN, Defendants-Appellees. and GARY BLAND, et al., Defendants. (Consolidated with) NEW MEXICO STATE INVESTMENT COUNCIL, as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. SAUL MEYER and RENAISSANCE PRIVATE EQUITY PARTNERS, LP, d/b/a ALDUS EQUITY PARTNERS, LP, Defendants-Appellees, and GARY BLAND, et al., Defendants. (Consolidated with) NEW MEXICO STATE INVESTMENT COUNCIL as Trustee, Administrator, and Custodian of the LAND GRANT PERMANENT FUND and the SEVERANCE TAX PERMANENT FUND, Plaintiff-Appellee, and STATE OF NEW MEXICO ex rel. FRANK FOY, SUZANNE FOY, and JOHN CASEY, Plaintiffs-Intervenors-Appellants, v. ELLIOT BROIDY, Defendant-Appellee, and GARY BLAND, et al., Defendants.\nSarah M. Singleton, District Judge\nNew Mexico State Investment Council Brace A. Brown, Special Assistant Attorney General Santa Fe, NM\nDay Pitney LLP Kenneth W. Ritt, Special Assistant Attorney General Stamford, CT for Plaintiff-Appellee\nVictor R. Marshall & Associates, P.C. Victor R. Marshall Albuquerque, NM for Appellants\nScheuer Yost & Patterson Mel E. Yost Santa Fe, NM White & Case LLP Owen C. Pell Joshua D. Weedman New York, NY for Defendant-Appellee Rosen\nButt Thornton & Baehr PC Rodney L. Schlagel Emily A. Franke Albuquerque, NM for Defendant-Appellee Howell\nSommer, Udall, Sutin, Hardwick & Hyatt, PA Eric M. Sommer Santa Fe, NM for Defendants-Appellees Weinstein and Schiff\nDaniel Yohalem Santa Fe, NM for Amici Curiae New Mexico Foundation for Open Government and New Mexico Press Association"
+  },
+  "file_name": "1655-01",
+  "first_page_order": 303,
+  "last_page_order": 330
+}

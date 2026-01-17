@@ -1,0 +1,96 @@
+{
+  "id": 4234733,
+  "name": "DLJ Mortgage Capital, Inc., Petitioner, v. Lascelles Grant et al., Respondents",
+  "name_abbreviation": "DLJ Mortgage Capital, Inc. v. Grant",
+  "decision_date": "2016-03-10",
+  "docket_number": "",
+  "first_page": "908",
+  "last_page": "910",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 908"
+    },
+    {
+      "type": "parallel",
+      "cite": "28 N.Y.S.3d 820"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Nassau Cty. Dist. Ct.",
+    "id": 11496,
+    "name": "Nassau County District Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "108 AD2d 218",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3416543
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/108/0218-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 51793",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Misc 3d 1238",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 340,
+    "char_count": 4964,
+    "ocr_confidence": 0.758,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14045008029425654
+    },
+    "sha256": "484abf06751d47c55102b5f843f116c3741d6562ac68d1d53e37fe8c4df9594c",
+    "simhash": "1:cdcf763a705a7440",
+    "word_count": 769
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DLJ Mortgage Capital, Inc., Petitioner, v Lascelles Grant et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nScott Fairgrieve, J.\nPetitioner commenced this holdover proceeding against respondents under RPAPL 713, to recover possession of the premises located at 840 Southern Parkway, Uniondale, NY 11553. Petitioner acquired title to the subject premises pursuant to a referee’s deed, dated November 18, 2014, after bringing a foreclosure action in the Nassau County Supreme Court. Respondents now move to dismiss the petition pursuant to RPAPL 713 (5), 1305, and CPLR 3211 (a) (7). Respondents argue that the 10-day and 90-day notices to quit required to commence this proceeding were improperly executed and served upon respondents by a third party, Selene Finance LP, thereby rendering the notices legally void, and the petition ripe for dismissal. Petitioner opposes dismissal, based upon a limited power of attorney executed prior to the foreclosure action, which, it alleges, grants Selene Finance the authority to initiate this holdover proceeding. The motion is decided as follows.\nReal Property Actions and Proceedings Law § 713 allows for the commencement of a special proceeding to obtain possession of property where no landlord-tenant relationship exists. In order to initiate such a proceeding, petitioner, as successor in interest, must serve respondent with a 10-day notice to quit (RPAPL 713; 1305 [1] [b]). A respondent who is a “tenant” within the meaning of RPAPL 1305 (1) (c), however, is entitled to, inter alia, a 90-day notice to quit (RPAPL 1305 [2], [5]). Where, as here, petitioner executes a power of attorney granting a third party authority to commence a proceeding on its behalf, the power of attorney must be annexed to the applicable notices to quit (Deutsche Bank Natl. Trust Co. v Resnik, 24 Misc 3d 1238[A], 2009 NY Slip Op 51793[U] [Nassau Dist Ct 2009]; Siegel v Kentucky Fried Chicken of Long Is., 108 AD2d 218 [2d Dept 1985]).\nIn this matter, petitioner served both a 10- and 90-day notice to quit upon each respondent on September 23, 2014. Attached to the notices was a limited power of attorney signed on February 16, 2012, by vice-president of DLJ Mortgage Capital, Inc., David Neugebauer, in Harris County, Texas. The limited power of attorney was made in connection with a servicing agreement between petitioner and Selene Finance.\nRespondents, in support of their motion to dismiss, argue that the notices to quit are defective, as they are signed by a representative of Selene Finance, which is only authorized to act on petitioner’s behalf regarding the servicing of mortgages in certain “enumerated transactions.” Respondents further argue that none of these transactions include matters relating to holdover proceedings, tenancy, or possession. This court agrees.\nInitially, this court determines that petitioner’s limited power of attorney is enforceable in New York, as it was validly executed in Texas (see General Obligations Law § 5-1512; Tex Est Code § 752.004). Turning to the substance of this document, petitioner appointed Selene Finance as its attorney-in-fact,\n“with full power and authority to sign, execute, acknowledge, deliver, file or record, any instrument on its behalf and to perform such other act or acts as may be customarily and reasonably necessary and appropriate to effectuate the following enumerated transactions in respect of any mortgages or deeds of trust (the ‘Mortgages’) and promissory notes secured thereby (the ‘Mortgage Notes’) for which the Servicer [Selene Finance] is acting as Servicer under the Servicing Agreement” (see respondents’ exhibit A).\nThe document then goes on to limit the appointment to nine types of transactions. Petitioner argues that the fourth “enumerated transaction” listed in the limited power of attorney, which states, “the closing of the title to the property to be acquired as real estate owned, or conveyance of title to or on real estate owned,” gives Selene Finance the power to start eviction proceedings. Petitioner’s argument, however, is without merit, as petitioner already holds title to the subject premises in the form of a referee’s deed. Moreover, it is clear from a review of the limited power of attorney that Selene Finance’s powers as petitioner’s attorney-in-fact are restricted to mortgage servicing and foreclosure matters. Nowhere in this document does petitioner authorize Selene Finance to commence eviction proceedings or otherwise involve itself in matters relating to possession. As a result, all of the notices to quit signed by Dan Shimmim, senior vice-president of Selene Finance, and served upon respondents, are jurisdictionally defective.\nAccordingly, respondents’ motion is granted and the petition is dismissed.",
+        "type": "majority",
+        "author": "Scott Fairgrieve, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Latida Spears, Franklin Square, for respondents.",
+      "Shapiro, Dicaro & Barak, LLC, Rochester, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[28 NYS3d 820]\nDLJ Mortgage Capital, Inc., Petitioner, v Lascelles Grant et al., Respondents.\nDistrict Court of Nassau County, First District,\nMarch 10, 2016\nAPPEARANCES OF COUNSEL\nLatida Spears, Franklin Square, for respondents.\nShapiro, Dicaro & Barak, LLC, Rochester, for petitioner."
+  },
+  "file_name": "2237-01",
+  "first_page_order": 920,
+  "last_page_order": 922
+}

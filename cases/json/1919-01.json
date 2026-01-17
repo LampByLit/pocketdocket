@@ -1,0 +1,89 @@
+{
+  "id": 4351973,
+  "name": "Yitzchok Tenenbaum, Appellant, v. Efraim Setton, Respondent",
+  "name_abbreviation": "Tenenbaum v. Setton",
+  "decision_date": "2015-08-18",
+  "docket_number": "",
+  "first_page": "39",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 39"
+    },
+    {
+      "type": "parallel",
+      "cite": "18 N.Y.S.3d 498"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "20 App Div 203",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        3451265
+      ],
+      "pin_cites": [
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/46/0961-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 3656,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 5.8591662004228935e-8,
+      "percentile": 0.36606458523257535
+    },
+    "sha256": "c665b7096d9e87abd423758f578c250c746518dbe12ea615c3124925c3b3a6b2",
+    "simhash": "1:1a20e8f3ae71bcc8",
+    "word_count": 591
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yitzchok Tenenbaum, Appellant, v Efraim Setton, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is affirmed, without costs.\nIn this action, commenced to recover for breach of contract, defendant moved to dismiss the complaint pursuant to CPLR 3211 (a) (5), arguing, among other things, that the breach of contract cause of action was the subject of a prior arbitration and award, and that the statute of limitations was a bar to the action. Plaintiff opposed defendant’s motion and cross-moved for leave to serve an “Amended Petition” seeking to confirm the arbitration award. Plaintiff had previously brought a timely proceeding in the Supreme Court, Kings County, to confirm the arbitration award, but that proceeding had been dismissed on the ground that service of the notice of petition and petition had violated General Business Law § 13. By order entered May 2, 2014, the Civil Court granted defendant’s motion to dismiss the instant action and denied plaintiff’s cross motion.\nCPLR 205 (a) provides,\n“If an action is timely commenced and is terminated in any other manner than by . . .a failure to obtain personal jurisdiction over the defendant . . . the plaintiff. . . may commence a new action upon the same transaction or occurrence or series of transactions or occurrences within six months after the termination provided that the new action would have been timely commenced at the time of commencement of the prior action and that service upon defendant is effected within such six-month period.”\nGeneral Business Law § 13, “Maliciously serving process on Saturday on person who keeps Saturday as holy time,” provides,\n“Whoever maliciously procures any process in a civil action to be served, on Saturday, upon any person who keeps Saturday as holy time, and does not labor on that day, or serves upon him any process returnable on that day, or maliciously procures any civil action to which such person is a party to be adjourned to that day for trial, is guilty of a misdemeanor.”\nService in violation of General Business Law § 13 is void, and personal jurisdiction is not obtained over the party served (see Chase Manhattan Bank [USA] N.A. v Schneider, NYLJ, Oct. 3, 1988 [App Term, 2d Dept, 9th & 10th Jud Dists], citing Martin v Goldstein, 20 App Div 203, 205 [1897] [service of process in violation of the predecessor statute to General Business Law § 13 is “absolutely void”]). Therefore, the basis for the Supreme Court’s dismissal of the proceeding before it was lack of personal jurisdiction over defendant. Thus, contrary to plaintiff’s contention, he was not entitled to amend the pleading to seek to confirm the arbitration award, as the instant action was commenced after the one-year statute of limitations set forth in CPLR 7510 had expired and he was not entitled to the six-month extension provided by CPLR 205 (a). Consequently, the Civil Court properly denied plaintiff’s cross motion.\nCPLR 3211 (a) (5) provides that a cause of action may be dismissed on the ground that “the cause of action may not be maintained because of arbitration and award.” The parties agree that the breach of contract cause of action was the subject of, and resolved by, the arbitration and award. Therefore, the Civil Court properly granted defendant’s motion to dismiss.\nAccordingly, the order is affirmed.\nPesce, P.J., Aliotta and Elliot, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Tedd Blecher, New York City, for appellant.",
+      "Levi Huebner & Associates, PC, Brooklyn CLevi Huebner of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[18 NYS3d 498]\nYitzchok Tenenbaum, Appellant, v Efraim Setton, Respondent.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nAugust 18, 2015\nAPPEARANCES OF COUNSEL\nTedd Blecher, New York City, for appellant.\nLevi Huebner & Associates, PC, Brooklyn CLevi Huebner of counsel), for respondent."
+  },
+  "file_name": "1919-01",
+  "first_page_order": 93,
+  "last_page_order": 95
+}

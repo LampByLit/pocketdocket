@@ -1,0 +1,1358 @@
+{
+  "id": 6789070,
+  "name": "Raul Flores, Plaintiff, v. Infrastructure Repair Service, LLC, Defendant",
+  "name_abbreviation": "Flores v. Infrastructure Repair Service, LLC",
+  "decision_date": "2015-09-25",
+  "docket_number": "",
+  "first_page": "664",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "34 N.Y.S.3d 324"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "111 AD3d 416",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3741180,
+        3741228
+      ],
+      "pin_cites": [
+        {
+          "page": "417"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/0416-01",
+        "/ad3d/111/0416-02"
+      ]
+    },
+    {
+      "cite": "45 AD3d 359",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3361961,
+        3368195
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/45/0359-02",
+        "/ad3d/45/0359-01"
+      ]
+    },
+    {
+      "cite": "92 AD3d 607",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4047200,
+        4044605
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/92/0607-02",
+        "/ad3d/92/0607-01"
+      ]
+    },
+    {
+      "cite": "118 AD3d 520",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4065505,
+        4069886
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/118/0520-01",
+        "/ad3d/118/0520-02"
+      ]
+    },
+    {
+      "cite": "9 NY3d 393",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557621
+      ],
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0393-01"
+      ]
+    },
+    {
+      "cite": "25 AD3d 420",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1007461
+      ],
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/25/0420-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 502",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5773341
+      ],
+      "pin_cites": [
+        {
+          "page": "504"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/0502-01"
+      ]
+    },
+    {
+      "cite": "107 AD3d 503",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3727152
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/0503-01"
+      ]
+    },
+    {
+      "cite": "40 USC § 3704",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. § 654",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "905 F2d 589",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1807131
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "593"
+        },
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/905/0589-01"
+      ]
+    },
+    {
+      "cite": "558 F3d 815",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3362490
+      ],
+      "pin_cites": [
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/558/0815-01"
+      ]
+    },
+    {
+      "cite": "198 AD2d 762",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1148422
+      ],
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/198/0762-01"
+      ]
+    },
+    {
+      "cite": "210 AD2d 898",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1193717
+      ],
+      "pin_cites": [
+        {
+          "page": "898"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/210/0898-01"
+      ]
+    },
+    {
+      "cite": "286 AD2d 577",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        218135
+      ],
+      "pin_cites": [
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/286/0577-01"
+      ]
+    },
+    {
+      "cite": "216 AD2d 444",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1219596
+      ],
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/216/0444-01"
+      ]
+    },
+    {
+      "cite": "218 AD2d 904",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1228246,
+        1228038
+      ],
+      "pin_cites": [
+        {
+          "page": "905-906"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/218/0904-01",
+        "/ad2d/218/0904-02"
+      ]
+    },
+    {
+      "cite": "210 AD2d 219",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1193621
+      ],
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/210/0219-01"
+      ]
+    },
+    {
+      "cite": "5 AD3d 754",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        87191
+      ],
+      "pin_cites": [
+        {
+          "page": "755-756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/5/0754-01"
+      ]
+    },
+    {
+      "cite": "61 AD3d 1151",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3936283
+      ],
+      "pin_cites": [
+        {
+          "page": "1153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/61/1151-01"
+      ]
+    },
+    {
+      "cite": "728 F2d 799",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        57378
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/728/0799-01"
+      ]
+    },
+    {
+      "cite": "577 F2d 534",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        879463
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "537"
+        },
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/577/0534-01"
+      ]
+    },
+    {
+      "cite": "29 USC § 651",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 USC § 654",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 F3d 976",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11642602
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "982-983"
+        },
+        {
+          "page": "982"
+        },
+        {
+          "page": "982"
+        },
+        {
+          "page": "983"
+        },
+        {
+          "page": "983"
+        },
+        {
+          "page": "983"
+        },
+        {
+          "page": "983-984"
+        },
+        {
+          "page": "984"
+        },
+        {
+          "page": "984"
+        },
+        {
+          "page": "987, 989-990"
+        },
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/168/0976-01"
+      ]
+    },
+    {
+      "cite": "182 F3d 726",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11547590
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "728"
+        },
+        {
+          "page": "728"
+        },
+        {
+          "page": "728"
+        },
+        {
+          "page": "728"
+        },
+        {
+          "page": "728"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/182/0726-01"
+      ]
+    },
+    {
+      "cite": "513 F2d 1032",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        163040
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1038"
+        },
+        {
+          "page": "1037-1038"
+        },
+        {
+          "page": "1038"
+        },
+        {
+          "page": "1038"
+        },
+        {
+          "page": "1039"
+        },
+        {
+          "page": "1039"
+        },
+        {
+          "page": "1039"
+        },
+        {
+          "page": "1037-1038"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/513/1032-01"
+      ]
+    },
+    {
+      "cite": "115 AD2d 679",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3452432,
+        3456430
+      ],
+      "pin_cites": [
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/115/0679-02",
+        "/ad2d/115/0679-01"
+      ]
+    },
+    {
+      "cite": "17 AD3d 172",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1191545
+      ],
+      "pin_cites": [
+        {
+          "page": "172-173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/17/0172-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 343",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525035
+      ],
+      "pin_cites": [
+        {
+          "page": "352-353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0343-01"
+      ]
+    },
+    {
+      "cite": "24 AD3d 298",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        979013
+      ],
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/24/0298-01"
+      ]
+    },
+    {
+      "cite": "408 W. 39",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 AD3d 305",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3015149
+      ],
+      "pin_cites": [
+        {
+          "page": "306"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/40/0305-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 876",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356518
+      ],
+      "pin_cites": [
+        {
+          "page": "877-878"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0876-01"
+      ]
+    },
+    {
+      "cite": "7 NY3d 805",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        2556613,
+        2558509
+      ],
+      "pin_cites": [
+        {
+          "page": "806"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/7/0805-01",
+        "/ny3d/7/0805-02"
+      ]
+    },
+    {
+      "cite": "27 AD3d 526",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        2883848
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "528-529"
+        },
+        {
+          "page": "527, 529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/27/0526-01"
+      ]
+    },
+    {
+      "cite": "81 AD3d 1456",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4011572
+      ],
+      "pin_cites": [
+        {
+          "page": "1457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/81/1456-01"
+      ]
+    },
+    {
+      "cite": "109 AD3d 189",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3728304
+      ],
+      "pin_cites": [
+        {
+          "page": "201-202"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/109/0189-01"
+      ]
+    },
+    {
+      "cite": "258 AD2d 386",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "pin_cites": [
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 AD3d 320",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        26426
+      ],
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/4/0320-01"
+      ]
+    },
+    {
+      "cite": "217 AD2d 915",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1223963
+      ],
+      "pin_cites": [
+        {
+          "page": "915-916"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/217/0915-01"
+      ]
+    },
+    {
+      "cite": "236 AD2d 123",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        83271
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "125"
+        },
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/236/0123-01"
+      ]
+    },
+    {
+      "cite": "258 AD2d 914",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        234459,
+        234247
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "915"
+        },
+        {
+          "page": "915"
+        },
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/258/0914-01",
+        "/ad2d/258/0914-02"
+      ]
+    },
+    {
+      "cite": "70 AD3d 420",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3968682
+      ],
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/70/0420-01"
+      ]
+    },
+    {
+      "cite": "18 AD3d 352",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        517056,
+        516950
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/18/0352-02",
+        "/ad3d/18/0352-01"
+      ]
+    },
+    {
+      "cite": "57 AD3d 205",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3707021
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/57/0205-01"
+      ]
+    },
+    {
+      "cite": "104 AD3d 540",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3712747
+      ],
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/104/0540-01"
+      ]
+    },
+    {
+      "cite": "107 AD3d 643",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3733047,
+        3722175
+      ],
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/107/0643-02",
+        "/ad3d/107/0643-01"
+      ]
+    },
+    {
+      "cite": "43 AD3d 364",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3673580
+      ],
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/43/0364-01"
+      ]
+    },
+    {
+      "cite": "52 AD3d 352",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4067492
+      ],
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/52/0352-01"
+      ]
+    },
+    {
+      "cite": "115 AD3d 543",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4246146
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "543-544"
+        },
+        {
+          "page": "543-544"
+        },
+        {
+          "page": "543"
+        },
+        {
+          "page": "543"
+        },
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/115/0543-01"
+      ]
+    },
+    {
+      "cite": "194 AD2d 332",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1131944
+      ],
+      "pin_cites": [
+        {
+          "page": "333-334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/194/0332-01"
+      ]
+    },
+    {
+      "cite": "23 AD3d 249",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1602564
+      ],
+      "pin_cites": [
+        {
+          "page": "249-250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/23/0249-01"
+      ]
+    },
+    {
+      "cite": "47 AD3d 480",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3632757,
+        3634119
+      ],
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/47/0480-02",
+        "/ad3d/47/0480-01"
+      ]
+    },
+    {
+      "cite": "172 AD2d 369",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1037989
+      ],
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/172/0369-01"
+      ]
+    },
+    {
+      "cite": "258 AD2d 394",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        233799
+      ],
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/258/0394-01"
+      ]
+    },
+    {
+      "cite": "262 AD2d 239",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        112824,
+        113714,
+        113778,
+        113144
+      ],
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/262/0239-04",
+        "/ad2d/262/0239-02",
+        "/ad2d/262/0239-01",
+        "/ad2d/262/0239-03"
+      ]
+    },
+    {
+      "cite": "283 AD2d 350",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        182249
+      ],
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/283/0350-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 407",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4000084,
+        4009271
+      ],
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/0407-01",
+        "/ad3d/78/0407-02"
+      ]
+    },
+    {
+      "cite": "91 AD3d 548",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4043845
+      ],
+      "pin_cites": [
+        {
+          "page": "548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/91/0548-01"
+      ]
+    },
+    {
+      "cite": "97 AD3d 156",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3470990
+      ],
+      "pin_cites": [
+        {
+          "page": "161, 164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0156-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 466",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4320871
+      ],
+      "pin_cites": [
+        {
+          "page": "473, 475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0466-01"
+      ]
+    },
+    {
+      "cite": "261 AD2d 906",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        108139,
+        107709
+      ],
+      "pin_cites": [
+        {
+          "page": "907"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/261/0906-02",
+        "/ad2d/261/0906-01"
+      ]
+    },
+    {
+      "cite": "268 AD2d 156",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        145660
+      ],
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/268/0156-01"
+      ]
+    },
+    {
+      "cite": "276 AD2d 58",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        539681
+      ],
+      "pin_cites": [
+        {
+          "page": "61-62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/276/0058-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 242",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957400
+      ],
+      "pin_cites": [
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0242-01"
+      ]
+    },
+    {
+      "cite": "53 AD3d 457",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4137034
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "459"
+        },
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/53/0457-01"
+      ]
+    },
+    {
+      "cite": "102 AD3d 625",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3710974
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "626"
+        },
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/102/0625-01"
+      ]
+    },
+    {
+      "cite": "5 NY3d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        983989
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "7"
+        },
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0001-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 47",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557736
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "51"
+        },
+        {
+          "page": "51"
+        },
+        {
+          "page": "51"
+        },
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0047-01"
+      ]
+    },
+    {
+      "cite": "29 USC §§ 651-678",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1013,
+    "char_count": 21168,
+    "ocr_confidence": 0.766,
+    "pagerank": {
+      "raw": 4.5046715916883656e-8,
+      "percentile": 0.282441756256832
+    },
+    "sha256": "1367f87371f37b737df2d3e7320996d558a619f73a4954ee6520a8c28edb51ba",
+    "simhash": "1:933f079739657674",
+    "word_count": 3437
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Raul Flores, Plaintiff, v Infrastructure Repair Service, LLC, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLucy Billings, J.\nThe remaining defendant, Infrastructure Repair Service, LLC, a general contractor (GC), moves to preclude plaintiff’s expert engineer, Harlan Fair, from testifying regarding defendant’s or its subcontractor’s violations of state regulations under Labor Law § 241 (6) or of federal regulations under the federal Occupational Safety and Health Act of 1970 (OSHA), 29 USC §§ 651-678.\nI. Testimony Regarding the Applicable Law\nNo expert, over objection, may testify what any law requires or whether it applies to the evidence adduced, which is a legal conclusion for the court to draw. (Morris v Pavarini Constr., 9 NY3d 47, 51 [2007]; Buchholz v Trump 767 Fifth Ave., LLC, 5 NY3d 1, 7 [2005]; Lopez v Chan, 102 AD3d 625, 626 [1st Dept 2013]; McCoy v Metropolitan Transp. Auth., 53 AD3d 457, 459 [1st Dept 2008].) While an expert may testify regarding acts, omissions, or conditions that would constitute a violation of a state or federal regulation, other law, or duty of care or regarding other facts bearing on the issue, an expert may not, over objection, draw the ultimate conclusion that the evidence adduced does or does not amount to a violation. (E.g. Lichtman v Heit, 300 AD2d 242, 243 [1st Dept 2002]; Colon v Rent-A-Center, 276 AD2d 58, 61-62 [1st Dept 2000]; Measom v Greenwich & Perry St. Hous. Corp., 268 AD2d 156, 159 [1st Dept 2000]; Litts v Wayne Paving Co., 261 AD2d 906, 907 [4th Dept 1999]; see People v Inoa, 25 NY3d 466, 473, 475 [2015]; Burtman v Brown, 97 AD3d 156, 161, 164 [1st Dept 2012]; People v Vaello, 91 AD3d 548, 548 [1st Dept 2012]; Dimond v Salvan, 78 AD3d 407, 408 [1st Dept 2010].) If an expert witness offers an ultimate conclusion whether a violation has occurred, that opinion necessarily depends on the witness’ opinion of the law’s requirements and applicability, which are legal conclusions that the court must delineate.\nThus, whether a violation has occurred is a legal conclusion either for the court to draw based on the undisputed relevant evidence or for the factfinder at trial to draw after determining the facts from conflicting relevant evidence and applying the law according to the court’s instructions. (E.g. Singh v Kolcaj Realty Corp., 283 AD2d 350, 351 [1st Dept 2001]; Miely-Watkins v New Latham Hotel Corp., 262 AD2d 239, 239 [1st Dept 1999]; Faber v New York City Hous. Auth., 258 AD2d 394, 394 [1st Dept 1999]; Berliner Handels-und Frankfurter Bank, N.Y. Branch v Coppola, 172 AD2d 369, 373 [1st Dept 1991]; see e.g. Ivezic v Tully Constr. Corp., 47 AD3d 480, 481 [1st Dept 2008]; Singh v Young Manor, Inc., 23 AD3d 249, 249-250 [1st Dept 2005]; Ross v Manhattan Chelsea Assoc., 194 AD2d 332, 333-334 [1st Dept 1993].) The parties’ attorneys of course may advocate what various laws require, whether they apply to the evidence, and that it does or does not establish a violation of those laws, but the court grants defendant’s motion to the extent of precluding Harlan Fair from giving opinions on those questions.\nPerhaps anticipating plaintiff’s cross motion, defendant also suggests that any evidence of facts showing a violation of the regulations under Labor Law § 241 (6) is irrevelant, because the court already dismissed his claim under section 241 (6) after determining that those regulations on which plaintiff relied, 12 NYCRR 23-1.7 (h) and 23-1.8 (c), are inapplicable to the relevant evidence, which was undisputed. (Flores v Infrastructure Repair Serv., LLC, 115 AD3d 543, 543-544 [1st Dept 2014].) Defendant further suggests that any evidence of facts showing a violation of OSHA regulations is irrevelant, because these regulations did not govern defendant GC’s conduct insofar as it affected plaintiff, who was not defendant’s employee.\nII. State Regulations under New York Labor Law § 241 (6)\nPlaintiff, on the other hand, cross-moves to amend his bill of particulars to claim a violation of a regulation under Labor Law § 241 (6), 12 NYCRR 23-1.24 (d), that he did not claim previously and that the court therefore did not address when concluding that other regulations under that statute were inapplicable and dismissing his claims under section 241 (6). Although plaintiff’s reliance on this newly claimed regulation raises no new facts, the new regulation would resuscitate a theory of liability and claim under Labor Law § 241 (6) that the court already dismissed. A question then would arise whether that resuscitation of a previously dismissed theory of liability is prejudicial (see Fellner v Morimoto, 52 AD3d 352, 353 [1st Dept 2008]; Cherebin v Empress Ambulance Serv., Inc., 43 AD3d 364, 365 [1st Dept 2007]), or contrary to the law of the case (Flores v Infrastructure Repair Serv., LLC, 115 AD3d at 543-544), except that plaintiff relies on defendant’s violation of 12 NYCRR 23-1.24 (d) only as evidence of its negligence to support his claims under Labor Law § 200 as well as for negligence.\nIn any event, plaintiff fails to meet his burden to demonstrate the merit of this proposed amendment to his bill of particulars through admissible evidence. (JPMorgan Chase Bank, N.A. v Low Cost Bearings N.Y. Inc., 107 AD3d 643, 644 [1st Dept 2013]; Greentech Research LLC v Wissman, 104 AD3d 540, 541 [1st Dept 2013]; Yuko Ito v Suzuki, 57 AD3d 205, 208 [1st Dept 2008]; Zaid Theatre Corp. v Sona Realty Co., 18 AD3d 352, 355 [1st Dept 2005]; see Sepulveda v Dayal, 70 AD3d 420, 421 [1st Dept 2010].) 12 NYCRR 23-1.24 (d) applies to “hot luggers,” used to transport hot roofing material (Stasierowski v Conbow Corp., 258 AD2d 914, 915 [4th Dept 1999]; Irwin v St. Joseph’s Intercommunity Hosp., 236 AD2d 123, 125 [4th Dept 1997]; Tallchief v Jemco Roofing, 217 AD2d 915, 915-916 [4th Dept 1995]), which plaintiff was carrying, and which spilled on him and caused serious burns to his body. 12 NYCRR 23-1.24 (d) requires that “[c]losed containers or devices used for transporting molten roofing materials” be equipped with specified safety features “to minimize hazards to persons caused by blowbacks of the molten roofing materials.” (Irwin v St. Joseph’s Intercommunity Hosp., 236 AD2d at 125.)\nPlaintiff, however, was carrying hot tar roofing material in an open bucket without a cover. 12 NYCRR 23-1.24 (d) is inapplicable to a tar container with “no lid or cover of any kind” (Castillo v Starrett City, 4 AD3d 320, 322 [2d Dept 2004]), and thus does not prohibit use of an open bucket to carry hot tar. (Id.; Stasierowski v Conbow Corp., 258 AD2d at 915.) None of the facts alleged indicate a violation of this particular regulation and hence any causal connection between a violation and plaintiffs injury.\n12 NYCRR 23-1.24 (d) thus is inapplicable to the undisputed admissible evidence. Therefore the court denies plaintiffs cross motion to amend his bill of particulars to claim defendant’s violation of 12 NYCRR 23-1.24 (d) based on the claim’s lack of merit. The court also grants defendant’s motion to the extent of precluding Harlan Fair from giving testimony to establish a violation of 12 NYCRR 23-1.24 (d) or a causal connection between such a violation and plaintiff’s injury.\nThe absence of a prohibition against use of an open bucket to carry hot tar, however, does not indicate that carrying hot tar in an open bucket is safe, is not “inherently dangerous,” and does not require safety precautions to minimize spillage that may cause serious burns. (Stasierowski v Conbow Corp., 258 AD2d at 915; see Flores v Infrastructure Repair Serv., LLC, 115 AD3d at 543.) Plaintiff maintains viable claims that defendant’s violation of Labor Law § 200 and its negligence in failing to provide him adequate safety equipment caused his burns. Harlan Fair may testify regarding the facts bearing on this issue. (Morris v Pavarini Constr., 9 NY3d at 51.)\nIII. Federal Regulations under OSHA\nPlaintiff also cross-moves to amend his bill of particulars to claim defendant’s violations of OSHA regulations, as evidence of its negligence. (Ganci v Port Auth. Trans-Hudson Corp., 258 AD2d 386, 386 [1st Dept 1999]; Gammons v City of New York, 109 AD3d 189, 201-202 [2d Dept 2013]; Murdoch v Niagara Falls Bridge Commn., 81 AD3d 1456, 1457 [4th Dept 2011]; Khan v Bangla Motor & Body Shop, Inc., 27 AD3d 526, 528-529 [2d Dept 2006].) Defendant insists that Fair may not testify even regarding facts that bear on defendant’s violations of these regulations, because they did not govern defendant’s conduct, even if it affected plaintiff, when he was not defendant’s employee.\nFor plaintiff to hold defendant GC liable for negligently failing to provide him adequate safety equipment in the first instance, based on a violation of OSHA regulations or otherwise, he must establish that defendant exercised supervision or control over the conditions that caused his injury. (O’Sullivan v IDI Constr. Co., Inc., 7 NY3d 805, 806 [2006]; Comes v New York State Elec. & Gas Corp., 82 NY2d 876, 877-878 [1993]; Hughes v Tishman Constr. Corp., 40 AD3d 305, 306 [1st Dept 2007]; Maes v 408 W. 39 LLC, 24 AD3d 298, 301 [1st Dept 2005].) The undisputed evidence that defendant provided the safety equipment plaintiff used sustains his claim that defendant was directly responsible for any inadequacy in that equipment. (Flores v Infrastructure Repair Serv., LLC, 115 AD3d at 543; see Rizzuto v L.A. Wenger Contr. Co., 91 NY2d 343, 352-353 [1998]; Havlin v City of New York, 17 AD3d 172, 172-173 [1st Dept 2005].)\nA. The Merits of Plaintiff’s Claim Based on OSHA Regulations\nAlthough OSHA does govern an employer’s conduct toward its own employees, defendant GC is also liable under OSHA for defendant’s conduct that affects its subcontractor’s employees or defendant’s other invitees “engaged in a common undertaking” on the construction site. (Barzaghi v Maislin Transp., 115 AD2d 679, 684 [2d Dept 1985]; Brennan v Occupational Safety & Health Review Commn., 513 F2d 1032, 1038 [2d Cir 1975]; see Universal Constr. Co., Inc. v Occupational Safety & Health Review Commn., 182 F3d 726, 728 [10th Cir 1999]; United States v Pitt-Des Moines, Inc., 168 F3d 976, 982-983 [7th Cir 1999].) 29 USC § 654 (a) (2) requires every employer to comply with the regulations promulgated under OSHA for the benefit of all employees on the work site, “even employees of another employer” (Universal Constr. Co., Inc. v Occupational Safety & Health Review Commn., 182 F3d at 728), “regardless of whom in a given workplace is threatened by non-compliance” (United States v Pitt-Des Moines, Inc., 168 F3d at 982) and without limitation to instances where a violation of a regulation exposes the employer’s own employees to a hazard. (Brennan v Occupational Safety & Health Review Commn., 513 F2d at 1037-1038.) Thus defendant, which nowhere claims it was not an employer under OSHA, has violated OSHA regulations if, through prohibited acts or omissions, defendant created a hazard accessible to defendant’s own employees or the employees “of other employers engaged in a common undertaking.” (Id. at 1038.)\nThis “multi-employer doctrine” (Universal Constr. Co., Inc. v Occupational Safety & Health Review Commn., 182 F3d at 728; United States v Pitt-Des Moines, Inc., 168 F3d at 982) comports with OSHA’s broad remedial purpose “to assure so far as possible every working man and woman in the Nation safe and healthful working conditions.” (29 USC § 651 [b]; Brennan v Occupational Safety and Health Review Commn., 513 F2d at 1038; United States v Pitt-Des Moines, Inc., 168 F3d at 983; Beatty Equip. Leasing, Inc. v Secretary of Labor, U.S. Dept. of Labor, 577 F2d 534, 537 [9th Cir 1978].) OSHA’s primary focus is on making workplaces, rather than specific employees, safe from hazardous working conditions (Brennan v Occupational Safety & Health Review Commn., 513 F2d at 1038; United States v Pitt-Des Moines, Inc., 168 F3d at 983), by requiring employers to eliminate all foreseeable and preventable hazards, whether to their own or to other employers’ employees. (Beatty Equip. Leasing, Inc. v Secretary of Labor, 577 F2d at 537.) Once an employer is responsible for complying with OSHA regulations, the employer “is obligated to protect every employee who works in its workplace.” (United States v Pitt-Des Moines, Inc., 168 F3d at 983; Teal v E.I. DuPont de Nemours & Co., 728 F2d 799, 805 [6th Cir 1984].)\n“Without the doctrine, employers could avoid OSHA liability for the hazardous conditions they create merely because the threatened or harmed workers — although their presence was entirely foreseeable and they are covered by the Act — happen to be on the payroll of another. Indeed this would be true even when, as here, the violating employer was the only one on the site who could reasonably have prevented the harm. We do not believe that this [was] the result Congress intended by enacting Section 654(a).” (United States v Pitt-Des Moines, Inc., 168 F3d at 983-984 [emphasis added].)\nThe above rationale applies with equal force here. (United States v Pitt-Des Moines, Inc., 168 F3d at 984.) Defendant was an employer on a construction site, where multiple employers’ employees were working. Defendant maintained control over the safety equipment used there, provided the safety equipment plaintiff used, was directly responsible for any inadequacy in that equipment (Flores v Infrastructure Repair Serv., LLC, 115 AD3d at 543; Brennan v Occupational Safety & Health Review Commn., 513 F2d at 1039), and thus was the employer on the site who reasonably could have prevented his body’s exposure to the spillage of hot tar. (Brennan v Occupational Safety & Health Review Commn., 513 F2d at 1039; United States v Pitt-Des Moines, Inc., 168 F3d at 984.)\nThe requirements for liability under Labor Law § 200 and for negligence, to exercise supervision or control over the conditions that caused injury, and for liability under OSHA regulations, to engage in a common undertaking with a subcontractor’s employees, explain why OSHA regulations frequently may not support liability. The owner or property manager of a construction site, for example (Dalaba v City of Schenectady, 61 AD3d 1151, 1153 [3d Dept 2009]; Khan v Bangla Motor & Body Shop, Inc., 27 AD3d at 527, 529; Riley v ISS Intl. Serv. Sys., 5 AD3d 754, 755-756 [2d Dept 2004]; Vencius v Morania Oil Tanker Corp., 210 AD2d 219, 219 [2d Dept 1994]), or the manufacturer of a product another party’s employee was using (Gray v Navistar Intl. Corp., 218 AD2d 904, 905-906 [3d Dept 1995]; Jemmott v Rockwell Mfg. Co., Power Tools Div., 216 AD2d 444, 445 [2d Dept 1995]), likely did not exercise supervision or control over the conditions that caused injury and was too removed from the construction to have engaged in a common undertaking with a subcontractor’s employee. OSHA regulations do apply, however, to employers’ safety practices. (E.g. Kocurek v Home Depot, U.S.A.P., 286 AD2d 577, 580 [1st Dept 2001].)\nLiability under OSHA regulations also may depend on the applicable regulations’ terms. 29 CFR part 1926, under which plaintiff claims violations, governs an employer’s conduct toward employees beyond its own employees. (Ganci v Port Auth. Trans-Hudson Corp., 258 AD2d at 386; Landry v General Motors Corp., Cent. Foundry Div., 210 AD2d 898, 898 [4th Dept 1994]; Pellescki v City of Rochester, 198 AD2d 762, 763 [4th Dept 1993]; Solis v Summit Contrs., Inc., 558 F3d 815, 826 [8th Cir 2009]; see Brennan v Occupational Safety & Health Review Commn., 513 F2d at 1039; Universal Constr. Co., Inc. v Occupational Safety & Health Review Commn., 182 F3d at 728; United States v Pitt-Des Moines, Inc., 168 F3d at 987, 989-990.)\nSpecifically, plaintiff claims defendant’s violation of 29 CFR 1926.16 (a)-(d), 1926.28, and 1926.102 (a) (l)-(5). Section 1926.28 (a) imposed responsibility on employers for “requiring the wearing of appropriate personal protective equipment in all operations where there is an exposure to hazardous conditions.” (See Spancrete Northeast, Inc. v Occupational Safety & Health Review Commn., 905 F2d 589, 593 [2d Cir 1990].) Section 1926.102 (a) (l)-(5) required the provision of equipment to protect an employee’s face and eyes during similar operations. Each of these regulations “was promulgated as a standard under 29 U.S.C. § 654(a)(2)” (Spancrete Northeast, Inc. v Occupational Safety & Health Review Commn., 905 F2d at 593), which required defendant to comply with these regulations for the benefit of all employees on the construction site, including employees of defendant’s subcontractor, plaintiff’s employer. (Brennan v Occupational Safety & Health Review Commn., 513 F2d at 1037-1038; Universal Constr. Co., Inc. v Occupational Safety & Health Review Commn., 182 F3d at 728; United States v Pitt-Des Moines, Inc., 168 F3d at 982.)\nBoth these regulations also are prefaced by 29 CFR 1926.16 (a)-(d), which imputes employers’ responsibility under 29 CFR part 1926’s standards, including for employees’ protective equipment, to a prime contractor at the construction project. “By contracting for full performance of a contract subject to section 107 of the Act, the prime contractor assumes all obligations prescribed as employer obligations under the standards contained in this part, whether or not he subcontracts any part of the work.” (29 CFR 1926.16 [b].) Defendant nowhere claims that, as the GC, it did not enter a contract with the construction site owner or its agent “subject to section 107 of the Act” (id.) for full performance of construction, alteration, or repair at the site as required by the contract, in exchange for over $100,000. (40 USC § 3704 [a] [1].)\nPlaintiff thus has met his burden to demonstrate the merits of his reliance on defendant’s violations of 29 CFR 1926.28 and 1926.102 (a) (l)-(5) and on 29 CFR 1926.16 (a)-(d) to impute responsibility for these violations to defendant, as evidence of defendant’s negligence. Therefore he is entitled to amend his bill of particulars to claim these violations unless defendant shows undue prejudice from the amendment. (A.L. Eastmond & Sons, Inc. v Keevily, Spero-Whitelaw, Inc., 107 AD3d 503 [1st Dept 2013]; Kocourek v Booz Allen Hamilton Inc., 85 AD3d 502, 504 [1st Dept 2011]; Sabo v Alan B. Brill, P.C., 25 AD3d 420, 421 [1st Dept 2006].)\nB. Prejudice\nThe prejudice defendant expresses is that it lost the opportunity to question witnesses at their deposition concerning the requirements of 29 CFR 1926.16 (a)-(d), 1926.28, and 1926.102 (a) (l)-(5). As set forth above, these regulations’ requirements are legal conclusions that the parties’ attorneys may advocate and that the court must determine. (Morris v Pavarini Constr., 9 NY3d at 51; Bucholz v Trump 767 Fifth Ave., LLC, 5 NY3d at 7; Lopez v Chan, 102 AD3d at 626; McCoy v Metropolitan Transp. Auth., 53 AD3d at 459.)\nAs for gathering evidence that might establish the absence of a violation (Morris v Pavarini Constr., 9 NY3d at 51), or absence of a causal connection between such a violation and plaintiff’s injury, defendant fails to articulate what additional disclosure defendant would have conducted had plaintiff relied on these regulations previously. Had defendant indicated additional necessary disclosure, ample time remained between the submission of plaintiff’s cross motion and the trial for the court to permit such disclosure under 22 NYCRR 202.21 (d), based on “unusual or unanticipated circumstances” that developed after the note of issue and that warranted additional disclosure. (Arons v Jutkowitz, 9 NY3d 393, 411 [2007]; Desario v SL Green Mgt. LLC, 118 AD3d 520 [1st Dept 2014]; Madison v Sama, 92 AD3d 607 [1st Dept 2012]; Colon v Yen Ru Jin, 45 AD3d 359, 360 [1st Dept 2007]; see Cuevas v 1738 Assoc., L.L.C., 111 AD3d 416, 417 [1st Dept 2013].) In fact defendant claims no impediment in conducting disclosure regarding whether plaintiff was “wearing . . . appropriate personal protective equipment,” was engaged in “operations where there is an exposure to hazardous conditions” (29 CFR 1926.28 [a]), or was provided equipment to protect his face and eyes. (29 CFR 1926.102 [a] [l]-[5].)\nIV. Conclusion\nConsequently, the court grants plaintiff’s cross motion to amend his bill of particulars to claim violations of 29 CFR 1926.16 (a)-(d), 1926.28, and 1926.102 (a) (l)-(5) based on the amendments’ merits and the absence of their prejudice to defendant, but otherwise denies his cross motion. (CPLR 3025 [b].) As set forth above, the court grants defendant’s motion to preclude Harlan Fair’s testimony of what any laws require or whether they apply to the evidence, his ultimate conclusion that the evidence adduced establishes a violation of any law, and his testimony to establish a violation of 12 NYCRR 23-1.24 (d) or a causal connection between such a violation and plaintiff’s injury.",
+        "type": "majority",
+        "author": "Lucy Billings, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Bee Ready Fishbein Hatter & Donovan, LLP, Mineóla (Andrew Preston and Michael Siravo of counsel), for defendant.",
+      "Ginarte, ODwyer, Gonzalez, Gallardo & Winograd, LLP, New York City (Timothy Norton and Richard Winograd of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[34 NYS3d 324]\nRaul Flores, Plaintiff, v Infrastructure Repair Service, LLC, Defendant.\nSupreme Court, New York County,\nSeptember 25, 2015\nAPPEARANCES OF COUNSEL\nBee Ready Fishbein Hatter & Donovan, LLP, Mineóla (Andrew Preston and Michael Siravo of counsel), for defendant.\nGinarte, ODwyer, Gonzalez, Gallardo & Winograd, LLP, New York City (Timothy Norton and Richard Winograd of counsel), for plaintiff."
+  },
+  "file_name": "2335-01",
+  "first_page_order": 656,
+  "last_page_order": 667
+}

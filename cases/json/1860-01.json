@@ -1,0 +1,741 @@
+{
+  "id": 4317095,
+  "name": "In the Matter of Anita C., Petitioner, v. Johana S., Respondent",
+  "name_abbreviation": "Anita C. v. Johana S.",
+  "decision_date": "2015-05-08",
+  "docket_number": "",
+  "first_page": "619",
+  "last_page": "623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 619"
+    },
+    {
+      "type": "parallel",
+      "cite": "13 N.Y.S.3d 795"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "100 AD3d 642",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3482903
+      ],
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/100/0642-01"
+      ]
+    },
+    {
+      "cite": "88 AD3d 725",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4031842
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/88/0725-01"
+      ]
+    },
+    {
+      "cite": "78 AD3d 545",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4009123,
+        3988166
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/78/0545-02",
+        "/ad3d/78/0545-01"
+      ]
+    },
+    {
+      "cite": "72 AD3d 975",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3966984
+      ],
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/0975-01"
+      ]
+    },
+    {
+      "cite": "132 S Ct 641",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12186041,
+        12445442
+      ],
+      "pin_cites": [
+        {
+          "page": "648"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0134-01",
+        "/l-ed-2d/181/0619-01"
+      ]
+    },
+    {
+      "cite": "10 NY3d 12",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3780331
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/10/0012-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 1090",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4323374
+      ],
+      "pin_cites": [
+        {
+          "page": "1090-1091"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/1090-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 1054",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4292344,
+        4291417,
+        4290860,
+        4292535
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/1054-03",
+        "/ny3d/22/1054-02",
+        "/ny3d/22/1054-01",
+        "/ny3d/22/1054-04"
+      ]
+    },
+    {
+      "cite": "110 AD3d 1260",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3729183
+      ],
+      "pin_cites": [
+        {
+          "page": "1261-1262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/110/1260-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752090
+      ],
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0200-01"
+      ]
+    },
+    {
+      "cite": "140 Kan 481",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        45035
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "501"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/140/0481-01"
+      ]
+    },
+    {
+      "cite": "7 SW3d 530",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        11499667
+      ],
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/7/0530-01"
+      ]
+    },
+    {
+      "cite": "485 NE2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "1244"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Ill App 3d 545",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        8499296
+      ],
+      "pin_cites": [
+        {
+          "page": "548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/138/0545-01"
+      ]
+    },
+    {
+      "cite": "121 NE 242",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "pin_cites": [
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 Ill 81",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        4936347
+      ],
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/286/0081-01"
+      ]
+    },
+    {
+      "cite": "384 A2d 58",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 Md 168",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2079821
+      ],
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/282/0168-01"
+      ]
+    },
+    {
+      "cite": "756 NE2d 1057",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        9487987
+      ],
+      "pin_cites": [
+        {
+          "page": "1060-1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/756/1057-01"
+      ]
+    },
+    {
+      "cite": "42 NE 549",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "550-551"
+        },
+        {
+          "page": "551"
+        },
+        {
+          "page": "551"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Ind App 27",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        4786812
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "32"
+        },
+        {
+          "page": "35"
+        },
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/14/0027-01"
+      ]
+    },
+    {
+      "cite": "79 Misc 2d 1023",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1280830
+      ],
+      "pin_cites": [
+        {
+          "page": "1024"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/79/1023-01"
+      ]
+    },
+    {
+      "cite": "1 Denio 186",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483977
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0186-01"
+      ]
+    },
+    {
+      "cite": "2 Barb Ch 331",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1995738
+      ],
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb-ch/2/0331-01"
+      ]
+    },
+    {
+      "cite": "23 AD3d 780",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        1601997
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "780"
+        },
+        {
+          "page": "781"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/23/0780-01"
+      ]
+    },
+    {
+      "cite": "56 AD3d 971",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "pin_cites": [
+        {
+          "page": "972"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Ark 657",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728020
+      ],
+      "pin_cites": [
+        {
+          "page": "659"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/12/0657-01"
+      ]
+    },
+    {
+      "cite": "127 AD3d 771",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4164278
+      ],
+      "pin_cites": [
+        {
+          "page": "772"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/127/0771-01"
+      ]
+    },
+    {
+      "cite": "99 AD3d 243",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3481098
+      ],
+      "pin_cites": [
+        {
+          "page": "246-247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/99/0243-01"
+      ]
+    },
+    {
+      "cite": "122 AD3d 853",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4318938
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "853-854"
+        },
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/122/0853-01"
+      ]
+    },
+    {
+      "cite": "119 AD3d 938",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4136266
+      ],
+      "pin_cites": [
+        {
+          "page": "938-939"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/119/0938-01"
+      ]
+    },
+    {
+      "cite": "117 AD3d 946",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4307420,
+        4308045
+      ],
+      "pin_cites": [
+        {
+          "page": "947"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/117/0946-02",
+        "/ad3d/117/0946-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 32",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4002787
+      ],
+      "pin_cites": [
+        {
+          "page": "36-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0032-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 471",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        114581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0471-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 509",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189128
+      ],
+      "pin_cites": [
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0509-01"
+      ]
+    },
+    {
+      "cite": "125 AD3d 681",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4040324
+      ],
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0681-01"
+      ]
+    },
+    {
+      "cite": "113 AD3d 781",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3911281
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/113/0781-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 1426",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3708342
+      ],
+      "pin_cites": [
+        {
+          "page": "1427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/1426-01"
+      ]
+    },
+    {
+      "cite": "101 AD3d 870",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3704981
+      ],
+      "pin_cites": [
+        {
+          "page": "871"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/101/0870-01"
+      ]
+    },
+    {
+      "cite": "93 AD3d 1107",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4055278
+      ],
+      "pin_cites": [
+        {
+          "page": "1108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/93/1107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 598,
+    "char_count": 9416,
+    "ocr_confidence": 0.767,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14564999735505815
+    },
+    "sha256": "4ad5e2ac2beae6eb1ef92b9717280a02d2834071fae214dd82a2074c98e37fda",
+    "simhash": "1:7397f10a28ba075c",
+    "word_count": 1613
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Anita C., Petitioner, v Johana S., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn M. Hunt, J.\nBy petition filed pursuant to Family Court Act § 821 on October 22, 2014, the petitioner, Anita C., alleges that the respondent, Johana S., has committed one or more of the family offenses designated by Family Court Act § 812 (1), and she requests that this court issue an order of protection against the respondent (Family Ct Act §§ 841 [d]; 842).\nThe petition alleges that Anita C. is “the aunt (by marriage) of the respondent,” that the parties reside in different apartments in the same building in College Point, that respondent “threatened me with foul words,” that respondent “insulted” the petitioner’s daughter, and that respondent “parks the car in the backyard which she is not supposed to do . . .1 told her to please take the car out, and she began to threaten and insult me with foul words.” In addition, the petition alleges that respondent “harasses and intimidates my daughter with gestures,” that respondent “hit me on my waist with [a] door” on September 9, 2014, and that she “honked” her car horn “hard” and scared petitioner’s children in April of 2011.\nAlthough it was unclear to the court whether the petition sufficiently alleges any of the designated family offense acts, in the absence of a motion to dismiss the petition pursuant to Civil Practice Law and Rules § 3211 (a) (7) (see Matter of Pamela N. v Neil N., 93 AD3d 1107, 1108 [2012]; Matter of Clark v Ormiston, 101 AD3d 870, 871 [2012]; Matter of Jeff M. v Christine N., 101 AD3d 1426, 1427 [2012]; Matter of Smith v Howard, 113 AD3d 781 [2014]; Matter of Xin Li v Ramos, 125 AD3d 681, 682 [2015]), a fact-finding hearing was commenced in accordance with Family Court Act § 832.\nPetitioner testified that she and the respondent “are related.” When questioned about the nature of this relationship, petitioner testified that respondent is “married to Raul who is petitioner’s husband’s half-sister’s son.” When the court questioned petitioner in an attempt to clarify her testimony, it became apparent that the petitioner did not know the name of Raul’s mother, the half sister of her husband. Petitioner further conceded that she and the respondent have no personal relationship, although they reside in the same apartment building.\nFamily Court Act §§ 115 (e) and 812 (1) provide that the family court and the criminal courts have concurrent jurisdiction “for certain enumerated criminal offenses when committed by one family member against another” (People v Wood, 95 NY2d 509, 512 [2000]; see also Matter of Alfeo v Alfeo, 306 AD2d 471 [2003]; Matter of Richardson v Richardson, 80 AD3d 32, 36-37 [2010]), and the court is vested with jurisdiction over family offenses occurring “between spouses or former spouses, or between parent and child or between members of the same family or household” (Family Ct Act § 812 [1]; see Matter of Hon v Tin Yat Chin, 117 AD3d 946, 947 [2014]; Matter of Arnold v Arnold, 119 AD3d 938, 938-939 [2014]; Matter of Johnson v Carter, 122 AD3d 853, 853-854 [2014]).\nThe statute further defines “members of the same family or household” as:\n“(a) persons related by consanguinity or affinity;\n“(b) persons legally married to one another;\n“(c) persons formerly married to one another regardless of whether they still reside in the same household;\n“(d) persons who have a child in common regardless of whether such persons have been married or have lived together at any time; and\n“(e) persons who are not related by consanguinity or affinity and who are or have been in an intimate relationship regardless of whether such persons have lived together at any time” (Family Ct Act § 812 [1]; see Matter of Jose M. v Angel V., 99 AD3d 243, 246-247 [2012]; Matter of Winston v Edwards-Clarke, 127 AD3d 771, 772 [2015]).\nIn this case, petitioner does not assert that she and the respondent have an “intimate relationship” as that term is defined by the statute. Petitioner asserts that the Family Court has jurisdiction because she is “related” to the respondent through her marriage, in other words, that she and the respondent are related by affinity, which is “a connection formed by marriage” (Kelly v Neely, 12 Ark 657, 659 [1852]; see also Matter of Bibeau v Ackey, 56 AD3d 971, 972 [2008]; Matter of Anstey v Palmatier, 23 AD3d 780 [2005]).\n“Affinity properly means the tie which arises, from marriage, betwixt the husband and the blood relatives of the wife, and between the wife and the blood relatives of the husband. And the blood relatives of the wife, while the marriage tie continues, stand in the same degree of affinity to the husband as they do in consanguinity to her” (Paddock v Wells, 2 Barb Ch 331, 331 [1847]; see also Higbe v Leonard, 1 Denio 186, 187 [1845]; Anstey, 23 AD3d at 780; Matter of Weisinger v Van Rensselaer, 79 Misc 2d 1023, 1024 [1974]).\n“Affinity is an artificial relationship” (Tegarden v Phillips, 14 Ind App 27, 32, 42 NE 549, 550-551 [1895]), and it “is the tie which exists between one of the spouses with the kindred of the other” (id. at 551), but the “relationship by affinity always depends upon the blood of the two spouses, and cannot extend beyond such blood kindred” (id. [emphasis added]). Thus, the Tegarden court explained, affinity\n“exclude [s] the affinity relatives of the respective spouses. My wife’s brother’s wife is related to my wife by affinity, because of the blood relationship existing between my wife and her brother; but she is not related to me by affinity, because there is no blood in common between us. In other words, the affinity relatives of my wife are not my affinity relatives, nor vice versa” (id. [emphasis added], citing Higbe v Leonard, 1 Denio 186 [1845]; see White v State, 756 NE2d 1057, 1060-1061 [Ind Ct App 2001]), thus “an affine of one spouse is not related to an affine of the other spouse” (Criminal Injuries Compensation Bd. v Remson, 282 Md 168, 184, 384 A2d 58, 67 [1978]; see also Clawson v Ellis, 286 Ill 81, 82, 121 NE 242, 243 [1918]; Calloway v Allstate Ins. Co., 138 Ill App 3d 545, 548, 485 NE2d 1242, 1244 [1985]; Smith v Associated Natural Gas Co., 7 SW3d 530, 535 [Mo Ct App 1999]).\nHere the parties agree that respondent, Johana S., is married to “Raul” who is the son of the half sister of petitioner’s husband. It would appear then that the petitioner is the sister-in-law of her husband’s half sister by virtue of her marriage, and consequently that she is the paternal aunt (by marriage or affinity) of “Raul,” the son of her husband’s half sister, as petitioner stands in the same degree of affinity as her husband stands by consanguinity to her husband’s blood relatives. However, because a relationship of affinity does not extend to the spouses of affines, it is clear that respondent has no relationship of affinity to the wife of her husband’s uncle, and vice versa.\n“The word ‘kin’ is sometimes used in a general sense to include relationship by blood or by marriage” (State v Hooper, 140 Kan 481, 501, 37 P2d 52, 63 [1934]). While the petitioner may believe that all persons married to members of her family, including people married to someone to whom she is only related by affinity, are her kin or relations, this is an overly broad definition of those affinity relationships which are recognized by law.\n“It is sometimes said that there is a connection between parties, arising from marriage, which is neither consanguinity nor affinity. It is called ‘affinitas affinitatis’ [and] sometimes confused with and called affinity” (Tegarden, 14 Ind App at 35, 42 NE at 551 [internal quotation marks omitted]). Although petitioner apparently believes that she and Johana are “related” because they are both married to members of the same family who share a common ancestor and are related by consanguinity, in actuality these parties are not related at all. Moreover, the fact that petitioner testified that she and respondent have no personal relationship with each other illustrates that their “connection is too vague and shadowy for judicial cognizance” (Tegarden, 14 Ind App at 35, 42 NE at 551).\nSubject matter jurisdiction is a nonwaivable issue that is not subject to preservation requirements (Manhattan Telecom. Corp. v H & A Locksmith, Inc., 21 NY3d 200, 203 [2013]; Matter of Scott KK. v Patricia LL., 110 AD3d 1260, 1261-1262 [2013], lv dismissed and denied 22 NY3d 1054 [2014]; Matter of Samantha I. v Luis J., 122 AD3d 1090, 1090-1091 [2014]). The absence of subject matter jurisdiction may be raised by the parties or upon the court’s own motion at any time (Financial Indus. Regulatory Auth., Inc. v Fiero, 10 NY3d 12, 17 [2008]; Gonzalez v Thaler, 562 US —, —, 132 S Ct 641, 648 [2012]).\nIn this case the court concludes as a matter of law and fact that the parties are not “members of the same family or household.” Accordingly, the Family Court has no subject matter jurisdiction over this proceeding, and the petition must be dismissed (Anstey, 23 AD3d at 781; Matter of Seye v Lamar, 72 AD3d 975, 977 [2010]; Matter of Tyrone T. v Katherine M., 78 AD3d 545 [2010]; Matter of Riedel v Vasquez, 88 AD3d 725, 727 [2011]; Matter of Welch v Lyman, 100 AD3d 642, 644 [2012]; Johnson, 122 AD3d at 854).",
+        "type": "majority",
+        "author": "John M. Hunt, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jeffrey Guerra, Hempstead, for petitioner.",
+      "Barbara M. Lew, Forest Hills, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[13 NYS3d 795]\nIn the Matter of Anita C., Petitioner, v Johana S., Respondent.\nFamily Court, Queens County,\nMay 8, 2015\nAPPEARANCES OF COUNSEL\nJeffrey Guerra, Hempstead, for petitioner.\nBarbara M. Lew, Forest Hills, for respondent."
+  },
+  "file_name": "1860-01",
+  "first_page_order": 617,
+  "last_page_order": 621
+}

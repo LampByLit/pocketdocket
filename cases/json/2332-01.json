@@ -1,0 +1,756 @@
+{
+  "id": 6788975,
+  "name": "In the Matter of Clara F.",
+  "name_abbreviation": "In re Clara F.",
+  "decision_date": "2016-05-25",
+  "docket_number": "",
+  "first_page": "640",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 640"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 N.Y.S.3d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "553 US 1044",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "514 F3d 1035",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048567
+      ],
+      "pin_cites": [
+        {
+          "page": "1042"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/514/1035-01"
+      ]
+    },
+    {
+      "cite": "279 US 398",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3907774
+      ],
+      "pin_cites": [
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0398-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189205
+      ],
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0095-01"
+      ]
+    },
+    {
+      "cite": "21 NY3d 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3753570
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/21/0277-01"
+      ]
+    },
+    {
+      "cite": "2013 US Dist LEXIS 46966",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*10-13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 1282454",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 1787980",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 US Dist LEXIS 12372",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*65"
+        },
+        {
+          "page": "*65-66"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 349295",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*19"
+        },
+        {
+          "page": "*19-20"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 AD3d 47",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4164387
+      ],
+      "pin_cites": [
+        {
+          "page": "50-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/137/0047-01"
+      ]
+    },
+    {
+      "cite": "80 AD3d 32",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4002787
+      ],
+      "pin_cites": [
+        {
+          "page": "36-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/80/0032-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 509",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189128
+      ],
+      "pin_cites": [
+        {
+          "page": "512-513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0509-01"
+      ]
+    },
+    {
+      "cite": "2011 US Dist LEXIS 44626",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 WL 607087",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "578 Fed Appx 626",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 US Dist LEXIS 168665",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*1-4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 6210264",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 USC § 1184",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "p"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 3898996",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 US Dist LEXIS 178521",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "pin_cites": [
+        {
+          "page": "*4-8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 6844717",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "300 Fed Appx 651",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "652"
+        },
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "907 F Supp 2d 907",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3831046
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "909"
+        },
+        {
+          "page": "910"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/907/0907-01"
+      ]
+    },
+    {
+      "cite": "141 F Supp 3d 29",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4226951
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "32"
+        },
+        {
+          "page": "32"
+        },
+        {
+          "page": "32-33"
+        },
+        {
+          "page": "32-33"
+        },
+        {
+          "page": "32-33"
+        },
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/141/0029-01"
+      ]
+    },
+    {
+      "cite": "575 F3d 715",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4034329,
+        3546850,
+        3546628,
+        4034757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/575/0715-02",
+        "/us-app-dc/388/0017-01",
+        "/us-app-dc/388/0017-02",
+        "/f3d/575/0715-01"
+      ]
+    },
+    {
+      "cite": "484 F3d 439",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5735092
+      ],
+      "pin_cites": [
+        {
+          "page": "444-445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/484/0439-01"
+      ]
+    },
+    {
+      "cite": "839 F Supp 2d 827",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4150808
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "829"
+        },
+        {
+          "page": "829"
+        },
+        {
+          "page": "828"
+        },
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/839/0827-01"
+      ]
+    },
+    {
+      "cite": "599 F3d 973",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223868
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "974-975"
+        },
+        {
+          "page": "974"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0973-01"
+      ]
+    },
+    {
+      "cite": "634 Fed Appx 880",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "622 F Supp 2d 865",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4229198
+      ],
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/622/0865-01"
+      ]
+    },
+    {
+      "cite": "2014 US Dist LEXIS 18029",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*13-18"
+        },
+        {
+          "page": "*13-18"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 584265",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "*5"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 Fed Appx 750",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "752"
+        },
+        {
+          "page": "753"
+        },
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "588 Fed Appx 363",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "363"
+        },
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "562 US 863",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12436352,
+        12436353,
+        12436354,
+        5911171,
+        12436355,
+        5920133,
+        12436357,
+        12436356,
+        12436360,
+        12436361,
+        12436362,
+        5946251,
+        12436363,
+        12436358,
+        12436359,
+        5915678,
+        5994655,
+        6015009,
+        5933876,
+        6008246,
+        6012350,
+        6028351,
+        5900738,
+        6005327,
+        4126820,
+        5972586,
+        6030193,
+        12436349,
+        12436350,
+        12436351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/178/0087-02",
+        "/l-ed-2d/178/0087-03",
+        "/l-ed-2d/178/0087-04",
+        "/us/562/0863-01",
+        "/l-ed-2d/178/0087-05",
+        "/us/562/0863-11",
+        "/l-ed-2d/178/0087-07",
+        "/l-ed-2d/178/0087-06",
+        "/l-ed-2d/178/0088-02",
+        "/l-ed-2d/178/0088-03",
+        "/l-ed-2d/178/0088-04",
+        "/us/562/0863-04",
+        "/l-ed-2d/178/0088-05",
+        "/l-ed-2d/178/0087-08",
+        "/l-ed-2d/178/0088-01",
+        "/us/562/0863-03",
+        "/us/562/0863-14",
+        "/us/562/0863-12",
+        "/us/562/0863-07",
+        "/us/562/0863-08",
+        "/us/562/0863-15",
+        "/us/562/0863-13",
+        "/us/562/0863-05",
+        "/us/562/0863-09",
+        "/us/562/0863-06",
+        "/us/562/0863-02",
+        "/us/562/0863-10",
+        "/l-ed-2d/178/0086-07",
+        "/l-ed-2d/178/0086-08",
+        "/l-ed-2d/178/0087-01"
+      ]
+    },
+    {
+      "cite": "598 F3d 222",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4221529
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "224"
+        },
+        {
+          "page": "224"
+        },
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/598/0222-01"
+      ]
+    },
+    {
+      "cite": "2013 US Dist LEXIS 170839",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*4-7"
+        },
+        {
+          "page": "*4-7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 6273961",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "656 F3d 653",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3830375
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "656"
+        },
+        {
+          "page": "658"
+        },
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/656/0653-01"
+      ]
+    },
+    {
+      "cite": "8 USC § 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 775,
+    "char_count": 15150,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18250465567683677
+    },
+    "sha256": "8d453ef07009afe93f452e9f39b30bce50feedf86239d0cdd628bdff27e44fd1",
+    "simhash": "1:7cac55c65c064731",
+    "word_count": 2513
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Clara F."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn M. Hunt, J.\nI — II\nClara E, who was the petitioner in a family offense petition filed in the Family Court, Queens County on April 23, 2013, has submitted this ex parte application requesting that the Family Court execute a “Form 1-918, Supplement B, U Non-immigrant Status Certification” certifying that she is an alien who is or has been the victim of certain qualifying criminal activity.\nCounsel for Ms. F. indicates in his written communication to the Family Court that Ms. F. intends to submit the Form 1-918, Supplement B Certification to the United States Citizenship and Immigration Services (USCIS) of the United States Department of Homeland Security in connection with her application for issuance of a “U visa.” A U visa is a type of non-immigrant visa which may be issued by USCIS to an alien who is the victim of specific criminal acts enumerated in 8 USC § 1101 (a) (15) (U) (Torres-Tristan v Holder, 656 F3d 653, 656 [7th Cir 2011]; In re Certification Form for U Visa for Movant Nunez-Ramirez, 2013 WL 6273961, *2, 2013 US Dist LEXIS 170839, *4-7 [SD Tex, Dec. 3, 2013, Mise Action No. M-13-746]).\nThe family offense proceeding in this court was commenced on April 23, 2013 when Clara F. filed the underlying family offense petition against Wilson M. pursuant to Family Court Act § 821. That petition alleged, in pertinent part, that the petitioner’s address “is confidential,” that the respondent’s address is “unknown,” that the parties have a child in common, and that respondent committed multiple acts between 2009 and up until March 2013 which, if true, would constitute one or more of the family offenses enumerated in Family Court Act § 812 (1). Notably, these allegations involved threats by the respondent “to take away your daughter,” “to beat you up,” and “to kill you,” and also included physical abuse including pushing petitioner to the floor which caused a “painful bruise on my leg that lasted for about a week.”\nThe petition further states that petitioner has not filed any criminal complaint concerning the alleged incidents, and also states that “[t]he following court cases are pending between me and the respondent: Westchester County Family Court-O-6060/10 (petition withdrawn) and 0-3113/11 (order of protection- expired 7/20/12). Queens Family Court- V-1233/13 (case is adjourned to 6/4/13- Part 40),” and a child support proceeding being heard by a Family Court support magistrate.\nPreliminary proceedings upon the petition were conducted before court attorney-referees. The case was subsequently transferred to then-Judge Dennis Lebwohl after Mr. M. appeared and entered a denial to the allegations. Following proceedings before Judge Lebwohl on July 31, 2013 and August 12, 2013 for which both parties apparently appeared along with petitioner’s assigned attorney, Judge Lebwohl subsequently proceeded to an inquest upon the default of Mr. M. on October 31, 2013. At the conclusion of the hearing, Judge Leb-wohl determined by a preponderance of the evidence (Family Ct Act § 832) that Mr. M. committed the family offenses of attempted assault in the third degree (Penal Law §§ 110.00, 120.00) and harassment in the second degree (Penal Law § 240.26). Judge Lebwohl proceeded to an immediate disposition of the proceeding and he issued an order of protection in favor of Ms. F. for a period of two years. The order directed that respondent commit no further family offenses, that he refrain from communicating with Ms. F. by any means, and that he stay away from her, her residence and place of employment (Family Ct Act §§841 [d]; 842).\nThe order of protection expired on October 31, 2015 and Judge Lebwohl’s term of office expired on December 31, 2015. Petitioner submitted her initial request for the U visa certification on or about February 9, 2016 and her second request was filed with the Clerk of Court on May 18, 2016. Apparently, for reasons of “administrative convenience,” the application was referred to this court which has had absolutely no contact with either of the parties and no involvement with any of their judicial proceedings.\nII\n“The Victims of Trafficking and Violence Protection Act of 2000 (VTVPA) amended the Immigration and Nationality Act (INA) in part to create a new type of visa, known as the ‘U-Visa’ . . . U-Visas can be granted to victims of certain listed crimes who later help United States law enforcement officials investigate or prosecute those crimes” (Ordonez Orosco v Napolitano, 598 F3d 222, 224 [5th Cir 2010], cert denied 562 US 863 [2010]; see also Linares v Sheriff’s Off. of Broward County, 588 Fed Appx 363 [5th Cir 2014]).\nThe U visa is “an immigration benefit available to certain victims of crime” (Catholic Charities CYO v Napolitano, 368 Fed Appx 750, 752 [9th Cir 2010]; Aguirre-Palacios v Doe No. 1, 2014 WL 584265, *5, 2014 US Dist LEXIS 18029, *13-18 [SD Cal, Feb. 11, 2014, Civ No. 13cv3103 LAB (BLM)]). The statute creating the U visa (8 USC § 1101 [a] [15] [U]) “simply sets forth eligibility standards, which determine who may file for ‘U’ visa status” (Catholic Charities CYO v Chertoff, 622 F Supp 2d 865, 884 [ND Cal 2008]). The statute and regulations vest USCIS with “sole discretion to determine eligibility for U-Visas” (Shukhrat v Secretary, U.S. Dept. of Homeland Sec., 634 Fed Appx 880, 884 [3d Cir 2015]; see also Lee v Holder, 599 F3d 973, 974-975 [9th Cir 2010]; Mondragon v United States, 839 F Supp 2d 827, 829 [WD NC 2012]; Aguirre-Palacios, 2014 WL 584265, *5, 2014 US Dist LEXIS 18029, *13-18). There is no right to judicial review of the determination of USCIS (Fonseca-Sanchez v Gonzales, 484 F3d 439, 444-445 [7th Cir 2007]; Catholic Charities CYO v Napolitano, 368 Fed Appx at 753; Torres-Tristan, 656 F3d at 658; Semiani v United States, 575 F3d 715 [DC Cir 2009]; Mondragon, 839 F Supp 2d at 829), and courts may not compel the USCIS to issue a U visa (Catholic Charities CYO v Napolitano, 368 Fed Appx at 753).\n“The nonimmigrant U visa classification was intended to encourage law enforcement officials to better serve immigrant crime victims and to prosecute crimes committed against aliens, [to] facilitate the reporting of crimes to law enforcement officials by trafficked, exploited, victimized, and abused aliens who are not in lawful immigration status, and [to] give law enforcement officials a means to regularize the. status of cooperating individuals during investigations or prosecutions” (Romero-Hernandez v District of Columbia, 141 F Supp 3d 29, 32 [D DC 2015] [internal quotation marks omitted]; see also Mondragon, 839 F Supp 2d at 828; Villegas v Metropolitan Govt. of Nashville, 907 F Supp 2d 907, 909 [MD Tenn 2012]).\nIn order to qualify for the issuance of a U visa,\n“an applicant must demonstrate that she (i) has suffered substantial physical or mental abuse as the result of having been the victim of qualifying criminal activity; (ii) possesses information concerning the qualifying criminal activity; and (iii) has been helpful, is being helpful or is likely to be helpful in investigating or prosecuting the qualifying criminal activity” (Romero-Hernandez, 141 F Supp 3d at 32; see also Bejarano v Homeland Sec. Dept., 300 Fed Appx 651, 652 [11th Cir 2008]; Lee, 599 F3d at 974; Torres-Tristan, 656 F3d at 656; Geminiano-Martinez v Beers, 2013 WL 6844717, *2, 2013 US Dist LEXIS 178521, *4-8 [D Nev, Dec. 13, 2013, Nos. 2:13-CV-01702-MMD, 2:13-CV-01704-MMD]; U.S. Dept, of Homeland Sec., U.S. Citizenship and Immigration Servs., Admin. Appeals Off., 2014 WL 3898996, *1 [Apr. 11, 2014] [party names and file number redacted by agency]).\n“In order to obtain a U-Visa, an alien who was the victim of an enumerated crime must obtain a ‘certification’ from law enforcement officials confirming that [s]he was helpful to the investigation or prosecution of the crime” (Ordonez Orosco, 598 F3d at 224; see Mondragon, 839 F Supp 2d at 828; Romero-Hernandez, 141 F Supp 3d at 32-33).\n“The petition filed by an alien under section 1101 (a)(15)(U)(i) of [8 USC] shall contain a certification from a Federal, State, or local . . . authority investigating criminal activity described in section 1101 (a)(15)(U)(iii) of this title. This certification may also be provided by an official of the Service whose ability to provide such certification is not limited to information concerning immigration violations. This certification shall state that the alien ‘has been helpful, is being helpful, or is likely to be helpful’ in the investigation or prosecution of criminal activity described in section 1101 (a)(15)(U)(iii) of this title” (8 USC § 1184 [p] [1]; see 8 CFR 214.14 [c] [2] [i]; Linares, 588 Fed Appx at 363; Romero-Hernandez, 141 F Supp 3d at 32-33; U.S. Dept. of Homeland Sec., U.S. Citizenship and Immigration Servs., Admin. Appeals Off., 2014 WL 3898996, *1 [Apr. 11, 2014] [party names and file number redacted by agency]).\nPursuant to 8 USC § 1184 (p) (1) and 8 CFR 214.14, the certification required under 8 CFR 1101 (a) (15) (U) (i) may be made, inter alia, by “a Federal, State, or local law enforcement official, prosecutor, judge, or other Federal, State, or local authority investigating criminal activity.” (8 USC § 1184 [p] [1].) While judges do not conduct criminal investigations or prosecute offenders, they are specifically designated as qualified certifying officials for purposes of Form 1-918, Supplement B (8 CFR 214.14 [a] [3] [ii]; Villegas, 907 F Supp 2d at 910; Shukhrat v Napolitano, 2013 WL 6210264, *1, 2013 US Dist LEXIS 168665, *1-4 [ED Penn, Nov. 27, 2013, Civ Action No. 12-4137]).\nThe decision of a law enforcement official to grant or deny a request for certification is discretionary, and there is no right of judicial review from a refusal to grant the certification (Ordonez Orosco, 598 F3d at 226; Linares, 588 Fed Appx at 363; Bejarano, 300 Fed Appx at 653; Trevino v Benton County, Ark., 578 Fed Appx 626, 627 [8th Cir 2014]; United States v Biao, 2011 WL 607087, 2011 US Dist LEXIS 44626 [SD Cal, Feb. 11, 2011, No. 98cr2812-BTM]; Romero-Hernandez, 141 F Supp 3d at 32-33).\nWith respect to the application for issuance of the Form 1-918, Supplement B certification submitted by Ms. F., the court makes the following observations.\nThe certification required by Form 1-918, Supplement B, which must accompany any U Visa application filed with the USCIS, and which is executed “under penalty of perjury” by the law enforcement official, must:\n“state that: the person signing the certificate is the head of the certifying agency . . . or is a Federal, State, or local judge; the agency is a Federal, State, or local law enforcement agency, or prosecutor, judge or other authority, that has [the] responsibility for the detection, investigation, prosecution, conviction, or sentencing of qualifying criminal activity; the applicant has been a victim of qualifying criminal activity that the certifying official’s agency is investigating or prosecuting; the petitioner possesses information concerning the qualifying criminal activity of which he or she has been a victim; the petitioner has been, is being, or is likely to be helpful to an investigation or prosecution of that qualifying criminal activity; and the qualifying criminal activity violated U.S. law, or occurred in the United States” (8 CFR 214.14 [c] [2] [i]).\nIn the view of this court, the family offense proceeding adjudicated by Judge Lebwohl did not constitute a criminal action (CPL 1.20 [16]; Family Ct Act §§ 812 [2] [b], [c]; 813 [3]; see People v Wood, 95 NY2d 509, 512-513 [2000]; Matter of Richardson v Richardson, 80 AD3d 32, 36-37 [2010]; Matter of Molloy v Molloy, 137 AD3d 47, 50-51 [2016]). Thus, the Family Court had no role in presiding over any prosecution, conviction, or sentencing of a defendant. As one court has observed, “there have been no cases in this circuit in which a federal judge has granted U-Visa certification to a party involved in a civil proceeding before the court” (Baiju v United States Dept. of Labor, 2014 WL 349295, *19, 2014 US Dist LEXIS 12372, *65 [ED NY, Jan. 31, 2014, No. 12-cv-5610 (KAM)], appeal dismissed 14-394 [2d Cir, Apr. 25, 2014]; see also Aguirre-Palacios v Doe No. 1, 2014 WL 584265, 2014 US Dist LEXIS 18029 [SD Cal, Feb. 11, 2014, Civ No. 13cv3103 LAB (BLM)]).\nAdditionally, “[t]he fact that the regulations allow judges to grant U visa certifications does not mean that judges possess unfettered discretion to do so. Rather, the regulations require that a certifying judge be connected to an underlying criminal prosecution or investigation” (Romero-Hernandez, 141 F Supp 3d at 33; see also Linares v Sheriff's Off. Broward County, 2014 WL 1787980, *2 [WD La, May 5, 2014, No. 13-cv-3289]; Nunez-Ramirez, 2013 WL 6273961, *5, 2013 US Dist LEXIS 170839, *4-7; Agaton v Hospitality & Catering Servs., Inc., 2013 WL 1282454, *4, 2013 US Dist LEXIS 46966, *10-13 [WD La, Mar. 28, 2013, Civ Action No. 11-1716]; Baiju, 2014 WL 349295, *19-20, 2014 US Dist LEXIS 12372, *65-66 [ED NY, Jan. 31, 2014, No. 12-cv-5610 (KAM)]; People v Hampton, 21 NY3d 277, 287 [2013] [under Judiciary Law § 21 trial judge shall not decide factual issues tried before different judge]).\nLastly, the signing of a Form 1-918, Supplement B certification is not a simple ministerial act, that is an act not involving the exercise of reasoned judgment (e.g. Lauer v City of New York, 95 NY2d 95, 115 [2000]). To the contrary, the judge or other law enforcement official is stating under the penalty of perjury, a sworn declaration, that certain facts exist and that certain conditions exist. Here, this court had absolutely no role in the adjudication of the underlying family offense proceeding, and this court is unable to execute the required certification.\nThis does not mean that Ms. F. is without remedy, notwithstanding this court’s determination that it should not execute the certification. On February 28, 2011, Ms. F. filed a family offense petition against Mr. M. in Family Court, Westchester County. That petition was assigned to a Family Court Judge who granted the petition and issued an order of protection on July 20, 2011 in favor of Ms. F. for a period expiring July 20, 2012. Unlike Judge Lebwohl who has retired, the Family Court Judge sitting in Westchester County continues to preside in the Family Court. Nothing in this court’s decision and order prevents Ms. F. from presenting her request to the Judge in Westchester County for his consideration based upon the family offense proceeding adjudicated before him.\nIt is therefore ordered, that this miscellaneous application is denied for the reasons stated herein.\nFor purposes of immigration law, “[t]he term ‘alien’ means any person not a citizen or national of the United States” (8 USC § 1101 [a] [3]; see also United States ex rel. Claussen v Day, 279 US 398, 400 [1929]; United States v Mendez, 514 F3d 1035, 1042 [10th Cir 2008], cert denied 553 US 1044 [2008]).",
+        "type": "majority",
+        "author": "John M. Hunt, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Latin Women In Action, Inc., Corona (Thomas Cheung of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[32 NYS3d 871]\nIn the Matter of Clara F.\nFamily Court, Queens County,\nMay 25, 2016\nAPPEARANCES OF COUNSEL\nLatin Women In Action, Inc., Corona (Thomas Cheung of counsel), for petitioner."
+  },
+  "file_name": "2332-01",
+  "first_page_order": 632,
+  "last_page_order": 639
+}

@@ -1,0 +1,144 @@
+{
+  "id": 4234748,
+  "name": "Tadhg O'Gara, Claimant, v. State of New York, Defendant",
+  "name_abbreviation": "O'Gara v. State",
+  "decision_date": "2015-10-27",
+  "docket_number": "Claim No. 125612",
+  "first_page": "485",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Misc. 3d 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "25 N.Y.S.3d 796"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Cl.",
+    "id": 9160,
+    "name": "New York Court of Claims"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "26 USC § 3101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "736 F2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        587586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/736/0043-01"
+      ]
+    },
+    {
+      "cite": "26 USC § 7422",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "208 AD2d 297",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1185162
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/0297-01"
+      ]
+    },
+    {
+      "cite": "26 USC § 3403",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2001 NY Slip Op 40125",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. § 1346",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 U.S.C. § 7422",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 417,
+    "char_count": 6602,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14045104560150032
+    },
+    "sha256": "e8d6471e6edf1abb7883dcfbcd954f27750d847aee773343127bf3aec4e38adb",
+    "simhash": "1:0bcc60cd2613c42c",
+    "word_count": 1097
+  },
+  "last_updated": "2024-02-27T19:22:40.474157+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tadhg O’Gara, Claimant, v State of New York, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAlan C. Marin, J.\nThe defendant State of New York has moved to dismiss the claim of Tadhg O’Gara, M.D., which he had brought for amounts that were withheld under the Federal Insurance Contributions Act (FICA) for his service as a medical resident at the State University’s Downstate Medical Center in Kings County. Dr. O’Gara opposes the motion and cross-moves for summary judgment along with certain equitable relief.\nThe defendant relies upon the well-established precedent that “jurisdiction over federal tax liability, entitlement to refunds and exemption from withholding lies exclusively in the appropriate federal courts, upon compliance with the federal regulatory scheme, including exhaustion of available federal administrative remedies. See 26 U.S.C. § 7422 and 28 U.S.C. § 1346” (Galasso v City of New York, 2001 NY Slip Op 40125[U], *3 [Sup Ct, NY County 2001]). Moreover, 26 USC § 3403 immunizes an employer from liability to an employee in connection with the withholding of FICA taxes (Davis v Rosenblatt, 208 AD2d 297 [3d Dept 1995]).\nThe essential facts covering Dr. O’Gara’s residency at Downstate Medical Center are not in dispute; the following is drawn from defendant’s motion papers.\n• Claimant was a medical resident at SUNY Downstate from 2001 to 2006.\n• In 2010, the Internal Revenue Service issued a ruling that medical residents serving before April 1, 2005 should have been exempt from FICA payroll taxes.\nClaimant had $13,187.64 in FICA taxes withheld from 2001 through the first quarter of 2005.\n• Dr. O’Gara signed a form, which contained the statement, “I give my consent to the State of New York to file a Medical Resident FICA Refund Claim on my behalf for refunds of FICA taxes that the State of New York withheld from my wages for services I performed as a medical resident.” The form was signed on September 27, 2010, following a letter from SUNY Downstate, dated September 23, 2010.\nSUNY’s letter of September 23 to Dr. O’Gara (and to others similarly situated) explained that: (i) the State had filed claims for FICA refunds for taxes withheld for the earnings of its medical residents for the period prior to April 1, 2015; (ii) SUNY Downstate cannot receive a refund of the FICA amounts that were withheld and paid on O’Gara’s behalf without his written consent; and (iii) “[i]f you consent, the State of New York will pay your FICA tax refund, plus statutory interest, after we receive the refund from the IRS.”\nTwo and a half years later, on March 19, 2013, claimant received a reimbursement for FICA of $165.80. According to defendant’s affirmation in support, this amount resulted,\n“[apparently when SUNYD noted Claimant’s residency years, they accidentally transposed the numbers ‘01’ with ‘05’ so the IRS was told that Claimant was a resident from July 1, 2001 until July 5, 2001 instead of July 1, 2001 until July 1, 2005. Thus, claimant was reimbursed for four days instead of four years” (para 6).\nDefendant correctly refers to the federal statutory/regulatory scheme governing FICA refunds. However, it is mistaken as to compliance: this court concludes from the steps that the State took to obtain the FICA refunds that federal law has been complied with.\nThe Third Department in the above-cited Davis v Rosenblatt case stated,\n“Once, as here, Federal income and FICA taxes . . . have been withheld and remitted . . . , the employee’s remedy is to file a claim for a refund (see, 26 USC § 7422 [a]; . . . Rosenbluth Trading v United States, 736 F2d 43), which is a prerequisite to legal action (26 USC § 7422 [a] . . .)” (208 AD2d at 299).\nAn instructional page from the IRS is entitled, “Medical Resident FICA Refund Claims: Action Required by Medical Resident Included in Employer’s Claim.” The page has one question together with its answer:\n“If I am covered under a claim that my employer filed, do I need to do anything at this time?”\n“No. You can expect your employer to be in touch with you about the refund process. You will not be hearing from the IRS directly.”\nIn fact, ironically, the State got back the employer’s matching share of FICA—thanks to O’Gara’s consent form: “On September 27, 2010, Claimant consented to allow SUNYD to file on Claimant’s behalf. This allowed Defendant to collect their portion of FICA taxes” (defendant’s affirmation in support para 5).\nIn view of the foregoing, and having reviewed the submissions of the parties, it is ordered that defendant’s motion No. M-87026 is denied; and it is further ordered that claimant’s cross motion No. CM-87119 is granted, but only to the extent of compensatory damages in the amount of $21,859.58, which is the sum of $13,187.64 (the withheld FICA amounts) and $8,671.94 (the interest thereon calculated); and it is further ordered that the judgment of $21,859.58 is to be held in abeyance for 90 days from the date of its filing to afford defendant 60 days to make application with respect to the claimant’s calculation of interest, and claimant 30 days for a response thereto.\n. 26 USC § 3101 et seq.\n. The form is entitled: “Medical Residents FICA Claim Employee Consent Form,” on which Dr. O’Gara checked the years applicable to him: 2001, 2002, 2003, 2004 and for 2005, only the first quarter was on the form, which he checked.\nThis document, as well as the SUNY Downstate letter of September 23, are both part of exhibit A to defendant’s affirmation in support, which is subdivided into exhibits A through K, and contains material that was appended to O’Gara’s claim.\n. He received an amount for interest of $131.75, which per the March 19, 2013 letter from the State Comptroller was combined with the $165.80 in one check, apparently issued by the State of New York (exhibit G within exhibit A to defendant’s affirmation in support). Attached to the letter and part of such “sub-exhibit” G is a check stub from the State of New York with the interest amount only—that portion is taxable.\n. It is exhibit F within exhibit A to defendant’s affirmation in support.\n. The court reviewed: from defendant, a notice of motion and affirmation in support with exhibit A (which exhibit contains exhibits A through K); from claimant, a notice of counter motion and an affirmation in support.\n. See exhibit E within exhibit A to defendant’s affirmation in support.",
+        "type": "majority",
+        "author": "Alan C. Marin, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eric T. Schneiderman, Attorney General (Joseph L. Paterno and Suzette Corinne Rivera of counsel), for defendant.",
+      "Tadhg O’Gara, claimant pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[25 NYS3d 796]\nTadhg O’Gara, Claimant, v State of New York, Defendant.\n(Claim No. 125612.)\nCourt of Claims,\nOctober 27, 2015\nAPPEARANCES OF COUNSEL\nEric T. Schneiderman, Attorney General (Joseph L. Paterno and Suzette Corinne Rivera of counsel), for defendant.\nTadhg O’Gara, claimant pro se."
+  },
+  "file_name": "2189-01",
+  "first_page_order": 497,
+  "last_page_order": 500
+}

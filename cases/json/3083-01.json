@@ -1,0 +1,827 @@
+{
+  "id": 12454526,
+  "name": "CAROL COKER, Plaintiff and Appellant, v. JPMORGAN CHASE BANK, N.A., et al., Defendant and Respondent",
+  "name_abbreviation": "Coker v. JPMorgan Chase Bank, N.A.",
+  "decision_date": "2016-01-21",
+  "docket_number": "No. S213137",
+  "first_page": "667",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "62 Cal. 4th 667"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 9021,
+    "name": "Supreme Court of California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "159 Cal.Rptr.3d 345",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Cal.App.4th 1386",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054456
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/217/1386-01"
+      ]
+    },
+    {
+      "cite": "800 P.2d 557",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "275 Cal.Rptr. 201",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.3d 991",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4457771
+      ],
+      "pin_cites": [
+        {
+          "page": "997"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/51/0991-01"
+      ]
+    },
+    {
+      "cite": "198 P.3d 1109",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Cal.Rptr.3d 700",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.4th 557",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3893334
+      ],
+      "pin_cites": [
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/45/0557-01"
+      ]
+    },
+    {
+      "cite": "933 P.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Cal.Rptr.2d 243",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.4th 232",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1006037
+      ],
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/15/0232-01"
+      ]
+    },
+    {
+      "cite": "562 U.S. 223",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12457248,
+        5925915
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/179/0001-01",
+        "/us/562/0223-01"
+      ]
+    },
+    {
+      "cite": "858 P.2d 611",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.Rptr.2d 144",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.4th 1203",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1998572
+      ],
+      "pin_cites": [
+        {
+          "page": "1213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/5/1203-01"
+      ]
+    },
+    {
+      "cite": "179 P.3d 882",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Cal.Rptr.3d 81",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.4th 1142",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3673607
+      ],
+      "pin_cites": [
+        {
+          "page": "1156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/42/1142-01"
+      ]
+    },
+    {
+      "cite": "696 P.2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Cal.Rptr. 742",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Cal.3d 345",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1977099
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/38/0345-01"
+      ]
+    },
+    {
+      "cite": "807 P.2d 1076",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 Cal.Rptr. 847",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Cal.3d 467",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2358791
+      ],
+      "pin_cites": [
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/53/0467-01"
+      ]
+    },
+    {
+      "cite": "244 Cal.Rptr. 600",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 Cal.App.3d 63",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4404002
+      ],
+      "pin_cites": [
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/199/0063-01"
+      ]
+    },
+    {
+      "cite": "57 Cal.Rptr.2d 591",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.App.4th 182",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4670502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/50/0182-01"
+      ]
+    },
+    {
+      "cite": "158 Cal.Rptr.3d 881",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Cal.App.4th 877",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4266361
+      ],
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/217/0877-01"
+      ]
+    },
+    {
+      "cite": "976 P.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Cal.Rptr.2d 292",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.4th 659",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        829732
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/20/0659-01"
+      ]
+    },
+    {
+      "cite": "498 P.2d 1055",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Cal.Rptr. 807",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.3d 603",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2277343
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/7/0603-01"
+      ]
+    },
+    {
+      "cite": "542 P.2d 981",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.Rptr. 557",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.3d 590",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2272256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/15/0590-01"
+      ]
+    },
+    {
+      "cite": "455 P.2d 106",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Cal.Rptr. 170",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Cal.2d 261",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        8711949
+      ],
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/71/0261-01"
+      ]
+    },
+    {
+      "cite": "378 P.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Cal.Rptr. 321",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.2d 121",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4392913
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/59/0121-01"
+      ]
+    },
+    {
+      "cite": "124 P.2d 353",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.App.2d 180",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4644953
+      ],
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/51/0180-01"
+      ]
+    },
+    {
+      "cite": "259 P.2d 425",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Cal.2d 193",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        12125022
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/41/0193-01"
+      ]
+    },
+    {
+      "cite": "973 P.2d 527",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Cal.Rptr.2d 548",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.4th 163",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        829708
+      ],
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/20/0163-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 21",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5923137
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0021-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 883",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.Rptr.3d 841",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal.4th 128",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4225222
+      ],
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/56/0128-01"
+      ]
+    },
+    {
+      "cite": "75 Cal.Rptr.2d 294",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.App.4th 502",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        505123
+      ],
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/64/0502-01"
+      ]
+    },
+    {
+      "cite": "89 Cal.Rptr.2d 99",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Cal.App.4th 191",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        275707
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/75/0191-01"
+      ]
+    },
+    {
+      "cite": "378 P.2d 97",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.Rptr. 873",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.2d 35",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4392961
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/59/0035-01"
+      ]
+    },
+    {
+      "cite": "221 Cal.Rptr. 425",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Cal.App.3d 266",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2182031
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/176/0266-01"
+      ]
+    },
+    {
+      "cite": "110 Cal.Rptr.3d 201",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Cal.App.4th 208",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4221069
+      ],
+      "pin_cites": [
+        {
+          "page": "221, fn. 5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/185/0208-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 601",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.Rptr.2d 352",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.4th 1226",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1992344
+      ],
+      "pin_cites": [
+        {
+          "page": "1236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/10/1226-01"
+      ]
+    },
+    {
+      "cite": "145 Cal.Rptr.3d 678",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "208 Cal.App.4th 462",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4257896
+      ],
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/208/0462-01"
+      ]
+    },
+    {
+      "cite": "110 P.3d 914",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.Rptr.3d 661",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.4th 797",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        873186
+      ],
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/35/0797-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1909,
+    "char_count": 63571,
+    "ocr_confidence": 0.933,
+    "pagerank": {
+      "raw": 1.062760601247656e-7,
+      "percentile": 0.5575126194615979
+    },
+    "sha256": "a8c2a14f26496340659b85c186c1108f2f96415647058b9640f42fc6d7066d64",
+    "simhash": "1:5af5fd424cf63ac6",
+    "word_count": 10436
+  },
+  "last_updated": "2024-02-27T21:47:11.428313+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Cantil-Sakauye, C. J., Werdegar, J., Chin, J., Corrigan, J., Cuéllar, J., and Kruger, J., concurred."
+    ],
+    "parties": [
+      "CAROL COKER, Plaintiff and Appellant, v. JPMORGAN CHASE BANK, N.A., et al., Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nLIU, J.\nUnder Code of Civil Procedure section 580b, when an individual borrows money from a bank to buy a home and the bank forecloses on the home, the bank can collect proceeds from the foreclosure sale but nothing more. The bank may not obtain a deficiency judgment against the borrower if the sale proceeds are not enough to repay the loan. At issue here is whether the statute’s antideficiency protection applies not only when a bank initiates a foreclosure sale, but also when a defaulting borrower arranges a short sale. In a short sale, the borrower sells the home to a third party for an amount that falls short of the outstanding loan balance; the lender agrees to release its lien on the property to facilitate the sale; and the borrower agrees to give all the proceeds to the lender. We hold, as the Court of Appeal did below, that the statute applies to short sales just as it does to foreclosure sales.\nI.\nIn reviewing a judgment sustaining a demurrer without leave to amend, we give the complaint a reasonable interpretation and treat the demurrer as admitting all material facts properly pleaded. (Fox v. Ethicon Endo-Surgery, Inc. (2005) 35 Cal.4th 797, 810 [27 Cal.Rptr.3d 661, 110 P.3d 914].) The operative complaint here alleges that on May 20, 2004, Carol Coker purchased a condominium in San Diego County with the help of a $452,000 loan from Valley Vista Mortgage Corporation. The loan was secured by a deed of trust recorded against the condominium. A few years later, Coker fell behind on her payments. On March 10, 2010, she received a “notice of default and election to sell” from Chase Home Linance, LLC, or JPMorgan Chase Bank, N.A. (Chase), Valley Vista’s successor in interest on the loan. As Chase began the foreclosure process, Coker asked Chase if it would release its security interest so that she could sell her property to a third party for $400,000.\nIn a June 21, 2010 letter to Coker, Chase provisionally approved the sale and agreed to release its security interest, subject to several conditions. First, ‘“[t]he borrower (seller) must net zero [from the sale]. All proceeds are to be remitted to the lender. . . . Neither the borrower nor any other party may receive any sales proceeds or any other funds as a result of this transaction.” Second, the letter identified the “Total Proceeds to be received by Chase” as “$375,061.86” (the sale price minus closing costs) and said that “Chase shall not accept less than the stated net amount.” Third, Chase reserved the right to rescind its approval of the sale “should any variances occur in the approved transaction,” including any additional costs that reduce Chase’s net proceeds, postponement of the closing, or untimely delivery of the final settlement statement to Chase. Fourth, the letter said: “The amount paid to Chase is for the release of Chase’s security interest(s) only, and the Borrower is still responsible for all deficiency balances remaining on the Loan, per the terms of the original loan documents.” Coker accepted Chase’s terms and sold her condominium to a third party for $400,000 on July 22, 2010.\nIn January 2011, Coker received a collection letter from an authorized agent of Chase, demanding the $116,686.89 balance remaining on her loan. Coker brought this declaratory judgment action, claiming (among other things) that Code of Civil Procedure section 580b prohibited Chase from collecting the deficiency. (All statutory references are to this code unless otherwise specified.) The trial court sustained Chase’s demurrer without leave to amend. But the Court of Appeal reversed, holding that any effort by Chase to recover the deficiency would be barred by section 580b and that Coker’s agreement to pay the deficiency balance was an unenforceable waiver of the statute’s protections. In so holding, the court explained that section 580b’s “protections apply after any sale, not just a foreclosure.” The court also rejected Chase’s contention that because Coker waived her rights under section 726, which requires a secured creditor to foreclose on a borrower’s property before seeking a personal judgment, section 580b does not apply. We granted review.\nII.\nWhen a borrower defaults on a loan secured by real property, the lender can use one of three procedures to recover the debt. First, the lender can initiate a judicial foreclosure by filing a lawsuit. (§ 725 a.) As the plaintiff in the suit, the lender must prove that “the subject loan is in default and the amount of default.” (Arabia v. BAC Home Loans Servicing, L.P. (2012) 208 Cal.App.4th 462, 470 [145 Cal.Rptr.3d 678] (Arabia).) If the lender proves its case, the court can order the sale of the property to satisfy the borrower’s debt. (§ 726.)\nSecond, the lender can initiate a nonjudicial foreclosure. (See Alliance Mortgage Co. v. Rothwell (1995) 10 Cal.4th 1226, 1236 [44 Cal.Rptr.2d 352, 900 P.2d 601].) The instrument that secures the loan (i.e., the deed of trust or mortgage) usually contains a power-of-sale clause, which gives the lender the right to sell the property without judicial supervision after the borrower defaults. (Ibid.) “Nonjudicial foreclosure is less expensive and more quickly concluded than judicial foreclosure, since there is no oversight by a court, ‘[n]either appraisal nor judicial determination of fair value is required,’ and the debtor has no postsale right of redemption.” (Ibid.) As a result, “nonjudicial foreclosure is ‘overwhelmingly preferred by lenders’ and is far more common than judicial foreclosure in California.” (Arabia, supra, 208 Cal.App.4th at p. 471; see Mabry v. Superior Court (2010) 185 Cal.App.4th 208, 221, fn. 5 [110 Cal.Rptr.3d 201].)\nThird, the lender can recover money from the defaulting borrower by facilitating a short sale. In a short sale, the lender agrees to release its lien on the borrower’s property so that the borrower can sell the property to a third party. In exchange, the borrower agrees to give the lender all of the proceeds from the sale. Both parties know that the sale proceeds will fall short of the total amount that the borrower owes. The Assembly Committee on Judiciary has observed that short sales “save banks millions in foreclosure costs” and can help homeowners “feel like they took responsibility for the obligation to pay [their creditors] back.” (Assem. Com. on Judiciary, Analysis of Sen. Bill No. 931 (2009-2010 Reg. Sess.) p. 61.) Although there were virtually no short sales in California in 2007, the number grew to a few thousand in 2008, to 90,000 in 2009, and to approximately 110,000 in 2010. (See Sen. Com. on Banking & Financial Institutions, Analysis of Sen. Bill No. 412 (2011-2012 Reg. Sess.) as amended Mar. 21, 2011, p. 2.)\nOur Legislature has enacted a cluster of statutes to protect borrowers who default on a loan secured by real property. (See 4 Witkin, Summary of Cal. Law (10th ed. 2005) Security Transactions in Real Property, § 179, p. 983.) Section 580d prohibits the holder of a note secured by a deed of trust from obtaining any deficiency judgment after the holder has exercised the power of sale in the trust deed. Section 580a limits any deficiency judgment that a junior lienholder can obtain after a nonjudicial foreclosure sale to the difference between the fair market value of the property and the amount of the outstanding debt. (See Walter E. Heller Western, Inc. v. Bloxham (1985) 176 Cal.App.3d 266, 272 [221 Cal.Rptr. 425].) Section 726 imposes a similar fair market value limitation on any deficiency judgment after a judicial foreclosure sale. The case before us concerns another statute in this cluster, section 580b.\nWhen an individual obtains a loan to purchase real property and uses the property as collateral, the transaction is called a purchase money loan. Section 580b addresses what happens when the proceeds from the sale of real property are not enough to satisfy the outstanding balance on a purchase money loan. In 2010, when Coker arranged the short sale of her condominium, section 580b read in relevant part: “No deficiency judgment shall lie in any event after a sale of real property or an estate for years therein for failure of the purchaser to complete his or her contract of sale, or under a deed of trust or mortgage given to the vendor to secure payment of the balance of the purchase price of that real property or estate for years therein, or under a deed of trust or mortgage on a dwelling for not more than four families given to a lender to secure repayment of a loan which was in fact used to pay all or part of the purchase price of that dwelling occupied, entirely or in part, by the purchaser.” (As amended by Stats. 1989, ch. 698, § 12, p. 2289; in this opinion, the term “section 580b” refers to this version of the statute.)\nThe statutory text indicates that when a homeowner defaults on a purchase money loan, section 580b prevents the lender from obtaining a deficiency judgment against the borrower. We have said this protection is “a stabilizing factor in land sales” for two reasons. (Roseleaf Corp. v. Chierighino (1963) 59 Cal.2d 35, 42 [27 Cal.Rptr. 873, 378 P.2d 97] (Roseleaf).) First, lenders are less likely to overvalue the homes they finance when they cannot hold homeowners personally liable for any deficiency. (Ibid.) Second, when an economic downturn causes widespread depression of property values, section 580b “prevents the aggravation of the downturn that would result if defaulting purchasers were burdened with large personal liability.” (Roseleaf, at p. 42.)\nIt is well established that section 580b protects a purchase money borrower after a judicial or nonjudicial foreclosure sale. (See Kurtz v. Calvo (1999) 75 Cal.App.4th 191, 194 [89 Cal.Rptr.2d 99]; Birman v. Loeb (1998) 64 Cal.App.4th 502, 506 [75 Cal.Rptr.2d 294].) The question here is whether the antideficiency protection of section 580b also applies after a short sale.\nIII.\n“We review de novo questions of statutory construction. In doing so, ‘ “our fundamental task is ‘to ascertain the intent of the lawmakers so as to effectuate the purpose of the statute.’ ” ’ [Citation.] As always, we start with the language of the statute, ‘giv[ing] the words their usual and ordinary meaning [citation], while construing them in light of the statute as a whole and the statute’s purpose [citation].’ [Citation.]” (Apple Inc. v. Superior Court (2013) 56 Cal.4th 128, 135 [151 Cal.Rptr.3d 841, 292 P.3d 883] (Apple).)\nA.\nChase reads section 580b to govern three scenarios in which there has been a sale of real property: “No deficiency judgment shall lie in any event after a sale of real property or an estate for years therein [1] for failure of the purchaser to complete his or her contract of sale, or [2] under a deed of trust or mortgage given to the vendor to secure payment of the balance of the purchase price of that real property or estate for years therein, or [3] under a deed of trust or mortgage on a dwelling for not more than four families given to a lender to secure repayment of a loan which was in fact used to pay all or part of the purchase price of that dwelling occupied, entirely or in part, by the purchaser.” (Bracketed numbers added.) On this reading, the term “under a deed of trust” in section 580b modifies the word “sale.” Chase argues that “a sale . . . under a deed of trust” plainly means a foreclosure sale, where the lender sells the home after default without the borrower’s consent; it does not mean a short sale, where the borrower voluntarily sells the home to a third party for less than the loan balance and the lender reconveys the deed of trust. According to Chase, “Section 580b does not apply to a short sale because such transactions are not involuntary sales conducted by a trustee or by the sheriff ‘under a deed of trust.’ ”\nIn an amici curiae brief, Housing and Economic Rights Advocates and other groups contend that the text of section 580b may be parsed differently so that the term “under a deed of trust” does not modify the word “sale.” They read the statute as follows: “No deficiency judgment shall lie in any event [1] after a sale of real property or an estate for years therein for failure of the purchaser to complete his or her contract of sale, or [2] under a deed of trust or mortgage given to the vendor to secure payment of the balance of the purchase price of that real property or estate for years therein, or [3] under a deed of trust or mortgage on a dwelling for not more than four families given to a lender to secure repayment of a loan which was in fact used to pay all or part of the purchase price of that dwelling occupied, entirely or in part, by the purchaser.” (Bracketed numbers added.) On this reading, no sale is required to trigger section 580b’s protection; the statute simply provides that “[n]o deficiency judgment shall lie in any event . . . under a deed of trust\nIn 2012, the Legislature reformatted section 580b to expressly parse the text in the manner urged by amici curiae. (Stats. 2012, ch. 64, § 1, subd. (a); see Stats. 2014, ch. 71, § 18 [same parsing in current version of the statute].) Chase concedes that the statutory text, when parsed this way, does not limit antideficiency protection to foreclosure sales and bars a purchase money lender from obtaining a deficiency judgment against a defaulting homeowner after a short sale. But Chase argues that the Legislature’s decision to reformat the statute in 2012 does not illuminate what section 580b meant at the time of Coker’s short sale in 2010. Chase observes that section 580b, as originally enacted in 1933, unambiguously referred to “any sale under a deed of trust” (Stats. 1933, ch. 642, § 5, p. 1673) and that there is no indication the Legislature intended to sever the semantic linkage between “sale” and “under a deed of trust” when it amended the statute in 1949 to apply to “any sale of real property for failure of the purchaser to complete his contract of sale, or under a deed of trust” (Stats. 1949, ch. 1599, § 1, p. 2846). Chase’s briefing also points out that “short sales were unknown when Section 580b was passed in 1933.”\nIn considering these competing interpretations of the “sale” clause in section 580b, we do not write on a blank slate. For more than half a century, this court has understood the statute to limit a lender’s recovery on a standard purchase money loan to the value of the security, no matter how the security has been exhausted—indeed, even if no sale has occurred under the deed of trust securing the unpaid loan. As explained below, our cases assigning to section 580b this broad construction have consistently looked to the purposes of the statute and to the substance rather than the form of loan transactions in deciding the statute’s applicability. The Legislature has never repudiated our basic approach to interpreting section 580b despite ample opportunities to do so. (See IBP, Inc. v. Alvarez (2005) 546 U.S. 21, 32 [163 L.Ed.2d 288, 126 S.Ct. 514] [“Considerations of stare decisis are particularly forceful in the area of statutory construction, especially when a unanimous interpretation of a statute has been accepted as settled law for several decades.”]; Cel-Tech Communications, Inc. v. Los Angeles Cellular Telephone Co. (1999) 20 Cal.4th 163, 178 [83 Cal.Rptr.2d 548, 973 P.2d 527] (Cel-Tech).) We must consider the question presented here in light of our well-developed case law.\nB.\nOur starting point is Brown v. Jensen (1953) 41 Cal.2d 193 [259 P.2d 425] (Brown). The borrowers in that case used two purchase money notes to buy real property. Glendale Federal Savings and Loan Association (Glendale) held one note secured by a first deed of trust on the property, and the seller, Estelle Brown, held the other note secured by a second deed of trust. When the borrowers defaulted, Glendale foreclosed on the property. The sale produced enough money to pay Glendale’s note, but Brown was left with nothing. Brown sued the borrowers for the outstanding balance on her note, arguing that section 580b did not apply because “there has not been a sale by plaintiff under her trust deed within the wording of section 580b.” (Brown, at p. 196.) Brown also argued that “the case is not one involving a ‘deficiency’ as there cannot be a deficiency if there is no security to sell because it presupposes a partial satisfaction of the debt by a sale which exhausts the security.” (Ibid.)\nIn a six-to-one decision, we rejected Brown’s arguments and held that section 580b protected the borrowers. The ground of our decision was not that the sale of the property under Glendale’s first deed of trust constituted “a sale . . . under a deed of trust” as those words are used in section 580b. Instead, we said that when it comes to a purchase money loan, ‘“[t]he one taking such a trust deed knows the value of his security and assumes the risk that it may become inadequate. ... It is true that [section 580b] speaks of a deficiency judgment after sale of the security but that means after an actual sale or a situation where a sale would be an idle act, where, as here, the security has been exhausted. The deficiency judgment which cannot be obtained is still a deficiency judgment even though it may consist of the whole debt because a deficiency is nothing more than the difference between the security and the debt . . . .” (Brown, supra, 41 Cal.2d at pp. 197-198, italics added.) Section 580b ‘“states that in no event shall there be a deficiency judgment, that is, whether there is a sale under the power of sale or sale under foreclosure, or no sale because the security has become valueless or is exhausted. The purpose of the ‘after sale’ reference in the section is that the security be exhausted . . . .” (Brown, at p. 198, second italics added.) ‘“[T]he purpose of section 580b,” we concluded, ‘“is that ‘. . . for a purchase money mortgage or deed of trust the security alone can be looked to for recovery of the debt.’ ” (Ibid., quoting Mortgage Guarantee Co. v. Sampsell (1942) 51 Cal.App.2d 180, 185 [124 P.2d 353].)\nWe subsequently found section 580b applicable in Bargioni v. Hill (1963) 59 Cal.2d 121 [28 Cal.Rptr. 321, 378 P.2d 593] (Bargioni), where a realtor brokered the sale of a motel and, as payment of his commission, accepted a promissory note from the purchaser secured by a second deed of trust. When the purchaser defaulted on her loan obligations, the senior lienholder foreclosed on the motel, leaving the second trust deed worthless. As in Brown, no sale had occurred under the second trust deed; the value of the security “'ha[d| been lost through a private sale under a senior trust deed.” (Bargioni, at p. 122.) When the realtor sought to collect on the promissory note, ‘“[t]he trial court found that the parties did not intend that plaintiff’s commission be part of the purchase price of the motel” and thus held section 580b inapplicable. (Bargioni, at p. 123.)\nWe held that the trial court’s ‘“finding [was] not supported by the evidence.” (Bargioni, supra, 59 Cal.2d at p. 123.) In a unanimous opinion, we explained that the arrangement between the realtor and purchaser was, in substance, a purchase money loan: The parties had signed a sale contract that obligated the seller to pay the realtor’s commission, but the purchaser thereafter agreed to pay the commission in exchange for a corresponding reduction in the sale price. ‘“Thus, in accepting [the purchaser’s] note in payment of the commission, [the realtor] extended credit that otherwise would have been extended by the seller. That credit was necessary to the consummation of the sale.” (Ibid.) The realtor “intended to and did partially finance the purchase. Since his note was secured by a trust deed on the motel, his recovery is barred by section 580b.” (Id. at pp. 123-124.) In Kistler v. Vasi (1969) 71 Cal.2d 261, 262 [78 Cal.Rptr. 170, 455 P.2d 106] (Kistler), another unanimous opinion, we cited Bargioni and Brown together for section 580b’s applicability to sold-out junior lienors seeking to recover on a purchase money loan.\nCornelison v. Kornbluth (1975) 15 Cal.3d 590 [125 Cal.Rptr. 557, 542 P.2d 981] (Cornelison) likewise demonstrates our emphasis on substance over form in construing section 580b. There we unanimously held that a judgment on a cause of action for waste could qualify as a “deficiency judgment” within the meaning of section 580b. (Cornelison, at pp. 603-604.) We acknowledged that “damages in an action for waste” are conceptually distinct from a deficiency judgment (id. at pp. 602-603) and that the two types of actions have distinct origins (id. at pp. 597-602). But we explained that “allowing an action for waste following a foreclosure sale of property securing purchase money mortgages may . . . burden the defaulting purchaser with both loss of land and personal liability and the acts giving rise to that liability would have been caused in many cases by the economic downturn itself. For example, a purchaser caught in such circumstances may be compelled in the normal course of events to forego the general maintenance and repair of the property in order to keep up his payments on the mortgage debt.” (Id. at p. 603.) In light of these economic realities, allowing an action for waste after a foreclosure sale “would seem ... to permit the purchase money lender to obtain what is in effect a deficiency judgment.” (Ibid.) We concluded that section 580b bars an action for waste after a foreclosure sale so long as the waste occurred “as a result of the economic pressures of a market depression” and not “bad faith acts” of the borrower. (Cornelison, at p. 604.)\nWhile consistently affirming that section 580b applies to standard purchase money transactions, we have found the statute inapplicable where the transaction at issue differed substantially from the standard scenario and where applying the statute would not further its purposes. In Roseleaf, supra, 59 Cal.2d 35, the Roseleaf Corporation sold a hotel to Willy Chierighino and his family for consideration that included a note secured by a first deed of trust on the hotel and three notes each secured by a second deed of trust on real property owned by Willy. After the hotel was sold, the senior lienholders on the three notes exercised the powers of sale in their first trust deeds. Those sales rendered valueless the second trust deeds held by Roseleaf, and Roseleaf sued to recover the unpaid amounts on the three notes. (Id. at p. 38.) We held that Roseleaf s action was not barred by section 580b. (Roseleaf, at p. 41.) “The issue here,” we said, “is whether the three second trust deeds on land other than that purchased are purchase money trust deeds because they were ‘given to secure payment of the balance of the purchase price of real property.’ [¶] Section 580b was apparently drafted in contemplation of the standard purchase money mortgage transaction, in which the vendor of real property retains an interest in the land sold to secure payment of part of the purchase price. Variations on the standard are subject to section 580b only if they come within the purpose of that section.” (Ibid., italics added.)\nRoseleaf found that the second trust deeds, unlike Roseleaf s first trust deed on the hotel, were not standard purchase money trust deeds. (Roseleaf supra, 59 Cal.2d at pp. 41-42.) We then asked whether barring Roseleaf s action would further the purpose of section 580b. We said: ‘“Section 580b places the risk of inadequate security on the purchase money mortgagee. A vendor is thus discouraged from overvaluing the security. Precarious land promotion schemes are discouraged, for the security value of the land gives purchasers a clue as to its true market value. [Citation.] If inadequacy of the security results, not from overvaluing, but from a decline in property values during a general or local depression, section 580b prevents the aggravation of the downturn that would result if defaulting purchasers were burdened with large personal liability.” (Roseleaf at p. 42.) In Roseleaf s case, we unanimously found ‘“no indication . . . that the hotel was overvalued” and ‘“no reason to assume that Roseleaf had any greater knowledge of the value of the Chierighinos’ land than did the Chierighinos.” (Id. at pp. 42-43.) We thus held section 580b inapplicable.\nIn Spangler v. Memel (1972) 7 Cal.3d 603 [102 Cal.Rptr. 807, 498 P.2d 1055] (Spangler), the borrowers obtained a $63,900 loan from the seller, May Spangler, to purchase a lot, with the mutual understanding that the loan would be subordinated to construction loans to develop the lot into a commercial office building. In return for Spangler’s agreement to subordinate her loan, the borrowers waived their protection from deficiency judgments. The borrowers then engaged a bank for a $408,000 construction loan secured by a first deed of trust. When the office project failed and the borrowers defaulted, the bank foreclosed on the property. The entirety of the proceeds went to satisfy the construction loan, rendering Spangler’s subordinated deed of trust valueless. Spangler sued the borrowers to enforce their personal guarantees on the note. The borrowers argued that the suit was barred by section 580b as construed in Brown, to which Spangler responded that Roseleaf had ‘“impliedly overruled Brown v. Jensen to the extent that section 580b cannot be applied to sold-out junior lienors seeking recovery of the purchase price.” (Spangler, at pp. 608-609.)\nIn a unanimous opinion, we ‘'reject]cd 1 [Spangler’s] dilution of Brown v. Jensen and reaffirm[ed] its continued vitality.” (Spangler, supra, 7 Cal.3d at p. 609.) We quoted Brown’s holding that section 580b ‘“states that in no event shall there be a deficiency judgment, that is, whether there is a sale under the power of sale or sale under foreclosure, or no sale because the security has become valueless or is exhausted” (Brown, supra, 41 Cal.2d at p. 198) and then said: ‘“We have never overruled or modified this central ruling that section 580b applies to a sold-out junior lienor holding such security for the payment of the balance of the purchase price.” (Spangler, at pp. 609-610.) After reviewing Roseleaf, Bargioni, and Kistler, we observed that Brown's ruling ‘“applies automatically” to a standard purchase money loan. (Spangler, at p. 611.)\nHowever, “if the transaction in question is a variation on the standard purchase money mortgage or deed of trust transaction, it should be examined so as to determine whether it subserves the purposes of section 580b as explicated by us in Roseleaf and Bargioni.” (Spangler, supra, 7 Cal.3d at p. 611.) Applying this inquiry, we concluded that “the subordination clause situation is sufficiently different from the standard purchase money mortgage situation to remove it from automatic application of section 580b.” (Id. at pp. 611-612.) We went on to explain that the purposes of section 580b would not be served by applying the statute to “the typical subordination clause situation” where “the vendor is selling the property for commercial development.” (Spangler, at p. 613.) Because “the security value of the land at the time of the agreement gives neither vendor nor purchaser any clue as to its true market value,” applying section 580b would not deter overvaluation of real property. (Spangler, at p. 613.) Further, because “the success of the commercial development depends upon the competence, diligence and good faith of the developing purchaser,” it seems “proper, therefore, that the purchaser not the vendor bear the risk of failure, particularly since in the event of default, the junior lienor vendor will lose both the land and the purchase price.” (Ibid.) For these reasons, we held section 580b inapplicable and affirmed the judgment in Spangler’s favor.\nWe discussed the limits of Spangler in DeBerard Properties, Ltd. v. Lim (1999) 20 Cal.4th 659 [85 Cal.Rptr.2d 292, 976 P.2d 843] (DeBerard), where we held unenforceable a defaulting borrower’s waiver of section 580b’s protection given as consideration for the vendor’s agreement to ease the terms of a purchase money loan. The vendor relied on Spangler, but we said “Spangler . . . creates only a narrow exception to the scope of section 580b, and we decline to create another one here.” (DeBerard, at p. 664.) We explained that Spangler applies only when “a pronounced intensification of the property’s anticipated post-sale use both requires and eventually results in construction financing that dwarfs the property’s value at the time of sale”; when the purchaser is “in a much better position than the vendor to assess the property’s possible value and to understand the risks involved in capitalizing on the property’s potential”; and when applying section 580b would saddle the vendor with “a commercially unreasonable burden” because the success of the property’s commercial development is within the purchaser’s control. (DeBerard, at p. 666.) Seeing none of the three factors at play on the facts of DeBerard, we held that section 580b barred the sold-out vendor lienor from suing the borrowers to collect on a promissory note. (DeBerard, at pp. 667-668.)\nC.\nFrom this review of the case law, it is evident that in determining the reach of section 580b, we have focused on the substance rather than form of the loan transaction in question, and our decisions have concluded that the statute limits a lender’s recovery on any standard purchase money loan, regardless of how the security has been exhausted and regardless of whether a sale has occurred under the deed of trust securing the unpaid loan. In Cornelison, we held that the term “deficiency judgment” in section 580b encompasses damages in an action for waste because such damages can “in effect,” even if not in form, amount to a deficiency judgment. (Cornelison, supra, 15 Cal.3d at p. 603.) In Bargioni, we rejected the parties’ and trial court’s characterization of the debt as payment of a commission and instead found that the debt was part of the purchase price based on the economics of the transaction. (Bargioni, supra, 59 Cal.2d at pp. 123-124; see Enloe v. Kelso (2013) 217 Cal.App.4th 877, 881 [158 Cal.Rptr.3d 881] [“In determining whether section 580b applies, courts look to the substance of the transaction, not its form.”].) In Spangler, we distinguished between standard and nonstandard purchase money loan transactions and “held that section 580b did not apply to the facts at issue, notwithstanding the statute’s absolute bar to deficiency judgments in purchase money secured land sales.” (DeBerard, supra, 20 Cal.4th at p. 664, citing Spangler, supra, 7 Cal.3d 603.)\nAnd in Brown, we held that section 580b applies to “a situation where a sale would be an idle act” because “the security has been exhausted.” (Brown, supra, 41 Cal.2d at pp. 197-198.) Chase’s main contention—that section 580b applies only “after there has been a foreclosure sale”—is belied by Brown, Bargioni, and DeBerard, all of which found section 580b applicable where no sale had occurred under the trust deed held by the lender seeking to recover on the note. “The purpose of the ‘after sale’ reference in [section 580b] is that the security be exhausted . . . .” (Brown, at p. 198.) If this purpose can be satisfied where there was “no sale because the security has become valueless or is exhausted” (ibid.), it is hard to see why it cannot be satisfied where there was an actual sale that, like a foreclosure sale, exhausted the security’s value and conveyed the entire value to the lender.\nIn DeBerard, we distilled “a two-part inquiry” to determine the applicability of section 580b: “does the sale vary from a standard purchase money transaction, and if so, does applying section 580b’s antideficiency protection comport with the Legislature’s intent? Section 580b applies unless the answer to the first question is yes and the answer to the second question is no.” (DeBerard, supra, 20 Cal.4th at p. 665.) As we explain, the first step of the inquiry resolves the matter before us.\n1.\nThe loan at issue in this case was a standard purchase money mortgage. As amici curiae observe, Coker “did nothing more than buy a home to live in using purchase money financing. She did not buy the property as investment or commercial property, did not develop it, and did not refinance it or obtain construction financing to materially increase its value. There is nothing distinctive to remove her purchase money mortgage from the mass mainstream of home purchase transactions.” The parties do not dispute that when Coker obtained the loan, “[t]he present security value of the property . . . [was] a reliable indicator of its actual fair market value,” and Coker was in no better position than Chase to assess any future risk to the security’s value resulting from an economic downturn. (Spangler, supra, 7 Cal.3d at p. 611.) Because this case involves a standard purchase money loan, section 580b “applies automatically” here. (Spangler, at p. 611.)\nChase resists this conclusion by arguing that the short sale agreement “transformed the purchase money loan from a secured to an unsecured loan,” thereby removing it from the ambit of section 580b. In support of this contention, Chase quotes language in DeBerard that says a lender may “ ‘destroy the purchase money nature of the transaction by reconveying the deed or mortgage on the original real estate.’ ” (DeBerard, supra, 20 Cal.4th at p. 669.) But Chase ignores the full quotation from DeBerard, which says a purchase money creditor seeking to insulate itself from the risk of another creditor’s foreclosure may “ ‘destroy the purchase money nature of the transaction by reconveying the deed or mortgage on the original real estate in exchange for the substitution of other security: ” (Id. at p. 669, italics added.) There was no substitution of other security here; Chase agreed to reconvey the deed in anticipation of realizing the full value of its security. DeBerard did not hold that reconveyance in such circumstances destroys the purchase money nature of a loan.\nFurthermore, Chase did not actually reconvey the deed when it agreed to the short sale. In its June 21, 2010 letter approving the sale, Chase advised Coker that 'this is not the final approval for the referenced sale.” Chase conditioned reconveyance of the deed upon its receipt of “[a]ll proceeds” from the sale by the July 25, 2010 closing date, with a requirement that the proceeds amount to no “less than the stated net amount” of $375,061.86. If there was “a postponement of the closing” or ‘“any variances ... in the approved transaction,” Chase reserved the right to ‘“rescind its approval of the sale,” in which case it would have continued to possess the security it had before. In other words, Chase agreed to release its lien only upon consummation of the sale; thus, at every moment, Chase held either the security or its entire liquidated value. As amici curiae explain, ‘“[t]here was never a moment when . . . Ms. Coker owned the property free of Chase’s lien, leaving Chase entirely unsecured. Chase’s lien remained in place up to the point the sale closed and Chase received over $375,000 in satisfaction of its lien. At that point, the security having been exhausted, Chase had only an unsecured claim for a deficiency.”\nChase contends that the June 21, 2010 letter conditionally approving the short sale ‘“prevented Chase from proceeding with foreclosure” prior to the July 25, 2010 closing date. But even so, a temporary and conditional suspension of Chase’s right to foreclose did not destroy the purchase money character of the loan. Chase retained the trust deed until the sale closed, and this enabled Chase to dictate the terms of the sale. Chase’s letter did not leave the note unsecured upon a mere expectation of payment; the letter said, ‘“The amount paid to Chase is for the release of Chase’s security interest(s) . . . .” (Italics added.) The short sale never put Chase at risk of losing the value of its security; the sale terms guaranteed that Chase would either capture that value or else continue to retain the trust deed. In essence, Chase reserved the right to foreclose if it did not timely receive the agreed-upon value of the property. The substance of this arrangement belies Chase’s contention that its assent to the short sale destroyed its security and transformed the secured purchase money loan into an unsecured loan. The short sale, like a foreclosure sale, allowed Chase to realize and ‘'exhaust] |” its security. (Brown, supra, 41 Cal.2d at p. 198.)\nChase relies on Jack Erickson & Associates v. Hesselgesser (1996) 50 Cal.App.4th 182 [57 Cal.Rptr.2d 591] (Jack Erickson), but that case is distinguishable. There the borrower obtained two loans to buy a house to fix up and quickly resell: a senior loan from Great Western Savings (Great Western) and a junior loan from Jack Erickson & Associates (Jack Erickson) due in one year. Over a year later, the borrower decided to rebuild most of the house and asked Jack Erickson to subordinate its purchase money note to a $300,000 construction loan from Union Bank. Jack Erickson agreed so long as the borrower gave his personal guarantee on the note. When the borrower defaulted, the banks foreclosed. A week before the foreclosure, the borrower sold the property and, in exchange for Jack Erickson’s reconveyance of its trust deed to facilitate the sale, agreed that the reconveyance would not prejudice Jack Erickson’s right to collect on the purchase money note. The sale proceeds covered only the Great Western loan and part of the Union Bank loan. Jack Erickson was left with nothing and sued the borrower. (Id. at pp. 184-185.)\nThe Court of Appeal rejected the borrower’s argument that section 580b barred the suit. Citing Spangler s holding that “a nonstandard purchase money transaction can result in the waiver of section 580b,” the court reasoned that when a borrower decides to make significant changes to the property affecting its security value, the borrower should bear the risk that the property will not sell for what he expects. (Jack Erickson, supra, 50 Cal.App.4th at p. 186.) The court found irrelevant the fact that the subordination was ‘“contemporaneous to the sale” and not, as in Spangler, agreed upon at the outset of the loan. (Jack Erickson, at pp. 186-187.) Instead, the court emphasized that the borrower, after taking a standard purchase money loan from Jack Erickson, “changed plans midstream” and asked Jack Erickson to subordinate to a construction loan. (Id. at p. 187.) Then, “with the knowledge that real estate prices were falling,” the borrower “tore down most of the house, added 1,000 square feet to the residence, rebuilt the garage and added a maid’s quarters, and constructed a second garage.” (Id. at p. 188.) These changes “entailed unique risks and jeopardized [Jack Erickson’s] security” in ways it could not have foreseen “when the purchase money deed of trust was executed.” (Ibid.) The court thus concluded that the borrower, “by his conduct, waived the protection of section 580b when he asked [Jack Erickson] to subordinate to the construction loan.” (Ibid.)\nAlthough this reasoning by analogy to Spangler was sufficient to resolve the case, the court in Jack Erickson added four sentences at the end of its opinion: “A second waiver occurred when [the borrower] induced [Jack Erickson] to execute a deed of reconveyance and sold the property. [Jack Erickson] was left without security. [¶] It is well established that unsecured purchase money notes are not subject to section 580b. [Citations.] We reject the argument that [the borrower] could extinguish the security interest, sell the property to a third party, and invoke section 580b to shift the loss of the ill-fated project to [Jack Erickson].” (Jack Erickson, supra, 50 Cal.App.4th at pp. 188-189.)\nChase reads these sentences as authority for the proposition that section 580b does not apply to short sales. Setting aside whether the sentences are dicta, it is clear that the short sale in Jack Erickson was quite different from the short sale at issue in this case. In Jack Erickson, unlike here, the lender agreed to subordinate its priority in exchange for the borrower’s personal guarantee. Thus, the loan was already outside section 580b’s protective scope—because the subordination agreement had changed the nature of the risk to which Jack Erickson was exposed (Jack Erickson, supra, 50 Cal.App.4th at pp. 187-188)—before the short sale agreement was reached or executed. Moreover, as a result of the sale, Jack Erickson was, realistically speaking, left without security; it had no deed of trust, and it received none of the sale proceeds. The borrower had significantly changed the property’s use and put Jack Erickson’s security at risk. Here, by contrast, the short sale was expressly designed to facilitate Chase’s recovery of the security’s entire value, and there is no allegation that Coker changed the property’s use or put its value at risk. Jack Erickson's fact-specific analysis of a nonstandard home mortgage does not bar section 580b’s applicability to short sales in the context of a standard purchase money mortgage like Coker’s.\n2.\nOur analysis above reaffirms and applies the rule that section 580b “applies automatically” to a standard purchase money loan, thereby obviating the need to “determine whether it subserves the purposes of section 580b.” (Spangler, supra, 1 Cal.3d at p. 611.) But Chase contends that we should not extend this established rule to short sales because it would not further section 580b’s purpose of deterring overvaluation of property or its purpose of stabilizing the economy in times of distress. We disagree with Chase’s policy arguments for exempting short sales from the analytical framework set forth in Spangler.\nAs to the first purpose, Chase argues that “[a] holding that Section 580b applies to short sales will have no effect on future loan decisions” because section 580e, enacted after Coker’s short sale, prospectively bars lenders from recovering any deficiency on a purchase money home loan after a short sale. But whether or not our decision in this case will affect future loan decisions, the question before us is whether section 580b’s applicability to short sales would have deterred overvaluation before section 580e came into existence, when Coker obtained her loan and bought her home. On this question, Chase argues that applying section 580b to short sales would have fueled borrower speculation and overvaluation, citing Justice Kennard’s observation in DeBerard that “section 580b encourages buyers to offer more than the market value of the property because they know that in the case of default they will not be personally liable for any deficiency.” (DeBerard, supra, 20 Cal.4th at p. 672 (conc. opn. of Kennard, J.).) But this is a general argument against our settled understanding that section 580b serves to deter overvaluation; the same criticism applies to antideficiency protection after a foreclosure sale, and we have implicitly rejected it in our cases construing section 580b, including DeBerard. (See DeBerard, at p. 663.) Further, Chase says section 580b’s applicability to foreclosure sales “provides ample deterrence to overvaluation.” But even if so, Chase’s assertion that section 580b’s applicability to short sales “would not provide additional deterrence to lender overvaluation of real property” does not follow.\nAs to the statute’s further purpose of economic stabilization, Chase argues that a defaulting borrower who wants antideficiency protection always has the option to insist that the lender foreclose. But section 580b is not merely concerned with the welfare of individual borrowers. We have said it is “a macroeconomic stabilization measure” to ensure that ‘“purchasers as a class are harmed less than they might otherwise be during a time of economic decline [so that] the economy benefits.” (DeBerard, supra, 20 Cal.4th at p. 663, italics added.) This purpose is equally served by applying section 580b whether defaulting borrowers have lost their homes by foreclosure or a short sale. Chase further contends that it is “highly debatable and far from certain” that applying section 580b to short sales would prevent aggravation of an economic downtown, citing studies claiming that “antideficiency laws incen-tivize borrowers otherwise capable of maintaining their debt payments to strategically default in numbers that saturate the market” and “create additional downward pressures on residential housing values.” But again, this is a general argument against antideficiency laws that our cases have implicitly rejected; it is not an argument for why our settled understanding of section 580b’s macroeconomic stabilization purpose should apply only to foreclosure sales and not short sales. Indeed, none of the studies cited by Chase even mentions short sales, much less distinguishes them from foreclosure sales.\nChase’s overall argument with respect to statutory purpose is that “resolv[ing] the debate as to the wisdom of extending antideficiency protections to short sales” is “a legislative task.” Although this is true, it remains our responsibility to decide whether section 580b, properly construed, had already resolved the debate at the time of Coker’s sale. The rule then, as now, is that section 580b “applies automatically” to a standard purchase money loan (Spangler, supra, 7 Cal.3d at p. 611), and Chase has not convinced us that the rule should govern only foreclosure sales and not short sales. Because Coker’s short sale did not change the standard purchase money character of her loan, section 580b applies automatically here.\n3.\nHaving concluded that section 580b applies to Coker’s short sale, we further hold that Coker could not validly waive section 580b’s protection in exchange for Chase’s approval of the short sale. “Any one may waive the advantage of a law intended solely for his benefit. But a law established for a public reason cannot be contravened by a private agreement.” (Civ. Code, § 3513.) “[A] key purpose of section 580b is to stabilize the state’s economy, to the benefit of all. The public benefit section 580b provides is one of its primary purposes.” (DeBerard, supra, 20 Cal.4th at p. 669.)\nIn DeBerard, we held that a borrower cannot waive section 580b’s protection in exchange for the lender’s agreement to ease the terms of the loan. (DeBerard, supra, 20 Cal.4th at p. 667.) Quoting Palm v. Schilling (1988) 199 Cal.App.3d 63, 76 [244 Cal.Rptr. 600], we said: “ ‘The explicit language of section 580b brooks no interpretation other than that deficiency judgments are prohibited by the purchase money mortgagee so long as a purchase money mortgage or deed of trust is in effect on the original property. To allow a purchase money creditor to circumvent the absolute rule by enforcing a . . . waiver of section 580b in exchange for other concessions would [flout] the very purpose of the rule. If the purchase money creditor retains an interest in the original property, the debtor cannot be held for a deficiency. If the purchase money creditor does not wish to accept the risk that the property will be lost through foreclosure by another secured creditor, the remedy is to either foreclose himself or destroy the purchase money nature of the transaction . . . ” (DeBerard, at p. 663, alterations in DeBerard.)\nChase argues that Coker’s waiver falls outside the rule of DeBerard because Chase, instead of retaining the security interest, “destroyed” it by agreeing to the short sale. But we have rejected Chase’s contention that its conditional approval of the short sale destroyed its security; the sale terms provided that Chase would reconvey the trust deed only if and when it received the entire value of its security from the sale. Coker’s secured purchase money loan was not transformed into an unsecured loan. Under DeBerard, Coker’s purported waiver of section 580b’s protection was invalid.\nD.\nChase makes two additional arguments based on legislative history and context: first, that the Legislature could not have intended section 580b to apply to short sales because short sales were unknown when section 580b was passed in 1933, and second, that the Legislature’s recent enactment of section 580e casts doubt on section 580b’s applicability to short sales. We address each in turn.\n1.\nEven if short sales were unknown in 1933 (or in 1989 when the Legislature enacted the version of § 580b that controls this case), that does not mean section 580b cannot apply to a lender whose secured interest is exhausted in a short sale. “Fidelity to legislative intent does not ‘make it impossible to apply a legal text to [transactions] that did not exist when the text was created. . . . Drafters of every era know . . . that the rules they create will one day apply to all sorts of circumstances they could not possibly envision.’ ” (Apple, supra, 56 Cal.4th at p. 137, quoting Scalia & Garner, Reading Law: The Interpretation of Legal Texts (2012) pp. 85-86.)\nOur holding that section 580b applies when a lender’s security is exhausted in a short sale follows from principles elaborated in our case law over several decades. The Legislature has never cast doubt on our repeated articulation of section 580b’s purposes or our consistent approach of evaluating the statute’s applicability in light of those purposes—even as the Legislature has amended section 580b twice between 1953, when we decided Brown, and 2010, when Coker sold her home.\nIn 1963, after our decision in Bargioni, the Legislature amended the statute to make clear that section 580b applies to a third party purchase money lender (i.e., a lender who is not the vendor of the property), as Bargioni held, but only where the borrower purchases “a dwelling for not more than four families . . . occupied, entirely or in part, by the purchaser.” (Stats. 1963, ch. 2158, § 1, p. 4500; see Kistler, supra, 71 Cal.2d at p. 263.) In essence, the 1963 amendment partially codified and cut back on our interpretation of section 580b in Bargioni. But the Legislature did not abrogate Brown’s holding that section 580b applies ‘“whether there is a sale under the power of sale or sale under foreclosure, or no sale because the security has become valueless or is exhausted.” (Brown, supra, 41 Cal.2d at p. 198.) Nor did it repudiate Roseleaf s statement of the statute’s purposes or its assertion that section 580b applies to nonstandard purchase money loan transactions ‘“if they come within the purpose of that section.” (Roseleaf, supra, 59 Cal.2d at p. 41.)\nSimilarly, in 1989, the Legislature expanded section 580b to protect borrowers after a sale of real property ‘“or an estate for years therein.” (Stats. 1989, ch. 698, § 12, p. 2289.) But the 1989 amendment did nothing to undermine Spanglers approval of Brown (Spangler, supra, 7 Cal.3d at pp. 609-610) or Spanglers statement that section 580b’s applicability turns on ‘“whether it subserves the purposes of [the statute] as explicated by us in Roseleaf and Bargioni” (Spangler, at p. 611). Nor did the Legislature disturb our holding in Cornelison that section 580b bars an action for waste if the action would ‘“permit . . . what is in effect a deficiency judgment.” (Cornelison, supra, 15 Cal.3d at p. 603.)\n‘“When a statute has been construed by the courts, and the Legislature thereafter reenacts that statute without changing the interpretation put on that statute by the courts, the Legislature is presumed to have been aware of, and acquiesced in, the courts’ construction of that statute.” (People v. Bouzas (1991) 53 Cal.3d 467, 475 [279 Cal.Rptr. 847, 807 P.2d 1076].) As with most canons of statutory construction, the applicability of this guideline varies with context. (Compare Wilkoff v. Superior Court (1985) 38 Cal.3d 345, 353 [211 Cal.Rptr. 742, 696 P.2d 134], with Olson v. Automobile Club of Southern California (2008) 42 Cal.4th 1142, 1156 [74 Cal.Rptr.3d 81, 179 P.3d 882].) Here “there exists both a well-developed body of law interpreting a statutory provision and numerous amendments to a statute without altering” our understanding of the statute’s purposes or the approach our cases have taken to determining its applicability. (Olson, at p. 1156; see Cel-Tech, supra, 20 Cal.4th at p. 178 [judicial construction of a statute should be followed where courts have adhered to that construction “for almost half a century” and where the Legislature has amended the statute “numerous times” without disturbing that construction]; People v. Latimer (1993) 5 Cal.4th 1203, 1213 [23 Cal.Rptr.2d 144, 858 P.2d 611] [“ ‘Considerations of stare decisis have special force in the area of statutory interpretation . . . .’”].) Although the Legislature had no occasion to consider short sales in 1933, it has since had many occasions to consider—and yet it has never repudiated—the judicially elaborated principles and interpretive approach that lead us to find section 580b equally applicable to short sales and foreclosure sales.\n2.\nChase further argues that when the Legislature finally decided to address short sales, it enacted section 580e in 2010 after Coker’s sale and intended that provision to be the only source of antideficiency protection for borrowers who conduct a short sale. As originally enacted, section 580e said in relevant part: “No judgment shall be rendered for any deficiency under a note secured by a first deed of trust or first mortgage for a dwelling of not more than four units, in any case in which the trustor or mortgagor sells the dwelling for less than the remaining amount of the indebtedness due at the time of sale with the written consent of the holder of the first deed of trust or first mortgage. Written consent of the holder of the first deed of trust or first mortgage to that sale shall obligate that holder to accept the sale proceeds as full payment and to fully discharge the remaining amount of the indebtedness on the first deed of trust or first mortgage.” (Stats. 2010, ch. 701, § 1; the statute was later amended in ways not relevant here.)\nAccording to Chase, section 580e does not apply retroactively to protect borrowers who, like Coker, arranged a short sale before the statute was enacted. In addition, section 580e does not extend antideficiency protection to corporations, limited liability companies, limited partnerships, or political subdivisions (§ 580e, subd. (d)(1)), nor does it protect borrowers who commit waste (§ 580e, subd. (c)). Chase argues that it would have made no sense for the Legislature to enact this nuanced, forward-looking statute “if the Legislature had believed that Section 580b already prohibited deficiency judgments after a short sale even if the borrower was a corporation, LLC or partnership.”\nBut whatever the Legislature may have believed about section 580b’s applicability to short sales when it enacted section 580e cannot dictate the proper construction of section 580b as it stood at the time of Coker’s short sale. That is because the statute then in effect was enacted by the Legislature in 1989. (See Bruesewitz v. Wyeth LLC (2011) 562 U.S. 223, 242 [179 L.Ed.2d 1, 131 S.Ct. 1068] [“[p]ost-enactment legislative history (a contradiction in terms) is not a legitimate tool of statutory interpretation” because ‘“by definition [it] ‘could have had no effect on the [Legislature’s] vote’ ”].) Even assuming the Legislature intended section 580e to operate prospectively, the fact is that the Legislature did not limit or otherwise alter section 580b when it enacted section 580e. Although the Legislature may have believed that henceforth only section 580e and not section 580b would govern short sales, ‘“a legislative declaration of an existing statute’s meaning is neither binding nor conclusive in construing the statute. Ultimately, the interpretation of a statute is an exercise of the judicial power the Constitution assigns to the courts.” (Western Security Bank v. Superior Court (1997) 15 Cal.4th 232, 244 [62 Cal.Rptr.2d 243, 933 P.2d 507].)\nAs for Chase’s concern that our holding will ‘“allow corporate borrowers and others who would otherwise be ineligible for protection under Section 580e to obtain the identical protection under Section 580b,” it is evident that section 580b’s applicability to third party lenders excludes loans to corporate borrowers, since the borrower must have used the loan to purchase ‘“a dwelling for not more than four families” that is ‘“occupied, entirely or in part, by the purchaser.” (§ 580b.) More generally, it is not clear that a borrower ineligible for antideficiency protection under section 580e could today obtain such protection under section 580b in light of the Legislature’s reenactments of section 580b after it enacted section 580e. (Stats. 2012, ch. 64, § 1; Stats. 2013, ch. 65, § 2; Stats. 2014, ch. 71, § 18; see Schatz v. Allen Matkins Leck Gamble & Mallory LLP (2009) 45 Cal.4th 557, 573 [87 Cal.Rptr.3d 700, 198 P.3d 1109] [statutes must be ‘“viewed in light of the presumption against implied repeal”].) In any event, we need not decide in this case whether section 580b and section 580e ever conflict or how such conflict should be settled. Our only task is to determine the meaning of section 580b as it stood at the time of Coker’s short sale, before section 580e was enacted. The case before us presents no occasion to resolve any tension or interplay between section 580b and section 580e.\nIV.\nFinally, we address Chase’s contention that even if section 580b applies to short sales, it cannot apply here because Coker waived her rights under section 726. Section 726, subdivision (a) says: ‘“There can be but one form of action for the recovery of any debt or the enforcement of any right secured by mortgage upon real property or an estate for years therein . . . .” In other words, ‘“[a] secured creditor can bring only one lawsuit to enforce its security interest and collect its debt.” (Security Pacific National Bank v. Wozab (1990) 51 Cal.3d 991, 997 [275 Cal.Rptr. 201, 800 P.2d 557] (Wozab).) Further, section 726 establishes what is known as the ‘“security first” rule: A secured creditor must ‘“rely upon his security before enforcing [the] debt.” (Roseleaf, supra, 59 Cal.2d at p. 38.)\nIn Wozab, we observed that ‘“the operation of section 726 is in large part within the control of the debtor. If a secured creditor brings an action on the debt before foreclosing the security, the debtor can interpose sechon 726 as an affirmative defense, thereby requiring the creditor to exhaust the security before he may obtain a money judgment against the debtor. If the debtor does not raise the statute as an affirmative defense, the creditor’s action on the debt is allowed to proceed to judgment. The creditor, however, is precluded from thereafter foreclosing on the security. He is deemed to have elected his remedy.” (Wozab, supra, 51 Cal.3d at pp. 1004-1005.)\nRelying on Bank of America, N.A. v. Roberts (2013) 217 Cal.App.4th 1386 [159 Cal.Rptr.3d 345] (Roberts), Chase contends that ‘“a borrower who requests and acquiesces in a short sale waives her rights under Sechon 726.” In Roberts, a borrower obtained a non-purchase money loan from Bank of America and used her home as collateral. In order to avoid foreclosure, the borrower arranged a short sale other property. Bank of America consented to the short sale in exchange for the borrower’s promise to remain personally liable for the total amount of her loan. After the sale, Bank of America sued to recover the debt. The borrower claimed that section 726 barred the suit, arguing that ‘“judicial foreclosure was the only form of action allowable for collecting on a debt secured by real estate, and inasmuch as [Bank of America] chose not to pursue a foreclosure action, it is barred from obtaining a deficiency judgment.” (Roberts, at pp. 1395-1396.) The Court of Appeal rejected this argument. (Id. at pp. 1396-1398.) Because the borrower “sought and obtained [Bank of America]’s consent for a short sale that required the release of [the bank’s security interest],” the court explained, the borrower could not “be heard to complain that [Bank of America] did not bring a foreclosure action against her.” (Id. at p. 1398.)\nLike the borrower in Roberts, Coker asked her lender to consent to a short sale in lieu of a foreclosure sale. As a result, Coker cannot complain that Chase failed to bring a foreclosure action rather than a breach of contract action. Indeed, Coker never complained that Chase brought the wrong kind of lawsuit against her; she has instead maintained that Chase could not bring any kind of recovery action because the short sale triggered the protections of section 580b. We find Roberts’s reasoning apt and agree with Chase that Coker waived her rights under sechon 726.\nBut the court in Roberts had no occasion to consider the relationship between section 726 and section 580b because that case did not involve a purchase money loan. (See Roberts, supra, 217 Cal.App.4th at p. 1390.) Here we must consider both statutes, and we note that section 726 and section 580b play different roles. Section 726 requires a lender to follow a particular procedure to collect a defaulting borrower’s assets: The lender must foreclose on the security before it collects anything else, and it must collect everything it is owed in a single action. (Wozab, supra, 51 Cal.3d at pp. 997-998.) Section 580b places a limit on the assets a lender can collect from a purchase money borrower: The lender can collect the full value of its security, but it cannot collect anything else. (DeBerard, supra, 20 Cal.4th at p. 663.) Here, Coker waived her right to make Chase follow the procedures outlined in section 726 when she asked Chase to consent to a short sale. But the fact that Coker waived her right to insist that Chase proceed via foreclosure does not mean that the short sale agreement destroyed the purchase money nature of the loan or that Chase became entitled to collect more than the value of its security. Once Chase realized and exhausted the full value of its security, section 580b prevented Chase from seeking to obtain Coker’s other assets. When a borrower waives her rights under section 726 by agreeing to a short sale, section 580b remains a barrier to any deficiency judgment after the lender collects the full value of its security from the sale.\nCONCLUSION\nFor the reasons above, we affirm the judgment of the Court of Appeal.\nCantil-Sakauye, C. J., Werdegar, J., Chin, J., Corrigan, J., Cuéllar, J., and Kruger, J., concurred.",
+        "type": "majority",
+        "author": "LIU, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Aimee Feinberg; Stilwell & Associates and Andrew R. Stilwell for Plaintiff and Appellant.",
+      "Elizabeth S. Letcher; Kent Qian; Arthur D. Levy; Hunter Landerholm; and Sarah Steinheimer for Housing and Economic Rights Advocates, National Housing Law Project, Neighborhood Legal Services of Los Angeles County, California Homeowner Bill of Rights Collaborative, Legal Services of Northern California and Public Counsel as Amici Curiae on behalf of Plaintiff and Appellant.",
+      "AlvaradoSmith, John M. Sorich, S. Christopher Yoo, Jenny L. Merris; Arnold & Porter, Peter Obstler, Jerome B. Palk, Jr., Steven L. Mayer, Marjory A. Gentry and Ginamarie Caya for Defendants and Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. S213137.\nJan. 21, 2016.]\nCAROL COKER, Plaintiff and Appellant, v. JPMORGAN CHASE BANK, N.A., et al., Defendant and Respondent.\nCounsel\nAimee Feinberg; Stilwell & Associates and Andrew R. Stilwell for Plaintiff and Appellant.\nElizabeth S. Letcher; Kent Qian; Arthur D. Levy; Hunter Landerholm; and Sarah Steinheimer for Housing and Economic Rights Advocates, National Housing Law Project, Neighborhood Legal Services of Los Angeles County, California Homeowner Bill of Rights Collaborative, Legal Services of Northern California and Public Counsel as Amici Curiae on behalf of Plaintiff and Appellant.\nAlvaradoSmith, John M. Sorich, S. Christopher Yoo, Jenny L. Merris; Arnold & Porter, Peter Obstler, Jerome B. Palk, Jr., Steven L. Mayer, Marjory A. Gentry and Ginamarie Caya for Defendants and Respondents."
+  },
+  "file_name": "3083-01",
+  "first_page_order": 699,
+  "last_page_order": 724
+}

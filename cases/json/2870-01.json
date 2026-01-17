@@ -1,0 +1,96 @@
+{
+  "id": 12301898,
+  "name": "Reverse Mortgage Solutions, Inc., Plaintiff, v. Lawrence Curren, Also Known as Lawrence E. Curren, et al., Defendants",
+  "name_abbreviation": "Reverse Mortgage Solutions, Inc. v. Curren",
+  "decision_date": "2017-07-26",
+  "docket_number": "",
+  "first_page": "1164",
+  "last_page": "1166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 1164"
+    },
+    {
+      "type": "parallel",
+      "cite": "60 N.Y.S.3d 778"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Misc 3d 582",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4031554
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/43/0582-01"
+      ]
+    },
+    {
+      "cite": "113 AD3d 62",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3904992
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/113/0062-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 3312,
+    "ocr_confidence": 0.756,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2503908529030071
+    },
+    "sha256": "a24c90d15b364e541434c2db8744ee2c77c35b6ff68786716c2e646126773ee9",
+    "simhash": "1:af06fb8a6e7a7e02",
+    "word_count": 529
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reverse Mortgage Solutions, Inc., Plaintiff, v Lawrence Curren, Also Known as Lawrence E. Curren, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJudith F. O’Shea, J.\nFindings of Fact\nOn or about February 11, 2009, defendant entered into a “reverse mortgage” agreement with World Alliance Financial Corporation. The subject property of the mortgage lien is 64 Rolling Acres Road, Pine City, New York. On or about April 17, 2010, the mortgage was assigned to Residential Mortgage Services, Inc. On or about July 18, 2010, the mortgage was then assigned to plaintiff.\nThe instant action was initiated by the filing of a summons and complaint on June 8, 2016. In its complaint, plaintiff alleged that defendant defaulted on the terms of the mortgage by failing to pay real estate taxes in February 2016. Under the terms of the note and mortgage, plaintiff declared the loan in default, and due in full in an amount of $152,524.78 plus interest, disbursements, and other fees.\nA request for judicial intervention was filed with the court on May 30, 2017. On that same date, plaintiff filed a motion for an order of reference, requesting that the court appoint a referee. Defendant opposes plaintiff’s motion, alleging that plaintiff proceeded without the completion of a mandatory settlement conference, as required by CPLR 3408.\nConclusions of Law\nIn response to the ongoing foreclosure crisis, the New York State Legislature enacted a number of procedural and substantive protections for homeowners defending a foreclosure action involving their primary residence. (See Independence Bank v Valentine, 113 AD3d 62 [2d Dept 2013].) Among these new protections was the enactment of CPLR 3408, which, in its original form, provided for a mandatory foreclosure settlement conference in a residential foreclosure action involving a high-cost home loan or a subprime or nontraditional home loan, as those terms were statutorily defined. The statute was later amended to apply to all residential foreclosure actions involving a primary residence. (JP Morgan Chase Bank, N.A. v Casanova, 43 Misc 3d 582 [Sup Ct, Westchester County 2014].)\nOn April 20, 2017, CPLR 3408 was further amended, in that the phrase “other than a reverse mortgage” was deleted as an exception to the definition of a home loan in RPAPL 1304. Additionally, RPAPL 1304 was amended to include language stating, “A home loan shall include a loan secured by a reverse mortgage.” The effective date of this legislation was set retroactively to December 21, 2016. (See L 2017, ch 58, § 3.)\nCPLR 3408 and its implementing regulation, Uniform Rules for Trial Courts (22 NYCRR) § 202.12a, state that residential mortgage foreclosure actions that meet the definition of a home loan shall be scheduled for a settlement conference within 60 days of the filing of a request for judicial intervention. With the 2017 amendments, this now also applies to residential foreclosures on reverse mortgages.\nIn the case at bar, a mandatory foreclosure settlement conference, pursuant to CPLR 3408, has not been held.\nIt is therefore, ordered that plaintiff’s motion for an order of reference is denied, without prejudice.",
+        "type": "majority",
+        "author": "Judith F. O’Shea, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Loudie Valcourt Srebnick for plaintiff.",
+      "Phillip J. Barton for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[60 NYS3d 778]\nReverse Mortgage Solutions, Inc., Plaintiff, v Lawrence Curren, Also Known as Lawrence E. Curren, et al., Defendants.\nSupreme Court, Chemung County,\nJuly 26, 2017\nAPPEARANCES OF COUNSEL\nLoudie Valcourt Srebnick for plaintiff.\nPhillip J. Barton for defendants."
+  },
+  "file_name": "2870-01",
+  "first_page_order": 1164,
+  "last_page_order": 1166
+}

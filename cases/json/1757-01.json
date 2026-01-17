@@ -1,0 +1,718 @@
+{
+  "id": 12279849,
+  "name": "State of Wisconsin, Plaintiff-Respondent, v. Samuel Silverstein, Defendant-Appellant",
+  "name_abbreviation": "State v. Silverstein",
+  "decision_date": "2017-08-01",
+  "docket_number": "No. 2016AP1464-CR",
+  "first_page": "42",
+  "last_page": "64",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "378 Wis. 2d 42"
+    },
+    {
+      "type": "parallel",
+      "cite": "902 N.W.2d 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "2017 WI App 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis. Ct. App.",
+    "id": 15300,
+    "name": "Wisconsin Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "29 N.Y.S.3d 110",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.3d",
+      "case_ids": [
+        4236120
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "117",
+          "parenthetical": "rejecting defendant's characterization of ESP as a confidential informant requiring additional police corroboration"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/51/1035-01"
+      ]
+    },
+    {
+      "cite": "719 S.E.2d 533",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        12166951
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/312/0638-01"
+      ]
+    },
+    {
+      "cite": "986 P.2d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        245019
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1043",
+          "parenthetical": "discussing cases nationwide where citizen tips supported traffic stops and stating that such tips are \"high on the reliability scale\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/267/0694-01"
+      ]
+    },
+    {
+      "cite": "720 N.E.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "513",
+          "parenthetical": "finding information provided by identified citizen sufficiently credible without police corroboration"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "462 F. Supp. 2d 812",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        5804532
+      ],
+      "pin_cites": [
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/462/0812-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. § 2711",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. § 2510",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(15)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. § 6773",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(l)(P)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wis. 2d 130",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        2242686
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "143-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/170/0130-01"
+      ]
+    },
+    {
+      "cite": "70 Wis. 2d 179",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672255
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/70/0179-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782877
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "108-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0104-01"
+      ]
+    },
+    {
+      "cite": "227 Wis. 2d 389",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11481802
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/227/0389-01"
+      ]
+    },
+    {
+      "cite": "112 Wis. 2d 166",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673918
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/112/0166-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 948.12",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WI 91",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        4000299
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/328/0289-01"
+      ]
+    },
+    {
+      "cite": "2010 WI 17",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        5748101
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/323/0321-01"
+      ]
+    },
+    {
+      "cite": "769 N.W.2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "318 Wis. 2d 60",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        3771447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/318/0060-01"
+      ]
+    },
+    {
+      "cite": "2009 WI 58",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 WI 112",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        9292049
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/264/0520-01"
+      ]
+    },
+    {
+      "cite": "958 So. 2d 455",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8310486
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "458",
+          "parenthetical": "holding that \"AOL's compliance with a federal law mandating that it report Woldridge's activities to NCMEC provides a presumption of reliability akin to that afforded a citizen informant\""
+        },
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/958/0455-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122945
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0325-01"
+      ]
+    },
+    {
+      "cite": "2006 WI App 261",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        8370910
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/298/0099-01"
+      ]
+    },
+    {
+      "cite": "80 Wis. 2d 225",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672383
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/80/0225-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187462
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "238"
+        },
+        {
+          "page": "238"
+        },
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0213-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 727",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205246
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0727-01"
+      ]
+    },
+    {
+      "cite": "155 Wis. 2d 119",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8668079
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "133",
+          "parenthetical": "quoting Massachusetts v. Upton, 466 U.S. 727, 733 (1984)"
+        },
+        {
+          "parenthetical": "quoting Massachusetts v. Upton, 466 U.S. 727, 733 (1984)"
+        },
+        {
+          "page": "132-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/155/0119-01"
+      ]
+    },
+    {
+      "cite": "162 Wis. 2d 978",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667345
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "989"
+        },
+        {
+          "page": "989"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/162/0978-01"
+      ]
+    },
+    {
+      "cite": "2009 WI 32",
+      "category": "reporters:neutral",
+      "reporter": "WI",
+      "case_ids": [
+        3768735
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 3"
+        },
+        {
+          "page": "¶ 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/317/0012-01"
+      ]
+    },
+    {
+      "cite": "886 N.W.2d 100",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "No. 2015AP996"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WI App 70",
+      "category": "reporters:neutral",
+      "reporter": "WI App",
+      "case_ids": [
+        12172414
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "parenthetical": "No. 2015AP996"
+        },
+        {
+          "parenthetical": "No. 2015AP996"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/371/0647-01"
+      ]
+    },
+    {
+      "cite": "Wis. Stat. § 939.617",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "weight": 8,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "(2)"
+        },
+        {
+          "page": "¶¶ 8,15"
+        },
+        {
+          "page": "¶¶ 8, 11"
+        },
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wis. 2d 451",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8668883
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/138/0451-01"
+      ]
+    },
+    {
+      "cite": "181 Wis. 2d 372",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8666111
+      ],
+      "weight": 9,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "381"
+        },
+        {
+          "page": "379"
+        },
+        {
+          "page": "378"
+        },
+        {
+          "page": "381"
+        },
+        {
+          "page": "381",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "379"
+        },
+        {
+          "page": "379"
+        },
+        {
+          "page": "381",
+          "parenthetical": "\"The warrant-issuing [magistrate] could reasonably conclude that [the citizen] was credible because he was a citizen informant who had experience [relevant to his observations], and no information suggested he was not credible.\" (Emphasis added.)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/181/0372-01"
+      ]
+    },
+    {
+      "cite": "50 Wis. 2d 619",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8671388
+      ],
+      "weight": 7,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "630"
+        },
+        {
+          "page": "630-31"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/50/0619-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1278,
+    "char_count": 28821,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 8.611735680820908e-8,
+      "percentile": 0.49033051733904176
+    },
+    "sha256": "8d87e8e51389075a4b9c78865104d4aa6c44af40c9b802acaa5b6dcf7c59953b",
+    "simhash": "1:4e89c0d3bacfe73a",
+    "word_count": 4671
+  },
+  "last_updated": "2024-02-27T21:03:02.532561+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Brennan, P.J., Brash, and Dugan, JJ."
+    ],
+    "parties": [
+      "State of Wisconsin, Plaintiff-Respondent, v. Samuel Silverstein, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "¶ 1.\nBRENNAN, RJ.\nSamuel Silverstein appeals from a judgment of conviction, entered on his guilty plea, for three counts of possession of child pornography. Silverstein first argues that the trial court erred in denying his motion to suppress the evidence recovered from his computer after the search of his home pursuant to a warrant. He contends that the affidavit for the search warrant failed to state probable cause because it was based on \"the uncorroborated tip of an anonymous informant.\" The informant was Tumblr-.com (\"Tumblr\"), an electronic service provider (\"ESP\") required by federal law to report suspected child pornography to the National Center for Missing and Exploited Children (\"NCMEC\"), which in turn provided the information to the police.\n¶ 2. We conclude, based on Wisconsin case law regarding citizen informants found in State v. Paszek, 50 Wis. 2d 619, 630, 184 N.W.2d 836 (1971), and State v. Kerr, 181 Wis. 2d 372, 381, 511 N.W.2d 586 (1994), that a tip from an ESP is properly viewed as one from an identified citizen informant, not an anonymous informant, which therefore establishes the personal reliability requirement in our case law. Additionally, the affidavit here also shows sufficient indicia of observational reliability of the ESP. Therefore, applying the \"great deference\" we pay to a determination of probable cause, see State v. Anderson, 138 Wis. 2d 451, 469, 406 N.W.2d 398 (1987), we conclude that the warrant-issuing magistrate \"had a substantial basis for concluding that a search would uncover evidence of wrongdoing.\" See id. Accordingly, we uphold the determination.\nf 3. Silverstein also raises a constitutional challenge to his sentence. He argues that Wis. Stat. § 939.617 (2015-16) violated due process requirements of fair notice because it failed to provide clear guidance for those who enforce and apply the law and created uncertainty about whether he would be subject to a mandatory minimum three-year sentence or could instead receive a lesser sentence. In State v. Holcomb, 2016 WI App 70, 371 Wis. 2d 647, 886 N.W.2d 100, this court interpreted § 939.617 and concluded that the statute's language was \"plain and unambiguous\" and required a mandatory minimum sentence for all defendants more than four years older than the child victims. Id,., ¶ 15. This court concluded that \"[t]he only reasonable construction\" of the statute requires the imposition of a mandatory minimum sentence. Id., f 11. We find Holcomb's holding dispositive of the due process fair notice issue.\n¶ 4. We reject Silverstein's arguments and affirm.\nBACKGROUND\n¶ 5. This case has a fact pattern common in internet child pornography cases. A private company providing internet services discovers images of suspected child pornography in a user's account and then, pursuant to federal law, forwards information about the images and the user's account to NCMEC. NCMEC is directed by federal law to serve as a clearinghouse for such tips and as a liaison to law enforcement. As NCMEC describes its role in the report generated in this case, \"When a Reporting ESP voluntarily reports an IP [Internet Protocol] address for the 'User or Person Being Reported,' NCMEC Systems will geographically resolve the IP address via a publicly-available online search.\" In other words, NCMEC identifies where the IP address identified in the ESP's tip is located. Then, pursuant to federal law, NCMEC sends both the original tip and its geographic information to relevant federal and state law enforcement agencies. Law enforcement agencies then investigate and obtain search warrants, and may make arrests. That was the process followed here as set forth in the affidavit for the search warrant.\nf 6. In this case, the initial tip was provided to NCMEC by Tumblr, a social media web site that allows account holders to publicly post images to blogs. According to the warrant affidavit,\nThe NCMEC Cybertip listed the reporting agency was Tumblr. Said report indicated on 06/01/15 at about 17:45:00 UTC, Tumblr created a report regarding \"Child Pornography\" related to URL: \"famousenemy-land.tumblr.com\" with email ssilver58@att.net and IP Address 99.185.140.72.\n¶ 7. In a page from the NCMEC \"CyberTipline Report\" that was attached to the affidavit, the \"[s]ub-mitter\" is identified as:\nTumblr\nMahashraya Sundararaman\n¶ 8. According to the affidavit for the warrant, NCMEC reported that the Tumblr tip identified specific file names for nine still images and a video depicting child pornography. After receiving the information from Tumblr, NCMEC added the state, city, zip code, area code, and internet service provider for the IP address associated with the nine still images and one video. On July 9, 2015, NCMEC sent the information in two separate tip reports to the Bayside Police Department.\n¶ 9. The warrant affidavit, signed by Detective Bryan Bichler of the Glendale Police Department and attached to eleven pages from the NCMEC reports, further states that through subpoenas and search warrants, Officer Ryan Bowe of the Bayside Police Department determined that the subscriber using the identified IP address was Sam Silverstein of 6898 N. Seville Ave. in Glendale. A search warrant was issued on Detective Bidder's affidavit, and Silverstein's house was searched.\n¶ 10. Police found a flash drive containing videos ranging in length from one minute to twenty-three minutes. The videos portrayed females estimated to be four to fourteen years old engaged in sexual activity; seven of the videos depicted sex acts involving a female child and an adult male. Silverstein admitted the drive belonged to him, waived his rights, and made statements to police acknowledging that he possessed the images \"for his own purposes\" and that he \"may have\" posted screen captures from the videos to his Tumblr account. The complaint explains that one video contained a picture that matched the third image in the cyber tip, and a second video contained two of the still images (images numbered four and five) reported in the cyber tip.\nf 11. Based on his possession of ten videos found on the drive, Silverstein was charged with ten counts of possession of child pornography, a Class D felony. Silverstein challenges here, as he did below, the search warrant application on the grounds that it lacked probable cause due to the insufficiency of the tip from Tumblr through NCMEC to the police. Here a circuit court judge signed the search warrant, approving the application. Silverstein challenged the search warrant, and the recovery of the computer and images, with a motion to suppress before the circuit court but was unsuccessful.\n¶ 12. After the trial court denied Silverstein's motion to suppress, he pled guilty, pursuant to a plea agreement, to three counts and the remaining seven were dismissed and read in. He now appeals the conviction raising again the constitutional challenge to the search warrant's sufficiency and adding another, a due process challenge to the application of the minimum mandatory sentence requirements of Wis. Stat. § 939.617 to his sentence.\nDISCUSSION\nI. We uphold the determination that the affidavit stated probable cause to issue a search warrant.\nA. The standard of review.\n¶ 13. A court reviewing a challenge to probable cause for the issuance of a search warrant \"examines the totality of the circumstances presented to the warrant-issuing commissioner to determine whether the warrant-issuing commissioner had a substantial basis for concluding that there was a fair probability that a search of the specified premises would uncover evidence of wrongdoing.\" State v. Romero, 2009 WI 32, ¶ 3, 317 Wis. 2d 12, 765 N.W.2d 756. This is a totality of the evidence test. Id. \"We accord great deference to the warrant-issuing judge's determination of probable cause, and that determination will stand unless the defendant establishes that the facts are clearly insufficient to support a finding of probable cause.\" State v. Higginbotham, 162 Wis. 2d 978, 989, 471 N.W.2d 24 (1991). The deferential standard of review is \" 'appropriate to further the Fourth Amendment's strong preference for searches conducted pursuant to a warrant.' \" State v. DeSmidt, 155 Wis. 2d 119, 133, 454 N.W.2d 780 (1990) (quoting Massachusetts v. Upton, 466 U.S. 727, 733 (1984)). \"The evidence necessary to establish probable cause to issue a search warrant is less than that required to support a bindover following a preliminary examination.\" Kerr, 181 Wis. 2d at 379. On review, we are confined to the record that was before the warrant-issuing commissioner. See id. at 378.\nB. Law regarding sufficiency of applications for warrants to search: Identified citizen informants vs. anonymous citizen informants.\n¶ 14. Review of the sufficiency of an affidavit necessarily focuses on personal and observational reliability of the informant. \"In examining whether probable cause existed, we first consider the 'veracity' and 'basis of knowledge' of persons supplying the hearsay information.\" Id. at 381. See also Illinois v. Gates, 462 U.S. 213, 238 (1983). The test is different for identified citizen informants and anonymous police informants. \" '[W]hen an average citizen tenders information to the police, the police should be permitted to assume that they are dealing with a credible person in the absence of special circumstances suggesting that such might not be the case.' \" Kerr, 181 Wis. 2d at 381 (citations omitted). See also State ex rel. Sieloff v. Golz, 80 Wis. 2d 225, 249, 258 N.W.2d 700 (1977); Paszek, 50 Wis. 2d at 630-31.\n¶ 15. \"Our courts recognize the importance of citizen informants and accordingly apply a relaxed test of reliability that shifts from a question of 'personal reliability' to one of'observational reliability.'\" State v. Kolk, 2006 WI App 261, ¶ 13, 298 Wis. 2d 99, 726 N.W.2d 337 (citation omitted). \"However, 'there must be some type of evaluation of the reliability of victim and witness informants, although the standard to be applied is much less stringent.'\" Id. (citation omitted). Observational reliability is described in this way: \"(T)he reliability of such a person should be evaluated from the nature of his report, his opportunity to hear and see the matters reported, and the extent to which it can be verified by independent police investigation.\" Id. (citation omitted).\n¶ 16. With an anonymous informant, by contrast, the test focuses on personal reliability and police corroboration. As noted by the Wisconsin Supreme Court in Paszek, 50 Wis. 2d at 630, \"the traditional police informer [s]\" are usually criminals themselves and the information \"is not given in the spirit of a concerned citizen, but often is given in exchange for some concession, payment, or simply out of revenge against the subject.\" Id. Accordingly, the court concluded that \"it is proper to demand that some evidence of their credibility and reliability be shown.\" Id. As a contrast, the court pointed out that an ordinary citizen is more reliable because he or she intends to aid the police in law enforcement out of concern for society or safety and does not expect any gain or concession in exchange for the information. Id. at 630.\nC. Silverstein's arguments.\n¶ 17. Silverstein argues that the Glendale detective's affidavit in support of the search warrant failed to establish probable cause, giving three reasons, all of which relate to the reliability of the tip from Tumblr to NCMEC.\n¶ 18. First, he argues that the Tumblr tip was unreliable because \"[njothing in the affidavit or attached NCMEC paperwork indicates who at Tumblr came to suspect criminal activity.\" Therefore, he analogizes it to a tip from an anonymous informant which requires police corroboration. For this proposition, he cites to language in Kolk: \"Both [a confidential informant and a citizen informant] may be distinguished from an anonymous informer, one whose identity is unknown even to the police and whose veracity must therefore be assessed by other means, particularly police corroboration.\" Kolk, 298 Wis. 2d 99, ¶ 12 (citing Alabama v. White, 496 U.S. 325, 329 (1990)). He argues that no police corroboration occurred here and thus the Tumblr tip lacks reliability.\n¶ 19. We do not agree that the Tumblr tip is an anonymous tip. Most obviously, as the State points out, the name of a person, Mahashraya Sundararaman, is included as the \"submitter\" on the initial report to NCMEC. Because the identity of the informant is known, the tip in this case is more analogous to a tip from a citizen informant. But even if the identity of the submitter were not known, Tumblr is not an anonymous entity in the context of the categories recognized in case law. First, Tumblr is not a criminal giving information to obtain a concession. Rather, Tumblr is a named, traceable entity that is reporting a crime in furtherance of public safety. And Tumblr gains nothing from making the tip. Further, as an ESP, Tumblr is under federal mandate to report suspected child abuse to NCMEC. We note that courts in other jurisdictions have held that this obligation itself heightens the reliability of the tip. See State v. Woldridge, 958 So. 2d 455, 458 (Fla. Dist. Ct. App. 2007) (holding that \"AOL's compliance with a federal law mandating that it report Woldridge's activities to NCMEC provides a presumption of reliability akin to that afforded a citizen informant\").\n¶ 20. Second, Silverstein argues that even if the tip is from an identified citizen informant, the tip does not satisfy the requirement that an affidavit provide some type of evaluation of reliability for such a tip, in terms of observational reliability, i.e., \"the nature of [the] report, [the] opportunity to hear and see the matters reported, and the extent to which it can be verified by independent police investigation.\" See Kolk, 298 Wis. 2d 99, 1 13 (citation omitted).\n¶ 21. He points to three defects in the affidavit relative to the Tumblr tip: that there are discrepancies between the affidavit and the attached documentation as to certain details, that there is no answer provided of \"how Tumblr came to suspect child pornography,\" and that the affidavit lacks evidence that police took \"any steps to verify\" the statement in the NCMEC report that Tumblr had alleged that child pornography was found on the blog associated with Silverstein's account.\nf 22. None of the missing information is fatal to probable cause, and Silverstein points to no case where a warrant affidavit was found insufficient for lack of the details he identifies. The well-established test for probable cause is that it is \"flexible,\" Kerr, 181 Wis. 2d at 379, and is \"a practical commonsense decision,\" Gates, 462 U.S. at 238, that is made considering \"the totality of the circumstances.\" Romero, 317 Wis. 2d 12, ¶ 3. Prove-up of every detail is not required in a warrant affidavit, as is consistent with the policy that is designed to encourage law enforcement to obtain search warrants in the first place. See DeSmidt, 155 Wis. 2d at 132-33. The level of probable cause required for a search warrant affidavit is lower than that for even bindover at the preliminary hearing stage. Kerr, 181 Wis. 2d at 379. Additionally, the standard of review accords \"great deference\" to the warrant-issuing court's determination, see Higgenbotham, 162 Wis. 2d at 989.\n¶ 23. More particularly, the observational reliability is well established here. Not only is Tumblr required to report criminal images from blogs it hosts, its employees are in the position to see the blogs and know identifying features of the blog poster. Here its own records identified the name of Silverstein's blog, his email address (ssilver58@att.net), and his IP address.\n¶ 24. Third, Silverstein argues that Romero requires that an affidavit must show \"whether the de-clarant had a basis for his or her allegations,\" and that this requirement is not satisfied in this case because the affiant was a Glendale police officer who did not explain how Tumblr came to know about the tip it passed on to NCMEC. He argues that without the detail provided, \"it could be the product of rumor or speculation.\" In this he apparently challenges Tum-blr's credibility. Again, the particular details Silver-stein is seeking were already provided or are not required. The affiant knew how Tumblr came to know about the pornographic images—it was required to check for them by federal law. The affidavit stated that Tumblr was the reporting agency, and the affidavit gave the date and time that the report was created. It described the images discovered and provided the file names. In the pages of the NCMEC report attached to the affidavit, the NCMEC report showed the name of the submitting person and company. The Bayside officer traced the IP address to Silverstein's home in Glendale, and the Glendale officer applied for and executed the search warrant. The establishment of probable cause is not defeated by the absence of further detail.\n¶ 25. In fact, police corroboration did occur here in that Officer Bowe did review the Tumblr images and confirmed they depicted criminal activity and verified that the email name and address were consistent with the identity of the individual who lived at the residence to be searched. Furthermore, Silverstein has not provided any basis for the warrant-issuing magistrate to conclude that the Tumblr source was not credible. See Kerr, 181 Wis. 2d at 381 (\"The warrant-issuing [magistrate] could reasonably conclude that [the citizen] was credible because he was a citizen informant who had experience [relevant to his observations], and no information suggested he was not credible.\" (Emphasis added.)).\n¶ 26. We conclude that the warrant-issuing magistrate had a substantial basis for concluding that probable cause existed. See Gates, 462 U.S. at 239. We therefore affirm the court's determination that the affidavit stated probable cause to search Silverstein's residence.\nII. Silverstein's constitutional due process challenge to his sentencing under Wis. Stat. § 939.617(2).\nA. Standard of review.\n¶ 27. The constitutionality of a statute is a question of law, which we review de novo. State v. Cole, 2003 WI 112, ¶ 10, 264 Wis. 2d 520, 665 N.W.2d 328. Statutes are presumed to be constitutional, and a party challenging a statute's constitutionality must demonstrate that it is unconstitutional beyond a reasonable doubt. State v. Baron, 2009 WI 58, ¶ 10, 318 Wis. 2d 60, 769 N.W.2d 34. This presumption and burden apply to as-applied constitutional challenges to statutes as well as to facial challenges. State v. Wood, 2010 WI 17, ¶ 15, 323 Wis. 2d 321, 780 N.W.2d 63. Whether a defendant's right to due process was violated also presents a question of law that we review de novo. State v. McGuire, 2010 WI 91 ¶ 26, 328 Wis. 2d 289, 786 N.W.2d 227.\nB. Relevant law.\nThe mandatory minimum sentence statute.\n¶ 28. Wisconsin Stat. § 939.617, Minimum sentence for certain child sex offenses, requires sentencing courts to impose specific sentences for violations of Wis. Stat. § 948.12, the child pornography statute, and creates a limited exception to the mandatory minimum. It states as follows:\n(1) Except as provided in subs. (2) and (3), if a person is convicted of a violation of s. ... 948.12, the court shall impose a bifurcated sentence under s. 973.01. The term of confinement in prison portion of the bifurcated sentence shall be ... 3 years for violations of s. 948.12. Otherwise the penalties for the crime apply, subject to any applicable penalty enhancement.\n(2) If the court finds that the best interests of the community will be served and the public will not be harmed and if the court places its reasons on the record, the court may impose a sentence that is less than the sentence required under sub. (1) or may place the person on probation under any of the following circumstances:\n(a) If the person is convicted of a violation of s. 948.05, the person is no more than 48 months older than the child who is the victim of the violation.\n(b) If the person is convicted of a violation of s. 948.12, the person is no more than 48 months older than the child who engaged in the sexually explicit conduct.\n(Emphasis added.)\nThe requirements of due process.\n¶ 29. \"Due process requires that the law set forth fair notice of the conduct prohibited or required and proper standards for enforcement of the law and adjudication.\" State v. Popanz, 112 Wis. 2d 166, 172, 332 N.W.2d 750 (1983). \"[A] statute is void for vagueness if it fails to give notice to those wishing to obey the law that their conduct falls within the proscribed area, or if it fails to provide those who must enforce and apply the law objective standards with which to do so.\" State v. Curiel, 227 Wis. 2d 389, 415, 597 N.W.2d 697 (1999). \"[I]f arbitrary and discriminatory enforcement is to be prevented, laws must provide explicit standards for those who apply them.\" Grayned v. City of Rockford, 408 U.S. 104, 108-09 (1972). \"A vague law impermis-sibly delegates basic policy matters to policemen, judges, and juries for resolution on an ad hoc and subjective basis, with the attendant dangers of arbitrary and discriminatory application.\" Id.\nC. Silverstein's argument.\n¶ 30. Silverstein argues that the mandatory minimum statute is unconstitutionally vague because the legislature failed to prevent arbitrary and discriminatory enforcement of the child pornography statutes. In support of his argument, he cites in his brief a dozen cases where, he alleges, the mandatory minimum was not interpreted by various circuit courts to apply as it was interpreted to apply to him by the circuit court.\n¶ 31. Wisconsin Stat. § 939.617(2), the subsection at issue, describes the circumstances under which \"the court may impose a sentence that is less than the sentence required under sub. (1).\" Silverstein argues that the statute was drafted in a way that rendered it unconstitutionally vague because under one reading of the statute, the exception applies only \"if the person is no more than 48 months older than the child who engaged in the sexually explicit conduct,\" and under a second reading of the statute, the exception applies if \"the court finds that the best interests of the community will be served and the public will not be harmed and if the court places its reasons on the record\"— regardless of the age of the person.\n¶ 32. We first note that it is well established that differences in sentences for defendants who appear to be similarly situated does not generally serve as grounds for relief. See, e.g., Ocanas v. State, 70 Wis. 2d 179, 189, 233 N.W.2d 457 (1975); State v. Perez, 170 Wis. 2d 130, 143-44, 487 N.W.2d 630 (Ct. App. 1992). Thus we are unpersuaded by Silverstein's reliance on the fact that some other circuit courts have apparently interpreted Wis. Stat. § 939.617 the way that Silver-stein advocates.\nf 33. More importantly, we fundamentally disagree with the premise of Silverstein's argument: that there is more than one way to read the statute. In Holcomb, 371 Wis. 2d 647, this court interpreted Wis. Stat. § 939.617 and concluded that the interpretation requiring a mandatory minimum sentence for all defendants except certain youthful offenders is \"plain and unambiguous\" and \"does not support\" a second interpretation. Id., ¶¶ 8,15. This court concluded that \"[t]he only reasonable construction\" of the statute requires the imposition of a mandatory minimum sentence for all except those defendants who are less than forty-eight months older than the child-victim. Id., ¶¶ 8, 11. Holcomb was addressing a statutory construction question, not a constitutional argument, but its holding is equally dispositive of the due process fair notice issue. We therefore reject Silverstein's fair notice argument and affirm.\nBy the Court.—Judgment affirmed.\nAll references to the Wisconsin Statutes are to the 2015-16 version unless otherwise noted.\nIn State v. Holcomb, this court addressed and rejected Holcomb's statutory argument—-the same argument Silver-stein made at the trial court—that the legislature intended for Wis. Stat. § 939.617(1) to permit departures from the mandatory minimum for all defendants. A petition for supreme court review of that case was pending at the time this case was appealed. Our supreme court denied the petition for review on December 13, 2016. State v. Holcomb, 2016 WI App 70, 371 Wis. 2d 647, 886 N.W.2d 100, review denied (WI Dec. 13, 2016) (No. 2015AP996).\nThe requirement for such entities to report any individual who appears to have violated federal child pornography law is found at 18 U.S.C. §§ 2258A(a)(l) and (b)(1); they must \"make a report of such facts or circumstances to the [NCMEC] CyberTipline,\" and provide, where possible, \"electronic mail address, Internet Protocol address, uniform resource locator, or any other identifying information, including self-reported identifying information[.]\" § 2258A (b)(1). Penalties for knowingly and willfully failing to report are set forth in § 2258A(e) (fines up to $300,000).\nAs provided by 42 U.S.C. § 6773(b)(l)(P)(i), NCMEC is funded in order to \"operate a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the areas of. . . possession, manufacture, and distribution of child pornography!.]\" The relevant definitions for electronic service provider and electronic communication service are found in 18 U.S.C. § 2510(15) and 18 U.S.C. § 2711.\nThe log-in page at the Tumblr.com describes the web site as follows:\nTumblr is so easy to use that it's hard to explain. We made it really, really simple for people to make a blog and put whatever they want on it. Stories, photos, GIFs, TV shows, links, quips, dumb jokes, smart jokes, Spotify tracks, mp3s, videos, fashion, art, deep stuff. Tumblr is 353 million different blogs, filled with literally whatever.\nSee Tumblr, https://www.tumblr.com/login (last visited June 29, 2017).\n\"UTC[,] Coordinated Universal Time (or Universal Time Coordinated) [,] is the standard time common to every place in the world, formerly called Greenwich Mean Time[.]\" Estate of Srock v. United States, 462 F. Supp. 2d 812, 815 (E.D. Mich.2006).\nIt is not disputed that the images constituted child pornography, and we therefore do not further detail the contents.\nThe Honorable Stephanie Rothstein was the judge who approved and signed the search warrant.\nWisconsin's approach mirrors that of other jurisdictions in typically crediting identified citizen informants with greater reliability than anonymous citizen informants. See City of Maumee v. Weisner, 720 N.E.2d 507, 513 (Ohio 1999) (finding information provided by identified citizen sufficiently credible without police corroboration); State v. Slater, 986 P.2d 1038, 1043 (Kan. 1999) (discussing cases nationwide where citizen tips supported traffic stops and stating that such tips are \"high on the reliability scale\").\nThe State and Silverstein agree that the informant in this case is Tumblr. See Manzione v. State, 719 S.E.2d 533, 537 (Ga. Ct. App. 2011); State v. Woldridge, 958 So. 2d 455, 459 (Fla. Dist. Ct. App. 2007).\nThe State and Silverstein both describe the affidavit's attached NCMEC report as missing every second page, as a result of what appears to have been a clerical error.\nThe State directs our attention to cases from other jurisdictions that have held that an ESP such as Tumblr is a reliable source for a tip regarding the discovery of child pornography. Our review of these cases does not reveal any inclination by courts to apply the heightened requirements Silverstein would have us apply. For example, one court noted, \"[T]he federal courts, having addressed numerous issues surrounding the issuance of search warrants in digital child pornography cases in great detail, have demonstrated no skepticism toward the reliability and basis of knowledge of the information at the genesis of such investigations.\" People v. Pierre, 29 N.Y.S.3d 110, 117 (N.Y. Sup. Ct. 2016) (rejecting defendant's characterization of ESP as a confidential informant requiring additional police corroboration).",
+        "type": "majority",
+        "author": "BRENNAN, RJ."
+      }
+    ],
+    "attorneys": [
+      "On behalf of the defendant-appellant, the cause was submitted on the briefs oí Matthew S. Pinix of Law Office of Matthew S. Pinix, LLC of Milwaukee.",
+      "On behalf of the plaintiff-respondent, the cause was submitted on the brief of Brad D. Schimel, attorney general, and Tiffany M. Winter, assistant attorney general."
+    ],
+    "corrections": "",
+    "head_matter": "State of Wisconsin, Plaintiff-Respondent, v. Samuel Silverstein, Defendant-Appellant.\nCourt of Appeals\nNo. 2016AP1464-CR.\nSubmitted on briefs May 2, 2017.\nDecided August 1, 2017.\n2017 WI App 64\n(Also reported in 902 N.W.2d 550.)\nOn behalf of the defendant-appellant, the cause was submitted on the briefs oí Matthew S. Pinix of Law Office of Matthew S. Pinix, LLC of Milwaukee.\nOn behalf of the plaintiff-respondent, the cause was submitted on the brief of Brad D. Schimel, attorney general, and Tiffany M. Winter, assistant attorney general.\nBefore Brennan, P.J., Brash, and Dugan, JJ.\nPetition for Review filed."
+  },
+  "file_name": "1757-01",
+  "first_page_order": 174,
+  "last_page_order": 196
+}

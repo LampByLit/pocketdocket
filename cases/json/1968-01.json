@@ -1,0 +1,265 @@
+{
+  "id": 4353803,
+  "name": "Devorah H., Plaintiff, v. Steven S., Defendant",
+  "name_abbreviation": "Devorah H. v. Steven S.",
+  "decision_date": "2015-07-02",
+  "docket_number": "",
+  "first_page": "630",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 630"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 858"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S Ct 2584",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591054
+      ],
+      "pin_cites": [
+        {
+          "page": "2607"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2584-01"
+      ]
+    },
+    {
+      "cite": "129 AD3d 1519",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4261179
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/1519-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 1207",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3822553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/1207-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 415",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734573
+      ],
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0415-01"
+      ]
+    },
+    {
+      "cite": "798 NE2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "955"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "440 Mass 309",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1346433
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/440/0309-01"
+      ]
+    },
+    {
+      "cite": "55 AD3d 516",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3875088,
+        3886523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/55/0516-02",
+        "/ad3d/55/0516-01"
+      ]
+    },
+    {
+      "cite": "83 AD3d 783",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4021068
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/83/0783-01"
+      ]
+    },
+    {
+      "cite": "202 Misc 391",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        971175
+      ],
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/202/0391-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 711",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1233124
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "716-717"
+        },
+        {
+          "page": "712-713"
+        },
+        {
+          "page": "717"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/187/0711-01"
+      ]
+    },
+    {
+      "cite": "45 Misc 3d 597",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4268767
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "617"
+        },
+        {
+          "parenthetical": "128 Harv L Rev [No. 6] 1868 [Apr. 2015]"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/45/0597-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 481",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4376899
+      ],
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0481-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1732,
+    "char_count": 45771,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14824551547213757
+    },
+    "sha256": "5bd336006b00977c1ee30461818960a1e40e000a4626c4518c1049e37e6ac0d8",
+    "simhash": "1:1c8cc04b9ef6cf37",
+    "word_count": 7560
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Devorah H., Plaintiff, v Steven S., Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMatthew F. Cooper, J.\nIn this divorce action, the court is compelled to first decide an extraordinary threshold issue. That is, whether there is even a marriage to dissolve. The plaintiff, Devorah H., admits that the parties never obtained a marriage license, but contends that she and the defendant are nonetheless legally married because they participated in a Jewish wedding ceremony. The defendant, Steven S., maintains that the ceremony in question was not a real wedding ceremony and denies that he and plaintiff were ever married. As for the Orthodox rabbi who conducted the ceremony, he is unsure just what effect, if any, it had on the parties’ marital status.\nIt is axiomatic that only parties who are married can divorce each other (see Domestic Relations Law § 170). Moreover, the ancillary relief plaintiff seeks against defendant in the divorce proceeding — most notably, the equitable distribution of property and the payment to her of spousal maintenance — is relief that can be granted only if the parties are legally recognized spouses (see Domestic Relations Law § 236; Morone v Morone, 50 NY2d 481, 486 [1980] [“cohabitation without marriage does not give rise to the property and financial rights which normally attend the marital relation”]). Thus, plaintiff has the burden of proving, as part of her prima facie case, that she and defendant are in fact married.\nTo this end, plaintiff was given the opportunity of proving the validity of the marriage during a three-day trial at which plaintiff, defendant and the rabbi testified. In a number of instances, and particularly with regard to the ceremony itself, the trial offered a striking example of what has been termed the “Rashomon effect,” with each person who participated in the same event recalling it in significantly different ways.\nAlso notable was the level of palpable hatred between the parties, which, whether married or not, was on par with the most contentious of divorces. This animosity is reflected in the litany of charges each has leveled against the other — ranging from claims of tax and welfare fraud, to housing court eviction and family offense proceedings, to complaints to the attorney departmental disciplinary committee and the Labor Department.\nBackground: Domestic Relations Law § 25 and the Ponorovskaya Case\nCoincidentally, the issue of marriage validity had recently come before this court in another case where there was no marriage license and the parties disputed whether they were legally married. In that case, Ponorovskaya v Stecklow (45 Misc 3d 597 [Sup Ct, NY County 2014]), a lavish wedding ceremony took place on the beach at a luxury resort in Mexico before numerous friends and family, with a highly produced video made to preserve the occasion for posterity. Here, the ceremony in question was as spare as the other was grand: It took place in the rabbi’s office on Manhattan’s Upper West Side, lasted a matter of minutes, and the only people there, other than the parties and the rabbi, were two unidentified, and now forgotten, elderly men who were recruited on the spot to be witnesses. Needless to say, there was no video, or for that matter photographs, to mark the event.\nIn addition to the differences between the two ceremonies, Ponorovskaya gave rise to a conflict of laws issue — an issue not present here — in that the plaintiff there was seeking to apply New York law to a marriage that occurred in a foreign country. Both cases are similar, however, in that they center on Domestic Relations Law § 25, which provides that a marriage is valid in the absence of a marriage license if it was properly solemnized. Enacted in 1907 — five years before the sinking of the Titanic — Domestic Relations Law § 25 runs completely contrary to our well-established system of marrying in New York, a system that is founded on the obtainment, execution and filing of a marriage license. In Ponorovskaya, it was referred to as a \"forgotten relic” from an era when marriage was still viewed primarily as a religious institution, marriage licenses were relatively new, and the legislature apparently thought it necessary to protect what the church had wrought from nullification by what the state required.\nThat two cases involving the statute have come before this court in such a short period of time may belie its description as “forgotten,” but, as was discussed at great length in Ponorovskaya, Domestic Relations Law § 25 can only serve to subvert the important governmental interest in regulating the method by which citizens of this state marry. As long as the statute remains on the books, the seemingly well-founded assumption that one must have a marriage license to wed in New York turns out not to be so well-founded after all. At best, Domestic Relations Law § 25 will require courts, as it did in Ponorovskaya and now here, to engage in the difficult and time-consuming process of determining whether the parties in a divorce action were ever married. At worst, its continued existence raises the specter of couples routinely deciding not to go to the trouble and expense of obtaining a marriage license, and instead simply finding an officiant — be it a priest, rabbi or a friend who becomes an ordained Universal Life Church minister over the Internet — who will perform a wedding ceremony, with a license or without.\nDespite these problems, Domestic Relations Law § 25 remains the law in New York until the legislature sees fit to repeal it. Whereas in Ponorovskaya, it was held that the provision could not be applied to a religious wedding ceremony that took place in a jurisdiction where the law requires the ceremony to be civil and not religious, as is the case in Mexico, that option is not available here. Instead, with the ceremony having taken place in New York, there are no conflict of laws issues, and as such, no questions as to the applicability of Domestic Relations Law § 25. The question here is whether the ceremony in which the parties participated constitutes a properly solemnized wedding ceremony which, when viewed in the context of the circumstances surrounding it, resulted in the parties becoming legally married.\nThe Testimony at Trial\nThe parties’ testimony established that they first met online in 2003 in an Orthodox Jewish chat room. At the time, plaintiff, who was then a small-business owner, was 44, with four minor children. She had been married three times and was involved in an acrimonious divorce with her third husband in Rockland County. Defendant, a lawyer, was 49, with a child from his one previous marriage. Soon after meeting, plaintiff, fleeing what she termed spousal and child abuse by her then husband, took her children and moved into defendant’s small, one-bedroom apartment on West End Avenue. Despite their personal relationship, defendant, who specializes in real estate litigation, joined the legal team representing plaintiff in her Rockland County divorce action.\nAll three witnesses — plaintiff, defendant, and the rabbi— recounted how plaintiff and her children continued to live in defendant’s apartment, with the parties occasionally attending services at the rabbi’s synagogue, located a few blocks away, and plaintiff’s children receiving religious education from him one evening per week. At some point in 2004, the Administration for Children’s Services, apparently alerted by the father of plaintiff’s children, became aware that the apartment had only one bedroom, and commenced an investigation into the children’s living situation. All sides agree that the rabbi, having learned about the parties living in such cramped quarters, decided that it was incumbent upon him to assist them in finding a larger apartment that could adequately house plaintiff, defendant and plaintiff’s children. It is further agreed that the rabbi then played a key role in arranging for plaintiff and another congregant to “swap” apartments so that the parties and the children could move from a one-bedroom to a two-bedroom apartment on the Upper West Side, and later brokering another deal allowing them to move to an even larger apartment in Washington Heights.\nThere is also consensus that the parties, at the behest of the rabbi, joined him in his office at the synagogue for a bare-boned wedding ceremony that lasted a few minutes, and were thereafter presented with a pair of candlesticks. Beyond these limited events, however, there is little agreement on the facts. At trial, plaintiff and defendant gave radically different accounts both as to what happened in the rabbi’s office and what transpired thereafter in their lives. The rabbi, who struck the court as the only witness endeavoring to tell something approaching the whole truth, gave a version of events that deviated in many ways from either party’s account.\nAstonishingly, among the three witnesses, not even the date of the wedding ceremony or the individuals present can be reconciled. Defendant testified that he and plaintiff met with the rabbi on July 28, 2004, so that the rabbi could “bless” them living together, and that the only people present were the three of them. Plaintiff testified that the ceremony, which she described as an actual wedding, took place on either December 20 or 21, 2004, and that it was witnessed by two elderly male congregants. The rabbi, relying on a partially completed registration form that was retrieved from his office files, testified that he conducted the wedding ceremony on the evening of December 20, 2004, at which time he had the parties recite a one-line Hebrew marriage vow. He also testified that he remembered two witnesses being present, but had no record or recollection as to who they were other than that they were men.\nThere is further disagreement as to what transpired during the purported wedding ceremony. Plaintiff introduced into evidence a bracelet which she testified the rabbi supplied to defendant to give to her as a marriage offering in lieu of a ring. The rabbi, however, when shown the bracelet, stated that he did not recognize it and that he believed defendant gave plaintiff an actual ring, while defendant, in his testimony, denied giving anything to plaintiff. With regard to a ketubah, the traditional Jewish wedding contract, plaintiff stated in an email sent to defendant just prior to the commencement of the divorce action that she had it in safekeeping. Yet, at trial, she revealed that the defendant ripped it up in a fit of pique on the subway immediately after they left the rabbi’s office. The rabbi attested that he did not retain a copy of the ketubah, but indicated that it would have been a one-page, fill-in-the-blank type document that he routinely provides to marrying couples. Defendant, consistent with his position that there was no wedding, denied that such a document existed at all.\nSome of the more compelling testimony presented at the trial was from the rabbi — given on direct, cross-examination, and in response to the court’s own questions — concerning why he performed a ceremony under the circumstances that he did. The rabbi was clearly uncomfortable with what had happened, referencing the event as an “unfortunate time” (tr, Feb. 23, 2015 at 62) and only complying with plaintiff’s trial subpoena after being threatened with contempt. Recognizing the difficulties that his actions had engendered, the rabbi stressed that of the approximately 300 weddings he has officiated, this was the only one where the couple did not have a marriage license, and its form was markedly different from the ceremonies he routinely performs. He stated, “I normally like to have a hall, with a chuppah, seven blessings, two cups of wine, and a whole band and dance for them, but this was something very, very unusual” (tr, Feb. 23, 2015 at 68-69).\nIn seeking to explain why he would conduct a wedding without the requisite license — and perform a perfunctory ceremony without so many of the traditional components or any advanced planning — the rabbi testified that he felt compelled to act swiftly because the parties were about to move into an apartment he had helped them obtain. He stated, “the decision to marry them was very much went on the spot and very much something that I . . . wanted to . . . assure they are living together in a manner with the blessing of Jewish law” (tr, Feb. 23, 2015 at 78). During his testimony, the witness repeatedly stated that as an Orthodox rabbi, he felt “under duress” to insure that the parties were married before they lived together in the apartment. Otherwise, he explained, he would be contributing to a situation where plaintiffs children would be “exposed to living with a man in the house without matrimony” (tr, Feb. 23, 2015 at 49).\nNevertheless, the rabbi freely expressed his concern that the wedding ceremony he performed, while allaying his qualms against sanctioning an improper living arrangement, may have resulted only in joining the parties religiously, but not legally, in marriage. On direct examination, plaintiff’s attorney inquired whether he considered the parties to be husband and wife after having performed the ceremony. He responded at length, if somewhat disjointedly:\n“I did, I did, but I exhorted them and told them I am doing this under duress because I want you to be living with this man where Child Services would more likely look kindly upon you if there is some stability in the household. And I exhorted both of them, please, I am doing this to save the kids, get that marriage license. I know I was doing something in that office in order so that night they are living together is something that was my approach to the way [they] were living could at least be — I can live with it. So I exhorted them immediately to go down to City Hall and get a marriage license” (tr, Feb. 23, 2015 at 51).\nAt least four times during his testimony the rabbi stated that he instructed the parties that they needed to obtain a marriage license. When he was asked on direct examination if he recalled defendant promising to get the license, he answered: “I recall exhorting both of them to do so, but what can I say? Of course. Why would anyone imagine — they would say, Rabbi, thanks for all you did for me, get lost. I am sure they said, yes, we will follow it up” (tr, Feb. 23, 2015 at 71).\nIn response to the court’s inquiry whether he understood that the parties would have had to go through another ceremony after obtaining the license, the rabbi responded: “Come back to me, yes. So as far as I understand, they may have gone to someone else. I hardly saw them again. The kids would come back on Tuesday nights for a learning program. I believe they moved to Washington Heights, if I recall” (tr, Feb. 23, 2015 at 71).\nAs both sides concede, they never obtained a marriage license and never returned to the rabbi or another officiant to have a ceremony performed with a license. The rabbi, with an air of resignation and a tinge of bitterness, testified, “I learned only now years later that they never heeded my advice to get a marriage license. Maybe they were fooling me. I don’t know. I don’t know” (tr, Feb. 23, 2015 at 69).\nIn her testimony, plaintiff acknowledged that the rabbi had instructed her and defendant to obtain a marriage license. She stated, however, that defendant dissuaded her from doing so by assuring her they were truly married and that there was no need to do anything further. The court pointed out to her that it was difficult to understand how she could have been so accepting of defendant’s assurances in light of her testimony that he ripped up the ketubah immediately after the ceremony. Her response was that she loved and trusted defendant so much that she believed everything he told her.\nAs to life after the purported wedding ceremony, the testimony largely demonstrated that although the parties and plaintiff’s children continued to reside together for more than 10 years, ultimately moving from Washington Heights back to the Upper West Side apartment they apparently occupy to this day, the parties did little if anything to indicate to one another or the world at large that they were married. The explanations each of them gave for this were diametrically opposed. According to plaintiff, defendant prohibited her from telling anyone or otherwise acting as if they were married; according to defendant, there was nothing to tell because they were not and had never been married.\nMuch of defendant’s case focused on things plaintiff did and said, which he contended were proof that she too knew that they were not married. These included plaintiff receiving public assistance benefits as the unmarried mother of dependent children, filing her tax returns as “single” rather than “married,” and describing herself as unmarried in pleadings submitted in connection with various lawsuits in which she was involved. Plaintiff sought to explain this by claiming she was under defendant’s thrall and that he dictated to her at all times what she must do and what she must say.\nPlaintiff, in turn, testified as to the many years she and defendant lived together in a single household and the close relationship defendant and his daughter had with her children. She further testified to the fact that she worked for a considerable time for defendant in his law practice as a paralegal without being paid a regular salary and that he took the payments she received each month from her mother’s trust fund and deposited them into his attorney’s escrow account. She also pointed to the application defendant submitted to join a new synagogue upon the couple’s return to the Upper West Side in which he stated that the parties were married. Defendant, who admitted that plaintiff and he had an intimate relationship, living together for an extended period, and with a certain degree of financial interdependence, responded that he listed them as being husband and wife on the synagogue application simply as a matter of convenience — and in order to obtain a lower membership rate.\nFactual and Legal Analysis\nIn the typical marriage conducted in this state — where the parties have heeded New York’s clear directive to obtain a marriage license — the licensing process provides a simple, straightforward way to insure that a marriage is legally valid. By issuing a marriage license, the town or city clerk certifies that the couple has furnished proof that they are of legal age and that any prior marriages have been terminated by death or dissolution. By executing the license, the officiant certifies that the marriage is solemnized by having the couple declare their vows in the presence of witnesses, with the officiant, parties and witnesses all signing the document. Along with recording the license once the officiant returns it, and then issuing a marriage certificate, the clerk provides the couple with documentary proof that they are married and maintains a public record of vital information such as when and where the marriage took place.\nHere, of course, the standard procedure for marrying was not followed, nor could it have been inasmuch as the parties never obtained a marriage license. Without a license, plaintiff, in her quest to prove that she and defendant are married — a prerequisite to proceeding on her action for divorce — must turn to Domestic Relations Law § 25, with its provision that “[n]othing in this article . . . shall be construed to render void by reason of a failure to procure a marriage license any marriage solemnized between persons of full age.” This, in turn, requires plaintiff to demonstrate that she and defendant participated in a ceremony where the marriage was properly solemnized.\nThe rules for conducting a wedding ceremony to solemnize a marriage are surprisingly few and simple. They are contained in Domestic Relations Law § 12, which provides in relevant part: Thus, the court must first decide whether plaintiff proved that the ceremony she alleges took place was conducted in accordance with the requirements of Domestic Relations Law § 12.\n“No particular form or ceremony is required when a marriage is solemnized as herein provided by a clergyman or magistrate, but the parties must solemnly declare in the presence of a clergyman or magistrate and the attending witness or witnesses that they take each other as husband and wife.[] In every case, at least one witness beside the clergyman or magistrate must be present at the ceremony.”\nAt trial, the only document introduced into evidence to show that the parties participated in a wedding ceremony was a registration form that the rabbi retrieved from his office files. The document, a “Rabbinical Council of America Marriage Registration Form,” is nearly blank. Although it contains lines for the names, addresses and signatures of the “bridegroom,” “bride,” “officiating rabbi,” and “witnesses,” none of that information appears and the document is unsigned. In fact, the only items that were entered on the registration form are the date “Dec. 20th,” the address of the synagogue, and the parties’ names in English (with defendant’s last name misspelled) and Hebrew.\nWith the incomplete registration form being of little evidentiary value — and there being no photographs, videos, audio recordings, ketubah, wedding announcements, or the like — the court is left almost exclusively with the witnesses’ conflicting testimony to determine what exactly happened, and when, in the rabbi’s office. Fortunately, the testimony included that of the rabbi, who, while candidly conceding his missteps, differentiated himself from the party witnesses by doing his best to recall events as accurately as possible. Based largely on the rabbi’s credible testimony, the court finds that he summoned the parties to meet with him at his office and then conducted a Jewish wedding ceremony. The court further finds that the ceremony met the basic requirements of Domestic Relations Law § 12 in that the parties stated marriage vows before an officiant and at least one witness. Finally, the court finds that the wedding ceremony took place on December 20, 2004, the date noted in the rabbi’s office file.\nThe finding that the parties participated in a wedding ceremony conducted in accordance with the requirements of Domestic Relations Law § 12 does not necessarily lead, however, to the conclusion that the parties are married. Before that conclusion can be reached, it is necessary to consider the circumstances surrounding the ceremony, specifically, what brought the parties to appear in the rabbi’s office on December 20, 2004, and what transpired in the days, months and years that followed. To do otherwise, and in effect turn a blind eye to context, would elevate the mere fact that a ceremony took place to a level of significance that not even Domestic Relations Law § 25 entitles it be accorded.\nWhile Domestic Relations Law § 25 plays center stage here, there is another provision of the Domestic Relations Law that must be factored into this equation. The provision, Domestic Relations Law § 10, states in its entirety: “Marriage, so far as its validity in law is concerned, continues to be a civil contract, to which the consent of parties capable in law of making a contract is essential.” Although the statute is older than Domestic Relations Law § 25, having been enacted in 1896, and is rarely cited nowadays, the legal principle remains that the parties to a wedding ceremony must mutually intend to marry (see Persad v Balram, 187 Misc 2d 711, 716-717 [Sup Ct, Queens County 2001] [“This Court can imagine a variety of circumstances where a religious union might be considered invalid based on a lack of mutual intent to be wed”]; Amsden v Amsden, 202 Misc 391, 394 [Sup Ct, Monroe County 1952] [“As in other contracts, consent is a necessary element to the validity of a marriage contract, and the minds of the parties must unite in such common intention”]).\nIn taking the view that context is essential, the court is nonetheless aware of a line of cases from the Second Department upholding the validity of what were apparently licenseless marriages simply on the basis of the ceremony having satisfied the requirements of Domestic Relations Law § 12 (see Hirsh v Stern, 83 AD3d 783 [2d Dept 2011]; Ahmed v Ahmed, 55 AD3d 516 [2d Dept 2008]; Persad v Balram). The husband in each of these cases unsuccessfully claimed that although he participated in a religious wedding ceremony, he did not consent to be legally married. Despite those holdings, it is overly reductionist to restrict the inquiry in a case such as this to the form of the ceremony itself without taking into consideration the parties’ intentions and whether, as required by Domestic Relations Law § 10, there existed the requisite consent to wed. As was stated in Ponorovskaya, “[g]etting married is a serious decision that has wide-ranging and often everlasting consequences” (45 Misc 3d at 617). Consequently, a judicial determination as to the validity of a licenseless marriage where one party contends that he or she did not consent to being married should be based on more than just what occurred within the confines of the church, synagogue or other wedding venue.\nIn any event, the circumstances under which the purported marriage took place here and the subsequent conduct the parties exhibited differ in many ways from what is briefly stated in Hirsh and Ahmed, and more fully described in Persad. One distinction is the way the parties came to appear before the rabbi and how the ceremony occurred almost instantaneously. The evidence shows that the parties went to the rabbi’s office at his request to discuss moving to a new apartment; they did not go with the intent of having him marry them. As the rabbi testified, that decision to have a wedding was made “on the spot,” and it was done at his urging to alleviate the “duress” he felt from the prospect of two unmarried congregants living with children in an apartment he had found for them. The wedding ceremony lasted mere minutes and, according to the rabbi, consisted of little more than defendant giving plaintiff a ring while repeating the line, “With this ring, I betroth you according to the laws of Moses and Israel” (tr, Feb. 23, 2015 at 54).\nThe rabbi conceded that the wedding ceremony was a far cry from the type of service that he always performs, with almost all of the traditional components — ranging from the presence of a chuppah (a canopy under which the couple stands), to the series of prayers and glasses of wine, to the breaking of the glass accompanied by the joyous shouts of “Mazel Tov”— conspicuously absent. Defendant was emphatic that whatever the ceremony he participated in, it bore no resemblance to any Orthodox Jewish wedding he had ever attended, or, for that matter, the one in which he married his ex-wife. It also differed dramatically, in scope and planning, from the Hindu wedding ceremony described in detail in Per sad. The ceremony there, at which the couple wore traditional wedding garb, lasted approximately two hours, was attended by 100 to 150 guests, and was followed by a lavish reception “held for 275 friends and family,” complete with a wedding cake, photographer, wedding gifts and “thank you” notes (see 187 Misc 2d 711, 712-713).\nWhat is significant about the ceremony that took place here is neither its brevity nor its simplicity. After all, there is nothing in Domestic Relations Law § 12 that remotely suggests that a wedding must be of some duration or follow some prescribed format. This is reflected in the growing trend of couples marrying in untraditional ceremonies of their own devising, often officiated by friends or family members in lieu of the standard clergy member, judge or clerk. Rather, what is of concern here is the complete absence of time for thought by the parties with regard to participating in the ceremony. Spontaneity may be a good thing when it comes to many aspects of romance and relationships, but it is the height of haste when it comes to making the decision to marry.\nIt bears repeating that the decision to marry is one of the most important decisions an individual can make; one need only ask somebody who has been through a difficult divorce just how great the consequences can be. Even when a successful marriage ensues, the bond is not one to be entered lightly. Perhaps the most eloquent statement to this effect can be found in Goodridge v Department of Pub. Health (440 Mass 309, 798 NE2d 941 [2003]), the landmark decision recognizing the right to same-sex marriage in the Commonwealth of Massachusetts. In a passage that is now frequently included in wedding ceremonies of all kinds, the author of the decision, Chief Judge Margaret Marshall of the Massachusetts Supreme Court, wrote the following: “Because it fulfils yearnings for security, safe haven, and connection that express our common humanity, civil marriage is an esteemed institution, and the decision whether and whom to marry is among life’s momentous acts of self-definition” (440 Mass at 322, 798 NE2d at 955).\nMomentous acts of self-definition should not be left to occur without at least some time for thought and reflection. Acting as a hedge against a rash and impulsive decision to marry is the requirement that the couple first obtain a marriage license. By having to appear in person at the office of the town or city clerk, complete the application, furnish the necessary documentation, and pay the fee, the couple who seeks to be married engages in an affirmative act that unequivocally states “we truly intend to marry.”\nNot only does the mere process of obtaining a marriage license serve to bring some degree of thought to the act of marrying, the Domestic Relations Law itself imposes a requirement that there be a gap between the time when the license is issued and when the couple can marry. Domestic Relations Law § 13-b provides in relevant part: “A marriage shall not be solemnized within twenty-four hours after the issuance of the marriage license, unless authorized by an order of a court of record as hereinafter provided.” As a result, New York has what is commonly referred to as the “24-hour waiting period.” By requiring couples to wait a full day to marry after they receive their marriage license, the statute reflects the value we as a state place on providing people with a window for reflection before proceeding to marriage.\nIn this case, the parties were not afforded any time to consider the gravity and importance of marrying one another. Neither party disputes that the purpose of meeting with the rabbi was to acquire a larger apartment, not to wed. Once there, the rabbi decided “on the spot” that they should be married, so witnesses were hurriedly recruited and either a ring or a bracelet was produced from the rabbi’s desk drawer. It was done with such swiftness that the rabbi neglected to fully fill out the rabbinical registration form or sign it. The fact that the marriage ceremony occurred at warp speed, without a license, and in violation of New York’s mandatory “twenty-four hour waiting period,” makes it difficult to find that there was meaningful consent to the marriage, especially on the part of defendant, who vehemently denies ever having agreed to legally wed plaintiff.\nWhat is also significant is that both parties knew they were obligated to obtain a marriage license. Plaintiff had been married three times before and defendant once before, and both testified that each time they obtained a marriage license. Moreover, the rabbi repeatedly, in his words, “exhorted” the parties to get a marriage license, something which plaintiff herself readily acknowledged. The rabbi was clear in his testimony that he expected the parties to obtain the license and then return to him, or at the very least, appear before another officiant after doing so. Thus, the inescapable conclusion is that both parties fully understood the requirement to obtain a marriage license, irrespective of the ceremony held in the rabbi’s office, before the marriage could be deemed legal. It is further clear that everyone who participated in that wedding ceremony — be it plaintiff, defendant or the rabbi — was aware of the distinction between being married “in the eyes of god” and being legally married under the rules of the state.\nUnlike the Second Department cases, the defendant did not wait to proclaim that he did not consider himself legally married to plaintiff. To the contrary, plaintiff testified that defendant ripped up the ketubah the moment they left the rabbi’s office following the ceremony. If there ever was a symbol of one party’s lack of intent to being married — this was it. From that point on, defendant continued to act in a manner consistent with someone who, while emotionally and financially involved with a live-in partner, did not consider himself to be married. Aside from the membership application to the synagogue, plaintiff could not point to an instance where defendant acknowledged the purported marriage. This stands in contrast to the situation in Persad, where the husband only challenged the marriage after he and his wife had a child and lived as a family unit.\nWhat is additionally noteworthy is the manner in which plaintiff conducted her life while supposedly believing she was married to defendant. In short, every action she took negates the notion that she believed the parties were married. These acts include characterizing the defendant as her “roommate” in a sworn deposition on March 1, 2006 in connection with a litigation with her third husband, and in a lawsuit brought against the New York City Department of Education on March 17, 2010, repeatedly referring to him in the verified complaint as her “boyfriend.” Moreover, by her own admission, in the years following the alleged marriage, she continued to apply for and receive Medicaid, food stamps and monetary public assistance benefits for her, as well as for her children. Although plaintiffs children may have very well been entitled to benefits, plaintiff herself would only be eligible for public assistance if she was unmarried. If plaintiff believed she was indeed married to defendant, a lawyer who was earning substantial amounts each year, then she intentionally committed welfare fraud by concealing that fact. If, on the other hand, she legitimately received benefits by accurately stating that she was unmarried, then she has no basis to claim to be legally married to defendant.\nEqually troubling are the tax returns plaintiff filed each year while ostensibly married to defendant. Those returns show that plaintiff consistently represented to the Internal Revenue Service that she was “single” by filing, and receiving a tax advantage, as “head of household.” If plaintiff believed she was truly married to defendant, this beneficial filing status would not be legally available to her and instead, she would have had to indicate that she was “married filing separately” from defendant. Here again, plaintiff is in a quandary: either she believed she was married and filed tax returns fraudulently; or she filed legitimately and was not married to defendant.\nIn Persad, the court did not find it particularly relevant that the wife there, who was asserting that the marriage was legally valid, filed tax returns with the declaration that she was single. Instead it viewed the wife’s filings as merely reflective of “some financial or other strategy on [her] behalf” (187 Misc 2d 711, 717). That decision, however, predates the Court of Appeals’ pronouncement in Mahoney-Buntzman v Buntzman (12 NY3d 415, 422 [2009]), that “[a] party to litigation may not take a position contrary to a position taken in an income tax return” (see also Foti v Foti, 114 AD3d 1207 [4th Dept 2014]; Sayers v Sayers, 129 AD3d 1519 [4th Dept 2015]; Ponorovskaya v Stecklow, 45 Misc 3d 597 [Sup Ct, NY County 2014]). Consequently, plaintiff’s tax returns, filed as “head of household,” must be seen as further proof that plaintiff did not view herself as being married.\nAt trial, when confronted with these statements and representations, plaintiff responded with the refrain that defendant made her do it. Having heard both parties testify at length, the court finds this assertion highly suspect. Although much of defendant’s testimony was less than credible, his testimony was convincing when he denied having manipulated plaintiff in these instances. For example, he credibly explained that although plaintiff chose to use an accountant who was in his office building, he had no involvement whatsoever with her tax return preparation. In fact, he admitted that for a number of years he had no contact with the accountant at all because he was not filing his own tax returns as a result of what he termed “emotional problems.” Likewise, there was no evidence to support plaintiff’s charge that defendant forced her to apply for public assistance or state what she did in her various lawsuits. If anything, plaintiff came across as a strong willed individual who is comfortable litigating on many fronts and is willing to say what she needs to in order to advance her case and personal interests.\nWithout a doubt, plaintiff and defendant’s life together was quite bizarre, beginning with defendant representing plaintiff in her divorce, while at the same time having her family move into his apartment. And many of defendant’s actions are difficult to fathom, especially in light of being a successful attorney. How does one explain his failure to timely file tax returns, or using his attorney escrow account to receive plaintiff’s monthly trust payments, or having plaintiff work for him in his law office and paying in undeclared funds? Fortunately, these are questions better left to the Internal Revenue Service, the disciplinary committee and the New York State Department of Labor.\nAs was stated at the outset, the only question to be answered here is whether the parties are legally married. And as was detailed above, in the rare instance where a couple fails to go through the process of obtaining a marriage license, the determination as to whether their marriage is valid cannot rest exclusively on the fact that they recited vows in front of an officiant in accordance with Domestic Relations Law § 12. When Domestic Relations Law § 25 is invoked to validate a license-less marriage, consideration must still be given to a panoply of facts and circumstances extending beyond the narrow confines of the wedding ceremony itself. Having done so, the court finds that the parties neither intended nor considered themselves to be legally married. Accordingly, the purported marriage is void for lack of consent pursuant to Domestic Relations Law § 10.\nConclusion\nIn the over 100 years since the enactment of Domestic Relations Law § 25, the way citizens marry in New York has changed immeasurably. While at one time the wedding ceremony was the central element of the process, that is no longer the case; church weddings are more and more the exception rather than the rule, and the new wave of marriage ceremonies would be almost unrecognizable to earlier generations. What is key to the process is the marriage license itself. This is not only true for New York, but for the entire nation. After all, when the United States Supreme Court issued its historic decision in Obergefell v Hodges (576 US —, —, 135 S Ct 2584, 2607 [2015]), making the right to same-sex marriage the law of the land, it did so by decreeing that “States are required by the Constitution to issue marriage licenses to same-sex couples” (emphasis added).\nDomestic Relations Law § 25, in its present form, serves no useful function in today’s world. Conceivably, if the statute was amended to allow couples who justifiably believed they were legally married with a valid marriage license to protect the marriage from a claim that the license was improperly executed or otherwise defective, that would certainly serve the public interest. But as it exists now, the statute allows for the wholesale disregard of New York’s licensing requirements— requirements that, as we have seen, play a vital role in insuring that marriages are legally valid. Until Domestic Relations Law § 25 is repealed or reformed, courts will be forced to grapple with situations like this, where the parties fully understood that they did not legally marry but one side seeks to abuse the statute to attain the financial remedies only available to litigants who are married to one another.\nIn light of the foregoing, it must be concluded that plaintiff cannot show that she and defendant are married, and therefore has failed to prove an essential element of her prima facie case for divorce. The clerk is directed to enter judgment in favor of defendant dismissing the complaint.\n. The term comes from the 1950 Japanese movie Rashomon, in which director Akira Kurosawa explored the subjectivity of perception by telling the story of a samurai killing from the differing viewpoints of four witnesses.\n. See Domestic Relations Law § 13 (“Marriage licenses”) (“It shall be necessary for all persons intended to be married in New York state to obtain a marriage license from a town or city clerk in New York state” [emphasis added]); Domestic Relations Law § 13-b (“Time within which marriage may be solemnized”); Domestic Relations Law § 13-d (“Duty of clerk issuing marriage license”); Domestic Relations Law § 14 (“Town and city clerks to issue marriage licenses; form”); Domestic Relations Law § 15 (“Duty of town and city clerks”); see also Marriage Bureau, Office of the Clerk of the City of New York, http://www.cityclerk.nyc.gov/html/marriage/license.shtml (“All persons who intend to get married in New York State must obtain a Marriage License” [emphasis added]).\n. For an interesting discussion on the interplay between Domestic Relations Law § 25 and the current trend towards weddings conducted by officiants who obtain their credentials by paying a small fee to online ministries, see Elena Weissman, Family Law—Marriage Requirements—New York Supreme Court Holds Statutory Exception to Marriage License Requirement Generally Inapplicable to Out-of-State Marriages—Ponorovskaya v. Stecklow, 987 N.YS.2d 543 (Sup. Ct. 2014) (128 Harv L Rev [No. 6] 1868 [Apr. 2015]).\n. Despite the enactment of the Marriage Equality Act in 2011, the term “husband and wife,” as it appears in Domestic Relations Law § 12, has not been amended. This stands in contrast to Domestic Relations Law § 13, the section requiring all parties intending to marry in New York to obtain a marriage license, which was amended to add this language: “No application for a marriage license shall be denied on the ground that the parties are of the same, or a different, sex.” This is further indication of the legislature’s focus on the marriage licensing process — as opposed to the solemnization process — as the essential component of the method by which two people marry.\n. The December 2004 date for the wedding ceremony is important in that plaintiff was not divorced from her third husband until August 6, 2004. If the ceremony had taken place on July 28, 2004, the date defendant testified that the parties met with the rabbi to receive his blessing, any marriage would automatically be void ab initio, regardless of what type of ceremony took place, because plaintiff would not yet have been divorced.\n. Both Hirsh and Ahmed, being Appellate Division decisions, state very little in the way of facts. Neither decision makes mention of a marriage license, nor does it reference Domestic Relations Law § 25. It is nevertheless assumed that in both Hirsh and Ahmed the parties did not have a license because if they did that would automatically foreclose a claim of lack of intent to marry. On the other hand Persad, which is a trial court decision with an extensive recitation of the facts, specifically states that the parties never obtained a marriage license and the discussion centers on Domestic Relations Law § 25.\n. Oddly enough, none of the witnesses could agree if there was a ring involved, with plaintiff insisting that defendant gave her a bracelet supplied by the rabbi, the rabbi recalling that defendant had a ring, and defendant testifying there were neither rings, bracelets, nor vows. What plaintiff and defendant do agree on is that they did not bring any kind of marriage token— rings, bracelets or otherwise — with them when they went to the rabbi’s office. This is further evidence that they ventured there without any plans to have a wedding.\n. See Samuel G. Freedman, Couples Enlist Online-Ordained Officiants, Redefining Nuptials, NY Times, June 27, 2015, § A at 22 (“[The] recent boom in online ordination of wedding officiants [is] a trend that speaks to deep changes in the American views of marriage and organized religion”).\n. It must be recognized that defendant, as a practicing lawyer, is not an especially strong candidate to claim ignorance of the process. Nor, other than holding out the “carrot” of obtaining the larger apartment, does the rabbi seem to have exerted any undue influence on defendant to participate in the wedding ceremony. Still, the totality of circumstances clearly reflect that this was a case of marriage by mishap rather than marriage by conscious choice.\n. The tax returns that defendant eventually filed all contain the declaration that he is single.",
+        "type": "majority",
+        "author": "Matthew F. Cooper, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eurydice A. Kelley, New York City, for plaintiff.",
+      "Kamerman, Uncyk, Soniker & Klein, P.C., New York City 0Jeffrey S. Kofsky of counsel), for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 858]\nDevorah H., Plaintiff, v Steven S., Defendant.\nSupreme Court, New York County,\nJuly 2, 2015\nAPPEARANCES OF COUNSEL\nEurydice A. Kelley, New York City, for plaintiff.\nKamerman, Uncyk, Soniker & Klein, P.C., New York City 0Jeffrey S. Kofsky of counsel), for defendant."
+  },
+  "file_name": "1968-01",
+  "first_page_order": 612,
+  "last_page_order": 631
+}

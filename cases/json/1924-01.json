@@ -1,0 +1,105 @@
+{
+  "id": 4351435,
+  "name": "NYSOS Associates, LLC, Appellant, v. Frank Ottomanelli, Respondent",
+  "name_abbreviation": "NYSOS Associates, LLC v. Ottomanelli",
+  "decision_date": "2015-07-29",
+  "docket_number": "",
+  "first_page": "60",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 60"
+    },
+    {
+      "type": "parallel",
+      "cite": "20 N.Y.S.3d 836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "68 NY2d 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347210
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0320-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 851",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4398011
+      ],
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0851-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 251,
+    "char_count": 3745,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 5.8591662004228935e-8,
+      "percentile": 0.3660640060482291
+    },
+    "sha256": "7a61fb61ef34d7faf9e87dd5b02a41ec55415fa838733364576365d3b4e5d83d",
+    "simhash": "1:69de4ea52124d286",
+    "word_count": 576
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NYSOS Associates, LLC, Appellant, v Frank Ottomanelli, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is reversed, without costs, plaintiff’s motion for summary judgment is granted, and the matter is remitted to the Civil Court for a determination of the amount to be awarded plaintiff as reasonable attorney’s fees.\nIn November 2010, FOB Woodside, Inc. leased a commercial premises from plaintiff, and defendant signed a personal guaranty for the lease. After FOB surrendered the premises in November 2011, plaintiff commenced this action, pursuant to the guaranty, to recover the sum of $14,590.77, which consists of unpaid rent, additional rent and other charges that had accrued prior to the surrender, plus reasonable attorney’s fees. Plaintiff subsequently moved for summary judgment. Defendant opposed the motion and argued, among other things, that plaintiff was not entitled to summary judgment because it had retained FOB’s $12,800 security deposit, upon FOB’s surrender of the premises. By order dated January 7, 2014, the Civil Court denied plaintiff’s motion, finding that the “guaranty of lease signed by the parties does not state with specificity how retention of the security deposit will affect overdue rent.”\nIt is uncontroverted that FOB properly surrendered the premises to plaintiff in November 2011 and, pursuant to the terms of the guaranty, defendant was responsible for any unpaid rent, additional rent, and other charges, which accrued prior to the surrender. The language in the “Guaranty of Lease” — that “Landlord may require the undersigned [defendant] to perform without first demanding that the Tenant perform, and without application of the tenant’s security deposit” — unambiguously provides that the security deposit is not a factor in the calculation of the monies owed by defendant as guarantor. In addition, the guaranty provides that even if FOB properly surrenders the premises and pays all of the rent and additional rent owed, plaintiff may, nevertheless, “keep the security deposit as liquidated damages. It is expressly agreed between the parties that the late payment of any rent obligations under the lease shall not be the basis to deem this provision inapplicable.” Consequently, plaintiff established, prima facie, defendant’s liability for rent and additional rent and, therefore, demonstrated its entitlement to summary judgment (see Winegrad v New York Univ. Med. Ctr., 64 NY2d 851, 853 [1985]). Defendant, in opposition, failed to establish the existence of a material issue of fact which requires a trial of the action (see Alvarez v Prospect Hosp., 68 NY2d 320, 324 [1986]).\nThe guaranty also provides that\n“[a]s a further inducement to Landlord to make this Lease and in consideration thereof, Landlord and the undersigned [defendant] covenant and agree that in any action or proceeding brought by either Landlord or the undersigned [defendant] against the other on any matters whatsoever arising out of, under or virtue of the terms of this Lease or of this Guaranty that . . . Guarantor [defendant] agrees to pay all of Landlord’s reasonable attorney’s fees, costs and expenses.”\nIn view of the foregoing, plaintiff is entitled to recover reasonable attorney’s fees.\nAccordingly, the order is reversed, plaintiff’s motion for summary judgment is granted, and the matter is remitted to the Civil Court for a determination of the amount to be awarded plaintiff as reasonable attorney’s fees.\nPesce, P.J., Aliotta and Elliot, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Robert M. Olshever, P.C., New York City (.Robert M. Olshever of counsel), for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[20 NYS3d 836]\nNYSOS Associates, LLC, Appellant, v Frank Ottomanelli, Respondent.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nJuly 29, 2015\nAPPEARANCES OF COUNSEL\nRobert M. Olshever, P.C., New York City (.Robert M. Olshever of counsel), for appellant."
+  },
+  "file_name": "1924-01",
+  "first_page_order": 114,
+  "last_page_order": 116
+}

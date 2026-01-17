@@ -1,0 +1,181 @@
+{
+  "id": 12166991,
+  "name": "STATE OF NEW MEXICO, Plaintiff-Appellee, v. TARRAH HOBBS, Defendant-Appellant",
+  "name_abbreviation": "State v. Hobbs",
+  "decision_date": "2015-12-22",
+  "docket_number": "No. S-1-SC-35708; Docket No. 33,715",
+  "first_page": "353",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "1999-NMCA-001",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        827387
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0562-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246502
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0487-01"
+      ]
+    },
+    {
+      "cite": "2004-NMSC-037",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1224659
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        },
+        {
+          "page": "¶¶ 14-19"
+        },
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0561-01"
+      ]
+    },
+    {
+      "cite": "2009-NMSC-037",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4244318
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        },
+        {
+          "parenthetical": "alteration, internal quotation marks, and citation omitted"
+        },
+        {
+          "parenthetical": "alteration, internal quotation marks, and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/146/0481-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-025",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3668396
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "¶¶ 9, 11-12, 23"
+        },
+        {
+          "page": "¶ 7"
+        },
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "¶¶ 11-12"
+        },
+        {
+          "page": "¶ 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/141/0713-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 928,
+    "char_count": 23922,
+    "ocr_confidence": 0.772,
+    "pagerank": {
+      "raw": 5.2861107890352095e-8,
+      "percentile": 0.331217765977862
+    },
+    "sha256": "27cc7aef0a978c76f342400fca791cd65f2470d74cdf73b6c80e84e4afb16dda",
+    "simhash": "1:8fad22965c8ec0f6",
+    "word_count": 3719
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LINDA M. VANZI, Judge",
+      "JAMES J. WECHSLER, Judge",
+      "TIMOTHY L. GARCIA, Judge"
+    ],
+    "parties": [
+      "STATE OF NEW MEXICO, Plaintiff-Appellee, v. TARRAH HOBBS, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nVANZI, Judge.\n{1} The Legislature has delegated to the Scientific Laboratory Division of the Department of Health (SLD) administrative authority over blood and breath tests administered to persons suspected of driving while under the influence of intoxicants. See NMSA 1978, § 24-1-22 (2003). In State v. Martinez, 2007-NMSC-025, 141 N.M. 713, 160 P.3d 894, our Supreme Court held that “a threshold showing” that the instrument used to administer a breath alcohol test (BAT) was SLD-certified at the time of the test is a Rule 11-104(A) NMRA foundational requirement for admission of the BAT results into evidence. Martinez, 2007-NMSC-025, ¶¶ 9, 11-12, 23. Martinez went on to hold that this foundational requirement was satisfied by the hearsay testimony of the officer who administered the BAT that he saw a “sticker” on the breathalyzer instrument indicating that it was SLD-certified at the time of the defendant’s BAT. Id. ¶ 23. Defendant Tarrah Hobbs contends that, although this foundational requirement was satisfied in her case, the trial court should not have admitted her BAT results into evidence because there was no testimony that the officer who administered her BAT “witnessed documentation from SLD approving” (1) the gas tank (also referred to as the gas canister) that was attached to the breathalyzer instrument and (2) the gas reference standard inside the tank, “much less that such documentation was present at the time the test was taken.” The district court affirmed and so do we, although on different grounds.\nBACKGROUND\n{2} In the early morning hours of January 14, 2012, Officer Richard Locke of the Albuquerque Police Department (APD) pulled Defendant over for driving 51 miles per hour in a 40 mile-per-hour zone. Defendant appeared to be intoxicated and, pursuant to APD policy, Officer Locke requested a special unit to investigate her for driving under the influence (DUI).\n{3} Officer Jared Frazier responded to the scene and administered field sobriety tests, which Defendant failed. Officer Frazier determined that Defendant was impaired and placed her under arrest for DUI. After Defendant agreed to submit to a BAT, Officer Frazier started the required twenty-minute deprivation period.\n{4} Officer Frazier was certified by the SLD to administer BATs on the Intoxilyzer 8000 instrument (IR 8000), which he called the “machine,” and he administered Defendant’s BAT on the IR 8000 located at the prisoner transport center. Officer Frazier testified that he used a clean mouthpiece, explained the procedure to Defendant, and ran a total of five air-blank checks. He testified that air-blank checks flush out the machine and check the ambient air for interference, and that all of the air-blank checks he ran resulted in readings of .00. He also explained the range of allowable results on calibration checks of the IR 8000 and testified that diagnostic and calibration checks were run and passed. Officer Frazier further testified that he saw a copy of the SLD certification affixed to the front of the IR 8000 and that the machine appeared to be functioning normally. The machine collected two breath samples from Defendant.\n{5} The State moved to admit Defendant’s BAT results. At defense counsel’s request, the trial court deferred ruling on the admission of the BAT results until after cross-examination. On cross-examination, Officer Frazier conceded that he did not know who had prepared the SLD certification of the IR 8000; nor did he have anything to do with ensuring that the machine complied with SLD regulations, or with inspections, or other accuracy aspects of the machine.\n{6} When questioned specifically about the gas canisters used on the machine, Officer Frazier testified that he has nothing to do with their approval, selection, or purchase, and that he did not know the make, model, or serial number of the canister used on the day of Defendant’s test. About eight months after Defendant’s BAT, Officer Frazier went to SLD and the APD Crime Lab, where he learned that the gas canisters used on the machine were the same make and model as those listed in the SLD regulations.\n{7} At the end of Officer Frazier’s testimony, defense counsel moved to exclude Defendant’s BAT results on the ground that they lacked a sufficient foundation to support their admission into evidence. Specifically, defense counsel argued that the gas canister is a piece of equipment separate from the IR 8000, and that Officer Frazier failed to “make the connection that this is a SLD approved piece of equipment” because he did not know the canister’s serial number, the manufacturer, or its expiration date.\n{8} The trial court admitted the BAT results over Defendant’s objection. Officer Frazier was recalled to the stand and testified that Defendant’s two BAT results were .11. The trial court found Defendant guilty of DUI under New Mexico’s “per se” DUI statute, which provides that it is illegal for a person to drive a vehicle with “an alcohol concentration of eight one hundredths [.08] or more in [his or her] blood or breath.” See NMSA 1978, § 66-8-102(C)(1) (2010). Defendant appealed to the Second Judicial District Court, challenging the admission of her BAT results on the basis that the State failed to establish that the gas canister complied with “accuracy ensuring” SLD regulations. The district court affirmed on the ground that “Officer Frazier’s testimony was sufficient to establish, by a preponderance of the evidence, the [gas reference standard] was approved by SLD.” This appeal timely followed.\nDISCUSSION\nStandard of Review\n{9} “The interpretation of an administrative regulation is a question of law that we review de novo,” applying the same rules we use to interpret statutes. State v. Willie, 2009-NMSC-037, ¶ 9, 146 N.M. 481, 212 P.3d 369. “The principal command of statutory construction is that the court should determine and effectuate the intent of the [Legislature, using the plain language of the statute as the primary indicator of legislative intent.” Id. (alteration, internal quotation marks, and citation omitted). If the plain meaning is “doubtful, ambiguous, or if an adherence to the literal use of the words would lead to injustice, absurdity or contradiction, we will construe the statute according to its obvious spirit or reason.” Id. (alteration, internal quotation marks, and citation omitted).\n{10} “We review an alleged error in the admission of evidence for an abuse of discretion” and will overturn a trial court’s evidentiary ruling “only when the facts and circumstances of the case do not support [its] logic and effect.\" Martinez, 2007-NMSC-025, ¶ 7 (internal quotation marks and citation omitted).\nStatutory Structure\n{11} New Mexico’s Implied Consent Act (ICA) requires that “[a] test of blood or breath or both, approved by the [SLD] pursuant to the provisions of Section 24-1-22 NMSA 1978, shall be administered at the direction of a law enforcement officer having reasonable grounds to believe the person to have been driving a motor vehicle within this state while under the influence of intoxicating liquor or drug.” NMSA 1978, § 66-8-107(B) (1993). Such test results “may be introduced into evidence in any civil action or criminal action arising out of the acts alleged to have been committed by the person tested for driving a motor vehicle while under the influence of intoxicating liquor or drugs.” NMSA 1978, § 66-8-110(A) (2007). Pursuant to Section 24-1-22, the Legislature has delegated authority over all aspects of such testing to SLD. That statute provides, in pertinent part, as follows:\nA. The [SLD] is authorized to promulgate and approve satisfactory techniques or methods to test persons believed to be operating a motor vehicle . . . under the influence of drugs or alcohol and to issue certification for test operators and their instructors. . . . The [SLD] is further authorized to establish or approve quality control measures for alcohol breath testing and to establish or approve standards of training necessary to ensure the qualifications of individuals conducting these analyses or collections.\nB. The [SLD] shall establish criteria and specifications for equipment, training, quality control, testing methodology, blood-breath relationships and the certification of operators, instructors and collectors of breath samples.\nSection 24-l-22(A), (B).\nThe Regulations\n{12} Under its statutory authority, the SLD has promulgated regulations in the form of a rule (Rule) governing “the certification of laboratories, breath alcohol instruments, operators, key operators, and operator instructors of the breath alcohol instruments as well as establishing] the methods of taking and analyzing samples of blood and breath testing for alcohol or other chemical substances under the [ICA].” 7.33.2.2 NMAC. The stated objective of the many regulations set forth in the Rule is “to establish standards and procedures” for certification and “methods oftalcing and analyzing samples” for such testing. Id. 7.33.2.6 NMAC.\n{13} The Rule defines “Breath alcohol instrument” as “[a]ny evidential breath testing device that is capable of analyzing breath to establish the concentration of alcohol contained in a breath sample” and requires that “[s]uch instruments must be approved and individually certified by SLD for use in testing pursuant to the [ICA] and this rule.” 7.33.2.7(G) NMAC (emphasis added). It defines “Equipment” as “[d]evices which are not a component of the breath alcohol instrument but assist in meeting the requirements of an evidentiary breath test, including but not limited to simulators, gas tanks, gas brackets, and reference standards.” 7.33.2.7(L) NMAC. Defendant’s argument presumes that the Rule 11-104(A) foundational requirements applicable to an individual “breath alcohol instrument” also apply to individual pieces of “equipment”-—here, the gas tank attached to the instrument and the gas reference standard it contains. The Rule itself, however, treats the “breath alcohol instrument” (hereinafter, instrument) very differently from “equipment.”\n{14} SLD selects the instruments used in New Mexico based on criteria that include performance in SLD’s evaluation process, field history, manufacturer support capability, and evaluations by other users, including approval by the National Highway Traffic Safety Administration, 7.33.2.9 NMAC. The Rule requires that both instruments and equipment (as relevant here, gas tanks and reference standards) must be approved by SLD before they may be used in BATs. See 7.33.2.9(A) NMAC (stating that manufacturers of instruments and reference standards must “submit their instrumentation and equipment to SLD for approval”); 7.33.2.9(H) NMAC (stating that SLD may withdraw approval of instrument and equipment “if the manufacturer fails to comply with the provisions of the approval criteria or the terms of any contracts with SLD”). It also requires that SLD maintain a list of the instruments and equipment it has approved for use under the ICA. See 7.33.2.16(B) NMAC. Finally, as the State notes in its answer brief, the SLD publishes a list of SLD approved breath and blood alcohol testing or collection devices. Although there is nothing in the record concerning the contents of the list in 2012, the current list, updated on April 2, 2014, identifies the IR 8000 as the approved instrument; identifies by manufacturer and model approved gas reference standard tanks; and clarifies that “[a]ll tanks, which are compatible with the [IR] 8000, containing an approved reference standard, are approved for use.” N.M. Dep’t of Health, List of Approved Breath & Blood Alcohol Testing or Collection Devices & Accessories, available at http://nmhealth.org/publication/view/general /1537/.\n{15} As to equipment, the only other requirements stated in the Rule are that breath alcohol samples “shall be collected and analyzed pursuant to the procedures prescribed by SLD and employing only SLD approved equipment^]” 7.33.2.15(B)(1) NMAC (emphasis added), and that “calibration checks” of instruments must be performed using gas reference standards that have been approved by SLD. 7.33.2.14(C)(2)(b) NMAC. The Rule defines “Calibration check” as “[t]he analysis of an externally delivered, controlled, ethanol vapor specimen of known alcohol concentration” and requires that “SLD shall determine the breath alcohol simulators or gases to be used.” 7.33.2.7(1) NMAC. In a calibration check, the instrument is checked to ensure that its analysis of one or more reference standards (here, gas) of known alcohol concentration produces a reading within a specified range. 7.33.2.14(C)(2)(b)(i)-(iii) NMAC.\n{16} In contrast to equipment, instruments, once approved, must also be certified by SLD. See 7.33.2.10(A) NMAC (“[BJreath alcohol instruments to be used for implied consent evidential testing must be approved and certified by SLD.”). The Rule’s certification requirements for instruments are extensive. 7.33.2.10 NMAC. So too, are the certification requirements for operators, 7.33.2.11 NMAC; key operators, 7.33.2.12NMAC; and operator instructors, 7.33.2.13 NMAC. For example, each individual instrument must be certified “for a period of up to one year,” and “[a] certificate shall be issued for each instrument and shall be maintained by the responsible agency.” 7.33.2.10(A) NMAC. The certification of each instrument must be renewed annually based on compliance with the Rule and, again, a certificate must be issued for each instrument and maintained by the responsible agency. 7.33.2.10(C) NMAC. To obtain initial certification an individual instrument must be inspected and calibration-checked by SLD, 7.33.2.10(A)(1) NMAC, and at least one certified key operator must be responsible for its maintenance. 7.33.2.10(A)(2) NMAC, The Rule contains numerous continuing requirements for individual instruments, including submission of logbooks and records at scheduled times; annual analysis of four proficiency samples; calibration checks at least once every seven days or with each subject test or both; biannual inspections thatinclude evaluation of the instrument’s electronic functions and settings, analysis of a series of alcohol controls with an accuracy requirement of the greater of +5 percent or .005 on all target values, and review of the instrument’s sensitivity for the detection of any interfering substances. 7.33.2.10(B)(1) NMAC. For instruments used at fixed locations, the Rule imposes additional requirements. 7.33.2.10(B)(2) NMAC. SLD may deny, suspend, or revoke the certification of any instrument for ICA testing on grounds including that the instrument is not on the SLD-approved list and that calibration results do not meet criteria established by SLD. 7.33.2.10(D)(1) NMAC.\n{17} As noted, the Rule requires that breath samples must be collected and analyzed “pursuant to the procedures prescribed by SLD and employing only SLD approved equipment and certified instruments.” 7.33.2.15(B)(1) NMAC. These procedures include collection and analysis by certified operators or certified key operators, a good faith attempt to collect and analyze at least two samples, taken not more than fifteen minutes apart and after a twenty-minute period (often referred to as the “deprivation period”) during which the subject has not had anything to eat, drink or smoke. 7.33.2.15(2) NMAC. As relevant here, the Rule also specifies the following “minimum requirements” for an ICA breath sample: (a) a system air-blank analysis before each sample; and (b) a calibration check using SLD-approved gas standards in accordance with one or both of the following procedures: (i) the instrument must be maintained and calibration-checked by the key operator, with calibration checks at least once every seven days resulting in readings within prescribed ranges upon analysis of two separate gas standards, each simulating a different specified alcohol concentration; (ii) a single calibration check with each subject test using a gas standard that simulates 0.08 grams per 210 liters, resulting in a reading within ±0.01 of the specified standard. 7.33.2.14(C)(2) NMAC.\nConfirmation That SLD Has Approved the Equipment On a Breath Alcohol Instrument Is Not Required by SLD Regulations and Is Not a Foundational Prerequisite to Admission of BAT Results\n{18} Our Supreme Court has held that, to meet foundational requirements under Rule 11-104(A), the State need not show strict compliance with all SLD regulations set forth in the Rule, but only with those regulations that are “accuracy-ensuring.” Martinez, 2007-NMSC-025, ¶ 11 (citing State v. Dedman, 2004-NMSC-037, ¶ 13, 136 N.M. 561, 102 P.3d 628, overruled on other grounds by State v. Bullcoming, 2010-NMSC-007, 147 N.M. 487, 226 P.3d 1). la. Martinez, our Supreme Court held that SLD regulations governing certification of instruments “clearly exist to ensure that the result of a test conducted on a breathalyser is accurate},]” and thus, a threshold showing of current SLD certification of an instrument at the time of the BAT is a foundational prerequisite for admission of BAT results into evidence. 2007-NMSC-025, ¶¶ 11-12. In Dedman, the Court held that the purpose of an SLD regulation requiring collection of a blood alcohol sample by “veni-puncture” was not to ensure the accuracy of the test and, as a result, a showing of compliance with that requirement was not a foundational prerequisite to the admissibility of blood alcohol reports. 2004-NMSC-037, ¶¶ 14-19.\n{19} Defendant asserts that SLD approves tanks and gases because they are used in “self-calibration checks by an [IR 8000] during a breath test” and that “[i]t follows that both the process of approval and the purpose of the tanks and gases should ensure the accuracy of breath test results.” She concludes that “[t]he minimum foundation for showing approval of the simulator solution [sic] is the same as that for showing certification of a breath machine[,]” and therefore, “upon objection, the officer testifying for this foundation should be aware of SLD documentation asserting the approval of both the certification of the breath machine and approval of accessories.” The argument lacks merit.\n{20} The certification requirements for the instrument relate to its “routine function ... in order to [ensure] that it gives accurate readings.” Dedman, 2004-NMSC-037, ¶ 12 (internal quotation marks and citation omitted). Similarly, “[t]he purpose of calibration is to ensure that the machine is working properly so that a valid breathalyzer test result is obtained.” State v. Montoya, 1999-NMCA-001, ¶ 12, 126 N.M. 562, 972 P.2d 1153. The calibration check specified in the Rule checks the instrument to ensure that its analysis of one or more gas reference standards of known alcohol concentration produces a reading within a specified range. 7.33.2.14(C)(2)(b)(i)-(iii) NMAC. If it does, the instrument is deemed to be functioning properly; if it does not, there is a problem. While it is possible that a given tank may contain a gas that is not at the alcohol concentration specified by the Rule, the defect presumably would be revealed in an instrument reading outside the range prescribed by the Rule. In this case, Officer Frazier testified that calibration checks were run and passed.\n{21} The Legislature has delegated full authority to SLD over the testing of persons believed to be DUI, including the establishment of criteria and specifications for equipment, quality control, testing methodology and standards, and the certification of breath alcohol instruments, operators, and instructors. Section 24-1 -22(A), (B). And the regulations embodied in the SLD Rule plainly treat instruments very differently from equipment used with instruments. As discussed, the Rule imposes extensive and explicit certification requirements on instruments (as well as operators, key operators, and operator instructors), including that each individual instrument have a current certificate evidencing compliance with SLD regulations. In contrast, the only requirements for equipment stated in the Rule are that SLD approve and maintain a list of approved manufacturer’s equipment, see 7.33.2.9(A) NMAC; 7.33.2.16(B) NMAC; that SLD-approved equipment be used to collect and analyze breath alcohol samples, see 7.33.2.15(B)(1) NMAC; and that instrument calibration checks be performed using SLD-approved gas reference standards, see 7.33.2.14(C)(2)(b) NMAC. The Rule contains no requirement that SLD or certified instrument operators must confirm that each individual tank and its contents are SLD-approved before a BAT is administered. The Rule itself contains no indication that such individual confirmation is necessary to ensure the accuracy of a BAT result. And the SLD’s current approved list suggests the contrary, stating that “[a]ll tanks, which are compatible with the [IR] 8000, containing an approved reference standard, are approved for use.” N.M. Dep’t of Health, List of Approved Breath & Alcohol Testing or Collection Devices & Accessories, available at http://nmhealth.org/ publication /view/general/1537/.\n{22} Neither the plain language nor the “obvious spirit or reason” of the SLD Rule even suggests that the regulations requiring SLD approval of equipment are “accuracy ensuring” in the same manner as the regulations imposing numerous certification requirements on SLD-approved instruments on a per-instrument basis. And Defendant has provided no basis from which to conclude that confirmation by the certified instrument operator at the time of the BAT that the gas tank and the reference standard it contains are SLD-approved is necessary to ensure the accuracy of the BAT. We conclude that the State need not make a threshold showing that the certified operator of a certified breath alcohol instrument confirmed at the time of the test that equipment attached to the instrument is SLD-approved in order to lay a sufficient foundation under Rule 11-104(A) for the admission of BAT results into evidence. As noted in Martinez, “once the trial court determines that the [sjtate has met the foundational requirements for the admission of a BAT card, a defendant may successfully challenge the reliability of the breath test.” 2007-NMSC-025, ¶ 24. And a defendant is entitled to discovery concerning SLD-approved equipment to use in challenging the foundation for or the reliability of his or her BAT results. Id.\nCONCLUSION\n{23} The trial court did not abuse its discretion in admitting Defendant’s BAT results into evidence. We affirm.\n{24} IT IS SO ORDERED.\nLINDA M. VANZI, Judge\nWE CONCUR:\nJAMES J. WECHSLER, Judge\nTIMOTHY L. GARCIA, Judge\nThe parties dispute whether Defendant preserved a foundational challenge to the gas reference standard within the tank as well as to the tank itself. Given our disposition, we need not and do not roach the preservation issue.\nThe BAT in this case was conducted with an instrument that uses a gas reference standard. “Simulator solutions” are reference standards used with instruments that measure breath alcohol by a different methodology. Defendant sometimes refers to the reference standards as the “simulator solution” or “solution,” but there is no dispute that a gas reference standard was used in this case.",
+        "type": "majority",
+        "author": "VANZI, Judge."
+      }
+    ],
+    "attorneys": [
+      "Hector H. Balderas, Attorney General Santa Fe, NM Jacqueline R. Medina, Assistant Attorney General Albuquerque, NM for Appellee",
+      "Ben A. Ortega Albuquerque, NM for Appellant",
+      "New Mexico District Attorneys Association Robert P. Tedrow Kari E. Brandenburg, District Attorney Michelle S. Garcia, Assistant District Attorney Albuquerque, NM for Amicus Curiae"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, February 15, 2016,\nNo. S-1-SC-35708;\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-022\nFiling Date: December 22, 2015\nDocket No. 33,715\nSTATE OF NEW MEXICO, Plaintiff-Appellee, v. TARRAH HOBBS, Defendant-Appellant.\nHector H. Balderas, Attorney General Santa Fe, NM Jacqueline R. Medina, Assistant Attorney General Albuquerque, NM for Appellee\nBen A. Ortega Albuquerque, NM for Appellant\nNew Mexico District Attorneys Association Robert P. Tedrow Kari E. Brandenburg, District Attorney Michelle S. Garcia, Assistant District Attorney Albuquerque, NM for Amicus Curiae"
+  },
+  "file_name": "3131-01",
+  "first_page_order": 369,
+  "last_page_order": 376
+}

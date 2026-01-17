@@ -1,0 +1,118 @@
+{
+  "id": 12299160,
+  "name": "The People of the State of New York, Plaintiff, v. Robert Hernandez, Defendant",
+  "name_abbreviation": "People v. Hernandez",
+  "decision_date": "2017-05-05",
+  "docket_number": "",
+  "first_page": "586",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 586"
+    },
+    {
+      "type": "parallel",
+      "cite": "54 N.Y.S.3d 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "23 NY3d 179",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4224535
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/23/0179-01"
+      ]
+    },
+    {
+      "cite": "12 NY3d 433",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3734634
+      ],
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/12/0433-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 738",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426921
+      ],
+      "pin_cites": [
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0738-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 475,
+    "char_count": 8188,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.2502441262019523
+    },
+    "sha256": "6df1cb6d7c4e605398a5894b7ccb7e6cb257da5d0900b0223629db3db1a2cf0d",
+    "simhash": "1:a61de568145b24e9",
+    "word_count": 1330
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Robert Hernandez, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMatthew J. D’Emic, J.\nDefendant is charged with rape in the first degree and related charges. On July 16, 2015, a justice of this court signed an order pursuant to chapter 705 of the Criminal Procedure Law authorizing the use of a pen register, a trap and trace device, cell site data and GPS tracking of defendant’s cell phone. Defendant moves to suppress evidence either directly obtained from the order, or evidence that constitutes the fruits of the order. He specifically moves to suppress a statement allegedly made by him and an identification procedure for which he has received notice from the People pursuant to CPL 710.30. For the following reasons, defendant’s motion is denied.\nDefendant argues that chapter 705 authorizes the People to obtain an order for a pen register and a trap and trace device, and that the order in this case improperly included GPS location information, which can only be obtained through a properly authorized search warrant. In response, the People contend: (1) that short-term use of GPS location information on a cellular phone does not constitute a search; (2) that regardless of the applicable standard of proof to obtain judicial approval, the defendant was not apprehended by the use of the GPS information authorized here; and (3) that the order issued here reflected that the People had established probable cause for the application. Therefore, they claim the failure to submit a search warrant application was merely a technical error and the evidence should not be suppressed.\nThe application submitted with the July 16, 2015 order established that on July 13, 2015, the perpetrator, a prior client of the complainant, scheduled an appointment via telephone with the complainant for her services as an escort. The complainant only knew him as “Tyson.” At the scheduled time, the perpetrator and another male entered the apartment of the complainant, duct-taped her hands and feet, and the perpetrator forcibly raped her, while the other male held her legs. Upon leaving the apartment, the perpetrator took two cell phones, a laptop and some money belonging to the complainant. When the incident was reported to the police, the complainant was only able to provide “Tyson’s” telephone number. Based on this information, the People submitted the application pursuant to CPL 705.10, 705.15, and 705.20 for an order to install and use a pen register, trap and trace device, cell site information and GPS precision location to assist in locating and apprehending the perpetrator of the crime. The court signed the submitted order.\nThe police attempted to utilize GPS information to locate Tyson and were successful in doing so for one day, July 18, 2015, when they were able to track him to two different public intersections in Brooklyn. By July 20, 2015, however, the police were informed that the phone was offline and could no longer be tracked via GPS. The defendant was apprehended later by using information obtained in the trap and trace order which had produced a log of incoming calls to the cellular number in question. An assigned detective reviewed the log and ran the numbers through a New York City Police Department database to see if prior complaints listed any of those incoming numbers. One phone number from the log was associated with a prior complaint. That phone number belonged to defendant’s girlfriend which eventually led the police to pinpoint the defendant as the perpetrator of the instant crime.\nPursuant to CPL 705.10, a judicial order authorizing a pen register and/or a trap and trace device may be issued upon a showing of reasonable suspicion. This contrasts with the higher standard of probable cause required for an eavesdropping warrant (People v Bialostok, 80 NY2d 738, 744 [1993]). Underlying the difference is the determination by the Court of Appeals that non-eavesdropping devices do not intrude on a legitimate expectation of privacy because they record only phone numbers dialed and do not disclose more than what phone users voluntarily convey to the telephone company in the ordinary course of business (id.).\nThe use of GPS tracking devices further elevates the level of intrusiveness. In People v Weaver (12 NY3d 433, 442 [2009]), a case involving the placement of a GPS device inside the bumper of a car, the Court of Appeals concluded that GPS technology is more intrusive than pen registers or trap and trace devices, stating,\n“[W]ith GPS becoming an increasingly routine feature in cars and cell phones, it will be possible to tell from the technology with ever increasing precision who we are and are not with, when we are and are not with them, and what we do and do not carry on our persons—to mention just a few of the highly feasible empirical configurations.”\nThe Court went on to hold that under the New York State Constitution, in the absence of exigent circumstances, the installation and use of a GPS device to monitor an individual’s whereabouts constituted a search that was illegal absent probable cause and without a warrant (id. at 445).\nWith the requirement of probable cause, a warrant for a GPS tracking device fits into the statutory scheme for eavesdropping and visual surveillance warrants. Accordingly, the People must provide the issuing court with additional information including a showing that normal investigative procedures have been tried and have failed or reasonably appear to be unlikely to succeed if tried, or are too dangerous to employ (see GPL 700.15 [4]; 700.20 [2] [d]). Thus, contrary to the People’s position, it is not a mere technical error that they failed to apply for a proper search warrant to obtain GPS tracking information in this case, regardless of whether the People established probable cause.\nThe failure to obtain a proper warrant in this case did not prejudice the defendant because no useful information was procured from the limited use of the GPS device. The police were only able to gather location information on July 18, 2015, when they tracked the phone in question to two public intersections in Brooklyn. Thereafter, the phone was offline and GPS information was no longer obtainable. The police investigation then began to focus on a log of incoming calls to the cellular number which they obtained legally from the properly authorized trap and trace order. The list of incoming phone numbers eventually led them to defendant’s girlfriend, and through continued investigation, the police determined that the defendant was the perpetrator in this case. The apprehension of the defendant was therefore based on authorized and legally obtained information and was not accomplished through improper GPS tracking.\nIn People v Lewis (23 NY3d 179 [2014]), the Court of Appeals addressed a fact pattern with some similarities. In that case, police had obtained an eavesdropping warrant to wiretap defendant’s cell phones, but had also placed a GPS tracking device on defendant’s car without first obtaining a search warrant to do so. On one date, the GPS device provided evidence of defendant’s criminal activity, however, the investigators also learned from the legally wiretapped phone calls about that same criminal activity. The Court found that while the use of the GPS device was a constitutional violation, the violation was harmless because the information provided by the GPS was redundant to the information which had been obtained legally {id. at 189).\nIn this case, the GPS did not provide any evidence of criminality by the defendant and therefore, the minimal evidence obtained from the device would add nothing to the People’s case at trial. Based on these facts, the court finds that evidence subsequently discovered from the trap and trace order, an independent legal source, need not be suppressed {id.).\nAccordingly, defendant’s motion to suppress is denied.",
+        "type": "majority",
+        "author": "Matthew J. D’Emic, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Brooklyn Defender Services, Brooklyn (Susan Mitchell of counsel), for defendant.",
+      "Eric Gonzalez, Acting District Attorney, Brooklyn (Gwen Barnes of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[54 NYS3d 543]\nThe People of the State of New York, Plaintiff, v Robert Hernandez, Defendant.\nSupreme Court, Kings County,\nMay 5, 2017\nAPPEARANCES OF COUNSEL\nBrooklyn Defender Services, Brooklyn (Susan Mitchell of counsel), for defendant.\nEric Gonzalez, Acting District Attorney, Brooklyn (Gwen Barnes of counsel), for plaintiff."
+  },
+  "file_name": "2808-01",
+  "first_page_order": 586,
+  "last_page_order": 590
+}

@@ -1,0 +1,589 @@
+{
+  "id": 12168521,
+  "name": "AMERICAN FEDERATION OF STATE, COUNTY & MUNICIPAL EMPLOYEES, COUNCIL 18, AFL-CIO, LOCALS 1461, 2260 and 2499, Plaintiffs-Petitioners, v. BOARD OF COUNTY COMMISSIONERS OF BERNALILLO COUNTY, Defendant-Respondent",
+  "name_abbreviation": "American Federation of State, County & Municipal Employees, Council 18, Locals 1461, 2260 & 2499 v. Board of County Commissioners",
+  "decision_date": "2016-05-23",
+  "docket_number": "Docket No. S-1-SC-35248",
+  "first_page": "751",
+  "last_page": "761",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMSC-017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M.",
+    "id": 8835,
+    "name": "Supreme Court of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "1999-NMSC-005",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        827403
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/126/0788-01"
+      ]
+    },
+    {
+      "cite": "471 F.3d 1199",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5251639
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/471/1199-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 490",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9528
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0490-01"
+      ]
+    },
+    {
+      "cite": "529 F.3d 538",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3627681
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "544-45",
+          "parenthetical": "quoting Warth v. Seldin, 422 U.S. 490, 499 n.10 (1975)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/529/0538-01"
+      ]
+    },
+    {
+      "cite": "528 F.3d 122",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3579911
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "134",
+          "parenthetical": "internal quotation marks and citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/528/0122-01"
+      ]
+    },
+    {
+      "cite": "365 F.3d 882",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9256391
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "891",
+          "parenthetical": "\"[T]he hardship inquiry may be answered by asking whether the challenged action creates a direct and immediate dilemma for the parties.\" (internal quotation marks and citation omitted)"
+        },
+        {
+          "page": "891",
+          "parenthetical": "\"[Pjostponing'decision on this case until [pjlaintiff has suffered some concrete harm cannot itself constitute an independent harm to [pjlaintiff.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/365/0882-01"
+      ]
+    },
+    {
+      "cite": "2008-NMCA-093",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4003669
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0636-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-006",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        18391
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/124/0640-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 99",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12121882
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0099-01"
+      ]
+    },
+    {
+      "cite": "387 U.S. 136",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11335008
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0136-01"
+      ]
+    },
+    {
+      "cite": "111 N.M. 622",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        715235
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/111/0622-01"
+      ]
+    },
+    {
+      "cite": "1991-NMSC-018",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶ 25"
+        },
+        {
+          "page": "¶ 26"
+        },
+        {
+          "page": "¶ 25"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008-NMSC-045",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4002944
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 19"
+        },
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/144/0471-01"
+      ]
+    },
+    {
+      "cite": "82 N.M. 322",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5336398
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/82/0322-01"
+      ]
+    },
+    {
+      "cite": "1971-NMSC-012",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2001-NMSC-028",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        352271
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/130/0734-01"
+      ]
+    },
+    {
+      "cite": "81 N.M. 28",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5367830
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/81/0028-01"
+      ]
+    },
+    {
+      "cite": "1969-NMSC-140",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 16"
+        },
+        {
+          "page": "¶ 16",
+          "parenthetical": "quoting Warth v. Seldin, 422 U.S. 490, 499 n.10 (1975)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010-NMSC-049",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4249914
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        },
+        {
+          "page": "¶ 18"
+        },
+        {
+          "page": "¶ 19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/149/0042-01"
+      ]
+    },
+    {
+      "cite": "44 N.M. 300",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1566834
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/44/0300-01"
+      ]
+    },
+    {
+      "cite": "1940-NMSC-026",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004-NMSC-016",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        1427947
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/135/0472-01"
+      ]
+    },
+    {
+      "cite": "2007-NMSC-055",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        3692839
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/142/0786-01"
+      ]
+    },
+    {
+      "cite": "2015-NMCERT-006",
+      "category": "reporters:neutral",
+      "reporter": "NMCERT",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "352 P.3d 682",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-070",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4362456
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "¶¶ 14-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0179-01"
+      ]
+    },
+    {
+      "cite": "274 P.3d 108",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4187930
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/1/0446-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-020",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        834209
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0401-01"
+      ]
+    },
+    {
+      "cite": "1997-NMSC-028",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        142200
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/123/0421-01"
+      ]
+    },
+    {
+      "cite": "349 U.S. 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333990
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/349/0133-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1307,
+    "char_count": 32503,
+    "ocr_confidence": 0.789,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.24685377410034332
+    },
+    "sha256": "d5e170c96ef8b37c81f6e8a4c5eebc929b12585dc33814b72ad4cfb25fbfc1c7",
+    "simhash": "1:5a5d7413a0483752",
+    "word_count": 5068
+  },
+  "last_updated": "2024-02-27T23:39:59.150981+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "JUDITH K. NAKAMURA, Justice",
+      "CHARLES W. DANIELS, Chief Justice",
+      "BARBARA J. VIGIL, Justice",
+      "EDWARD L. CHÁVEZ and PETRA JIMENEZ MAES, Justices, concurring in part and dissenting in part"
+    ],
+    "parties": [
+      "AMERICAN FEDERATION OF STATE, COUNTY & MUNICIPAL EMPLOYEES, COUNCIL 18, AFL-CIO, LOCALS 1461, 2260 and 2499, Plaintiffs-Petitioners, v. BOARD OF COUNTY COMMISSIONERS OF BERNALILLO COUNTY, Defendant-Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nNAKAMURA, Justice.\n{1} Petitioners, American Federation of State, County and Municipal Employees, Council 18, AFL-CIO, Locals 1461, 2260 and 2499 (AFSCME), brought a declaratory-judgment action challenging the grandfather status of Respondent’s, Board of County Commissioners of Bernalillo County (County Commission), local lab or relations board. The merits of AFSCME’s claims were considered and rejected by both the district court and the Court of Appeals. We focus on the statutory jurisdictional prerequisites of New Mexico’s Declaratory Judgment Act, NMSA 1978, §§ 44-6-1 to -15 (1975), and hold that AFSCME failed to satisfy those prerequisites. AFSCME’s claims are not ripe, and AFSCME failed to assert an injury-in-fact. Accordingly, the district court lacked jurisdiction to adjudicate AFSCME’s declaratory-judgment action. We remand to the district court to dismiss for lack of jurisdiction. As the Court of Appeals also lacked jurisdiction, its opinion is vacated.\nI. BACKGROUND\n{2} AFSCME is the exclusive bargaining representative under the Public Employee Bargaining Act (PEBA), NMSA 1978, §§ 10-7E-1 to -26 (2003, as amended through 2005), for unionized public employees in Bernalillo County. The County Commission is the public employer of unionized public employees in Bernalillo County under the PEBA.\n{3} In 1975, the County Commission enacted Labor-Management Relations Ordinances (LMROs) for the purpose of allowing “county employees to organize and bargain collectively with the county government.” Bernalillo County, N.M., Ordinances, ch.2, art. Ill, div.5, § 2-201 (1975). By these ordinances, the County Commission established a labor relations board (the County Labor Board) to adjudicate workplace disputes between the County Commission and its employees. See Bernalillo County, N.M., Ordinances, ch.2, art. Ill, div.5, § 2-210(f) (1975) (stating that “[a]ny allegation that a prohibited practice has been committed will be submitted to the [County Labor Board]” and describing the procedures the County Labor Board shall follow); Bernalillo County, N.M., Ordinances, ch.2, art. Ill, div.5, § 2-214 (1975) (establishing and defining the function and membership of the County Labor Board as well as the process for appointment of its members and their term lengths).\n{4} The County Labor Board functions as the local equivalent of the Public Employee Labor Relations Board (PELRB) and derives legal status from Section 10-7E-26(A), a provision of the PEBA this Court has previously referred to as the “grandfather clause.” See Regents of Univ. of N.M. v. N.M. Fed'n of Teachers, 1998-NMSC-020, ¶ 8, 125 N.M. 401, 962 P.2d 1236. Section 10-7E-26(A) is “a special provision for those public employers that, prior to October 1, 1991, had already voluntarily adopted a collective-bargaining system and had successfully negotiated collective-bargaining agreements with their employees.” Regents of Univ. of N.M., 1998-NMSC-020, ¶ 8. The provision permits “those public employers to continue to operate under their pre-existing provisions and procedures.” Id.\n{5} In July of 2013, AFSCME filed a complaint for declaratory judgment and permanent injunctive relief in the Second Judicial District Court under New Mexico’s D eclaratory Judgment Act. At the heart of this complaint were two allegations: first, AFSCME contended that the County Commission had engaged in a prohibited practice by allegedly refusing to engage in labor negotiations in April and May of 2013 even though a collective bargaining agreement between the parties purportedly required the County Commission to do so. Second, AFSCME alleged that four employees at the Bernalillo County Juvenile Detention Center had been wrongly designated as sirpervisors, and that these employees were entitled to be accreted into the bargaining unit.\n{6} AFSCME acknowledged that these claims would typically be heard by the County Labor Board; however, AFSCME argued that it should not be required to proceed in front of that entity but should be permitted to file its claims with the PELRB because the LMROs deprive it and its members of due process. AFSCME offered the following argument to support this contention. While the LMROs designate the neutral County Labor Board as the initial adjudicator of prohibited-practice complaints, Bernalillo County, N.M., Ordinances, ch.2, art. Ill, div.5, Section 2-211(a) (1975) of the LMROs designates the County Commission as the final arbiter of any “violations” identified by the County Labor Board, and states that the County Commission is not bound by the County Labor Board’s findings and conclusions but is empowered to engage in independent review of the evidence and arguments. Id. According to AFSCME, the County Commission is self-evidently biased because it is the employer and is, therefore, necessarily opposed to employee interests. AFSCME claims that requiring it to proceed before a biased adjudicator violates its and its members’ due process rights. Accordingly, AFSCME concludes that the County Labor Board is not entitled to grandfather status under Section 10-7E-26(A). In its answer to AFSCME’s complaint, the County Commission denied having engaged in any unlawful conduct and claimed, as an affirmative defense, that AFSCME’s action is not ripe and, therefore, should be dismissed.\n{7} The parties stipulated that the district court could decide AFSCME’s declaratory-judgment action on briefs only, and a briefing schedule was issued. AFSCME’s brief restated and clarified the arguments laid out in its complaint. The County Commission’s response brief focused on what it described as AFSCME’s central error: AFSCME failed to provide any evidence to support the contention that the County Commission is biased, and, therefore, AFSCME’s contention thatthe LMROs are not entitled to grandfather status fails. The County Commission argued that, in New Mexico, it is presumed that public officials properly perform their duties, see City of Albuquerque v. Montoya, 2012-NMSC-007, ¶ 20, 274 P.3d 108, and AFSCME wrongly presumes the opposite. AFSCME’s claims also fail to acknowledge, the County Commission noted, that the County Commission has a significant interest in ensuring harmonious relations with its employees. Finally, the County Commission argued that AFSCME failed to identify any harm resulting from the alleged bias and, for this reason, contended that AFSCME’s claims were not ripe for review.\n{8} The district court entered an opinion and order in which it addressed the merits of the parties’ dispute, rejected AFSCME’s argument that the County Labor Board was not entitled to grandfather status, and dismissed AFSCME’s complaint. The district court characterized AFSCME’s claim that the County Commission was self-evidently biased against employees as unsupported by facts or law. The Court of Appeals also reached the merits of the dispute and affirmed. Am. Fed’n of State v. Bd. of Cty. Comm'rs of Bernalillo Cty., 2015-NMCA-070, ¶¶ 14-15, 352 P.3d 682, cert. granted, 2015-NMCERT-006 (No. 35,248, June 19, 2015). In attempting to articulate what precisely AFSCME found objectionable about the LMROs, the Court of Appeals was required to carefully parse AFSCME’s arguments and engage in guesswork. Id. ¶¶ 7-8. The lower courts’ reactions to AFSCME’s arguments are entirely understandable. As we clarify in the discussion below, AFSCME’s claims are speculative and contingent.\n{9} We granted certiorari, exercising our jurisdiction under Article VI, Section 3 of the New Mexico Constitution and NMSA 1978, Section 34-5-14(B) (1972). After careful review of the briefs and consideration of the parties’ presentations at oral argument, it is clear that the operative question in this case is whether AFSCME satisfied statutory jurisdictional prerequisites to bring suit under New Mexico’s Declaratory Judgment Act.\nII. DISCUSSION\nA. Standard of Review\n{10} The standard of review for jurisdictional issues is de novo. Smith v. City of Santa Fe, 2007-NMSC-055, ¶ 10, 142 N.M. 786, 171 P.3d 300.\nB. Declaratory-Judgment Actions\n{11} The Declaratory Judgment Act (the Act), §§ 44-6-1 to -15, grants jurisdiction to the district courts to determine questions of the construction or validity of local laws and municipal ordinances. Smith, 2007-NMSC-055, ¶ 14. Section 44-6-4 states, in pertinent part, that “[a]ny person ... whose rights, status or other legal relations are affected by a statute, [or] municipal ordinance . . . may have determined any question of construction or validity arising under the . . . statute, [or] ordinance . . . and obtain a declaration of rights, status or other legal relations thereunder.” Given the specific nature of AFSCME’s claim—-that the LMROs violate AFSCME’s due process rights and, thus, the LMROs are not entitled to grandfather status—it appears Section 44-6-4 was the provision under which AFSCME should have proceeded.\n{12} In its complaint, AFSCME relied on another provision of the Act, Section 44-6-13. This provision deals with the circumstances under which “the State ofNew Mexico, or any official thereof, may be sued and declaratory judgment entered ...” Id. We have addressed this provision in the context of waiver of state sovereign immunity and concluded that the provision “permits parties to sue the state when the state’s consent to be sued otherwise exists.” Gill v. Pub. Emps. Ret. Bd., 2004-NMSC-016, ¶ 11, 135 N.M. 472, 90 P.3d 491. It is unclear whether Section 44-6-13 has any application here. Itis unnecessary, however, to resolve this complication. AFSCME was required to fulfill certain jurisdictional prerequisites to proceed under any provision of the Act.\n{13} In 1935, the Legislature enactedNew Mexico’s first declaratory-judgment act, which was patterned on the federal act and provided that “[i]n cases of actual controversy, the courts of record of the State of New Mexico shall have power, upon petition, declaration complaint, or other appropriate pleadings, to declare rights and other legal relations of any interestedparty petitioning for such declaration . . ..” 1935 N.M. Laws, ch. 143, § 1. Shortly thereafter, in Taos County Board of Education v. Sedillo, this Court held that “under section 1 of our [declaratory judgment] act an actual controversy must exist to confer jurisdiction.” 1940-NMSC-026, ¶ 22, 44 N.M. 300, 101 P.2d 1027. As early as Sedillo', this Court already considered it well-settled that a justiciable controversy is a necessary precondition to invoke a court’s jurisdiction to decide a declaratory-judgment action. See id. ¶¶ 22-26. The current version of the Act is significantly similar to the first version. It grants the district courts “power to declare rights, status, and other legal relations” in “cases of actual controversy.” Section 44-6-2; see also New Energy Econ., Inc. v. Shoobridge, 2010-NMSC-049, ¶ 17, 149 N.M. 42, 243 P.3d 746 (“The [Act] itself requires the presence of an ‘actual controversy’ before a district court can assume jurisdiction in a declaratory judgment action.” (quoting § 44-6-2)).\n{14} Article VI, Section 1 of the New Mexico Constitution vests the “judicial power” in the courts “as may be established by law . . . .” The Legislature may establish a right and predicate a court’s power of review on the fact that suit is brought by one of a particular class of plaintiffs or petitioners. If a statute creates a right and provides that only a specific class of persons may petition for judicial review of an alleged violation, then the courts lack the jurisdiction to adjudicate that alleged violation when the petition is brought by a person outside of that class.\n{15} From the foregoing, we reach the following conclusions. Under the Act, courts inNew Mexico have jurisdiction to adjudicate and declare rights and legal relations only in cases of actual controversy. A case of actual controversy exists only where a plaintiff satisfies justiciability requirements. If a party fails to meet these requirements, then, under the Act, the district court lacks jurisdiction to decide the merits of the action.\n{16} Issues of justiciability were raised in the proceedings below. The County Commission asserted ripeness as an affirmative defense in its answer to AFSCME’s complaint. It raised the issue again in its response in opposition to AFSCME’s brief in support of its complaint. The Commission argued in its answer brief in the proceedings before this Court that AFSCME failed to show that it suffered any harm. And at oral argument, the Commission argued that AFSCME’s claims were non-justiciable. Regardless, we may consider the justiciability of AFSCME’s claims sua sponte. It is well settled that “{¡jurisdiction of the subject matter cannot be conferred by consent of the parties, much less waived by them.” State ex rel. Overton v. N.M. State Tax Comm'n, 1969-NMSC-140, ¶ 8, 81 N.M. 28, 462 P.2d 613. “If sensed by the court, even though not raised by the parties, the question of jurisdiction compels an answer.” Id. Cf. Gunaji v. Macias, 2001-NMSC-028, ¶ 20, 130 N.M. 734, 31 P.3d 1008 (observing that lack of standing “is a potential jurisdictional defect, which may not be waived and may be raised at any stage in the proceedings, even sua sponte by the appellate court” (internal quotation marks and citations omitted)).\n{17} We are here concerned with two requirements of justiciability: ripeness and the injury-in-fact component of standing. An actual controversy is not present unless the issue raised by the litigant is ripe for judicial determination, Sanchez v. City of Santa Fe, 1971-NMSC-012, ¶ 7,82 N.M. 322,481 P.2d 401, and the litigant has standing. State ex rel. Overton, 1969-NMSC-140, ¶ 16. One essential component of standing is injury-in-fact. ACLU of N.M. v. City of Albuquerque, 2008-NMSC-045, ¶ 19, 144 N.M. 471, 188 P.3d 1222. For the reasons discussed below, we hold that AFSCME’s declaratory-judgment action is not ripe for review and AFSCME has not asserted an injury-in-fact.\n1. Ripeness\n{18} The purpose of the ripeness requirement “is and always has been to conserve judicial machinery for problems which are real and present or imminent, not to squander it on abstract or hypothetical or remote problems.” N.M. Indus. Energy Consumers v. N.M. Pub. Serv. Comm’n, 1991-NMSC-018, ¶ 25, 111 N.M. 622, 808 P.2d 592 (internal quotation marks and citation omitted). The core policy concerns animating the ripeness doctrine are avoidance of unnecessary constitutional determinations and the establishment and maintenance of proper relationships between the judiciary and other branches of government. 13B Wright, Miller & Cooper, Federal Practice and Procedure § 3532.1 at 394 (3d ed. 2008). See also ACLU of N.M., 2008-NMSC-045, ¶ 10 (observing that analysis of justiciability principles in New Mexico have long been guided by federal practice). The importance of these concerns cannot be overemphasized. As one leading treatise correctly notes, “courts should not render decisions absent a genuine need to resolve a real dispute. Unnecessary decisions dissipate judicial energies better conserved for litigants who have a real need of official assistance.” Wright, Miller & Cooper, supra, § 3532.1 at 372-73 (footnote omitted).\n{19} Ripeness analysis involves a two pronged inquiry. We “evaluate both the fitness for the issues for judicial decision and the hardship to the parties of withholding court consideration.” N.M. Indus. Energy Consumers, 1991-NMSC-018, ¶ 25 (quoting Abbott Labs. v. Gardner, 387 U.S. 136, 149 (1967), abrogated by Califano v. Sanders, 430 U.S. 99 (1977)). When, as in the present case, constitutional questions are at issue, courts are particularly vigilant to ensure that the matter is ripe. 15 Moore’s Federal Practice § 101.79 at 101-340 (3d ed. 2015); see also City of Las Cruces v. El Paso Elec. Co., 1998-NMSC-006, ¶ 21, 124 N.M. 640, 954 P.2d 72 (“[I]t is an enduring principle of constitutional jurisprudence that courts will avoid deciding constitutional questions unless required to do so.” (internal quotation marks and citation omitted)). For the reasons that follow, AFSCME’s claims are not fit, and it will suffer little hardship if we dismiss.\n{20} Fitness is concerned with “whether the claim involves uncertain and contingent events that may not occur as anticipated or may not occur at all.” 15 Moore’s Federal Practice § 101.76[l][a] at 101-312.2; accord Wright, Miller & Cooper, supra, § 3532.2 at 459 (“Many cases deny ripeness on the straight-forward ground that the anticipated events and injury are simply too remote and uncertain to justify present adjudication.”). We have previously observed that the “mere possibility or even probability that a person may be adversely affected in the future by official acts” is insufficient to establish ripeness. New Energy Econ., 2010-NMSC-049, ¶ 18 (internal quotation marks and citation omitted). This is because:\n“[i]f the facts are uncertain and the court is being asked to make a legal ruling based on the possibility that certain facts will be found to exist at some point in the future, then a decision would constitute nothing more than an advisory opinion based on a hypothetical scenario.”\n15 Moore’s Federal Practice § 101.75 at 101-312.1.\n{21} Decisions of administrative entities are fit for review only when the agency’s decision is final. See N.M. Indus. Energy Consumers, 1991-NMSC-018, ¶ 26 (indicating that the ultimate question, when considering ripeness in the administrative context, “is whether agency action is sufficiently final or definitive so that there is no judicial interest in awaiting a more concrete formulation of the issues”). This proposition serves to prevent “judicial interference until an administrative decision has been formalized and finalized and its effects felt in a concrete way by the parties.” 15 Moore’s Federal Practice § 101.76[l][c] at 101-317 to 101-318. Moreover, the proposition serves an important role in preserving separation of powers. See New Energy Econ., 2010-NMSC-049, ¶ 19 (“Judicial action that disrupts the administrative process before it has run its course intrudes on the power of another branch of government.”).\n{22} AFSCME’s injury is based on two underlying claims: (1) the County Commission refused to negotiate and (2) it is entitled to accrete into the bargaining unit four employees at the Bernalillo County Juvenile Detention Center. As noted, AFSCME asserts that it need not file these claims with the County Labor Board because the Board is not entitled to grandfather status. According to AFSCME, the Board is not entitled to this status because its decisions are subject to a biased review by the County Commission which would deprive AFSCME and its members of due process.\n{23} With respect to the allegation that the County Commission refused to negotiate, AFSCME’s due-process injury would materialize only if the County Labor Board found that refusal to bargain was in fact a prohibited practice. If the County Labor Board makes no such finding, the County Commission has no right of review. See Bernalillo County, N.M., Ordinances, ch. 2, art. Ill, div.5, § 2-211(a) (stating that the County Commission shall exercise independent review only where the County Labor Board finds a party guilty of a violation). Where the Commission has no right to review, there can be no opportunity for the Commission to exercise an alleged bias and deprive AFSCME and its members of due process. And even if the County Labor Board found the County Commission’s refusal to negotiate to be a prohibited practice, AFSCME’s injury still would only actualize if the Commission reversed the Board’s findings. Only then would AFSCME allege a non-hypothetical injury.\n{24} With regard to the accretion issue, it is not clear whether the County Commission is even adverse to AFSCME’srequestto accrete the employees. According to AFSCME, these employees were wrongly designated as supervisors when they are not. At oral argument, AFSCME contended that the County Commission would necessarily oppose the accretion of these employees in light of the fact that the employees would, after accretion, be entitled to additional rights and benefits. But this is speculation. Does the County Commission oppose AFSCME’s argument that the employees were wrongly designated? Will the County Labor Board agree with AFSCME about the errant designation of these employees? If the Board does agree, will it permit accretion and will it find a prohibited practice or other violation as defined in Bernalillo County, N.M., Ordinances, ch.2, art. Ill, div.5, § 2-211(a) such that the Board shall request the Commission to enter an order? Will the County Commission ignore the Board’s finding, engage in bias, and then enter an order contrary to the Board’s order? We do not know the answer to any of these questions. AFSCME asks us to speculate.\n{25} Additionally, the LMROs and the proceedings they establish function, for all purposes and effect, as administrative proceedings. AFSCME’s declaratory-judgment action involved the district court in those proceedings well in advance of any final adjudication at the county level. AFSCME does not contest the neutrality or legitimacy of the County Labor Board; yet, even that entity was not given the opportunity to rule on the refusal-to-bargain and accretion issues. In this instance, there was no county-level adjudication at all. No concrete formulation of the issue was permitted to develop.\n{26} If any doubt existed that AFSCME’s claims were not fit, those doubts dissipated at oral argument. There, AFSCME conceded that allowing the County Labor Board an opportunity to rule on the refusal to negotiate and accretion issues would help determine whether a “real dispute” exists in this case. AFSCME further conceded that there has been no single instance, in the forty-plus years the LMROs have existed, where the County Commission overruled the County Labor Board’s determination regarding a prohibited-practice violation. AFSCME attributed this positive state of affairs to the parties’ “good relationship,”\n{27} Based on the foregoing, we conclude that AFSCME’s alleged injury is speculative and contingent. Accordingly, under the Declaratory Judgment Act, it is not fit for review. See Rio Grande Kennel Club v. City of Albuquerque, 2008-NMCA-093, ¶ 24, 144 N.M. 636, 190 P.3d 1131 (rejecting as premature, under ripeness principles, a facial claim against a regulation that the city had yet to enforce); 15 Moore’s Federal Practice § 101.80[4] at 101-345 (“The existence of a contingency is sufficient to elicit a finding that the issue is not yet ripe for review.”).\n{28} The second step in the ripeness analysis is whether, and to what extent, the parties will endure hardship if a decision is withheld. See N.M. Indus. Energy Consumers, 1991-NMSC-018, ¶ 25. “The hallmark of cognizable hardship is usually direct and immediate harm.” 15 Moore’s Federal Practice § 101,76[2] at 101-331; accord Morgan v. McCotter, 365 F.3d 882, 891 (10th Cir. 2004) (“[T]he hardship inquiry may be answered by asking whether the challenged action creates a direct and immediate dilemma for the parties.” (internal quotation marks and citation omitted)). “In assessing this possibility of hardship, we ask whether the challenged action creates a direct and immediate dilemma for the parties. The mere possibility of future injury, unless it is the cause of some present detriment, does not constitute hardship.” N.Y. Civil Liberties Union v. Grandeau, 528 F.3d 122, 134 (2d Cir. 2008) (internal quotation marks and citations omitted).\n{29} The hardship AFSCME faces here is speculative. As noted, AFSCME conceded at oral argument that further adjudication at the county level will help clarify whether a real dispute exists in this case, and also conceded that, if the type of biased administrative adjudication it fears does in factmanifest, then it can return to court and seek review of that decision. Accordingly, AFSCME will not be imminently injured by dismissal. Cf. Morgan, 365 F.3d at 891 (“[Pjostponing'decision on this case until [pjlaintiff has suffered some concrete harm cannot itself constitute an independent harm to [pjlaintiff.”).\n{30} AFSCME’s claims are not fit for review, and declining to review them works no hardship on AFSCME. Accordingly, AFSCME’s claims are not ripe.\n2. Injury-In-Fact\n{31} Under New Mexico’s Declaratory Judgment Act, standing—like ripeness—is a jurisdictional prerequisite. State ex rel. Overton, 1969-NMSC-140, ¶ 16. “The standing question ‘bears close affinity to questions of ripeness—whether the harm asserted has matured sufficiently to warrant judicial intervention.’” Miss. State Democratic Party v. Barbour, 529 F.3d 538, 544-45 (5th Cir. 2008) (quoting Warth v. Seldin, 422 U.S. 490, 499 n.10 (1975)). “In some cases, the issues of standing and ripeness will completely overlap.” 15 Moore's Federal Practice § 101.71 at 101-308 to 101-309. This is particularly true “in cases involving pre-enforcement review, the standing and ripeness inquiries may tend to converge. This is because claims for pre-enforcement review involve the possibility of wholly prospective future injury, not a prayer for relief from damages already sustained.” Elend v. Basham, 471 F.3d 1199, 1205 (11th Cir. 2006).\n{32} To obtain standing in New Mexico, litigants must allege an injury-in-fact, i.e., that “they are directly injured as a result of the action they seek to challenge” in court. See ACLU of N.M., 2008-NMSC-045, ¶ 1; N.M. Right to Choose/NARAL v. Johnson, 1999-NMSC-005, ¶ 12, 126 N.M. 788, 975 P.2d 841. The litigant must show “that he is imminently threatened with injury, or, put another way, that he is faced with a real risk of future injury, as a result of the challenged action or statute.” ACLU of N.M., 2008-NMSC-045, ¶ 11 (internal quotation marks and citations omitted). Requiring the party bringing suit to show a concrete injury or threat of injury “serves well-established goals of sound judicial policy.” Id. ¶ 19. This requirement prevents our courts from making unnecessary constitutional determinations and ensures that the judiciary maintains a proper relationship with other branches of government. Id. Hypothetical possibilities of injury “will not suffice to establish the threat of direct injury required for standing.” Id. ¶ 29; see also 15 Moore’s Federal Practice § 101 -40[4][b][i] at 101-60 (“An injury that is merely conjectural, speculative, or hypothetical will not satisfy the injury-in-fact component of standing.”).\n{33} Forreasons already stated, AFSCME asserts only the possibility of a hypothetical injury and, therefore, has not established an injury-in-fact.\nIII. CONCLUSION\n{34} AFSCME did not establish the existence of an “actual controversy.” Its claims fail to satisfy the justiciability requirements of ripeness and the injury-in-fact component of standing. Therefore, the district court did not possess jurisdiction over AFSCME’s declaratory-judgment action. As the district court did not possess jurisdiction, its decision, as well as the decision of the Court of Appeals, must be vacated. We remand this matter to the district court for dismissal for lack of jurisdiction.\n{35} IT IS SO ORDERED.\nJUDITH K. NAKAMURA, Justice\nWE CONCUR:\nCHARLES W. DANIELS, Chief Justice\nBARBARA J. VIGIL, Justice\nEDWARD L. CHÁVEZ and PETRA JIMENEZ MAES, Justices, concurring in part and dissenting in part",
+        "type": "majority",
+        "author": "NAKAMURA, Justice."
+      },
+      {
+        "text": "CHÁVEZ, Justice\n(concurring in part, dissenting in part).\n{36} I respectfully concur in part and dissent in part with the majority opinion. I agree with the majority opinion that the AFSCME complaint for declaratory judgment is not ripe because AFSCME did not file with the County Labor Board. Maj. op. ¶ 23. After all, if the County Labor Board does not find a prohibited practice under Bernalillo County, N.M., Ordinances Chapter 2, Article III, Section 2-210(a) (1975), AFSCME will not have to argue its case before the Bernalillo County Commission (Commission). However, if the County Labor Board finds that either the Commission or AFSCME are guilty of a prohibited practice, the County Labor Board “shall request that the county commission enter an order against the party guilty of the violation.” Bernalillo Cty.,N.M., Ordinances ch. 2, art. Ill, § 2-211(a) (1975). The majority holds that under such circumstances “AFSCME’s injury still would only actualize if the Commission reversed the Board’s findings.” Maj. op. ¶ 23. I cannot agree with this portion ofthe majority opinion. An actual controversy regarding the significant due process concerns with the procedures in the LMRO would exist once the County Labor Board found a prohibited practice violation.\n{37} The Commission is a party to the collective bargaining agreement. If the County Labor Board finds the Commission guilty of a prohibited practice, the Commission independently decides whether it was guilty of such a violation. If the County Labor Board finds AFSCME guilty of a prohibited practice violation, the Commission independently decides whether AFSCME was guilty of such a violation. When a party to a contract gets to decide whether either it or the other party breached the contract, this in and of itself raises significant due process concerns. The United States Supreme Court recognized long ago that\n[a] fair trial in a fair tribunal is a basic requirement of due process. Fairness of course requires an absence of actual bias in the trial of cases. But our system of law has always endeavored to prevent even the probability of unfairness. T o this end no man can be a judge in his own case and no man is permitted to try cases where he has an interest in the outcome. That interest cannot be defined with precision.\nIn re Murchison, 349 U.S. 133, 136 (1955). How can a party to a contract who adjudicates whether either it or the other party breached the agreement not have an interest in the outcome? The Commission is the adjudicator in its own case.\n{38} Especially in this case, where the Commission independently makes its decision-the Commission’s review is not tethered to any standards of review. The Commission gives the evidence the weight it chooses. The Commission does not give any deference to the County Labor Board. The Commission is not limited to deciding whether the County Labor Board was arbitrary. In addition, once the Commission makes its decision, it “may petition the appropriate district court to enforce its decision on the issue.” Bernalillo Cty., N.M., Ordinances ch. 2, art. Ill, § 2-211(a). The ordinance does not address any appeal rights that AFSCME might have.\n{39} The ordinances under review are one-sided and is unlike any other Bernalillo County ordinances affecting employment relations. For example, a hearing officer is the final arbiter regarding employee discipline matters. See Bernalillo Cty., N.M., Ordinances ch. 2, art. Ill, § 2-99(a) (1998). The hearing officer’s decision is appealable to “district court pursuant to the provisions of the Uniform Arbitration Act, NMSA 1978 § 44-7-22 et. seq.” Section 2-99(i). Code of Conduct Review Board decisions are also appealed directly to the district court. Bernalillo Cty., N.M., Ordinances ch. 2, art. Ill, § 2-134 (2012) (“Any decision of the review board finding a violation of this code, with respect to an elected official, candidate or volunteer may be appealed to the Second Judicial District Court. Any decision regarding an employee shall be covered by the terms of the employment rules and regulations or collective bargaining agreement, as applicable.”).\n{40} For the foregoing reasons, I concur in part and dissent in part.\nEDWARD L. CHÁVEZ, Justice\nI CONCUR:\nPETRA JIMENEZ MAES, Justice\nAFSCME should be able to appeal directly to district court under Rule 1-075 NMRA. See Mills v. N.M. Bd. of Psychologist Exam’rs, 1997-NMSC-028, ¶ 10, 123 N.M. 421, 941 P.2d 502.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "CHÁVEZ, Justice"
+      }
+    ],
+    "attorneys": [
+      "Youtz & Valdez, P.C. Shane C. Youtz Stephen Curtice James A. Montalbano Albuquerque, NM for Petitioners",
+      "Office of the County Attorney Randy M. Autio Michael I. Garcia Albuquerque, NM for Respondent"
+    ],
+    "corrections": "",
+    "head_matter": "IN THE SUPREME COURT OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMSC-017\nFiling Date: May 23, 2016\nDocket No. S-1-SC-35248\nAMERICAN FEDERATION OF STATE, COUNTY & MUNICIPAL EMPLOYEES, COUNCIL 18, AFL-CIO, LOCALS 1461, 2260 and 2499, Plaintiffs-Petitioners, v. BOARD OF COUNTY COMMISSIONERS OF BERNALILLO COUNTY, Defendant-Respondent.\nYoutz & Valdez, P.C. Shane C. Youtz Stephen Curtice James A. Montalbano Albuquerque, NM for Petitioners\nOffice of the County Attorney Randy M. Autio Michael I. Garcia Albuquerque, NM for Respondent"
+  },
+  "file_name": "1741-01",
+  "first_page_order": 767,
+  "last_page_order": 777
+}

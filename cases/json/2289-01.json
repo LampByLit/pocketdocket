@@ -1,0 +1,476 @@
+{
+  "id": 6787737,
+  "name": "The People of the State of New York, Plaintiff, v. Robert Michie, Defendant",
+  "name_abbreviation": "People v. Michie",
+  "decision_date": "2016-03-21",
+  "docket_number": "",
+  "first_page": "270",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 270"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 N.Y.S.3d 363"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "52 NY2d 350",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1101180
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/52/0350-01"
+      ]
+    },
+    {
+      "cite": "168 NY 264",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2299526
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/168/0264-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 371",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311754
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0371-01"
+      ]
+    },
+    {
+      "cite": "48 NY2d 543",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4371711
+      ],
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/48/0543-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 218",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4433827
+      ],
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0218-01"
+      ]
+    },
+    {
+      "cite": "253 AD2d 562",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        26024,
+        26237,
+        25534
+      ],
+      "pin_cites": [
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/253/0562-03",
+        "/ad2d/253/0562-02",
+        "/ad2d/253/0562-01"
+      ]
+    },
+    {
+      "cite": "160 AD2d 515",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3619389
+      ],
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/160/0515-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 415",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356163
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "426"
+        },
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0415-01"
+      ]
+    },
+    {
+      "cite": "2009 NY Slip Op 51863",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Misc 3d 1243",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 NY2d 326",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4376130
+      ],
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0326-01"
+      ]
+    },
+    {
+      "cite": "16 NY3d 123",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3747113
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "128"
+        },
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/16/0123-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752798
+      ],
+      "pin_cites": [
+        {
+          "page": "359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0354-01"
+      ]
+    },
+    {
+      "cite": "9 NY3d 259",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5557182
+      ],
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/9/0259-01"
+      ]
+    },
+    {
+      "cite": "11 Misc 3d 424",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        5811343
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/11/0424-01"
+      ]
+    },
+    {
+      "cite": "66 Misc 2d 502",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1230971
+      ],
+      "pin_cites": [
+        {
+          "page": "502-503"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/66/0502-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 51516",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Misc 3d 905",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 AD2d 789",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1065077
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/178/0789-01"
+      ]
+    },
+    {
+      "cite": "41 NY2d 296",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 NY2d 894",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Misc 2d 48",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        880366
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/181/0048-01"
+      ]
+    },
+    {
+      "cite": "158 Misc 2d 443",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        915122
+      ],
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/158/0443-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "7 Misc 3d 8",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1187423
+      ],
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/7/0008-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75991
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0103-01"
+      ]
+    },
+    {
+      "cite": "2004 NY Slip Op 50869",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Misc 3d 1013",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 NY3d 249",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5715767
+      ],
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/18/0249-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 729",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2348315,
+        2349737,
+        2348155
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0729-02",
+        "/ny-2d/68/0729-03",
+        "/ny-2d/68/0729-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 944,
+    "char_count": 20915,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18246546420273924
+    },
+    "sha256": "81fdd043597d89fb2af0ecd56587c21650452801381ab413b5c848f67f4e65cf",
+    "simhash": "1:82a4dd017c2bb466",
+    "word_count": 3330
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Robert Michie, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nArmando Montano, J.\nDefendant is charged with riot in the second degree (Penal Law § 240.05) and disorderly conduct (Penal Law § 240.20 [5]).\nDefendant moves for an order (1) dismissing the accusatory instrument as facially insufficient; (2) suppressing any and all statements taken from defendant for which the People served proper notice pursuant to CPL 710.30, or in the alternative, granting a hearing for findings of fact and conclusions of law {Huntley/Dunaway); (3) suppressing any and all evidence and testimony relating to identifications made of defendant for which the People served proper notice pursuant to CPL 710.30, or in the alternative, granting a hearing for findings of fact and conclusions of law {Wade/Crews); (4) precluding the People from introducing at trial any evidence of defendant’s prior convictions or bad acts; and (5) granting defendant the right to make additional pretrial motions and the right to amend and/or supplement this motion if made necessary or appropriate by the People’s future disclosure.\nThe factual allegations in the accusatory instrument, sworn to by Gus Drakopoulos, read as follows:\n“Deponent states that [on or about April 29, 2015 at approximately 2:12 AM at inside 2520 Park Avenue, County of the Bronx, State of New York], Sin City nightclub, he observed defendant and multiple individuals in a group striking each other with closed fists. Deponent further states that when security pulled defendant away from said group and then attempted to separate said other individuals, defendant went back to the group of individuals who were striking each other and security personnel, got in the middle of said group of individuals, began striking and pushing multiple individuals, and had to be escorted out of the aforementioned location by security personnel. Deponent further states that there were over four individuals in the aforementioned group during the aforementioned conduct. Deponent further states that during the aforementioned, deponent further observed another individual throw a chair at said aforementioned group of individuals who were striking each other.\n“Deponent further states that there were over fifty customers and employees in the area where the aforementioned conduct occurred and said aforementioned customers and employees had to scatter in said crowded nightclub in order to avoid being struck by defendant and the other individuals in said group.”\nMotion to Dismiss\nDefendant argues that the complaint must be dismissed because the factual allegations are insufficient to support the offenses charged. Defendant asserts that the conduct alleged in the complaint of a fight between a few people at a night club where security personnel had to intervene all while a number of patrons were present does not rise to the level of a riot as proscribed under Penal Law § 240.05. Defendant contends that the “complaint . . . lacks the crux of what the rioting statute is aimed to target; there is nothing to suggest a lawless mob accomplishing or bent on accomplishing some object in a violent and turbulent manner creating public alarm . . . .” (Mem of law of defense counsel at 3.)\nDespite the fact that the complaint alleges the presence of over 50 customers and employees, defendant further asserts that the element of public alarm has not been adequately alleged. Defendant points out that the complaint is bereft of any allegations indicating that members of the public experienced alarm or that there was a grave risk that members of the public could have been affected by the fight.\nWith respect to the charge of Penal Law § 240.20 (5), defendant contends that allegations of a fight contained within a private location does not satisfy the elements of disorderly conduct. Specifically, defendant avers that the complaint fails to demonstrate that (1) he intended to cause public inconvenience, annoyance, or alarm, or that he recklessly created the risk thereof and (2) the incident occurred in a public place where pedestrian traffic was obstructed.\nIn opposition, the People argue that the information is facially sufficient in that it provides (1) adequately detailed facts of an evidentiary nature to support each and every element of the offenses charged and (2) suitable notice to defendant to prepare a defense to the offenses charged. First, the People submit that a nightclub is a public place, as defined by Penal Law § 240.00, since it is open to the general public. Second, defendant’s conduct amounted to more than a mere inconvenience. Rather, his actions caused at least 50 individuals to scatter and leave the location.\nIt is well settled that an accusatory instrument must contain facts of an evidentiary nature that support or tend to support the crimes charged (CPL 100.15 [3]; People v Dumas, 68 NY2d 729 [1986]) and contain nonhearsay allegations that establish, if true, every element of the crimes charged (CPL 100.40 [1] [c]). Further, an accusatory instrument must provide reasonable cause to believe that the defendant committed the crimes charged. (CPL 100.40 [1] [b]; Dumas, 68 NY2d 729.) Reasonable cause to believe that a defendant committed the crimes charged “exists when evidence or information which appears reliable discloses facts or circumstances which are collectively of such weight and persuasiveness as to convince a person of ordinary intelligence, judgment and experience that it is reasonably likely that such offense was committed and that such person committed it.” (CPL 70.10 [2].) “In order for the reasonable cause standard to be met, the factual portion of the accusatory instrument must describe conduct that constitutes the crime charged.” (People v Hightower, 18 NY3d 249, 254 [2011].)\nIn reviewing an accusatory instrument for facial sufficiency, the court must assume the truth of the factual allegations and consider all favorable inferences drawn therefrom. (CPL 100.40, 100.15; People v Mellish, 4 Misc 3d 1013[A], 2004 NY Slip Op 50869[U] [Crim Ct, NY County 2004].) The facts alleged need only establish the existence of a prima facie case, even if those facts would be insufficient to establish guilt beyond a reasonable doubt. (People v Jennings, 69 NY2d 103 [1986].) “The law does not require that the information contain the most precise words or phrases most clearly expressing the charge, only that the crime and the factual basis therefor be sufficiently alleged.” (People v Sylla, 7 Misc 3d 8, 10 [App Term, 2d Dept, 2d & 11th Jud Dists 2005].) As such, “[s]o long as the factual allegations of an information give an accused notice sufficient to prepare a defense and are adequately detailed to prevent a defendant from being tried twice for the same offense, they should be given a fair and not overly restrictive or technical reading.” (People v Casey, 95 NY2d 354, 360 [2000].)\nRiot in the Second Degree (Penal Law § 240.05)\nPenal Law § 240.05 provides that “[a] person is guilty of riot in the second degree when, simultaneously with four or more other persons, he engages in tumultuous and violent conduct and thereby intentionally or recklessly causes or creates a grave risk of . . . public alarm.” “The phrase ‘tumultuous and violent conduct’ . . . means much more than mere loud noise or ordinary disturbance. ‘It is designed to connote frightening mob behavior involving ominous threats of injury, stone throwing or other such terrorizing acts.’ ” (People v Morales, 158 Misc 2d 443, 445 [Crim Ct, NY County 1993], quoting Donnino, Practice Commentaries, McKinney’s Cons Laws of NY, Book 39, Penal Law § 240.05 at 210.)\n“A person acts intentionally with respect to a result or to conduct . . . when his conscious objective is to cause such result or to engage in such conduct.” (Penal Law § 15.05 [1].) “A person acts recklessly with respect to a result . . . when he is aware of and consciously disregards a substantial and unjustifiable risk that such result will occur.” (Penal Law § 15.05 [3].) “Because ‘intent’ . . . cannot be the subject of a non-hearsay evidentiary allegation, it . . .is necessary only that there be alleged evidentiary facts from which intent may be inferred.” (People v Spiegel, 181 Misc 2d 48, 52 [Crim Ct, NY County 1999], quoting People v Leiner, NYLJ, Oct. 15, 1997 at 34, col 5 [App Term, 2d Dept, 2d & 11th Jud Dists 1997], lv denied 91 NY2d 894 [1998].) Intent can be inferred from the defendant’s conduct and/or the surrounding circumstances. (See People v Bracey, 41 NY2d 296 [1977]; People v Collins, 178 AD2d 789 [3d Dept 1991]; People v Hawkins, 1 Misc 3d 905[A], 2003 NY Slip Op 51516[U] [Crim Ct, NY County 2003].)\nDefendant is accused of being involved in a fight where he and at least four other individuals struck each other with closed fists. The superseding information also alleges that defendant, after being pulled away from the melee, ran back to the group to continue striking and pushing multiple individuals. At some point during the fight, another individual was observed throwing a chair at the group. This court finds that these allegations adequately allege the element of violent and tumultuous conduct. As defendant and the other combatants acted in a violent and tumultuous manner at about the same time and in the same place, their violent and tumultuous conduct occurred simultaneously, as required by the statute. Moreover, the statute does not require as defendant suggests a showing that he and the other combatants acted in a violent and tumultuous manner in furtherance of accomplishing some concerted goal.\nThe superseding information also indicates that the conduct alleged occurred inside of a nightclub where at least 50 members of the public were present. The element of public alarm is supported by the fact that as a result of the actions of defendant and the other individuals involved in the fight, over 50 customers and employees had to scatter to avoid being struck. Finally, the fact that defendant ran back to the group to continue fighting after being pulled away by security personnel supports the inference that defendant recklessly caused public alarm by consciously disregarding the fact that he was fighting in a crowded nightclub.\nDisorderly Conduct (Penal Law § 240.20 [5])\nPenal Law § 240.20 (5) provides that “[a] person is guilty of disorderly conduct when, with intent to cause public inconvenience, annoyance or alarm, or recklessly creating a risk thereof. . . [h]e obstructs vehicular or pedestrian traffic.” A finding of guilt under this section requires a showing that a defendant’s conduct caused “more than a temporary inconvenience.” Instead, the defendant’s conduct must create a serious interference with vehicular or pedestrian traffic. (People v Pearl, 66 Misc 2d 502, 502-503 [App Term, 1st Dept 1971]; see also People v Bezjak, 11 Misc 3d 424 [Crim Ct, NY County 2006].) “Otherwise, any person who happens to stop on a sidewalk — whether to greet another, to seek directions or simply to regain one’s bearings — would be subject to prosecution under this statute.” (People v Jones, 9 NY3d 259, 262 [2007].)\n“[C]ritical to a charge of disorderly conduct is a finding that [a] defendant’s disruptive . . . behavior [was] of a public rather than an individual dimension . . . , which requires proof of an intent to threaten public safety, peace or order (or the reckless creation of such a risk).” (People v Baker, 20 NY3d 354, 359 [2013].) Therefore, “a person may be guilty of disorderly conduct only when the situation extends beyond the exchange between the individual disputants to a point where it becomes ‘a potential or immediate public problem.’ ” (People v Weaver, 16 NY3d 123, 128 [2011], quoting People v Munafo, 50 NY2d 326, 331 [1980].) When determining whether an act satisfies the public harm element, the court must consider “the time and place of the episode under scrutiny; the nature and character of the conduct; the number of other people in the vicinity; whether they are drawn to the disturbance and, if so, the nature and number of those attracted; and any other relevant circumstances.” (Weaver, 16 NY3d at 128.)\nContrary to defendant’s assertions, just because the conduct alleged occurred inside of a privately owned business does not mean that the nightclub is not a public place within the meaning of CPL article 240. The term “public place” is defined as\n“a place to which the public or a substantial group of persons has access, and includes, but is not limited to, highways, transportation facilities, schools, places of amusement, parks, playgrounds, and hallways, lobbies and other portions of apartment houses and hotels not constituting rooms or apartments designed for actual residence.” (Penal Law § 240.00 [1].)\nA nightclub, such as Sin City, falls plainly within the expansive definition of a public place.\nIn People v Tavares (24 Misc 3d 1243[A], 2009 NY Slip Op 51863 [U] [Crim Ct, NY County 2009]), the court upheld the facial sufficiency of an accusatory instrument which charged the defendant with Penal Law §§ 221.05 and 240.20 (5). According to the complaint, the defendant was observed screaming and found “[t]hat [the defendant’s] conduct actually created public inconvenience, annoyance or alarm is demonstrated by the fact that three people were compelled to walk around the defendant as he was running and screaming, presumably in order to avoid him.” (Id. at *3.)\nSimilarly here, more than 50 customers and employees were forced to scatter in an effort to avoid being struck by the group. When the facts alleged are read in the light most favorable to the People, this court finds that the superseding information provides reasonable cause to believe that defendant recklessly created the risk of public inconvenience, annoyance, or alarm by obstructing pedestrian traffic.\nMotion to Suppress Statements\nDefendant moves to suppress the statements he allegedly made because such evidence was illegally obtained. Defendant argues that (1) the statements were involuntary within the meaning of CPL 60.45; (2) he was not advised of his Miranda rights; and (3) the statements are the tainted fruit of an unlawful arrest. In the alternative, defendant requests a Huntley/ Dunaway hearing in order to determine whether the statements should be suppressed.\nAlthough the People consent to a Huntley hearing solely to determine the voluntariness of defendant’s statements, they oppose his request for a Dunaway hearing as defendant has failed to set forth sufficient allegations in support of suppression. The People assert that defendant has failed to raise any issues of fact related to probable cause that must be resolved at a hearing.\nA motion to suppress evidence “must state the ground or grounds of the motion and must contain sworn allegations of fact.” (CPL 710.60 [1].) A motion to suppress must be summarily granted where the defendant alleges a legal ground warranting suppression and the People concede the truth of the factual allegations. (CPL 710.60 [2] [a].) A court may summarily deny a motion to suppress if the defendant fails to allege a proper legal basis for suppression or if the “sworn allegations of fact do not as a matter of law support the ground alleged.” (CPL 710.60 [3] [b].) “[T]he sufficiency of [the] defendant’s factual allegations should be evaluated by (1) the face of the pleadings, (2) assessed in conjunction with the context of the motion, and (3) [the] defendant’s access to information.” (People v Mendoza, 82 NY2d 415, 426 [1993].) However, even if the defendant’s factual allegations are deficient, summarily denying a motion to suppress is disfavored. In Mendoza, the Court of Appeals explained:\n“The CPL does not mandate summary denial of defendant’s motion even if the factual allegations are deficient. . . . If the court orders a Huntley or Wade hearing, and defendant’s Mapp motion is grounded in the same facts involving the same police witnesses, the court may deem it appropriate in the exercise of discretion to consider the Mapp motion despite a perceived pleading deficiency. Indeed, considerations of judicial economy militate in favor of this procedure; an appellate court might conclude that summary denial of the Mapp motion was improper, requiring the parties and witnesses to reassemble for a new hearing, often months or years later.” (Id. at 429-430.)\nThis court finds that defendant’s moving papers are “minimally sufficient” to warrant a hearing on the issue of suppression. (See People v Harris, 160 AD2d 515, 515 [1st Dept 1990].) “When the validity of a warrantless arrest is challenged, the presumption of probable cause disappears and the People bear the burden of coming forward with evidence showing that it was supported by probable cause.” (People v Chaney, 253 AD2d 562, 564 [3d Dept 1998].) Therefore, defendant’s motion to suppress statement evidence is granted to the extent that a HuntleyIDunaway hearing shall be held to determine the admissibility of such evidence.\nMotion to Suppress Identification Evidence\nDefendant moves to suppress any and all testimony regarding any prior noticed identifications, in-court identification testimony, and any other tangible or testimonial fruits of his unlawful seizure. Defendant argues that the identification evidence is unreliable because the identification procedure used was unduly suggestive. Defendant further argues that the identification is the tainted fruit of an unlawful arrest. Should summary suppression be denied, defendant requests a Wade! Crews hearing to determine the issues raised.\nThe People argue that this branch of defendant’s motion should be denied. The People note that defendant has failed to set forth any sworn allegations of fact that would justify a Dunaway hearing. However, should this court so find, the People contend that a Rodriguez hearing should be ordered instead of a Wade hearing.\nThe identification notice served at arraignment indicates that two complaining witnesses identified defendant. On May 6, 2015 at approximately 5:45 p.m., the first complaining witness positively identified defendant through a single photo. On May 3, 2015 at approximately 11:20 p.m., the second complaining witness positively identified defendant through a photo array.\nOne exception to a court’s authority to summarily deny a pretrial suppression motion for inadequate factual allegations relates to motions brought pursuant to CPL 710.20 (6). (CPL 710.60 [3] [b].) “[T]he purpose of the Wade hearing is to test identification testimony for taint arising from official suggestion during ‘police-arranged confrontations between a defendant and an eyewitness.’ ” (People v Dixon, 85 NY2d 218, 222 [1995], quoting People v Gissendanner, 48 NY2d 543, 552 [1979].)\nBased upon the parties’ submissions, this court cannot determine the propriety of the identification procedures used in this case. Therefore, a Wade hearing must be held in order to determine the admissibility of the identification evidence. In the interest of judicial economy and in light of the fact that the branch of defendant’s motion seeking a Crews hearing “is grounded in the same [set of] facts [and] involves] the same police witnesses” as the Wade hearing (Mendoza, 82 NY2d at 429), defendant’s motion for a Crews hearing is granted.\nPrior Convictions and/or Bad Acts\nThe People consent to disclosure of defendant’s prior charged and uncharged criminal, vicious, or immoral conduct which the People intend to use at trial pursuant to People v Sandoval (34 NY2d 371 [1974]), People v Molineux (168 NY 264 [1901]), and People v Ventimiglia (52 NY2d 350 [1981]).\nDefendant’s motion for an order precluding the People from introducing evidence of his prior convictions and/or bad acts is respectfully referred to the trial judge.\nFuture Motions\nDefendant’s reservation of rights to file further motions is unauthorized pursuant to CPL 255.20 (3). Any future motions shall be summarily denied absent a showing of good cause.\nAccordingly, defendant’s motion to dismiss the accusatory instrument as facially insufficient is denied. Defendant’s motion to suppress statement evidence is granted to the extent that a Huntley/Dunaway hearing shall be held. Defendant’s motion to suppress identification evidence is granted to the extent that a Wade/Crews hearing shall be held. Defendant’s motion for an order precluding the People from introducing evidence of his prior convictions and/or bad acts is respectfully referred to the trial judge. Defendant’s reservation of rights to file further motions is unauthorized pursuant to CPL 255.20 (3).",
+        "type": "majority",
+        "author": "Armando Montano, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "The Bronx Defenders (V. Marika Meis of counsel) for defendant.",
+      "Darcel D. Clark, District Attorney (Darcel Calixte of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[27 NYS3d 363]\nThe People of the State of New York, Plaintiff, v Robert Michie, Defendant.\nCriminal Court of the City of New York, Bronx County,\nMarch 21, 2016\nAPPEARANCES OF COUNSEL\nThe Bronx Defenders (V. Marika Meis of counsel) for defendant.\nDarcel D. Clark, District Attorney (Darcel Calixte of counsel), for plaintiff."
+  },
+  "file_name": "2289-01",
+  "first_page_order": 262,
+  "last_page_order": 273
+}

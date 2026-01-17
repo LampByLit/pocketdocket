@@ -1,0 +1,203 @@
+{
+  "id": 12298432,
+  "name": "In the Matter of Brennan Center for Justice at NYU School of Law et al., Petitioners, v. New York State Board of Elections, Respondent",
+  "name_abbreviation": "Brennan Center for Justice v. New York State Board of Elections",
+  "decision_date": "2017-02-10",
+  "docket_number": "",
+  "first_page": "376",
+  "last_page": "382",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 Misc. 3d 376"
+    },
+    {
+      "type": "parallel",
+      "cite": "52 N.Y.S.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "83 NY2d 215",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2353808
+      ],
+      "pin_cites": [
+        {
+          "page": "220-222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0215-01"
+      ]
+    },
+    {
+      "cite": "369 US 186",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166554
+      ],
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0186-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2344751
+      ],
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0525-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 14",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5693074
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0014-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374385
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0161-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 233",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4397839
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "239"
+        },
+        {
+          "page": "239"
+        },
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0233-01"
+      ]
+    },
+    {
+      "cite": "52 Misc 3d 246",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        6787715
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "255-269"
+        },
+        {
+          "page": "266-267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/52/0246-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 666,
+    "char_count": 13317,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.25020068737598217
+    },
+    "sha256": "f6e0da00ef470e7978c63853a6829a41796f715b052bbd32ae4cd8b2063cc30c",
+    "simhash": "1:dcb5d635cd2b7472",
+    "word_count": 2154
+  },
+  "last_updated": "2024-02-27T20:02:38.378450+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Brennan Center for Justice at NYU School of Law et al., Petitioners, v New York State Board of Elections, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames H. Ferreira, J.\nIn this hybrid CPLR article 78 proceeding and declaratory judgment action, petitioners, comprised of both a not-for-profit, nonpartisan public policy and law institute and several former, current and aspiring New York politicians, challenge a determination of respondent New York State Board of Elections (hereinafter the Board) rejecting, by a vote of 2-2, a motion to approve a proposed opinion which would have, among other things, ordered that limited liability companies (hereinafter LLCs) be treated as a partnership or corporation for purposes of the corporate contribution limits set forth in article 14 of the Election Law.\nBackground\nThis combined proceeding and action concerns the so-called “LLC Loophole” created by a formal opinion issued by the Board in 1996 (1996 Op St Bd of Elections No. 1) (hereinafter the 1996 Opinion). In the 1996 Opinion, the Board found that LLCs—which had been recently created by statute—are “not subject to the contribution limits placed on corporations in Article 14 of the Election Law” but, instead, are persons and “may make contributions in their own right subject to the limits applicable to other individuals as enumerated in Article 14” (affirmation in support of petition, exhibit 7). Since the issuance of the 1996 Opinion, numerous attempts to effectively “close” the LLC loophole and subject LLCs to the same contribution limits as partnerships and corporations have been made in the legislature, without success. On April 16, 2015, the Board considered a motion made by Board Cochair Douglas A. Kell-ner to direct its counsel to prepare an opinion which would rescind the 1996 Opinion and provide updated guidance with respect to the applicability of article 14 of the Election Law to LLCs. The Board’s vote on the motion was 2-2 and the motion failed.\nPetitioners Brennan Center for Justice at NYC School of Law, Gerald Benjamin, Liz Krueger, Daniel L. Squadron, Maureen Koetz and Brian Kavanagh, as well as another individual, commenced a hybrid CPLR article 78 proceeding and declaratory judgment action seeking review of the Board’s April 16, 2015 decision. In a decision/order/judgment dated March 16, 2016, the court (Fisher, J.) dismissed the petition in its entirety (see Matter of Brennan Ctr. for Justice at NYU Sch. of Law v New York State Bd. of Elections, 52 Misc 3d 246, 255-269 [Sup Ct, Albany County 2016]) (hereinafter Brennan I). The court first rejected the petitioners’ position that an affirmative vote on the motion that was before the court would have definitively closed the LLC loophole. The court observed:\n“On a successful vote, [the Board] was to rescind the 1996 Opinion and provide ‘updated guidance’ on the applicability of article 14 and LLCs. In that updated guidance, [the Board] was free to issue another advisory opinion resulting in the same conclusion thus preserving the ‘LLC Loophole.’. . .\n“Thus, the action being contested was nothing more than the ministerial act of directing [the Board’s] counsel to redraft a new opinion which could preserve, modify, or eliminate the ‘LLC Loophole’ ” (id. at 256).\nThe court thus determined that the April 16, 2015 action was an allocation of resources that was outside the purview of the court. The court found that it did not need to go further with respect to the CPLR article 78 petition but went on to address the issues of timeliness and standing, as well as the merits of the petition, resolving all of those issues in the Board’s favor. The court also found that the cause of action for a declaratory judgment—which sought a declaration “that the Board’s policy is unlawful, invalid, and unenforceable and null and void ab initio as an ultra vires and illegal action”—was ambiguous because it did not identify which policy (the 1996 Opinion or the Apr. 16, 2015 vote) the petitioners were challenging and therefore failed to state a cause of action (id. at 266-267). Surmising that the petitioners were attempting to attack the policy set forth in the 1996 Opinion, the court declined to issue a declaratory judgment on the ground that the statute of limitations with respect to the 1996 Opinion had expired.\nShortly thereafter, at a Commissioners’ meeting held on April 5, 2016, Mr. Kellner moved the Board to adopt a proposed draft opinion which would rescind and replace the 1996 Opinion and hold that LLCs be treated as partnerships or corporations under the Election Law (see affirmation in support of petition, exhibits 21, 22 at 49-50). The Board’s vote on the motion was 2-2 and the motion failed. Petitioners thereafter commenced the instant hybrid proceeding and action. Respondent has filed an answer and Brian L. Quail, Esq., cocounsel to the Board, has submitted, on consent of all of the parties and on behalf of the Democratic Commissioners of the Board, a proposed ami-cus curiae brief for the court’s consideration. The court hereby grants Mr. Quail’s request to consider the amicus curiae brief. Petition\nIn the petition, petitioners argue that the Board’s decision is arbitrary and capricious and “reflects grave legal errors under both the Election and LLC Laws” (petition ¶ 3). Specifically, petitioners assert that the determination “severely undercuts and undermines the central purpose of the campaign finance scheme by facilitating massive circumvention of the Election Law’s framework of contribution limits and disclosure requirements” (petition 1 100). Petitioners also argue that the Board’s decision ignores and renders null the statutory definition of an LLC set forth in Limited Liability Company Law § 102 (m) and “fails to consider the fundamental nature of LLCs and how they are treated by other agencies,” namely, as corporations or partnerships (petition f 102). Petitioners seek an order invalidating the Board’s April 2016 decision, rescinding the 1996 Opinion and ordering the Board to issue a new opinion consistent with the text and purpose of the Election Law and Limited Liability Company Law. They also seek a declaration that “the Board’s policy is unlawful, invalid, and unenforceable and null and void ab initio as an ultra vires and illegal action” (petition ¶ 111). In opposition, respondent argues, among other things, that petitioners are collaterally estopped from relitigat-ing the issues raised in this proceeding, that petitioners lack standing, that the petition presents a political question which is not justiciable and that the proceeding is barred by the statute of limitations.\nAnalysis\n“[I]t is a fundamental principle of the organic law that each department of government should be free from interference, in the lawful discharge of duties expressly conferred, by either of the other branches” (Matter of New York State Inspection, Sec. & Law Enforcement Empls., Dist. Council 82, AFSCME, AFL-CIO v Cuomo, 64 NY2d 233, 239 [1984]). To that end, it has been held that “courts do not normally have overview of the lawful acts of appointive and elective officials involving questions of judgment, discretion, allocation of resources and priorities” (Matter of Lorie C., 49 NY2d 161, 171 [1980]; see Matter of New York State Inspection, Sec. & Law Enforcement Empls., Dist. Council 82, AFSCME, AFL-CIO v Cuomo, 64 NY2d at 239) and “cannot ‘intrude upon the policy-making and discretionary decisions that are reserved to the legislative and executive branches’ ” (Campaign for Fiscal Equity, Inc. v State of New York, 8 NY3d 14, 28 [2006], quoting Klostermann v Cuomo, 61 NY2d 525, 541 [1984]). “This judicial deference to a coordinate, coequal branch of government includes one issue of justiciability generally denominated as the ‘political question’ doctrine” (Matter of New York State Inspection, Sec. & Law Enforcement Empls., Dist. Council 82, AFSCME, AFL-CIO v Cuomo, 64 NY2d at 239). The US Supreme Court has observed that\n“[p]rominent on the surface of any case held to involve a political question is found a textually demonstrable constitutional commitment of the issue to a coordinate political department; or a lack of judicially discoverable and manageable standards for resolving it; or the impossibility of deciding without an initial policy determination of a kind clearly for nonjudicial discretion; or the impossibility of a court’s undertaking independent resolution without expressing lack of the respect due coordinate branches of government; or an unusual need for unquestioning adherence to a political decision already made; or the potentiality of embarrassment from multifarious pronouncements by various departments on one question” (Baker v Carr, 369 US 186, 217 [1962]).\nUpon careful review, the court finds that the CPLR article 78 petition presents a non-justiciable political question which the court lacks the power to decide. In their CPLR article 78 cause of action, petitioners assert that they are seeking review, pursuant to CPLR 7803 (3), of the Board’s April 5, 2016 “determination” not to adopt a proposed formal opinion. This “determination” was, in actuality, a 2-2 vote during a Commissioners’ meeting. In the court’s view, a negative vote with respect to the issue of whether to adopt a formal agency opinion is a classic discretionary policy judgment which is not amenable to judicial resolution {compare Matter of Natural Resources Defense Council v New York City Dept. of Sanitation, 83 NY2d 215, 220-222 [1994]). Importantly, petitioners have not identified any judicially enforceable standards that govern the exercise of the Board’s authority to issue formal opinions, and the court has found none. The court questions how—as a practical matter—it can “review” a tie vote on the issue of whether to issue a proposed opinion; as the amicus curiae points out, there is no mechanism for an administrative appeal from the Board’s vote or for the filing of a complaint with respect to the Board’s vote. Moreover, the petition calls for remedies—including an order rescinding the 1996 Opinion and directing the Board to issue a new opinion—which, if granted, would usurp the broad powers of the Board to issue formal opinions with respect to campaign financing practices {see Election Law § 3-102 [1], [9], [11]). Essentially, petitioners are asking the court to interfere in the outcome of the Commissioners’ meeting and cast a fifth and deciding vote in this purely policy-laden matter. The court finds that it lacks the authority to do so. As such, petitioners’ CPLR article 78 cause of action must be dismissed. The court finds it unnecessary to address respondent’s other arguments in opposition to the petition.\nThe court also declines to issue a declaratory judgment as sought by petitioners in their second cause of action. As noted above, petitioners seek a declaration that “the Board’s policy is unlawful, invalid, and unenforceable and null and void ab initio as an ultra vires and illegal action” (petition ¶ 111). Identical relief was sought in Brennan I (see Matter of Brennan Ctr. for Justice at NYU Sch. of Law v New York State Bd. of Elections, 52 Misc 3d at 266-267). As noted above, in Brennan I, the court found that the petitioners in that matter had failed to state a claim because they had failed to identify which policy (the 1996 Opinion or the Apr. 2015 vote) they were challenging. Despite this ruling in Brennan I—to which most of the petitioners in this matter were also a party—petitioners in this matter have—curiously—again failed to identify the policy which they seek to have declared unlawful (the Apr. 2016 vote or the 1996 Opinion). As such, the court finds that petitioners have failed to state a claim for a declaratory judgment. In any event, even if petitioners had identified which policy they are challenging, the court would nonetheless decline to grant the requested relief on the ground that the issue(s) sought to be adjudicated are far removed from the court’s province to determine, as discussed above.\nAccordingly, it is hereby ordered and adjudged that the petition is in all respects dismissed.\n. The Board is composed of four commissioners appointed by the governor, and an affirmative vote of three commissioners is required for any official action of the Board (see Election Law § 3-100 [1], [4]).\n. By letter dated October 25, 2016, William J. McCann, Jr., Esq., Deputy Counsel for the Board, requested that this matter be heard by Hon. Lisa M. Fisher as a related case to Brennan I. Counsel stated that the request was being made upon consent of all of the parties in the interest of judicial economy. The request was forwarded to the undersigned and, upon due consideration, the court has denied the request.",
+        "type": "majority",
+        "author": "James H. Ferreira, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Emery Celli Brinckerhoff & Abady LLP, New York City {Andrew G. Celli, Jr. and Elizabeth S. Saylor of counsel), and Brennan Center for Justice at NYU School of Law, New York City, for petitioners.",
+      "William J. McCann, Jr., Deputy Counsel, New York State Board of Elections, Albany, for respondent.",
+      "Brian L. Quail, New York State Board of Elections, Albany, for Democratic Commissioners of New York State Board of Elections, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[52 NYS3d 189]\nIn the Matter of Brennan Center for Justice at NYU School of Law et al., Petitioners, v New York State Board of Elections, Respondent.\nSupreme Court, Albany County,\nFebruary 10, 2017\nAPPEARANCES OF COUNSEL\nEmery Celli Brinckerhoff & Abady LLP, New York City {Andrew G. Celli, Jr. and Elizabeth S. Saylor of counsel), and Brennan Center for Justice at NYU School of Law, New York City, for petitioners.\nWilliam J. McCann, Jr., Deputy Counsel, New York State Board of Elections, Albany, for respondent.\nBrian L. Quail, New York State Board of Elections, Albany, for Democratic Commissioners of New York State Board of Elections, amicus curiae."
+  },
+  "file_name": "2787-01",
+  "first_page_order": 376,
+  "last_page_order": 382
+}

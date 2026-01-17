@@ -1,0 +1,927 @@
+{
+  "id": 12167574,
+  "name": "THE BANK OF NEW YORK AS TRUSTEE FOR POPULAR FINANCIAL SERVICES MORTGAGE/PASS THROUGH CERTIFICATE SERIES #2006-D, Plaintiff-Appellant, v. JOSEPH A. ROMERO and MARY ROMERO a/k/a MARY O. ROMERO a/k/a MARIA ROMERO, Defendants-Appellees",
+  "name_abbreviation": "Bank of New York v. Romero",
+  "decision_date": "2016-07-28",
+  "docket_number": "No. S-1-SC-36063; Docket No. 34,426",
+  "first_page": "549",
+  "last_page": "558",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2016-NMCA-091"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.M. Ct. App.",
+    "id": 9025,
+    "name": "Court of Appeals of New Mexico"
+  },
+  "jurisdiction": {
+    "id": 52,
+    "name_long": "New Mexico",
+    "name": "N.M."
+  },
+  "cites_to": [
+    {
+      "cite": "2010-NMCA-094",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4246587
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0926-01"
+      ]
+    },
+    {
+      "cite": "116 N.M. 254",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        727685
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/116/0254-01"
+      ]
+    },
+    {
+      "cite": "1993-NMSC-051",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 N.M. 98",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1588676
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/100/0098-01"
+      ]
+    },
+    {
+      "cite": "1983-NMSC-057",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2004-NMCA-087",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        1224603
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0087-01"
+      ]
+    },
+    {
+      "cite": "120 N.M. 408",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1558934
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/120/0408-01"
+      ]
+    },
+    {
+      "cite": "1995-NMCA-088",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "pin_cites": [
+        {
+          "page": "¶ 28"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "564 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12450490,
+        4335674
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "307",
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/180/0341-01",
+        "/us/564/0299-01"
+      ]
+    },
+    {
+      "cite": "56 N.M. 70",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1584714
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/56/0070-01"
+      ]
+    },
+    {
+      "cite": "1952-NMSC-011",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 N.M. 152",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1555103
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/97/0152-01"
+      ]
+    },
+    {
+      "cite": "1981-NMSC-129",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 N.M. 690",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        731536
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/114/0690-01"
+      ]
+    },
+    {
+      "cite": "1992-NMSC-063",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "818 F.2d 879",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716618,
+        4330342
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "889"
+        },
+        {
+          "page": "889",
+          "parenthetical": "stating that the relevant inquiry \"is whether the issue presented in the two proceedings is substantially the same\" (internal quotation marks and footnote citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/0879-01",
+        "/us-app-dc/260/0230-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-022",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246504
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 10"
+        },
+        {
+          "page": "¶ 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0228-01"
+      ]
+    },
+    {
+      "cite": "367 P.3d 888",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016-NMCA-030",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        12167616
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/9/0511-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 6640490",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "non-precedential"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 N.M. 39",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2747876
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "non-precedential"
+        },
+        {
+          "parenthetical": "non-precedential"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/79/0039-01"
+      ]
+    },
+    {
+      "cite": "1968-NMCA-015",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "non-precedential"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010-NMCA-012",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4245633
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "non-precedential"
+        },
+        {
+          "parenthetical": "non-precedential"
+        },
+        {
+          "parenthetical": "non-precedential"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/147/0643-01"
+      ]
+    },
+    {
+      "cite": "89 N.M. 399",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        2868073
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/89/0399-01"
+      ]
+    },
+    {
+      "cite": "1976-NMSC-046",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 P.3d 915",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-027",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4239795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/6/0418-01"
+      ]
+    },
+    {
+      "cite": "20 N.E.3d 730",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-Ohio-5251",
+      "category": "reporters:neutral",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 N.E.3d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-Ohio-4275",
+      "category": "reporters:neutral",
+      "reporter": "Ohio",
+      "case_ids": [
+        6879460
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶¶ 1, 16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-3d/141/0075-01"
+      ]
+    },
+    {
+      "cite": "2011 VT 81",
+      "category": "reporters:neutral",
+      "reporter": "VT",
+      "case_ids": [
+        3701710
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 22-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/190/0210-01"
+      ]
+    },
+    {
+      "cite": "79 So. 3d 170",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7016872
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "175",
+          "parenthetical": "stating that if the bank had no standing at the time the complaint was filed, \"the trial court should dismiss the instant lawsuit and [the bank] must file a new complaint\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/79/0170-01"
+      ]
+    },
+    {
+      "cite": "2012 OK 3",
+      "category": "reporters:neutral",
+      "reporter": "OK",
+      "case_ids": [
+        6983664
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶ 11"
+        },
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/270/0151-01"
+      ]
+    },
+    {
+      "cite": "369 P.3d 1046",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016-NMSC-013",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        12167218
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/9/0459-01"
+      ]
+    },
+    {
+      "cite": "183 So. 3d 1270",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6834295
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1271"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/183/1270-01"
+      ]
+    },
+    {
+      "cite": "2011 WL 6740561",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "¶ 17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011-Ohio-6607",
+      "category": "reporters:neutral",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 N.E.3d 555",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-Ohio-466",
+      "category": "reporters:neutral",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "979 N.E.2d 1214",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012-Ohio-5017",
+      "category": "reporters:neutral",
+      "reporter": "Ohio",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002-NMCA-067",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        260717
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/132/0412-01"
+      ]
+    },
+    {
+      "cite": "318 P.3d 713",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-025",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077621
+      ],
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0461-01"
+      ]
+    },
+    {
+      "cite": "352 P.3d 661",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2015-NMCA-068",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4362376
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 8"
+        },
+        {
+          "page": "¶ 6"
+        },
+        {
+          "page": "¶ 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/8/0156-01"
+      ]
+    },
+    {
+      "cite": "102 N.M. 715",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1580107
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/102/0715-01"
+      ]
+    },
+    {
+      "cite": "1985-NMCA-043",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "¶¶ 17-18"
+        },
+        {
+          "page": "¶ 18"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 P.3d 698",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013-NMCA-112",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4077829
+      ],
+      "pin_cites": [
+        {
+          "page": "¶¶ 10-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0187-01"
+      ]
+    },
+    {
+      "cite": "2010-NMSC-014",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4246938
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶¶ 59-62"
+        },
+        {
+          "page": "¶ 66"
+        },
+        {
+          "page": "¶ 61"
+        },
+        {
+          "page": "¶ 61"
+        },
+        {
+          "page": "¶ 66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/148/0106-01"
+      ]
+    },
+    {
+      "cite": "321 P.3d 128",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMCA-036",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4078244
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶¶ 1-2, 9"
+        },
+        {
+          "page": "¶ 24"
+        },
+        {
+          "page": "¶ 34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0632-01"
+      ]
+    },
+    {
+      "cite": "1998-NMSC-031",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        834365
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "¶ 40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/125/0721-01"
+      ]
+    },
+    {
+      "cite": "83 N.M. 558",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        5337417
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/83/0558-01"
+      ]
+    },
+    {
+      "cite": "1972-NMSC-018",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "pin_cites": [
+        {
+          "page": "¶ 13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009-NMSC-010",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4241870
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "¶ 20"
+        },
+        {
+          "page": "¶ 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/145/0769-01"
+      ]
+    },
+    {
+      "cite": "2011-NMCA-110",
+      "category": "reporters:neutral",
+      "reporter": "NMCA",
+      "case_ids": [
+        4249993
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/150/0769-01"
+      ]
+    },
+    {
+      "cite": "320 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014-NMSC-007",
+      "category": "reporters:neutral",
+      "reporter": "NMSC",
+      "case_ids": [
+        4077464
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 1"
+        },
+        {
+          "page": "¶ 39"
+        },
+        {
+          "page": "¶ 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm-app/5/0529-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1213,
+    "char_count": 32738,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.7817273071113374e-8,
+      "percentile": 0.301114852641988
+    },
+    "sha256": "dcaf278b4b1c07621dac0d317c33ae5df8b992dcfb6b3762f851e9db385e0720",
+    "simhash": "1:f9c183b6a8413760",
+    "word_count": 5259
+  },
+  "last_updated": "2024-02-27T23:09:39.508186+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Sarah M. Singleton, District Judge",
+      "JONATHAN B. SUTIN, Judge",
+      "M. MONICA ZAMORA, Judge",
+      "J. MILES HANISEE, Judge"
+    ],
+    "parties": [
+      "THE BANK OF NEW YORK AS TRUSTEE FOR POPULAR FINANCIAL SERVICES MORTGAGE/PASS THROUGH CERTIFICATE SERIES #2006-D, Plaintiff-Appellant, v. JOSEPH A. ROMERO and MARY ROMERO a/k/a MARY O. ROMERO a/k/a MARIA ROMERO, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nSUTIN, Judge.\n{1} This is the second time this case has been appealed to this Court. The first appeal focused on whether the Bank of New York as Trustee for Popular Financial Services Mortgage/Pass Through Certificate Series #2006-D (the Bank) had standing to bring its foreclosure action against Joseph and Mary Romero (the Romeros). This Court’s opinion affirming the district court’s determination that the Bank had standing was appealed to the New Mexico Supreme Court. Our Supreme Court held that the Bank did not have standing at the time the complaint was filed and thus reversed this Court and the district court and “remand[ed] to the district court with instructions to vacate its foreclosure judgment and to dismiss the Bank[’s] . . . foreclosure action for lack of standing.” Bank of N.Y. v. Romero, 2014-NMSC-007, ¶ 1, 320 P.3d 1.\n{2} Upon remand, the district court vacated the final judgment and dismissed the foreclosure action with prejudice. In this second appeal, the Bank challenges the designation of the district court’s dismissal as being “with prejudice,” along with the district court’s ruling thatthe Bank “is precluded from raising in the future the issue that it is entitled to enforce the Romeros’ note and foreclose on the Romeros’ mortgage.” We reverse and remand with instructions.\nBACKGROUND\n{3} On June 26, 2006, the Romeros executed and delivered to Equity One, Inc. an adjustable rate note (the Note) in the principal sum of$227,240. After the Romeros defaulted on the Note, the Bank, on April 1,2008, filed a complaint for foreclosure. After a bench trial, the district court entered findings of fact and conclusions of law in favor of the Bank. On September 1, 2009, the district court entered its final judgment and order for foreclosure sale. The Romeros appealed the judgment and order. This Court issued an opinion affirming the district court. Bank of N.Y. v. Romero, 2011-NMCA-110, 150 N.M. 769, 266 P.3d 638, rev’d by 2014-NMSC-007.\n{4} The Romeros petitioned for a writ of certiorari, our Supreme Court granted the petition, and the Court held that the Bank “did not establish its lawful standing in this case to file a home mortgage foreclosure action.” Romero, 2014-NMSC-007, ¶ 1. And the Court remanded to the district court “with instructions to' vacate its foreclosure judgment and to dismiss the Bank[’s] . . . foreclosure action for lack of standing.” Id.\n{5} On remand, the Romeros filed amotion to vacate the final judgment and for other relief. The district court granted the Romeros’ motion, vacated the foreclosure sale, and ordered the Bank to “pay all property taxes due on the propertyf,]” “remove . . . liens, encumbrances[,] or charges” on the property, “promptly issue a quit claim deed conveying the property that was the subject of this foreclosure action back to [the Romeros,]” and repay any rental fees or monies paid to the Bank or their counsel. Thereafter, the Romeros filed a motion to dismiss the foreclosure with prejudice, arguing that the Supreme Court’s opinion supported dismissal with prejudice and that “both res judicata and the statute of limitations bar any subsequent attempts to collect on the accelerated Romero note and accompanying mortgage.” The district court granted the motion and dismissed the foreclosure with prejudice.\n{6} In its order granting the motion to dismiss and dismissing the foreclosure with prejudice, the district court stated, “it is the opinion of the [cjourt that by reason of issue preclusion ... [the] Bank ... is precluded from raising in the future the issue that it is entitled to enforce the Romeros’ note and foreclose on the Romeros’ mortgage.” (Emphasis added.) The court then ordered that “the [c]omplaint for [foreclosure is dismissed with prejudice and the Bank . . . cannot refile a complaint to enforce the Romeros’ note and foreclose on the Romeros’ mortgage.”\n{7} On appeal, the Bank argues that the dismissal with prejudice and the district court’s statement that the Bank “is precluded from raising in the future the issue that it is entitled to enforce the Romeros’ note and foreclose on the Romeros’ mortgage” were in error.\n{8} Although the district court referred to “issue preclusion” as the basis for its dismissal with prejudice, we address the elements and merits of both issue and claim preclusion because (1) the district court appears to have merged the doctrines in its order when it dismissed the foreclosure claim with prejudice due to the Supreme Court’s decision on the standing issue, and (2) the Romeros argued in district court and now argue on appeal that claim preclusion may also support dismissal with prejudice. As well, the Bank argues that the order is not supported under law of the case, claim preclusion, issue preclusion, or some “hybrid” between the two.\nDISCUSSION\nI. Law of the Case\n{9} “Whether law of the case applies, as well as how it applies, are questions of law subject to de novo review.” State ex rel. King v. UU Bar Ranch Ltd. P’ship, 2009-NMSC-010, ¶ 20, 145 N.M. 769, 205 P.3d 816. “The doctrine of law of the case has long been recognized in New Mexicof.]” Ute Park Summer Homes Ass’n v. Maxwell Land Grant Co., 1972-NMSC-018, ¶ 13, 83 N.M. 558, 494 P.2d 971. The law of the case doctrine “is a matter of precedent and policy; it is a determination that, in the interests of the parties and judicial economy, once aparticular issue in a case is settled it should remain settled.” Trujillo v. City of Albuquerque, 1998-NMSC-031, ¶ 40, 125 N.M. 721, 965 P.2d 305 (internal quotation marks and citation omitted). Our Supreme Court has held that “a decision by an appeals court on an issue of law made in one stage of a lawsuit becomes binding on subsequent trial courts as well as subsequent appeals courts during the course of that litigation.” King, 2009-NMSC-010, ¶ 21. When there “is any doubt or ambiguity regarding the [appellate] mandate, the meaning of the [appellate] opinion governs.” Id. ¶ 22.\n{10} The parties disagree as to whether law of the case based on the Supreme Court’s opinion in Romero, 2014-NMSC-007, dictates a dismissal with prejudice. The Romeros argue that the Supreme Court’s opinion “clearly demonstrates that the Supreme Court intended that the foreclosure be dismissed with prejudice.” They argue that the Supreme Court’s statements regarding mootness of the claim and future foreclosure attempts under the Home Loan Protection Act (HLPA), NMSA 1978, §§ 58-21A-1 to -14 (2003, as amended through 2009), by whichever “institution may be able to establish standing to foreclose on the Romero home” clearly show that the Supreme Court meant to preclude the Bank from bringing future actions. Romero, 2014-NMSC-007, ¶ 39. Conversely, the Bank argues that the Supreme Court acknowledged its inability to reach the merits of the case and thus anticipated that a future action may be filed by any institution, including the Bank. See id. ¶¶ 15, 39. According to the Bank, because law of the case only applies to decisions on the merits, it should not apply, and a dismissal with prejudice is unsupported. The Bank points out that the Supreme Court was silent on whether the dismissal should be with or without prejudice, but argues that the reference to future attempts should be interpreted to mean that dismissal should be without prejudice. The Bank also argues that “changed circumstances” of fact or law have undermined the law of the case to such an extent that dismissing the case with prejudice would be unjust.\n{11} We are not persuaded that there is clear law of the case that dictates that the Romero Court intended, one way or the other, that the dismissal be with or without prejudice. The Supreme Court expressed nothing from which any reasonable inference can be drawn to support either party’s interpretation of the Court’s intent. See id. ¶ 1 (“We . .. remand to the district court with instructions to ... dismiss the Bank[’s]... foreclosure action for lack of standing.”). Due to the Romero Court’s silence on the matter and the resulting ambiguity, we are unable to comfortably opine as to the Supreme Court’s intent regarding the dismissal, and we therefore address the preclusion arguments made by both sides. However, before doing so, it js important to understand the connection between dismissals “with” or “without” prejudice and the preclusion principles. We begin by discussing the “with” and “without” designations that accompany dismissals and explain their impact on preclusion.\nII. Dismissal With/Without Prejudice\n{12} Claim and issue preclusion are doctrines that may arise when a lawsuit is filed by the same plaintiff against the same defendant after the same or similar lawsuit has previously been dismissed. See, e.g., State ex rel. Peterson v. Aramark Corr. Servs., LLC, 2014-NMCA-036, ¶¶ 1-2, 9, 321 P.3d 128 (considering the applicability of claim and issue preclusion when a plaintiff, seeking damages because the defendant refused to provide him with a nutritionally adequate vegetarian diet, first filed a lawsuit for breach of duty, fraud, unfair practices, and violation of the New Mexico Religious Freedom Act, and then later filed a Fraud Against Taxpayers Act claim based on the same or similar facts); Kirby v. Guardian Life Ins. Co. of Am., 2010-NMSC-014, ¶¶ 59-62, 148 N.M. 106, 231 P.3d 87 (considering whether a dismissal of the plaintiffs first claim for wrongful denial of benefits against the defendant precluded the plaintiff’s later action against the same defendant for enforcement of a writ of garnishment under the doctrine of claim preclusion). Although both doctrines may be implicated in a single case, we note that a designation of a dismissal as being “with prejudice” is relevant in a claim preclusion analysis but not in an issue preclusion analysis. See Pielhau v. State Farm Mut. Auto. Ins. Co., 2013-NMCA-112, ¶¶ 10-11, 314 P.3d 698 (stating that “[a] dismissal with prejudice is an adjudication on the merits only to the extent that when a claim has been dismissed with prejudice, the . . . element of res judicata (a final valid judgment on the merits) will be presumed .... We note that this rule applies to preclude claims (claim preclusion/res judicata), but not issues (issue preclusion/collateral estoppel)” (first omission in original) (first emphasis, internal quotation marks, and citation omitted)); Bralley v. City of Albuquerque, 1985-NMCA-043, ¶¶ 17-18, 102 N.M. 715, 699 P.2d 646 (stating that a dismissal without prejudice is not intended to be res judicata and that “[t]he words ‘without prejudice’ when used in an order or decree generally indicate that there has been no resolution of the controversy on its merits and leave the issues in litigation open to another suit as if no action had ever been brought”).\n{13} When considering whether a subsequent action may be precluded on the basis of claim preclusion, subsequent courts may reasonably look to the type of dismissal in the first action, i.e., with or without prejudice, for guidance. Although a dismissal with prejudice does not automatically result in claim preclusion, “when a claim has been dismissed with prejudice, the fourth element of res judicata (a final valid judgment on the merits) will be presumed so as to bar a subsequent suit against the same defendant by the same plaintiff based on the same transaction.” Kirby, 2010-NMSC-014, ¶ 66 (first emphasis omitted). But see Turner v. First N.M. Bank, 2015-NMCA-068, ¶ 8, 352 P.3d 661 (concluding that, despite the fact the complaint was dismissed without prejudice, the dismissal constituted a judgment “on the merits” because the complaint failed to state a cause of action and was thus “entitled to claim preclusion effect”).\n{14} All in all, although not determinative in every case, the designation of a dismissal as “with” or “without” prejudice will generally substantially impact the viability of a plaintiffs future, related claim. As will be explained later in this Opinion, in this case, the district court’s inclusion of the “with prejudice” designation on the dismissal of the Bank’s foreclosure claim against the Romeros suggests a presumption that any future foreclosure claim would be precluded under claim preclusion principles. In our view, this is problematic insofar as the district court did not dismiss the foreclosure claim under claim preclusion principles but rather did so under issue preclusion, which was improper.\nIII. Claim Preclusion\n{15} Appellate courts in New Mexico review de novo whether elements for claim preclusion have been satisfied. See Kirby, 2010-NMSC-014, ¶ 61 (stating that the standard of review for claim preclusion is de novo). The doctrine of claim preclusion, or res judicata, “bars re-litigation of the same claim between the same parties or their privies when the first litigation resulted in a final judgment on the merits.” Peterson, 2014-NMCA-036, ¶ 24 (alteration, internal quotation marks, and citation omitted). “ ‘The party asserting claim preclusion must satisfy the following four requirements: (1) the parties must be the same, (2) the cause of action must be the same, (3) there must have been a final decision in the first suit, and (4) the first decision must have been on the merits.’ ” Tunis v. Country Club Estates Homeowners Ass’n, 2014-NMCA-025, ¶ 20, 318 P.3d 713 (alteration omitted) (quoting Kirby, 2010-NMSC-014, ¶ 61). “The purpose of our application of res judicata is to protect individuals from multiple lawsuits, to promote judicial economy, and to minimize the possibility of inconsistent judgments.” Moffat v. Branch, 2002-NMCA-067, ¶ 14, 132 N.M. 412, 49 P.3d 673; see also Turner, 2015-NMCA-068, ¶ 6 (“Res judicata},] i.e., claim preclusion[.] is designed to relieve parties of the cost and vexation of multiple lawsuits, conserve judicial resources, prevent inconsistent decisions, and encourage reliance on adjudication.” (alteration, internal quotation marks, and citation omitted)).\n{16} In the present case, the third and fourth elements have not been met by the Romeros because there has been no adjudication on the merits of the Bank’s foreclosure claim in favor of the Romeros, and thus claim preclusion does not apply to preclude the Bank’s foreclosure claim. The Supreme Court determined that the Bank lacked standing and determined that due to the lack of standing the foreclosure claim must be dismissed. Romero, 2014-NMSC-007, ¶ 1 (“W e reverse the Court of Appeals and district court and remand to the district court ... to dismiss the Bankf’s]... foreclosure action for lack of standing.”). The Romeros argue that the Supreme Court’s determination constituted an adjudication on the merits. The Supreme Court did not, however, adjudicate the merits of the foreclosure claim. Although the Romeros argue that “standing is an issue that is essential to get to a claim for relief’ and thus, as a threshold issue, standing can ultimately preclude a claim on the basis of claim preclusion, we see no support for such a broad application of claim preclusion. The Romeros’ argument circumvents the elements of claim preclusion. And, although the appellate courts of this state have not yet evaluated whether a negative determination on standing in the foreclosure context precludes future foreclosure claims, other courts have held that a dismissal based on lack of standing is not an adjudication on the merits of a foreclosure claim such that future claims are precluded. See Federal Home Loan Mortg. Corp. v. Schwartzwald, 2012-Ohio-5017, 979 N.E.2d 1214, at ¶ 40 (“The lack of standing at the commencement of a foreclosure action requires dismissal of the complaint; however, that dismissal is not an adjudication on the merits and is therefore without prejudice.”), overruling on other grounds recognized by Bank of N.Y. Mellon v. Grund, 2015-Ohio-466, 27 N.E.3d 555; BAC Home Loans Servicing, L.P. v. Devoll, 2011-Ohio-6607, 2011 WL 6740561, at ¶ 17 (non-precedential) (“[Tjhe dismissal of an action because one of the parties is not a real party in interest or does not have standing is not a dismissal on the merits for purposes of res judicata.”); see also Brown v. M & T Bank, 183 So. 3d 1270, 1271 (Fla. Dist. Ct. App. 2016) (holding that the dismissal of a foreclosure action for lack of standing does not operate as an adjudication on the merits, and “[bjecause there has been no adjudication on the underlying indebtedness, our dismissal has no effect on the underlying duties, rights, or obligations of the parties” (internal quotation marks and citation omitted)).\n{17} Additionally, our Supreme Court has positively cited to cases that either (1) note that dismissal without prejudice is the proper remedy when a party fails to prove standing, or (2) approve of allowance of subsequent lawsuits. See Deutsche Bank Nat'l Trust Co. v. Johnston, 2016-NMSC-013, ¶ 23, 369 P.3d 1046 (citing Schwartzwald, 2012-Ohio-5017); Deutsche Bank Nat’l Trust v. Brumbaugh, 2012 OK 3, ¶ 11, 270 P.3d 151, 154 (recognizing “the case may be dismissed without prejudice and the action may be refiled”); McLean v. JP Morgan Chase Bank Nat’l Ass’n, 79 So. 3d 170, 175 (Fla. Dist. Ct. App. 2012) (stating that if the bank had no standing at the time the complaint was filed, “the trial court should dismiss the instant lawsuit and [the bank] must file a new complaint”); see also U.S. Bank Nat'l Ass’n v. Kimball, 2011 VT 81, ¶¶ 22-23, 27 A.3d 1087 (upholding a dismissal with prejudice but specifically determining that the merits of foreclosure were not litigated and the bank “cannot be precluded from pursuing foreclosure on the merits should it be prepared to prove the necessary elements”).\n{18} During oral argument, this Court asked the Romeros to “point... to a single jurisdiction that on point and definitively has held that when a lending institution fails to demonstrate standing in a cause of action and the case is then dismissed because of that failure ..., [the claim is forever precluded].” In response, the Romeros stated that the Ohio Supreme Court, in Bank of America, N.A. v. Kuchta, 2014-Ohio-4275, 21 N.E.3d 1040, reconsideration denied, 2014-Ohio-5251, 20 N.E.3d 730, held that “a determination of standing is accorded res judicata effect” in a foreclosure context. Additionally, the Romeros represented to this Court that the following New Mexico cases held that “a determination of standing is entitled to a preclusive effect”: Kimbrell v. Kimbrell, 2014-NMSC-027, 331 P.3d 915; Eastham v. Pub. Employees’ Ret. Ass'n Bd., 1976-NMSC-046, 89 N.M. 399, 553 P.2d 679; San Juan Agric. Water Users Ass’n v. KNME-TV, 2010-NMCA-012, 147 N.M. 643, 227 P.3d 612; Trujillo v. Acequia de Chamisal, 1968-NMCA-015, 79 N.M. 39, 439 P.2d 557; THI of N.M. at Las Cruces, LLC v. N.M. Human Servs. Dep’t, No. 31,588, 2013 WL 6640490, mem. op. (N.M. Ct. App. Nov. 25, 2013) (non-precedential). After reviewing these cases, we conclude there is no support for the Romeros’ propositions in their cited case law.\n{19} In Kuchta, the Ohio Supreme Court considered the homeowners’ ability to collaterally attack a judgment in a foreclosure action by asserting lack of standing in a Rule 60(B) motion. Kuchta, 2014-Ohio-4275, ¶ 1; see Ohio Rev. Code Ann. Civ.R. 60(B) (2016). The primary holding in that case was that Rule 60(B) cannot be used as a substitute for a timely appeal, and “the doctrine of res judicata bars [the homeowners’] attempted collateral attack against the judgment in foreclosure.” Kuchta, 2014-Ohio-4275, ¶¶ 1, 16. Importantly, Kuchta did not hold that an appellate court’s determination of lack of standing would have a preclusive effect on future foreclosure attempts. And, in fact, the Ohio Supreme Court directly addressed the question of what effect a lack of standing determination would have on a second foreclosure action and specifically held that “[t]he lack of standing at the commencement of a foreclosure action requires dismissal of the complaint; however, that dismissal is not an adjudication on the merits and is therefore without prejudice.” Schwartzwald, 2012-Ohio-5017, ¶ 40.\n{20} The New Mexico cases cited by the Romeros also do not support the broad proposition offered by the Romeros that an appellate court’s ruling as to standing is entitled to preclusive effect under claim preclusion. With the exception of Trujillo, 1968-NMCA-015, none of the cases upon which the Romeros rely addressed the “with” versus “without” prejudice designation of the dismissals based on standing or questioned the preclusive effect of the dismissals. The cited cases focused on the appropriateness of the dismissals themselves, as opposed to the designations. And as noted by the Bank in its reply brief, Trujillo likewise does not provide support for the Romeros. The primary holding in Trujillo was that, because the case was dismissed due to the inclusion of an improper plaintiff, there was no disposition on the merits. and thus res judicata was not applicable. 1968-NMCA-015,1flf3,11-12,15. The Trujillo Court held that the proper plaintiffs in the trespass claim could proceed with their trespass claim should they decide to proceed. Id. ¶ 14. Although this Court noted in dicta that the improper plain tiff was prohibited from proceeding with the trespass claim in the future, that holding is of little value to the present case because the Court provided no explanation or analysis explaining its holding. Id.\n{21} In addition to asserting that case law supports precluding any future foreclosure attempts by the Bank against the Romeros, the Romeros also argue that there are strong public policies favoring preclusion in this case. Specifically, the Romeros state preclusion reflects the following policies that (1) defendants not be subjected to repetitive, vexatious, and costly lawsuits; (2) judicial resources are conserved; (3) inconsistent decisions on the same issue are prevented; and (4) people are able to rely on the judgments of the court. In regard to the policy favoring finality, the Romeros pose the question of “how many bites at the apple” should the Bank be given when it has had a full and fair opportunity to litigate standing? Although we appreciate the Romeros’ concern that parties who have had an opportunity to litigate should not have infinite proverbial “bites at the apple,” we do not think that dismissing this case without prejudice runs afopl of our policy favoring finality because there has been no final decision in favor of the Romeros as to the foreclosure claim, and, additionally, relying on policy reasons underlying claim preclusion is not persuasive absent proof of the relevant elements of the doctrine. We decline to affirm based solely on the policy notions underlying claim preclusion.\n{22} We reject the Romeros’ request that we determine the district court’s dismissal was supported by claim preclusion, as well as issue preclusion. And we reject any suggestion that the district court through its “with prejudice” designation appropriately, intentionally, and effectively precluded the Bank from re-filing the foreclosure action under the doctrine of claim preclusion. The fact is that neither the Supreme Court nor the district court on remand addressed the merits of the foreclosure claim and no basis exists to support application of claim preclusion to the district court’s issue preclusion dismissal.\nIV. Issue Preclusion\n{23} In general, “[w]e review a decision by the district court to apply or not apply the doctrine of collateral estoppel for an abuse of discretion.” Brannock v. Lotus Fund, 2016-NMCA-030, ¶ 7, 367 P.3d 888. However, when the facts are not in dispute, we “review de novo the question of issue preclusion.” Ideal v. Burlington Res. Oil & Gas Co., 2010-NMSC-022, ¶ 10, 148 N.M. 228, 233 P.3d 362. “The doctrine of issue preclusion prevents a party from re-litigating ultimate facts or issues actually and necessarily decided in a prior suit.” Peterson, 2014-NMCA-036, ¶ 34 (alteration, internal quotation marks, and citation omitted). Issue preclusion, also known as collateral estoppel, bars re-litigation if the following four elements are met: “(1) the party to be estopped was a party to the prior proceeding, (2) the cause of action in the case presently before the court is different from the cause of action in the prior adjudication, (3) the issue was actually litigated in the prior adjudication, and (4) the issue was necessarily determined in the prior litigation.” Ideal, 2010-NMSC-022, ¶ 9 (internal quotation marks and citation omitted). According to Cutler v. Hayes, 818 F.2d 879, 889 (D.C. Cir. 1987), “[principles of collateral estoppel clearly apply to standing determinations” and a key inquiry “is whether the issue presented in the two proceedings is substantially the same.” (Internal quotation marks and footnote citation omitted.)\n{24} In the present case, the district court’s dismissal of the Bank’s complaint “with prejudice” on the basis of “issue preclusion” was improper because, as stated earlier, the “with prejudice” designation goes beyond issue preclusion and effectively precludes the entire foreclosure claim, not just the standing issue addressed by the Supreme Court. As indicated in Section III of this Opinion, the designation of a dismissal as being “with” or “without” prejudice typically communicates whether there has been an adjudication on the merits and whether claim preclusion is implicated. See Kirby, 2010-NMSC-014, ¶ 66; Bralley, 1985-NMCA-043, ¶ 18. To our knowledge, a “with prejudice” designation that reflects adjudication on the merits of a claim is not to be used to communicate that a discrete issue, but not the claim, within a case has been litigated, implicating issue preclusion. We agree with the Bank that when the district court dismissed the action with prejudice, the court appears to have improperly combined ormixed claim and issue preclusion doctrines in applying issue preclusion to prevent the Bank’s foreclosure claim. We do not interpret the Supreme Court’s ruling in Romero regarding the issue of standing as precluding the Bank from filing a second action asserting a foreclosure claim, and we do not approve the approach of using issue preclusion to form the basis of a dismissal of a claim. The purposes and the elements of issue and claim preclusion are distinct, and the former should not be used to circumvent the requirements of the latter. See Pielhau, 2013-NMCA-1 12, ¶¶ 10-11 (“A dismissal with prejudice is an adjudication on the merits for purposes of res judicata. . . . We note that this rule applies to preclude claims (claim preclusion/res judicata), but not issues (issuepreclusion/collateral estoppel).”). This distinction is based on the fact that issue preclusion requires that the issue was actually litigated and necessarily determined in the first suit, whereas claim preclusion does not so require.” (alteration, internal quotation marks, and citations omitted)).\n{25} Further, ruling on issue preclusion at this point is premature insofar as there may be additional facts presented or ways of evaluating the standing issue in the second case that re-frame the issue. For its ruling, the district court necessarily speculated that different or additional facts could or would not be pleaded in a second suit that would give rise to standing. But changes in the law or facts may ultimately place into question the application of issue preclusion, and the district court should not have prevented the Bank from bringing a subsequent action based on its assumption that the facts and issues presented in the subsequent case would be substantially the same as the facts and issues in the first case. See Bellet v. Grynberg, 1992-NMSC-063, ¶ 14, 114 N.M. 690, 845 P.2d 784 (stating that “changed circumstances may prevent res judicata from operating” (emphasis omitted)); State v. Cotton Belt Ins. Co., 1981-NMSC-129, ¶ 5, 97 N.M. 152, 637 P.2d 834 (“The doctrine of res judicata was never intended to operate so as to prevent a reexamination of the same question between the same parties where, in the interval between the first and second actions, the facts have materially changed or new facts have occurred},] which may have altered the legal rights or relations of the litigants.” (internal quotation marks and citation omitted)); Town of Atrisco v. Monohan, 1952-NMSC-011, ¶ 22, 56 N.M. 70, 240 P.2d 216 (stating that, as applied to collateral estoppel, a “subsequent modification of the significant facts or a change or development in the controlling legal principles may make [a prior] determination obsolete or erroneous, at least for future purposes”). The Bank has alleged legal and factual changes that it believes can overcome preclusion and argues that it should have the opportunity to prove any material changes in law or fact in a second suit. Case law cited by both parties contemplates considering the merits of an issue preclusion argument after the filing of a second suit. See Cutler, 818 F.2d at 889 (stating that the relevant inquiry “is whether the issue presented in the two proceedings is substantially the same” (internal quotation marks and footnote citation omitted)). Our United States Supreme Court has specifically noted that “a court does not usually get to dictate to other courts the preclusion consequences of its own judgment.” Smith v. Bayer Corp., 564 U.S. 299, 307 (2011) (internal quotation marks and citation omitted). Unless and until the Bank is given a full opportunity to argue the merits of its position regarding issue preclusion, we are concerned that the application of issue preclusion at this point would be unfair. See Albuquerque Police Dep‘t v. Martinez, 1995-NMCA-088, ¶ 28, 120 N.M. 408, 902 P.2d 563 (“[E]ven if the elements of collateral estoppel are otherwise met, the district court may still determine that the application of collateral estoppel would be fundamentally unfair and would not further the aim of the doctrine, which is to prevent endless re[-]litigation of issues.” (internal quotation marks and citation omitted)).\n{26} Because we hold that the district court’s order regarding issue preclusion was premature, we do not consider whether the standing issue in a second case will or will not ultimately be precluded.\nCONCLUSION\n{27} We reverse the district court’s dismissal of the foreclosure action with prejudice, and we also reverse the court’s ruling that the Bank “is precluded from raising in the future the issue that it is entitled to enforce the Romeros’ note and foreclosure on the Romeros’ mortgage.” On remand, we instruct the district court to dismiss the complaint without prejudice.\n{28} IT IS SO ORDERED.\nJONATHAN B. SUTIN, Judge\nWE CONCUR:\nM. MONICA ZAMORA, Judge\nJ. MILES HANISEE, Judge\nDespite the Romeros’ representations that these policies have been used to support claim and issue preclusion, the cited cases indicate that the enumerated policies support claim preclusion, not issue preclusion. See Turner, 2015-NMCA-068, ¶ 6; Cordova v. Larsen, 2004-NMCA-087, ¶ 23, 136 N.M. 87, 94 P.3d 830; see also First State Bank v. Muzio, 1983-NMSC-057, ¶ 9, 100 N.M. 98, 666 P.2d 777 (recognizing claim preclusion in a default judgment context), overruled on other grounds by Huntington Nat'l Bank v. Sproul, 1993-NMSC-051, 116 N.M. 254, 861 P.2d 935; Pielhau, 2013-NMCA-1 12, ¶ 8 (identifying the purposes of the claim preclusion doctrine).\nAs noted earlier in the background section, the district court appears to have ruled on issue preclusion sua sponte, and thus the parties did not have the opportunity to brief issue preclusion. If and when a second suit is filed and the parties brief issue preclusion, we note that the burden of proving that an issue is precluded falls on “[t]he party invoking the doctrine[.]” Larsen v. Farmington Mun. Sch., 2010-NMCA-094, ¶ 9, 148 N.M. 926, 242 P.3d 493.",
+        "type": "majority",
+        "author": "SUTIN, Judge."
+      }
+    ],
+    "attorneys": [
+      "Johnson Law Firm, LC Thomas L. Johnson Albuquerque, NM Rose L. Brand & Associates, P.C. Eraina M. Edwards Albuquerque, NM Houser & Allison, APC Kerri L. Allensworth Albuquerque, NM for Appellant",
+      "Daniel Yohalem Santa Fe, NM Katherine Murray Santa Fe, NM Santa Fe Neighborhood Law Center Frederick M. Rowe Santa Fe, NM Joshua R. Simms, P.C. Joshua R. Simms Albuquerque, NM for Appellees"
+    ],
+    "corrections": "",
+    "head_matter": "Certiorari Denied, September 22, 2016,\nNo. S-1-SC-36063\nIN THE COURT OF APPEALS OF THE STATE OF NEW MEXICO\nOpinion Number: 2016-NMCA-091\nFiling Date: July 28, 2016\nDocket No. 34,426\nTHE BANK OF NEW YORK AS TRUSTEE FOR POPULAR FINANCIAL SERVICES MORTGAGE/PASS THROUGH CERTIFICATE SERIES #2006-D, Plaintiff-Appellant, v. JOSEPH A. ROMERO and MARY ROMERO a/k/a MARY O. ROMERO a/k/a MARIA ROMERO, Defendants-Appellees.\nSarah M. Singleton, District Judge\nJohnson Law Firm, LC Thomas L. Johnson Albuquerque, NM Rose L. Brand & Associates, P.C. Eraina M. Edwards Albuquerque, NM Houser & Allison, APC Kerri L. Allensworth Albuquerque, NM for Appellant\nDaniel Yohalem Santa Fe, NM Katherine Murray Santa Fe, NM Santa Fe Neighborhood Law Center Frederick M. Rowe Santa Fe, NM Joshua R. Simms, P.C. Joshua R. Simms Albuquerque, NM for Appellees"
+  },
+  "file_name": "1704-01",
+  "first_page_order": 565,
+  "last_page_order": 574
+}

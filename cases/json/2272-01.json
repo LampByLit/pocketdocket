@@ -1,0 +1,294 @@
+{
+  "id": 6787213,
+  "name": "The People of the State of New York, Respondent, v. Joby Kollarettu John, Appellant",
+  "name_abbreviation": "People v. John",
+  "decision_date": "2016-05-25",
+  "docket_number": "",
+  "first_page": "61",
+  "last_page": "66",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Misc. 3d 61"
+    },
+    {
+      "type": "parallel",
+      "cite": "36 N.Y.S.3d 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "91 NY2d 708",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525149
+      ],
+      "pin_cites": [
+        {
+          "page": "714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0708-01"
+      ]
+    },
+    {
+      "cite": "2 NY3d 277",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 NY3d 143",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        984050
+      ],
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/5/0143-01"
+      ]
+    },
+    {
+      "cite": "114 AD3d 963",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3825040
+      ],
+      "pin_cites": [
+        {
+          "page": "963-964"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/114/0963-01"
+      ]
+    },
+    {
+      "cite": "97 AD3d 170",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3471975
+      ],
+      "pin_cites": [
+        {
+          "page": "176-180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/97/0170-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 972",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4295847
+      ],
+      "pin_cites": [
+        {
+          "page": "974-975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0972-01"
+      ]
+    },
+    {
+      "cite": "466 US 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "pin_cites": [
+        {
+          "page": "687-688"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "8 USC § 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 USC § 1227",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 NY Slip Op 50713",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Misc 3d 1215",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 AD3d 1347",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3981282
+      ],
+      "pin_cites": [
+        {
+          "page": "1348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/72/1347-01"
+      ]
+    },
+    {
+      "cite": "88 AD3d 742",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4031232,
+        4031457
+      ],
+      "pin_cites": [
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/88/0742-02",
+        "/ad3d/88/0742-01"
+      ]
+    },
+    {
+      "cite": "121 AD3d 721",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4294472,
+        4289762
+      ],
+      "pin_cites": [
+        {
+          "page": "722"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/121/0721-02",
+        "/ad3d/121/0721-01"
+      ]
+    },
+    {
+      "cite": "559 US 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3581896,
+        12447673
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "359, 368-369"
+        },
+        {
+          "page": "369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0356-01",
+        "/l-ed-2d/176/0284-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 569,
+    "char_count": 10036,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.18245098459408252
+    },
+    "sha256": "9457e26fa6b4f0439dd8f3a7e695251d36c3055c6ee65b6033cb9c5ff3b4f3e9",
+    "simhash": "1:bbb9546d9ffb6cfb",
+    "word_count": 1610
+  },
+  "last_updated": "2024-02-27T20:58:54.977922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Iannacci, J.P., Maraño and Tolbert, JJ., concur."
+    ],
+    "parties": [
+      "The People of the State of New York, Respondent, v Joby Kollarettu John, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is affirmed.\nAccording to the accusatory instrument, at approximately 7:40 a.m. on July 15, 2009, a 12-year-old girl was standing at Riverdale Avenue and Hudson Streets in the City of Yonkers, waiting for a bus to take her to her summer school. Defendant, a native of India, who was not a United States citizen, and was 47 years old, approached the girl and began talking to her. Among other things, defendant told her “that she was pretty and he liked her.” Defendant subsequently touched the girl’s buttocks and shoulder, and told her that he loved her. Defendant was arrested on July 21, 2009 and charged with forcible touching (Penal Law § 130.52), sexual abuse in the second degree (Penal Law § 130.60 [2]), and endangering the welfare of a child (Penal Law § 260.10 [1]).\nOn November 1, 2010, defendant, represented by counsel, with a Malayalam interpreter present, pleaded guilty in the City Court to endangering the welfare of a child, in satisfaction of all of the charges. The court promised to sentence defendant to a term of three years’ probation with sex offender conditions, and a permanent order of protection would be issued in favor of the victim and against defendant. Surcharges and fees totaling $250 would be imposed. Defendant admitted that, on July 15, 2009, at Hudson Street and Riverdale Avenue in Yonkers, he knowingly acted in a manner likely to be injurious to the physical, mental or moral welfare of a child who was less than 17 years old, and that the minor in question was 12 years old.\nDefendant acknowledged that he had reviewed a misdemeanor conviction waiver of rights form, that he agreed with its contents, and that he had signed the form. He had no questions for the prosecutor, his attorney, or the court. Paragraph 14 of the misdemeanor conviction waiver of rights form stated that “I understand that if I am not a citizen of the United States, this plea of guilty may result in my deportation and exclusion from the United States.”\nOn February 28, 2011, defendant was sentenced as promised. Defendant indicated that his son had accompanied him to all of his court appearances, because defendant did not “know any English.”\nOn or about January 25, 2013, defendant moved to vacate the judgment of conviction, pursuant to CPL 440.10 and 440.30, on the ground that he was denied the effective assistance of counsel at the plea. In an affidavit, defendant claimed that he “distinctly remember [ed]” asking the attorney who represented him “about possible immigration consequences of a guilty plea.” The attorney allegedly informed him that he “should not worry about a guilty plea . . . because it would not have any negative impact on [his] immigration status.” Defendant also claimed that he did not commit the crime of which he was convicted. Had he not received erroneous advice, he would have gone to trial. In a memorandum of law, defendant’s new attorney argued that the advice defendant had received, to the effect that he did not need to worry about deportation, constituted ineffective assistance of counsel pursuant to Padilla v Kentucky (559 US 356 [2010]).\nDefendant’s son provided a notarized, unsworn statement, alleging that he had accompanied his father to his former attorney’s office approximately four times, and translated for him. He also spoke to the former attorney several times by telephone. Defendant’s son alleged that neither he nor his father had ever had a conversation or discussion with counsel about immigration, and counsel had never said anything about immigration or deportation. Defendant’s son further asserted that after his father had been granted permission by the City Court to travel to India, the attorney who had applied for such permission had advised defendant’s son to first consult an immigration lawyer. Defendant’s son alleged that he had consulted four immigration lawyers, and all but one had told him that defendant should not travel outside of the United States because a conviction of endangering the welfare of a child is an aggravated felony under federal immigration law, and, upon returning to the United States, federal immigration authorities would likely take him into custody. Defendant never traveled to India.\nThe People opposed the motion on the ground that the case against defendant, which included his statement admitting that he had touched the victim, was strong. The prosecutor argued that, under Padilla, a defense attorney must advise his client of deportation consequences of a guilty plea only when the consequence is succinct, clear and explicit, and can easily be determined. In the case at bar, defendant’s claims were based on his self-serving affidavit, without any supporting evidence. Defendant’s affidavit and his son’s statement contradicted each other, as defendant claimed that his former attorney had given him incorrect advice regarding the consequences of his plea, while his son’s statement alleged that the attorney had never made any representations regarding the consequences of the plea. The prosecutor noted the advisement contained in paragraph 14 of the misdemeanor conviction waiver of rights form signed by defendant. The prosecutor also argued that, even if defendant’s counsel was ineffective for not advising or erroneously advising him regarding the consequences of his plea, defendant was not prejudiced thereby.\nBy decision and order dated June 12, 2013, the City Court (Thomas R. Daly, J.) denied defendant’s motion. The court noted the contradiction between defendant’s affidavit and the statement of his son, and determined that defendant had not provided any documentation that he was currently in removal proceedings as a result of this conviction. Therefore, he could not show that he had been prejudiced. Moreover, defendant had not provided any supporting documentation from the immigration attorneys whose advice his son had referred to regarding the effect of the instant conviction. Furthermore, defendant had not even established that his conviction of endangering the welfare of a child subjected him to automatic deportation. The court set forth the details of the plea agreement and the strength of the case against defendant, and determined that defendant had received an advantageous plea and meaningful representation, and failed to establish prejudice.\nIn our view the order should be affirmed. Defendant’s affidavit, as well as counsel’s affirmation, asserted that plea counsel had told him that he did not have to worry about any deportation consequences of his plea, while the statement of defendant’s son alleged that counsel had provided no advice at all regarding the deportation consequences of the plea. We note that defendant signed the misdemeanor conviction waiver of rights form, which in paragraph 14 stated that “I understand that if I am not a citizen of the United States, this plea of guilty may result in my deportation and exclusion from the United States.” Thus, defendant knew, albeit not from his counsel, that there might well be potential deportation consequences to entering into the plea (see People v Rampersaud, 121 AD3d 721, 722 [2014]). Moreover, defendant presented no evidence that deportation proceedings had commenced against him (see People v Marino-Affaitati, 88 AD3d 742, 744 [2011]; People v Williams, 72 AD3d 1347, 1348 [2010]; People v Floyd F, 35 Misc 3d 1215[A], 2012 NY Slip Op 50713[U], *10-12 [Crim Ct, Kings County 2012]).\nIn the case at bar, unlike in Padilla, in which the petitioner faced automatic deportation pursuant to 8 USC § 1227 (a) (2) (B) (i) because he had been convicted of a controlled substance offense relating to his transporting of a large amount of marihuana in his tractor-trailer (see Padilla, 559 US at 359, 368-369), the deportation consequences of defendant’s plea were “unclear or uncertain” (id. at 369), as a conviction of endangering the welfare of a child may or may not constitute an aggravated felony as defined by the Immigration and Nationality Act (8 USC § 1101 [a] [43] [A]). By contrast, where the deportation consequences of a conviction are “truly clear . . . the duty to give correct advice is equally clear” (Padilla, 559 US at 369). Thus, defendant failed to establish that Padilla applies in this case.\nIn any event, assuming that defendant met the first prong of the federal standard for determining an ineffective assistance of counsel claim under Strickland v Washington (466 US 668, 687-688 [1984]), that counsel’s performance fell below an objective standard of reasonableness under prevailing professional norms, defendant failed to meet the second prong, i.e., that he was prejudiced (see People v Hernandez, 22 NY3d 972, 974-975 [2013]; People v Picea, 97 AD3d 170, 176-180 [2012]). Furthermore, under the New York standard for the determination of claims of ineffective assistance of counsel, viewing the “fairness of the proceedings as a whole,” we find that defendant received meaningful representation (People v Lujan, 114 AD3d 963, 963-964 [2014]; see People v Caban, 5 NY3d 143, 156 [2005]; People v Stultz, 2 NY3d 277, 284 [2004]; People v Benevento, 91 NY2d 708, 714 [1998]).\nWe note that the case against defendant was very strong. The 12-year-old victim identified defendant to her father. Defendant admitted to the victim’s father, in English, that he was sorry for touching young girls. Defendant provided a statement to the Yonkers Police admitting that he had touched the 12-year-old girl on the shoulder and buttocks.\nAccordingly, the order is affirmed.\nIannacci, J.P., Maraño and Tolbert, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Merrick Dammar, Bronx, for appellant.",
+      "James A. McCarty, Acting District Attorney, White Plains (John M. Collins, Laurie G. Sapakoff and Steven A. Bender of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[36 NYS3d 902]\nThe People of the State of New York, Respondent, v Joby Kollarettu John, Appellant.\nSupreme Court, Appellate Term, Second Department, 9th and 10th Judicial Districts,\nMay 25, 2016\nAPPEARANCES OF COUNSEL\nMerrick Dammar, Bronx, for appellant.\nJames A. McCarty, Acting District Attorney, White Plains (John M. Collins, Laurie G. Sapakoff and Steven A. Bender of counsel), for respondent."
+  },
+  "file_name": "2272-01",
+  "first_page_order": 113,
+  "last_page_order": 118
+}

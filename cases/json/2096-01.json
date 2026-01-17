@@ -1,0 +1,461 @@
+{
+  "id": 4067762,
+  "name": "In the Matter of State of New York, Petitioner, v. James F., Respondent",
+  "name_abbreviation": "State v. James F.",
+  "decision_date": "2015-11-16",
+  "docket_number": "",
+  "first_page": "690",
+  "last_page": "711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 Misc. 3d 690"
+    },
+    {
+      "type": "parallel",
+      "cite": "21 N.Y.S.3d 557"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "22 NY3d 862",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 AD3d 1083",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3735339
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/111/1083-01"
+      ]
+    },
+    {
+      "cite": "2015 NY Slip Op 50302",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Misc 3d 1225",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 NY3d 174",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004708
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0174-01"
+      ]
+    },
+    {
+      "cite": "133 AD3d 670",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4368470
+      ],
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/133/0670-01"
+      ]
+    },
+    {
+      "cite": "135 AD3d 35",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4041901
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/135/0035-01"
+      ]
+    },
+    {
+      "cite": "126 AD3d 537",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4120538,
+        4115310
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/126/0537-01",
+        "/ad3d/126/0537-02"
+      ]
+    },
+    {
+      "cite": "123 AD3d 1047",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4344437
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/123/1047-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 904",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 AD3d 1357",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4349665
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/1357-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 912",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 AD3d 670",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4037521
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0670-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 915",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 AD3d 983",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4027685
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/0983-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 911",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 AD3d 1438",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4040948,
+        4041181,
+        4038943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/125/1438-02",
+        "/ad3d/125/1438-01",
+        "/ad3d/125/1438-03"
+      ]
+    },
+    {
+      "cite": "26 NY3d 906",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 AD3d 1254",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4260816
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/129/1254-01"
+      ]
+    },
+    {
+      "cite": "25 NY3d 448",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4317864
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "454-455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/25/0448-01"
+      ]
+    },
+    {
+      "cite": "521 US 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        916116
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0346-01"
+      ]
+    },
+    {
+      "cite": "534 US 407",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9108278
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "411-412"
+        },
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/534/0407-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 99",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752826
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0099-01"
+      ]
+    },
+    {
+      "cite": "85 AD3d 1646",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        5763137
+      ],
+      "pin_cites": [
+        {
+          "page": "1648"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/85/1646-01"
+      ]
+    },
+    {
+      "cite": "8 NY3d 645",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5689502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/8/0645-01"
+      ]
+    },
+    {
+      "cite": "22 NY3d 233",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4295237
+      ],
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/22/0233-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 206",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3753733
+      ],
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0206-01"
+      ]
+    },
+    {
+      "cite": "46 AD2d 191",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5620808
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/46/0191-01"
+      ]
+    },
+    {
+      "cite": "66 NY2d 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4400672
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0382-01"
+      ]
+    },
+    {
+      "cite": "24 NY3d 649",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4004269
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "659"
+        },
+        {
+          "page": "658"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/24/0649-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1647,
+    "char_count": 52645,
+    "ocr_confidence": 0.741,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.1289339648759445
+    },
+    "sha256": "756a7deb40926e5c133bb25d2b36146497114b224b1702c0f960f622b1eaafc3",
+    "simhash": "1:b4fb6e673a914b5e",
+    "word_count": 8631
+  },
+  "last_updated": "2024-02-27T17:03:53.079855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of State of New York, Petitioner, v James F., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDaniel P. Convisek, J.\nFor the reasons outlined infra, the court holds that the respondent is a dangerous sex offender requiring confinement pursuant to Mental Hygiene Law § 10.07 (f).\nProcedural Background\nOn July 1, 2014, Mr. F. admitted in a plea that he is a detained sex offender who suffers from a mental abnormality under article 10 of the Mental Hygiene Law (the Sex Offender Management and Treatment Act or SOMTA). The case was then adjourned for a dispositional hearing to be held on January 12, 2015 to determine whether Mr. F. was a dangerous sex offender requiring confinement or a sex offender subject to strict and intensive supervision and treatment (SIST). (See Mental Hygiene Law § 10.07 [f].) The State proffered the testimony of a witness, Dr. Stuart Kirschner, who the State said was prepared to opine the respondent was a dangerous sex offender requiring confinement. The respondent indicated he would not present any psychiatric witness at the hearing.\nImmediately prior to the beginning of Dr. Kirschner’s testimony, however, the respondent in the presence of his counsel said he wished to admit he is a dangerous sex offender requiring confinement. After a thorough allocution, this court accepted that acknowledgment and plea and found Mr. F. to be a dangerous sex offender requiring confinement.\nSubsequently, however, Mr. F. moved to withdraw his dispositional plea based on the decision of the New York Court of Appeals in Matter of State of New York v Michael M. (24 NY3d 649 [Dec. 17, 2014]). In Michael M., the Court held that in order to revoke a respondent’s SIST placement and confine him, the State must demonstrate he has an “inability to control sexual misconduct,” a standard the Court held had not been met in the case (24 NY3d at 659). Since the statutory standard for confinement of a SIST violator is the same as for confining a respondent after an initial dispositional hearing, the “inability to control sexual misconduct” standard following the Michael M. decision also applies to dispositional decisions like the one here. In this court’s view, prior to Michael M., New York courts did not require a complete inability to control sexually offending behavior in order to confine a respondent. Rather, the courts had required such a degree of inability to control sexually offending behavior that the failure to order confinement would likely result in the commission of another sex crime. The Michael M. decision is discussed in more detail infra.\nRespondent’s counsel indicated that although the Michael M. case had predated Mr. F.’s dispositional plea by almost one month, counsel had not discussed the decision with Mr. F. prior to that plea. Mr. F. asserted that having now considered Michael M., he no longer wished to agree to confinement and his counsel argued he should have discussed the decision with his client prior to Mr. F.’s agreement to be confined.\nIn this court’s view, the Michael M. standard may make it significantly more difficult to confine offenders under article 10. Respondent’s counsel argued the decision has had the effect of “moving the line” with respect to dispositional determinations. This court agreed that Mr. F. should have been apprised of the Michael M. decision prior to his confinement plea. This court also agreed that Mr. F. was not able to make a knowing, voluntary and intelligent decision about whether to agree to be confined without knowing about Michael M. The court therefore allowed Mr. F. to withdraw his previous dispositional plea and proceeded to conduct the instant hearing. During the hearing the State presented the testimony of Dr. Stuart Kirsehner and Mr. F. testified on his own behalf.\nStatement of Facts\nDr. Stuart Kirsehner was qualified without objection as an expert in the field of forensic psychology. He prepared two psychiatric reports concerning the respondent, dated May 5, 2014 and October 8, 2014, but neither was received in evidence. Dr. Kirsehner diagnosed Mr. F. with major depressive disorder with psychotic features, alcohol abuse disorder, antisocial personality disorder (ASPD) and pedophilic disorder. He opined that Mr. F. had a mental abnormality under article 10 and was a dangerous sex offender requiring confinement.\nMr. F. is 41 years old. Dr. Kirsehner said that Mr. F. had been convicted of sexually offending against three males and three females under the age of 12 as well as three adult victims. He also harbored a 12-year-old boy who was a runaway in his house for five days, but was not known to have sexually abused that child. During the time he harbored the child, he told the child’s mother that he was looking for the child. His ASPD has been evidenced by his extensive arrests for minor crimes. Dr. Kirschner opined that Mr. F. does not have a conscience. His first sexual offense against a child occurred in 1991 when Mr. F. was 16 years old. He fondled a boy in a church bathroom while the boy was urinating. In the year 2000, in his apartment, he tied the hands of a 10-year-old boy who lived downstairs from him, fondled the boy and began to take off his clothes. The boy’s mother confronted Mr. F. when she heard the child’s screams, he denied having the child in his apartment and the boy then ran out of a room without his pants on. He fondled a seven-year-old girl under her clothes in her bed in 2001. Mr. F. tried to convince the mother and child that a “black man” had actually fondled her. (Mr. F. is Caucasian.)\nThe instant offense which is the basis for this petition occurred in Washington Heights in 2008 at 9:30 a.m. Mr. F. pinned a 12-year-old girl against a van, fondled her vagina, digitally penetrated her and then punched her in the face. At 11:30 a.m. that same day, he asked another 12-year-old girl to remove her panties. At about 5:00 p.m. that day, he offered to pay a 10-year-old boy $5 if he would remove his pants. Mr. F. pleaded guilty to one of these offenses.\nIn addition to his child sexual offenses, Mr. F. has committed two rapes and one attempted rape of adult women. The attempted rape occurred in 2004 at a bar in Dunkirk, New York. Mr. F. met a woman at a bar and offered her money to have sex with him. She refused. Outside the bar, Mr. F. dragged the woman into an alley, threatened to kill her, choked her into unconsciousness, pulled her pants down and tried to rape her. The assault was interrupted when other people emerged and began shouting at him. In 1999, he offered a woman at a bar a ride home, drove into the woods, punched the woman and partially inserted his penis into her vagina. He then drove her home and she invited him into her house on the pretense that she would have sex with him, but her fiancé was in fact home sleeping at the time. Mr. F. got into an argument with the fiancé and a neighbor then called the police. The vehicle was damaged during the drive, perhaps by hitting a tree, and Mr. F. attributed the victim’s facial injuries (which she claimed arose from Mr. F.’s assault) to a vehicle accident.\nMr. F. raped a woman between a bar and a residential building in Albany in 1995. He threatened to snap the victim’s neck and the assault was so close to the victim’s house that her mother heard the victim screaming during the rape. The victim lived close to Mr. F. and knew him. The fact that the rape was committed close to the victim’s home and that Mr. F. knew the victim was evidence to Dr. Kirschner that Mr. F. had serious difficulty controlling his sexually offending impulses since this assault occurred under circumstances where he was likely to be caught. Each of the assaults against these nine separate victims resulted in sexual offense convictions although, as noted supra, Mr. F. pleaded guilty to assaulting only one of the three children he was accused of offending against during the instant offense. The sexual offenses spanned the period from 1991 to 2008.\nMr. F. was enrolled in a prison sex offender treatment program in 2002, but was removed from the program after he was found with 54 non-pornographic pictures of pubescent children. The pictures had been cut out from newspaper articles and contained names, ages and some location information about the children. A corrections report in connection with that incident indicated that Mr. F. “admitted his inability to control his sexual deviancy.” At the time Mr. F. was removed from the program, he had participated in it for 2V2 months and received the lowest possible scores on all of the program criteria. He refused to participate in a prison sex offender treatment program in 2010 and was removed from such a program in 2012. Mr. F. violated the conditions of supervision on three occasions. Mr. F. had behavioral problems as a child, was abused in group homes, has a long history of alcohol abuse and a limited work history. He has a history of depression, has been in special education and has an IQ of 77, placing him in the borderline range of intellectual functioning. Borderline intellectual functioning, however, is not associated with impulsivity.\nMr. F. has had three girlfriends, and in addition to his admission regarding a sexual attraction to children noted supra, has also denied having a sexual attraction to children. Before the instant hearing he had denied most of his sexual offending. Dr. Kirschner scored the respondent on an instrument called the SVR-20 (Sexual Violence Risk-20) which scores a person based on actuarial data related to sex offender recidivism on 20 criteria, but the overall score has little significance. It is used to determine whether a person does or does not have a sex offender condition and to assist in a structured clinical evaluation. He said Mr. F. was scored with a large number of the items on the scale. Dr. Kirschner also scored Mr. F. on the Static-99 actuarial risk assessment instrument with a “9” indicating he is at a high risk to re-offend. In interviews with a different doctor, Dr. Winsman, who conducted an evaluation of Mr. F. for the respondent, Mr. F. generally denied or minimized his sexual offenses. He did, however, admit to raping one victim and fondling one child but was unwilling to discuss any of his offenses in detail.\nDr. Kirschner opined that with respect to Mr. F.’s mental abnormality:\n“[W]hat makes his condition current for me is his lack of treatment; and the fact that he has displayed no understanding, and has taken no responsibility over the course of his life for his sexual offenses. That’s first. The second is the nature of his offending. He’s demonstrated an extremely serious difficulty in controlling his sexual impulses. Over the years, he’s offended in public places where he’s been literally caught in the act of raping a female or two females. At one point, he entered the dwelling of a female, pursuing her, when her fiancé was present. . . . [H]e takes a ten-year-old boy in the house where he lives; and he’s living upstairs; and the mother can hear her boy screaming, as he’s molesting the child. . . . He fondles a girl when her mother is upstairs with three other teenagers . . . the last incident occurs in broad daylight in the summer months, in Washington Heights, where he accosts three children. That, to me, all these in its totality, indicates serious difficulty in controlling.” (Hearing tr at 33-34.)\nDr. Kirschner also considered Mr. F.’s lack of remorse, lack of insight, use of alcohol, which is a disinhibitor, disregard for the law, the commission of sexual offenses even though he also had consensual sexual relationships and the early onset of his sexual preference for children as evidenced by his sexual abuse of a child when Mr. F. was 16 years old. Even while he was confined and in a sex offender treatment program, Mr. F. had an inability to control his behavior as evidenced by his possession of children’s pictures. Dr. Kirschner opined that Mr. F. was likely to commit sex offenses if not confined to a secure treatment facility. Mr. F. has no “braking mechanism,” is not in sex offender treatment and has no relapse prevention plan. There is no indication he is able to control his impulses. He has made no effort to modify his sexually offending behaviors.\nDuring his five years of incarceration for the instant offense, Mr. F. has received four disciplinary infractions, all tier II infractions (those in the midrange of severity in the three tiered state correctional disciplinary system). None of these infractions were for sexual offenses. Mr. F. has not been found with alcohol or drugs in prison. Mr. F. will be on postrelease supervision because of his criminal conviction for the instant offense until 2023. Mr. F. previously completed an alcohol and substance abuse treatment program in prison and there is no indication he has used alcohol or drugs while incarcerated.\nTestimony of Mr. F.\nMr. F. began his testimony by admitting, for the first time, that he had committed most of the sexual offenses he has been convicted of and had offended against all three children during the instant offense. He said he had been “framed” by the police for his 1995 rape conviction (8). He also denied fondling a boy in a church bathroom in 1991, asserting the boy had asked Mr. F. for help with the boy’s zipper and Mr. F. had helped the boy.\nMr. F. said he wanted to participate in a sex offender treatment program in the community so he would stop re-offending. He also said he thought medication he had taken 15 years ago, Deprancol, would help him with problems he had been having, but said he was not sure what those problems were. He said he knew nothing about SIST. He testified that he had refused to participate in prison sex offender treatment programs because he had been assaulted by correctional staff in those programs. He has previously been in protective custody and is currently confined at the Fishkill Correctional Facility. He has opted to be confined in a facility operated by the Department of Corrections and Community Supervision, rather than the Office of Mental Health (OMH) during the pendency of the instant case because he is “scared” of going to OMH. He has never been confined in an OMH facility.\nHe recalled that he was in a psychiatric facility in 1995 in connection with the rape charge at that time because he was “hearing voices, and I was bugging out because I didn’t commit a crime” (17). The following colloquy ensued between respondent’s counsel and Mr. F. regarding the instant offense:\n“Q: Mr. F., can you explain in any way what was going on to cause you to assault three different children the same day?\n“A: I’m not sure.\n“Q: I understand you may not be sure, but can you give us some idea of what you were doing?\n“A: No.\n“Q: Did you feel compelled to do that?\n“A: I can’t answer.\n“Q: You need to speak up.\n“A: I can’t answer.” (20.)\nMr. F. said he would avoid re-offending by getting the help he needed, participating in programs and using his willpower. He testified that “I don’t want to be locked up no more” (21). He said he would let someone know if he was in a situation where he might offend against a child again. When asked why he had not done that in the past, he testified: “I can’t say.” (Id. ) He said he believed he could control his sexual arousal towards children.\nConclusions of Law\nThe standard which courts must use in determining whether to subject a sex offender found to have a mental abnormality to confinement or SIST is provided by Mental Hygiene Law § 10.07 (f):\n“If the court finds by clear and convincing evidence that the respondent has a mental abnormality involving such a strong predisposition to commit sex offenses, and such an inability to control behavior, that the respondent is likely to be a danger to others and to commit sex offenses if not confined to a secure treatment facility, then the court shall find the respondent to be a dangerous sex offender requiring confinement. In such case, the respondent shall be committed to a secure treatment facility for care, treatment, and control until such time as he or she no longer requires confinement. If the court does not find that the respondent is a dangerous sex offender requiring confinement, then the court shall make a finding of disposition that the respondent is a sex offender requiring strict and intensive supervision, and the respondent shall be subject to a regimen of strict and intensive supervision and treatment in accordance with section 10.11 of this article. In making a finding of disposition, the court shall consider the conditions that would be imposed upon the respondent if subject to a regimen of strict and intensive supervision, and all available information about the prospects for the respondent’s possible re-entry into the community.”\nMatter of State of New York v Michael M.\nIn Michael M., the Court noted that to be a dangerous sex offender requiring confinement, the State had to demonstrate the respondent had “such an inability to control behavior, that the person is likely to be a danger to others and to commit sex offenses if not confined” (24 NY3d at 658). The Court held the statute “clearly envisages a distinction between sex offenders who have difficulty controlling their sexual conduct and those who are unable to control it. The former are to be supervised and treated as 'outpatients’ and only the latter may be confined.” (Id. at 659.) The evidence in the case, the Court said, indicated the respondent was struggling with his sexual urges, not that he was “unable to control himself” or “unable to govern his sexual conduct.” (Id.) “But more than this—the inability to control sexual misconduct—would have had to be shown to prove that respondent was a dangerous sex offender requiring confinement.” (Id.)\nThis court respectfully disagrees with the Michael M. Court’s construction of the statute. In this court’s view, the statute does not require an absolute inability to control sexually offending behavior before confinement may be ordered. Rather, what is required is such a degree of inability to control behavior that the respondent would likely offend again. The court believes that is the correct construction for a number of related reasons.\nFirst, the relevant phrase which must be assessed is not simply the four words “inability to control behavior.” It is the phrase (again quoting the statute): “such an inability to control behavior, that the respondent is likely to be a danger to others and to commit sex offenses if not confined” (Mental Hygiene Law § 10.07 [f] [emphasis added]). The word “such” in this sentence is an adverb which means “to the degree that is specified or understood.” The example for this usage given by the Merriam-Webster Online Dictionary is particularly instructive because it is semantically identical to the article 10 statute. That dictionary example is: “I had such a bad headache that I couldn’t think straight.” (Merriam-Webster Online Dictionary, such [http://www.merriam-webster.com/dictionary/such] [emphasis omitted].) Here, confinement is warranted if the offender had “such an inability to control behavior, that the [person] is likely to be a danger to others and to commit sex offenses if not confined.” The statute does not require a complete lack of control. It requires that degree of inability to control behavior which makes the respondent likely to offend again.\nIn this court’s view, that construction is facially apparent. Construing the statute to require an absolute inability to control behavior, however, would also render the immediately following provisions of the clause superfluous. If a sex offender is unable to control his sexually offending behavior if not confined he is dangerous by definition. There is thus no reason to also decide whether he would offend again if not confined. In contrast, construing the term “such an inability” to mean such a degree of inability renders the remainder of the sentence meaningful. It is a fundamental principle of statutory construction, of course, that a court must assume every word in a statute has a meaning and was inserted for a purpose. (See Matter of Bliss v Bliss, 66 NY2d 382 [1985]; Direen Operating Corp. v State Tax Commn., 46 AD2d 191 [3d Dept 1974]; McKinney’s Cons Laws of NY, Book 1, Statutes § 231.) “In construing a statute, no part thereof is to be considered meaningless unless that conclusion is inevitable, and words in statutes are not to be rejected as superfluous when it is practicable to give to each a distinct and separate meaning.” (Statutes § 231, Comment.)\nThe “inability to control” standard would also assign no meaning to the word “such” preceding those words. The word “such” has many meanings, but none, other than its meaning as an adverb as described, supra, are apparent here. Perhaps the most common usage of the word “such” in statutes is to refer back to an earlier use of the same term. The phrase “inability to control behavior,” however, does not appear anywhere in the article 10 statute other than this passage (and the identical definitional provision noted supra). The word “such,” therefore, cannot have been intended to refer to a previous reference to the phrase “inability to control behavior.”\nThis court’s construction is also supported by the statute’s preceding words. The clause, including those words, reads: “such a strong predisposition to commit sex offenses, and such an inability to control behavior” that the person is likely to commit sex offenses if not confined (Mental Hygiene Law § 10.07 [f] [emphasis added]). Civil management requires a diagnosis, a predisposition and serious difficulty. The confinement determination first references the predisposition element by requiring (again, using the word “such” as an adverb) “such a strong predisposition” to commit sex offenses that the offender would strike again if not confined. It then goes on to address the serious difficulty question. Here, however, rather than using the phrase “serious difficulty” it uses “such an inability.”\nThe Michael M. Court was obviously aware of the statute’s requirement that a court make a prediction that a respondent would offend again before ordering confinement (hereinafter the public safety prediction). The Court cited the clause containing that requirement twice in its ruling. The public safety prediction requirement, however, is absent from the Court’s statement of the rule which must be applied in dispositional decisions. As noted supra, the Michael M. Court held simply that “those who are unable to control” their sexual conduct must be confined; those who “have difficulty” may not (24 NY3d at 659).\nAn offender’s lack of volitional control, along with a valid diagnosis, are the determining factors in assessing whether a mental abnormality exists. But, with respect to dispositional decisions, it is the court’s job to decide whether confinement is necessary to protect the public. (See Mental Hygiene Law § 10.01 [b] [article 10 legislative findings] [“In extreme cases, confinement of the most dangerous offenders will need to be extended by civil process in order to provide them such treatment and to protect the public from their recidivistic conduct”].) Public safety, moreover, is not only the focus of the dispositional decision but ultimately the entire point of the statute.\nUnlike the mental abnormality determination, the dispositional statute does not use the volitional assessment primarily to ensure constitutional due process. Like virtually every other state which has enacted a sex offender civil management law, the legislature, consistent with federal due process, could have chosen to simply confine every offender subject to civil management in the first instance.* The dispositional statute uses the volitional assessment as a measurement tool to resolve the ultimate question of whether the extreme proscription of confinement is necessary to promote public safety.\nPrior to Michael M. the Court of Appeals had repeatedly noted that article 10 dispositional rulings were based on public safety assessments. (See Matter of State of New York v Myron P., 20 NY3d 206, 213 [2012] [describing the article 10 dispositional decision as an “inquiry of whether the individual’s dangerousness necessarily requires retention or the individual could safely be treated and/or supervised on an outpatient basis”]; Matter of State of New York v Nelson D., 22 NY3d 233, 239 [2013] [“while dangerous sex offenders are consigned to confinement within a secure facility in accordance with the statute, ‘(a)ll other patients suffering from a mental abnormality are released for outpatient treatment’ ”], citing and quoting State of N.Y. ex rel. Harkavy v Consilvio, 8 NY3d 645 [2007]; see also Matter of State of New York v Stein, 85 AD3d 1646, 1648 [4th Dept 2011] [upholding confinement because the evidence indicated the respondent “was likely to recidivate if released from custody”], affd, 20 NY3d 99 [2012].)\nThe primary problem with the “inability to control sexual misconduct” standard, however, is not semantic or textual. It is that construing the term in accordance with its plain meaning might result in confinement not being imposed on some extreme and clearly dangerous offenders—a result the legislature did not intend. Virtually every human being has some ability to control their behavior. The United States Supreme Court in the second of its two seminal decisions on sex offender civil management, Kansas v Crane (534 US 407 [2002]), rejected the “inability to control” standard as a due process requirement for sex offender civil commitment statutes for precisely that reason. As the Court noted, the psychiatric community on both sides of the Crane case had reached the same unanimous conclusion:\n“[A]s different amici on opposite sides of this case agree, an absolutist approach is unworkable. . . . [M]ost severely ill people—even those commonly termed ‘psychopaths’—retain some ability to control their behavior. Insistence upon absolute lack of control would risk barring the civil commitment of highly dangerous persons suffering severe mental abnormalities.” (534 US at 411-412 [citations omitted].)\nDr. Kirschner made the same point during his testimony. Unless an offender has “no frontal lobes” he will always be expected to at least wait for an opportune moment to offend, rather than offend with abandon any time the chance might present itself. The issue here, of course, is not whether the “inability to control” standard should apply to civil management decisions. It is whether such proof is required before confinement may be ordered. But the basic problem with the standard is the same one the Supreme Court identified in Crane. The legislature was obviously aware of the Crane case when they adopted article 10. They used the same language the Crane Court articulated as required by substantive due process—“serious difficulty in controlling”—in the SOMTA statute.\nThe Michael M. Court, however, also explicitly held that some offenders under statute may be confined. The question then is how the standard should be interpreted. Dr. Kirschner, when the court posed the question to him, said he had concluded that if a pedophile, for example, would molest a child were he left alone in a room by himself with the child, then the pedophile would be unable to control his impulses. Respondent’s counsel pointed to the sex offender in the Supreme Court’s initial landmark decision on sex offender civil management, Kansas v Hendricks (521 US 346 [1997]). The respondent in that case, Leroy Hendricks, admitted that when he was stressed, he was unable to control the urge to molest children and said that the only way to be sure he would not molest children in the future would be “to die.” (521 US at 355.)\nRespondent’s counsel also pointed to an exhibitionist he had represented who masturbated while being treated by a dentist and during a sex offender treatment program, both times while confined in a psychiatric facility. He argued that since Mr. F. had more volitional control than either of these offenders, he must be placed on SIST. The State argued that the “inability to control” standard meant the inability to control the behaviors leading to a sex offense, rather than the inability to avoid offending itself. All of these might be reasonable policy proscriptions. None are based on the statute or Michael M.\nReported Dispositional Rulings Following Michael M,\nWhile the Michael M. Court obviously held that an “inability to control” behavior must be shown to warrant confinement, that standard has not been explicitly applied in any of the 10 reported appellate dispositional rulings made during the almost one year since Michael M. was decided. Rather, the courts have appeared to continue to apply the same public safety assessment they have always used to make article 10 dispositional rulings—and found that standard satisfied in every post -Michael M. case.\nThe Court of Appeals addressed the dispositional standard in one post Michael M. case, Matter of State of New York v Robert F. (25 NY3d 448 [2015]). There the Court held the trial court erred in allowing a State expert witness to testify by video teleconference on rebuttal during a dispositional hearing without a showing of exceptional circumstances, but found the error harmless. Explaining why there was “overwhelming evidence” warranting confinement the Court explained:\n“During the State’s case-in-chief, Dr. Peterson [the State’s expert] testified that, based on his Static-99 scores, respondent was at a high risk of recidivism. She further based her opinion on the fact that respondent had failed to progress in sex offender treatment, failed to prepare an adequate relapse prevention plan, and exhibited certain behaviors, which indicated that he would not be able to comply with the rules of the strict and intensive supervision and treatment program.” (25 NY3d at 454-455 [emphasis added].)\nThe Court did not cite Michael M.\nMichael M. has thus far been cited in three reported appellate dispositional rulings. In Matter of Sincere KK. v State of New York (129 AD3d 1254 [3d Dept 2015]), Iv denied 26 NY3d 906 [2015]), the Court upheld the denial of the respondent’s release from a secure treatment facility at an article 10 annual review proceeding, finding that he continued to be a dangerous sex offender requiring confinement. The Court held that confinement was appropriate, inter alia, because the respondent had not advanced beyond the first step of the institutional sex offender treatment program, scored high on actuarial risk assessment instruments, refused to admit his crimes or be tested with respect to his attraction to children, did not have insight into his behavior and exhibited “continued aggressive, violent behavior toward peers and staff members in the facility, including inappropriate sexual comments and threats toward female staff members.” (129 AD3d at 1255.) In its earlier decision (cited at n 14, immediately supra) the Court noted that the respondent’s last sex crime had been committed more than 30 years ago. (111 AD3d at 1085.)\nThe two remaining decisions affirming confinement orders and citing Michael M. were in brief opinions which provided little discussion of the reasons for upholding confinement. (See Matter of State of New York v Parrott, 125 AD3d 1438 [4th Dept 2015], Iv denied 25 NY3d 911 [2015]; Matter of State of New York v Juan O., 125 AD3d 983 [2d Dept 2015], Iv denied 25 NY3d 915 [2015].) Appellate courts have also upheld confinement orders in six post-Michael M. cases which neither cited Michael M. nor the “inability to control” test. (See Matter of State of New York v Carl S., 125 AD3d 670 [2d Dept 2015], Iv denied 25 NY3d 912 [2015]; Matter of Abdullah v State of New York, 124 AD3d 1357 [4th Dept 2015], Iv denied 25 NY3d 904 [2015]; Matter of State of New York v Abdul A., 123 AD3d 1047 [2d Dept 2014], Iv denied 25 NY3d 904 [2015]; Matter of State of N.Y. Off of Mental Health v Dennis J., 126 AD3d 537 [1st Dept 2015].)\nIn a decision less than three weeks ago, the Third Department upheld a confinement order, thoroughly discussed the underlying facts, did not cite Michael M. and again relied on a public safety assessment to support its conclusion. (Matter of State of New York v James K., 135 AD3d 35 [3d Dept 2015].) The Court noted that the State’s experts, inter alia, had testified that the respondent was “at significant risk of recidivism,” “could not be safely managed in a SIST regimen” and that there were “multiple other factors indicating a likelihood that respondent would reoffend” (135 AD3d at 39). Finally, in a decision last week, the Second Department upheld a confinement order in Matter of State of New York v Robert M. (133 AD3d 670, 672 [Nov. 12, 2015] [citations omitted]) finding the respondent’s “level of dangerousness” required confinement.\nThe article 10 dispositional statute allows confinement only when the State proves its necessity by clear and convincing evidence. As noted supra, moreover, the legislature intended confinement to be imposed only in “extreme cases” (Mental Hygiene Law § 10.01 [b]). In practice, however, SIST placements after dispositional hearings have been the exception rather than the rule. Of 447 initial dispositional rulings from the statute’s inception on April 13, 2007 until March 31, 2015, 70% resulted in confinement orders. When offenders who have consented to either confinement or SIST are removed from these totals, however, and initial dispositional decisions following contested hearings are considered, the results are more striking. During that same period, offenders were adjudicated after a hearing as dangerous sex offenders requiring confinement in 202 cases. SIST was ordered 40 times. Confinement was thus ordered after contested hearings in 83% of all cases. As the post -Michael M. appellate case law outlined supra indicates, Michael M. has thus far had no effect in mitigating that trend.\nOn the other hand, many offenders placed on SIST have not had a good track record complying with SIST conditions. Of 201 offenders placed on SIST until March 31, 2015, 63 were subsequently found to be dangerous sex offenders requiring confinement and 66 additional offenders were re-incarcerated for parole violations. Thirty-four offenders initially placed on SIST were released from the SOMTA system entirely.\nNone of these conflicting legal currents also speak to what, in this court’s view, are the fundamental questions about how the article 10 dispositional statute should be applied. In some rare cases, it may be obvious that a respondent would offend again if not confined. But in most cases, predicting human behavior is extraordinarily difficult, particularly when the question is not simply whether a respondent will re-offend, but whether he will re-offend under a strict and intensive supervision and treatment regime he has never experienced. How is the clear and convincing evidence standard to be understood with respect to that question? A court can easily catalog a respondent’s negative traits, credit a state expert’s opinion and conclude an offender is dangerous. But eight years after the adoption of article 10 there are no legal standards (other than the clear and convincing evidence requirement) to guide the extraordinary discretion courts have in predicting whether a respondent would offend again if released on SIST. With respect to a respondent’s liberty, such initial determinations can be as important as any in the law. Although confinement rulings are subject to annual judicial review, once confined a respondent may remain in custody for life.\nApplication of the Michael M. Standard to the Instant Case\nOne other preliminary point about the applicability of Michael M. to the instant case should be noted. As this court outlined in great detail in its decision in Matter of State of New York v Floyd Y., the Court of Appeals in Matter of State of New York v Donald DD. (24 NY3d 174 [2014]) addressed the quantum of proof which must be presented to demonstrate a respondent has serious difficulty controlling sexually offending behavior and, in this court’s view, made proving a mental abnormality much more difficult in that regard. The Kenneth T. portion of the decision primarily analyzed the testimony of the same expert who testified in the instant case, Dr. Kirschner. The Court found Dr. Kirschner’s heavy reliance upon the facts of the respondent’s crimes in diagnosing his mental abnormality an invalid method of demonstrating a lack of volitional control:\n“As evidence that Kenneth T. had serious difficulty-in controlling conduct amounting to sex offenses, Dr. Kirschner identified the fact that Kenneth T. carried out both offenses in a way that would allow for identification by his victims, and the fact that he attempted the second rape despite having spent many years in prison for the earlier crime. It is evident that circumstances of this nature are insufficient to show, by clear and convincing evidence, that a person has serious difficulty in controlling his sexual urges . . .\n“ [I]t is rarely if ever possible to say, from the facts of a sex offense alone, whether the offender had great difficulty in controlling his urges or simply decided to gratify them, though he knew he was running a significant risk of arrest and imprisonment.” (24 NY3d at 187-188.)\nAs this court outlined in much greater detail in its decision in Floyd Y., the analysis Dr. Kirschner conducted in Kenneth T is similar to the kinds of analyses which experts conduct in all article 10 cases. It is also similar to the analysis Dr. Kirschner conducted in this case. There are two critical differences between Dr. Kirschner’s analysis in this case and his similar analysis in Kenneth T, however. First, the respondent here has already admitted he has serious difficulty controlling his sexually offending behavior and already been found to have a mental abnormality. The decision which must be made here, according to the Michael M. Court, is whether Mr. F. has “difficulty” controlling his sexual misconduct or is simply unable to do so. Second, the public safety prediction required under the article 10 dispositional statute (to the extent it still has vitality after Michael M.) is qualitatively different from the mental abnormality determination addressed by Kenneth T.\nAt some point the Court of Appeals may clarify how the “inability to control” standard should be applied. This court believes, applying the Michael M. standard, that Mr. F. has “such a strong predisposition to commit sex offenses, and such an inability to control behavior, that [he] is likely to be a danger to others and to commit sex offenses if not confined to a secure treatment facility.” This court has presided over article 10 cases for amost seven years and during that time has evaluated dozens of article 10 respondents. In this court’s view, Mr. F. is as dangerous as any offender this court has encountered. Simply put, if confinement would not be appropriate for Mr. F., it would not be appropriate for anyone.\nMr. F. has offended against nine victims. He has offended against boys, girls and adult women. He has sexually abused children. His three separate rapes or attempted rapes of women have been so violent that they have included strangulation into unconsciousness and threats of murder. His first known sexual offense occurred when he was just 16. According to his own testimony, he has gained absolutely no insight into his offending. He was unable at the hearing to answer the most basic questions about why he had committed his crimes, even when they were repeatedly posed to him by his own lawyer. He has repeatedly offended under circumstances where he was likely to be caught and after being sanctioned with prison and probation.\nHe has a clearly valid sexual diagnosis, pedophilic disorder. He has ASPD, which means he has little regard for rules and norms. His diagnostic profile also includes alcohol abuse, a dis-inhibitor, and a depressive disorder with psychotic features. He has reported “hearing voices” in the past. The combination of these disorders, in this court’s view, is a toxic brew. Mr. F. has been found to be at high risk to re-offend by the Static-99 actuarial risk assessment instrument. This court takes judicial notice that this instrument is the most widely used and generally accepted sex offender actuarial risk assessment instrument in use in the world today. He offended against three separate children during one eight-hour period in broad daylight in Manhattan in 2008. After his 1999 rape, he was so brazen that he confronted his victim’s fiancé in the man’s own home under circumstances where any other person might have been expected to simply flee after having already offended.\nMr. F. was enrolled in a prison sex offender treatment program in 2002, but was removed from it after he was found with 54 non-pornographic pictures of pubescent children. Many of the pictures, which he had cut out from newspapers, had the children’s names, ages and location information. At the time he was removed from the program, he had participated in it for 2V2 months and received the lowest possible scores on all of the program criteria. He refused to participate in a prison sex offender treatment program in 2010 and was removed from such a program in 2012. He has made little if any progress in addressing his sexually violent and predatory behavior.\nMr. F. admitted, in connection with his possession of these children’s pictures in 2002, that he had an “inability to control his sexual deviancy.” He thus previously admitted to having a condition akin to the one the Court of Appeals has now required in Michael M. As this court outlined in its decision in Floyd Y., the Court of Appeals in Kenneth T. did not appear to assign any significance to the fact that Kenneth T. in that case had admitted to fighting sexually offending urges and had said he had “difficulty controlling his sexual impulses.” (46 Misc 3d 1225[A], 2015 NY Slip Op 50302[U], *22, quoting Kenneth T. at 188 n 7.) This statement, the Court of Appeals found, did not demonstrate the requisite “serious difficulty” in controlling sexually offending behavior even, presumably, when it was coupled with the respondent’s sex crimes and other factors. Mr. F.’s 2002 admission here, however, is obviously indicative of a more significant lack of volitional control.\nMr. F.’s behavior also bears little relationship to the conduct which the Court of Appeals found insufficient to warrant SIST revocation in Michael M. There, the Court found that although the respondent had faced very difficult circumstances after being released to SIST, the record revealed “nothing” relevant to his sexual control which would warrant SIST revocation. (24 NY3d at 659.) The record here is replete with evidence which demonstrates Mr. F.’s lack of control.\nThis court concedes that Mr. F., like virtually every other person in the world, does not have an “inability to control” his behavior. Were he released to SIST, this court would not be surprised if days, weeks or even months might pass without his sexually offending again. During every moment when Mr. F. did not so sexually offend, although at liberty in the community, he might be exercising some degree of volitional control. But, in this court’s view, were Mr. F. released to SIST, he would offend again at some point. Everything about his history and diagnoses support that conclusion.\nThe court did not find much of Mr. F.’s testimony to be credible. For example, the court does not believe Mr. F., the pedophile, was falsely convicted of molesting a boy in a church bathroom because he was actually only helping the boy fix the boy’s zipper at the time. Although Mr. F. admitted much of his criminal history during his testimony, moreover, that is apparently the first time in his life he has ever done so. He also continues to deny or minimize some of his offending.\nThe court found Mr. F.’s testimony positive in a couple of important respects. He credibly asserted, in the court’s view, that he would like to stop sexually offending because he would like to be released from confinement. He appears to understand that may not occur if he cannot credibly claim he will stop offending and appears to be highly motivated to change his behavior. His new admissions are also a positive development.\nThis court has interacted with Mr. F. over a multi-year period and has also come to understand that he has faced great difficulties in his life including abuse in a group home, borderline intellectual functioning, a depressive illness with psychotic features, alcohol abuse and his belief that he has been subject to violent assaults in prison. Mr. F. is deeply disturbed about the prospect that he may continue to be confined under article 10. The court also believes he is, to some extent, honestly bewildered about how to prevent himself from re-offending. In addition to confinement, he needs help and support.\nMr. F. at the current time, however, does not have a realistic strategy to avoid offending. He has not completed a treatment program which would make him less dangerous. The public should not be jeopardized while Mr. F.’s newly professed aspiration to complete such a program for the first time in his life is tested against reality. His “willpower” alone, even if it is exercised, is unlikely to keep the community safe. Confinement under article 10 need not be a lifetime or even long-term condition. Mr. F. is still a relatively young man. He will hopefully be able to be released at some future time. But, in this court’s view, he is not ready for that now.\nThere is clear and convincing evidence Mr. F. “is likely to be a danger to others and to commit sex offenses” if not confined. For all of these reasons, the court finds that he is a dangerous sex offender requiring confinement and directs that he be confined in a secure treatment facility operated by the Office of Mental Health.\n. Oct. 23, 2015 tr of argument at 24.\n. Report from Gowanda Correctional Facility, Oct. 31, 2001 (contained in People’s exhibit 1).\n. Parenthetical references with respect to Mr. F.’s testimony are to the transcript of that testimony on October 23, 2015.\n. Mental Hygiene Law § 10.03 (e) contains a practically identical portion of this language in the definition of a “dangerous sex offender requiring confinement” indicating the term means\n“a person who is a detained sex offender suffering from a mental abnormality involving such a strong predisposition to commit sex offenses, and such an inability to control behavior, that the person is likely to be a danger to others and to commit sex offenses if not confined to a secure treatment facility.”\nThe Court of Appeals in Michael M. relied on this definition rather than the dispositional determination cited here. The only difference in the relevant portions of these two passages is that the dispositional determination uses the word “respondent” while the definition uses the word “person.”\n. By “outpatients” the Court clearly intended to refer to offenders placed on SIST rather than confined. While the Michael M. Court held that such SIST offenders must demonstrate “difficulty” controlling sexually offending behavior, the statute (as the Michael M. Court also recognized) requires “serious difficulty” before civil management may be imposed. (See e.g. Mental Hygiene Law § 10.03 [i] [emphasis added] [defining a “Mental abnormality”]; Michael M., 24 NY3d at 658.)\n. Merriam-Webster Online Dictionary, such (http://www.merriamwebster.com/dictionary/such); see also Oxford University Press Online Dictionary, such (http://www.oxforddictionaries.com/us/definition/ american_english/such) (defining “such,” as, among other definitions, to mean: “3 To so high a degree; so great [often used to emphasize a quality]”).\n. Consider the following additional definitions, none of which would appear to apply: “of a kind or character to be indicated or suggested a bag such as a doctor carries . . . having a quality to a degree to be indicated his excitement was such that he shouted ... of the same class, type, or sort other such clinics throughout the state” (Merriam-Webster Online Dictionary, such [http://www.merriam-webster.com/dictionary/such]).\n. See e.g. Oxford University Press Online Dictionary, such (http:// www.oxforddictionaries.com/us/definition/american_english/such) (defining “such” as: “Of the type previously mentioned”); Merriam-Webster Online Dictionary, such (http://www.merriam-webster.com/dictionary/such) (defining “such” as “of the character, quality, or extent previously indicated or implied”).\n. As noted, supra, the article 10 statute does use the phrase “serious difficulty in controlling” behavior (Mental Hygiene Law § 10.03 [i] [emphasis added]), but that term defines whether a respondent has a mental abnormality rather than meets the standard for confinement.\n. A “Mental abnormality” under article 10 is defined as a “congenital or acquired condition, disease or disorder that affects the emotional, cognitive, or volitional capacity of a person in a manner that predisposes him or her to the commission of conduct constituting a sex offense and that results in that person having serious difficulty in controlling such conduct.” (Mental Hygiene Law § 10.03 [i].)\n. Of the 20 states with sex offender civil management laws, New York is the only one which provides for two dispositional outcomes: confinement or supervision. Every other state (with the exception of Texas) requires confinement for all offenders. Texas subjects offenders only to community supervision. (See e.g. Association for the Treatment of Sexual Abusers, Policy Papers, Civil Commitment Of Sexually Violent Predators [Aug. 17, 2010], available at http://www.atsa.com/civil-commitment-sexually-violent-predators [outlining sex offender civil commitment laws in the United States in 2010].)\n. Tr of Dr. Kirschner’s testimony at 66.\n. See Crane, 534 US at 413; Mental Hygiene Law § 10.03 (i) (defining a mental abnormality).\n. The varied definitions given by these informed commentators about what an “inability to control” sexually offending behavior might mean mirror what is arguably the even more fundamental problem with the article 10 statute: the fact that the term “serious difficulty in controlling” sexually offending behavior, the prerequisite for civil management of any kind, “is not defined, in law, psychology, among experts or for juries. It is therefore not applied consistently.” (Matter of State of New York v Floyd Y., 46 Misc 3d 1225[A], 2015 NY Slip Op 50302[U], *18 [Sup Ct, NY County 2015] [decision of this court].)\n. The Third Department also affirmed the trial court’s earlier denial of the same respondent’s release from a secure treatment facility in Matter of Sincere KK. v State of New York (111 AD3d 1083 [3d Dept 2013], Iv denied 22 NY3d 862 [2014]). A respondent who is determined to be a dangerous sex offender requiring confinement is entitled to an annual review to determine whether he continues to meet that standard, which was the issue considered in the two Sincere KK. decisions. (See Mental Hygiene Law § 10.09.)\n. These figures are taken from the New York State Attorney General, Sex Offender Management Bureau, Report on the Sex Offender Management and Treatment Act at 20-21 (Apr. 1, 2014 - Mar. 31, 2015) (hereinafter Attorney General’s Report).\n. Id. at 22-25.\n. When a court orders SIST, the accuracy of the court’s prediction that a respondent could be safely managed in the community is tested. When a court orders confinement, the accuracy of the court’s initial determination is never assessed (unless, perhaps, the respondent sexually re-offends while confined indicating he may have done the same if released). When confinement is ordered, the court’s initial prediction that the respondent would re-offend if released on SIST can never be proved wrong.\n. As of March 31, 2015, of 311 offenders initially subject to confinement since article 10’s inception, 65 had been released to SIST and seven offenders released from confinement to SIST had been completely removed from the SOMTA system. (Attorney General’s Report at 24.)",
+        "type": "majority",
+        "author": "Daniel P. Convisek, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eric T. Schneiderman, Attorney General (Shelley Forde of counsel), for petitioner.",
+      "Mental Hygiene Legal Service (Donald Graham of counsel) for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[21 NYS3d 557]\nIn the Matter of State of New York, Petitioner, v James F., Respondent.\nSupreme Court, New York County,\nNovember 16, 2015\nAPPEARANCES OF COUNSEL\nEric T. Schneiderman, Attorney General (Shelley Forde of counsel), for petitioner.\nMental Hygiene Legal Service (Donald Graham of counsel) for respondent."
+  },
+  "file_name": "2096-01",
+  "first_page_order": 714,
+  "last_page_order": 735
+}

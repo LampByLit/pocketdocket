@@ -1,0 +1,115 @@
+{
+  "id": 4353703,
+  "name": "Complete Medical Care Svcs of NY, P.C., as Assignee of Valerie Bose, Respondent, v. N.Y.C. Transit Authority, Appellant",
+  "name_abbreviation": "Complete Medical Care Svcs of NY, P.C. v. N.Y.C. Transit Authority",
+  "decision_date": "2015-07-07",
+  "docket_number": "",
+  "first_page": "10",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Misc. 3d 10"
+    },
+    {
+      "type": "parallel",
+      "cite": "17 N.Y.S.3d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "124 AD3d 718",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        4363110
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/124/0718-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 211",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4439599
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0211-01"
+      ]
+    },
+    {
+      "cite": "20 NY3d 925",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3752143
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/20/0925-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 284,
+    "char_count": 4151,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 4.03580807328026e-8,
+      "percentile": 0.14823837219853359
+    },
+    "sha256": "42dc9185ffa3360ded397fcd95b7df0473370bb58d769ee4aa6e83d9203fdeae",
+    "simhash": "1:9ec43c5c5fc3736d",
+    "word_count": 696
+  },
+  "last_updated": "2024-02-27T18:28:35.755006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Complete Medical Care Svcs of NY, P.C., as Assignee of Valerie Bose, Respondent, v N.Y.C. Transit Authority, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrdered that the order is reversed, with $30 costs, and defendant’s motion for summary judgment dismissing the complaint is granted.\nIn this action by a provider to recover assigned first-party no-fault benefits, defendant moved for summary judgment dismissing the complaint on the ground that plaintiff’s assignor was not injured as the result of the use or operation of a motor vehicle. In support of the motion, defendant proffered a transcript of a hearing held pursuant to General Municipal Law § 50-h, at which the assignor testified that, as she was alighting from the rear exit of defendant’s bus in Queens, she stepped into a hole in the street with her left foot and fell. The assignor further testified that, since the incident occurred after dark, she did not see the hole before stepping into it. Plaintiff opposed defendant’s motion. By order entered October 29, 2013, the Civil Court denied the motion, finding that defendant’s own exhibits to the motion raised a triable issue of fact as to whether the assignor was on the bus at the time of her injuries.\nThis action was brought under Insurance Law § 5103 (a) (1), which imposes a duty on the owner of a bus to provide first-party no-fault benefits to its passengers “for loss arising out of the use or operation ... of such motor vehicle” (emphasis added). In a case with nearly identical facts, but brought to recover for a serious injury under Insurance Law § 5104 (a) (Cividanes v City of New York, 20 NY3d 925 [2012]), the Court of Appeals was called upon to determine whether the “use or operation” expression in section 5104 applied where the plaintiff claimed that she had injured her “ankle when she ‘stepped off the last step [of defendant’s bus] into a hole and fell’ as she exited the rear of a bus owned and operated by defendant[ ]” (id. at 926). The Court held that the “ ‘use or operation’ of the bus was neither a ‘proximate cause’ nor an ‘instrumentality’ that produced plaintiff’s injury” (id.) “because plaintiff’s injury did not arise out of the ‘use or operation’ of a motor vehicle (Insurance Law § 5104 [a])” (id.). Although the Court of Appeals in Cividanes interpreted the phrase “use or operation” in the context of Insurance Law § 5104, it relied upon the case of Walton v Lumbermens Mut. Cas. Co. (88 NY2d 211, 213 [1996]), in which the Court had interpreted the expression “use or operation” of a motor vehicle in a case seeking first-party no-fault benefits under Insurance Law § 5103 (a) (1), as is the case here. In Walton, the Court stated that “first-party benefits are available only if the injury sustained arose out of the use or operation of the motor vehicle” (id. at 215), and that, while Insurance Law § 5103 does not define “use or operation,” “no-fault benefits are unavailable when a party is injured by an instrumentality other than the vehicle itself” (id.). That is, “[t]he vehicle must be a proximate cause of the injury” (id.).\nHere, where Insurance Law § 5103 is also the applicable statute, defendant demonstrated that the assignor’s injuries were produced by her act of stepping off the bus into a hole in the street. The affirmation of plaintiff’s attorney did not raise a triable issue of fact in opposition. Consequently, plaintiff is not entitled to first-party no-fault benefits because its assignor’s injuries did not arise from the use or operation of the bus (see Insurance Law § 5103 [a] [1]; Cividanes, 20 NY3d 925; Walton, 88 NY2d 211; Gonzalez v American Commerce Ins. Co., 124 AD3d 718 [2015]).\nAccordingly, the order is reversed and defendant’s motion for summary judgment dismissing the complaint is granted.\nWeston, J.P., Aliotta and Elliot, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Foley Smit O’Boyle & Weisman, Hauppauge CAaron E. Meyer of counsel), for appellant.",
+      "Israel, Israel & Purdy, LLP, Great Neck (Ryan B. Berry of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[17 NYS3d 269]\nComplete Medical Care Svcs of NY, P.C., as Assignee of Valerie Bose, Respondent, v N.Y.C. Transit Authority, Appellant.\nSupreme Court, Appellate Term, Second Department, 2d, 11th and 13th Judicial Districts,\nJuly 7, 2015\nAPPEARANCES OF COUNSEL\nFoley Smit O’Boyle & Weisman, Hauppauge CAaron E. Meyer of counsel), for appellant.\nIsrael, Israel & Purdy, LLP, Great Neck (Ryan B. Berry of counsel), for respondent."
+  },
+  "file_name": "1911-01",
+  "first_page_order": 64,
+  "last_page_order": 66
+}

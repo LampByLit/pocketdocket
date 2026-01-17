@@ -1,0 +1,258 @@
+{
+  "id": 4317959,
+  "name": "The People of the State of New York, Appellant, v. Daniel Luther, Respondent",
+  "name_abbreviation": "People v. Luther",
+  "decision_date": "2014-09-26",
+  "docket_number": "",
+  "first_page": "699",
+  "last_page": "705",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Misc. 3d 699"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 N.Y.S.3d 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Monroe Cty. Ct.",
+    "id": 9139,
+    "name": "County Court of New York, Monroe County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S Ct 1678",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697041
+      ],
+      "pin_cites": [
+        {
+          "page": "1692"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0184-01"
+      ]
+    },
+    {
+      "cite": "466 US 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "pin_cites": [
+        {
+          "page": "688"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 426",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4439006
+      ],
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0426-01"
+      ]
+    },
+    {
+      "cite": "14 NY3d 546",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        5714598
+      ],
+      "pin_cites": [
+        {
+          "page": "559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny3d/14/0546-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 397",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436350
+      ],
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0397-01"
+      ]
+    },
+    {
+      "cite": "44 Misc 3d 182",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4106296
+      ],
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/44/0182-01"
+      ]
+    },
+    {
+      "cite": "559 US 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3581896,
+        12447673
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "370"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0356-01",
+        "/l-ed-2d/176/0284-01"
+      ]
+    },
+    {
+      "cite": "307 NY 461",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2234348
+      ],
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/307/0461-01"
+      ]
+    },
+    {
+      "cite": "36 Misc 2d 2",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1115916
+      ],
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/36/0002-01"
+      ]
+    },
+    {
+      "cite": "45 Misc 3d 475",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        4267610
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/45/0475-01"
+      ]
+    },
+    {
+      "cite": "41 Misc 3d 185",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        3793016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/41/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 761,
+    "char_count": 14772,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 8.033170121246803e-8,
+      "percentile": 0.4655852522676032
+    },
+    "sha256": "f4184dc0241489483e1883ee24d26532de73a7c5aef65b63166a700b21e249fd",
+    "simhash": "1:22e443cd7675d032",
+    "word_count": 2381
+  },
+  "last_updated": "2024-02-27T16:41:32.687148+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Appellant, v Daniel Luther, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn L. DeMabco, J.\nThe People appeal from an order of the Town of East Rochester Justice Court (41 Misc 3d 185 [2013, Brown-Steiner, J.]) granting defendant’s motion to vacate a judgment of conviction entered against him February 11, 2013, following defendant’s guilty plea to one count of driving while intoxicated (Vehicle and Traffic Law § 1192 [3]). The plea also satisfied transactional charges under Vehicle and Traffic Law §§ 1128, 1163, and 1194. The defendant was sentenced on the date of his plea to the minimum fine and surcharge, a six-month revocation of his New York State driver’s license, and required to install and maintain an ignition interlock device (IID) for a period of six months in his vehicle.\nThe facts underlying the charges are not in dispute. The question on this appeal is whether the trial court erred as a matter of law in granting defendant’s motion to vacate judgment under CPL 440.10 (1) (h). The People answer that question in the affirmative. They contend that defendant failed to make any showing that the judgment against him was obtained in violation of a right under either the New York State Constitution or the United States Constitution. More specifically, the People argue that defendant’s contention that 15 NYCRR 136.5 (b) (3), as amended on or about February 22, 2013, violates the Ex Post Facto Clause is misplaced. They assert that the Ex Post Facto Clause applies only to penal statutes, not the suspension or revocation of one’s driving privileges, which is civil or remedial in nature. Thus, say the People, the trial court’s application of the Ex Post Facto Clause was erroneous. Additionally, the People contend that the loss of one’s driver’s license is a collateral consequence, the nondisclosure of which by the trial court prior to sentencing does not warrant vacatur of defendant’s guilty plea.\nThe defendant responds that the court properly vacated his judgment of conviction. More specifically, defendant argues that at the time he entered into the above plea and was sentenced, the law on that date was that his driver’s license would be revoked for six months, following which he would become immediately eligible to apply for re-licensure. He asserts that he may have made an entirely different decision than to plead guilty if he knew at that time of his guilty plea what was then unknown to the parties, the lower court, and community at large, namely, that 11 days after his guilty plea section 136.5 (b) (3) would be amended and consequently render him ineligible to reapply for his driver’s license for at least five years in addition to the six-month revocation. Tethered to this argument, defendant contends that as his driver’s license is a property right, the imposition of these unforseen (at the time of his guilty plea and sentencing) consequences attendant to the revocation of his license would allow section 136.5 (b) (3) to operate, in effect, as an ex post facto punishment in deprivation of due process. Finally, the defendant argues that the loss of one’s driving privileges is not, as the People maintain, merely a collateral consequence. Rather, says defendant, it is part and parcel of the punishment of a DWI conviction and, as such, without complete knowledge of its duration prior to pleading guilty, he was deprived of the foremost consideration in making that decision. Defendant thus concludes that as the starkly different details regarding the circumstances surrounding the revocation of his license were unknown at the time of his guilty plea and sentencing, the lower court’s decision to grant his motion to vacate was a provident exercise of discretion.\nThe court agrees with defendant’s latter point, and affirms the lower court’s decision for the reasons that follow.\nThe dispositive question, in the eyes of this court, is not whether the application of section 136.5 (b) (3), as amended, resulted in an ex post facto sentence. And while, for that reason, the merits of that contention need not be addressed, the court finds defendant’s arguments on that point largely unpersuasive and unsupported by the law (see e.g. Matter of Allen v New York State Dept. of Motor Vehs., 45 Misc 3d 475 [Sup Ct, Albany County 2014]). Nor is the court persuaded by defendant’s antediluvian and neolithic historical references leading to the gratuitous recognition that consuming alcohol, without driving, is endemic to our culture and not against the law. Legal esoterics and social philosophy aside, the rudimentary bottom line here is that the defendant, as expressed in his papers, may never have pleaded guilty were he then (at the time of his guilty plea) aware that the consequences as to relicensure entailed, among other things, principally that he would be ineligible to drive for at least five years following the expiration of the six-month revocation (see 15 NYCRR 136.5 [b] [3]).\nThe bedrock of due process of law is fairness. “The obligation is to recognize, acknowledge and extend ‘those fundamental principles of basic justice and fair play which underlie our entire system of jurisprudence’ ” (Matter of Quinn v Lane, 36 Misc 2d 2, 5 [Sup Ct, Albany County 1962], quoting Matter of Hecht v Monaghan, 307 NY 461, 469 [1954]). What happened here — through no fault of the People, defendant’s plea attorney, or the trial court — was an affront to the notion of due process and patently unfair. In balancing the equities, the court fails to apprehend any straight-faced argument that the defendant’s due process rights — as a matter of fundamental fairness — were not violated. Likewise, the court fails to descry how, under the circumstances, the defendant should not be returned to status quo ante, having been jarred, post guilty plea and sentencing, with the harsh reality of being ineligible for re-licensure for five years beyond what he thought would be the case when he agreed to plead guilty and be sentenced.\nEven assuming arguendo that the post-revocation consequences at issue here are collateral, as argued by the People, the cases cited in their reply brief were decided within the context of consequences that were accessible knowledge prior to and at the time of plea and sentencing. In such cases, the question regarding disclosure is obviated, though in a sense not applicable here where the consequence at issue was unknown. Nor is that nuance casuistic, but rather it substantively disjoints the analysis. That is, but for the revocation consequences at issue being publicly unknown until after defendant’s plea and sentencing, the remedy of vacatur on the ground of ineffective assistance may have lied for counsel’s failure to disclose (see Padilla v Kentucky, 559 US 356, 370 [2010] [“there is no relevant difference between an act of commission and an act of omission” in the context of professionally competent assistance of counsel] [citations and internal quotation marks omitted]). That remedy is unavailable to the defendant here, however, where it is undisputed that the post-revocation consequences at issue were not available for public consumption until 11 days after defendant’s guilty plea and sentencing— and thus, could not have been known. Obviously, then, defendant’s counsel at the time of his guilty plea and sentencing cannot be said to have been ineffective for failing to disclose to defendant then unknown and publicly unavailable information. Bearing these factors in mind, to the extent that 15 NYCRR 136.5 is on its face “sufficiently precise so as to put drivers on notice that their application for relicensing may be denied based on three alcohol related offenses” (Matter of Brown v New York State Dept. of Motor Vehs., 44 Misc 3d 182, 190 [Sup Ct, Nassau County 2014]), that precision — specifically as to section 136.5 (b) (3), as amended — was unavailable to this defendant, who, for the above reasons, was effectively deprived of such notice.\nTo be certain, this court is not declaring that “knew or should have known” is or should be the touchstone for deciding whether the remedy of vacatur lies under the instant or similar circumstances concerning an arguably collateral consequence. Moreover, while it may go without saying that this court takes no position on the constitutionality or timing of the regulation at issue, it would appear that very few defendants (if any), mindful of the peculiar timing and turn of events in play here, may have similar recourse. Be that as it may, it is worth noting that something cannot be fairly termed a consequence of an event if at the time of the event that “something” did not exist; for to suggest otherwise would be an abuse of the term “consequence” as that term is readily understood and employed in every day discourse in civilized society. Put another way, it would strain logic to argue that the imposition of section 136.5 (b) (3), as amended, is a “result” or “outcome” — or, in other words, a “consequence” — of defendant’s sentence when it did not exist at the time of defendant’s sentence.\nHowever parsed, the moral prerogative is that, had the amended rule existed in advance of defendant’s guilty plea and sentencing, defendant’s counsel, either at or before that time, may have advised defendant of the drastic changes regarding re-licensure, to include that defendant would lose his license far beyond the court-imposed six-month revocation. Notwithstanding that the nisi prius court’s role entailed no affirmative obligation to so inform the defendant (see People v Ford, 86 NY2d 397, 403 [1995]), and that experience teaches that defense counsel may not always do what effective counsel ought to (see Moncrieffe v Holder, 569 US —, —, 133 S Ct 1678, 1692 [2013]), this court, under the circumstances, chooses to afford defendant the benefit of the doubt passed upon in Moncrieffe, and presumes that plea counsel would have advised defendant of the revocation consequence at issue (see Padilla, 559 US at 372 [noting that it should be presumed that counsel will render competent advice at the time of his client’s guilty plea]). For it can hardly be gainsaid that the consequence at issue here, whether or not collateral for purposes of due process, given its magnitude and the significance of one’s driver’s license is not one of such great importance that defendant may have made a different decision had that consequence been disclosed or otherwise accessible to him at or before the time of his guilty plea and sentencing (see People v Gravino, 14 NY3d 546, 559 [2010]).\nFor the foregoing reasons, defendant’s motion to vacate judgment was properly granted.\nAccordingly, it is hereby ordered that the judgment so appealed from be and the same is hereby affirmed.\n. The court agrees that the defendant’s motion to vacate should have been granted, but only for the reasons mentioned herein. This court declines to address the merits of the lower court’s decision as expressed in its exhaustive written opinion.\n. The court recognizes that Allen also held that re-licensure procedures do not implicate a defendant’s due process rights. This court does not find that the lower court properly granted defendant’s motion to vacate because the unwarned amendment to section 136.5 (b) (3) somehow deprived defendant of a substantial property interest (cf. Pringle v Wolfe, 88 NY2d 426, 431 [1996]), but rather squarely for the reasons set forth herein.\n. The court appreciates what is inherent in the People’s argument that section 136.5 (b) (3), as amended 11 days after defendant’s guilty plea and sentencing, in no way changed defendant’s sentence or otherwise concerned the lower court inasmuch as it had no obligation to address re-licensure at sentencing. While the cases cited by the People fairly support that proposition, the defendants in those cases would be hard-pressed to persuasively argue that the collateral consequences of their guilty pleas — consequences that either should or, at the very least, could have been known to the parties, prior to pleading guilty — tainted the underlying dispositions where, distinguishable from the instant case, said consequences were extant pre-guilty plea, and thus, available for consumption by those defendants.\n. The court acknowledges that the cases cited by the People do not stand for or support the proposition that a court has no obligation to apprise the defendant of the collateral consequences of a guilty plea and sentencing only where such knowledge is publicly available beforehand. Nor is this court’s decision at all predicated on what the lower court judge may or may not have expressly stated at the time of defendant’s guilty plea and sentencing.\n. This court reasons, analogous to the Supreme Court’s rationale in Padilla addressing the government’s concern regarding the importance of protecting final convictions obtained by guilty plea (see 559 US at 371), that this decision will have no great impact on DWI convictions already obtained through the plea bargaining process by encouraging similar motions to vacate judgment. The number of defendants with this defendant’s particular history to thrust them into the ambit of section 136.5 (b) (3), as amended, and whose revocations were unexpired when the rule took effect would likely be insignificant. With respect to those cases that resolved by guilty plea post publication of the amended rule, professional norms in the practice of DWI law have always imposed an obligation on defense counsel to provide advice on the con sequences an alcohol related conviction has on one’s driving privileges. And it would be absurd to suggest that here it would have been beyond professional norms for defense counsel to have advised defendant that following the six-month revocation he would be ineligible to reapply for his driver’s license for an additional five years. Omitting information of that significance, given the value generally ascribed to driving privileges in modern society, and irrespective of whether such omission concerns a direct or collateral consequence, would connote representation that falls well below an objective standard of reasonableness (see generally Strickland v Washington, 466 US 668, 688 [1984]).\n. The court is employing the notion of section 136.5 (b) (3) not existing inasmuch as, upon information and belief, and undisputed by the parties, it was unknown to the parties and general public at the time of defendant’s guilty plea and sentencing.",
+        "type": "majority",
+        "author": "John L. DeMabco, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Sandra J. Doorley, District Attorney, Rochester (Erin Tubbs of counsel), for appellant.",
+      "Fiandach & Fiandach, Rochester (Edward L. Fiandach of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[12 NYS3d 491]\nThe People of the State of New York, Appellant, v Daniel Luther, Respondent.\nCounty Court, Monroe County,\nSeptember 26, 2014\nAPPEARANCES OF COUNSEL\nSandra J. Doorley, District Attorney, Rochester (Erin Tubbs of counsel), for appellant.\nFiandach & Fiandach, Rochester (Edward L. Fiandach of counsel), for respondent."
+  },
+  "file_name": "1871-01",
+  "first_page_order": 697,
+  "last_page_order": 703
+}
