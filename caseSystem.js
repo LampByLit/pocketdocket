@@ -4,7 +4,6 @@
 
 // Active case data
 let activeCase = null;
-let usedCaseFiles = new Set(); // Track which case files have been used
 let currentCaseNumber = 1; // Serial number for case files
 
 // Judge persona (regenerated each Monday)
@@ -59,20 +58,17 @@ async function GetAvailableCaseFiles() {
     }
 }
 
-// Get a random unused case file
+// Get a random case file (truly random from all available cases)
 async function GetRandomUnusedCase() {
     const allCases = await GetAvailableCaseFiles();
-    const unusedCases = allCases.filter(file => !usedCaseFiles.has(file));
     
-    if (unusedCases.length === 0) {
-        // All cases used, reset (or handle as needed)
-        console.warn('All cases have been used! Resetting used cases.');
-        usedCaseFiles.clear();
-        return allCases[RandInt(allCases.length)];
+    if (allCases.length === 0) {
+        console.error('No case files available');
+        return null;
     }
     
-    const randomCase = unusedCases[RandInt(unusedCases.length)];
-    usedCaseFiles.add(randomCase);
+    // Pick a truly random case from all available cases
+    const randomCase = allCases[RandInt(allCases.length)];
     return randomCase;
 }
 
