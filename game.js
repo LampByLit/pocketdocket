@@ -58,6 +58,7 @@ let storeModalOpen = false;
 let isLoadingWorld = false;
 let loadingProgress = 0;
 let loadingMessage = '';
+let logoImage = null; // logo.png for loading screen
 let inventoryOpen = false;
 let inventoryButtonHover = false;
 let inventoryDropMode = false; // When true, next item clicked will be dropped
@@ -752,10 +753,10 @@ function Update()
     // Update sleep fade transition
     if (sleepFadeActive)
     {
-        let elapsed = 1.0 + sleepFadeTimer.Get(); // Get elapsed time (0 to 1.0)
+        let elapsed = 3.0 + sleepFadeTimer.Get(); // Get elapsed time (0 to 3.0)
         
-        // Apply state changes at midpoint (0.5s) when screen is fully black
-        if (!sleepFadeStateApplied && elapsed >= 0.5)
+        // Apply state changes at midpoint (1.5s) when screen is fully black
+        if (!sleepFadeStateApplied && elapsed >= 1.5)
         {
             sleepFadeStateApplied = 1;
             
@@ -1206,18 +1207,18 @@ function PreRender()
     // Apply sleep fade overlay if active
     if (sleepFadeActive)
     {
-        let elapsed = 1.0 + sleepFadeTimer.Get(); // Get elapsed time (0 to 1.0)
+        let elapsed = 3.0 + sleepFadeTimer.Get(); // Get elapsed time (0 to 3.0)
         let opacity = 0;
         
-        if (elapsed < 0.5)
+        if (elapsed < 1.5)
         {
-            // Fade out: 0 to 1 over first 0.5 seconds
-            opacity = elapsed * 2.0;
+            // Fade out: 0 to 1 over first 1.5 seconds
+            opacity = elapsed / 1.5;
         }
         else
         {
-            // Fade in: 1 to 0 over second 0.5 seconds
-            opacity = 2.0 - (elapsed * 2.0);
+            // Fade in: 1 to 0 over second 1.5 seconds
+            opacity = 2.0 - (elapsed / 1.5);
         }
         
         opacity = Clamp(opacity, 0, 1);
@@ -4263,10 +4264,10 @@ async function ProcessDailyGossip()
 
 function Sleep()
 {
-    // Start fade transition (1 second total: 0.5s fade out, 0.5s fade in)
+    // Start fade transition (3 seconds total: 1.5s fade out, 1.5s fade in)
     sleepFadeActive = 1;
     sleepFadeStateApplied = 0; // Reset flag for state changes
-    sleepFadeTimer.Set(1.0);
+    sleepFadeTimer.Set(3.0);
     
     // State changes will be applied at midpoint (when screen is fully black)
     // See Update() function for where this happens
@@ -5848,9 +5849,28 @@ function RenderLoadingScreen()
     mainCanvasContext.fillStyle = '#000';
     mainCanvasContext.fillRect(0, 0, mainCanvasSize.x, mainCanvasSize.y);
     
-    // Draw title
+    // Draw logo if loaded
+    if (logoImage && logoImage.complete && logoImage.naturalWidth > 0)
+    {
+        // Calculate logo size (scale to fit nicely, max width 300px or 40% of screen width)
+        let maxLogoWidth = Math.min(300, mainCanvasSize.x * 0.4);
+        let logoAspectRatio = logoImage.height / logoImage.width;
+        let logoWidth = maxLogoWidth;
+        let logoHeight = logoWidth * logoAspectRatio;
+        
+        // Center logo horizontally, position near top
+        let logoX = (mainCanvasSize.x - logoWidth) / 2;
+        let logoY = mainCanvasSize.y / 2 - 120;
+        
+        mainCanvasContext.drawImage(logoImage, logoX, logoY, logoWidth, logoHeight);
+    }
+    
+    // Draw title (only if logo not shown, or below logo)
     let titleY = mainCanvasSize.y / 2 - 60;
-    DrawText('Pocket Docket', mainCanvasSize.x / 2, titleY, 32, 'center', 2, '#FFF', '#000');
+    if (!logoImage || !logoImage.complete || logoImage.naturalWidth === 0)
+    {
+        DrawText('Pocket Docket', mainCanvasSize.x / 2, titleY, 32, 'center', 2, '#FFF', '#000');
+    }
     
     // Draw loading message
     let messageY = mainCanvasSize.y / 2;
@@ -6801,6 +6821,16 @@ function CloseLawSchoolModal() {
         modal.classList.remove('open');
     }
 }
+
+// Load logo.png for loading screen
+logoImage = new Image();
+logoImage.onload = () => {
+    // Logo loaded, ready to use
+};
+logoImage.onerror = () => {
+    console.warn('Failed to load logo.png');
+};
+logoImage.src = 'logo.png';
 
 // load texture and building sprites, then kick off init!
 let tileImage = new Image();
