@@ -1218,28 +1218,6 @@ function PreRender()
     mainCanvasContext.fillStyle=levelColor.RGBA();
     mainCanvasContext.fillRect(0,0,mainCanvasSize.x, mainCanvasSize.y);
     
-    // Apply sleep fade overlay if active
-    if (sleepFadeActive)
-    {
-        let elapsed = 3.0 + sleepFadeTimer.Get(); // Get elapsed time (0 to 3.0)
-        let opacity = 0;
-        
-        if (elapsed < 1.5)
-        {
-            // Fade out: 0 to 1 over first 1.5 seconds
-            opacity = elapsed / 1.5;
-        }
-        else
-        {
-            // Fade in: 1 to 0 over second 1.5 seconds
-            opacity = 2.0 - (elapsed / 1.5);
-        }
-        
-        opacity = Clamp(opacity, 0, 1);
-        mainCanvasContext.fillStyle = `rgba(0,0,0,${opacity})`;
-        mainCanvasContext.fillRect(0,0,mainCanvasSize.x, mainCanvasSize.y);
-    }
-    
     // Apply game over fade to black overlay if active
     if (gameOverFadeActive)
     {
@@ -1514,6 +1492,28 @@ function PostRender()
     mainCanvasContext.fillRect(mx-mw,my-mh,mw*2,mh*2);
     mainCanvasContext.fillRect(mx-mh,my-mw,mh*2,mw*2);
     mainCanvasContext.globalCompositeOperation = 'source-over';
+    
+    // Apply sleep fade overlay if active (rendered last to cover everything)
+    if (sleepFadeActive)
+    {
+        let elapsed = 3.0 + sleepFadeTimer.Get(); // Get elapsed time (0 to 3.0)
+        let opacity = 0;
+        
+        if (elapsed < 1.5)
+        {
+            // Fade out: 0 to 1 over first 1.5 seconds
+            opacity = elapsed / 1.5;
+        }
+        else
+        {
+            // Fade in: 1 to 0 over second 1.5 seconds
+            opacity = 2.0 - (elapsed / 1.5);
+        }
+        
+        opacity = Clamp(opacity, 0, 1);
+        mainCanvasContext.fillStyle = `rgba(0,0,0,${opacity})`;
+        mainCanvasContext.fillRect(0,0,mainCanvasSize.x, mainCanvasSize.y);
+    }
 }
 
 function MazeDataPos(pos)
@@ -5872,41 +5872,12 @@ function RenderLoadingScreen()
         let logoWidth = maxLogoWidth;
         let logoHeight = logoWidth * logoAspectRatio;
         
-        // Center logo horizontally, position near top
+        // Center logo both horizontally and vertically
         let logoX = (mainCanvasSize.x - logoWidth) / 2;
-        let logoY = mainCanvasSize.y / 2 - 120;
+        let logoY = (mainCanvasSize.y - logoHeight) / 2;
         
         mainCanvasContext.drawImage(logoImage, logoX, logoY, logoWidth, logoHeight);
     }
-    
-    // Draw title (only if logo not shown, or below logo)
-    let titleY = mainCanvasSize.y / 2 - 60;
-    if (!logoImage || !logoImage.complete || logoImage.naturalWidth === 0)
-    {
-        DrawText('Pocket Docket', mainCanvasSize.x / 2, titleY, 32, 'center', 2, '#FFF', '#000');
-    }
-    
-    // Draw loading message
-    let messageY = mainCanvasSize.y / 2;
-    DrawText(loadingMessage, mainCanvasSize.x / 2, messageY, 12, 'center', 1, '#FFF', '#000');
-    
-    // Draw progress bar background
-    let barWidth = mainCanvasSize.x * 0.6;
-    let barHeight = 8;
-    let barX = (mainCanvasSize.x - barWidth) / 2;
-    let barY = mainCanvasSize.y / 2 + 30;
-    
-    mainCanvasContext.fillStyle = '#333';
-    mainCanvasContext.fillRect(barX, barY, barWidth, barHeight);
-    
-    // Draw progress bar fill
-    let progressWidth = barWidth * Clamp(loadingProgress, 0, 1);
-    mainCanvasContext.fillStyle = '#FFF';
-    mainCanvasContext.fillRect(barX, barY, progressWidth, barHeight);
-    
-    // Draw progress percentage
-    let percentText = Math.floor(loadingProgress * 100) + '%';
-    DrawText(percentText, mainCanvasSize.x / 2, barY + barHeight + 15, 10, 'center', 0, '#FFF', '#000');
 }
 
 // Pre-generate all building interiors for NPCs
