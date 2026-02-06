@@ -460,7 +460,7 @@ app.post('/api/cases/parse', async (req, res) => {
         
 Your task:
 1. Identify up to 4 individuals involved in the case (plaintiffs, defendants, witnesses, etc.)
-2. For each individual, identify their role (e.g., "estranged husband", "wife", "defendant", "plaintiff", "witness")
+2. For each individual, identify their role (e.g., "defendant", "wife", "owner", "plaintiff", "witness", "victim")
 3. For each individual, determine if they are deceased (dead) in the case. Set "isDeceased" to true if the case mentions they died, were killed, are deceased, or are dead. Otherwise set it to false.
 4. Extract evidence and facts from the case (e.g., "Ross has been to jail before", "The property was valued at $13,000")
 
@@ -600,6 +600,7 @@ app.post('/api/cases/summary', async (req, res) => {
 
 IMPORTANT RULES:
 - Do NOT reveal the decision or outcome of the case
+- Frame it as if the case has not yet been to court, that it is yet to be decided, and that the player is the lawyer for the defense
 - Only mention the witnesses and the originating circumstances that existed before the conclusion
 - Keep it exactly around 100 words
 - CRITICAL: Replace ALL original names from the case with the corresponding NPC names from the name mapping provided
