@@ -327,6 +327,20 @@ function Init()
     
     EngineInit();
     
+    // Initialize audio context at startup so sound works immediately
+    // Note: Some browsers may require user interaction, so this may fail silently
+    // In that case, UpdateAudio() will create it on first user interaction
+    if (!zzfx_x && soundEnable)
+    {
+        try {
+            zzfx_x = new AudioContext;
+        } catch (e) {
+            // AudioContext creation failed (likely due to browser autoplay policy)
+            // Will be created on first user interaction in UpdateAudio()
+            console.log('AudioContext creation deferred until user interaction');
+        }
+    }
+    
     // clear canvas to black so transition starts on a black screen
     mainCanvasContext.fillRect(0,0,mainCanvasSize.x, mainCanvasSize.y);
 
@@ -5852,8 +5866,8 @@ function RenderLoadingScreen()
     // Draw logo if loaded
     if (logoImage && logoImage.complete && logoImage.naturalWidth > 0)
     {
-        // Calculate logo size (scale to fit nicely, max width 300px or 40% of screen width)
-        let maxLogoWidth = Math.min(300, mainCanvasSize.x * 0.4);
+        // Calculate logo size (scale to fit nicely, max width 500px or 60% of screen width)
+        let maxLogoWidth = Math.min(500, mainCanvasSize.x * 0.6);
         let logoAspectRatio = logoImage.height / logoImage.width;
         let logoWidth = maxLogoWidth;
         let logoHeight = logoWidth * logoAspectRatio;
