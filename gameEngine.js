@@ -99,6 +99,7 @@ class GameObject
         this.height = 0;
         this.damageFlashTime = .5;
         this.differenceFlash = 1;
+        this.isDestroyed = false; // Flag to mark object as destroyed
         
         gameObjects.push(this); 
     }
@@ -201,7 +202,14 @@ class GameObject
             DebugRect(this.pos,new Vector2(this.collisionSize,this.collisionSize),'#F00');
     }
        
-    Render() { DrawTile(this.pos,this.size,this.tileX,this.tileY,this.angle,this.mirror,this.height);}
+    Render() 
+    { 
+        // Don't render destroyed objects
+        if (this.isDestroyed) {
+            return;
+        }
+        DrawTile(this.pos,this.size,this.tileX,this.tileY,this.angle,this.mirror,this.height);
+    }
     
     Heal(health)
     {
@@ -236,7 +244,17 @@ class GameObject
     IsTouching(object)      { return this.Distance(object) < object.collisionSize + this.collisionSize; }
     IsDead()                { return !this.health; }
     Kill()                  { this.health = 0; this.Destroy(); }
-    Destroy()               { gameObjects.splice(gameObjects.indexOf(this), 1); }
+    Destroy()               
+    { 
+        // Mark as destroyed first to prevent rendering
+        this.isDestroyed = true;
+        
+        // Safely remove from gameObjects array
+        let index = gameObjects.indexOf(this);
+        if (index >= 0) {
+            gameObjects.splice(index, 1);
+        }
+    }
     Distance(object)     
     {
         // get distance between objects accounting for height 
@@ -382,6 +400,11 @@ function UpdateGameObjects()
 { 
     gameObjects.forEach(o=>
     {
+        // Skip destroyed objects
+        if (o.isDestroyed) {
+            return;
+        }
+        
         // When inside an interior, only update interior objects (player, furniture, boomerangs)
         if (typeof currentInterior !== 'undefined' && currentInterior)
         {
@@ -400,6 +423,11 @@ function RenderGameObjects()
 { 
     gameObjects.forEach(o=>
     {
+        // Skip destroyed objects
+        if (o.isDestroyed) {
+            return;
+        }
+        
         // When inside an interior, only render interior objects (player, furniture, boomerangs)
         if (typeof currentInterior !== 'undefined' && currentInterior)
         {
@@ -413,7 +441,7 @@ function RenderGameObjects()
         }
         
         o.Render();
-        if (!shadowRenderPass)
+        if (!shadowRenderPass && !o.isDestroyed)
         {
             // draw the hit flash overlay
             hitRenderPass = o.GetDamageFlashPercent();

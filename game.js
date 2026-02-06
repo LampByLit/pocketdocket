@@ -5118,6 +5118,11 @@ class DroppedEvidence extends MyGameObject
     
     Render()
     {
+        // Don't render destroyed objects
+        if (this.isDestroyed) {
+            return;
+        }
+        
         if (shadowRenderPass)
             return;
         
