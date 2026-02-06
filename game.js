@@ -2341,6 +2341,25 @@ class Boomerang  extends MyGameObject
                     o.isHeld = 1;
                     this.heldPickup = o;
                 }
+                else if (o.isNPC && o.IsTouching(this))
+                {
+                    // hit NPC - open dialogue modal
+                    if (typeof OpenDialogueModal !== 'undefined')
+                    {
+                        // Only open if not already bouncing off this NPC
+                        if (this.bounceObject != o)
+                        {
+                            OpenDialogueModal(o);
+                            // Make boomerang bounce off NPC
+                            PlaySound(15);
+                            this.bounceObject = o;
+                            this.velocity.Multiply(-.4);
+                            this.angleVelocity*=.4;
+                            this.damageTimer.Set();
+                            this.throwAccel=0;
+                        }
+                    }
+                }
                 else if ((o.isEnemy||o.isStore) && o.IsTouching(this))
                 {
                     // hit object
