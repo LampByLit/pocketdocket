@@ -2354,20 +2354,38 @@ class Boomerang  extends MyGameObject
                 }
                 else if (o.isNPC && o.IsTouching(this))
                 {
-                    // hit NPC - open dialogue modal
-                    if (typeof OpenDialogueModal !== 'undefined')
+                    // Only hit NPCs that are in the same location context (interior/exterior) as the boomerang
+                    let isNPCInSameContext = false;
+                    if (typeof currentInterior !== 'undefined' && currentInterior)
                     {
-                        // Only open if not already bouncing off this NPC
-                        if (this.bounceObject != o)
+                        // Boomerang is indoors - NPC must be in same interior
+                        if (o.isIndoors && o.currentInterior === currentInterior)
+                            isNPCInSameContext = true;
+                    }
+                    else
+                    {
+                        // Boomerang is outdoors - NPC must be outdoors
+                        if (!o.isIndoors)
+                            isNPCInSameContext = true;
+                    }
+                    
+                    if (isNPCInSameContext)
+                    {
+                        // hit NPC - open dialogue modal
+                        if (typeof OpenDialogueModal !== 'undefined')
                         {
-                            OpenDialogueModal(o);
-                            // Make boomerang bounce off NPC
-                            PlaySound(15);
-                            this.bounceObject = o;
-                            this.velocity.Multiply(-.4);
-                            this.angleVelocity*=.4;
-                            this.damageTimer.Set();
-                            this.throwAccel=0;
+                            // Only open if not already bouncing off this NPC
+                            if (this.bounceObject != o)
+                            {
+                                OpenDialogueModal(o);
+                                // Make boomerang bounce off NPC
+                                PlaySound(15);
+                                this.bounceObject = o;
+                                this.velocity.Multiply(-.4);
+                                this.angleVelocity*=.4;
+                                this.damageTimer.Set();
+                                this.throwAccel=0;
+                            }
                         }
                     }
                 }
