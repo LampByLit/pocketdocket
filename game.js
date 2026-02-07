@@ -4968,6 +4968,13 @@ function DropItem(slotIndex, item) {
     // Remove from inventory if found
     if (actualIndex >= 0) {
         playerData.inventory.splice(actualIndex, 1);
+        
+        // Special handling for boomerangs - also decrement the count
+        if (item.type === 'boomerang') {
+            playerData.boomerangs = Math.max(0, playerData.boomerangs - (item.quantity || 1));
+        } else if (item.type === 'bigBoomerang') {
+            playerData.bigBoomerangs = Math.max(0, playerData.bigBoomerangs - (item.quantity || 1));
+        }
     } else {
         // Item not found in inventory, don't drop it (prevents duplication)
         console.warn('Item not found in inventory, cannot drop');
@@ -5050,6 +5057,11 @@ class DroppedEvidence extends MyGameObject
     
     Update()
     {
+        // Don't update destroyed objects
+        if (this.isDestroyed) {
+            return;
+        }
+        
         // Check if 1 game hour has passed
         if (gameTime) {
             let currentHour = gameTime.gameHour;
@@ -5073,6 +5085,10 @@ class DroppedEvidence extends MyGameObject
         // Let player pick it up (only after delay has elapsed and not already picked up)
         if (!this.isPickedUp && player && !player.IsDead() && this.pickupDelay.Elapsed() && player.IsTouching(this)) {
             this.Pickup();
+            // If destroyed during pickup, don't continue updating
+            if (this.isDestroyed) {
+                return;
+            }
         }
         
         super.Update();
@@ -5107,6 +5123,14 @@ class DroppedEvidence extends MyGameObject
         // Add back to inventory if there's space
         if (playerData && playerData.inventory && playerData.inventory.length < 16) {
             playerData.inventory.push(this.item);
+            
+            // Special handling for boomerangs - also increment the count
+            if (this.item.type === 'boomerang') {
+                playerData.boomerangs += (this.item.quantity || 1);
+            } else if (this.item.type === 'bigBoomerang') {
+                playerData.bigBoomerangs += (this.item.quantity || 1);
+            }
+            
             SaveGameState();
             PlaySound(10); // Use coin pickup sound
             this.Destroy();
