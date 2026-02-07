@@ -461,8 +461,9 @@ app.post('/api/cases/parse', async (req, res) => {
 Your task:
 1. Identify up to 4 individuals involved in the case (plaintiffs, defendants, witnesses, etc.)
 2. For each individual, identify their role (e.g., "defendant", "wife", "owner", "plaintiff", "witness", "victim")
-3. For each individual, determine if they are deceased (dead) in the case. Set "isDeceased" to true if the case mentions they died, were killed, are deceased, or are dead. Otherwise set it to false.
-4. Extract evidence and facts from the case (e.g., "Ross has been to jail before", "The property was valued at $13,000")
+3. The Judge should never be an individual in the case.
+4. For each individual, determine if they are deceased (dead) in the case. Set "isDeceased" to true if the case mentions they died, were killed, are deceased, or are dead. Otherwise set it to false.
+5. Extract evidence and facts from the case (e.g., "Ross has been to jail before", "The property was valued at $13,000")
 
 IMPORTANT: Only include living individuals (isDeceased: false) in the individuals array. Do NOT include deceased individuals - they cannot be assigned to NPCs in the game.
 
