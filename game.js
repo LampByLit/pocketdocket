@@ -1808,8 +1808,19 @@ class Player extends MyGameObject
             PlaySound(11);
         }
     
-        // Don't allow boomerang throw if inventory modal is open
-        if (MouseWasPressed() && (playerData.boomerangs|| playerData.bigBoomerangs) && !inventoryOpen)
+        // Don't allow boomerang throw if any modal, dialogue, or menu is open
+        let canThrowBoomerang = !inventoryOpen &&
+                                !storeModalOpen &&
+                                !lawSchoolModalOpen &&
+                                !gameOverModalOpen &&
+                                !calendarOpen &&
+                                !evidenceNamingModalOpen &&
+                                !evidenceViewModalOpen &&
+                                !(typeof IsDialogueModalOpen !== 'undefined' && IsDialogueModalOpen()) &&
+                                !(typeof IsJudgmentModalOpen !== 'undefined' && IsJudgmentModalOpen()) &&
+                                !(typeof IsRentModalOpen !== 'undefined' && IsRentModalOpen()) &&
+                                !(typeof IsPenaltyModalOpen !== 'undefined' && IsPenaltyModalOpen());
+        if (MouseWasPressed() && (playerData.boomerangs|| playerData.bigBoomerangs) && canThrowBoomerang)
         {
             // throw boomerang
             let isBig = 0;
