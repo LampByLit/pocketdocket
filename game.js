@@ -2042,9 +2042,14 @@ class Player extends MyGameObject
             mainCanvasContext.scale(mirror ? -s.x : s.x, s.y);
             
             // Draw the sprite
+            let drawTileY = tileY;
+            if (shadowRenderPass && (image === tileImage5 || image === tileImage6)) {
+                // For skin shadows, always use row 4 (default skin shadow row)
+                drawTileY = 4;
+            }
             mainCanvasContext.drawImage(drawImage,
                 tileX * tileSize + renderTileShrink,
-                tileY * tileSize + renderTileShrink,
+                drawTileY * tileSize + renderTileShrink,
                 tileSize - 2 * renderTileShrink,
                 tileSize - 2 * renderTileShrink, -.5, -.5, 1, 1);
             
